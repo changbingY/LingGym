@@ -1,0 +1,26 @@
+Question 0:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Dán tín dé ___ ín.
+Gloss (with missing item): that thing BE.LOC ___ 3SG.INDP
+The English translation of this sentence is:‘That thing is hers.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Once the epenthetic segment is present, there is no phonotactic difference with a word in which the final consonant forms an integral part of the root like máred ‘marry’ in \REF{ex:key:66}. Another example featuring epenthesis follows, involving the general associative preposition the morpheme ___ ‘\textsc{prep}’. In \REF{ex:key:73}, we find /r/ epenthesis, in \REF{ex:key:74}, suppletive allomorphy:
+A: word: sɔ́rin=an	 gloss: make.sorry=3SG.OBJ
+B: word: wɔ́l	 gloss: world
+C: word: fɔ́s	 gloss: first
+D: word: fɔ	 gloss: PREP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 1:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Di tín ___ bɔkú.
+Gloss (with missing item): DEF thing ___ much
+The English translation of this sentence is:‘This made her feel very sorry.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Instead, a word-final nasal /n/ appears at the clitic boundary, thus avoiding the LL vowel hiatus that should trigger suppletive allomorphy, as in \REF{ex:key:78}:
+A: word: sɔ́rin=an	 gloss: make.sorry=3SG.OBJ
+B: word: sɔ́ri	 gloss: sorry
+C: word: kɔntri-mán	 gloss: country.CPD-man
+D: word: mék=an	 gloss: make=3SG.OBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+

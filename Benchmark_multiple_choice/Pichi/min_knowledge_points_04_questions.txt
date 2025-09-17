@@ -1,0 +1,546 @@
+Question 0:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Nó bɔ́dí ___ dé na pueblo.
+Gloss (with missing item): NEG body ___ BE.LOC LOC village
+The English translation of this sentence is:‘Nobody is in the village.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Human propensities are divided between inchoative-stative (e.g. gudhát ‘be good-hearted’, wíkɛd ‘be wicked’, badhát ‘be mean’, klɛ́va ‘be clever’) and dynamic verbs (e.g. gládin ‘be glad’, jɛ́lɔs ‘be envious’) according to whether they denote intrinsic or transient properties. Resultatives{\fff} are exclusively expressed through the stative readings of labile change-of-state verbs (e.g. brók ‘break, be broken’, chɛ́r ‘tear, be torn’, lɔ́s ‘lose, be lost’ and wɛ́r ‘be dressed’). Semantic types like position or location are expressed through other means, such as copula clauses featuring the locative-existential copula dé (cf. e.g. \ref{ex:key:793}–\ref{ex:key:794}) in combination with adverbials, or through locative verbs like {\fff}lé ‘lie’ and tínap ‘stand (up)’ (cf. \sectref{sec:8.1.3}).
+A: word: nɛ́a	 gloss: NEG.PRF
+B: word: sté	 gloss: stay
+C: word: nóto	 gloss: NEG.FOC
+D: word: nó	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 1:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Nó bɔ́dí nó ___ na pueblo.
+Gloss (with missing item): NEG body NEG ___ LOC village
+The English translation of this sentence is:‘Nobody is in the village.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Human propensities are divided between inchoative-stative (e.g. gudhát ‘be good-hearted’, wíkɛd ‘be wicked’, badhát ‘be mean’, klɛ́va ‘be clever’) and dynamic verbs (e.g. gládin ‘be glad’, jɛ́lɔs ‘be envious’) according to whether they denote intrinsic or transient properties. Resultatives{\fff} are exclusively expressed through the stative readings of labile change-of-state verbs (e.g. brók ‘break, be broken’, chɛ́r ‘tear, be torn’, lɔ́s ‘lose, be lost’ and wɛ́r ‘be dressed’). Semantic types like position or location are expressed through other means, such as copula clauses featuring the locative-existential copula the morpheme ___ (cf. e.g. \ref{ex:key:793}–\ref{ex:key:794}) in combination with adverbials, or through locative verbs like {\fff}lé ‘lie’ and tínap ‘stand (up)’ (cf. \sectref{sec:8.1.3}).
+A: word: ser	 gloss: be
+B: word: kin	 gloss: HAB
+C: word: dé”	 gloss: BE.LOC
+D: word: dé	 gloss: BE.LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Sé “ús=tín ___ dé ínsay dé?”
+Gloss (with missing item): QUOT Q=thing ___ BE.LOC inside there
+The English translation of this sentence is:‘(They) said “what is usually in there?”‘
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Human propensities are divided between inchoative-stative (e.g. gudhát ‘be good-hearted’, wíkɛd ‘be wicked’, badhát ‘be mean’, klɛ́va ‘be clever’) and dynamic verbs (e.g. gládin ‘be glad’, jɛ́lɔs ‘be envious’) according to whether they denote intrinsic or transient properties. Resultatives{\fff} are exclusively expressed through the stative readings of labile change-of-state verbs (e.g. brók ‘break, be broken’, chɛ́r ‘tear, be torn’, lɔ́s ‘lose, be lost’ and wɛ́r ‘be dressed’). Semantic types like position or location are expressed through other means, such as copula clauses featuring the locative-existential copula dé (cf. e.g. \ref{ex:key:793}–\ref{ex:key:794}) in combination with adverbials, or through locative verbs like {\fff}lé ‘lie’ and tínap ‘stand (up)’ (cf. \sectref{sec:8.1.3}).
+A: word: skin	 gloss: body
+B: word: dé”	 gloss: BE.LOC
+C: word: lɔ́n	 gloss: long
+D: word: kin	 gloss: HAB
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 3:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Sé “ús=tín kin ___ ínsay dé?”
+Gloss (with missing item): QUOT Q=thing HAB ___ inside there
+The English translation of this sentence is:‘(They) said “what is usually in there?”‘
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Human propensities are divided between inchoative-stative (e.g. gudhát ‘be good-hearted’, wíkɛd ‘be wicked’, badhát ‘be mean’, klɛ́va ‘be clever’) and dynamic verbs (e.g. gládin ‘be glad’, jɛ́lɔs ‘be envious’) according to whether they denote intrinsic or transient properties. Resultatives{\fff} are exclusively expressed through the stative readings of labile change-of-state verbs (e.g. brók ‘break, be broken’, chɛ́r ‘tear, be torn’, lɔ́s ‘lose, be lost’ and wɛ́r ‘be dressed’). Semantic types like position or location are expressed through other means, such as copula clauses featuring the locative-existential copula the morpheme ___ (cf. e.g. \ref{ex:key:793}–\ref{ex:key:794}) in combination with adverbials, or through locative verbs like {\fff}lé ‘lie’ and tínap ‘stand (up)’ (cf. \sectref{sec:8.1.3}).
+A: word: ser	 gloss: be
+B: word: dé	 gloss: BE.LOC
+C: word: dé”	 gloss: BE.LOC
+D: word: quinientos	 gloss: five.hundred
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 4:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Kán tót bɛlɛ́, bigín de ___ náw, hala-hála.
+Gloss (with missing item): PFV carry belly begin IPFV ___ now RED.CPD-shout
+The English translation of this sentence is:‘(Then she) became pregnant, (and) began lamenting and lamenting.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Compounding through tone deletion also characterises the reduplication of dynamic verbs in order to derive verbal number \REF{ex:key:100}. This kind of derivation is fully productive for all dynamic verbs. Equally, it can be observed with a small number of lexicalised reduplications involving other word classes (cf. \sectref{sec:4.5.3}):
+A: word: chap-cháp	 gloss: RED.CPD-chop
+B: word: mɔ́ch	 gloss: much
+C: word: hála	 gloss: shout
+D: word: hala-hála	 gloss: RED.CPD-shout
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 5:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): E bin dɔ́n pás lɔ́n tɛ́n, nóto ___ lɔ́n tɛ́n.
+Gloss (with missing item): 3SG.SBJ IPFV PRF pass long time NEG.FOC ___ REP time
+The English translation of this sentence is:‘It happened long ago, not very long ago.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \is{cardinal numerals}The meanings of these expressions are semantically distinct from the meanings of their components in varying degrees. The degree of semantic opaqueness of each collocation is reflected in the orthographic choice of writing them as single or separate words. A good indicator of the degree of semantic unity of the collocations in \REF{ex:key:103} is their behaviour during repetition\is{repetition} for emphasis (cf. \ref{ex:key:152} further below). Even in the lexicalised expressions (e.g. bádtɛn ‘unfortunately) each morpheme nevertheless retains its original pitch, as shown by tone marking. This renders complex words with a sequence of two H tones (the second H undergoes downstep).
+A: word: años	 gloss: years
+B: word: lɔ́n	 gloss: long
+C: word: dɔ́n	 gloss: PRF
+D: word: hála	 gloss: shout
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 6:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): E bin dɔ́n pás lɔ́n tɛ́n, nóto lɔ́n ___ tɛ́n.
+Gloss (with missing item): 3SG.SBJ IPFV PRF pass long time NEG.FOC long ___ time
+The English translation of this sentence is:‘It happened long ago, not very long ago.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \is{cardinal numerals}The meanings of these expressions are semantically distinct from the meanings of their components in varying degrees. The degree of semantic opaqueness of each collocation is reflected in the orthographic choice of writing them as single or separate words. A good indicator of the degree of semantic unity of the collocations in \REF{ex:key:103} is their behaviour during repetition\is{repetition} for emphasis (cf. \ref{ex:key:152} further below). Even in the lexicalised expressions (e.g. bádtɛn ‘unfortunately) each morpheme nevertheless retains its original pitch, as shown by tone marking. This renders complex words with a sequence of two H tones (the second H undergoes downstep).
+A: word: lɔ́n	 gloss: REP
+B: word: hala-hála	 gloss: RED.CPD-shout
+C: word: dɔ́n	 gloss: PRF
+D: word: diplomático	 gloss: diplomatic
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 7:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): E sé frɔn ___ hála dí pikín nó slíp mɔ́.
+Gloss (with missing item): 3SG.SBJ QUOT from ___ shout this child NEG sleep again
+The English translation of this sentence is:‘She said from that shout(ing) onwards this child didn’t sleep anymore.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:key:104}, the dynamic verb hála ‘shout’ is used as a dynamic noun or “action nominal”, (\citealt{ComrieThompson1985}). In \REF{ex:key:105}, the inchoative-stative verb gúd ‘be good’ is employed as a stative noun or “state nominal” (\citealt{ComrieThompson1985}). The use of nominalised verbs as cognate objects \is{cognate objects}is common for emphasis (cf. \sectref{sec:9.3.3}). Cognate objects\is{objects} behave no differently from other nominalised verbs:
+A: word: dán	 gloss: that
+B: word: chap-cháp	 gloss: RED.CPD-chop
+C: word: dís	 gloss: this
+D: word: dáns	 gloss: dance
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 8:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): E sé frɔn dán ___ dí pikín nó slíp mɔ́.
+Gloss (with missing item): 3SG.SBJ QUOT from that ___ this child NEG sleep again
+The English translation of this sentence is:‘She said from that shout(ing) onwards this child didn’t sleep anymore.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:key:104}, the dynamic verb the morpheme ___ ‘its gloss ___’ is used as a dynamic noun or “action nominal”, (\citealt{ComrieThompson1985}). In \REF{ex:key:105}, the inchoative-stative verb gúd ‘be good’ is employed as a stative noun or “state nominal” (\citealt{ComrieThompson1985}). The use of nominalised verbs as cognate objects \is{cognate objects}is common for emphasis (cf. \sectref{sec:9.3.3}). Cognate objects\is{objects} behave no differently from other nominalised verbs:
+A: word: hala-hála	 gloss: RED.CPD-shout
+B: word: gúd	 gloss: good
+C: word: hála	 gloss: shout
+D: word: síng	 gloss: síng
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 9:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): \'{A}fta ínsay ___ gúd wé a trata yú na dé mi mán go chɛ́k sé mi rabia dɔ́n fínis.
+Gloss (with missing item): then inside ___ good SUB 1SG.SBJ treat 2SG.INDP FOC there 1SG.POSS man POT think QUOT 1SG.POSS anger PRF finish
+The English translation of this sentence is:‘Then through that goodness that I treated you with, that’s where my husband would think that my anger has finished.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:key:104}, the dynamic verb hála ‘shout’ is used as a dynamic noun or “action nominal”, (\citealt{ComrieThompson1985}). In \REF{ex:key:105}, the inchoative-stative verb gúd ‘be good’ is employed as a stative noun or “state nominal” (\citealt{ComrieThompson1985}). The use of nominalised verbs as cognate objects \is{cognate objects}is common for emphasis (cf. \sectref{sec:9.3.3}). Cognate objects\is{objects} behave no differently from other nominalised verbs:
+A: word: gúd	 gloss: good
+B: word: dís	 gloss: this
+C: word: dáns	 gloss: dance
+D: word: dán	 gloss: that
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 10:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): \'{A}fta ínsay dán ___ wé a trata yú na dé mi mán go chɛ́k sé mi rabia dɔ́n fínis.
+Gloss (with missing item): then inside that ___ SUB 1SG.SBJ treat 2SG.INDP FOC there 1SG.POSS man POT think QUOT 1SG.POSS anger PRF finish
+The English translation of this sentence is:‘Then through that goodness that I treated you with, that’s where my husband would think that my anger has finished.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:key:104}, the dynamic verb hála ‘shout’ is used as a dynamic noun or “action nominal”, (\citealt{ComrieThompson1985}). In \REF{ex:key:105}, the inchoative-stative verb the morpheme ___ ‘be its gloss ___’ is employed as a stative noun or “state nominal” (\citealt{ComrieThompson1985}). The use of nominalised verbs as cognate objects \is{cognate objects}is common for emphasis (cf. \sectref{sec:9.3.3}). Cognate objects\is{objects} behave no differently from other nominalised verbs:
+A: word: “gúd	 gloss: good
+B: word: bɛ́ta	 gloss: very.good
+C: word: gúd	 gloss: good
+D: word: dɔ́n	 gloss: PRF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 11:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): A fía sé dɛn go ___ mi pikín fɔ mí.
+Gloss (with missing item): 1SG.SBJ fear QUOT 3PL POT ___ 1SG.POSS child PREP 1SG.INDP
+The English translation of this sentence is:‘I feared that they could impregnate me my child.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In contrast, very few nouns are attested in the syntactic position of verbs. The noun the morpheme ___ ‘belly’ \REF{ex:key:107} may be used as a verb with the meaning ‘its gloss ___’ \REF{ex:key:108}. Other noun-verb pairs in the corpus that may be employed in a similar way are kaká ‘defecate, faeces’, pipí ‘urinate, urine’, rút ‘root, uproot’, latrín ‘toilet, go to toilet’. These rare cases are not listed in \tabref{tab:key:4.3} because they are lexicalised, and there is hence no productive noun-verb conversion.
+A: word: limón	 gloss: lemon
+B: word: mék	 gloss: make
+C: word: lɛ́k	 gloss: like
+D: word: bɛlɛ́	 gloss: impregnate
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 12:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Dí gɛ́l pikín ___ ó.
+Gloss (with missing item): this girl child ___ SP
+The English translation of this sentence is:‘This girl is really too lean.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A verb may appear as the head of a compound featuring the multifunctional word óva ‘over, be excessive, too much’ as the first component. The resulting compound verb expresses an excessive degree of the situation denoted by the verb. It is therefore normally formed with verbs denoting properties, such as dráy ‘be dry, lean’ \REF{ex:key:127}, or verbs whose meaning contains an implicit gradation, such as dríng ‘drink (alcohol)’ \REF{ex:key:128}.
+A: word: hála	 gloss: shout
+B: word: hɔt-wɔtá	 gloss: hot.CPD-water
+C: word: dráy	 gloss: dry
+D: word: ova-dráy	 gloss: over.CPD-be.dry
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 13:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): A dɔ́n ___ mɔ́ch sté na Panyá.
+Gloss (with missing item): 1SG.SBJ PRF ___ much stay LOC Spain
+The English translation of this sentence is:‘I have stayed in Spain for too long.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Many speakers do not accept degree compounds formed with verbs that are not property items. The alternative to the ungrammatical example \REF{ex:key:129} is provided in \REF{ex:key:130}:
+A: word: nɔmba-tú	 gloss: number.CPD-two
+B: word: tú	 gloss: too
+C: word: hála	 gloss: shout
+D: word: gasta	 gloss: spend
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 14:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): A dɔ́n tú ___ sté na Panyá.
+Gloss (with missing item): 1SG.SBJ PRF too ___ stay LOC Spain
+The English translation of this sentence is:‘I have stayed in Spain for too long.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Many speakers do not accept degree compounds formed with verbs that are not property items. The alternative to the ungrammatical example \REF{ex:key:129} is provided in \REF{ex:key:130}:
+A: word: caro	 gloss: expensive
+B: word: mɔ́ch	 gloss: much
+C: word: rɔn-rɔ́n	 gloss: RED.CPD-run
+D: word: jɔ́ch	 gloss: judge
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 15:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): A dɔ́n tú mɔ́ch ___ na Panyá.
+Gloss (with missing item): 1SG.SBJ PRF too much ___ LOC Spain
+The English translation of this sentence is:‘I have stayed in Spain for too long.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Many speakers do not accept degree compounds formed with verbs that are not property items. The alternative to the ungrammatical example \REF{ex:key:129} is provided in \REF{ex:key:130}:
+A: word: dán	 gloss: that
+B: word: lɛ́f	 gloss: remain
+C: word: sóté	 gloss: until
+D: word: sté	 gloss: stay
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 16:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Yɛ́stadé wi kán gó ___ mɔ́.
+Gloss (with missing item): yesterday 1PL PFV go ___ more
+The English translation of this sentence is:‘Yesterday we went walking around again.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Reduplication modifies the meaning of the verb root. The reduplicated verb may therefore appear in any syntactic position that a non-reduplicated verb may be found in. In \REF{ex:key:135}, a reduplicated wáka ‘walk’ appears as a V2 in an SVC. Sentence \REF{ex:key:136} features a reduplicated rɔ́n ‘run’ as a nominalised verb preceded by the demonstrative dí ‘this’:
+A: word: waka-wáka	 gloss: RED.CPD-walk
+B: word: náw	 gloss: now
+C: word: tɔn-tɔ́n	 gloss: RED.CPD-turn
+D: word: wáka	 gloss: walk
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 17:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pero dí ___ nó de gí nó nátín dé.
+Gloss (with missing item): but this ___ NEG IPFV give NEG nothing there
+The English translation of this sentence is:‘But this running about aimlessly does not lead anywhere there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Reduplication modifies the meaning of the verb root. The reduplicated verb may therefore appear in any syntactic position that a non-reduplicated verb may be found in. In \REF{ex:key:135}, a reduplicated wáka ‘walk’ appears as a V2 in an SVC. Sentence \REF{ex:key:136} features a reduplicated rɔ́n ‘run’ as a nominalised verb preceded by the demonstrative dí ‘this’:
+A: word: kin	 gloss: HAB
+B: word: trɔ́n	 gloss: be.strong
+C: word: rɔn-rɔ́n	 gloss: RED.CPD-run
+D: word: chap-cháp	 gloss: RED.CPD-chop
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 18:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Dɛn kin de ___ dɛn sɛ́f kɔ́tlas ó.
+Gloss (with missing item): 3PL HAB IPFV ___ 3PL self cutlass SP
+The English translation of this sentence is:‘(Mind you) they have the habit of chopping each other up with cutlasses.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Further, iterative reduplication is also attested with the potential mood marker go ‘\textsc{pot’}, as in the following example, and the habitual marker kin (cf. \ref{ex:key:142}):
+A: word: rɔn-rɔ́n	 gloss: RED.CPD-run
+B: word: chapea	 gloss: weed
+C: word: chap-cháp	 gloss: RED.CPD-chop
+D: word: mék	 gloss: make
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 19:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Dɛn kin de chap-cháp dɛn sɛ́f ___ ó.
+Gloss (with missing item): 3PL HAB IPFV RED.CPD-chop 3PL self ___ SP
+The English translation of this sentence is:‘(Mind you) they have the habit of chopping each other up with cutlasses.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Further, iterative reduplication is also attested with the potential mood marker go ‘\textsc{pot’}, as in the following example, and the habitual marker kin (cf. \ref{ex:key:142}):
+A: word: kɔ́tlas	 gloss: cutlass
+B: word: “kɔ́t”	 gloss: cut
+C: word: kɔ́t	 gloss: cut
+D: word: dán	 gloss: that
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 20:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mí wet Rubi wi ___ jwɛn-jwɛ́n, wi báy pía, wi báy sadín, wi báy tomates, wi desayuna.
+Gloss (with missing item): 1SG.INDP with NAME 1PL ___ RED.CPD-join 1PL buy avocado 1PL buy sardine 1PL buy tomatoes 1PL breakfast
+The English translation of this sentence is:‘Me and Rubi, we joined up, we bought avocados, we bought sardines, we bought tomatoes, we had breakfast.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Further, the interaction of verbal and nominal plurality often characterises the use of iterative aspect. The presence of plural referents generally induces a sense of iterative-distributive action of the situation denoted by the verb. For example, the light verb construction in \REF{ex:key:140} features the reduplicated nominalised verb jwɛ́n ‘join’. The presence of the plural subject mí wet Rubi ‘me and Rubi’, which is picked up by the resumptive pronoun{\fff} wi ‘\textsc{1pl}’, induces a cumulative meaning of the reduplicated and deverbal noun jwɛ́n ‘join’:
+A: word: mék=an	 gloss: make=3SG.OBJ
+B: word: smɔ́l	 gloss: small
+C: word: mék	 gloss: make
+D: word: jám	 gloss: make.contact
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 21:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mí wet Rubi wi mék ___ wi báy pía, wi báy sadín, wi báy tomates, wi desayuna.
+Gloss (with missing item): 1SG.INDP with NAME 1PL make ___ 1PL buy avocado 1PL buy sardine 1PL buy tomatoes 1PL breakfast
+The English translation of this sentence is:‘Me and Rubi, we joined up, we bought avocados, we bought sardines, we bought tomatoes, we had breakfast.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Further, the interaction of verbal and nominal plurality often characterises the use of iterative aspect. The presence of plural referents generally induces a sense of iterative-distributive action of the situation denoted by the verb. For example, the light verb construction in \REF{ex:key:140} features the reduplicated nominalised verb jwɛ́n ‘join’. The presence of the plural subject mí wet Rubi ‘me and Rubi’, which is picked up by the resumptive pronoun{\fff} wi ‘\textsc{1pl}’, induces a cumulative meaning of the reduplicated and deverbal noun jwɛ́n ‘join’:
+A: word: jwɛn-jwɛ́n	 gloss: RED.CPD-join
+B: word: quince	 gloss: fifteen
+C: word: jwɛ́n	 gloss: join
+D: word: ova-dráy	 gloss: over.CPD-be.dry
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 22:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Dɛn kin de ___ dɛn sɛ́f kɔ́tlas ó.
+Gloss (with missing item): 3PL HAB IPFV ___ 3PL self cutlass SP
+The English translation of this sentence is:‘(Mind you) they have the habit of chopping each other up with cutlasses.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The iterative-distributive sense of the reduplicated verb is particularly evident in a reciprocal{\fff} construction like \REF{ex:key:142}. We have seen that a single form, the pronominal sɛ́f ‘self, \textsc{emp}’ is employed as both the reflexive{\fff} and reciprocal anaphor. Hence there is room for ambiguity between the reflexive and reciprocal senses when a clause features a plural subject. One disambiguating feature amongst others is the presence of a reduplicated verb. There is no formal feature contained in \REF{ex:key:142} that would categorically force a reciprocal interpretation on the clause. But the use of reduplication, the presence of plural referents, and the meaning of the verb cháp ‘chop’ and its instrument{\fff} object kɔ́tlas ‘cutlass’ collude to induce a reciprocal rather than a reflexive meaning of the clause:
+A: word: gúd	 gloss: good
+B: word: chap-cháp	 gloss: RED.CPD-chop
+C: word: chapea	 gloss: weed
+D: word: rɔn-rɔ́n	 gloss: RED.CPD-run
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 23:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Dɛn kin de chap-cháp dɛn sɛ́f ___ ó.
+Gloss (with missing item): 3PL HAB IPFV RED.CPD-chop 3PL self ___ SP
+The English translation of this sentence is:‘(Mind you) they have the habit of chopping each other up with cutlasses.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The iterative-distributive sense of the reduplicated verb is particularly evident in a reciprocal{\fff} construction like \REF{ex:key:142}. We have seen that a single form, the pronominal sɛ́f ‘self, \textsc{emp}’ is employed as both the reflexive{\fff} and reciprocal anaphor. Hence there is room for ambiguity between the reflexive and reciprocal senses when a clause features a plural subject. One disambiguating feature amongst others is the presence of a reduplicated verb. There is no formal feature contained in \REF{ex:key:142} that would categorically force a reciprocal interpretation on the clause. But the use of reduplication, the presence of plural referents, and the meaning of the verb cháp ‘chop’ and its instrument{\fff} object the morpheme ___ ‘its gloss ___’ collude to induce a reciprocal rather than a reflexive meaning of the clause:
+A: word: “kɔ́t”	 gloss: cut
+B: word: kɔ́t	 gloss: cut
+C: word: wɔ-wɔwɔ́	 gloss: ?RED.CPD-ugly
+D: word: kɔ́tlas	 gloss: cutlass
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 24:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Dɛn kin de ___ dɛn sɛ́f kɔ́tlas ó.
+Gloss (with missing item): 3PL HAB IPFV ___ 3PL self cutlass SP
+The English translation of this sentence is:‘(Mind you) they have the habit of chopping each other up with cutlasses.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The iterative-distributive sense of the reduplicated verb is particularly evident in a reciprocal{\fff} construction like \REF{ex:key:142}. We have seen that a single form, the pronominal sɛ́f ‘self, \textsc{emp}’ is employed as both the reflexive{\fff} and reciprocal anaphor. Hence there is room for ambiguity between the reflexive and reciprocal senses when a clause features a plural subject. One disambiguating feature amongst others is the presence of a reduplicated verb. There is no formal feature contained in \REF{ex:key:142} that would categorically force a reciprocal interpretation on the clause. But the use of reduplication, the presence of plural referents, and the meaning of the verb cháp ‘chop’ and its instrument{\fff} object kɔ́tlas ‘cutlass’ collude to induce a reciprocal rather than a reflexive meaning of the clause:
+A: word: rɔn-rɔ́n	 gloss: RED.CPD-run
+B: word: bíg	 gloss: big
+C: word: chapea	 gloss: weed
+D: word: chap-cháp	 gloss: RED.CPD-chop
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 25:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Dɛn kin de chap-cháp dɛn sɛ́f ___ ó.
+Gloss (with missing item): 3PL HAB IPFV RED.CPD-chop 3PL self ___ SP
+The English translation of this sentence is:‘(Mind you) they have the habit of chopping each other up with cutlasses.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The iterative-distributive sense of the reduplicated verb is particularly evident in a reciprocal{\fff} construction like \REF{ex:key:142}. We have seen that a single form, the pronominal sɛ́f ‘self, \textsc{emp}’ is employed as both the reflexive{\fff} and reciprocal anaphor. Hence there is room for ambiguity between the reflexive and reciprocal senses when a clause features a plural subject. One disambiguating feature amongst others is the presence of a reduplicated verb. There is no formal feature contained in \REF{ex:key:142} that would categorically force a reciprocal interpretation on the clause. But the use of reduplication, the presence of plural referents, and the meaning of the verb cháp ‘chop’ and its instrument{\fff} object the morpheme ___ ‘its gloss ___’ collude to induce a reciprocal rather than a reflexive meaning of the clause:
+A: word: jwɛn-jwɛ́n	 gloss: RED.CPD{}-join
+B: word: kɔ́t	 gloss: cut
+C: word: “kɔ́t”	 gloss: cut
+D: word: kɔ́tlas	 gloss: cutlass
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 26:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): E sé e wánt kán ___ fɔ Guinea.
+Gloss (with missing item): 3SG.SBJ QUOT 3SG.SBJ want come ___ PREP Equatorial.Guinea
+The English translation of this sentence is:‘He said he wanted to come move around a little in Equatorial Guinea.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:key:143}, the intransitive use of the reduplicated verb tɔ́n ‘turn’, in concert with the singular subject e ‘\textsc{3sg.sbj}’, favours the related readings of low intensity or casualness. Further examples for these nuances are the reduplication of rɔ́b ‘rub’ in \REF{ex:key:138} above, and of táyt ‘tighten’ in \REF{ex:key:145} below. All these examples may also be seen to involve a nuance of lack of control by the subject:
+A: word: bɛlɛ́	 gloss: belly
+B: word: chench-chénch	 gloss: RED.CPD-change
+C: word: tɔn-tɔ́n	 gloss: RED.CPD-turn
+D: word: tɔ́n	 gloss: turn
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 27:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): A de kɔmɔ́t na tɔ́n ___ náw.
+Gloss (with missing item): 1SG.SBJ IPFV come.out LOC town ___ REP
+The English translation of this sentence is:‘I coming from town right now.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Repetition produces a range of emphatic, intensifying nuances. The core meaning of repetition is augmentative, hence an iconic “more of the same”. However, the expression of plural number does not lie within the functional range of repetition. In the following three examples, we witness the use of intensifying repetition for emphasis with the temporal adverb the morpheme ___ ‘its gloss ___’ \REF{ex:key:146}, the locative noun dɔ́n ‘down’ \REF{ex:key:147}, the common noun fámbul ‘family’, and the attributively used property item bɔkú ‘(be) much’ \REF{ex:key:148}:
+A: word: áfta	 gloss: then
+B: word: waka-wáka	 gloss: RED.CPD-walk
+C: word: nátín	 gloss: nothing
+D: word: náw	 gloss: now
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 28:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Bɔt ín sidɔ́n ___ dɔ́n dɔ́n yandá.
+Gloss (with missing item): but 3SG.INDP stay ___ REP REP yonder
+The English translation of this sentence is:‘But he stays far down over there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Repetition produces a range of emphatic, intensifying nuances. The core meaning of repetition is augmentative, hence an iconic “more of the same”. However, the expression of plural number does not lie within the functional range of repetition. In the following three examples, we witness the use of intensifying repetition for emphasis with the temporal adverb náw ‘now’ \REF{ex:key:146}, the locative noun the morpheme ___ ‘its gloss ___’ \REF{ex:key:147}, the common noun fámbul ‘family’, and the attributively used property item bɔkú ‘(be) much’ \REF{ex:key:148}:
+A: word: bɔ́n	 gloss: give.birth
+B: word: sidɔ́n	 gloss: sit
+C: word: dɔ́n	 gloss: down
+D: word: chap-cháp	 gloss: RED.CPD-chop
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 29:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Bɔt ín sidɔ́n dɔ́n ___ dɔ́n yandá.
+Gloss (with missing item): but 3SG.INDP stay down ___ REP yonder
+The English translation of this sentence is:‘But he stays far down over there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Repetition produces a range of emphatic, intensifying nuances. The core meaning of repetition is augmentative, hence an iconic “more of the same”. However, the expression of plural number does not lie within the functional range of repetition. In the following three examples, we witness the use of intensifying repetition for emphasis with the temporal adverb náw ‘now’ \REF{ex:key:146}, the locative noun the morpheme ___ ‘down’ \REF{ex:key:147}, the common noun fámbul ‘family’, and the attributively used property item bɔkú ‘(be) much’ \REF{ex:key:148}:
+A: word: wɔ-wɔwɔ́	 gloss: ?RED.CPD-ugly
+B: word: sidɔ́n	 gloss: sit
+C: word: dɔ́n	 gloss: REP
+D: word: diplomático	 gloss: diplomatic
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 30:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Bɔt ín sidɔ́n dɔ́n dɔ́n ___ yandá.
+Gloss (with missing item): but 3SG.INDP stay down REP ___ yonder
+The English translation of this sentence is:‘But he stays far down over there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Repetition produces a range of emphatic, intensifying nuances. The core meaning of repetition is augmentative, hence an iconic “more of the same”. However, the expression of plural number does not lie within the functional range of repetition. In the following three examples, we witness the use of intensifying repetition for emphasis with the temporal adverb náw ‘now’ \REF{ex:key:146}, the locative noun the morpheme ___ ‘down’ \REF{ex:key:147}, the common noun fámbul ‘family’, and the attributively used property item bɔkú ‘(be) much’ \REF{ex:key:148}:
+A: word: jwɛn-jwɛ́n	 gloss: RED.CPD{}-join
+B: word: diplomático	 gloss: diplomatic
+C: word: dɔ́n	 gloss: REP
+D: word: sidɔ́n	 gloss: sit
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 31:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ quinientos quinientos.
+Gloss (with missing item): ___ REP REP
+The English translation of this sentence is:‘Five hundred each.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Numerals of \ili{Spanish} origin may be repeated for distributive meaning in the same way as Pichi numerals. Sentence \REF{ex:key:150} features the threefold repetition of the Spanish numeral the morpheme ___ ‘five hundred’. It is worthy of note that repeating the numeral more than twice merely extends the distributive sense to additional participants rather than providing an additional emphatic nuance as with the repetition of members of other word class\is{word classes}es:
+A: word: quinientos	 gloss: five.hundred
+B: word: chénch	 gloss: change
+C: word: ova-dráy	 gloss: over.CPD-be.dry
+D: word: trescientos	 gloss: three.hundred
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 32:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Quinientos ___ quinientos.
+Gloss (with missing item): five.hundred ___ REP
+The English translation of this sentence is:‘Five hundred each.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Numerals of \ili{Spanish} origin may be repeated for distributive meaning in the same way as Pichi numerals. Sentence \REF{ex:key:150} features the threefold repetition of the Spanish numeral the morpheme ___ ‘five hundred’. It is worthy of note that repeating the numeral more than twice merely extends the distributive sense to additional participants rather than providing an additional emphatic nuance as with the repetition of members of other word class\is{word classes}es:
+A: word: diplomático	 gloss: diplomatic
+B: word: dɔ́n	 gloss: PRF
+C: word: quinientos	 gloss: REP
+D: word: trescientos	 gloss: three.hundred
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 33:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Yu fít kɛ́r dɛ́n ___ tú.
+Gloss (with missing item): 2SG can carry 3PL.INDP ___ REP
+The English translation of this sentence is:‘You can carry them in pairs.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The preceding examples have shown that various syntactic categories may be subjected to repetition. Nevertheless, the by far most commonly repeated categories are property items functioning as prenominal attributive modifiers like bɔkú in \REF{ex:key:148} above, distributive numerals used as depictive modifiers like the morpheme ___ ‘its gloss ___’ in \REF{ex:key:149} above, and time expressions like náw ‘now’ in \REF{ex:key:146} above. This distribution points towards the fact that repetition is strongly associated with gradable, quantity- and quality-denoting lexical items, as well as with distribution.
+A: word: nɔmba-tú	 gloss: number.CPD-two
+B: word: tú	 gloss: two
+C: word: sɛkɔ́n	 gloss: second
+D: word: bɛlɛ́	 gloss: belly
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 34:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): A de kɔmɔ́t na tɔ́n ___ náw.
+Gloss (with missing item): 1SG.SBJ IPFV come.out LOC town ___ REP
+The English translation of this sentence is:‘I coming from town right now.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The preceding examples have shown that various syntactic categories may be subjected to repetition. Nevertheless, the by far most commonly repeated categories are property items functioning as prenominal attributive modifiers like bɔkú in \REF{ex:key:148} above, distributive numerals used as depictive modifiers like tú ‘two’ in \REF{ex:key:149} above, and time expressions like the morpheme ___ ‘its gloss ___’ in \REF{ex:key:146} above. This distribution points towards the fact that repetition is strongly associated with gradable, quantity- and quality-denoting lexical items, as well as with distribution.
+A: word: náw	 gloss: now
+B: word: áfta	 gloss: then
+C: word: chap-cháp	 gloss: RED.CPD-chop
+D: word: nátín	 gloss: nothing
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 35:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): A de kɔmɔ́t na tɔ́n ___ náw.
+Gloss (with missing item): 1SG.SBJ IPFV come.out LOC town ___ REP
+The English translation of this sentence is:‘I coming from town right now.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The quantificational essence of repetition also transpires when it is applied to time expressions. The corpus contains numerous instances of repeated time expressions with an emphatic, quantificational meaning. The repetition of a temporal adverb like the morpheme ___ ‘its gloss ___’ \REF{ex:key:146} above or a temporal noun like mɔ́nin ‘morning’ in the following sentence renders an intensive meaning ‘early in the morning, at dawn’:
+A: word: áfta	 gloss: then
+B: word: nátín	 gloss: nothing
+C: word: mék	 gloss: make
+D: word: náw	 gloss: now
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 36:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Aa, guineano tú dé sɔn ___ stáyl.
+Gloss (with missing item): INTJ Guinean too BE.LOC some ___ style
+The English translation of this sentence is:‘Guineans behave in a too messed up way.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Now compare the fully \REF{ex:key:160} and partially iterated \REF{ex:key:161} alternatives for wɔwɔ́ ‘(be) ugly, messed up’. In both examples, the property item wɔwɔ́ is employed as a prenominal modifier. Note that a monosyllabic root *wɔ does not exist in Pichi:
+A: word: wɔ-wɔwɔ́	 gloss: ?RED.CPD-ugly
+B: word: chap-cháp	 gloss: RED.CPD-chop
+C: word: wɔwɔ́	 gloss: REP
+D: word: tɔn-tɔ́n	 gloss: RED.CPD-turn
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 37:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Aa, guineano tú dé sɔn ___ stáyl.
+Gloss (with missing item): INTJ Guinean too BE.LOC some ___ style
+The English translation of this sentence is:‘Guineans behave in a too messed up way.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The tonal characteristics of the partial iteration of wɔwɔ́ in \REF{ex:key:161} above are of interest. In the example, the original lexical H tone over the first syllable of the the morpheme ___ before the ligature has been replaced by an L tone. The presence of tone deletion points to the operation of partial reduplication rather than repetition. This contrasts with the iteration of other, attributively used property items in a similar way. In \REF{ex:key:155} and \REF{ex:key:156} above, bíg and smɔ́l undergo repetition, not reduplication. Although this example stands alone, it may be indicative of an area of transition between reduplication and repetition not only in meaning but also in form.
+A: word: wɔ-wɔwɔ́	 gloss: ?RED.CPD-ugly
+B: word: chap-cháp	 gloss: RED.CPD-chop
+C: word: sté	 gloss: stay
+D: word: wɔwɔ́	 gloss: REP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 38:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): A de sí ___ bíg fáya.
+Gloss (with missing item): 1SG.SBJ IPFV see ___ REP fire
+The English translation of this sentence is:‘I was seeing a huge fire.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The tonal characteristics of the partial iteration of wɔwɔ́ in \REF{ex:key:161} above are of interest. In the example, the original lexical H tone over the first syllable of the wɔ-wɔwɔ́ before the ligature has been replaced by an L tone. The presence of tone deletion points to the operation of partial reduplication rather than repetition. This contrasts with the iteration of other, attributively used property items in a similar way. In \REF{ex:key:155} and \REF{ex:key:156} above, the morpheme ___ and smɔ́l undergo repetition, not reduplication. Although this example stands alone, it may be indicative of an area of transition between reduplication and repetition not only in meaning but also in form.
+A: word: smɔ́l	 gloss: small
+B: word: bíl	 gloss: build
+C: word: évi	 gloss: be.heavy
+D: word: bíg	 gloss: big
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 39:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): A de sí bíg ___ fáya.
+Gloss (with missing item): 1SG.SBJ IPFV see big ___ fire
+The English translation of this sentence is:‘I was seeing a huge fire.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The tonal characteristics of the partial iteration of wɔwɔ́ in \REF{ex:key:161} above are of interest. In the example, the original lexical H tone over the first syllable of the wɔ-wɔwɔ́ before the ligature has been replaced by an L tone. The presence of tone deletion points to the operation of partial reduplication rather than repetition. This contrasts with the iteration of other, attributively used property items in a similar way. In \REF{ex:key:155} and \REF{ex:key:156} above, the morpheme ___ and smɔ́l undergo repetition, not reduplication. Although this example stands alone, it may be indicative of an area of transition between reduplication and repetition not only in meaning but also in form.
+A: word: bíg	 gloss: REP
+B: word: diplomático	 gloss: diplomatic
+C: word: quinientos	 gloss: five.hundred
+D: word: bíl	 gloss: build
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 40:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): E de sɛ́l e de pút ___ smɔ́l wán fɔ kɔ́na.
+Gloss (with missing item): 3SG.SBJ IPFV sell 3SG.SBJ IPFV put ___ REP one PREP corner
+The English translation of this sentence is:‘She’s selling (and) she’s putting tiny ones [amounts] to the side.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The tonal characteristics of the partial iteration of wɔwɔ́ in \REF{ex:key:161} above are of interest. In the example, the original lexical H tone over the first syllable of the wɔ-wɔwɔ́ before the ligature has been replaced by an L tone. The presence of tone deletion points to the operation of partial reduplication rather than repetition. This contrasts with the iteration of other, attributively used property items in a similar way. In \REF{ex:key:155} and \REF{ex:key:156} above, bíg and the morpheme ___ undergo repetition, not reduplication. Although this example stands alone, it may be indicative of an area of transition between reduplication and repetition not only in meaning but also in form.
+A: word: smɔ́l	 gloss: small
+B: word: smɔ́ltɛn	 gloss: shortly
+C: word: avioneta	 gloss: small.aircraft
+D: word: bɛlɛ́	 gloss: belly
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 41:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): E de sɛ́l e de pút smɔ́l ___ wán fɔ kɔ́na.
+Gloss (with missing item): 3SG.SBJ IPFV sell 3SG.SBJ IPFV put small ___ one PREP corner
+The English translation of this sentence is:‘She’s selling (and) she’s putting tiny ones [amounts] to the side.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The tonal characteristics of the partial iteration of wɔwɔ́ in \REF{ex:key:161} above are of interest. In the example, the original lexical H tone over the first syllable of the wɔ-wɔwɔ́ before the ligature has been replaced by an L tone. The presence of tone deletion points to the operation of partial reduplication rather than repetition. This contrasts with the iteration of other, attributively used property items in a similar way. In \REF{ex:key:155} and \REF{ex:key:156} above, bíg and the morpheme ___ undergo repetition, not reduplication. Although this example stands alone, it may be indicative of an area of transition between reduplication and repetition not only in meaning but also in form.
+A: word: gúd	 gloss: good
+B: word: diplomático	 gloss: diplomatic
+C: word: smɔ́l	 gloss: REP
+D: word: smɔ́ltɛn	 gloss: shortly
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+

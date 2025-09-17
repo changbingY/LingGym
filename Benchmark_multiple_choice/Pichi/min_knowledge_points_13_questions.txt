@@ -1,0 +1,1248 @@
+Question 0:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mék yu nó sé yu dɔ́n gɛ́t ___ na pueblo, na kɔ́ntri.
+Gloss (with missing item): SBJV 2SG know QUOT 2SG PRF get ___ LOC village LOC country
+The English translation of this sentence is:‘You should know that you already have a fiancé in the village, in the hometown.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Inserted Spanish constituents belong to various word classes, but the insertion of content words, and nouns in particular, prevails. Thus we find the morpheme ___ ‘fiancé’ and pueblo ‘village’ in \REF{ex:key:1696}. Note that both Spanish nouns are objects\is{objects} of Pichi elements, the first of a verb, the second of a preposition:
+A: word: violeta	 gloss: violet
+B: word: bɔ́y	 gloss: boy
+C: word: tomates	 gloss: tomatoes
+D: word: novio	 gloss: boyfriend
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 1:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mék yu nó sé yu dɔ́n gɛ́t novio na ___ na kɔ́ntri.
+Gloss (with missing item): SBJV 2SG know QUOT 2SG PRF get boyfriend LOC ___ LOC country
+The English translation of this sentence is:‘You should know that you already have a fiancé in the village, in the hometown.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Inserted Spanish constituents belong to various word classes, but the insertion of content words, and nouns in particular, prevails. Thus we find novio ‘fiancé’ and the morpheme ___ ‘its gloss ___’ in \REF{ex:key:1696}. Note that both Spanish nouns are objects\is{objects} of Pichi elements, the first of a verb, the second of a preposition:
+A: word: fám	 gloss: farm
+B: word: bloques	 gloss: bricks
+C: word: pueblo	 gloss: village
+D: word: puerto	 gloss: harbour
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 2:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mék yu nó sé yu dɔ́n gɛ́t ___ na pueblo, na kɔ́ntri.
+Gloss (with missing item): SBJV 2SG know QUOT 2SG PRF get ___ LOC village LOC country
+The English translation of this sentence is:‘You should know that you already have a fiancé in the village, in the hometown.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When Spanish nouns are inserted as in \REF{ex:key:1696}, they usually remain bare where Pichi nouns do so, or are accompanied by Pichi determiners and the pluraliser\is{pluraliser} dɛn ‘\textsc{pl’} in the same way as Pichi nouns are. In \REF{ex:key:1697}, the definite Spanish noun paciencia ‘patience’ is preceded by the Pichi definite article di: \is{article}
+A: word: bɔ́y	 gloss: boy
+B: word: flipa-do	 gloss: turned.on-ADJ
+C: word: violeta	 gloss: violet
+D: word: novio	 gloss: boyfriend
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 3:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mék yu nó sé yu dɔ́n gɛ́t novio na ___ na kɔ́ntri.
+Gloss (with missing item): SBJV 2SG know QUOT 2SG PRF get boyfriend LOC ___ LOC country
+The English translation of this sentence is:‘You should know that you already have a fiancé in the village, in the hometown.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When Spanish nouns are inserted as in \REF{ex:key:1696}, they usually remain bare where Pichi nouns do so, or are accompanied by Pichi determiners and the pluraliser\is{pluraliser} dɛn ‘\textsc{pl’} in the same way as Pichi nouns are. In \REF{ex:key:1697}, the definite Spanish noun paciencia ‘patience’ is preceded by the Pichi definite article di: \is{article}
+A: word: puerto	 gloss: harbour
+B: word: fám	 gloss: farm
+C: word: pueblo	 gloss: village
+D: word: sube	 gloss: go.up
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 4:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ fɔ́s, di paciencia, yu nó go gɛ́t=an.
+Gloss (with missing item): ___ first DEF patience 2SG NEG POT get=3SG.OBJ
+The English translation of this sentence is:‘Because first, the patience, you wouldn’t have it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When Spanish nouns are inserted as in \REF{ex:key:1696}, they usually remain bare where Pichi nouns do so, or are accompanied by Pichi determiners and the pluraliser\is{pluraliser} dɛn ‘\textsc{pl’} in the same way as Pichi nouns are. In \REF{ex:key:1697}, the definite Spanish noun paciencia ‘patience’ is preceded by the Pichi definite article di: \is{article}
+A: word: pero	 gloss: but
+B: word: traducción	 gloss: translation
+C: word: cheque	 gloss: cheque
+D: word: porque	 gloss: because
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 5:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Porque fɔ́s, di ___ yu nó go gɛ́t=an.
+Gloss (with missing item): because first DEF ___ 2SG NEG POT get=3SG.OBJ
+The English translation of this sentence is:‘Because first, the patience, you wouldn’t have it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When Spanish nouns are inserted as in \REF{ex:key:1696}, they usually remain bare where Pichi nouns do so, or are accompanied by Pichi determiners and the pluraliser\is{pluraliser} dɛn ‘\textsc{pl’} in the same way as Pichi nouns are. In \REF{ex:key:1697}, the definite Spanish noun the morpheme ___ ‘its gloss ___’ is preceded by the Pichi definite article di: \is{article}
+A: word: wét	 gloss: wait
+B: word: paciencia	 gloss: patience
+C: word: paciente	 gloss: patient
+D: word: bolí	 gloss: pen
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 6:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): \'{A}fta una báy di ___ dɛn tumára.
+Gloss (with missing item): then 2PL buy DEF ___ PL tomorrow
+The English translation of this sentence is:‘Then you [plural] buy the bricks tomorrow.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When a specific Spanish plural noun is inserted, there is a strong likelihood that it will be additionally marked with the postposed Pichi pluraliser dɛn, in accordance with the pattern that applies to Pichi count nouns \REF{ex:key:1698}. Conversely, Spanish nouns exhibit a strong tendency to occur devoid of Pichi number and definiteness\is{definiteness} marking where the noun is non-specific as with rallador ‘grater’ in the second example:
+A: word: porque	 gloss: because
+B: word: stón	 gloss: stone
+C: word: suele	 gloss: usually
+D: word: bloques	 gloss: bricks
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 7:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): \'{A}fta una báy di bloques ___ tumára.
+Gloss (with missing item): then 2PL buy DEF bricks ___ tomorrow
+The English translation of this sentence is:‘Then you [plural] buy the bricks tomorrow.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When a specific Spanish plural noun is inserted, there is a strong likelihood that it will be additionally marked with the postposed Pichi pluraliser the morpheme ___, in accordance with the pattern that applies to Pichi count nouns \REF{ex:key:1698}. Conversely, Spanish nouns exhibit a strong tendency to occur devoid of Pichi number and definiteness\is{definiteness} marking where the noun is non-specific as with rallador ‘grater’ in the second example:
+A: word: lunes	 gloss: monday
+B: word: sifta	 gloss: sift
+C: word: dɛn	 gloss: PL
+D: word: dɛn-ɔ́l	 gloss: 3PL.CPD-all
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 8:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mí wet Rubi wi mék jwɛn-jwɛ́n, wi báy pía, wi báy sadín, wi báy ___ wi desayuna.
+Gloss (with missing item): 1SG.INDP with NAME 1PL make RED.CPD{}-join 1PL buy avocado 1PL buy sardine 1PL buy ___ 1PL have.breakfast
+The English translation of this sentence is:‘Me and Rubi, we teamed up and bought avocados, we bought sardines, we bought tomatoes, we had breakfast.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: This is not surprising however, since in Spanish, determiner-less plural count nouns may have non-specific reference. The semantic overlap between Spanish plural nouns and Pichi bare nouns in codemixing can be seen in \REF{ex:key:1701}. Here the Pichi bare nouns pía ‘avocado’ and sadín ‘sardine’ are functionally equivalent to the Spanish plural noun the morpheme ___ ‘its gloss ___’:
+A: word: jakató	 gloss: bitter.tomato
+B: word: remata	 gloss: finish.off
+C: word: tomates	 gloss: tomatoes
+D: word: dɛn	 gloss: 3PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 9:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Na ___ directa e mék.
+Gloss (with missing item): FOC ___ direct 3SG.SBJ make
+The English translation of this sentence is:‘It’s a direct translation that she made.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The insertion of larger nominal groups as opposed to single nouns is rarer. In fact, most of the Spanish adjective-noun combinations we encounter are collocations that are somewhat lexicalised in Spanish. Compare the morpheme ___ directa ‘direct its gloss ___’ in \REF{ex:key:1702}:
+A: word: relación	 gloss: relation
+B: word: novio	 gloss: boyfriend
+C: word: lángwech	 gloss: language
+D: word: traducción	 gloss: translation
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 10:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Na traducción ___ e mék.
+Gloss (with missing item): FOC translation ___ 3SG.SBJ make
+The English translation of this sentence is:‘It’s a direct translation that she made.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The insertion of larger nominal groups as opposed to single nouns is rarer. In fact, most of the Spanish adjective-noun combinations we encounter are collocations that are somewhat lexicalised in Spanish. Compare traducción the morpheme ___ ‘its gloss ___ translation’ in \REF{ex:key:1702}:
+A: word: sɛ́n	 gloss: send
+B: word: directo	 gloss: direct
+C: word: directa	 gloss: direct
+D: word: cable	 gloss: cable
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 11:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ɛf yu bin kán bigín ___ semana yu bin fɔ dɔ́n fínis tidé.
+Gloss (with missing item): if 2SG PST PFV begin ___ week 2SG PST COND PRF finish today
+The English translation of this sentence is:‘If you had begun last week you would have been finished today.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The order of constituents normally remains unchanged when Spanish elements are inserted into a Pichi NP. In \REF{ex:key:1703}, the Pichi quantifier\is{quantifiers} lás ‘the morpheme ___t’ is used in prenominal position with the inserted Spanish noun semana ‘week’. However, note that Spanish also features a quantifier + noun order in NPs (i.e. la última semana ‘(the) the morpheme ___t week’):
+A: word: estudiante	 gloss: student
+B: word: mierda	 gloss: REP
+C: word: kɔ́tlas	 gloss: cutlass
+D: word: las	 gloss: last
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 12:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ɛf yu bin kán bigín las ___ yu bin fɔ dɔ́n fínis tidé.
+Gloss (with missing item): if 2SG PST PFV begin last ___ 2SG PST COND PRF finish today
+The English translation of this sentence is:‘If you had begun last week you would have been finished today.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The order of constituents normally remains unchanged when Spanish elements are inserted into a Pichi NP. In \REF{ex:key:1703}, the Pichi quantifier\is{quantifiers} lás ‘last’ is used in prenominal position with the inserted Spanish noun the morpheme ___ ‘its gloss ___’. However, note that Spanish also features a quantifier + noun order in NPs (i.e. la última the morpheme ___ ‘(the) last its gloss ___’):
+A: word: yɛ́lo	 gloss: be.yellow
+B: word: miercoles	 gloss: wednesday
+C: word: alemania	 gloss: PLACE
+D: word: semana	 gloss: week
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 13:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): E bríng fís, e kúk sɔn ___ fís, e gí mí mék a chɔ́p.
+Gloss (with missing item): 3SG.SBJ bring fish 3SG.SBJ cook some ___ fish 3SG.SBJ give 1SG.INDP SBJV 1SG.SBJ eat
+The English translation of this sentence is:‘She brought (a) fish, she cooked a particular fish and gave it to me in order to eat.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:key:1705}, we find the opposite situation. The Spanish adjective the morpheme ___ ‘its gloss ___’ is in a prenominal position, hence in the syntactic slot of attributively used Pichi property items:
+A: word: especial	 gloss: special
+B: word: tín	 gloss: thing
+C: word: respira	 gloss: breathe
+D: word: cuaderno	 gloss: exercise.book
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 14:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ‘Dí mán dé trɔ́n’ nó dé fáyn, e nó gɛ́t ___ fáyn.
+Gloss (with missing item): this man BE.LOC strong NEG BE.LOC fine 3SG.SBJ NEG get ___ fine
+The English translation of this sentence is:‘“Dí man dé trɔn” is not nice, it doesn’t have a proper meaning.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are other instances of Spanish adjectives that follow Pichi nouns in Pichi NPs. But in these cases, the function of the Spanish words parallels that of some Pichi value property items that are used as adverbials in the same syntactic position. The Spanish adjective serio ‘serious’ in \REF{ex:key:1706} may be likened to the Pichi manner adverb fáyn ‘well, really’ in \REF{ex:key:1707}:
+A: word: ventilador	 gloss: fan
+B: word: sentido	 gloss: meaning
+C: word: mín	 gloss: mean
+D: word: ser	 gloss: be
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 15:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Frɔn na yá só dɛn kin ___ di húman.
+Gloss (with missing item): from LOC here like.that 3PL HAB ___ DEF woman
+The English translation of this sentence is:‘From here they control the woman.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The admixture of Spanish verbs follows established rules. Spanish verbs are always inserted into Pichi clauses in an invariant form of the \textsc{3sg} person of the Spanish present tense\is{present tense} paradigm. This insertion rule is valid without exception across the three regular Spanish verb inflection classes. Due to its frequency, the \textsc{3sg} present tense form is also the default form found in most contact scenarios involving Spanish (\citealt[20–21]{Clements2009}). Examples follow with the morpheme ___ ‘its gloss ___’ (<the morpheme ___r) in \REF{ex:key:1709}, entiende ‘understand’ (<entender) in \REF{ex:key:1710}, and sufre ‘suffer’ (<sufrir) in \REF{ex:key:1711}:
+A: word: petroleo	 gloss: oil
+B: word: pueblo	 gloss: village
+C: word: opera	 gloss: operate
+D: word: controla	 gloss: control
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 16:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pɔ́sin go ___ bɔt e nó dé bien.
+Gloss (with missing item): person POT ___ but 3SG.SBJ NEG BE.LOC good
+The English translation of this sentence is:‘One would understand but it isn’t good.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The admixture of Spanish verbs follows established rules. Spanish verbs are always inserted into Pichi clauses in an invariant form of the \textsc{3sg} person of the Spanish present tense\is{present tense} paradigm. This insertion rule is valid without exception across the three regular Spanish verb inflection classes. Due to its frequency, the \textsc{3sg} present tense form is also the default form found in most contact scenarios involving Spanish (\citealt[20–21]{Clements2009}). Examples follow with controla ‘control’ (<controlar) in \REF{ex:key:1709}, the morpheme ___ ‘its gloss ___’ (<entender) in \REF{ex:key:1710}, and sufre ‘suffer’ (<sufrir) in \REF{ex:key:1711}:
+A: word: entiende	 gloss: understand
+B: word: explica	 gloss: explain
+C: word: tiene	 gloss: he.has
+D: word: membrana	 gloss: membrane
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 17:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): E ___ wé náw dɛn dɔ́n lɛ́f=an, e dɔ́n klós.
+Gloss (with missing item): 3SG.SBJ ___ SUB now 3PL PRF leave=3SG.OBJ 3SG.SBJ PRF close
+The English translation of this sentence is:‘It [the building] suffered, while now they have abandoned it, it is closed.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The admixture of Spanish verbs follows established rules. Spanish verbs are always inserted into Pichi clauses in an invariant form of the \textsc{3sg} person of the Spanish present tense\is{present tense} paradigm. This insertion rule is valid without exception across the three regular Spanish verb inflection classes. Due to its frequency, the \textsc{3sg} present tense form is also the default form found in most contact scenarios involving Spanish (\citealt[20–21]{Clements2009}). Examples follow with controla ‘control’ (<controlar) in \REF{ex:key:1709}, entiende ‘understand’ (<entender) in \REF{ex:key:1710}, and the morpheme ___ ‘its gloss ___’ (<sufrir) in \REF{ex:key:1711}:
+A: word: paciente	 gloss: patient
+B: word: sufre	 gloss: suffer
+C: word: fresco	 gloss: fresh
+D: word: taza	 gloss: cup
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 18:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Frɔn na yá só dɛn kin ___ di húman.
+Gloss (with missing item): from LOC here like.that 3PL HAB ___ DEF woman
+The English translation of this sentence is:‘From here they control the woman.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \textsc{3sg} invariant form is combined with Pichi TMA markers like any Pichi verb as can be seen by the presence of kin ‘\textsc{hab}’ in \REF{ex:key:1709} and go ‘\textsc{pot}’ in \REF{ex:key:1710} above. Inserted Spanish verbs may also be reduplicated by the same derivational process that applies to Pichi verbs. Compare pica-píca ‘\textsc{red}.\textsc{cpd}{}-cut.up’ = ‘repeatedly cut up (into small pieces)’ in \REF{ex:key:1712}:
+A: word: opera	 gloss: operate
+B: word: mierda	 gloss: REP
+C: word: controla	 gloss: control
+D: word: petroleo	 gloss: oil
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 19:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pɔ́sin go ___ bɔt e nó dé bien.
+Gloss (with missing item): person POT ___ but 3SG.SBJ NEG BE.LOC good
+The English translation of this sentence is:‘One would understand but it isn’t good.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \textsc{3sg} invariant form is combined with Pichi TMA markers like any Pichi verb as can be seen by the presence of kin ‘\textsc{hab}’ in \REF{ex:key:1709} and go ‘\textsc{pot}’ in \REF{ex:key:1710} above. Inserted Spanish verbs may also be reduplicated by the same derivational process that applies to Pichi verbs. Compare pica-píca ‘\textsc{red}.\textsc{cpd}{}-cut.up’ = ‘repeatedly cut up (into small pieces)’ in \REF{ex:key:1712}:
+A: word: guinea	 gloss: PLACE
+B: word: explica	 gloss: explain
+C: word: entiende	 gloss: understand
+D: word: tiene	 gloss: he.has
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 20:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): A bigín de pica\textit{{}-}píca, wi fráy ___ wi fráy plantí.
+Gloss (with missing item): 1SG.SBJ begin IPFV RED.CPD-cut.up 1PL fry ___ 1PL fry plantain
+The English translation of this sentence is:‘I began to (repeatedly) snip [the trimmings], we fried potatoes, we fried plantain.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \textsc{3sg} invariant form is combined with Pichi TMA markers like any Pichi verb as can be seen by the presence of kin ‘\textsc{hab}’ in \REF{ex:key:1709} and go ‘\textsc{pot}’ in \REF{ex:key:1710} above. Inserted Spanish verbs may also be reduplicated by the same derivational process that applies to Pichi verbs. Compare pica-píca ‘\textsc{red}.\textsc{cpd}{}-cut.up’ = ‘repeatedly cut up (into small pieces)’ in \REF{ex:key:1712}:
+A: word: flipa-do	 gloss: turned.on-ADJ
+B: word: trata	 gloss: treat
+C: word: chɔ́p	 gloss: food
+D: word: patata	 gloss: potato
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 21:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Fíba nó ___ ín.
+Gloss (with missing item): fever NEG ___ 3SG.INDP
+The English translation of this sentence is:‘The fever hasn’t risen on him.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Pichi exhibits a phonologically conditioned suppletive allomorphy in the pronominal system. The lexical pitch configuration of a verb determines the choice of allomorph used for the expression of \textsc{3sg} pronominal object case (cf. \sectref{sec:3.2.5}). Vowel-final verbs with a word-final low tone take the object pronoun ín ‘\textsc{3sg.indp}’ – this group includes a few Pichi verbs and all inserted Spanish verbs \REF{ex:key:1713}. This is because the \textsc{3sg} invariant form of the Equatoguinean Spanish verb always features a word-final L-toned vowel:
+A: word: sube	 gloss: go.up
+B: word: rubi	 gloss: NAME
+C: word: gráp	 gloss: get.up
+D: word: pamáyn	 gloss: oil
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 22:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Bɔkú motó dɛn dé yá só, a nó nó sé Pancho mék lɛk sé e de ___ bihɛ́n wé e baja mɔ́.
+Gloss (with missing item): much car PL BE.LOC here like.that 1SG.SBJ NEG know QUOT NAME make like QUOT 3SG.SBJ IPFV ___ behind SUB 3SG.SBJ go.down more
+The English translation of this sentence is:‘So many cars were there, I didn’t know Pancho pretended to go up behind us (and) went down again.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In a similar vein, the verbs the morpheme ___ (<subir) ‘go up’ and baja (<bajar) ‘go down’ are far more frequent than their Pichi counterparts gó ɔ́p and gó dɔ́n \REF{ex:key:1715}: \is{loan words}
+A: word: cuaderno	 gloss: exercise.book
+B: word: gráp	 gloss: get.up
+C: word: sube	 gloss: go.up
+D: word: rubi	 gloss: NAME
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 23:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Bɔkú motó dɛn dé yá só, a nó nó sé Pancho mék lɛk sé e de sube bihɛ́n wé e ___ mɔ́.
+Gloss (with missing item): much car PL BE.LOC here like.that 1SG.SBJ NEG know QUOT NAME make like QUOT 3SG.SBJ IPFV go.up behind SUB 3SG.SBJ ___ more
+The English translation of this sentence is:‘So many cars were there, I didn’t know Pancho pretended to go up behind us (and) went down again.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In a similar vein, the verbs sube (<subir) ‘go up’ and the morpheme ___ (<the morpheme ___r) ‘go down’ are far more frequent than their Pichi counterparts gó ɔ́p and gó dɔ́n \REF{ex:key:1715}: \is{loan words}
+A: word: baja	 gloss: go.down
+B: word: ser	 gloss: be
+C: word: gó”	 gloss: go
+D: word: bajando	 gloss: descending
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 24:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Wán yáy ___ blanco e nó de sí.
+Gloss (with missing item): one eye ___ white 3SG.SBJ NEG IPFV see
+The English translation of this sentence is:‘One eye is white, it doesn’t see.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Spanish adjectives do not only occur as attributes to Pichi nouns. They are systematically inserted into Pichi predicate adjective clauses as complements to the locative-existential copula\is{copula!locative-existential} the morpheme ___ \textsc{‘be.loc’} \REF{ex:key:1716}.
+A: word: dé	 gloss: BE.LOC
+B: word: ser	 gloss: be
+C: word: entiende	 gloss: understand
+D: word: dé”	 gloss: BE.LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 25:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Wán yáy dé ___ e nó de sí.
+Gloss (with missing item): one eye BE.LOC ___ 3SG.SBJ NEG IPFV see
+The English translation of this sentence is:‘One eye is white, it doesn’t see.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Spanish adjectives do not only occur as attributes to Pichi nouns. They are systematically inserted into Pichi predicate adjective clauses as complements to the locative-existential copula\is{copula!locative-existential} dé \textsc{‘be.loc’} \REF{ex:key:1716}.
+A: word: drɔ́	 gloss: draw
+B: word: blanco	 gloss: white
+C: word: blancas	 gloss: white.PL
+D: word: bloques	 gloss: bricks
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 26:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): \MakeUppercase{A} wánt dé ___ ɔ́l áwa, ɔ́l áwa.
+Gloss (with missing item): 1SG.SBJ want BE.LOC ___ all hour all hour
+The English translation of this sentence is:‘I want to be turned on all the time, all the time.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Neither adjectives nor past participles usually exhibit Spanish-style gender agreement with the subject and are normally inserted in the masculine form. However, past participles always come along with the regular Spanish adjective-deriving morphology \REF{ex:key:1717}.
+A: word: flipa-do	 gloss: turned.on-ADJ
+B: word: aunque	 gloss: like
+C: word: tɔ́n	 gloss: turn
+D: word: ova-dráy	 gloss: over.CPD-be.dry
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 27:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): "E ___ bád" min sé "e de sík".
+Gloss (with missing item): 3SG.SBJ ___ bad mean QUOT 3SG.SBJ IPFV be.sick
+The English translation of this sentence is:‘“E dé bad” means “he’s sick”.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: I have shown that a handful of Pichi property items may be employed as adjectives and inchoative-stative verbs alike (cf. \sectref{sec:7.6.5}). When used as adjectives, these property items denote a non-time-stable body state\is{body states} and may appear as complements to the copula the morpheme ___. When used as inchoative-stative verbs, these property items denote a time-stable value. The property item bád ‘be bad’ displays this kind of behaviour. Hence, bád means ‘(intrinsically) bad’ \REF{ex:key:1718} when used as an inchoative-stative verb and ‘ill’ when it appears as a complement to the copula the morpheme ___ \REF{ex:key:1719}:
+A: word: diplomático	 gloss: diplomatic
+B: word: dé	 gloss: BE.LOC
+C: word: dé”	 gloss: BE.LOC
+D: word: ser	 gloss: be
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 28:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): "E dé ___ min sé "e de sík".
+Gloss (with missing item): 3SG.SBJ BE.LOC ___ mean QUOT 3SG.SBJ IPFV be.sick
+The English translation of this sentence is:‘“E dé bad” means “he’s sick”.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: I have shown that a handful of Pichi property items may be employed as adjectives and inchoative-stative verbs alike (cf. \sectref{sec:7.6.5}). When used as adjectives, these property items denote a non-time-stable body state\is{body states} and may appear as complements to the copula dé. When used as inchoative-stative verbs, these property items denote a time-stable value. The property item bád ‘be its gloss ___’ displays this kind of behaviour. Hence, bád means ‘(intrinsically) its gloss ___’ \REF{ex:key:1718} when used as an inchoative-stative verb and ‘ill’ when it appears as a complement to the copula dé \REF{ex:key:1719}:
+A: word: bɔ́dí	 gloss: body
+B: word: vergüenza	 gloss: shame
+C: word: bád"	 gloss: bad
+D: word: pueblo	 gloss: village
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 29:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): "E ___ bád" min sé "e de sík".
+Gloss (with missing item): 3SG.SBJ ___ bad mean QUOT 3SG.SBJ IPFV be.sick
+The English translation of this sentence is:‘“E dé bad” means “he’s sick”.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Spanish also exhibits a distinction based on time-stability with respect to property items. In contrast to Pichi, the distinction may, however, be applied to almost any adjective of the language. Examples \REF{ex:key:1720} and \REF{ex:key:1721} involve the \textsc{3sg} present form of the time-stable identity copula ser and the \textsc{2sg} present of the non-time-stable locative-existential copula estar, respectively. A comparison of the Pichi examples in \REF{ex:key:1718} and \REF{ex:key:1719} above with the two sentences below show the functional overlap of the relevant constructions in the two languages:
+A: word: ser	 gloss: be
+B: word: dé	 gloss: BE.LOC
+C: word: dé”	 gloss: BE.LOC
+D: word: miercoles	 gloss: wednesday
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 30:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): "E dé ___ min sé "e de sík".
+Gloss (with missing item): 3SG.SBJ BE.LOC ___ mean QUOT 3SG.SBJ IPFV be.sick
+The English translation of this sentence is:‘“E dé bad” means “he’s sick”.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Spanish also exhibits a distinction based on time-stability with respect to property items. In contrast to Pichi, the distinction may, however, be applied to almost any adjective of the language. Examples \REF{ex:key:1720} and \REF{ex:key:1721} involve the \textsc{3sg} present form of the time-stable identity copula ser and the \textsc{2sg} present of the non-time-stable locative-existential copula estar, respectively. A comparison of the Pichi examples in \REF{ex:key:1718} and \REF{ex:key:1719} above with the two sentences below show the functional overlap of the relevant constructions in the two languages:
+A: word: vergüenza	 gloss: shame
+B: word: guinea	 gloss: PLACE
+C: word: bád"	 gloss: bad
+D: word: bɔ́dí	 gloss: body
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 31:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Wán yáy ___ blanco e nó de sí.
+Gloss (with missing item): one eye ___ white 3SG.SBJ NEG IPFV see
+The English translation of this sentence is:‘One eye is white, it doesn’t see.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Hence the time-stable property denoted by the Spanish adjective blanco ‘white’ appears as a complement to the copula the morpheme ___ in \REF{ex:key:1716} above, while the Pichi colour term wáyt ‘be white’ can only be employed as a inchoative-stative verb as in \REF{ex:key:1722}:
+A: word: controla	 gloss: control
+B: word: dé	 gloss: BE.LOC
+C: word: ser	 gloss: be
+D: word: dé”	 gloss: BE.LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 32:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Wán yáy dé ___ e nó de sí.
+Gloss (with missing item): one eye BE.LOC ___ 3SG.SBJ NEG IPFV see
+The English translation of this sentence is:‘One eye is white, it doesn’t see.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Hence the time-stable property denoted by the Spanish adjective the morpheme ___ ‘its gloss ___’ appears as a complement to the copula dé in \REF{ex:key:1716} above, while the Pichi colour term wáyt ‘be its gloss ___’ can only be employed as a inchoative-stative verb as in \REF{ex:key:1722}:
+A: word: blancas	 gloss: white.PL
+B: word: blanco	 gloss: white
+C: word: sentido	 gloss: meaning
+D: word: malérya	 gloss: malaria
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 33:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ wí de kɔ́l=an mono na Panyá, ín chɛ́k=an sé ɛf e tɔ́k sé wán mɔnkí, e go dé fáyn.
+Gloss (with missing item): ___ 1PL.INDP IPFV call=3SG.OBJ monkey LOC Spanish 3SG.INDP think=3SG.OBJ QUOT if 3SG.SBJ talk QUOT one monkey 3SG.SBJ POT BE.LOC fine
+The English translation of this sentence is:‘Since we [EMP] call it “mono” in Spanish, he [EMP] understood it such that if he said “one monkey”, it would be all right.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The most frequently used Spanish functional elements are the cause clause linkers the morpheme ___ ‘its gloss ___’ \REF{ex:key:1723} and porque ‘because’ \REF{ex:key:1724}. Both linkers form an integral part of the Pichi system of clause linkage and are best seen to have been borrowed into the language:\is{loan words}
+A: word: como	 gloss: since
+B: word: náw	 gloss: now
+C: word: diecisiete	 gloss: seventeen
+D: word: complicado	 gloss: complicated
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 34:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Como wí de kɔ́l=an ___ na Panyá, ín chɛ́k=an sé ɛf e tɔ́k sé wán mɔnkí, e go dé fáyn.
+Gloss (with missing item): since 1PL.INDP IPFV call=3SG.OBJ ___ LOC Spanish 3SG.INDP think=3SG.OBJ QUOT if 3SG.SBJ talk QUOT one monkey 3SG.SBJ POT BE.LOC fine
+The English translation of this sentence is:‘Since we [EMP] call it “mono” in Spanish, he [EMP] understood it such that if he said “one monkey”, it would be all right.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The most frequently used Spanish functional elements are the cause clause linkers como ‘since’ \REF{ex:key:1723} and porque ‘because’ \REF{ex:key:1724}. Both linkers form an integral part of the Pichi system of clause linkage and are best seen to have been borrowed into the language:\is{loan words}
+A: word: mono	 gloss: monkey
+B: word: snék	 gloss: snake
+C: word: fisionomía	 gloss: physiognomy
+D: word: lunes	 gloss: monday
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 35:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Yu nɛ́a gɛ́t pikín ___ yu nɛ́a máred.
+Gloss (with missing item): 2SG NEG.PRF get child ___ 2SG NEG.PRF marry
+The English translation of this sentence is:‘You don’t yet have a child, because you aren’t yet married.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The most frequently used Spanish functional elements are the cause clause linkers como ‘since’ \REF{ex:key:1723} and the morpheme ___ ‘its gloss ___’ \REF{ex:key:1724}. Both linkers form an integral part of the Pichi system of clause linkage and are best seen to have been borrowed into the language:\is{loan words}
+A: word: porque	 gloss: because
+B: word: directa	 gloss: direct
+C: word: cheque	 gloss: cheque
+D: word: pero	 gloss: but
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 36:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Bɛt a dɔ́n nó wétin yu níd, ___ wi gɛ́t sɔn prɔ́blɛm wé wi de tɔ́k Pichi na Malábo.
+Gloss (with missing item): but 1SG.SBJ PRF NEG what 2SG need ___ 1PL get some problem SUB 1PL IPFV talk Pichi LOC PLACE
+The English translation of this sentence is:‘But I already know what you need, because we have a problem when we talk Pichi in Malabo.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The linkers como and porque are employed in the same syntactic position as the Pichi equivalents as ‘as’ \REF{ex:key:1725} and the morpheme ___ ‘its gloss ___’ \REF{ex:key:1726}, respectively:
+A: word: pero	 gloss: but
+B: word: bikɔs	 gloss: because
+C: word: cuaderno	 gloss: exercise.book
+D: word: bigín	 gloss: begin
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 37:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Wé yu de mék=an na hós, jɔ́s ték=an, pút=an na pɔ́t ___ wán taza só.
+Gloss (with missing item): SUB 2SG IPFV make=3SG.OBJ LOC house just take=3SG.OBJ put=3SG.OBJ LOC pot ___ one cup like.that
+The English translation of this sentence is:‘When you make it at home, just take it (and) put it into a pot, like one cup or so.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The clause linker the morpheme ___ ‘although’ occurs so frequently that it is best seen to be fully integrated into the Pichi lexicon as well. In Spanish too, the morpheme ___ is used both as a concessive\is{concessive clauses} or adversative conjunction as in \REF{ex:key:1727} and as a a similative\is{similatives} adverbial as in \REF{ex:key:1728}:
+A: word: registro	 gloss: register
+B: word: aunque	 gloss: like
+C: word: tan	 gloss: as
+D: word: porque	 gloss: because
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 38:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Wé yu de mék=an na hós, jɔ́s ték=an, pút=an na pɔ́t aunque wán ___ só.
+Gloss (with missing item): SUB 2SG IPFV make=3SG.OBJ LOC house just take=3SG.OBJ put=3SG.OBJ LOC pot like one ___ like.that
+The English translation of this sentence is:‘When you make it at home, just take it (and) put it into a pot, like one cup or so.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The clause linker aunque ‘although’ occurs so frequently that it is best seen to be fully integrated into the Pichi lexicon as well. In Spanish too, aunque is used both as a concessive\is{concessive clauses} or adversative conjunction as in \REF{ex:key:1727} and as a a similative\is{similatives} adverbial as in \REF{ex:key:1728}:
+A: word: abraza	 gloss: embrace
+B: word: café	 gloss: coffee
+C: word: entiende	 gloss: understand
+D: word: taza	 gloss: cup
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 39:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): E nó sabí tɔ́k ___ Panyá, e sé e wánt muchachita de diecisiete años.
+Gloss (with missing item): 3SG.SBJ NEG know talk ___ Spanish 3SG.SBJ QUOT 3SG.SBJ want young.girl of seventeen year.PL
+The English translation of this sentence is:‘He doesn’t even know how to speak Spanish, (and) he says he wants a girl of seventeen years.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The Spathe morpheme ___sh coordinator pair the morpheme ___ – the morpheme ___ ‘its gloss ___ – nor, not even’ can express negative disjunction in Pichi utterances. Like in Spathe morpheme ___sh, the morpheme ___ can be used alone \REF{ex:key:1730} or in discontinuous negation\is{negation} \REF{ex:key:1731}. Unlike in Spathe morpheme ___sh, however, subject disjunction in Pichi requires the kind of negative concord characteristic of other negative clauses in Pichi \REF{ex:key:1731}:
+A: word: entonces	 gloss: so
+B: word: panyá	 gloss: Spanish
+C: word: ni	 gloss: neither
+D: word: quinientos	 gloss: five.hundred
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 40:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): E nó sabí tɔ́k ni Panyá, e sé e wánt ___ de diecisiete años.
+Gloss (with missing item): 3SG.SBJ NEG know talk neither Spanish 3SG.SBJ QUOT 3SG.SBJ want ___ of seventeen year.PL
+The English translation of this sentence is:‘He doesn’t even know how to speak Spanish, (and) he says he wants a girl of seventeen years.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The Spanish coordinator pair ni – ni ‘neither – nor, not even’ can express negative disjunction in Pichi utterances. Like in Spanish, ni can be used alone \REF{ex:key:1730} or in discontinuous negation\is{negation} \REF{ex:key:1731}. Unlike in Spanish, however, subject disjunction in Pichi requires the kind of negative concord characteristic of other negative clauses in Pichi \REF{ex:key:1731}:
+A: word: bolí	 gloss: pen
+B: word: chap-cháp	 gloss: RED.CPD-chop
+C: word: muchachita	 gloss: young.girl
+D: word: gɛ́l	 gloss: girl
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 41:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): E nó sabí tɔ́k ni Panyá, e sé e wánt muchachita ___ diecisiete años.
+Gloss (with missing item): 3SG.SBJ NEG know talk neither Spanish 3SG.SBJ QUOT 3SG.SBJ want young.girl ___ seventeen year.PL
+The English translation of this sentence is:‘He doesn’t even know how to speak Spanish, (and) he says he wants a girl of seventeen years.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The Spanish coordinator pair ni – ni ‘neither – nor, not even’ can express negative disjunction in Pichi utterances. Like in Spanish, ni can be used alone \REF{ex:key:1730} or in discontinuous negation\is{negation} \REF{ex:key:1731}. Unlike in Spanish, however, subject disjunction in Pichi requires the kind its gloss ___ negative concord characteristic its gloss ___ other negative clauses in Pichi \REF{ex:key:1731}:
+A: word: de	 gloss: of
+B: word: wáka	 gloss: walk
+C: word: bikɔs	 gloss: because
+D: word: cuaderno	 gloss: exercise.book
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 42:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): E nó sabí tɔ́k ni Panyá, e sé e wánt muchachita de ___ años.
+Gloss (with missing item): 3SG.SBJ NEG know talk neither Spanish 3SG.SBJ QUOT 3SG.SBJ want young.girl of ___ year.PL
+The English translation of this sentence is:‘He doesn’t even know how to speak Spanish, (and) he says he wants a girl of seventeen years.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The Spanish coordinator pair ni – ni ‘neither – nor, not even’ can express negative disjunction in Pichi utterances. Like in Spanish, ni can be used alone \REF{ex:key:1730} or in discontinuous negation\is{negation} \REF{ex:key:1731}. Unlike in Spanish, however, subject disjunction in Pichi requires the kind of negative concord characteristic of other negative clauses in Pichi \REF{ex:key:1731}:
+A: word: miercoles	 gloss: wednesday
+B: word: quince	 gloss: fifteen
+C: word: diecisiete	 gloss: seventeen
+D: word: siete	 gloss: seven
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 43:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ín ni in brɔ́da dɛn nó lán.
+Gloss (with missing item): ___ 3SG.INDP neither 3SG.POSS brother 3PL NEG learn
+The English translation of this sentence is:‘Neither him nor his brother studied.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The Spathe morpheme ___sh coordinator pair the morpheme ___ – the morpheme ___ ‘its gloss ___ – nor, not even’ can express negative disjunction in Pichi utterances. Like in Spathe morpheme ___sh, the morpheme ___ can be used alone \REF{ex:key:1730} or in discontinuous negation\is{negation} \REF{ex:key:1731}. Unlike in Spathe morpheme ___sh, however, subject disjunction in Pichi requires the kind of negative concord characteristic of other negative clauses in Pichi \REF{ex:key:1731}:
+A: word: beca	 gloss: scholarship
+B: word: ni	 gloss: neither
+C: word: dɛn	 gloss: 3PL
+D: word: quinientos	 gloss: five.hundred
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 44:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ni ín ___ in brɔ́da dɛn nó lán.
+Gloss (with missing item): neither 3SG.INDP ___ 3SG.POSS brother 3PL NEG learn
+The English translation of this sentence is:‘Neither him nor his brother studied.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The Spathe morpheme ___sh coordinator pair the morpheme ___ – the morpheme ___ ‘its gloss ___ – nor, not even’ can express negative disjunction in Pichi utterances. Like in Spathe morpheme ___sh, the morpheme ___ can be used alone \REF{ex:key:1730} or in discontinuous negation\is{negation} \REF{ex:key:1731}. Unlike in Spathe morpheme ___sh, however, subject disjunction in Pichi requires the kind of negative concord characteristic of other negative clauses in Pichi \REF{ex:key:1731}:
+A: word: chɛ́k	 gloss: think
+B: word: bujía	 gloss: ignition.plug
+C: word: quinientos	 gloss: five.hundred
+D: word: ni	 gloss: neither
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 45:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ni ín ni in brɔ́da dɛn ___ lán.
+Gloss (with missing item): neither 3SG.INDP neither 3SG.POSS brother 3PL ___ learn
+The English translation of this sentence is:‘Neither him nor his brother studied.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The Spanish coordinator pair ni – ni ‘neither – nor, not even’ can express negative disjunction in Pichi utterances. Like in Spanish, ni can be used alone \REF{ex:key:1730} or in discontinuous negation\is{negation} \REF{ex:key:1731}. Unlike in Spanish, however, subject disjunction in Pichi requires the kind of negative concord characteristic of other negative clauses in Pichi \REF{ex:key:1731}:
+A: word: nɛ́a	 gloss: NEG.PRF
+B: word: nóto	 gloss: NEG.FOC
+C: word: blanco	 gloss: white
+D: word: nó	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 46:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ín ni in brɔ́da dɛn nó lán.
+Gloss (with missing item): ___ 3SG.INDP neither 3SG.POSS brother 3PL NEG learn
+The English translation of this sentence is:‘Neither him nor his brother studied.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The Spathe morpheme ___sh coordinator pair the morpheme ___ – the morpheme ___ ‘its gloss ___ – nor, not even’ can express negative disjunction in Pichi utterances. Like in Spathe morpheme ___sh, the morpheme ___ can be used alone \REF{ex:key:1730} or in discontinuous negation\is{negation} \REF{ex:key:1731}. Unlike in Spathe morpheme ___sh, however, subject disjunction in Pichi requires the kind of negative concord characteristic of other negative clauses in Pichi \REF{ex:key:1731}:
+A: word: cuaderno	 gloss: exercise.book
+B: word: rɔ́n	 gloss: run
+C: word: ni	 gloss: neither
+D: word: quinientos	 gloss: five.hundred
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 47:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ni ín ___ in brɔ́da dɛn nó lán.
+Gloss (with missing item): neither 3SG.INDP ___ 3SG.POSS brother 3PL NEG learn
+The English translation of this sentence is:‘Neither him nor his brother studied.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The Spathe morpheme ___sh coordinator pair the morpheme ___ – the morpheme ___ ‘its gloss ___ – nor, not even’ can express negative disjunction in Pichi utterances. Like in Spathe morpheme ___sh, the morpheme ___ can be used alone \REF{ex:key:1730} or in discontinuous negation\is{negation} \REF{ex:key:1731}. Unlike in Spathe morpheme ___sh, however, subject disjunction in Pichi requires the kind of negative concord characteristic of other negative clauses in Pichi \REF{ex:key:1731}:
+A: word: ríba	 gloss: river
+B: word: ni	 gloss: neither
+C: word: quinientos	 gloss: five.hundred
+D: word: sube	 gloss: go.up
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 48:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ni ín ni in brɔ́da dɛn ___ lán.
+Gloss (with missing item): neither 3SG.INDP neither 3SG.POSS brother 3PL ___ learn
+The English translation of this sentence is:‘Neither him nor his brother studied.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The Spanish coordinator pair ni – ni ‘neither – nor, not even’ can express negative disjunction in Pichi utterances. Like in Spanish, ni can be used alone \REF{ex:key:1730} or in discontinuous negation\is{negation} \REF{ex:key:1731}. Unlike in Spanish, however, subject disjunction in Pichi requires the kind of negative concord characteristic of other negative clauses in Pichi \REF{ex:key:1731}:
+A: word: nó	 gloss: NEG
+B: word: mierda	 gloss: REP
+C: word: nɛ́a	 gloss: NEG.PRF
+D: word: nóto	 gloss: NEG.FOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 49:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Yu jɔ́s gɛ́t wán ___ años.
+Gloss (with missing item): 2SG just get one ___ year.PL
+The English translation of this sentence is:‘You’re just about seventeen years old.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:key:1732}, we find the cardinal numeral wán ‘one’ in a peculiar construction with the meaning ‘around’ in combination with quantity expressions. When wán is employed in this way, it usually modifies \textsc{NPs} containing numerals \REF{ex:key:1732} and time units \REF{ex:key:1733}:
+A: word: bikɔs	 gloss: because
+B: word: quince	 gloss: fifteen
+C: word: siete	 gloss: seven
+D: word: diecisiete	 gloss: seventeen
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 50:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Yu jɔ́s gɛ́t wán ___ años.
+Gloss (with missing item): 2SG just get one ___ year.PL
+The English translation of this sentence is:‘You’re just about seventeen years old.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:key:1732}, we find the cardinal numeral wán ‘one’ in a peculiar construction with the meaning ‘around’ in combination with quantity expressions. When wán is employed in this way, it usually modifies \textsc{NPs} containing numerals \REF{ex:key:1732} and time units \REF{ex:key:1733}:
+A: word: siete	 gloss: seven
+B: word: blanco	 gloss: white
+C: word: quince	 gloss: fifteen
+D: word: diecisiete	 gloss: seventeen
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 51:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Tumɔ́ro mɔ́nin tɛ́n,t wán ___ siete só, a go gó dé.
+Gloss (with missing item): tomorrow morning time one ___ seven like.that 1SG.SBJ POT go there
+The English translation of this sentence is:‘Tomorrow in the morning, around seven or so, I will go there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:key:1732}, we find the cardinal numeral wán ‘one’ in a peculiar construction with the meaning ‘around’ in combination with quantity expressions. When wán is employed in this way, it usually modifies \textsc{NPs} containing numerals \REF{ex:key:1732} and time units \REF{ex:key:1733}:
+A: word: bloques	 gloss: bricks
+B: word: las	 gloss: the.PL
+C: word: kɔ́tlas	 gloss: cutlass
+D: word: los	 gloss: DEF.PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 52:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Tumɔ́ro mɔ́nin tɛ́n,t wán las ___ só, a go gó dé.
+Gloss (with missing item): tomorrow morning time one the.PL ___ like.that 1SG.SBJ POT go there
+The English translation of this sentence is:‘Tomorrow in the morning, around seven or so, I will go there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:key:1732}, we find the cardinal numeral wán ‘one’ in a peculiar construction with the meaning ‘around’ in combination with quantity expressions. When wán is employed in this way, it usually modifies \textsc{NPs} containing numerals \REF{ex:key:1732} and time units \REF{ex:key:1733}:
+A: word: ocho	 gloss: eight
+B: word: diecisiete	 gloss: seventeen
+C: word: siete	 gloss: seven
+D: word: skúl	 gloss: school
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 53:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ so e kán tɛ́l mí sé na tidé.
+Gloss (with missing item): ___ so 3SG.SBJ PFV tell 1SG.INDP QUOT FOC today
+The English translation of this sentence is:‘Well, so she told me that it was today.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Spanish discourse markers and adverbs frequently occur at the beginning of a sentence. Speakers often use Spanish material that is not syntactically integrated into a Pichi clause structure. This includes the high frequency adverbs the morpheme ___ ‘its gloss ___’ \REF{ex:key:1735} and pero ‘but’ \REF{ex:key:1736}. Conversely, the interjection chico ‘boy’ \REF{ex:key:1736} is not common in European Spanish. It might have developed in Equatoguinean Spanish and Pichi through mutual reinforcement and calquing of other person-denoting interjections in Pichi and other Equatoguinean languages.
+A: word: “bueno	 gloss: good
+B: word: bueno	 gloss: well
+C: word: registro	 gloss: register
+D: word: pero	 gloss: but
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 54:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ mierda, ús=sáy e pás?
+Gloss (with missing item): ___ REP Q=side 3SG.SBJ pass
+The English translation of this sentence is:‘Shit, shit, which way did she go?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The interjection chico ‘boy’ in \REF{ex:key:1736} above is more common than other human-denoting Pichi equivalents such as mán ‘man’, papá \textit{\textup{‘father’,} }or mamá ‘mother’. The Spanish noun the morpheme ___ ‘its gloss ___’ is very common as a deprecative interjection \REF{ex:key:1737}:
+A: word: mierda	 gloss: shit
+B: word: amatán	 gloss: harmattan
+C: word: miercoles	 gloss: wednesday
+D: word: especial	 gloss: special
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 55:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mierda ___ ús=sáy e pás?
+Gloss (with missing item): shit ___ Q=side 3SG.SBJ pass
+The English translation of this sentence is:‘Shit, shit, which way did she go?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The interjection chico ‘boy’ in \REF{ex:key:1736} above is more common than other human-denoting Pichi equivalents such as mán ‘man’, papá \textit{\textup{‘father’,} }or mamá ‘mother’. The Spanish noun the morpheme ___ ‘shit’ is very common as a deprecative interjection \REF{ex:key:1737}:
+A: word: miercoles	 gloss: wednesday
+B: word: diplomático	 gloss: diplomatic
+C: word: mierda	 gloss: REP
+D: word: tomates	 gloss: tomatoes
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 56:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Es que húman wé e gɛ́t bɛlɛ́ ___ suele ser así.
+Gloss (with missing item): It.is that woman SUB 3SG.SBJ get belly ___ usually be like.that
+The English translation of this sentence is:‘It’s that women who are pregnant are always like that.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The Spanish focus syntagma es que ‘it is that’ may also be seen as a peripheral element which constitutes an independent syntactic unit \REF{ex:key:1740}. However, es que is so much an integral part of the Pichi system of focus marking that it seems like a holophrastic borrowing\is{borrowing} (cf. \sectref{sec:7.4.3} for more). Also note the interesting switch to Spanish at the clausal boundary between the relative clause and the following main clause.
+A: word: ɛ́ni	 gloss: every
+B: word: siempre	 gloss: always
+C: word: siente	 gloss: feel
+D: word: guinea	 gloss: PLACE
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 57:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Es que húman wé e gɛ́t bɛlɛ́ siempre ___ ser así.
+Gloss (with missing item): It.is that woman SUB 3SG.SBJ get belly always ___ be like.that
+The English translation of this sentence is:‘It’s that women who are pregnant are always like that.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The Spanish focus syntagma es que ‘it is that’ may also be seen as a peripheral element which constitutes an independent syntactic unit \REF{ex:key:1740}. However, es que is so much an integral part of the Pichi system of focus marking that it seems like a holophrastic borrowing\is{borrowing} (cf. \sectref{sec:7.4.3} for more). Also note the interesting switch to Spanish at the clausal boundary between the relative clause and the following main clause.
+A: word: miguel	 gloss: NAME
+B: word: normalmente	 gloss: normally
+C: word: paciencia	 gloss: patience
+D: word: suele	 gloss: usually
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 58:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Es que húman wé e gɛ́t bɛlɛ́ siempre suele ___ así.
+Gloss (with missing item): It.is that woman SUB 3SG.SBJ get belly always usually ___ like.that
+The English translation of this sentence is:‘It’s that women who are pregnant are always like that.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The Spanish focus syntagma es que ‘it is that’ may also its gloss ___ seen as a peripheral element which constitutes an independent syntactic unit \REF{ex:key:1740}. However, es que is so much an integral part of the Pichi system of focus marking that it seems like a holophrastic borrowing\is{borrowing} (cf. \sectref{sec:7.4.3} for more). Also note the interesting switch to Spanish at the clausal boundary its gloss ___tween the relative clause and the following main clause.
+A: word: puerto	 gloss: harbour
+B: word: yún	 gloss: be.young
+C: word: ser	 gloss: be
+D: word: yɛ́lo	 gloss: be.yellow
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 59:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Son ___ cuatro y media.
+Gloss (with missing item): They.are ___ four and half
+The English translation of this sentence is:‘It’s four thirty.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When telling the time, Spanish lexical items are fit into a conventionalised mixed construction which does not have an exact equivalent in Spanish. In the Pichi construction, the clock time is an adverbial complement to the locative-existential copula\is{copula!locative-existential} dé ‘\textsc{cop’}. The copula, in turn, takes the \textsc{1pl} subject wi \REF{ex:key:1743}. In the Spanish construction, the clock time functions as the subject of the identity copula ser ‘be’ \REF{ex:key:1743}:
+A: word: kɔ́tlas	 gloss: cutlass
+B: word: los	 gloss: DEF.PL
+C: word: taza	 gloss: cup
+D: word: las	 gloss: the.PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 60:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Son las ___ y media.
+Gloss (with missing item): They.are the.PL ___ and half
+The English translation of this sentence is:‘It’s four thirty.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When telling the time, Spanish lexical items are fit into a conventionalised mixed construction which does not have an exact equivalent in Spanish. In the Pichi construction, the clock time is an adverbial complement to the locative-existential copula\is{copula!locative-existential} dé ‘\textsc{cop’}. The copula, in turn, takes the \textsc{1pl} subject wi \REF{ex:key:1743}. In the Spanish construction, the clock time functions as the subject of the identity copula ser ‘be’ \REF{ex:key:1743}:
+A: word: cuatro	 gloss: four
+B: word: trowé	 gloss: pour
+C: word: entonces	 gloss: so
+D: word: cinco	 gloss: five
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 61:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Son las cuatro ___ media.
+Gloss (with missing item): They.are the.PL four ___ half
+The English translation of this sentence is:‘It’s four thirty.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When telling the time, Spanish lexical items are fit into a conventionalised mixed construction which does not have an exact equivalent in Spanish. In the Pichi construction, the clock time is an adverbial complement to the locative-existential copula\is{copula!locative-existential} dé ‘\textsc{cop’}. The copula, in turn, takes the \textsc{1pl} subject wi \REF{ex:kethe morpheme ___:1743}. In the Spanish construction, the clock time functions as the subject of the identitthe morpheme ___ copula ser ‘be’ \REF{ex:kethe morpheme ___:1743}:
+A: word: muchachita	 gloss: young.girl
+B: word: y	 gloss: and
+C: word: báy=an	 gloss: buy=3SG.OBJ
+D: word: híb=an	 gloss: throw=3SG.OBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 62:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Son ___ cuatro y media.
+Gloss (with missing item): They.are ___ four and half
+The English translation of this sentence is:‘It’s four thirty.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When telling the time, Spanish lexical items are fit into a conventionalised mixed construction which does not have an exact equivalent in Spanish. In the Pichi construction, the clock time is an adverbial complement to the locative-existential copula\is{copula!locative-existential} dé ‘\textsc{cop’}. The copula, in turn, takes the \textsc{1pl} subject wi \REF{ex:key:1743}. In the Spanish construction, the clock time functions as the subject of the identity copula ser ‘be’ \REF{ex:key:1743}:
+A: word: dɛn	 gloss: 3PL
+B: word: las	 gloss: the.PL
+C: word: los	 gloss: DEF.PL
+D: word: kɔ́tlas	 gloss: cutlass
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 63:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Son las ___ y media.
+Gloss (with missing item): They.are the.PL ___ and half
+The English translation of this sentence is:‘It’s four thirty.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When telling the time, Spanish lexical items are fit into a conventionalised mixed construction which does not have an exact equivalent in Spanish. In the Pichi construction, the clock time is an adverbial complement to the locative-existential copula\is{copula!locative-existential} dé ‘\textsc{cop’}. The copula, in turn, takes the \textsc{1pl} subject wi \REF{ex:key:1743}. In the Spanish construction, the clock time functions as the subject of the identity copula ser ‘be’ \REF{ex:key:1743}:
+A: word: cuatro	 gloss: four
+B: word: cinco	 gloss: five
+C: word: tomates	 gloss: tomatoes
+D: word: trowé	 gloss: pour
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 64:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Son las cuatro ___ media.
+Gloss (with missing item): They.are the.PL four ___ half
+The English translation of this sentence is:‘It’s four thirty.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When telling the time, Spanish lexical items are fit into a conventionalised mixed construction which does not have an exact equivalent in Spanish. In the Pichi construction, the clock time is an adverbial complement to the locative-existential copula\is{copula!locative-existential} dé ‘\textsc{cop’}. The copula, in turn, takes the \textsc{1pl} subject wi \REF{ex:kethe morpheme ___:1743}. In the Spanish construction, the clock time functions as the subject of the identitthe morpheme ___ copula ser ‘be’ \REF{ex:kethe morpheme ___:1743}:
+A: word: kéch=an	 gloss: catch=3SG.OBJ
+B: word: yɛ́lo	 gloss: be.yellow
+C: word: báy=an	 gloss: buy=3SG.OBJ
+D: word: y	 gloss: and
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 65:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Dí ___ a de gó Lubá.
+Gloss (with missing item): this ___ 1SG.SBJ IPFV go PLACE.’
+The English translation of this sentence is:‘This Wednesday, I am going to Luba.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Most speakers are not familiar with Pichi day names and employ the Spanish day nomenclature \REF{ex:key:1746}. Even older speakers rarely if ever use the corresponding Pichi day names mɔ́nde ‘Monday’, tyúsde ‘Tuesday’, wɛ́nsde ‘its gloss ___’, tɔsde ‘Thursday’, frayde ‘Friday’, sátidé ‘Saturday’, and sɔ́nde ‘Sunday’ \REF{ex:key:1747}:
+A: word: problema	 gloss: problem
+B: word: miércoles	 gloss: Wednesday
+C: word: vecino	 gloss: neighbour
+D: word: miercoles	 gloss: wednesday
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 66:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ na mɔ́nde, tyúsde wé na martes.
+Gloss (with missing item): ___ FOC Monday tuesday SUB FOC tuesday
+The English translation of this sentence is:‘“Lunes” is Monday. Tuesday that’s “martes”.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Most speakers are not familiar with Pichi day names and employ the Spanish day nomenclature \REF{ex:key:1746}. Even older speakers rarely if ever use the corresponding Pichi day names mɔ́nde ‘Monday’, tyúsde ‘Tuesday’, wɛ́nsde ‘Wednesday’, tɔsde ‘Thursday’, frayde ‘Friday’, sátidé ‘Saturday’, and sɔ́nde ‘Sunday’ \REF{ex:key:1747}:
+A: word: diplomático	 gloss: diplomatic
+B: word: mɔ́nde	 gloss: Monday
+C: word: cameruneses	 gloss: Cameroonians
+D: word: lunes	 gloss: monday
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 67:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ na, áy, pero a sabí=an.
+Gloss (with missing item): ___ FOC INTJ but 1SG.SBJ know=3SG.OBJ
+The English translation of this sentence is:‘"Wednesday" is, ah [pause], but I know it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The elicitation of Pichi day names with two speakers below twenty-eight years was unsuccessful save sɔ́nde ‘Sunday’, certainly because of its social importance for religious practice. A speaker above fifty-five years experienced considerable difficulties in retrieving Pichi day names (\ref{ex:key:1748a}–c). Wɛ́nsde ‘Wednesday’ was only retrieved after an external input (b) and the elicitation of ‘Thursday’ and ‘Friday’ produced the misnomers tyúsde ‘Tuesday’ (c) and wɛ́nsde ‘Wednesday’ (d), respectively:
+A: word: miércoles	 gloss: Wednesday
+B: word: rúm	 gloss: room
+C: word: miercoles	 gloss: wednesday
+D: word: aunque	 gloss: like
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 68:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Di bɔ́y ___ lɛkɛ Chici.
+Gloss (with missing item): DEF boy ___ like NAME
+The English translation of this sentence is:‘The guy is yellow like [the guy called] Chici.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Many West African languages, including basilectal Nigerian Pidgin \citep[286]{Faraclas1996} express colours and hues other than ‘black’ and ‘white’ through periphrasis, suprasegmentals and ideophones\is{ideophones}. We also find the expression of colours through periphrasis in Pichi, as in \REF{ex:key:1751} and \REF{ex:key:1752}.
+A: word: dís	 gloss: this
+B: word: mierda	 gloss: REP
+C: word: gɛ́l	 gloss: girl
+D: word: yɛ́lo	 gloss: be.yellow
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 69:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Dán tín ___ lɛk banána.
+Gloss (with missing item): that thing ___ like banana
+The English translation of this sentence is:‘That thing is yellow like a banana.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Many West African languages, including basilectal Nigerian Pidgin \citep[286]{Faraclas1996} express colours and hues other than ‘black’ and ‘white’ through periphrasis, suprasegmentals and ideophones\is{ideophones}. We also find the expression of colours through periphrasis in Pichi, as in \REF{ex:key:1751} and \REF{ex:key:1752}.
+A: word: sentido	 gloss: meaning
+B: word: dís	 gloss: this
+C: word: gɛ́l	 gloss: girl
+D: word: yɛ́lo	 gloss: be.yellow
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 70:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): A tínk sé na ___ blancas o no sé.
+Gloss (with missing item): 1SG.SBJ think QUOT FOC ___ white.PL or NEG I.know
+The English translation of this sentence is:‘I think they’re white beans or so.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When Spanish colour terms are used attributively, they occur with Spanish head nouns \REF{ex:key:1753}. The corpus contains no examples of mixed collocations involving a Spanish colour denoting property item and a Pichi head noun:
+A: word: bloques	 gloss: bricks
+B: word: las	 gloss: the.PL
+C: word: judías	 gloss: bean.PL
+D: word: día	 gloss: make.expensive
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 71:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): A tínk sé na judías ___ o no sé.
+Gloss (with missing item): 1SG.SBJ think QUOT FOC bean.PL ___ or NEG I.know
+The English translation of this sentence is:‘I think they’re white beans or so.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When Spanish colour terms are used attributively, they occur with Spanish head nouns \REF{ex:key:1753}. The corpus contains no examples of mixed collocations involving a Spanish colour denoting property item and a Pichi head noun:
+A: word: wáyt	 gloss: white
+B: word: blancas	 gloss: white.PL
+C: word: especial	 gloss: special
+D: word: blanco	 gloss: white
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 72:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ wán problema diplomático kán dé entre Guinea wet Gabón.
+Gloss (with missing item): ___ one problem diplomatic PFV BE.LOC between PLACE with PLACE
+The English translation of this sentence is:‘So a diplomatic problem came to be between Guinea and Gabon.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Other semantic fields characterised by a high incidence of codemixing involve formalised, institutional domains. One of the few Pichi country names in use is Panyá ‘Spain’, the designation for the former colonial power. Spanish lexemes are exclusively employed for country names like Guinea (Ecuatorial) ‘Equatorial Guinea’, Gabón ‘Gabon’ \REF{ex:key:1754}, ethnonyms like europeo ‘European’ or cameruneses ‘Cameroonians’ \REF{ex:key:1755}, as well as terms belonging to the state domain such as problema diplomático ‘diplomatic problem’ \REF{ex:key:1754}:
+A: word: paciencia	 gloss: patience
+B: word: entonces	 gloss: so
+C: word: bueno	 gloss: well
+D: word: quinientos	 gloss: five.hundred
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 73:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Entonces wán ___ diplomático kán dé entre Guinea wet Gabón.
+Gloss (with missing item): so one ___ diplomatic PFV BE.LOC between PLACE with PLACE
+The English translation of this sentence is:‘So a diplomatic problem came to be between Guinea and Gabon.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Other semantic fields characterised by a high incidence of codemixing involve formalised, institutional domains. One of the few Pichi country names in use is Panyá ‘Spain’, the designation for the former colonial power. Spanish lexemes are exclusively employed for country names like Guinea (Ecuatorial) ‘Equatorial Guinea’, Gabón ‘Gabon’ \REF{ex:key:1754}, ethnonyms like europeo ‘European’ or cameruneses ‘Cameroonians’ \REF{ex:key:1755}, as well as terms belonging to the state domain such as the morpheme ___ diplomático ‘diplomatic its gloss ___’ \REF{ex:key:1754}:
+A: word: problema	 gloss: problem
+B: word: sufre	 gloss: suffer
+C: word: trɔ́bul	 gloss: trouble
+D: word: alemania	 gloss: PLACE
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 74:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Entonces wán problema ___ kán dé entre Guinea wet Gabón.
+Gloss (with missing item): so one problem ___ PFV BE.LOC between PLACE with PLACE
+The English translation of this sentence is:‘So a diplomatic problem came to be between Guinea and Gabon.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Other semantic fields characterised by a high incidence of codemixing involve formalised, institutional domains. One of the few Pichi country names in use is Panyá ‘Spain’, the designation for the former colonial power. Spanish lexemes are exclusively employed for country names like Guinea (Ecuatorial) ‘Equatorial Guinea’, Gabón ‘Gabon’ \REF{ex:key:1754}, ethnonyms like europeo ‘European’ or cameruneses ‘Cameroonians’ \REF{ex:key:1755}, as well as terms belonging to the state domain such as problema the morpheme ___ ‘its gloss ___ problem’ \REF{ex:key:1754}:
+A: word: diplomático	 gloss: diplomatic
+B: word: smát	 gloss: be.fast
+C: word: problema	 gloss: problem
+D: word: kɔ́ntri	 gloss: country
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 75:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Entonces wán problema diplomático kán dé entre ___ wet Gabón.
+Gloss (with missing item): so one problem diplomatic PFV BE.LOC between ___ with PLACE
+The English translation of this sentence is:‘So a diplomatic problem came to be between Guinea and Gabon.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Other semantic fields characterised by a high incidence of codemixing involve formalised, institutional domains. One of the few Pichi country names in use is Panyá ‘Spain’, the designation for the former colonial power. Spanish lexemes are exclusively employed for country names like Guinea (Ecuatorial) ‘Equatorial Guinea’, Gabón ‘Gabon’ \REF{ex:key:1754}, ethnonyms like europeo ‘European’ or cameruneses ‘Cameroonians’ \REF{ex:key:1755}, as well as terms belonging to the state domain such as problema diplomático ‘diplomatic problem’ \REF{ex:key:1754}:
+A: word: guinea	 gloss: PLACE
+B: word: mono	 gloss: monkey
+C: word: guineano	 gloss: Guinean
+D: word: área	 gloss: area
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 76:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ yɛ́s dɛn plɛ́nte yá.
+Gloss (with missing item): ___ yes 3PL be.plenty here
+The English translation of this sentence is:‘Cameroonians, yes they are many here.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Other semantic fields characterised by a high incidence of codemixing involve formalised, institutional domains. One of the few Pichi country names in use is Panyá ‘Spain’, the designation for the former colonial power. Spanish lexemes are exclusively employed for country names like Guinea (Ecuatorial) ‘Equatorial Guinea’, Gabón ‘Gabon’ \REF{ex:key:1754}, ethnonyms like europeo ‘European’ or the morpheme ___ ‘its gloss ___’ \REF{ex:key:1755}, as well as terms belonging to the state domain such as problema diplomático ‘diplomatic problem’ \REF{ex:key:1754}:
+A: word: camerún	 gloss: PLACE
+B: word: gabonés	 gloss: Gabonese
+C: word: cameruneses	 gloss: Cameroonians
+D: word: taza	 gloss: cup
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 77:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ wán problema diplomático kán dé entre Guinea wet Gabón.
+Gloss (with missing item): ___ one problem diplomatic PFV BE.LOC between PLACE with PLACE
+The English translation of this sentence is:‘So a diplomatic problem came to be between Guinea and Gabon.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Other semantic fields characterised by a high incidence of codemixing involve formalised, institutional domains. One of the few Pichi country names in use is Panyá ‘Spain’, the designation for the former colonial power. Spanish lexemes are exclusively employed for country names like Guinea (Ecuatorial) ‘Equatorial Guinea’, Gabón ‘Gabon’ \REF{ex:key:1754}, ethnonyms like europeo ‘European’ or cameruneses ‘Cameroonians’ \REF{ex:key:1755}, as well as terms belonging to the state domain such as problema diplomático ‘diplomatic problem’ \REF{ex:key:1754}:
+A: word: entonces	 gloss: so
+B: word: sube	 gloss: go.up
+C: word: bueno	 gloss: well
+D: word: quinientos	 gloss: five.hundred
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 78:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Entonces wán ___ diplomático kán dé entre Guinea wet Gabón.
+Gloss (with missing item): so one ___ diplomatic PFV BE.LOC between PLACE with PLACE
+The English translation of this sentence is:‘So a diplomatic problem came to be between Guinea and Gabon.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Other semantic fields characterised by a high incidence of codemixing involve formalised, institutional domains. One of the few Pichi country names in use is Panyá ‘Spain’, the designation for the former colonial power. Spanish lexemes are exclusively employed for country names like Guinea (Ecuatorial) ‘Equatorial Guinea’, Gabón ‘Gabon’ \REF{ex:key:1754}, ethnonyms like europeo ‘European’ or cameruneses ‘Cameroonians’ \REF{ex:key:1755}, as well as terms belonging to the state domain such as the morpheme ___ diplomático ‘diplomatic its gloss ___’ \REF{ex:key:1754}:
+A: word: trɔ́bul	 gloss: trouble
+B: word: alemania	 gloss: PLACE
+C: word: problema	 gloss: problem
+D: word: siete	 gloss: seven
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 79:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Entonces wán problema ___ kán dé entre Guinea wet Gabón.
+Gloss (with missing item): so one problem ___ PFV BE.LOC between PLACE with PLACE
+The English translation of this sentence is:‘So a diplomatic problem came to be between Guinea and Gabon.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Other semantic fields characterised by a high incidence of codemixing involve formalised, institutional domains. One of the few Pichi country names in use is Panyá ‘Spain’, the designation for the former colonial power. Spanish lexemes are exclusively employed for country names like Guinea (Ecuatorial) ‘Equatorial Guinea’, Gabón ‘Gabon’ \REF{ex:key:1754}, ethnonyms like europeo ‘European’ or cameruneses ‘Cameroonians’ \REF{ex:key:1755}, as well as terms belonging to the state domain such as problema the morpheme ___ ‘its gloss ___ problem’ \REF{ex:key:1754}:
+A: word: diplomático	 gloss: diplomatic
+B: word: intenta	 gloss: try
+C: word: kɔ́ntri	 gloss: country
+D: word: smát	 gloss: be.fast
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 80:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Entonces wán problema diplomático kán dé entre ___ wet Gabón.
+Gloss (with missing item): so one problem diplomatic PFV BE.LOC between ___ with PLACE
+The English translation of this sentence is:‘So a diplomatic problem came to be between Guinea and Gabon.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Other semantic fields characterised by a high incidence of codemixing involve formalised, institutional domains. One of the few Pichi country names in use is Panyá ‘Spain’, the designation for the former colonial power. Spanish lexemes are exclusively employed for country names like Guinea (Ecuatorial) ‘Equatorial Guinea’, Gabón ‘Gabon’ \REF{ex:key:1754}, ethnonyms like europeo ‘European’ or cameruneses ‘Cameroonians’ \REF{ex:key:1755}, as well as terms belonging to the state domain such as problema diplomático ‘diplomatic problem’ \REF{ex:key:1754}:
+A: word: guinea	 gloss: PLACE
+B: word: área	 gloss: area
+C: word: matriz	 gloss: womb
+D: word: guineano	 gloss: Guinean
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 81:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): A bin gɛ́fɔ chénch in ném na ___ a registra ín.
+Gloss (with missing item): 1SG.SBJ PST have.to change 3SG.POSS NAME LOC ___ 1SG.SBJ register 3SG.INDP
+The English translation of this sentence is:‘I had to change her name in the register, I registered her.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Also compare the Spanish terms the morpheme ___ ‘(civil) registry’ and registra ‘(to) its gloss ___’ in \REF{ex:key:1756}:
+A: word: novio	 gloss: boyfriend
+B: word: registra	 gloss: register
+C: word: registro	 gloss: register
+D: word: jwɛ́n	 gloss: join
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 82:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): A bin gɛ́fɔ chénch in ném na registro a ___ ín.
+Gloss (with missing item): 1SG.SBJ PST have.to change 3SG.POSS NAME LOC register 1SG.SBJ ___ 3SG.INDP
+The English translation of this sentence is:‘I had to change her name in the register, I registered her.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Also compare the Spanish terms registro ‘(civil) registry’ and the morpheme ___ ‘(to) its gloss ___’ in \REF{ex:key:1756}:
+A: word: registro	 gloss: register
+B: word: registra	 gloss: register
+C: word: traducción	 gloss: translation
+D: word: jwɛ́n	 gloss: join
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 83:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): E de gó fɔ, sɔn ___ wé dé fɔ gɔ́bna.
+Gloss (with missing item): 3SG.SBJ IPFV go PREP some ___ SUB BE.LOC PREP government
+The English translation of this sentence is:‘She goes to a school that belongs to government.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The Pichi lexemes skul ‘its gloss ___’, gɔ́bna ‘government’ \REF{ex:key:1757}, and chɔ́ch ‘church’ \REF{ex:key:1758} designate these institutions in their general sense and are favoured over their Spanish equivalents escuela, gobierno, and iglesia:
+A: word: skúl	 gloss: school
+B: word: blanco	 gloss: white
+C: word: colegio	 gloss: college
+D: word: ɔnkúl	 gloss: uncle
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 84:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Wé, yu wánt báy ___ bolí ɔ́l dán tín dɛn na wet dólar.
+Gloss (with missing item): SUB 2SG want buy ___ pen all that thing PL FOC with dollar
+The English translation of this sentence is:‘While, if you want to buy exercise books, pens, all those things are with the dollar.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Meanwhile, the incidence of Spanish lexemes rises with the degree of specificity of words within the semantic fields designated by these superordinates. Thus, we have catedral ‘cathedral’ in \REF{ex:key:1758} above, bolí ‘pen’ and the morpheme ___ ‘exercise book’ \REF{ex:key:1759}, as well as profe(sor) ‘teacher’ – though tícha ‘teacher’ is also common, however less so beyond primary school.
+A: word: siempre	 gloss: always
+B: word: cuaderno	 gloss: exercise.book
+C: word: madera	 gloss: wood
+D: word: ejercicio	 gloss: exercise
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 85:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Wé, yu wánt báy cuaderno, ___ ɔ́l dán tín dɛn na wet dólar.
+Gloss (with missing item): SUB 2SG want buy exercise.book ___ all that thing PL FOC with dollar
+The English translation of this sentence is:‘While, if you want to buy exercise books, pens, all those things are with the dollar.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Meanwhile, the incidence of Spanish lexemes rises with the degree of specificity of words within the semantic fields designated by these superordinates. Thus, we have catedral ‘cathedral’ in \REF{ex:key:1758} above, the morpheme ___ ‘its gloss ___’ and cuaderno ‘exercise book’ \REF{ex:key:1759}, as well as profe(sor) ‘teacher’ – though tícha ‘teacher’ is also common, however less so beyond primary school.
+A: word: pɔ́t	 gloss: pot
+B: word: entiende	 gloss: understand
+C: word: bolsa	 gloss: bag
+D: word: bolí	 gloss: pen
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 86:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Wé dɔ́kta ópin, wé dɛn bigín drɔ́ di, sɔn tín we e kin dé bihɛ́n ___ na membrana, sɔn kán lɛ́f bifó di matriz, so di matriz nó kán lɔ́k.
+Gloss (with missing item): SUB doctor open SUB 3PL begin draw DEF some thing SUB 3SG.SBJ HAB BE.LOC behind ___ FOC membrane some PFV remain before DEF womb so DEF womb NEG PFV lock
+The English translation of this sentence is:‘When the doctor opened (the womb), they began to draw out the, a certain thing that is usually behind the placenta, it’s a membrane, some remained in front of the womb, so the womb didn’t close.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The preponderance of Spanish lexemes in other semantic fields reflects the asymmetric power relation that holds between Pichi and Spanish in a different way. For example, semantic fields relating to illness and medical treatment that are highly differentiated in other languages of the region (e.g. \ili{Yoruba}, see \citet{Adegbite1993}) probably did not assert itself in Pichi due to the marginalisation of African medical science with the advent of colonialism. In \REF{ex:key:1761}, we therefore find the morpheme ___ ‘the morpheme ___’ and matriz ‘womb’ for which only the general term bɛlɛ́ ‘belly, womb’ is recorded and Spanish membrano ‘membrane’ which has no equivalent in Pichi:
+A: word: las	 gloss: the.PL
+B: word: matriz	 gloss: womb
+C: word: cincuenta	 gloss: fifty
+D: word: placenta	 gloss: placenta
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 87:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Wé dɔ́kta ópin, wé dɛn bigín drɔ́ di, sɔn tín we e kin dé bihɛ́n placenta, na ___ sɔn kán lɛ́f bifó di matriz, so di matriz nó kán lɔ́k.
+Gloss (with missing item): SUB doctor open SUB 3PL begin draw DEF some thing SUB 3SG.SBJ HAB BE.LOC behind placenta FOC ___ some PFV remain before DEF womb so DEF womb NEG PFV lock
+The English translation of this sentence is:‘When the doctor opened (the womb), they began to draw out the, a certain thing that is usually behind the placenta, it’s a membrane, some remained in front of the womb, so the womb didn’t close.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The preponderance of Spanish lexemes in other semantic fields reflects the asymmetric power relation that holds between Pichi and Spanish in a different way. For example, semantic fields relating to illness and medical treatment that are highly differentiated in other languages of the region (e.g. \ili{Yoruba}, see \citet{Adegbite1993}) probably did not assert itself in Pichi due to the marginalisation of African medical science with the advent of colonialism. In \REF{ex:key:1761}, we therefore find placenta ‘placenta’ and matriz ‘womb’ for which only the general term bɛlɛ́ ‘belly, womb’ is recorded and Spanish membrano ‘its gloss ___’ which has no equivalent in Pichi:
+A: word: ínsay	 gloss: inside
+B: word: membrano	 gloss: membrane
+C: word: membrana	 gloss: membrane
+D: word: placenta	 gloss: placenta
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 88:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Wé dɔ́kta ópin, wé dɛn bigín drɔ́ di, sɔn tín we e kin dé bihɛ́n placenta, na membrana, sɔn kán lɛ́f bifó di ___ so di matriz nó kán lɔ́k.
+Gloss (with missing item): SUB doctor open SUB 3PL begin draw DEF some thing SUB 3SG.SBJ HAB BE.LOC behind placenta FOC membrane some PFV remain before DEF ___ so DEF womb NEG PFV lock
+The English translation of this sentence is:‘When the doctor opened (the womb), they began to draw out the, a certain thing that is usually behind the placenta, it’s a membrane, some remained in front of the womb, so the womb didn’t close.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The preponderance of Spanish lexemes in other semantic fields reflects the asymmetric power relation that holds between Pichi and Spanish in a different way. For example, semantic fields relating to illness and medical treatment that are highly differentiated in other languages of the region (e.g. \ili{Yoruba}, see \citet{Adegbite1993}) probably did not assert itself in Pichi due to the marginalisation of African medical science with the advent of colonialism. In \REF{ex:key:1761}, we therefore find placenta ‘placenta’ and the morpheme ___ ‘its gloss ___’ for which only the general term bɛlɛ́ ‘belly, its gloss ___’ is recorded and Spanish membrano ‘membrane’ which has no equivalent in Pichi:
+A: word: suele	 gloss: usually
+B: word: matriz	 gloss: womb
+C: word: bɛlɛ́	 gloss: belly
+D: word: latrin	 gloss: latrine
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 89:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Wé dɔ́kta ópin, wé dɛn bigín drɔ́ di, sɔn tín we e kin dé bihɛ́n placenta, na membrana, sɔn kán lɛ́f bifó di matriz, so di ___ nó kán lɔ́k.
+Gloss (with missing item): SUB doctor open SUB 3PL begin draw DEF some thing SUB 3SG.SBJ HAB BE.LOC behind placenta FOC membrane some PFV remain before DEF womb so DEF ___ NEG PFV lock
+The English translation of this sentence is:‘When the doctor opened (the womb), they began to draw out the, a certain thing that is usually behind the placenta, it’s a membrane, some remained in front of the womb, so the womb didn’t close.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The preponderance of Spanish lexemes in other semantic fields reflects the asymmetric power relation that holds between Pichi and Spanish in a different way. For example, semantic fields relating to illness and medical treatment that are highly differentiated in other languages of the region (e.g. \ili{Yoruba}, see \citet{Adegbite1993}) probably did not assert itself in Pichi due to the marginalisation of African medical science with the advent of colonialism. In \REF{ex:key:1761}, we therefore find placenta ‘placenta’ and the morpheme ___ ‘its gloss ___’ for which only the general term bɛlɛ́ ‘belly, its gloss ___’ is recorded and Spanish membrano ‘membrane’ which has no equivalent in Pichi:
+A: word: latrin	 gloss: latrine
+B: word: matriz	 gloss: womb
+C: word: yɛ́lo	 gloss: be.yellow
+D: word: bɛlɛ́	 gloss: belly
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 90:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Hɛ́, a go fála yú bikɔs sɔn ___ dé wé na fɔ Opel, yu intenta bríng Opel in yón na corriente, Opel de kɛ́r bɔkú corriente só e nó go fít ɛ́nta na dán bujía, yu go wánda sɛ́f.\\
+Gloss (with missing item): INTJ 1SG.SBJ POT accompany 2SG.INDP because some ___ BE.LOC SUB FOC PREP NAME 2SG try bring NAME 3SG.POSS own FOC electricity NAME IPFV take much electricity like.that 3SG.SBJ NEG POT can enter LOC that ignition.plug 2SG POT wonder EMP
+The English translation of this sentence is:‘Hey, I’ll accompany you because there’s a cable which is an Opel (cable), (and if) you try to connect the Opel one with electricity, Opel takes a lot of electricity, so it won’t be able to enter that ignition plug, (and) you’ll be very surprised.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The systematic use of Spanish items also occurs in semantic fields that designate aspects of material and non-material culture of external origin. In \REF{ex:key:1762}, a car mechanic explains the disadvantages of an Opel ignition the morpheme ___. Note the Spanish technical terms in the sentence:
+A: word: róp	 gloss: rope
+B: word: problema	 gloss: problem
+C: word: cable	 gloss: cable
+D: word: sufre	 gloss: suffer
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 91:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Hɛ́, a go fála yú bikɔs sɔn cable dé wé na fɔ Opel, yu ___ bríng Opel in yón na corriente, Opel de kɛ́r bɔkú corriente só e nó go fít ɛ́nta na dán bujía, yu go wánda sɛ́f.\\
+Gloss (with missing item): INTJ 1SG.SBJ POT accompany 2SG.INDP because some cable BE.LOC SUB FOC PREP NAME 2SG ___ bring NAME 3SG.POSS own FOC electricity NAME IPFV take much electricity like.that 3SG.SBJ NEG POT can enter LOC that ignition.plug 2SG POT wonder EMP
+The English translation of this sentence is:‘Hey, I’ll accompany you because there’s a cable which is an Opel (cable), (and if) you try to connect the Opel one with electricity, Opel takes a lot of electricity, so it won’t be able to enter that ignition plug, (and) you’ll be very surprised.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The systematic use of Spanish items also occurs in semantic fields that designate aspects of material and non-material culture of external origin. In \REF{ex:key:1762}, a car mechanic explains the disadvantages of an Opel ignition cable. Note the Spanish technical terms in the sentence:
+A: word: wánt	 gloss: want
+B: word: intenta	 gloss: try
+C: word: siete	 gloss: seven
+D: word: cincuenta	 gloss: fifty
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 92:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Hɛ́, a go fála yú bikɔs sɔn cable dé wé na fɔ Opel, yu intenta bríng Opel in yón na ___ Opel de kɛ́r bɔkú corriente só e nó go fít ɛ́nta na dán bujía, yu go wánda sɛ́f.\\
+Gloss (with missing item): INTJ 1SG.SBJ POT accompany 2SG.INDP because some cable BE.LOC SUB FOC PREP NAME 2SG try bring NAME 3SG.POSS own FOC ___ NAME IPFV take much electricity like.that 3SG.SBJ NEG POT can enter LOC that ignition.plug 2SG POT wonder EMP
+The English translation of this sentence is:‘Hey, I’ll accompany you because there’s a cable which is an Opel (cable), (and if) you try to connect the Opel one with electricity, Opel takes a lot of electricity, so it won’t be able to enter that ignition plug, (and) you’ll be very surprised.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The systematic use of Spanish items also occurs in semantic fields that designate aspects of material and non-material culture of external origin. In \REF{ex:key:1762}, a car mechanic explains the disadvantages of an Opel ignition cable. Note the Spanish technical terms in the sentence:
+A: word: bloques	 gloss: bricks
+B: word: corriente	 gloss: electricity
+C: word: siente	 gloss: feel
+D: word: páwa	 gloss: power
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 93:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Hɛ́, a go fála yú bikɔs sɔn cable dé wé na fɔ Opel, yu intenta bríng Opel in yón na corriente, Opel de kɛ́r bɔkú ___ só e nó go fít ɛ́nta na dán bujía, yu go wánda sɛ́f.\\
+Gloss (with missing item): INTJ 1SG.SBJ POT accompany 2SG.INDP because some cable BE.LOC SUB FOC PREP NAME 2SG try bring NAME 3SG.POSS own FOC electricity NAME IPFV take much ___ like.that 3SG.SBJ NEG POT can enter LOC that ignition.plug 2SG POT wonder EMP
+The English translation of this sentence is:‘Hey, I’ll accompany you because there’s a cable which is an Opel (cable), (and if) you try to connect the Opel one with electricity, Opel takes a lot of electricity, so it won’t be able to enter that ignition plug, (and) you’ll be very surprised.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The systematic use of Spanish items also occurs in semantic fields that designate aspects of material and non-material culture of external origin. In \REF{ex:key:1762}, a car mechanic explains the disadvantages of an Opel ignition cable. Note the Spanish technical terms in the sentence:
+A: word: dɛn	 gloss: 3PL
+B: word: siente	 gloss: feel
+C: word: corriente	 gloss: electricity
+D: word: páwa	 gloss: power
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 94:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Hɛ́, a go fála yú bikɔs sɔn cable dé wé na fɔ Opel, yu intenta bríng Opel in yón na corriente, Opel de kɛ́r bɔkú corriente só e nó go fít ɛ́nta na dán ___ yu go wánda sɛ́f.\\
+Gloss (with missing item): INTJ 1SG.SBJ POT accompany 2SG.INDP because some cable BE.LOC SUB FOC PREP NAME 2SG try bring NAME 3SG.POSS own FOC electricity NAME IPFV take much electricity like.that 3SG.SBJ NEG POT can enter LOC that ___ 2SG POT wonder EMP
+The English translation of this sentence is:‘Hey, I’ll accompany you because there’s a cable which is an Opel (cable), (and if) you try to connect the Opel one with electricity, Opel takes a lot of electricity, so it won’t be able to enter that ignition plug, (and) you’ll be very surprised.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The systematic use of Spanish items also occurs in semantic fields that designate aspects of material and non-material culture of external origin. In \REF{ex:key:1762}, a car mechanic explains the disadvantages of an Opel ignition cable. Note the Spanish technical terms in the sentence:
+A: word: bujía	 gloss: ignition.plug
+B: word: fía	 gloss: fear
+C: word: especial	 gloss: special
+D: word: smók	 gloss: smoke
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 95:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Di dé wé yu go níd=an, yu go sé a nó gɛ́t ___ yu go kɔ́t gadinɛ́ks.
+Gloss (with missing item): DEF day SUB 2SG POT need=3SG.OBJ 2SG POT QUOT 1SG.SBJ NEG get ___ 2SG POT cut egg.plant
+The English translation of this sentence is:‘The day when you would need it, you would say “I don’t have oil”, (and) you would harvest egg-plants.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Conversely, the incidence of Spanish words is low in semantic fields characterised by the use of autochthonous technology, such as farming and with designations for locally-grown foodstuffs and other flora. Thus, in \REF{ex:key:1764}, we have díg grɔ́n ‘dig ground’ = ‘plough up the ground’, plánt chɔ́p ‘(to) plant food’, gádin ‘small field, garden’, jakató ‘bitter tomato’ and kíp ‘grow, rear’, as well as the morpheme ___ ‘its gloss ___’, and gadinɛ́ks ‘egg-plant’ \REF{ex:key:1765}:
+A: word: trowé	 gloss: pour
+B: word: fáyn	 gloss: fine
+C: word: ser	 gloss: be
+D: word: pamáyn	 gloss: oil
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+

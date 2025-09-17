@@ -1,0 +1,13 @@
+Question 0:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Yu wánt ___ na puerto (...)
+Gloss (with missing item): 2SG want ___ LOC port (...)
+The English translation of this sentence is:‘(If) you want to buy it at the port (...)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A comparison of \tabref{tab:key:2.9} and \tabref{tab:key:2.10} shows that opening sequences are realised as vowel-vowel sequences, while closing sequences are realised as vowel-approximant strings. The circumstances surrounding cliticisation \is{cliticisation}speak to the validity of differentiating between vowel-vowel and vowel-approximant sequences. Due to a restriction imposed by tonal phonotactics, =an may not encliticise to a vowel-terminal host if the final vowel of the host carries a low tone (cf. \sectref{sec:3.2.5}). Monosyllabic verbs featuring an approximant as the final segment may, however, take the object pronoun =an. Compare the verb báy ‘buy’ in \REF{ex:key:41}:
+A: word: lúk=an	 gloss: look=3SG.OBJ
+B: word: báy=an	 gloss: buy=3SG.OBJ
+C: word: llegue	 gloss: arrive:SBJV
+D: word: dráy=an	 gloss: dry=3SG.OBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
