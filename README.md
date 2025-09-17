@@ -1,4 +1,4 @@
-# lingGym
+# LingGym
 
 ## Overview
 
