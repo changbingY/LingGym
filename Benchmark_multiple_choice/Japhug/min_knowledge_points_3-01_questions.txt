@@ -1,0 +1,39 @@
+Question 0:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕe tɯ-ji ɯ-χcɤl tu-kɯ-ŋke mɤ-kʰɯ ma tɤ-rɤku tu tɕe tɕe, nɯ ɣɯ [tu-sɤ-ŋke] ___ ɯ-tʂu <zhuanmen> ɯ-rkoz ɲɯ́-wɣ-βzu ŋgrɤl tɕe ɯnɯnɯ tʂu nɯ ftɕɤru tu-kɯ-ti ŋu
+Gloss (with missing item): LNK INDEF.POSS-field 3SG.POSS-middle IPFV-GENR:S/O-walk NEG-be.possible:FACT LNK INDEF.POSS-crops exist:FACT LNK LNK DEM GEN IPFV-OBL:PCP-walk ___ 3SG.POSS-path specially 3SG.POSS-special IPFV-INV-make be.usually.the.case:FACT LNK DEM path DEM summer.path IPFV-GENR-say be:FACT
+The English translation of this sentence is:`One cannot walk in the middle of the fields, because there are crops. To walk into it, one specially makes a path, and that path is call `summer path'.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The noun \japhug{ftɕɤru}{path in the middle of the fields} is a compound of \japhug{ftɕar}{summer} and \japhug{tʂu}{road} (such paths are made during summer to allow workers to work in the field without damaging the crops, see a definition in \ref{ex:tusANke.Wspa} in §\ref{sec:instrumental.participle.relatives}). The first element \forme{ftɕɤ-} is the bound state of \forme{ftɕar} (with loss of final consonant) and the form \forme{-ru} for the second member of the compound is a clue that \forme{tʂu} comes from earlier \forme{*t-ro} with a dental stop+\ipa{r} cluster changing to a retroflex affricate (see §\ref{sec:Cr.clusters} and §\ref{sec:teens}) -- the \forme{*t-} element being prefixal (perhaps a fossilized indefinite possessor prefix).
+A: word: ɯ-rdoʁ	 gloss: 3SG.POSS-grain
+B: word: ɯ-kɯ-spa	 gloss: 3SG.POSS-SBJ:PCP-be.able
+C: word: kɯmɤlɤxso	 gloss: in.vain
+D: word: ɯ-spa	 gloss: 3SG.POSS-material
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 1:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɯʑora ___ ɲɯ-tɯ-ɕti-nɯ ma tɯ-nɤma-nɯ maŋe!
+Gloss (with missing item): 2PL ___ SENS-2-be.AFF LNK 2-work:FACT-PL not.exist:SENS
+The English translation of this sentence is:`You are useless, you don't do any work.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The noun \japhug{the morpheme ___}{useless}, `superfluous', combines the subject participle of \japhug{me}{not exist} with the property noun \japhug{ɯ-xso}{empty, normal} (a lexicalized participle, whose uses and etymology are described in §\ref{sec:property.nouns}). It can be used as predicate with a copula (\ref{ex:kWmAlAxso}), but often occurs in adverbial use meaning `in vain', `for nothing' or `doing nothing' as in (\ref{ex:kWmAlAxso.kutWrAZindZi}).
+A: word: ɯ-mɤlɤjaʁ	 gloss: 3SG.POSS-limb
+B: word: tɤ-mbɣom	 gloss: IMP-be.in.a.hurry
+C: word: ɯ-spa	 gloss: 3SG.POSS-material
+D: word: kɯmɤlɤxso	 gloss: in.vain
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndʑi-<zuoye> pɯ-βzu-ndʑi ra ma ___ ku-tɯ-rɤʑi-ndʑi mɤ-jɤɣ
+Gloss (with missing item): 2DU.POSS-homework IMP-make-DU be.needed:FACT LNK ___ IPFV-2-stay-DU NEG-be.allowed:FACT
+The English translation of this sentence is:`Do your homework, don't stay there doing nothing.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The noun \japhug{the morpheme ___}{useless}, `superfluous', combines the subject participle of \japhug{me}{not exist} with the property noun \japhug{ɯ-xso}{empty, normal} (a lexicalized participle, whose uses and etymology are described in §\ref{sec:property.nouns}). It can be used as predicate with a copula (\ref{ex:kWmAlAxso}), but often occurs in adverbial use meaning `in vain', `for nothing' or `doing nothing' as in (\ref{ex:kWmAlAxso.kutWrAZindZi}).
+A: word: ɯ-mɤlɤjaʁ	 gloss: 3SG.POSS-limb
+B: word: tɤ-mbɣom	 gloss: IMP-be.in.a.hurry
+C: word: kɯmɤlɤxso	 gloss: in.vain
+D: word: ɯ-spa	 gloss: 3SG.POSS-material
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+

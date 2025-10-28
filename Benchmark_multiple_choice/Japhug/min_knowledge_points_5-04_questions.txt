@@ -1,0 +1,143 @@
+Question 0:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ʑakastaka ɯ-mdoʁ ___ mɤ-kɯ-naχtɕɯɣ ɣɤʑu, ɯ-tsʰɯɣa tɕi mɤ-kɯ-naχtɕɯɣ ɣɤʑu.
+Gloss (with missing item): each.his.own 3SG.POSS-colour ___ NEG-SBJ:PCP-be.the.same exist:SENS 3SG.POSS-shape also NEG-SBJ:PCP-be.the.same exist:SENS
+The English translation of this sentence is:`Each of them (species of starfishes) has its own different colour and different shape.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The correlative additive focus markers \forme{ri} and \forme{the morpheme ___} (§\ref{sec:ri.additive}, §\ref{sec:addition.clauses}) are one of the clearest cases of correlative constructions. As shown by (\ref{ex:pjWnWCWrNYJo.pjWNgra}), they follow the noun phrase on which they have scope, and the rest of the clause, including the verb, can be repeated as in (\ref{ex:WmdoR.tCi.mAkWnaXtCWG}).
+A: word: rɤʑi-tɕi	 gloss: stay:FACT-1DU
+B: word: tɕi	 gloss: also
+C: word: kɯroz	 gloss: specially
+D: word: a-pɯ-ŋu-a	 gloss: IRR-IPFV-be-1SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 1:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ʑakastaka ɯ-mdoʁ tɕi mɤ-kɯ-naχtɕɯɣ ɣɤʑu, ɯ-tsʰɯɣa ___ mɤ-kɯ-naχtɕɯɣ ɣɤʑu.
+Gloss (with missing item): each.his.own 3SG.POSS-colour also NEG-SBJ:PCP-be.the.same exist:SENS 3SG.POSS-shape ___ NEG-SBJ:PCP-be.the.same exist:SENS
+The English translation of this sentence is:`Each of them (species of starfishes) has its own different colour and different shape.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The correlative additive focus markers \forme{ri} and \forme{the morpheme ___} (§\ref{sec:ri.additive}, §\ref{sec:addition.clauses}) are one of the clearest cases of correlative constructions. As shown by (\ref{ex:pjWnWCWrNYJo.pjWNgra}), they follow the noun phrase on which they have scope, and the rest of the clause, including the verb, can be repeated as in (\ref{ex:WmdoR.tCi.mAkWnaXtCWG}).
+A: word: tɕi	 gloss: also
+B: word: kɯroz	 gloss: specially
+C: word: rɤʑi-tɕi	 gloss: stay:FACT-1DU
+D: word: a-pɯ-ŋu-a	 gloss: IRR-IPFV-be-1SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 2:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [aʑo nɤʑo kɯ iɕqʰa nɯtɕu ɣɯ-tu-kɯ-qur-a a-pɯ-ŋu] tɕe, nɯnɯ wuma ʑo ___ ma
+Gloss (with missing item): 1SG 2SG ERG just.before DEM:LOC CISL-IPFV-2\fl{}1-help-1SG IRR-PST.IPFV-be LNK DEM really EMPH ___ LNK
+The English translation of this sentence is:`If you had come and helped me right before, I would have appreciated it.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In counterfactual constructions, the protasis describes a condition that is known to be false, and the apodosis indicates an outcome that would have occurred if the condition had been true. In Japhug, counterfactual conditionals have strict requirements on TAME marking in both the protasis and the apodosis. The verb in the protasis is in the Irrealis (§\ref{sec:irrealis.conditional}), and the Past Imperfective is required in the apodosis even for transitive dynamic verbs (§\ref{sec:pst.ifr.ipfv.apodosis}), as illustrated by (\ref{ex:GWtukWqura.apWNu.pWnApeta}) and (\ref{ex:apWtu.apWNua.pWra}).\footnote{In a previous publication (\citealt[301]{jacques14linking}), I claimed that there were counterfactual constructions with a verb in the Factual Non-Past in the apodosis (example 99), but this was an erroneous interpretation. }
+A: word: a-pɯ-ŋu-a	 gloss: IRR-IPFV-be-1SG
+B: word: pɯ-nɤ-pe-t-a	 gloss: PST.IPFV-TROP-be.good-PST:TR-1SG
+C: word: ɯ-tɤ-tɯ-sɤ-pe-t	 gloss: QU-AOR-2-CAUS-be.good-PST:TR
+D: word: pɯ-ɕti-a	 gloss: PST.IPFV-be-1SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 3:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tʰam tɕe nɤki χawo [aʑo a-mi a-pɯ-tu] tɕe, nɯ rɟɤlpu ɯ-tɕɯ nɯ ɯ-rkɯ nɯtɕu kɯ-rɤʑi nɯ aʑo ___ pɯ-ra
+Gloss (with missing item): now LNK FILLER if.only 1SG 1SG.POSS-leg IRR-IPFV-exist LNK DEM king 3SG.POSS-son DEM 3SG.POSS-side DEM:LOC SBJ:PCP-stay DEM 1SG ___ PST.IPFV-be.needed
+The English translation of this sentence is:`If only I had legs now, the one next to the prince would have had to be me.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In counterfactual constructions, the protasis describes a condition that is known to be false, and the apodosis indicates an outcome that would have occurred if the condition had been true. In Japhug, counterfactual conditionals have strict requirements on TAME marking in both the protasis and the apodosis. The verb in the protasis is in the Irrealis (§\ref{sec:irrealis.conditional}), and the Past Imperfective is required in the apodosis even for transitive dynamic verbs (§\ref{sec:pst.ifr.ipfv.apodosis}), as illustrated by (\ref{ex:GWtukWqura.apWNu.pWnApeta}) and (\ref{ex:apWtu.apWNua.pWra}).\footnote{In a previous publication (\citealt[301]{jacques14linking}), I claimed that there were counterfactual constructions with a verb in the Factual Non-Past in the apodosis (example 99), but this was an erroneous interpretation. }
+A: word: tɕi	 gloss: also
+B: word: a-pɯ-ŋu-a	 gloss: IRR-IPFV-be-1SG
+C: word: a-pɯ-tɯ-ŋu	 gloss: IRR-IPFV-2-be
+D: word: a-pɯ-ŋu	 gloss: IRR-PFV-be
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 4:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tʰam tɕe nɤki χawo [aʑo a-mi a-pɯ-tu] tɕe, nɯ rɟɤlpu ɯ-tɕɯ nɯ ɯ-rkɯ nɯtɕu kɯ-rɤʑi nɯ aʑo a-pɯ-ŋu-a ___
+Gloss (with missing item): now LNK FILLER if.only 1SG 1SG.POSS-leg IRR-IPFV-exist LNK DEM king 3SG.POSS-son DEM 3SG.POSS-side DEM:LOC SBJ:PCP-stay DEM 1SG IRR-IPFV-be-1SG ___
+The English translation of this sentence is:`If only I had legs now, the one next to the prince would have had to be me.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In counterfactual constructions, the protasis describes a condition that is known to be false, and the apodosis indicates an outcome that would have occurred if the condition had been true. In Japhug, counterfactual conditionals have strict requirements on TAME marking in both the protasis and the apodosis. The verb in the protasis is in the Irrealis (§\ref{sec:irrealis.conditional}), and the Past Imperfective is required in the apodosis even for transitive dynamic verbs (§\ref{sec:pst.ifr.ipfv.apodosis}), as illustrated by (\ref{ex:GWtukWqura.apWNu.pWnApeta}) and (\ref{ex:apWtu.apWNua.pWra}).\footnote{In a previous publication (\citealt[301]{jacques14linking}), I claimed that there were counterfactual constructions with a verb in the Factual Non-Past in the apodosis (example 99), but this was an erroneous interpretation. }
+A: word: pɯ-ra	 gloss: PST.IPFV-be.needed
+B: word: pɯ-nɤ-pe-t-a	 gloss: PST.IPFV-TROP-be.good-PST:TR-1SG
+C: word: mɯ-pɯ-ra	 gloss: NEG-PST.IPFV-be.needed
+D: word: pɯ-ŋu	 gloss: PST.IPFV-be
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 5:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕʰemɤ-pɯ pɯ-ɕti-a ___ tɤ-tɕɯ ra nɯ-ɕki ku-rɤʑi-a mɯ́j-naz-a qʰe kɤ-ʑɣɤ-ɕɯ-fka mɯ-pɯ-naz-a
+Gloss (with missing item): girl-DIM PST.IPFV-be-1SG ___ INDEF.POSS-son PL 3PL.POSS-DAT IPFV-stay-1SG NEG:SENS-dare-1SG LNK INF-REFL-CAUS-be.full NEG-PST.IPFV-dare-1SG
+The English translation of this sentence is:`As I was a little girl, I did not dare to stay at a boy's place, and thus did not dare to eat my fill.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: However, consequence is more generally simply indicated by the linkers \forme{tɕe} and/or \forme{the morpheme ___} (§\ref{sec:coordination}), as illustrated by (\ref{ex:pWCtia.qhe.qhe}).
+A: word: tu-qʰe-a	 gloss: IPFV-hate[III]-1SG
+B: word: a-pɯ-ŋu-a	 gloss: IRR-IPFV-be-1SG
+C: word: saɕɯ	 gloss: larch
+D: word: qʰe	 gloss: LNK
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 6:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕʰemɤ-pɯ pɯ-ɕti-a qʰe tɤ-tɕɯ ra nɯ-ɕki ku-rɤʑi-a mɯ́j-naz-a ___ kɤ-ʑɣɤ-ɕɯ-fka mɯ-pɯ-naz-a
+Gloss (with missing item): girl-DIM PST.IPFV-be-1SG LNK INDEF.POSS-son PL 3PL.POSS-DAT IPFV-stay-1SG NEG:SENS-dare-1SG ___ INF-REFL-CAUS-be.full NEG-PST.IPFV-dare-1SG
+The English translation of this sentence is:`As I was a little girl, I did not dare to stay at a boy's place, and thus did not dare to eat my fill.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: However, consequence is more generally simply indicated by the linkers \forme{tɕe} and/or \forme{the morpheme ___} (§\ref{sec:coordination}), as illustrated by (\ref{ex:pWCtia.qhe.qhe}).
+A: word: a-pɯ-ŋu-a	 gloss: IRR-IPFV-be-1SG
+B: word: tu-qʰe-a	 gloss: IPFV-hate[III]-1SG
+C: word: saɕɯ	 gloss: larch
+D: word: qʰe	 gloss: LNK
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 7:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕe nɯ ɯ-rɣi a-mɤ-pɯ-ɕe ra ma pjɯ-tsɣi mɤ-cʰa tɕe tɕendɤre a-nɯ-ɤci ___ qʰe cʰo ftɕar a-kɤ-ndzoʁ ʑo qʰe li tu-ɬoʁ ɕti
+Gloss (with missing item): LNK DEM 3SG.POSS-grain IRR-NEG-PFV:DOWN-go be.needed:FACT LNK IPFV-be.rotten NEG-can:FACT LNK LNK IRR-PFV-get.wet ___ LNK COMIT summer IRR-PFV-ACAUS:attach EMPH LNK again IPFV-come.out be.AFF:FACT
+The English translation of this sentence is:`One should not let its grains go into [the ground], because they cannot rot, and when they get wet and the spring comes, they grow again.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The comitative \forme{cʰo} can follow the linkers \forme{qʰe} and \forme{tɕe} when used to link clauses as in (\ref{ex:Zo.qhe.cho}), but notice that the emphatic marker (§\ref{sec:emphatic.Zo}) and the linker \forme{the morpheme ___ qʰe} are repeated in both the clause preceding \forme{cʰo} and the one following it.
+A: word: nɤʑo	 gloss: 2SG
+B: word: `ʂɯt'	 gloss: IDPH.I:sound
+C: word: tɕi	 gloss: also
+D: word: ʑo	 gloss: EMPH
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 8:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕe nɯ ɯ-rɣi a-mɤ-pɯ-ɕe ra ma pjɯ-tsɣi mɤ-cʰa tɕe tɕendɤre a-nɯ-ɤci ʑo ___ cʰo ftɕar a-kɤ-ndzoʁ ʑo qʰe li tu-ɬoʁ ɕti
+Gloss (with missing item): LNK DEM 3SG.POSS-grain IRR-NEG-PFV:DOWN-go be.needed:FACT LNK IPFV-be.rotten NEG-can:FACT LNK LNK IRR-PFV-get.wet EMPH ___ COMIT summer IRR-PFV-ACAUS:attach EMPH LNK again IPFV-come.out be.AFF:FACT
+The English translation of this sentence is:`One should not let its grains go into [the ground], because they cannot rot, and when they get wet and the spring comes, they grow again.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The comitative \forme{cʰo} can follow the linkers \forme{the morpheme ___} and \forme{tɕe} when used to link clauses as in (\ref{ex:Zo.qhe.cho}), but notice that the emphatic marker (§\ref{sec:emphatic.Zo}) and the linker \forme{ʑo the morpheme ___} are repeated in both the clause preceding \forme{cʰo} and the one following it.
+A: word: saɕɯ	 gloss: larch
+B: word: tu-qʰe-a	 gloss: IPFV-hate[III]-1SG
+C: word: qʰe	 gloss: LNK
+D: word: pɯ-nɤ-pe-t-a	 gloss: PST.IPFV-TROP-be.good-PST:TR-1SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 9:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕe nɯ ɯ-rɣi a-mɤ-pɯ-ɕe ra ma pjɯ-tsɣi mɤ-cʰa tɕe tɕendɤre a-nɯ-ɤci ʑo qʰe cʰo ftɕar a-kɤ-ndzoʁ ___ qʰe li tu-ɬoʁ ɕti
+Gloss (with missing item): LNK DEM 3SG.POSS-grain IRR-NEG-PFV:DOWN-go be.needed:FACT LNK IPFV-be.rotten NEG-can:FACT LNK LNK IRR-PFV-get.wet EMPH LNK COMIT summer IRR-PFV-ACAUS:attach ___ LNK again IPFV-come.out be.AFF:FACT
+The English translation of this sentence is:`One should not let its grains go into [the ground], because they cannot rot, and when they get wet and the spring comes, they grow again.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The comitative \forme{cʰo} can follow the linkers \forme{qʰe} and \forme{tɕe} when used to link clauses as in (\ref{ex:Zo.qhe.cho}), but notice that the emphatic marker (§\ref{sec:emphatic.Zo}) and the linker \forme{the morpheme ___ qʰe} are repeated in both the clause preceding \forme{cʰo} and the one following it.
+A: word: nɤʑo	 gloss: 2SG
+B: word: `ʂɯt'	 gloss: IDPH.I:sound
+C: word: tɕi	 gloss: also
+D: word: ʑo	 gloss: EMPH
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 10:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕe nɯ ɯ-rɣi a-mɤ-pɯ-ɕe ra ma pjɯ-tsɣi mɤ-cʰa tɕe tɕendɤre a-nɯ-ɤci ʑo qʰe cʰo ftɕar a-kɤ-ndzoʁ ʑo ___ li tu-ɬoʁ ɕti
+Gloss (with missing item): LNK DEM 3SG.POSS-grain IRR-NEG-PFV:DOWN-go be.needed:FACT LNK IPFV-be.rotten NEG-can:FACT LNK LNK IRR-PFV-get.wet EMPH LNK COMIT summer IRR-PFV-ACAUS:attach EMPH ___ again IPFV-come.out be.AFF:FACT
+The English translation of this sentence is:`One should not let its grains go into [the ground], because they cannot rot, and when they get wet and the spring comes, they grow again.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The comitative \forme{cʰo} can follow the linkers \forme{the morpheme ___} and \forme{tɕe} when used to link clauses as in (\ref{ex:Zo.qhe.cho}), but notice that the emphatic marker (§\ref{sec:emphatic.Zo}) and the linker \forme{ʑo the morpheme ___} are repeated in both the clause preceding \forme{cʰo} and the one following it.
+A: word: qʰe	 gloss: LNK
+B: word: pɯ-ra	 gloss: PST.IPFV-be.needed
+C: word: tu-qʰe-a	 gloss: IPFV-hate[III]-1SG
+D: word: saɕɯ	 gloss: larch
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+

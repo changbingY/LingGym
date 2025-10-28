@@ -1,0 +1,156 @@
+Question 0:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕè ___ cì pjɤ-tú-ndʑi tɕè tɤ-rʑáβ nɯ̀ ɬamú pjɤ-rmí. tɤ-tɕɯ́ nɯ̀ tsʰɯráŋ pjɤ-rmí.
+Gloss (with missing item): LNK ___ INDEF IFR.IPFV-exist-DU LNK INDEF.POSS-wife DEM ANTHR IPFV.IPFV-be.called INDEF.POSS-son DEM ANTHR IPFV.IPFV-be.called
+The English translation of this sentence is:`There was a couple, the wife was called Lhamo, and the man Tshering.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The clearest phonological criterion for wordhood is stress. Stress is by default word-final, and words have at most one stress. Most function words, including linkers (§\ref{sec:coordination}), determiners (§\ref{sec:determiners}), postpositions (§\ref{ex:postpositions}) and even relator nouns (§\ref{sec:relator.nouns}) lack stress (unless they receive special emphasis). In example (\ref{ex:clitics.words}), the stressed syllables are indicated by an acute accent, and the unstressed function words by a grave accent.
+A: word: ʁzɤmí	 gloss: couple
+B: word: tɤ-rʑáβ	 gloss: INDEF.POSS-wife
+C: word: tɤrcɯrca	 gloss: together
+D: word: ʁzɤmi	 gloss: couple
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 1:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕè ʁzɤmí cì ___ tɕè tɤ-rʑáβ nɯ̀ ɬamú pjɤ-rmí. tɤ-tɕɯ́ nɯ̀ tsʰɯráŋ pjɤ-rmí.
+Gloss (with missing item): LNK couple INDEF ___ LNK INDEF.POSS-wife DEM ANTHR IPFV.IPFV-be.called INDEF.POSS-son DEM ANTHR IPFV.IPFV-be.called
+The English translation of this sentence is:`There was a couple, the wife was called Lhamo, and the man Tshering.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The clearest phonological criterion for wordhood is stress. Stress is by default word-final, and words have at most one stress. Most function words, including linkers (§\ref{sec:coordination}), determiners (§\ref{sec:determiners}), postpositions (§\ref{ex:postpositions}) and even relator nouns (§\ref{sec:relator.nouns}) lack stress (unless they receive special emphasis). In example (\ref{ex:clitics.words}), the stressed syllables are indicated by an acute accent, and the unstressed function words by a grave accent.
+A: word: pjɤ-tu-nɯ	 gloss: IFR.IPFV-exist-PL
+B: word: ɬamú	 gloss: ANTHR
+C: word: pjɤ-tu	 gloss: IFR.IPFV-exist
+D: word: pjɤ-tú-ndʑi	 gloss: IFR.IPFV-exist-DU
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕè ʁzɤmí cì pjɤ-tú-ndʑi tɕè ___ nɯ̀ ɬamú pjɤ-rmí. tɤ-tɕɯ́ nɯ̀ tsʰɯráŋ pjɤ-rmí.
+Gloss (with missing item): LNK couple INDEF IFR.IPFV-exist-DU LNK ___ DEM ANTHR IPFV.IPFV-be.called INDEF.POSS-son DEM ANTHR IPFV.IPFV-be.called
+The English translation of this sentence is:`There was a couple, the wife was called Lhamo, and the man Tshering.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The clearest phonological criterion for wordhood is stress. Stress is by default word-final, and words have at most one stress. Most function words, including linkers (§\ref{sec:coordination}), determiners (§\ref{sec:determiners}), postpositions (§\ref{ex:postpositions}) and even relator nouns (§\ref{sec:relator.nouns}) lack stress (unless they receive special emphasis). In example (\ref{ex:clitics.words}), the stressed syllables are indicated by an acute accent, and the unstressed function words by a grave accent.
+A: word: tɤ-rʑáβ	 gloss: INDEF.POSS-wife
+B: word: tɤ-nmaʁ	 gloss: INDEF.POSS-husband
+C: word: tɤ-tɕɯ́	 gloss: INDEF.POSS-son
+D: word: tɤ-rʑaβ	 gloss: INDEF.POSS-wife
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 3:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕè ʁzɤmí cì pjɤ-tú-ndʑi tɕè tɤ-rʑáβ nɯ̀ ___ pjɤ-rmí. tɤ-tɕɯ́ nɯ̀ tsʰɯráŋ pjɤ-rmí.
+Gloss (with missing item): LNK couple INDEF IFR.IPFV-exist-DU LNK INDEF.POSS-wife DEM ___ IPFV.IPFV-be.called INDEF.POSS-son DEM ANTHR IPFV.IPFV-be.called
+The English translation of this sentence is:`There was a couple, the wife was called Lhamo, and the man Tshering.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The clearest phonological criterion for wordhood is stress. Stress is by default word-final, and words have at most one stress. Most function words, including linkers (§\ref{sec:coordination}), determiners (§\ref{sec:determiners}), postpositions (§\ref{ex:postpositions}) and even relator nouns (§\ref{sec:relator.nouns}) lack stress (unless they receive special emphasis). In example (\ref{ex:clitics.words}), the stressed syllables are indicated by an acute accent, and the unstressed function words by a grave accent.
+A: word: tɤ-tɕɯ́	 gloss: INDEF.POSS-son
+B: word: qrormbɯ	 gloss: anthill
+C: word: ɬamú	 gloss: ANTHR
+D: word: ɬamu	 gloss: ANTHR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 4:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕè ʁzɤmí cì pjɤ-tú-ndʑi tɕè tɤ-rʑáβ nɯ̀ ɬamú pjɤ-rmí. ___ nɯ̀ tsʰɯráŋ pjɤ-rmí.
+Gloss (with missing item): LNK couple INDEF IFR.IPFV-exist-DU LNK INDEF.POSS-wife DEM ANTHR IPFV.IPFV-be.called ___ DEM ANTHR IPFV.IPFV-be.called
+The English translation of this sentence is:`There was a couple, the wife was called Lhamo, and the man Tshering.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The clearest phonological criterion for wordhood is stress. Stress is by default word-final, and words have at most one stress. Most function words, including linkers (§\ref{sec:coordination}), determiners (§\ref{sec:determiners}), postpositions (§\ref{ex:postpositions}) and even relator nouns (§\ref{sec:relator.nouns}) lack stress (unless they receive special emphasis). In example (\ref{ex:clitics.words}), the stressed syllables are indicated by an acute accent, and the unstressed function words by a grave accent.
+A: word: tɤ-rɟit	 gloss: INDEF.POSS-child
+B: word: tsʰɯráŋ	 gloss: ANTHR
+C: word: tɤ-tɕɯ́	 gloss: INDEF.POSS-son
+D: word: tɤ-tɕɯ	 gloss: INDEF.POSS-son
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 5:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕè ʁzɤmí cì pjɤ-tú-ndʑi tɕè tɤ-rʑáβ nɯ̀ ɬamú pjɤ-rmí. tɤ-tɕɯ́ nɯ̀ ___ pjɤ-rmí.
+Gloss (with missing item): LNK couple INDEF IFR.IPFV-exist-DU LNK INDEF.POSS-wife DEM ANTHR IPFV.IPFV-be.called INDEF.POSS-son DEM ___ IPFV.IPFV-be.called
+The English translation of this sentence is:`There was a couple, the wife was called Lhamo, and the man Tshering.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The clearest phonological criterion for wordhood is stress. Stress is by default word-final, and words have at most one stress. Most function words, including linkers (§\ref{sec:coordination}), determiners (§\ref{sec:determiners}), postpositions (§\ref{ex:postpositions}) and even relator nouns (§\ref{sec:relator.nouns}) lack stress (unless they receive special emphasis). In example (\ref{ex:clitics.words}), the stressed syllables are indicated by an acute accent, and the unstressed function words by a grave accent.
+A: word: ɬamú	 gloss: ANTHR
+B: word: tsʰɯráŋ	 gloss: ANTHR
+C: word: tsʰɯraŋ	 gloss: ANTHR
+D: word: qrormbɯ	 gloss: anthill
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 6:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕè ___ cì pjɤ-tú-ndʑi tɕè tɤ-rʑáβ nɯ̀ ɬamú pjɤ-rmí. tɤ-tɕɯ́ nɯ̀ tsʰɯráŋ pjɤ-rmí.
+Gloss (with missing item): LNK ___ INDEF IFR.IPFV-exist-DU LNK INDEF.POSS-wife DEM ANTHR IPFV.IPFV-be.called INDEF.POSS-son DEM ANTHR IPFV.IPFV-be.called
+The English translation of this sentence is:`There was a couple, the wife was called Lhamo, and the man Tshering.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are only three groups of exceptions to word-final stress placement (for instance the unstressed suffix \forme{-ndʑi} in \ref{ex:clitics.words}), as seen in the previous section (§\ref{sec:stress}). Given its predictability, stress is not noted in the transcription employed in this grammar, except on stress-attracting prefixes.
+A: word: tɤrcɯrca	 gloss: together
+B: word: tsʰɯráŋ	 gloss: ANTHR
+C: word: ʁzɤmí	 gloss: couple
+D: word: ʁzɤmi	 gloss: couple
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 7:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕè ʁzɤmí cì ___ tɕè tɤ-rʑáβ nɯ̀ ɬamú pjɤ-rmí. tɤ-tɕɯ́ nɯ̀ tsʰɯráŋ pjɤ-rmí.
+Gloss (with missing item): LNK couple INDEF ___ LNK INDEF.POSS-wife DEM ANTHR IPFV.IPFV-be.called INDEF.POSS-son DEM ANTHR IPFV.IPFV-be.called
+The English translation of this sentence is:`There was a couple, the wife was called Lhamo, and the man Tshering.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are only three groups of exceptions to word-final stress placement (for instance the unstressed suffix \forme{-ndʑi} in \ref{ex:clitics.words}), as seen in the previous section (§\ref{sec:stress}). Given its predictability, stress is not noted in the transcription employed in this grammar, except on stress-attracting prefixes.
+A: word: tsʰɯráŋ	 gloss: ANTHR
+B: word: pjɤ-tu	 gloss: IFR.IPFV-exist
+C: word: pjɤ-tu-nɯ	 gloss: IFR.IPFV-exist-PL
+D: word: pjɤ-tú-ndʑi	 gloss: IFR.IPFV-exist-DU
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 8:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕè ʁzɤmí cì pjɤ-tú-ndʑi tɕè ___ nɯ̀ ɬamú pjɤ-rmí. tɤ-tɕɯ́ nɯ̀ tsʰɯráŋ pjɤ-rmí.
+Gloss (with missing item): LNK couple INDEF IFR.IPFV-exist-DU LNK ___ DEM ANTHR IPFV.IPFV-be.called INDEF.POSS-son DEM ANTHR IPFV.IPFV-be.called
+The English translation of this sentence is:`There was a couple, the wife was called Lhamo, and the man Tshering.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are only three groups of exceptions to word-final stress placement (for instance the unstressed suffix \forme{-ndʑi} in \ref{ex:clitics.words}), as seen in the previous section (§\ref{sec:stress}). Given its predictability, stress is not noted in the transcription employed in this grammar, except on stress-attracting prefixes.
+A: word: tɤ-rʑáβ	 gloss: INDEF.POSS-wife
+B: word: tsʰɯráŋ	 gloss: ANTHR
+C: word: tɤ-rʑaβ	 gloss: INDEF.POSS-wife
+D: word: tɤ-nmaʁ	 gloss: INDEF.POSS-husband
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 9:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕè ʁzɤmí cì pjɤ-tú-ndʑi tɕè tɤ-rʑáβ nɯ̀ ___ pjɤ-rmí. tɤ-tɕɯ́ nɯ̀ tsʰɯráŋ pjɤ-rmí.
+Gloss (with missing item): LNK couple INDEF IFR.IPFV-exist-DU LNK INDEF.POSS-wife DEM ___ IPFV.IPFV-be.called INDEF.POSS-son DEM ANTHR IPFV.IPFV-be.called
+The English translation of this sentence is:`There was a couple, the wife was called Lhamo, and the man Tshering.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are only three groups of exceptions to word-final stress placement (for instance the unstressed suffix \forme{-ndʑi} in \ref{ex:clitics.words}), as seen in the previous section (§\ref{sec:stress}). Given its predictability, stress is not noted in the transcription employed in this grammar, except on stress-attracting prefixes.
+A: word: ɬamu	 gloss: ANTHR
+B: word: pjɤ-tú-ndʑi	 gloss: IFR.IPFV-exist-DU
+C: word: ɬamú	 gloss: ANTHR
+D: word: qrormbɯ	 gloss: anthill
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 10:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕè ʁzɤmí cì pjɤ-tú-ndʑi tɕè tɤ-rʑáβ nɯ̀ ɬamú pjɤ-rmí. ___ nɯ̀ tsʰɯráŋ pjɤ-rmí.
+Gloss (with missing item): LNK couple INDEF IFR.IPFV-exist-DU LNK INDEF.POSS-wife DEM ANTHR IPFV.IPFV-be.called ___ DEM ANTHR IPFV.IPFV-be.called
+The English translation of this sentence is:`There was a couple, the wife was called Lhamo, and the man Tshering.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are only three groups of exceptions to word-final stress placement (for instance the unstressed suffix \forme{-ndʑi} in \ref{ex:clitics.words}), as seen in the previous section (§\ref{sec:stress}). Given its predictability, stress is not noted in the transcription employed in this grammar, except on stress-attracting prefixes.
+A: word: tɤ-tɕɯ́	 gloss: INDEF.POSS-son
+B: word: tsʰɯráŋ	 gloss: ANTHR
+C: word: tɤ-tɕɯ	 gloss: INDEF.POSS-son
+D: word: tɤ-rɟit	 gloss: INDEF.POSS-child
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 11:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕè ʁzɤmí cì pjɤ-tú-ndʑi tɕè tɤ-rʑáβ nɯ̀ ɬamú pjɤ-rmí. tɤ-tɕɯ́ nɯ̀ ___ pjɤ-rmí.
+Gloss (with missing item): LNK couple INDEF IFR.IPFV-exist-DU LNK INDEF.POSS-wife DEM ANTHR IPFV.IPFV-be.called INDEF.POSS-son DEM ___ IPFV.IPFV-be.called
+The English translation of this sentence is:`There was a couple, the wife was called Lhamo, and the man Tshering.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are only three groups of exceptions to word-final stress placement (for instance the unstressed suffix \forme{-ndʑi} in \ref{ex:clitics.words}), as seen in the previous section (§\ref{sec:stress}). Given its predictability, stress is not noted in the transcription employed in this grammar, except on stress-attracting prefixes.
+A: word: qrormbɯ	 gloss: anthill
+B: word: tsʰɯráŋ	 gloss: ANTHR
+C: word: tɤ-rʑáβ	 gloss: INDEF.POSS-wife
+D: word: tsʰɯraŋ	 gloss: ANTHR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+

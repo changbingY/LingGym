@@ -1,0 +1,65 @@
+Question 0:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕe kumpɣɤtɕɯ nɯnɯ pɣɤtɕɯ nɯ-rca, kɯ-xtɕi ci zdoʁzdoʁ ___ tɕe, ɯʑo xtɕi ri wuma ʑo ɕqraʁ tɕe ɯ-mɲaʁ ɯ-rkɯ nɯnɯ ra kɯ-ɲaʁ kɯ tú-wɣ-fskɤr, nɯ ɯ-taʁ ri, hanɯni, kɯ-xtɕɯ\redp{}xtɕi kɯ-ɣɯrni kɯ-fse tu, ɯ-xtɤpa nɯ ra, ɯ-rqopa pjɯ-ʑe tɕe, nɯ ra, ɯ-jme mɯ-tʰɯ-nɯ-ɬoʁ mɤɕtʂa nɯ wɣrum
+Gloss (with missing item): LNK sparrow DEM bird 3PL-among SBJ:PCP-be.small INDEF IDEO:STAT:small.and.cute ___ LNK 3SG be.small:FACT but really EMPH be.smart:FACT LNK 3SG:POSS-eye 3SG:POSS-border DEM PL SBJ:PCP-be.black ERG IPFV-INV-surround DEM 3SG-on LOC a.little SBJ:PCP-EMPH\redp{}be.small SBJ:PCP-be.red SBJ:PCP-be.like exist:FACT 3SG:POSS-belly DEM PL 3SG:POSS-throat IPFV-begin[III] LNK DEM PL 3SG:POSS-tail NEG-AOR-AUTO-come.out until DEM be.white:FACT
+The English translation of this sentence is:`Among the birds, the sparrow is tiny and cute. Although it is small it is very smart. Its eyes are surrounded by black [feathers], and above that there are some red [dots]. Its belly is white from the throat to the tail.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: First, in the case of stative verbs, the Factual occurs to describe facts considered to belong to everybody's common knowledge. Example (\ref{ex:kumpGAtCW}) illustrates five verb forms in the Factual in this use (highlighted in bold), including copulas and adjectives.
+A: word: wɣrum	 gloss: be.white:FACT
+B: word: ɯmɤ-ŋu	 gloss: PROB-be:FACT
+C: word: pjɯ-kɯ-ɣi	 gloss: IPFV:DOWN-SBJ:PCP-come
+D: word: ŋu	 gloss: \textbf{be}:FACT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 1:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕe kumpɣɤtɕɯ nɯnɯ pɣɤtɕɯ nɯ-rca, kɯ-xtɕi ci zdoʁzdoʁ ŋu tɕe, ɯʑo ___ ri wuma ʑo ɕqraʁ tɕe ɯ-mɲaʁ ɯ-rkɯ nɯnɯ ra kɯ-ɲaʁ kɯ tú-wɣ-fskɤr, nɯ ɯ-taʁ ri, hanɯni, kɯ-xtɕɯ\redp{}xtɕi kɯ-ɣɯrni kɯ-fse tu, ɯ-xtɤpa nɯ ra, ɯ-rqopa pjɯ-ʑe tɕe, nɯ ra, ɯ-jme mɯ-tʰɯ-nɯ-ɬoʁ mɤɕtʂa nɯ wɣrum
+Gloss (with missing item): LNK sparrow DEM bird 3PL-among SBJ:PCP-be.small INDEF IDEO:STAT:small.and.cute be:FACT LNK 3SG ___ but really EMPH be.smart:FACT LNK 3SG:POSS-eye 3SG:POSS-border DEM PL SBJ:PCP-be.black ERG IPFV-INV-surround DEM 3SG-on LOC a.little SBJ:PCP-EMPH\redp{}be.small SBJ:PCP-be.red SBJ:PCP-be.like exist:FACT 3SG:POSS-belly DEM PL 3SG:POSS-throat IPFV-begin[III] LNK DEM PL 3SG:POSS-tail NEG-AOR-AUTO-come.out until DEM be.white:FACT
+The English translation of this sentence is:`Among the birds, the sparrow is tiny and cute. Although it is small it is very smart. Its eyes are surrounded by black [feathers], and above that there are some red [dots]. Its belly is white from the throat to the tail.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: First, in the case of stative verbs, the Factual occurs to describe facts considered to belong to everybody's common knowledge. Example (\ref{ex:kumpGAtCW}) illustrates five verb forms in the Factual in this use (highlighted in bold), including copulas and adjectives.
+A: word: kɯ-xtɕi	 gloss: SBJ:PCP-be.small
+B: word: xtɕi	 gloss: \textbf{be.small}:FACT
+C: word: wɣrum	 gloss: be.white:FACT
+D: word: mɤ-fse	 gloss: NEG-be.like:FACT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 2:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕe kumpɣɤtɕɯ nɯnɯ pɣɤtɕɯ nɯ-rca, kɯ-xtɕi ci zdoʁzdoʁ ŋu tɕe, ɯʑo xtɕi ri wuma ʑo ___ tɕe ɯ-mɲaʁ ɯ-rkɯ nɯnɯ ra kɯ-ɲaʁ kɯ tú-wɣ-fskɤr, nɯ ɯ-taʁ ri, hanɯni, kɯ-xtɕɯ\redp{}xtɕi kɯ-ɣɯrni kɯ-fse tu, ɯ-xtɤpa nɯ ra, ɯ-rqopa pjɯ-ʑe tɕe, nɯ ra, ɯ-jme mɯ-tʰɯ-nɯ-ɬoʁ mɤɕtʂa nɯ wɣrum
+Gloss (with missing item): LNK sparrow DEM bird 3PL-among SBJ:PCP-be.small INDEF IDEO:STAT:small.and.cute be:FACT LNK 3SG be.small:FACT but really EMPH ___ LNK 3SG:POSS-eye 3SG:POSS-border DEM PL SBJ:PCP-be.black ERG IPFV-INV-surround DEM 3SG-on LOC a.little SBJ:PCP-EMPH\redp{}be.small SBJ:PCP-be.red SBJ:PCP-be.like exist:FACT 3SG:POSS-belly DEM PL 3SG:POSS-throat IPFV-begin[III] LNK DEM PL 3SG:POSS-tail NEG-AOR-AUTO-come.out until DEM be.white:FACT
+The English translation of this sentence is:`Among the birds, the sparrow is tiny and cute. Although it is small it is very smart. Its eyes are surrounded by black [feathers], and above that there are some red [dots]. Its belly is white from the throat to the tail.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: First, in the case of stative verbs, the Factual occurs to describe facts considered to belong to everybody's common knowledge. Example (\ref{ex:kumpGAtCW}) illustrates five verb forms in the Factual in this use (highlighted in bold), including copulas and adjectives.
+A: word: rɤt	 gloss: write:FACT
+B: word: ma-tɤ-kɯ-sɯ-ɕqraʁ-a	 gloss: NEG-IMP-2\fl{}1-CAUS-be.intelligent-1SG
+C: word: ɕqraʁ	 gloss: \textbf{be.smart}:FACT
+D: word: xtɕi	 gloss: be.small:FACT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 3:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕe kumpɣɤtɕɯ nɯnɯ pɣɤtɕɯ nɯ-rca, kɯ-xtɕi ci zdoʁzdoʁ ŋu tɕe, ɯʑo xtɕi ri wuma ʑo ɕqraʁ tɕe ɯ-mɲaʁ ɯ-rkɯ nɯnɯ ra kɯ-ɲaʁ kɯ tú-wɣ-fskɤr, nɯ ɯ-taʁ ri, hanɯni, kɯ-xtɕɯ\redp{}xtɕi kɯ-ɣɯrni kɯ-fse ___ ɯ-xtɤpa nɯ ra, ɯ-rqopa pjɯ-ʑe tɕe, nɯ ra, ɯ-jme mɯ-tʰɯ-nɯ-ɬoʁ mɤɕtʂa nɯ wɣrum
+Gloss (with missing item): LNK sparrow DEM bird 3PL-among SBJ:PCP-be.small INDEF IDEO:STAT:small.and.cute be:FACT LNK 3SG be.small:FACT but really EMPH be.smart:FACT LNK 3SG:POSS-eye 3SG:POSS-border DEM PL SBJ:PCP-be.black ERG IPFV-INV-surround DEM 3SG-on LOC a.little SBJ:PCP-EMPH\redp{}be.small SBJ:PCP-be.red SBJ:PCP-be.like ___ 3SG:POSS-belly DEM PL 3SG:POSS-throat IPFV-begin[III] LNK DEM PL 3SG:POSS-tail NEG-AOR-AUTO-come.out until DEM be.white:FACT
+The English translation of this sentence is:`Among the birds, the sparrow is tiny and cute. Although it is small it is very smart. Its eyes are surrounded by black [feathers], and above that there are some red [dots]. Its belly is white from the throat to the tail.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: First, in the case of stative verbs, the Facthe morpheme ___al occurs to describe facts considered to belong to everybody's common knowledge. Example (\ref{ex:kumpGAtCW}) illustrates five verb forms in the Facthe morpheme ___al in this use (highlighted in bold), including copulas and adjectives.
+A: word: tu-ndze	 gloss: IPFV-eat[III]
+B: word: tu	 gloss: \textbf{exist}:FACT
+C: word: ɯ-tsʰɯɣa	 gloss: 3SG.POSS-shape
+D: word: xtɕi	 gloss: be.small:FACT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 4:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕe kumpɣɤtɕɯ nɯnɯ pɣɤtɕɯ nɯ-rca, kɯ-xtɕi ci zdoʁzdoʁ ŋu tɕe, ɯʑo xtɕi ri wuma ʑo ɕqraʁ tɕe ɯ-mɲaʁ ɯ-rkɯ nɯnɯ ra kɯ-ɲaʁ kɯ tú-wɣ-fskɤr, nɯ ɯ-taʁ ri, hanɯni, kɯ-xtɕɯ\redp{}xtɕi kɯ-ɣɯrni kɯ-fse tu, ɯ-xtɤpa nɯ ra, ɯ-rqopa pjɯ-ʑe tɕe, nɯ ra, ɯ-jme mɯ-tʰɯ-nɯ-ɬoʁ mɤɕtʂa nɯ ___
+Gloss (with missing item): LNK sparrow DEM bird 3PL-among SBJ:PCP-be.small INDEF IDEO:STAT:small.and.cute be:FACT LNK 3SG be.small:FACT but really EMPH be.smart:FACT LNK 3SG:POSS-eye 3SG:POSS-border DEM PL SBJ:PCP-be.black ERG IPFV-INV-surround DEM 3SG-on LOC a.little SBJ:PCP-EMPH\redp{}be.small SBJ:PCP-be.red SBJ:PCP-be.like exist:FACT 3SG:POSS-belly DEM PL 3SG:POSS-throat IPFV-begin[III] LNK DEM PL 3SG:POSS-tail NEG-AOR-AUTO-come.out until DEM ___
+The English translation of this sentence is:`Among the birds, the sparrow is tiny and cute. Although it is small it is very smart. Its eyes are surrounded by black [feathers], and above that there are some red [dots]. Its belly is white from the throat to the tail.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: First, in the case of stative verbs, the Factual occurs to describe facts considered to belong to everybody's common knowledge. Example (\ref{ex:kumpGAtCW}) illustrates five verb forms in the Factual in this use (highlighted in bold), including copulas and adjectives.
+A: word: cʰɯ-wɣrum	 gloss: IPFV-be.white
+B: word: kɤ-tɯ-spa-t	 gloss: AOR-2-be.able-PST:TR
+C: word: ɕqraʁ	 gloss: \textbf{be.smart}:FACT
+D: word: wɣrum	 gloss: \textbf{be.white}:FACT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+

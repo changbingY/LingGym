@@ -1,0 +1,117 @@
+Question 0:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): `razri ___ ci ɲɯ-ra, taqaβ ci ɲɯ-ra' to-ti qʰe
+Gloss (with missing item): thread ___ INDEF SENS-need needle INDEF SENS-need IFR-say LNK
+The English translation of this sentence is:`He told [Rgyabza] `I need a ball of thread and a needle.''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example (\ref{ex:iCqha.aforementioned}) illustrates the most typical use of this marker. Sentence (\ref{ex:kAtWm}) introduces a new referent, \japhug{the morpheme ___}{its gloss ___ of thread} marked with the indefinite determiner \forme{ci} (§\ref{sec:indef.article}). Three clauses later in (\ref{ex:iCqha.kAtWm}), the same referent occurs again as an overt noun with two topic markers, the postnominal nɯ and the prenominal iɕqʰa.
+A: word: kɤtɯpa-ndʑi	 gloss: say:FACT-DU
+B: word: salaboŋboŋ	 gloss: puffball
+C: word: kɤtɯm	 gloss: ball
+D: word: iɕqʰa	 gloss: the.aforementioned
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 1:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): `razri kɤtɯm ___ ɲɯ-ra, taqaβ ci ɲɯ-ra' to-ti qʰe
+Gloss (with missing item): thread ball ___ SENS-need needle INDEF SENS-need IFR-say LNK
+The English translation of this sentence is:`He told [Rgyabza] `I need a ball of thread and a needle.''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example (\ref{ex:iCqha.aforementioned}) illustrates the most typical use of this marker. Sentence (\ref{ex:kAtWm}) introduces a new referent, \japhug{kɤtɯm}{ball of thread} marked with the indefinite determiner \forme{the morpheme ___} (§\ref{sec:indef.article}). Three clauses later in (\ref{ex:iCqha.kAtWm}), the same referent occurs again as an overt noun with two topic markers, the postnominal nɯ and the prenominal iɕqʰa.
+A: word: ci	 gloss: INDEF
+B: word: iɕqʰa	 gloss: the.aforementioned
+C: word: cinɤ	 gloss: even
+D: word: scʰiz	 gloss: INDEF.LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 2:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ kɤtɯm nɯ ɯʑo kɯ ko-ndo,
+Gloss (with missing item): ___ ball DEM 3SG ERG IFR-take
+The English translation of this sentence is:`he took the ball of thread, and...'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example (\ref{ex:iCqha.aforementioned}) illustrates the most typical use of this marker. Sentence (\ref{ex:kAtWm}) introduces a new referent, \japhug{kɤtɯm}{ball of thread} marked with the indefinite determiner \forme{ci} (§\ref{sec:indef.article}). Three clauses later in (\ref{ex:iCqha.kAtWm}), the same referent occurs again as an overt noun with two topic markers, the postnominal nɯ and the prenominal the morpheme ___.
+A: word: iɕqʰa	 gloss: the.aforementioned
+B: word: kɤndʑi-sqʰaj	 gloss: COLL-sister
+C: word: kɯnɤ	 gloss: also
+D: word: kɤtɯm	 gloss: ball
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 3:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): iɕqʰa ___ nɯ ɯʑo kɯ ko-ndo,
+Gloss (with missing item): the.aforementioned ___ DEM 3SG ERG IFR-take
+The English translation of this sentence is:`he took the ball of thread, and...'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example (\ref{ex:iCqha.aforementioned}) illustrates the most typical use of this marker. Sentence (\ref{ex:kAtWm}) introduces a new referent, \japhug{the morpheme ___}{its gloss ___ of thread} marked with the indefinite determiner \forme{ci} (§\ref{sec:indef.article}). Three clauses later in (\ref{ex:iCqha.kAtWm}), the same referent occurs again as an overt noun with two topic markers, the postnominal nɯ and the prenominal iɕqʰa.
+A: word: salaboŋboŋ	 gloss: puffball
+B: word: pɣa	 gloss: bird
+C: word: kɤtɯm	 gloss: ball
+D: word: kɤtɯpa-ndʑi	 gloss: say:FACT-DU
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 4:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): iɕqʰa kɤtɯm ___ ɯʑo kɯ ko-ndo,
+Gloss (with missing item): the.aforementioned ball ___ 3SG ERG IFR-take
+The English translation of this sentence is:`he took the ball of thread, and...'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example (\ref{ex:iCqha.aforementioned}) illustrates the most typical use of this marker. Sentence (\ref{ex:kAtWm}) introduces a new referent, \japhug{kɤtɯm}{ball of thread} marked with the indefinite determiner \forme{ci} (§\ref{sec:indef.article}). Three clauses later in (\ref{ex:iCqha.kAtWm}), the same referent occurs again as an overt noun with two topic markers, the postnominal the morpheme ___ and the prenominal iɕqʰa.
+A: word: nɯ	 gloss: DEM
+B: word: iɕqʰa	 gloss: the.aforementioned
+C: word: ɯ-mɤ-nɯ-mɯnmu	 gloss: QU-NEG-AOR-move
+D: word: nɯra	 gloss: DEM:PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 5:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ kɤtɯm nɯ ɯʑo kɯ ko-ndo,
+Gloss (with missing item): ___ ball DEM 3SG ERG IFR-take
+The English translation of this sentence is:`he took the ball of thread, and...'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The use of \forme{the morpheme ___} as a topic marker with nouns (as in \ref{ex:iCqha.kAtWm} above) probably took place by reanalysis of the adverb in headless or postnominal relatives, or in complement clauses as above, then generalized to all noun phrases even those without a subordinate clause.
+A: word: kɯnɤ	 gloss: also
+B: word: kɤndʑi-sqʰaj	 gloss: COLL-sister
+C: word: pɣa	 gloss: bird
+D: word: iɕqʰa	 gloss: the.aforementioned
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 6:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): iɕqʰa ___ nɯ ɯʑo kɯ ko-ndo,
+Gloss (with missing item): the.aforementioned ___ DEM 3SG ERG IFR-take
+The English translation of this sentence is:`he took the ball of thread, and...'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The use of \forme{iɕqʰa} as a topic marker with nouns (as in \ref{ex:iCqha.kAtWm} above) probably took place by reanalysis of the adverb in headless or postnominal relatives, or in complement clauses as above, then generalized to all noun phrases even those without a subordinate clause.
+A: word: kɤtɯm	 gloss: ball
+B: word: iɕqʰa	 gloss: the.aforementioned
+C: word: kɤtɯpa-ndʑi	 gloss: say:FACT-DU
+D: word: salaboŋboŋ	 gloss: puffball
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 7:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): iɕqʰa kɤtɯm ___ ɯʑo kɯ ko-ndo,
+Gloss (with missing item): the.aforementioned ball ___ 3SG ERG IFR-take
+The English translation of this sentence is:`he took the ball of thread, and...'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The use of \forme{iɕqʰa} as a topic marker with nouns (as in \ref{ex:iCqha.kAtWm} above) probably took place by reanalysis of the adverb in headless or postnominal relatives, or in complement clauses as above, then generalized to all noun phrases even those without a subordinate clause.
+A: word: nɯra	 gloss: DEM:PL
+B: word: iɕqʰa	 gloss: the.aforementioned
+C: word: nɯ	 gloss: DEM
+D: word: ɯ-mɤ-nɯ-mɯnmu	 gloss: QU-NEG-AOR-move
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 8:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): βʑar ndɤre ŋɤn ma [ɯʑo sɤznɤ ___ kɯ-xtɕi] nɯra ʁɟa ʑo tu-ndze ɲɯ-ŋu tɕe,
+Gloss (with missing item): buzzard LNK be.evil:FACT LNK 3SG COMP ___ SBJ:PCP-be.small DEM:PL completely EMPH IPFV-eat[III] SENS-be LNK
+The English translation of this sentence is:`The buzzard is fierce, its eats all the birds that are smaller than itself.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The presence of an adjunct, such as a standard marker, can disambiguate between postnominal and head-internal relatives (§\ref{comparee.relativization}); in (\ref{ex:WZo.sAznA.pGa.kWxtCi}) for instance, the head \japhug{the morpheme ___}{its gloss ___} is clearly internal.
+A: word: kɤtɯm	 gloss: ball
+B: word: ja-pɣaʁ	 gloss: AOR:3\flobv{}-cross
+C: word: jaʁmɤzdoʁzdoʁ	 gloss: bird.sp.
+D: word: pɣa	 gloss: bird
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+

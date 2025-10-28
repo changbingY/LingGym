@@ -1,0 +1,1027 @@
+Question 0:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): <chunjie> ___ kɯ ja-nɯ-tsɯm ŋu tʰaŋ
+Gloss (with missing item): ANTHR ___ ERG AOR:3\flobv{}-VERT-take.away be:FACT SFP
+The English translation of this sentence is:`It is probably him who took away Chunjie.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The object-subject-verb order is however found to focalize the subject, together with a postverbal copula (§\ref{sec:focalization.final.copula}) as in (\ref{ex:OSV.janWtsWm}), where the transitive subject \forme{the morpheme ___ kɯ} follows the object (Chunjie).
+A: word: nɯnɯra	 gloss: DEM:PL
+B: word: nɯra	 gloss: DEM:PL
+C: word: a-ʁa	 gloss: 1SG.POSS-free.time
+D: word: nɯnɯ	 gloss: DEM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 1:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): <chunjie> nɯnɯ ___ ja-nɯ-tsɯm ŋu tʰaŋ
+Gloss (with missing item): ANTHR DEM ___ AOR:3\flobv{}-VERT-take.away be:FACT SFP
+The English translation of this sentence is:`It is probably him who took away Chunjie.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The object-subject-verb order is however found to focalize the subject, together with a postverbal copula (§\ref{sec:focalization.final.copula}) as in (\ref{ex:OSV.janWtsWm}), where the transitive subject \forme{nɯnɯ the morpheme ___} follows the object (Chunjie).
+A: word: tɤ-wa	 gloss: INF-father
+B: word: kɯ	 gloss: ERG
+C: word: qʰoʁqʰoʁ	 gloss: ingot
+D: word: a-tɤ-kɯ-nɯlaʁrdaβ-a	 gloss: IRR-PFV-2\fl{}1-hit.with.forelegs-1SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 2:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): <chunjie> ___ kɯ ja-nɯ-tsɯm ŋu tʰaŋ
+Gloss (with missing item): ANTHR ___ ERG AOR:3\flobv{}-VERT-take.away be:FACT SFP
+The English translation of this sentence is:`It is probably him who took away Chunjie.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Note that without intonation, (\ref{ex:OSV.janWtsWm}) is ambiguous, as [<chunjie> \forme{the morpheme ___ kɯ}] could also be analyzed as a single constituent (since personal names can optionally take demonstrative determiners, §\ref{sec:personal.names.modifiers}), and in this case the translation of the sentence would be `Chunjie probably took him.' The above translation however is the correct one in the context of the story.
+A: word: nɯnɯ	 gloss: DEM
+B: word: jla	 gloss: hybrid.yak
+C: word: nɯnɯra	 gloss: DEM:PL
+D: word: nɯra	 gloss: DEM:PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 3:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): <chunjie> nɯnɯ ___ ja-nɯ-tsɯm ŋu tʰaŋ
+Gloss (with missing item): ANTHR DEM ___ AOR:3\flobv{}-VERT-take.away be:FACT SFP
+The English translation of this sentence is:`It is probably him who took away Chunjie.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Note that without intonation, (\ref{ex:OSV.janWtsWm}) is ambiguous, as [<chunjie> \forme{nɯnɯ the morpheme ___}] could also be analyzed as a single constituent (since personal names can optionally take demonstrative determiners, §\ref{sec:personal.names.modifiers}), and in this case the translation of the sentence would be `Chunjie probably took him.' The above translation however is the correct one in the context of the story.
+A: word: qʰoʁqʰoʁ	 gloss: ingot
+B: word: a-tɤ-kɯ-nɯlaʁrdaβ-a	 gloss: IRR-PFV-2\fl{}1-hit.with.forelegs-1SG
+C: word: kɯ	 gloss: ERG
+D: word: lɤ-zo	 gloss: AOR-land
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 4:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mtʰɯmɤr ɣɯ ɯ-zbroŋ nɯnɯ, tu-nɯ-ɬoʁ ɲɯ-ŋu. tu-mɤmbɯr kɯ-fse ɲɯ-ŋu tɕe ___ mɤ-naχtɕɯɣ.
+Gloss (with missing item): seal GEN 3SG.POSS-pattern DEM IPFV:UP-AUTO-come.out SENS-be IPFV-be.protuberant SBJ:PCP-be.like SENS-be LNK ___ NEG-be.the.same:FACT
+The English translation of this sentence is:`The patterns on the seals (called \forme{mtʰɯmɤr}) are coming out, protuberant, that is how they differ [from the other types of seals].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Focalized noun phrases are always overt, if limited to a demonstrative pronoun. They can be formally indistinguishable from non-focalized ones even by intonation, as the demonstrative \forme{the morpheme ___} in the last clause of example (\ref{ex:nW.mAnWXtCWG}).
+A: word: nɯra	 gloss: DEM:PL
+B: word: ɯ-mɤ-nɯ-mɯnmu	 gloss: QU-NEG-AOR-move
+C: word: ɯ-nmaʁ	 gloss: 3SG.POSS-husband
+D: word: nɯ	 gloss: DEM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 5:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nɤ-sni ɲɯ-ɲaʁ ma aʑo a-sni mɯ́j-ɲaʁ tɕe, ɬɤndʐi wuma nɯ nɤʑo ɲɯ-tɯ-ŋu ma aʑo ɬɤndʐi ɲɯ-maʁ-a
+Gloss (with missing item): ___ 2SG.POSS-heart SENS-be.black LNK 1SG 1SG.POSS-heart NEG:SENS-be.black LNK demon real DEM 2SG SENS-2-be LNK 1SG demon SENS-not.be-1SG
+The English translation of this sentence is:`You are evil, not me, you are the real demon, not me.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Focalized first or second person referents require an overt pronoun to surface, as in (\ref{ex:aZo.asni.mWjYaR}).
+A: word: ɯ-ɬaʁ	 gloss: 3SG.POSS-aunt
+B: word: nɤʑo	 gloss: 2SG
+C: word: aʑo	 gloss: 1SG
+D: word: `nɤʑo	 gloss: 2SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 6:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɤʑo nɤ-sni ɲɯ-ɲaʁ ma ___ a-sni mɯ́j-ɲaʁ tɕe, ɬɤndʐi wuma nɯ nɤʑo ɲɯ-tɯ-ŋu ma aʑo ɬɤndʐi ɲɯ-maʁ-a
+Gloss (with missing item): 2SG 2SG.POSS-heart SENS-be.black LNK ___ 1SG.POSS-heart NEG:SENS-be.black LNK demon real DEM 2SG SENS-2-be LNK 1SG demon SENS-not.be-1SG
+The English translation of this sentence is:`You are evil, not me, you are the real demon, not me.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Focalized first or second person referents require an overt pronoun to surface, as in (\ref{ex:aZo.asni.mWjYaR}).
+A: word: tɯ-ŋga	 gloss: INDEF.POSS-clothes
+B: word: aʑo-sti	 gloss: 1SG-alone
+C: word: nɤʑo	 gloss: 2SG
+D: word: aʑo	 gloss: 1SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 7:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɤʑo nɤ-sni ɲɯ-ɲaʁ ma aʑo a-sni mɯ́j-ɲaʁ tɕe, ɬɤndʐi wuma nɯ ___ ɲɯ-tɯ-ŋu ma aʑo ɬɤndʐi ɲɯ-maʁ-a
+Gloss (with missing item): 2SG 2SG.POSS-heart SENS-be.black LNK 1SG 1SG.POSS-heart NEG:SENS-be.black LNK demon real DEM ___ SENS-2-be LNK 1SG demon SENS-not.be-1SG
+The English translation of this sentence is:`You are evil, not me, you are the real demon, not me.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Focalized first or second person referents require an overt pronoun to surface, as in (\ref{ex:aZo.asni.mWjYaR}).
+A: word: `nɤʑo	 gloss: 2SG
+B: word: kɯ-nɤmɲo	 gloss: SBJ:PCP-watch
+C: word: aʑo	 gloss: 1SG
+D: word: nɤʑo	 gloss: 2SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 8:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɤʑo nɤ-sni ɲɯ-ɲaʁ ma aʑo a-sni mɯ́j-ɲaʁ tɕe, ɬɤndʐi wuma nɯ nɤʑo ɲɯ-tɯ-ŋu ma ___ ɬɤndʐi ɲɯ-maʁ-a
+Gloss (with missing item): 2SG 2SG.POSS-heart SENS-be.black LNK 1SG 1SG.POSS-heart NEG:SENS-be.black LNK demon real DEM 2SG SENS-2-be LNK ___ demon SENS-not.be-1SG
+The English translation of this sentence is:`You are evil, not me, you are the real demon, not me.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Focalized first or second person referents require an overt pronoun to surface, as in (\ref{ex:aZo.asni.mWjYaR}).
+A: word: aʑo	 gloss: 1SG
+B: word: aʑo-sti	 gloss: 1SG-alone
+C: word: a-rʑaʁ	 gloss: 1SG.POSS-time
+D: word: nɤʑo	 gloss: 2SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 9:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): sla tu-ngo ŋu tu-ti-nɯ ŋu, ___ ra kɯ.
+Gloss (with missing item): moon IPFV-be.sick be:FACT IPFV-say-PL be:FACT ___ PL ERG
+The English translation of this sentence is:`They say that moon is getting sick, the Tibetans.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: All arguments and adjuncts can be right dislocated, including transitive subjects with ergative marking (\ref{ex:A.right.disloc}), possessor with genitive (§\ref{ex:possessor.right.disloc}), locative and time adjuncts (§\ref{ex:time.adj.right.disloc}).
+A: word: ɯ-jilco	 gloss: 3SG.POSS-villager
+B: word: jla	 gloss: hybrid.yak
+C: word: kɯrɯ-skɤt	 gloss: Tibetan-language
+D: word: kɯrɯ	 gloss: Tibetan
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 10:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): sla tu-ngo ŋu tu-ti-nɯ ŋu, kɯrɯ ___ kɯ.
+Gloss (with missing item): moon IPFV-be.sick be:FACT IPFV-say-PL be:FACT Tibetan ___ ERG
+The English translation of this sentence is:`They say that moon is getting sick, the Tibetans.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: All arguments and adjuncts can be right dislocated, including tthe morpheme ___nsitive subjects with ergative marking (\ref{ex:A.right.disloc}), possessor with genitive (§\ref{ex:possessor.right.disloc}), locative and time adjuncts (§\ref{ex:time.adj.right.disloc}).
+A: word: ɯ-laχtɕʰa	 gloss: 3SG.POSS-thing
+B: word: ra	 gloss: PL
+C: word: tɯ-mɤpa	 gloss: GENR.POSS-sole
+D: word: ɯʑora	 gloss: 3PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 11:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɯ ma ɯ-mɯntoʁ kɤ-mto maŋe, ___ ɣɯ.
+Gloss (with missing item): DEM apart.from 3SG.POSS-flower INF-see not.exist:SENS ___ GEN
+The English translation of this sentence is:`Apart from that it has no flowers, the fir.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: All arguments and adjuncts can be right dislocated, including transitive subjects with ergative marking (\ref{ex:A.right.disloc}), possessor with genitive (§\ref{ex:possessor.right.disloc}), locative and time adjuncts (§\ref{ex:time.adj.right.disloc}).
+A: word: kɤ-tsɯm	 gloss: INF-take.away
+B: word: xɕiri	 gloss: weasel
+C: word: tɯrgi	 gloss: fir
+D: word: tɯrgilaŋlaŋ	 gloss: fir.cone
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 12:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): paχɕi ndɤre pjɤ-tu, ___
+Gloss (with missing item): apples ADVERS IFR.IPFV-exist ___
+The English translation of this sentence is:`(Unlike other fruits,) apples did exist (in our area), in former times.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: All arguments and adjuncts can be right dislocated, including transitive subjects with ergative marking (\ref{ex:A.right.disloc}), possessor with genitive (§\ref{ex:possessor.right.disloc}), locative and time adjuncts (§\ref{ex:time.adj.right.disloc}).
+A: word: kɯɕɯŋgɯ	 gloss: former.times
+B: word: ɲɯ-ɕe	 gloss: IPFV:WEST-go
+C: word: a-pʰe	 gloss: 1SG.POSS-DAT
+D: word: nɯɕɯŋgɯ	 gloss: before
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 13:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): paχɕi ndɤre pjɤ-tu, ___
+Gloss (with missing item): apples ADVERS IFR.IPFV-exist ___
+The English translation of this sentence is:`(Unlike other fruits,) apples did exist (in our area), in former times.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentential adverbs (§\ref{sec:sentential.adverbs}) also undergo dislocation, as shown by (\ref{ex:time.adj.right.disloc}) and (\ref{ex:adv.right.disloc}).
+A: word: nɯɕɯŋgɯ	 gloss: before
+B: word: kɯɕɯŋgɯ	 gloss: former.times
+C: word: tɤ-nɤpɯpa-t-a	 gloss: AOR-take.care-PST:TR-1SG
+D: word: nɤj	 gloss: 2SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 14:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕɯχtsi kɤ-ari-j, ___
+Gloss (with missing item): Cogtse AOR:EAST-go[II]-1SG ___
+The English translation of this sentence is:`We went to Cogtse, to do some sightseeing.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Subordinate clauses can also be right-dislocated, for instance infinite complement clauses (example \ref{ex:tutWste.kAsAfstWn}, §\ref{sec:complement.morphosyntax}), supine participial clauses (\ref{ex:purposive.right.disloc}) (§\ref{sec:purposive.clause.motion.verbs}) or concessive conditionals (\ref{ex:concessive.cond.right.disloc}) (§\ref{sec:scalar.concessive.conditional}).
+A: word: ɯ-kɤ-nɤmɲo	 gloss: 3SG.POSS-OBJ:PCP-watch
+B: word: kɯ-nɤrɯra	 gloss: SBJ:PCP-look.around
+C: word: kɯ-nɤmɲo	 gloss: SBJ:PCP-watch
+D: word: prɯŋprɯŋ	 gloss: IDPH(II):solidly
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 15:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tu-mbri ɯ-kʰɯkʰa ɯ-ʁar nɯ ki ntsɯ tu-ste ɲɯ-ŋu, ___ kɯnɤ.
+Gloss (with missing item): IPFV-make.noise 3SG.POSS-while 3SG.POSS-wing DEM DEM.PROX always IPFV-do.like[III] SENS-be ___ also
+The English translation of this sentence is:`It does this with its wings when it sings, even when it lands.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Subordinate clauses can also be right-dislocated, for instance infinite complement clauses (example \ref{ex:tutWste.kAsAfstWn}, §\ref{sec:complement.morphosyntax}), supine participial clauses (\ref{ex:purposive.right.disloc}) (§\ref{sec:purposive.clause.motion.verbs}) or concessive conditionals (\ref{ex:concessive.cond.right.disloc}) (§\ref{sec:scalar.concessive.conditional}).
+A: word: pɯ-ŋu-a	 gloss: PST.IPFV-be-1SG
+B: word: lɤ-zo	 gloss: AOR-land
+C: word: sɤre	 gloss: be.funny:FACT
+D: word: lɤ-zo-nɯ	 gloss: AOR:UPSTREAM-land-PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 16:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɣɯjpa kɯ-fse nɯre ri tɕe ɯ-mɯntoʁ ɲɯ-lɤt, fsaqʰe tɕe tɕe ɯ-mat ɲɯ-βze ŋu, ___ nɯ sɤre ma.
+Gloss (with missing item): this.year SBJ:PCP-be.like DEM:LOC LOC LNK 3SG.POSS-flower IPFV-release next.year LOC LNK 3SG.POSS-fruit IPFV-grow[III] be:FACT ___ DEM be.funny:FACT LNK
+The English translation of this sentence is:`The Berchemia yunnanensis is funny because it blooms this year, but its fruits grow the next year.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:cause.right.disloc}), the consequence clause \forme{the morpheme ___ nɯ sɤre} `The Berchemia yunnanensis is funny' is right-dislocated together with the linker \forme{ma} (here meaning `because'), while the causal clause (§\ref{sec:causal.clauses}) serves as the main clause. This example provides evidence that the linker \forme{ma} can form a syntactic constituent with the preceding clause, even though it is most often prosodically linked to the causal clause following it.
+A: word: ʁmɯrtsɯ	 gloss: Berchemia.yunnanensis
+B: word: tɯ-mɯrtsɯɣ	 gloss: NMLZ:ACTION-pinch
+C: word: a-rʑaʁ	 gloss: 1SG.POSS-time
+D: word: qandʐe	 gloss: earthworm
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 17:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɣɯjpa kɯ-fse nɯre ri tɕe ɯ-mɯntoʁ ɲɯ-lɤt, fsaqʰe tɕe tɕe ɯ-mat ɲɯ-βze ŋu, ʁmɯrtsɯ ___ sɤre ma.
+Gloss (with missing item): this.year SBJ:PCP-be.like DEM:LOC LOC LNK 3SG.POSS-flower IPFV-release next.year LOC LNK 3SG.POSS-fruit IPFV-grow[III] be:FACT Berchemia.yunnanensis ___ be.funny:FACT LNK
+The English translation of this sentence is:`The Berchemia yunnanensis is funny because it blooms this year, but its fruits grow the next year.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:cause.right.disloc}), the consequence clause \forme{ʁmɯrtsɯ the morpheme ___ sɤre} `The Berchemia yunnanensis is funny' is right-dislocated together with the linker \forme{ma} (here meaning `because'), while the causal clause (§\ref{sec:causal.clauses}) serves as the main clause. This example provides evidence that the linker \forme{ma} can form a syntactic constituent with the preceding clause, even though it is most often prosodically linked to the causal clause following it.
+A: word: ɯ-mɤ-nɯ-mɯnmu	 gloss: QU-NEG-AOR-move
+B: word: ɯ-mat	 gloss: 3SG.POSS-fruit
+C: word: nɯ	 gloss: DEM
+D: word: nɯra	 gloss: DEM:PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 18:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɣɯjpa kɯ-fse nɯre ri tɕe ɯ-mɯntoʁ ɲɯ-lɤt, fsaqʰe tɕe tɕe ɯ-mat ɲɯ-βze ŋu, ʁmɯrtsɯ nɯ ___ ma.
+Gloss (with missing item): this.year SBJ:PCP-be.like DEM:LOC LOC LNK 3SG.POSS-flower IPFV-release next.year LOC LNK 3SG.POSS-fruit IPFV-grow[III] be:FACT Berchemia.yunnanensis DEM ___ LNK
+The English translation of this sentence is:`The Berchemia yunnanensis is funny because it blooms this year, but its fruits grow the next year.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:cause.right.disloc}), the consequence clause \forme{ʁmɯrtsɯ nɯ the morpheme ___} `The Berchemia yunnanensis is funny' is right-dislocated together with the linker \forme{ma} (here meaning `because'), while the causal clause (§\ref{sec:causal.clauses}) serves as the main clause. This example provides evidence that the linker \forme{ma} can form a syntactic constituent with the preceding clause, even though it is most often prosodically linked to the causal clause following it.
+A: word: sna	 gloss: be.good:FACT
+B: word: tɤ-wa	 gloss: INF-father
+C: word: ɲɯ-sɤre	 gloss: SENS-be.ridiculous
+D: word: sɤre	 gloss: be.funny:FACT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 19:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɯʑo srɯnmɯ kɯ-ŋu nɯ ___ nɯ kɯ mɯ-pjɤ-sɯχsɤl, ɯ-nmaʁ nɯ kɯ.
+Gloss (with missing item): 3SG râkshasî SBJ:PCP-be DEM ___ DEM ERG NEG-IFR-realize 3SG.POSS-husband DEM ERG
+The English translation of this sentence is:`The father_i did not realize that she_j was a râkshasî, her_j husband_i.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The presence of a right dislocated constituent does not preclude an overt constituent with the same syntactic function in the main clause: for instance, in (\ref{ex:A.in.situ.right.disloc}) the ergative phrase \forme{the morpheme ___ nɯ kɯ}`the father' and the right-dislocated constituent \forme{ɯ-nmaʁ nɯ kɯ} `her husband' refer to the same person, transitive subject of the sentence.
+A: word: tɤ-wa	 gloss: INF-father
+B: word: nɤ-wa	 gloss: 2SG.POSS-father
+C: word: tɯ-ŋga	 gloss: INDEF.POSS-clothes
+D: word: kɤ-rɯɕmi	 gloss: INF-speak
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 20:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɯʑo srɯnmɯ kɯ-ŋu nɯ tɤ-wa ___ kɯ mɯ-pjɤ-sɯχsɤl, ɯ-nmaʁ nɯ kɯ.
+Gloss (with missing item): 3SG râkshasî SBJ:PCP-be DEM INF-father ___ ERG NEG-IFR-realize 3SG.POSS-husband DEM ERG
+The English translation of this sentence is:`The father_i did not realize that she_j was a râkshasî, her_j husband_i.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The presence of a right dislocated constituent does not preclude an overt constituent with the same syntactic function in the main clause: for instance, in (\ref{ex:A.in.situ.right.disloc}) the ergative phrase \forme{tɤ-wa the morpheme ___ kɯ}`the father' and the right-dislocated constituent \forme{ɯ-nmaʁ the morpheme ___ kɯ} `her husband' refer to the same person, transitive subject of the sentence.
+A: word: ɯ-laχtɕʰa	 gloss: 3SG.POSS-thing
+B: word: ɯ-mɤ-nɯ-mɯnmu	 gloss: QU-NEG-AOR-move
+C: word: nɯ	 gloss: DEM
+D: word: nɯra	 gloss: DEM:PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 21:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɯʑo srɯnmɯ kɯ-ŋu nɯ tɤ-wa nɯ ___ mɯ-pjɤ-sɯχsɤl, ɯ-nmaʁ nɯ kɯ.
+Gloss (with missing item): 3SG râkshasî SBJ:PCP-be DEM INF-father DEM ___ NEG-IFR-realize 3SG.POSS-husband DEM ERG
+The English translation of this sentence is:`The father_i did not realize that she_j was a râkshasî, her_j husband_i.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The presence of a right dislocated constituent does not preclude an overt constituent with the same syntactic function in the main clause: for instance, in (\ref{ex:A.in.situ.right.disloc}) the ergative phrase \forme{tɤ-wa nɯ the morpheme ___}`the father' and the right-dislocated constituent \forme{ɯ-nmaʁ nɯ the morpheme ___} `her husband' refer to the same person, transitive subject of the sentence.
+A: word: ɯ-nmaʁ	 gloss: 3SG.POSS-husband
+B: word: a-tɤ-kɯ-nɯlaʁrdaβ-a	 gloss: IRR-PFV-2\fl{}1-hit.with.forelegs-1SG
+C: word: qʰoʁqʰoʁ	 gloss: ingot
+D: word: kɯ	 gloss: ERG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 22:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɯʑo srɯnmɯ kɯ-ŋu nɯ tɤ-wa nɯ kɯ mɯ-pjɤ-sɯχsɤl, ___ nɯ kɯ.
+Gloss (with missing item): 3SG râkshasî SBJ:PCP-be DEM INF-father DEM ERG NEG-IFR-realize ___ DEM ERG
+The English translation of this sentence is:`The father_i did not realize that she_j was a râkshasî, her_j husband_i.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The presence of a right dislocated constituent does not preclude an overt constituent with the same syntactic function in the main clause: for instance, in (\ref{ex:A.in.situ.right.disloc}) the ergative phrase \forme{tɤ-wa nɯ kɯ}`the father' and the right-dislocated constituent \forme{the morpheme ___ nɯ kɯ} `her husband' refer to the same person, transitive subject of the sentence.
+A: word: sɤre	 gloss: be.funny:FACT
+B: word: tɤ-nmaʁ	 gloss: INDEF.POSS-husband
+C: word: ɯ-nmaʁ	 gloss: 3SG.POSS-husband
+D: word: a-nmaʁ	 gloss: 1SG.POSS-husband
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 23:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɯʑo srɯnmɯ kɯ-ŋu nɯ tɤ-wa nɯ kɯ mɯ-pjɤ-sɯχsɤl, ɯ-nmaʁ ___ kɯ.
+Gloss (with missing item): 3SG râkshasî SBJ:PCP-be DEM INF-father DEM ERG NEG-IFR-realize 3SG.POSS-husband ___ ERG
+The English translation of this sentence is:`The father_i did not realize that she_j was a râkshasî, her_j husband_i.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The presence of a right dislocated constituent does not preclude an overt constituent with the same syntactic function in the main clause: for instance, in (\ref{ex:A.in.situ.right.disloc}) the ergative phrase \forme{tɤ-wa the morpheme ___ kɯ}`the father' and the right-dislocated constituent \forme{ɯ-nmaʁ the morpheme ___ kɯ} `her husband' refer to the same person, transitive subject of the sentence.
+A: word: kɯrɯ	 gloss: Tibetan
+B: word: nɯ	 gloss: DEM
+C: word: ɯ-mɤ-nɯ-mɯnmu	 gloss: QU-NEG-AOR-move
+D: word: nɯra	 gloss: DEM:PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 24:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): sla tu-ngo ŋu tu-ti-nɯ ŋu, ___ ra kɯ.
+Gloss (with missing item): moon IPFV-be.sick be:FACT IPFV-say-PL be:FACT ___ PL ERG
+The English translation of this sentence is:`They say that moon is getting sick, the Tibetans.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The main function of right dislocation is that of afterthought, used to identify a referent that has no been mentioned previously (\ref{ex:A.right.disloc}), provide additional side comments (\ref{ex:adv.right.disloc}, \ref{ex:cause.right.disloc}), complementary information (\ref{ex:time.adj.right.disloc}) or even redundant information that can contribute to identify a referent (\ref{ex:A.in.situ.right.disloc}).
+A: word: nɤ-ku	 gloss: 2SG.POSS-head
+B: word: tsa	 gloss: a.little
+C: word: kɯrɯ-skɤt	 gloss: Tibetan-language
+D: word: kɯrɯ	 gloss: Tibetan
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 25:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): sla tu-ngo ŋu tu-ti-nɯ ŋu, kɯrɯ ___ kɯ.
+Gloss (with missing item): moon IPFV-be.sick be:FACT IPFV-say-PL be:FACT Tibetan ___ ERG
+The English translation of this sentence is:`They say that moon is getting sick, the Tibetans.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The main function of right dislocation is that of afterthought, used to identify a referent that has no been mentioned previously (\ref{ex:A.right.disloc}), provide additional side comments (\ref{ex:adv.right.disloc}, \ref{ex:cause.right.disloc}), complementary information (\ref{ex:time.adj.right.disloc}) or even redundant information that can contribute to identify a referent (\ref{ex:A.in.situ.right.disloc}).
+A: word: ɕomtsʰoʁ	 gloss: iron.nails
+B: word: ɯʑora	 gloss: 3PL
+C: word: ra	 gloss: PL
+D: word: nɤʑo	 gloss: 2SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 26:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɣɯjpa kɯ-fse nɯre ri tɕe ɯ-mɯntoʁ ɲɯ-lɤt, fsaqʰe tɕe tɕe ɯ-mat ɲɯ-βze ŋu, ___ nɯ sɤre ma.
+Gloss (with missing item): this.year SBJ:PCP-be.like DEM:LOC LOC LNK 3SG.POSS-flower IPFV-release next.year LOC LNK 3SG.POSS-fruit IPFV-grow[III] be:FACT ___ DEM be.funny:FACT LNK
+The English translation of this sentence is:`The Berchemia yunnanensis is funny because it blooms this year, but its fruits grow the next year.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The main function of right dislocation is that of afterthought, used to identify a referent that has no been mentioned previously (\ref{ex:A.right.disloc}), provide additional side comments (\ref{ex:adv.right.disloc}, \ref{ex:cause.right.disloc}), complementary information (\ref{ex:time.adj.right.disloc}) or even redundant information that can contribute to identify a referent (\ref{ex:A.in.situ.right.disloc}).
+A: word: ɯ-laχtɕʰa	 gloss: 3SG.POSS-thing
+B: word: tɯ-mɯrtsɯɣ	 gloss: NMLZ:ACTION-pinch
+C: word: qandʐe	 gloss: earthworm
+D: word: ʁmɯrtsɯ	 gloss: Berchemia.yunnanensis
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 27:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɣɯjpa kɯ-fse nɯre ri tɕe ɯ-mɯntoʁ ɲɯ-lɤt, fsaqʰe tɕe tɕe ɯ-mat ɲɯ-βze ŋu, ʁmɯrtsɯ ___ sɤre ma.
+Gloss (with missing item): this.year SBJ:PCP-be.like DEM:LOC LOC LNK 3SG.POSS-flower IPFV-release next.year LOC LNK 3SG.POSS-fruit IPFV-grow[III] be:FACT Berchemia.yunnanensis ___ be.funny:FACT LNK
+The English translation of this sentence is:`The Berchemia yunnanensis is funny because it blooms this year, but its fruits grow the next year.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The main function of right dislocation is that of afterthought, used to identify a referent that has no been mentioned previously (\ref{ex:A.right.disloc}), provide additional side comments (\ref{ex:adv.right.disloc}, \ref{ex:cause.right.disloc}), complementary information (\ref{ex:time.adj.right.disloc}) or even redundant information that can contribute to identify a referent (\ref{ex:A.in.situ.right.disloc}).
+A: word: tɯ-ŋu	 gloss: 2-be:FACT
+B: word: nɯ	 gloss: DEM
+C: word: nɯra	 gloss: DEM:PL
+D: word: ɯ-mɤ-nɯ-mɯnmu	 gloss: QU-NEG-AOR-move
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 28:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɣɯjpa kɯ-fse nɯre ri tɕe ɯ-mɯntoʁ ɲɯ-lɤt, fsaqʰe tɕe tɕe ɯ-mat ɲɯ-βze ŋu, ʁmɯrtsɯ nɯ ___ ma.
+Gloss (with missing item): this.year SBJ:PCP-be.like DEM:LOC LOC LNK 3SG.POSS-flower IPFV-release next.year LOC LNK 3SG.POSS-fruit IPFV-grow[III] be:FACT Berchemia.yunnanensis DEM ___ LNK
+The English translation of this sentence is:`The Berchemia yunnanensis is funny because it blooms this year, but its fruits grow the next year.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The main function of right dislocation is that of afterthought, used to identify a referent that has no been mentioned previously (\ref{ex:A.right.disloc}), provide additional side comments (\ref{ex:adv.right.disloc}, \ref{ex:cause.right.disloc}), complementary information (\ref{ex:time.adj.right.disloc}) or even redundant information that can contribute to identify a referent (\ref{ex:A.in.situ.right.disloc}).
+A: word: tɯ-ŋu	 gloss: 2-be:FACT
+B: word: ɲɯ-sɤre	 gloss: SENS-be.ridiculous
+C: word: sna	 gloss: be.good:FACT
+D: word: sɤre	 gloss: be.funny:FACT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 29:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): paχɕi ndɤre pjɤ-tu, ___
+Gloss (with missing item): apples ADVERS IFR.IPFV-exist ___
+The English translation of this sentence is:`(Unlike other fruits,) apples did exist (in our area), in former times.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The main function of right dislocation is that of afterthought, used to identify a referent that has no been mentioned previously (\ref{ex:A.right.disloc}), provide additional side comments (\ref{ex:adv.right.disloc}, \ref{ex:cause.right.disloc}), complementary information (\ref{ex:time.adj.right.disloc}) or even redundant information that can contribute to identify a referent (\ref{ex:A.in.situ.right.disloc}).
+A: word: kɯɕɯŋgɯ	 gloss: former.times
+B: word: xɕiri	 gloss: weasel
+C: word: ɯ-tɯ-βdi	 gloss: 3SG.POSS-NMLZ:DEG-be.well
+D: word: nɯɕɯŋgɯ	 gloss: before
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 30:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɯʑo srɯnmɯ kɯ-ŋu nɯ ___ nɯ kɯ mɯ-pjɤ-sɯχsɤl, ɯ-nmaʁ nɯ kɯ.
+Gloss (with missing item): 3SG râkshasî SBJ:PCP-be DEM ___ DEM ERG NEG-IFR-realize 3SG.POSS-husband DEM ERG
+The English translation of this sentence is:`The father_i did not realize that she_j was a râkshasî, her_j husband_i.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The main function of right dislocation is that of afterthought, used to identify a referent that has no been mentioned previously (\ref{ex:A.right.disloc}), provide additional side comments (\ref{ex:adv.right.disloc}, \ref{ex:cause.right.disloc}), complementary information (\ref{ex:time.adj.right.disloc}) or even redundant information that can contribute to identify a referent (\ref{ex:A.in.situ.right.disloc}).
+A: word: nɤ-wa	 gloss: 2SG.POSS-father
+B: word: ɯ-mat	 gloss: 3SG.POSS-fruit
+C: word: tɤ-wa	 gloss: INF-father
+D: word: kɤ-rɯɕmi	 gloss: INF-speak
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 31:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɯʑo srɯnmɯ kɯ-ŋu nɯ tɤ-wa ___ kɯ mɯ-pjɤ-sɯχsɤl, ɯ-nmaʁ nɯ kɯ.
+Gloss (with missing item): 3SG râkshasî SBJ:PCP-be DEM INF-father ___ ERG NEG-IFR-realize 3SG.POSS-husband DEM ERG
+The English translation of this sentence is:`The father_i did not realize that she_j was a râkshasî, her_j husband_i.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The main function of right dislocation is that of afterthought, used to identify a referent that has no been mentioned previously (\ref{ex:A.right.disloc}), provide additional side comments (\ref{ex:adv.right.disloc}, \ref{ex:cause.right.disloc}), complementary information (\ref{ex:time.adj.right.disloc}) or even redundant information that can contribute to identify a referent (\ref{ex:A.in.situ.right.disloc}).
+A: word: nɯ	 gloss: DEM
+B: word: nɯra	 gloss: DEM:PL
+C: word: ʁmɯrtsɯ	 gloss: Berchemia.yunnanensis
+D: word: ɯ-mɤ-nɯ-mɯnmu	 gloss: QU-NEG-AOR-move
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 32:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɯʑo srɯnmɯ kɯ-ŋu nɯ tɤ-wa nɯ ___ mɯ-pjɤ-sɯχsɤl, ɯ-nmaʁ nɯ kɯ.
+Gloss (with missing item): 3SG râkshasî SBJ:PCP-be DEM INF-father DEM ___ NEG-IFR-realize 3SG.POSS-husband DEM ERG
+The English translation of this sentence is:`The father_i did not realize that she_j was a râkshasî, her_j husband_i.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The main function of right dislocation is that of afterthought, used to identify a referent that has no been mentioned previously (\ref{ex:A.right.disloc}), provide additional side comments (\ref{ex:adv.right.disloc}, \ref{ex:cause.right.disloc}), complementary information (\ref{ex:time.adj.right.disloc}) or even redundant information that can contribute to identify a referent (\ref{ex:A.in.situ.right.disloc}).
+A: word: qʰoʁqʰoʁ	 gloss: ingot
+B: word: tɕʰɯwɯr	 gloss: [\textbf{blister}
+C: word: kɯ	 gloss: ERG
+D: word: a-tɤ-kɯ-nɯlaʁrdaβ-a	 gloss: IRR-PFV-2\fl{}1-hit.with.forelegs-1SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 33:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɯʑo srɯnmɯ kɯ-ŋu nɯ tɤ-wa nɯ kɯ mɯ-pjɤ-sɯχsɤl, ___ nɯ kɯ.
+Gloss (with missing item): 3SG râkshasî SBJ:PCP-be DEM INF-father DEM ERG NEG-IFR-realize ___ DEM ERG
+The English translation of this sentence is:`The father_i did not realize that she_j was a râkshasî, her_j husband_i.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The main function of right dislocation is that of afterthought, used to identify a referent that has no been mentioned previously (\ref{ex:A.right.disloc}), provide additional side comments (\ref{ex:adv.right.disloc}, \ref{ex:cause.right.disloc}), complementary information (\ref{ex:time.adj.right.disloc}) or even redundant information that can contribute to identify a referent (\ref{ex:A.in.situ.right.disloc}).
+A: word: tɤ-wa	 gloss: INF-father
+B: word: a-nmaʁ	 gloss: 1SG.POSS-husband
+C: word: tɤ-nmaʁ	 gloss: INDEF.POSS-husband
+D: word: ɯ-nmaʁ	 gloss: 3SG.POSS-husband
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 34:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɯʑo srɯnmɯ kɯ-ŋu nɯ tɤ-wa nɯ kɯ mɯ-pjɤ-sɯχsɤl, ɯ-nmaʁ ___ kɯ.
+Gloss (with missing item): 3SG râkshasî SBJ:PCP-be DEM INF-father DEM ERG NEG-IFR-realize 3SG.POSS-husband ___ ERG
+The English translation of this sentence is:`The father_i did not realize that she_j was a râkshasî, her_j husband_i.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The main function of right dislocation is that of afterthought, used to identify a referent that has no been mentioned previously (\ref{ex:A.right.disloc}), provide additional side comments (\ref{ex:adv.right.disloc}, \ref{ex:cause.right.disloc}), complementary information (\ref{ex:time.adj.right.disloc}) or even redundant information that can contribute to identify a referent (\ref{ex:A.in.situ.right.disloc}).
+A: word: nɯ	 gloss: DEM
+B: word: nɯra	 gloss: DEM:PL
+C: word: ɯ-mɤ-nɯ-mɯnmu	 gloss: QU-NEG-AOR-move
+D: word: nɤj	 gloss: 2SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 35:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕe nɯnɯ ɲɯ-rko, ___ nɯ.
+Gloss (with missing item): LNK DEM SENS-be.hard ___ DEM
+The English translation of this sentence is:`It is hard, its house (i.e. the shell of the snail).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Right dislocation is also used to reactivate a constituent in discourse (\citealt[§13.7.2]{honkasalo19geshiza}), to avoid ambiguity with other referents. In (\ref{ex:YWrko.Wkha}) for instance, the referent \forme{the morpheme ___} `its house/shell' is found more than twenty clauses after its previous occurrence.
+A: word: nɯ-kʰa	 gloss: 3PL.POSS-house
+B: word: ɲɯ-ɕe	 gloss: IPFV:WEST-go
+C: word: ɯ-kʰa	 gloss: 3SG.POSS-house
+D: word: ɲɯ-kʰam-a	 gloss: IPFV-give[III]-1SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 36:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɯ-mɤlɤjaʁ nɯ, nɯnɯ, kɯrcɤ-ldʑa jamar ɣɤʑu rca, ___ nɯ.
+Gloss (with missing item): 3SG.POSS-limb DEM DEM eight-piece about exist:SENS UNEXP:DEG ___ DEM
+The English translation of this sentence is:`Its limbs, it has eight ones, its limbs.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Finally, right dislocation can serve to mark emphasis on a topical referent. In (\ref{ex:WmAlAjaR2}) for instance, the noun \forme{the morpheme ___} is both left- and right-dislocated, showing that this instance is neither an afterthought nor a constituent reactivation.
+A: word: sɤre	 gloss: be.funny:FACT
+B: word: ɯ-mɤ-ta-ʑa	 gloss: QU-NEG-AOR:3\flobv{}-start
+C: word: ɯ-mɤlɤjaʁ	 gloss: 3SG.POSS-limb
+D: word: ɯ-βri	 gloss: 3SG.POSS-body
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 37:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕɯχtsi kɤ-ari-j, ___
+Gloss (with missing item): Cogtse AOR:EAST-go[II]-1SG ___
+The English translation of this sentence is:`We went to Cogtse, to do some sightseeing.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In some cases, the exact function of right dislocation is ambiguous. In (\ref{ex:purposive.right.disloc}) for instance, the purposive phrase could be emphasized by dislocation, but alternatively it is also possible to interpret it as an afterthought.
+A: word: ɯ-ndʐa	 gloss: 3SG.POSS-cause
+B: word: kɯ-nɤmɲo	 gloss: SBJ:PCP-watch
+C: word: ɯ-kɤ-nɤmɲo	 gloss: 3SG.POSS-OBJ:PCP-watch
+D: word: kɯ-nɤrɯra	 gloss: SBJ:PCP-look.around
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 38:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɯre tu-rŋgɤβ-nɯ ___ ʑo
+Gloss (with missing item): DEM:LOC IPFV-attach-PL ___ EMPH
+The English translation of this sentence is:`They attach [the plough] there (on the hybrid yaks'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Some ideophones (mainly pattern II, §\ref{sec:ideophone.plus.lexical.verb}) can be put after the verb, optionally with the emphatic \forme{ʑo} as in (\ref{ex:V.prWNprWN.Zo}), even in some relative clauses (§\ref{sec:relative.postverbal}).
+A: word: rɯŋgu	 gloss: pasture
+B: word: prɯŋprɯŋ	 gloss: IDPH(II):solidly
+C: word: pɤnmawombɤr	 gloss: ANTHR
+D: word: pʰoʁpʰoʁ	 gloss: IDPH(II):completely
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 39:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɯre tu-rŋgɤβ-nɯ prɯŋprɯŋ ___
+Gloss (with missing item): DEM:LOC IPFV-attach-PL IDPH(II):solidly ___
+The English translation of this sentence is:`They attach [the plough] there (on the hybrid yaks'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Some ideophones (mainly pattern II, §\ref{sec:ideophone.plus.lexical.verb}) can be put after the verb, optionally with the emphatic \forme{the morpheme ___} as in (\ref{ex:V.prWNprWN.Zo}), even in some relative clauses (§\ref{sec:relative.postverbal}).
+A: word: nɤʑo	 gloss: 2SG
+B: word: ʑo	 gloss: EMPH
+C: word: `ʂɯt'	 gloss: IDPH.I:sound
+D: word: kɯrɯ	 gloss: Tibetan
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 40:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕʰitɕɯn paχɕi nɯ tɕe tɕe, ɯ-jwaʁ nɯra iʑora ji-paχɕi stʰɯci mɯ-ɲɯ-ɤrtɯm kɯ ɲɯ-rɲɟi ___
+Gloss (with missing item): TOPO apple DEM LNK LNK 3SG.POSS-leave DEM:PL 1PL 1PL.POSS-apple so.much NEG-SENS-be.round ERG SENS-be.long ___
+The English translation of this sentence is:`Pears (Chuchen apples), their leaves are not as round as [those of] our apples, but a bit longer.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Second, the degree adverb \japhug{the morpheme ___}{a little} is postverbal when used in a comparative construction (§\ref{sec:comparative.the morpheme ___}), as in (\ref{ex:YWrYJi.the morpheme ___}).
+A: word: xtɕi	 gloss: be.small:FACT
+B: word: tsa	 gloss: a.little
+C: word: kɯrɯ	 gloss: Tibetan
+D: word: kɤndʑi-mɤtsa	 gloss: COLL-MZCh
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 41:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɯ kɯ-fse ntsɯ ___ ɲɯ-ɕe ŋu. tɤ-nɤpɤri-a qʰe li ci <sanbu> ju-ɕe-a qʰe, tɕe nɯ kɯ-fse ntsɯ sɲikuku a-ʁa cʰɯ-ɕe ŋu.
+Gloss (with missing item): DEM SBJ:PCP-be.like always ___ IPFV:WEST-go be:FACT AOR-have.dinner-1SG LNK again once walk IPFV-go-1SG LNK LNK DEM SBJ:PCP-be.like always everyday 1SG.POSS-free.time IPFV:DOWNSTREAM-go be:FACT
+The English translation of this sentence is:`(...), this is how I spend my time. And after dinner, I go on a walk, this is how I spend my time every day.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: They also occur with temporal nouns. The verb \japhug{ɕe}{go} occurs with \japhug{tɤ-rʑaʁ}{time} and \japhug{ta-ʁa}{free time} to express the meaning `spend (one's time)', as in (\ref{ex:aRa.ChWCe}), an excerpt from a conversation where \iai{Tshendzin} describes her daily activities. In this function, the whole collocation can be subjected to the facilitative \forme{ɣɤ-} derivation (§\ref{sec:facilitative.GA}).
+A: word: a-rʑaβ	 gloss: 1SG.POSS-wide
+B: word: jla	 gloss: hybrid.yak
+C: word: a-rʑaʁ	 gloss: 1SG.POSS-time
+D: word: a-ʁa	 gloss: 1SG.POSS-free.time
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 42:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɯ kɯ-fse ntsɯ a-rʑaʁ ___ ŋu. tɤ-nɤpɤri-a qʰe li ci <sanbu> ju-ɕe-a qʰe, tɕe nɯ kɯ-fse ntsɯ sɲikuku a-ʁa cʰɯ-ɕe ŋu.
+Gloss (with missing item): DEM SBJ:PCP-be.like always 1SG.POSS-time ___ be:FACT AOR-have.dinner-1SG LNK again once walk IPFV-go-1SG LNK LNK DEM SBJ:PCP-be.like always everyday 1SG.POSS-free.time IPFV:DOWNSTREAM-go be:FACT
+The English translation of this sentence is:`(...), this is how I spend my time. And after dinner, I go on a walk, this is how I spend my time every day.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: They also occur with temporal nouns. The verb \japhug{ɕe}{go} occurs with \japhug{tɤ-rʑaʁ}{time} and \japhug{ta-ʁa}{free time} to express the meaning `spend (one's time)', as in (\ref{ex:aRa.ChWCe}), an excerpt from a conversation where \iai{Tshendzin} describes her daily activities. In this function, the whole collocation can be subjected to the facilitative \forme{ɣɤ-} derivation (§\ref{sec:facilitative.GA}).
+A: word: tɯ-ŋu	 gloss: 2-be:FACT
+B: word: ɲɯ-ɕe-nɯ	 gloss: IPFV:WEST-go-PL
+C: word: ɲɯ-ɕe	 gloss: IPFV:WEST-go
+D: word: lɤ-rɤɕi"	 gloss: IMP:UPSTREAM-pull
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 43:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɯ kɯ-fse ntsɯ a-rʑaʁ ɲɯ-ɕe ŋu. tɤ-nɤpɤri-a qʰe li ci <sanbu> ju-ɕe-a qʰe, tɕe nɯ kɯ-fse ntsɯ sɲikuku ___ cʰɯ-ɕe ŋu.
+Gloss (with missing item): DEM SBJ:PCP-be.like always 1SG.POSS-time IPFV:WEST-go be:FACT AOR-have.dinner-1SG LNK again once walk IPFV-go-1SG LNK LNK DEM SBJ:PCP-be.like always everyday ___ IPFV:DOWNSTREAM-go be:FACT
+The English translation of this sentence is:`(...), this is how I spend my time. And after dinner, I go on a walk, this is how I spend my time every day.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: They also occur with temporal nouns. The verb \japhug{ɕe}{go} occurs with \japhug{tɤ-rʑaʁ}{time} and \japhug{tthe morpheme ___}{free time} to express the meaning `spend (one's time)', as in (\ref{ex:aRa.ChWCe}), an excerpt from a conversation where \iai{Tshendzin} describes her daily activities. In this function, the whole collocation can be subjected to the facilitative \forme{ɣɤ-} derivation (§\ref{sec:facilitative.GA}).
+A: word: a-ʁi	 gloss: 1SG.POSS-younger.sibling
+B: word: a-rʑaʁ	 gloss: 1SG.POSS-time
+C: word: a-ʁa	 gloss: 1SG.POSS-free.time
+D: word: kɯrɯ	 gloss: Tibetan
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 44:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɯ kɯ-fse ntsɯ a-rʑaʁ ɲɯ-ɕe ŋu. tɤ-nɤpɤri-a qʰe li ci <sanbu> ju-ɕe-a qʰe, tɕe nɯ kɯ-fse ntsɯ sɲikuku a-ʁa ___ ŋu.
+Gloss (with missing item): DEM SBJ:PCP-be.like always 1SG.POSS-time IPFV:WEST-go be:FACT AOR-have.dinner-1SG LNK again once walk IPFV-go-1SG LNK LNK DEM SBJ:PCP-be.like always everyday 1SG.POSS-free.time ___ be:FACT
+The English translation of this sentence is:`(...), this is how I spend my time. And after dinner, I go on a walk, this is how I spend my time every day.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: They also occur with temporal nouns. The verb \japhug{ɕe}{go} occurs with \japhug{tɤ-rʑaʁ}{time} and \japhug{ta-ʁa}{free time} to express the meaning `spend (one's time)', as in (\ref{ex:aRa.ChWCe}), an excerpt from a conversation where \iai{Tshendzin} describes her daily activities. In this function, the whole collocation can be subjected to the facilitative \forme{ɣɤ-} derivation (§\ref{sec:facilitative.GA}).
+A: word: cʰɯ-ɕe	 gloss: IPFV:DOWNSTREAM-go
+B: word: cʰɯ-ɕe-a	 gloss: IPFV:DOWNSTREAM-go-1SG
+C: word: tsa	 gloss: a.little
+D: word: cʰɯ-ti-nɯ	 gloss: IPFV:DOWNSTREAM-say
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 45:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕendɤre ɯ-ŋga ra ɲɤ-tɕɤt tɕe iɕqʰa, [rgɤnmɯ kɯ ___ nɯ-kɤ-mbi] nɯra ɲɤ-tɕɤt tɕe
+Gloss (with missing item): LNK 3SG.POSS-clothes PL IFR-take.off LNK FILLER old.woman ERG ___ AOR-OBJ:PCP-give DEM:PL IFR-take.off LNK
+The English translation of this sentence is:`He took off his clothes, he took off the (magical) clothes that the old woman had given him.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The manipulation verb \japhug{tɕɤt}{take out} (§\ref{sec:manipulation.verbs}) has a wide range of derived meanings, including the relatively straightforward `remove' (\ref{ex:wuma.YWnAmNAm}, §\ref{sec:wuma}), `expel, banish' (\ref{ex:tChi.kWNu}, §\ref{sec:interrogative.pronouns}), `take off (clothes)' (\ref{ex:tWNga.nWkAmbi}, §\ref{sec:relative.possessor.neutralization}), but also `raise (a child)' (\ref{ex:tChi.tAkWsci}, §\ref{sec:tChi}) and `earn (food)' (\ref{ex:pjWnWtCAtnW}, §\ref{sec:pronouns.emph}). It occurs as auxiliary in a marginal causative construction (\ref{ex:mAkWra.YAtWtCAt}, §\ref{sec:sWpa.sABzu}).
+A: word: ɯ-ŋga	 gloss: 3SG.POSS-clothes
+B: word: tɯ-ɕa	 gloss: INDEF.POSS-flesh
+C: word: tɯ-ŋga	 gloss: INDEF.POSS-clothes
+D: word: tɯ-ŋu	 gloss: 2-be:FACT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 46:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɯre ri tɕʰɯwɯr tu-rke ŋu tɕe, tɕe ___ tu-kɯ-rku] nɯnɯ cimbɤrom ŋu
+Gloss (with missing item): DEM:LOC LOC blister IPFV-put.in[III] be:FACT LNK LNK ___ IPFV-SBJ:PCP-put.in] DEM phlycten be:FACT
+The English translation of this sentence is:`(At the place where the skin is burnt), a blister forms there, the blister that forms is a phlycten.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In the dummy subject construction (§\ref{sec:transitive.dummy}), \forme{rku} is attested with \japhug{the morpheme ___}{blister} and \japhug{cimbɤrom}{blister} (\ref{ex:cimbArom.turke}) (see also \ref{ex:tCHWwWr.turke}, §\ref{sec:dummy.subj.object.relativization}).
+A: word: tɕʰɯwɯr	 gloss: [\textbf{blister}
+B: word: ɕqraʁ	 gloss: \textbf{be.smart}:FACT
+C: word: ɯ-kʰa	 gloss: 3SG.POSS-house
+D: word: to-tɕʰɯ	 gloss: IFR-gore
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 47:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕe iɕqʰa mbrɤz ɣɯ ___ ku-kɯ-tsʰoʁ] nɯ ɯ-tsʰɯɣa ɲɯ-fse
+Gloss (with missing item): LNK the.aforementioned rice GEN ___ IPFV-SBJ:PCP-attach DEM 3SG.POSS-shape SENS-be.like
+The English translation of this sentence is:`Its shape is a bit like that of grains of rice (growing on the stalk).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: in particular \forme{the morpheme ___+tsʰoʁ} `bear fruits' (see examples \ref{ex:sqamNuxpa.koRmWz}, §\ref{sec:temporal.postpositions} or \ref{ex:Wmat.kukWtshoR}, §\ref{sec:dummy.subj.object.relativization}). Its anticausative \japhug{ndzoʁ}{be attached} (§\ref {sec:ndzoR.light.verbs}) also occurs with the same meaning.
+A: word: tɤ-wa	 gloss: INF-father
+B: word: nɯ-mat	 gloss: 3PL.POSS-fruit
+C: word: ɯ-mat	 gloss: 3SG.POSS-fruit
+D: word: ɲɯ-nɤme-a	 gloss: IPFV-do[III]-1SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 48:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [nɯɕɯŋgɯ ɣɯ ___ pɯ-kɯ-tu] nɯra ɕ-tú-wɣ-sɯ-rtoʁ tɕe,
+Gloss (with missing item): before GEN ___ PST.IPFV-SBJ:PCP-exist DEM:PL TRAL-IPFV-INV-CAUS-look LNK
+The English translation of this sentence is:`They go (there) and show [the child_i objects] that he_i used to have before (in his_i previous life, when he_i was a lama).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the mihi est possessive construction undergoes relativization, there is ambiguity as to whether the relativized element is the possessum or the possessor, since both intransitive subjects (§\ref{sec:S.possessor.relativization}) and possessors (§\ref{sec:intr.subject.relativization}) are relativized by means of (mostly head-internal) subject participial relatives (§\ref{sec:subject.participle.subject.relative}). In (\ref{ex:WlaXtCha.pWkWtu}), the relativized element is the possessum, and in (\ref{ex:jla.nWRrW.kWtu}) its is the possessor, but these two relative clauses have exactly the same surface structure.
+A: word: tɯ-laχtɕʰa	 gloss: GENR.POSS-thing
+B: word: ɯ-skɯrma	 gloss: 3SG.POSS-present
+C: word: ɯ-laχtɕʰa	 gloss: 3SG.POSS-thing
+D: word: nɤʑo	 gloss: 2SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 49:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nɯ-ʁrɯ kɯ-tu] ra kɯnɤ, nɯ-rpaʁ kɯ ɲɯ-z-rɤɕi-nɯ pɯ-ŋu tɕe,
+Gloss (with missing item): ___ 3PL.POSS-horn SBJ:PCP-exist DEM:PL also 3PL.POSS-shoulder ERG IPFV-CAUS-pull-PL PST.IPFV-be LNK
+The English translation of this sentence is:`Even the hybrid yaks that had horns used to pull [the plough] with their shoulders (rather than with their horns).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the mihi est possessive construction undergoes relativization, there is ambiguity as to whether the relativized element is the possessum or the possessor, since both intransitive subjects (§\ref{sec:S.possessor.relativization}) and possessors (§\ref{sec:intr.subject.relativization}) are relativized by means of (mostly head-internal) subject participial relatives (§\ref{sec:subject.participle.subject.relative}). In (\ref{ex:WlaXtCha.pWkWtu}), the relativized element is the possessum, and in (\ref{ex:the morpheme ___.nWRrW.kWtu}) its is the possessor, but these two relative clauses have exactly the same surface structure.
+A: word: ɯ-laχtɕʰa	 gloss: 3SG.POSS-thing
+B: word: nɯ-jla	 gloss: 3PL.POSS-hybrid.yak
+C: word: jla	 gloss: hybrid.yak
+D: word: ftsoʁ	 gloss: female.hybrid.yak
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 50:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nɤ-tɯ-ci ɕ-tɤ-tɯ-nɯ-ru-t ɯ́-ŋu?
+Gloss (with missing item): ___ 2SG.POSS-INDEF.POSS-water TRAL-AOR-AUTO-bring-PST:TR QU-be:FACT
+The English translation of this sentence is:`Was it for yourself that you brought the water?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The most common focalization construction in Japhug is not a pseudo-cleft construction (§\ref{sec:pseudo.cleft}) or a focus marker (§\ref{sec:focus}), but the combination of an overt noun phrase or pronoun (§\ref{sec:focalization.overt}) with a postverbal copula, as in (\ref{ex:CkAnWru}).\footnote{These sentences are from a story where a child at school is bullied by another pupil, who forces him to bring water for him; the teacher (who guessed that the first child was being bullied) asks (\ref{ex:CtAtWnWrut}) to have him tell the one who forced him to do it, but the bullied child replies (\ref{ex:CtAtWnWrut}), as he fears reprisals.} The focalized constituents are indicated in bold. In this construction, the copula is never adjacent to the focalized constituent, which is also marked by a specific intonation.
+A: word: aʑo	 gloss: 1SG
+B: word: cʰɯ-ɕe	 gloss: IPFV:DOWNSTREAM-go
+C: word: nɤʑo	 gloss: 2SG
+D: word: `nɤʑo	 gloss: 2SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 51:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nɤ-tɯ-ci ɕ-tɤ-tɯ-nɯ-ru-t ɯ́-ŋu?
+Gloss (with missing item): ___ 2SG.POSS-INDEF.POSS-water TRAL-AOR-AUTO-bring-PST:TR QU-be:FACT
+The English translation of this sentence is:`Was it for yourself that you brought the water?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The most common focalization construction in Japhug is not a pseudo-cleft construction (§\ref{sec:pseudo.cleft}) or a focus marker (§\ref{sec:focus}), but the combination of an overt noun phrase or pronoun (§\ref{sec:focalization.overt}) with a postverbal copula, as in (\ref{ex:CkAnWru}).\footnote{These sentences are from a story where a child at school is bullied by another pupil, who forces him to bring water for him; the teacher (who guessed that the first child was being bullied) asks (\ref{ex:CtAtWnWrut}) to have him tell the one who forced him to do it, but the bullied child replies (\ref{ex:CtAtWnWrut}), as he fears reprisals.} The focalized constituents are indicated in bold. In this construction, the copula is never adjacent to the focalized constituent, which is also marked by a specific intonation.
+A: word: nɤʑo	 gloss: 2SG
+B: word: aʑo	 gloss: 1SG
+C: word: lɤ-zo	 gloss: AOR-land
+D: word: `nɤʑo	 gloss: 2SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 52:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕeri, ɯ-pi mɯ-pjɤ-rɤʑi qʰendɤre, ___ nɯ pjɤ-rɤʑi ɕti qʰe
+Gloss (with missing item): LNK 3SG.POSS-elder.sibling NEG-IFR.IPFV-stay LNK ___ DEM NEG-IFR.IPFV-stay be.AFF:FACT LNK
+The English translation of this sentence is:`But his elder brother was not there, it was his brother's wife who was there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The postverbal copula construction is used to indicate focus on all core arguments, including intransitive subject (\ref{ex:Wpi.mWpjArAzi}), transitive subject (\ref{ex:pAnmawombAr.kW.Nu}, \ref{ex:aZo.pWnWmtota}, with optional ergative on the overt pronoun, §\ref{sec:absolutive.A}) and object (\ref{ex:tutia.Cti}, \ref{ex:nW.YWnArea}).
+A: word: ɯ-rʑaβ	 gloss: 3SG.POSS-wife
+B: word: tɤ-ɬaʁ	 gloss: INDEF.POSS-MZ
+C: word: ɯ-ɬaʁ	 gloss: 3SG.POSS-aunt
+D: word: tɯ-ŋu	 gloss: 2-be:FACT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 53:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕeri, ɯ-pi mɯ-pjɤ-rɤʑi qʰendɤre, ɯ-ɬaʁ ___ pjɤ-rɤʑi ɕti qʰe
+Gloss (with missing item): LNK 3SG.POSS-elder.sibling NEG-IFR.IPFV-stay LNK 3SG.POSS-aunt ___ NEG-IFR.IPFV-stay be.AFF:FACT LNK
+The English translation of this sentence is:`But his elder brother was not there, it was his brother's wife who was there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The postverbal copula construction is used to indicate focus on all core arguments, including intransitive subject (\ref{ex:Wpi.mWpjArAzi}), transitive subject (\ref{ex:pAnmawombAr.kW.Nu}, \ref{ex:aZo.pWnWmtota}, with optional ergative on the overt pronoun, §\ref{sec:absolutive.A}) and object (\ref{ex:tutia.Cti}, \ref{ex:nW.YWnArea}).
+A: word: nɯ	 gloss: DEM
+B: word: kɯrɯ	 gloss: Tibetan
+C: word: ɯ-mɤ-nɯ-mɯnmu	 gloss: QU-NEG-AOR-move
+D: word: nɯra	 gloss: DEM:PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 54:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kɯki tɕʰeme ki ndɤre aʑɯɣ a-pɯ-ŋu tʂaŋ ma tɕe ___ pɯ-nɯ-mto-t-a ɕti tɕe
+Gloss (with missing item): DEM.PROX girl DEM.PROX LNK 1SG.GEN IRR-IPFV-be be.fair:FACT LNK LNK ___ AOR-AUTO-see-PST:TR-1SG be.AFF:FACT LNK
+The English translation of this sentence is:`This girl, it would be fair if she were mine, as it was I who found her.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The postverbal copula construction is used to indicate focus on all core arguments, including intransitive subject (\ref{ex:Wpi.mWpjArAzi}), transitive subject (\ref{ex:pAnmawombAr.kW.Nu}, \ref{ex:aZo.pWnWmtota}, with optional ergative on the overt pronoun, §\ref{sec:absolutive.A}) and object (\ref{ex:tutia.Cti}, \ref{ex:nW.YWnArea}).
+A: word: xɕiri	 gloss: weasel
+B: word: aʑo	 gloss: 1SG
+C: word: aʑo-sti	 gloss: 1SG-alone
+D: word: nɤʑo	 gloss: 2SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 55:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): aʑo ___ tu-ti-a ɕti ma, nɤj ɲɯ-ta-nɯ-ɤkʰɤzŋga maʁ
+Gloss (with missing item): 1SG ___ IPFV-say-1SG be.AFF:FACT LNK 2SG IPFV-1\fl{}2-APPL-call not.be:FACT
+The English translation of this sentence is:`I am saying ``Padma 'Od 'bar", it is not you that I am calling.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The postverbal copula construction is used to indicate focus on all core arguments, including intransitive subject (\ref{ex:Wpi.mWpjArAzi}), transitive subject (\ref{ex:pAnmawombAr.kW.Nu}, \ref{ex:aZo.pWnWmtota}, with optional ergative on the overt pronoun, §\ref{sec:absolutive.A}) and object (\ref{ex:tutia.Cti}, \ref{ex:nW.YWnArea}).
+A: word: qrormbɯ	 gloss: anthill
+B: word: ɯ-kʰa	 gloss: 3SG.POSS-house
+C: word: pɤnmawombɤr	 gloss: ANTHR
+D: word: ʑmbɤr	 gloss: ulcer
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 56:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): aʑo pɤnmawombɤr tu-ti-a ɕti ma, ___ ɲɯ-ta-nɯ-ɤkʰɤzŋga maʁ
+Gloss (with missing item): 1SG ANTHR IPFV-say-1SG be.AFF:FACT LNK ___ IPFV-1\fl{}2-APPL-call not.be:FACT
+The English translation of this sentence is:`I am saying ``Padma 'Od 'bar", it is not you that I am calling.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The postverbal copula construction is used to indicate focus on all core arguments, including intransitive subject (\ref{ex:Wpi.mWpjArAzi}), transitive subject (\ref{ex:pAnmawombAr.kW.Nu}, \ref{ex:aZo.pWnWmtota}, with optional ergative on the overt pronoun, §\ref{sec:absolutive.A}) and object (\ref{ex:tutia.Cti}, \ref{ex:nW.YWnArea}).
+A: word: nɤj	 gloss: 2SG
+B: word: prɯŋprɯŋ	 gloss: IDPH(II):solidly
+C: word: mɯ-pjɤ-z-nɤjo	 gloss: NEG-IFR.IPFV-ABIL-wait
+D: word: aʑo	 gloss: 1SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 57:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kʰɯɣɲɟɯ ri pɣɤtɕɯ ni ɲɯ-ɤnɯɣro-ndʑi tɕe, ___ ɲɯ-nɤre-a ɕti wo
+Gloss (with missing item): window LOC bird DU SENS-play-DU LNK ___ IPFV--1SG be.AFF:FACT SFP
+The English translation of this sentence is:`On the window two birds were playing, this is what I was laughing about.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The postverbal copula construction is used to indicate focus on all core arguments, including intransitive subject (\ref{ex:Wpi.mWpjArAzi}), transitive subject (\ref{ex:pAnmawombAr.kW.Nu}, \ref{ex:aZo.pWnWmtota}, with optional ergative on the overt pronoun, §\ref{sec:absolutive.A}) and object (\ref{ex:tutia.Cti}, \ref{ex:nW.YWnArea}).
+A: word: ɯ-mɤ-nɯ-mɯnmu	 gloss: QU-NEG-AOR-move
+B: word: nɯ	 gloss: DEM
+C: word: kɯ-nɤmɲo	 gloss: SBJ:PCP-watch
+D: word: nɯra	 gloss: DEM:PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 58:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ɕ-tɤ-nɯ-ru-t-a ŋu
+Gloss (with missing item): ___ TRAL-AOR-AUTO-bring-PST:TR-1SG be:FACT
+The English translation of this sentence is:`I brought it for myself.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (§\ref{ex:CtAnWruta}), although the focalized argument is in transitive subject function, it is not focalized as subject (`it is I who brought it') but as beneficiary (`it is for myself that I brought it'), as this referent has both functions, the latter marked by the autive prefix \forme{nɯ-} (§\ref{sec:autoben.proper}).
+A: word: ɲɯ-ɕe	 gloss: IPFV:WEST-go
+B: word: aʑo	 gloss: 1SG
+C: word: aʑo-sti	 gloss: 1SG-alone
+D: word: nɤʑo	 gloss: 2SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 59:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕeri, ɯ-pi mɯ-pjɤ-rɤʑi qʰendɤre, ___ nɯ pjɤ-rɤʑi ɕti qʰe
+Gloss (with missing item): LNK 3SG.POSS-elder.sibling NEG-IFR.IPFV-stay LNK ___ DEM NEG-IFR.IPFV-stay be.AFF:FACT LNK
+The English translation of this sentence is:`But his elder brother was not there, it was his brother's wife who was there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: All three copulas (§\ref{sec:copula.basic}) are found in this construction, including the emphatic affirmative \forme{ɕti} (\ref{ex:Wpi.mWpjArAzi}, \ref{ex:tutia.Cti}) and the negative \forme{maʁ} (\ref{ex:tutia.Cti}, \ref{ex:nW.Wndzxa.kW.pWmaR}).
+A: word: ɯ-ɬaʁ	 gloss: 3SG.POSS-aunt
+B: word: nɯnɯ	 gloss: DEM
+C: word: ɯ-rʑaβ	 gloss: 3SG.POSS-wife
+D: word: tɤ-ɬaʁ	 gloss: INDEF.POSS-MZ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 60:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕeri, ɯ-pi mɯ-pjɤ-rɤʑi qʰendɤre, ɯ-ɬaʁ ___ pjɤ-rɤʑi ɕti qʰe
+Gloss (with missing item): LNK 3SG.POSS-elder.sibling NEG-IFR.IPFV-stay LNK 3SG.POSS-aunt ___ NEG-IFR.IPFV-stay be.AFF:FACT LNK
+The English translation of this sentence is:`But his elder brother was not there, it was his brother's wife who was there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: All three copulas (§\ref{sec:copula.basic}) are found in this construction, including the emphatic affirmative \forme{ɕti} (\ref{ex:Wpi.mWpjArAzi}, \ref{ex:tutia.Cti}) and the negative \forme{maʁ} (\ref{ex:tutia.Cti}, \ref{ex:nW.Wndzxa.kW.pWmaR}).
+A: word: ɯ-mɤ-nɯ-mɯnmu	 gloss: QU-NEG-AOR-move
+B: word: nɯ	 gloss: DEM
+C: word: ɯ-ɬaʁ	 gloss: 3SG.POSS-aunt
+D: word: nɯra	 gloss: DEM:PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 61:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): aʑo ___ tu-ti-a ɕti ma, nɤj ɲɯ-ta-nɯ-ɤkʰɤzŋga maʁ
+Gloss (with missing item): 1SG ___ IPFV-say-1SG be.AFF:FACT LNK 2SG IPFV-1\fl{}2-APPL-call not.be:FACT
+The English translation of this sentence is:`I am saying ``Padma 'Od 'bar", it is not you that I am calling.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: All three copulas (§\ref{sec:copula.basic}) are found in this construction, including the emphatic affirmative \forme{ɕti} (\ref{ex:Wpi.mWpjArAzi}, \ref{ex:tutia.Cti}) and the negative \forme{maʁ} (\ref{ex:tutia.Cti}, \ref{ex:nW.Wndzxa.kW.pWmaR}).
+A: word: lɤ-zo	 gloss: AOR-land
+B: word: qrormbɯ	 gloss: anthill
+C: word: ʑmbɤr	 gloss: ulcer
+D: word: pɤnmawombɤr	 gloss: ANTHR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 62:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): aʑo pɤnmawombɤr tu-ti-a ɕti ma, ___ ɲɯ-ta-nɯ-ɤkʰɤzŋga maʁ
+Gloss (with missing item): 1SG ANTHR IPFV-say-1SG be.AFF:FACT LNK ___ IPFV-1\fl{}2-APPL-call not.be:FACT
+The English translation of this sentence is:`I am saying ``Padma 'Od 'bar", it is not you that I am calling.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: All three copulas (§\ref{sec:copula.basic}) are found in this construction, including the emphatic affirmative \forme{ɕti} (\ref{ex:Wpi.mWpjArAzi}, \ref{ex:tutia.Cti}) and the negative \forme{maʁ} (\ref{ex:tutia.Cti}, \ref{ex:nW.Wndzxa.kW.pWmaR}).
+A: word: aʑo	 gloss: 1SG
+B: word: sɤre	 gloss: be.funny:FACT
+C: word: mɯ-pjɤ-z-nɤjo	 gloss: NEG-IFR.IPFV-ABIL-wait
+D: word: nɤj	 gloss: 2SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 63:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): aʑo ___ tu-ti-a ɕti ma, nɤj ɲɯ-ta-nɯ-ɤkʰɤzŋga maʁ
+Gloss (with missing item): 1SG ___ IPFV-say-1SG be.AFF:FACT LNK 2SG IPFV-1\fl{}2-APPL-call not.be:FACT
+The English translation of this sentence is:`I am saying ``Padma 'Od 'bar", it is not you that I am calling.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: All three copulas (§\ref{sec:copula.basic}) are found in this construction, including the emphatic affirmative \forme{ɕti} (\ref{ex:Wpi.mWpjArAzi}, \ref{ex:tutia.Cti}) and the negative \forme{maʁ} (\ref{ex:tutia.Cti}, \ref{ex:nW.Wndzxa.kW.pWmaR}).
+A: word: kɯɕɯŋgɯ	 gloss: in.former.times
+B: word: ʑmbɤr	 gloss: ulcer
+C: word: pɤnmawombɤr	 gloss: ANTHR
+D: word: qrormbɯ	 gloss: anthill
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 64:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): aʑo pɤnmawombɤr tu-ti-a ɕti ma, ___ ɲɯ-ta-nɯ-ɤkʰɤzŋga maʁ
+Gloss (with missing item): 1SG ANTHR IPFV-say-1SG be.AFF:FACT LNK ___ IPFV-1\fl{}2-APPL-call not.be:FACT
+The English translation of this sentence is:`I am saying ``Padma 'Od 'bar", it is not you that I am calling.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: All three copulas (§\ref{sec:copula.basic}) are found in this construction, including the emphatic affirmative \forme{ɕti} (\ref{ex:Wpi.mWpjArAzi}, \ref{ex:tutia.Cti}) and the negative \forme{maʁ} (\ref{ex:tutia.Cti}, \ref{ex:nW.Wndzxa.kW.pWmaR}).
+A: word: aʑo	 gloss: 1SG
+B: word: a-rʑaʁ	 gloss: 1SG.POSS-time
+C: word: nɤj	 gloss: 2SG
+D: word: mɯ-pjɤ-z-nɤjo	 gloss: NEG-IFR.IPFV-ABIL-wait
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 65:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ɯ-ndʐa kɯ nɯ-si ʁo pɯ-maʁ.
+Gloss (with missing item): ___ 3SG.POSS-reason ERG AOR-die ADVERS PST.IPFV-not.be
+The English translation of this sentence is:`It was not because of this that shed died.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: All three copulas (§\ref{sec:copula.basic}) are found in this construction, including the emphatic affirmative \forme{ɕti} (\ref{ex:Wpi.mWpjArAzi}, \ref{ex:tutia.Cti}) and the negative \forme{maʁ} (\ref{ex:tutia.Cti}, \ref{ex:nW.Wndzxa.kW.pWmaR}).
+A: word: nɯ	 gloss: DEM
+B: word: a-rʑaʁ	 gloss: 1SG.POSS-time
+C: word: nɯra	 gloss: DEM:PL
+D: word: ɯ-mɤ-nɯ-mɯnmu	 gloss: QU-NEG-AOR-move
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 66:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɯ ___ kɯ nɯ-si ʁo pɯ-maʁ.
+Gloss (with missing item): DEM ___ ERG AOR-die ADVERS PST.IPFV-not.be
+The English translation of this sentence is:`It was not because of this that shed died.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: All three copulas (§\ref{sec:copula.basic}) are found in this construction, including the emphatic affirmative \forme{ɕti} (\ref{ex:Wpi.mWpjArAzi}, \ref{ex:tutia.Cti}) and the negative \forme{maʁ} (\ref{ex:tutia.Cti}, \ref{ex:nW.Wndzxa.kW.pWmaR}).
+A: word: cʰondɤre	 gloss: COMIT
+B: word: lɤ-zo	 gloss: AOR-land
+C: word: ɯ-ndʐa	 gloss: 3SG.POSS-reason
+D: word: tɯ-ndʐaβ	 gloss: 2-ACAUS:cause.to.roll.down:FACT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 67:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɯ ɯ-ndʐa ___ nɯ-si ʁo pɯ-maʁ.
+Gloss (with missing item): DEM 3SG.POSS-reason ___ AOR-die ADVERS PST.IPFV-not.be
+The English translation of this sentence is:`It was not because of this that shed died.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: All three copulas (§\ref{sec:copula.basic}) are found in this construction, including the emphatic affirmative \forme{ɕti} (\ref{ex:Wpi.mWpjArAzi}, \ref{ex:tutia.Cti}) and the negative \forme{maʁ} (\ref{ex:tutia.Cti}, \ref{ex:nW.Wndzxa.kW.pWmaR}).
+A: word: ʁmɯrtsɯ	 gloss: Berchemia.yunnanensis
+B: word: kɯ	 gloss: ERG
+C: word: a-tɤ-kɯ-nɯlaʁrdaβ-a	 gloss: IRR-PFV-2\fl{}1-hit.with.forelegs-1SG
+D: word: qʰoʁqʰoʁ	 gloss: ingot
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 68:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kɯki tɕʰeme ki ndɤre aʑɯɣ a-pɯ-ŋu tʂaŋ ma tɕe ___ pɯ-nɯ-mto-t-a ɕti tɕe
+Gloss (with missing item): DEM.PROX girl DEM.PROX LNK 1SG.GEN IRR-IPFV-be be.fair:FACT LNK LNK ___ AOR-AUTO-see-PST:TR-1SG be.AFF:FACT LNK
+The English translation of this sentence is:`This girl, it would be fair if she were mine, as it was I who found her.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Focalized first or second person core arguments, in addition to being marked by an overt pronoun, are also obligatorily indexed on the verb (§\ref{sec:intr.indexation}, §\ref{sec:tr.indexation}), as shown by \textsc{1sg} and \textsc{2sg} marking in (\ref{ex:aZo.pWnWmtota}) and (\ref{ex:tutia.Cti}) below and in (\ref{ex:CkAnWru}) above.
+A: word: a-ʁa	 gloss: 1SG.POSS-free.time
+B: word: nɤʑo	 gloss: 2SG
+C: word: aʑo-sti	 gloss: 1SG-alone
+D: word: aʑo	 gloss: 1SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 69:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): aʑo ___ tu-ti-a ɕti ma, nɤj ɲɯ-ta-nɯ-ɤkʰɤzŋga maʁ
+Gloss (with missing item): 1SG ___ IPFV-say-1SG be.AFF:FACT LNK 2SG IPFV-1\fl{}2-APPL-call not.be:FACT
+The English translation of this sentence is:`I am saying ``Padma 'Od 'bar", it is not you that I am calling.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Focalized first or second person core arguments, in addition to being marked by an overt pronoun, are also obligatorily indexed on the verb (§\ref{sec:intr.indexation}, §\ref{sec:tr.indexation}), as shown by \textsc{1sg} and \textsc{2sg} marking in (\ref{ex:aZo.pWnWmtota}) and (\ref{ex:tutia.Cti}) below and in (\ref{ex:CkAnWru}) above.
+A: word: tsa	 gloss: a.little
+B: word: pɤnmawombɤr	 gloss: ANTHR
+C: word: ʑmbɤr	 gloss: ulcer
+D: word: qrormbɯ	 gloss: anthill
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 70:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): aʑo pɤnmawombɤr tu-ti-a ɕti ma, ___ ɲɯ-ta-nɯ-ɤkʰɤzŋga maʁ
+Gloss (with missing item): 1SG ANTHR IPFV-say-1SG be.AFF:FACT LNK ___ IPFV-1\fl{}2-APPL-call not.be:FACT
+The English translation of this sentence is:`I am saying ``Padma 'Od 'bar", it is not you that I am calling.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Focalized first or second person core arguments, in addition to being marked by an overt pronoun, are also obligatorily indexed on the verb (§\ref{sec:intr.indexation}, §\ref{sec:tr.indexation}), as shown by \textsc{1sg} and \textsc{2sg} marking in (\ref{ex:aZo.pWnWmtota}) and (\ref{ex:tutia.Cti}) below and in (\ref{ex:CkAnWru}) above.
+A: word: aʑo	 gloss: 1SG
+B: word: mɯ-pjɤ-z-nɤjo	 gloss: NEG-IFR.IPFV-ABIL-wait
+C: word: nɤj	 gloss: 2SG
+D: word: kɯ-nɤmɲo	 gloss: SBJ:PCP-watch
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 71:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ɯ-ndʐa kɯ nɯ-si ʁo pɯ-maʁ.
+Gloss (with missing item): ___ 3SG.POSS-reason ERG AOR-die ADVERS PST.IPFV-not.be
+The English translation of this sentence is:`It was not because of this that shed died.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: This construction is also attested to focalize adjuncts, such as the causal phrase marked with the ergative (§\ref{sec:manner.nominal.kW}) in (\ref{ex:nW.Wndzxa.kW.pWmaR}).
+A: word: nɯ	 gloss: DEM
+B: word: nɯra	 gloss: DEM:PL
+C: word: ɯ-mɤ-nɯ-mɯnmu	 gloss: QU-NEG-AOR-move
+D: word: lɤ-zo	 gloss: AOR-land
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 72:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɯ ___ kɯ nɯ-si ʁo pɯ-maʁ.
+Gloss (with missing item): DEM ___ ERG AOR-die ADVERS PST.IPFV-not.be
+The English translation of this sentence is:`It was not because of this that shed died.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: This construction is also attested to focalize adjuncts, such as the causal phrase marked with the ergative (§\ref{sec:manner.nominal.kW}) in (\ref{ex:nW.Wndzxa.kW.pWmaR}).
+A: word: nɤʑo	 gloss: 2SG
+B: word: tɯ-ndʐaβ	 gloss: 2-ACAUS:cause.to.roll.down:FACT
+C: word: tó-wɣ-ɕɯ-fka	 gloss: IFR-INV-CAUS-be.full
+D: word: ɯ-ndʐa	 gloss: 3SG.POSS-reason
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 73:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɯ ɯ-ndʐa ___ nɯ-si ʁo pɯ-maʁ.
+Gloss (with missing item): DEM 3SG.POSS-reason ___ AOR-die ADVERS PST.IPFV-not.be
+The English translation of this sentence is:`It was not because of this that shed died.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: This construction is also attested to focalize adjuncts, such as the causal phrase marked with the ergative (§\ref{sec:manner.nominal.kW}) in (\ref{ex:nW.Wndzxa.kW.pWmaR}).
+A: word: kɯ	 gloss: ERG
+B: word: qʰoʁqʰoʁ	 gloss: ingot
+C: word: tɤ-wa	 gloss: INF-father
+D: word: a-tɤ-kɯ-nɯlaʁrdaβ-a	 gloss: IRR-PFV-2\fl{}1-hit.with.forelegs-1SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 74:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nɯ kɯ qapri bɯxsi pjɤ-sat kɯ-ŋu] nɯnɯ ko-tso
+Gloss (with missing item): ___ DEM ERG snake python IFR-kill SBJ:PCP-be DEM IFR-understand
+The English translation of this sentence is:`He realized that it was the weasel that had killed the python.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The postverbal copula can be nominalized, and the whole sentence turned into a non-finite clause. This type of construction is also used for constituent focalization as in (\ref{ex:qapri.bWxsi.pjAsat}). The form \forme{kɯ-ŋu} is ambiguous between a stative infinitive and a subject participle (§\ref{sec:infinitives.participles}), and therefore the non-finite clause is either analyzable as an infinitival complement clause (§\ref{sec:inf.complementation}) or a participial clause in semi-object function (§\ref{sec:relative.core.arg}).
+A: word: kɯrŋi	 gloss: beast
+B: word: xɕiri	 gloss: weasel
+C: word: rɤʑi-tɕi	 gloss: stay:FACT-1DU
+D: word: ʁmɯrtsɯ	 gloss: Berchemia.yunnanensis
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 75:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [xɕiri ___ kɯ qapri bɯxsi pjɤ-sat kɯ-ŋu] nɯnɯ ko-tso
+Gloss (with missing item): weasel ___ ERG snake python IFR-kill SBJ:PCP-be DEM IFR-understand
+The English translation of this sentence is:`He realized that it was the weasel that had killed the python.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The postverbal copula can be nominalized, and the whole sentence turned into a non-finite clause. This type of construction is also used for constituent focalization as in (\ref{ex:qapri.bWxsi.pjAsat}). The form \forme{kɯ-ŋu} is ambiguous between a stative infinitive and a subject participle (§\ref{sec:infinitives.participles}), and therefore the non-finite clause is either analyzable as an infinitival complement clause (§\ref{sec:inf.complementation}) or a participial clause in semi-object function (§\ref{sec:relative.core.arg}).
+A: word: ɯ-mɤ-nɯ-mɯnmu	 gloss: QU-NEG-AOR-move
+B: word: nɯra	 gloss: DEM:PL
+C: word: ɯ-mat	 gloss: 3SG.POSS-fruit
+D: word: nɯ	 gloss: DEM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 76:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [xɕiri nɯ ___ qapri bɯxsi pjɤ-sat kɯ-ŋu] nɯnɯ ko-tso
+Gloss (with missing item): weasel DEM ___ snake python IFR-kill SBJ:PCP-be DEM IFR-understand
+The English translation of this sentence is:`He realized that it was the weasel that had killed the python.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The postverbal copula can be nominalized, and the whole sentence turned into a non-finite clause. This type of construction is also used for constituent focalization as in (\ref{ex:qapri.bWxsi.pjAsat}). The form \forme{the morpheme ___-ŋu} is ambiguous between a stative infinitive and a subject participle (§\ref{sec:infinitives.participles}), and therefore the non-finite clause is either analyzable as an infinitival complement clause (§\ref{sec:inf.complementation}) or a participial clause in semi-object function (§\ref{sec:relative.core.arg}).
+A: word: jla	 gloss: hybrid.yak
+B: word: kɯ	 gloss: ERG
+C: word: qʰoʁqʰoʁ	 gloss: ingot
+D: word: a-tɤ-kɯ-nɯlaʁrdaβ-a	 gloss: IRR-PFV-2\fl{}1-hit.with.forelegs-1SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 77:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɯ kɯ-fse ci tɯ-ŋu, nɯ mɤ-kɯ-naχtɕɯɣ ci ___ tɯ-ŋu
+Gloss (with missing item): DEM SBJ:PCP-be.like INDEF 2-be:FACT DEM NEG-SBJ:PCP-be.the.same INDEF ___ 2-be:FACT
+The English translation of this sentence is:`You are (someone) like that, you are different (from normal people).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Copulas are exceptional in being the only verbs that can be repeated to express emphasis. This usage is only found in the traditional story register, as in (\ref{ex:tWNu.tWNu}). This construction differs from partial reduplication, which only targets one syllable (§\ref{sec:partial.redp}).
+A: word: pjɤ-tɯ-ŋu	 gloss: IFR.IPFV-2-be
+B: word: pɤnmawombɤr	 gloss: ANTHR
+C: word: tɯ-ŋu	 gloss: 2-be:FACT
+D: word: ŋu/tɯ-ŋu	 gloss: be:FACT/2-be:FACT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 78:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɯ kɯ-fse ci tɯ-ŋu, nɯ mɤ-kɯ-naχtɕɯɣ ci tɯ-ŋu ___
+Gloss (with missing item): DEM SBJ:PCP-be.like INDEF 2-be:FACT DEM NEG-SBJ:PCP-be.the.same INDEF 2-be:FACT ___
+The English translation of this sentence is:`You are (someone) like that, you are different (from normal people).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Copulas are exceptional in being the only verbs that can be repeated to express emphasis. This usage is only found in the traditional story register, as in (\ref{ex:tWNu.tWNu}). This construction differs from partial reduplication, which only targets one syllable (§\ref{sec:partial.redp}).
+A: word: tɯ-ŋu	 gloss: 2-be:FACT
+B: word: pjɤ-tɯ-ŋu	 gloss: IFR.IPFV-2-be
+C: word: ɯ-ndʐa	 gloss: 3SG.POSS-cause
+D: word: ŋu/tɯ-ŋu	 gloss: be:FACT/2-be:FACT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+

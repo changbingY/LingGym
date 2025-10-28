@@ -1,0 +1,13 @@
+Question 0:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ [pɯ\redp{}pɯ-kɯ-mto]] kɯ ɲɯ-nɤ-mpɕɤr-nɯ tɕe ``ɲɯ-pe" tu-ti-nɯ pjɤ-ŋu
+Gloss (with missing item): ___ TOTAL\redp{}AOR-SBJ:PCP-see ERG SENS-TROP-be.beautiful-PL LNK SENS-be.good IPFV-say-PL IFR.IPFV-be
+The English translation of this sentence is:`All the people who saw it found it beautiful and said it was nice.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Totalitative reduplication of transitive subject participle is only possible if no possessive prefix is present (see \ref{ex:tWrme.pWpWkWmto}, §\ref{sec:totalitative.relatives}).
+A: word: tɯrme	 gloss: person
+B: word: tu-mŋɤm	 gloss: IPFV-be.painful
+C: word: ɯ-tʰoʁ	 gloss: 3SG.POSS-earth
+D: word: a-tɯrme	 gloss: 1SG.POSS-man
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+

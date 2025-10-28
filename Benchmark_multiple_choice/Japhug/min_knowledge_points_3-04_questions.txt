@@ -1,0 +1,156 @@
+Question 0:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕendɤre tɤɕime nɯ kɯ, ___ nɯ ma ɯ-kɤpa pjɤ-me qʰe `jɤɣ jɤɣ jɤɣ' to-ti ɲɯ-ŋu.
+Gloss (with missing item): LNK young.lady DEM ERG ___ DEM apart.from 3SG.POSS-method IPFV.IFR-not.exist LNK be.possible:FACT be.possible:FACT be.possible:FACT IFR-say SENS-be
+The English translation of this sentence is:`The young lady had no other way but to say ``yes, yes, yes".'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:long.erg2}), for instance, the clause \forme{nɯ ma ɯ-kɤpa pjɤ-me qʰe} `she had no other way' separates the subject \forme{tɤɕime nɯ kɯ} `the princess' from the main verb \forme{to-ti} `she said'; note the presence of a pause and of the filler \forme{the morpheme ___} after the transitive subject. The transitive subject here also happens to be coreferent with the possessor of \forme{ɯ-kɤpa} `her method, her way' in the standing clause, resulting in a surface case mismatch.
+A: word: nɤkinɯ	 gloss: FILLER
+B: word: qʰe	 gloss: LNK
+C: word: kɯ-ɣɤndʐo	 gloss: SBJ:PCP-be.cold
+D: word: (nɤkinɯ)	 gloss: FILLER
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 1:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕendɤre tɤɕime nɯ kɯ, nɤkinɯ, ___ ma ɯ-kɤpa pjɤ-me qʰe `jɤɣ jɤɣ jɤɣ' to-ti ɲɯ-ŋu.
+Gloss (with missing item): LNK young.lady DEM ERG FILLER ___ apart.from 3SG.POSS-method IPFV.IFR-not.exist LNK be.possible:FACT be.possible:FACT be.possible:FACT IFR-say SENS-be
+The English translation of this sentence is:`The young lady had no other way but to say ``yes, yes, yes".'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:long.erg2}), for instance, the clause \forme{the morpheme ___ ma ɯ-kɤpa pjɤ-me qʰe} `she had no other way' separates the subject \forme{tɤɕime the morpheme ___ kɯ} `the princess' from the main verb \forme{to-ti} `she said'; note the presence of a pause and of the filler \forme{nɤkithe morpheme ___} after the transitive subject. The transitive subject here also happens to be coreferent with the possessor of \forme{ɯ-kɤpa} `her method, her way' in the standing clause, resulting in a surface case mismatch.
+A: word: nɯra	 gloss: DEM:PL
+B: word: nɯ	 gloss: DEM
+C: word: ɯ-mɤ-nɯ-mɯnmu	 gloss: QU-NEG-AOR-move
+D: word: qʰe	 gloss: LNK
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 2:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕendɤre tɤɕime nɯ kɯ, nɤkinɯ, nɯ ___ ɯ-kɤpa pjɤ-me qʰe `jɤɣ jɤɣ jɤɣ' to-ti ɲɯ-ŋu.
+Gloss (with missing item): LNK young.lady DEM ERG FILLER DEM ___ 3SG.POSS-method IPFV.IFR-not.exist LNK be.possible:FACT be.possible:FACT be.possible:FACT IFR-say SENS-be
+The English translation of this sentence is:`The young lady had no other way but to say ``yes, yes, yes".'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:long.erg2}), for instance, the clause \forme{nɯ the morpheme ___ ɯ-kɤpa pjɤ-me qʰe} `she had no other way' separates the subject \forme{tɤɕime nɯ kɯ} `the princess' from the the morpheme ___in verb \forme{to-ti} `she said'; note the presence of a pause and of the filler \forme{nɤkinɯ} after the transitive subject. The transitive subject here also happens to be coreferent with the possessor of \forme{ɯ-kɤpa} `her method, her way' in the standing clause, resulting in a surface case misthe morpheme ___tch.
+A: word: tɕe	 gloss: LNK
+B: word: ɯʑoz	 gloss: apart
+C: word: ma	 gloss: apart.from
+D: word: maʁ-a	 gloss: not.be:FACT-1SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 3:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕendɤre tɤɕime nɯ kɯ, nɤkinɯ, nɯ ma ___ pjɤ-me qʰe `jɤɣ jɤɣ jɤɣ' to-ti ɲɯ-ŋu.
+Gloss (with missing item): LNK young.lady DEM ERG FILLER DEM apart.from ___ IPFV.IFR-not.exist LNK be.possible:FACT be.possible:FACT be.possible:FACT IFR-say SENS-be
+The English translation of this sentence is:`The young lady had no other way but to say ``yes, yes, yes".'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:long.erg2}), for instance, the clause \forme{nɯ ma the morpheme ___ pjɤ-me qʰe} `she had no other way' separates the subject \forme{tɤɕime nɯ kɯ} `the princess' from the main verb \forme{to-ti} `she said'; note the presence of a pause and of the filler \forme{nɤkinɯ} after the transitive subject. The transitive subject here also happens to be coreferent with the possessor of \forme{the morpheme ___} `her method, her way' in the standing clause, resulting in a surface case mismatch.
+A: word: pɯ-a<nnɯ>ri	 gloss: AOR-<AUTO>go[II]
+B: word: a-kɤpa	 gloss: 1SG.POSS-method
+C: word: ɯ-kɤpa	 gloss: 3SG.POSS-method
+D: word: tɕe	 gloss: LNK
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 4:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕendɤre tɤɕime nɯ kɯ, nɤkinɯ, nɯ ma ɯ-kɤpa ___ qʰe `jɤɣ jɤɣ jɤɣ' to-ti ɲɯ-ŋu.
+Gloss (with missing item): LNK young.lady DEM ERG FILLER DEM apart.from 3SG.POSS-method ___ LNK be.possible:FACT be.possible:FACT be.possible:FACT IFR-say SENS-be
+The English translation of this sentence is:`The young lady had no other way but to say ``yes, yes, yes".'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:long.erg2}), for instance, the clause \forme{nɯ ma ɯ-kɤpa the morpheme ___ qʰe} `she had no other way' separates the subject \forme{tɤɕime nɯ kɯ} `the princess' from the main verb \forme{to-ti} `she said'; note the presence of a pause and of the filler \forme{nɤkinɯ} after the transitive subject. The transitive subject here also happens to be coreferent with the possessor of \forme{ɯ-kɤpa} `her method, her way' in the standing clause, resulting in a surface case mismatch.
+A: word: ɯ-kɤpa	 gloss: 3SG.POSS-method
+B: word: pjɤ-tu	 gloss: IFR.IPFV-exist
+C: word: pjɤ-me	 gloss: IPFV.IFR-not.exist
+D: word: pjɤ-me-nɯ	 gloss: IFR.IPFV-not.exist-PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 5:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕendɤre tɤɕime nɯ kɯ, nɤkinɯ, nɯ ma ɯ-kɤpa pjɤ-me ___ `jɤɣ jɤɣ jɤɣ' to-ti ɲɯ-ŋu.
+Gloss (with missing item): LNK young.lady DEM ERG FILLER DEM apart.from 3SG.POSS-method IPFV.IFR-not.exist ___ be.possible:FACT be.possible:FACT be.possible:FACT IFR-say SENS-be
+The English translation of this sentence is:`The young lady had no other way but to say ``yes, yes, yes".'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:long.erg2}), for instance, the clause \forme{nɯ ma ɯ-kɤpa pjɤ-me the morpheme ___} `she had no other way' separates the subject \forme{tɤɕime nɯ kɯ} `the princess' from the main verb \forme{to-ti} `she said'; note the presence of a pause and of the filler \forme{nɤkinɯ} after the transitive subject. The transitive subject here also happens to be coreferent with the possessor of \forme{ɯ-kɤpa} `her method, her way' in the standing clause, resulting in a surface case mismatch.
+A: word: nɤkinɯ	 gloss: filler
+B: word: tu-qʰe-a	 gloss: IPFV-hate[III]-1SG
+C: word: qʰe	 gloss: LNK
+D: word: saɕɯ	 gloss: larch
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 6:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): iɕqʰa rgɤtpu nɯ kɯ, ___ tɕe, nɤki, ɬɤndʐi nɯnɯ jo-tsʰi
+Gloss (with missing item): the.aforementioned old.man DEM ERG ___ LNK FILLER demon DEM IFR-block
+The English translation of this sentence is:`The old man came and stopped the demon.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Similarly in (\ref{ex:long.erg3}), the minimal clause \forme{the morpheme ___} `he came' consisting of a single verb occurs between the subject \forme{iɕqʰa rgɤtpu nɯ kɯ} `the old man' and the rest of the main clause \forme{ɬɤndʐi nɯnɯ jo-tsʰi} `he stopped the demon'.
+A: word: ɲɤ-kʰo	 gloss: IFR-give
+B: word: mɯ-jo-ɣi-nɯ	 gloss: NEG-IFR-come-PL
+C: word: jo-ɣi	 gloss: IFR-come
+D: word: qʰe	 gloss: LNK
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 7:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): iɕqʰa rgɤtpu nɯ kɯ, jo-ɣi ___ nɤki, ɬɤndʐi nɯnɯ jo-tsʰi
+Gloss (with missing item): the.aforementioned old.man DEM ERG IFR-come ___ FILLER demon DEM IFR-block
+The English translation of this sentence is:`The old man came and stopped the demon.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Similarly in (\ref{ex:long.erg3}), the minimal clause \forme{jo-ɣi} `he came' consisting of a single verb occurs between the subject \forme{iɕqʰa rgɤtpu nɯ kɯ} `the old man' and the rest of the main clause \forme{ɬɤndʐi nɯnɯ jo-tsʰi} `he stopped the demon'.
+A: word: nɤkinɯ	 gloss: filler
+B: word: tɕe	 gloss: LNK
+C: word: tɕendɤre	 gloss: LNK
+D: word: saɕɯ	 gloss: larch
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 8:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): iɕqʰa rgɤtpu nɯ kɯ, jo-ɣi tɕe, ___ ɬɤndʐi nɯnɯ jo-tsʰi
+Gloss (with missing item): the.aforementioned old.man DEM ERG IFR-come LNK ___ demon DEM IFR-block
+The English translation of this sentence is:`The old man came and stopped the demon.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Similarly in (\ref{ex:long.erg3}), the minimal clause \forme{jo-ɣi} `he came' consisting of a single verb occurs between the subject \forme{iɕqʰa rgɤtpu nɯ kɯ} `the old man' and the rest of the main clause \forme{ɬɤndʐi nɯnɯ jo-tsʰi} `he stopped the demon'.
+A: word: nɤki	 gloss: FILLER
+B: word: nɤkinɯ	 gloss: filler
+C: word: ɯ-rgɤm	 gloss: 3SG.POSS-box
+D: word: ɯ-kɤpa	 gloss: 3SG.POSS-method
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 9:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): iɕqʰa rgɤtpu nɯ kɯ, ___ tɕe, nɤki, ɬɤndʐi nɯnɯ jo-tsʰi
+Gloss (with missing item): the.aforementioned old.man DEM ERG ___ LNK FILLER demon DEM IFR-block
+The English translation of this sentence is:`The old man came and stopped the demon.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Here the intransitive subject of \forme{the morpheme ___} `he came' and the transitive subject of \forme{jo-tsʰi} `he blocked him' happen to be coreferent. If analyzed superficially, (\ref{ex:long.erg3}) could seem to be an example of ergative appearing on an intransitive subject. In isolation, however, without context, a clause such as \dagger\forme{rgɤtpu nɯ kɯ the morpheme ___} is not considered to be correct by native speakers, showing that it is preferable to analyze \forme{the morpheme ___} as an incision in this context rather than forming a constituent with the preceding postpositional phrase in \forme{kɯ}.
+A: word: ɯ-kɤpa	 gloss: 3SG.POSS-method
+B: word: ɲɤ-kʰo	 gloss: IFR-give
+C: word: jo-ɣi	 gloss: IFR-come
+D: word: mɯ-jo-ɣi-nɯ	 gloss: NEG-IFR-come-PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 10:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): iɕqʰa rgɤtpu nɯ kɯ, jo-ɣi ___ nɤki, ɬɤndʐi nɯnɯ jo-tsʰi
+Gloss (with missing item): the.aforementioned old.man DEM ERG IFR-come ___ FILLER demon DEM IFR-block
+The English translation of this sentence is:`The old man came and stopped the demon.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Here the intransitive subject of \forme{jo-ɣi} `he came' and the transitive subject of \forme{jo-tsʰi} `he blocked him' happen to be coreferent. If analyzed superficially, (\ref{ex:long.erg3}) could seem to be an example of ergative appearing on an intransitive subject. In isolation, however, without context, a clause such as \dagger\forme{rgɤtpu nɯ kɯ jo-ɣi} is not considered to be correct by native speakers, showing that it is preferable to analyze \forme{jo-ɣi} as an incision in this context rather than forming a constituent with the preceding postpositional phrase in \forme{kɯ}.
+A: word: tɕendɤre	 gloss: LNK
+B: word: saɕɯ	 gloss: larch
+C: word: tɕe	 gloss: LNK
+D: word: jo-ɣi	 gloss: IFR-come
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 11:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): iɕqʰa rgɤtpu nɯ kɯ, jo-ɣi tɕe, ___ ɬɤndʐi nɯnɯ jo-tsʰi
+Gloss (with missing item): the.aforementioned old.man DEM ERG IFR-come LNK ___ demon DEM IFR-block
+The English translation of this sentence is:`The old man came and stopped the demon.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Here the intransitive subject of \forme{jo-ɣi} `he came' and the transitive subject of \forme{jo-tsʰi} `he blocked him' happen to be coreferent. If analyzed superficially, (\ref{ex:long.erg3}) could seem to be an example of ergative appearing on an intransitive subject. In isolation, however, without context, a clause such as \dagger\forme{rgɤtpu nɯ kɯ jo-ɣi} is not considered to be correct by native speakers, showing that it is preferable to analyze \forme{jo-ɣi} as an incision in this context rather than forming a constituent with the preceding postpositional phrase in \forme{kɯ}.
+A: word: a-mgɯr	 gloss: 1SG.POSS-back
+B: word: nɤki	 gloss: FILLER
+C: word: nɤkinɯ	 gloss: filler
+D: word: jo-ɣi	 gloss: IFR-come
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+

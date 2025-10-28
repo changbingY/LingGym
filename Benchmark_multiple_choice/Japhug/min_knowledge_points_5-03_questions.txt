@@ -1,0 +1,312 @@
+Question 0:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [lɯlu kɯ ___ ʁnɯz ʑo ka-ndo] pɯ-mto-t-a
+Gloss (with missing item): cat ERG ___ two EMPH AOR:3\flobv{}-take AOR-see-PST:TR-1SG
+The English translation of this sentence is:`I saw a cat catching two of them.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Discontinuous complement clauses are rare in Japhug. The only clear example in the corpus is (\ref{ex:lWlu.kW.aZo}). In this example, the \textsc{1sg} pronoun \forme{the morpheme ___} is the subject of the matrix clause, and has no syntactic role in the complement clause, but it appears between the transitive subject \forme{lɯlu kɯ} `the cat' and the object \japhug{ʁnɯz}{two} of the complement clause. Despite the rarity of this construction, this sentence was not considered to be unusual by \iai{Tshendzin} when listening again to the recording.
+A: word: pɣɤtɕɯ	 gloss: bird
+B: word: aʑo-sti	 gloss: 1SG-alone
+C: word: aʑo	 gloss: 1SG
+D: word: nɤʑo	 gloss: 2SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 1:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɯ-zda nɯra, ___ kɯ-ɣɤwu], [kʰɯna kɯ-ɤndzɯt], [lɯlu kɯ-ɣɤwu] kɯ-fse, nɯra tu-nɯɕpɯz] ɲɯ-spe
+Gloss (with missing item): 3SG.POSS-companion DEM:PL ___ SBJ:PCP-cry dog SBJ:PCP-bark cat SBJ:PCP-cry INF:STAT-be.like DEM:PL IPFV-imitate SENS-be.able[III]
+The English translation of this sentence is:`It is able to imitate other animals, sing like a bird, bark like a dog, meow like a cat or call like a fox.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The status of the clauses with subject participles occurring with these verbs, though superficially similar to the purposive clause (§\ref{sec:purposive.clause.motion.verbs}), is, however, entirely distinct. These clauses are not specific constructions, but simply headless relative clauses in object or semi-object function. This is shown by the fact that the same verbs are also found with participial head-internal clauses as in (\ref{ex:pGatCW.kWGAwu.tunWCpWz}), where the three nouns \japhug{the morpheme ___}{its gloss ___}, \japhug{kʰɯna}{dog} and \japhug{lɯlu}{cat} are intransitive subjects of the participial clauses, and are not coreferent with the subject of their matrix verb \forme{tu-nɯɕpɯz}. This example can be literally translated as `it is able to imitate a singing its gloss ___, a barking dog and a meowing cat.' (see also §\ref{sec:relative.pretence}).
+A: word: jaʁmɤzdoʁzdoʁ	 gloss: bird.sp.
+B: word: pɣɤtɕɯ	 gloss: bird
+C: word: kumpɣɤtɕɯ	 gloss: sparrow
+D: word: lɯlu	 gloss: cat
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 2:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɯ-zda nɯra, [[pɣɤtɕɯ kɯ-ɣɤwu], ___ kɯ-ɤndzɯt], [lɯlu kɯ-ɣɤwu] kɯ-fse, nɯra tu-nɯɕpɯz] ɲɯ-spe
+Gloss (with missing item): 3SG.POSS-companion DEM:PL bird SBJ:PCP-cry ___ SBJ:PCP-bark cat SBJ:PCP-cry INF:STAT-be.like DEM:PL IPFV-imitate SENS-be.able[III]
+The English translation of this sentence is:`It is able to imitate other animals, sing like a bird, bark like a dog, meow like a cat or call like a fox.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The status of the clauses with subject participles occurring with these verbs, though superficially similar to the purposive clause (§\ref{sec:purposive.clause.motion.verbs}), is, however, entirely distinct. These clauses are not specific constructions, but simply headless relative clauses in object or semi-object function. This is shown by the fact that the same verbs are also found with participial head-internal clauses as in (\ref{ex:pGatCW.kWGAwu.tunWCpWz}), where the three nouns \japhug{pɣɤtɕɯ}{bird}, \japhug{the morpheme ___}{its gloss ___} and \japhug{lɯlu}{cat} are intransitive subjects of the participial clauses, and are not coreferent with the subject of their matrix verb \forme{tu-nɯɕpɯz}. This example can be literally translated as `it is able to imitate a singing bird, a barking its gloss ___ and a meowing cat.' (see also §\ref{sec:relative.pretence}).
+A: word: fsapaʁ	 gloss: animal
+B: word: a-kʰɯna	 gloss: 1SG.POSS-dog
+C: word: nɤ-sɯm	 gloss: 2SG.POSS-mind
+D: word: kʰɯna	 gloss: dog
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 3:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɯ-zda nɯra, [[pɣɤtɕɯ kɯ-ɣɤwu], [kʰɯna kɯ-ɤndzɯt], ___ kɯ-ɣɤwu] kɯ-fse, nɯra tu-nɯɕpɯz] ɲɯ-spe
+Gloss (with missing item): 3SG.POSS-companion DEM:PL bird SBJ:PCP-cry dog SBJ:PCP-bark ___ SBJ:PCP-cry INF:STAT-be.like DEM:PL IPFV-imitate SENS-be.able[III]
+The English translation of this sentence is:`It is able to imitate other animals, sing like a bird, bark like a dog, meow like a cat or call like a fox.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The status of the clauses with subject participles occurring with these verbs, though superficially similar to the purposive clause (§\ref{sec:purposive.clause.motion.verbs}), is, however, entirely distinct. These clauses are not specific constructions, but simply headless relative clauses in object or semi-object function. This is shown by the fact that the same verbs are also found with participial head-internal clauses as in (\ref{ex:pGatCW.kWGAwu.tunWCpWz}), where the three nouns \japhug{pɣɤtɕɯ}{bird}, \japhug{kʰɯna}{dog} and \japhug{the morpheme ___}{its gloss ___} are intransitive subjects of the participial clauses, and are not coreferent with the subject of their matrix verb \forme{tu-nɯɕpɯz}. This example can be literally translated as `it is able to imitate a singing bird, a barking dog and a meowing its gloss ___.' (see also §\ref{sec:relative.pretence}).
+A: word: lɯlu	 gloss: cat
+B: word: lɯlɤmu	 gloss: female.cat
+C: word: pjɤ-nɯkɯlu-nɯ	 gloss: IFR-be.lost-PL
+D: word: sŋaʁspa	 gloss: sorcerer
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 4:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): pjɯ-ru qʰe [tɕeki tɯ-ci ɯ-ŋgɯ ___ pɯ-kɯ-ntɕʰɤr] nɯ pjɤ-mto.
+Gloss (with missing item): IPFV:DOWN-look LNK down INDEF.POSS-water 3SG.POSS-in ___ AOR:DOWN-SBJ:PCP-appear DEM IFR-see
+The English translation of this sentence is:`He looked down, and saw his own reflection in the water below (himself reflected in the water).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: With intransitive verbs, the subject participle in \forme{kɯ-} is always found in the clauses occurring as the object of \forme{mto} and \forme{mtsʰɤm}, as in (\ref{ex:pWkWntChAr.pjAmto}). Such clauses are to be analyzed as participial relatives (§\ref{sec:relative.core.arg}).
+A: word: ɯʑora	 gloss: 3PL
+B: word: kowa	 gloss: manner
+C: word: ɯ-ngɯ	 gloss: 3SG-inside
+D: word: ɯʑo	 gloss: 3SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 5:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɲɯ-sɤŋo tɕe [iɕqʰa ___ nɯ kɯ ``tɤtʂu ɣɯ-tɤ-sɤndu-nɯ" ɯ-kɯ-ti] nɯ pjɤ-mtsʰɤm tɕe
+Gloss (with missing item): IPFV-listen LNK the.aforementioned ___ DEM ERG lamp CISL-IMP-exchange-PL 3SG.POSS-SBJ:PCP-say DEM IFR-hear LNK
+The English translation of this sentence is:`She heard the sorcerer saying `Come and exchange [your] lamp'.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:WkWti.pjAmtshAm}), \forme{mtsʰɤm} even takes as object a head-internal relative clause in \forme{kɯ-} (rather than \forme{kɤ-} as in \ref{ex:YWsAmtsWG.kAti} above), with the transitive subject as relativized element (§\ref{sec:tr.subject.relativization}).
+A: word: ftɕaka	 gloss: manner
+B: word: sŋaʁspa	 gloss: sorcerer
+C: word: tɯɟo	 gloss: demon
+D: word: tɯ-sŋaʁ	 gloss: NMLZ:ACTION-cast.spells
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 6:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɲɯ-sɤŋo tɕe [iɕqʰa sŋaʁspa ___ kɯ ``tɤtʂu ɣɯ-tɤ-sɤndu-nɯ" ɯ-kɯ-ti] nɯ pjɤ-mtsʰɤm tɕe
+Gloss (with missing item): IPFV-listen LNK the.aforementioned sorcerer ___ ERG lamp CISL-IMP-exchange-PL 3SG.POSS-SBJ:PCP-say DEM IFR-hear LNK
+The English translation of this sentence is:`She heard the sorcerer saying `Come and exchange [your] lamp'.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:WkWti.pjAmtshAm}), \forme{mtsʰɤm} even takes as object a head-internal relative clause in \forme{kɯ-} (rather than \forme{kɤ-} as in \ref{ex:YWsAmtsWG.kAti} above), with the transitive subject as relativized element (§\ref{sec:tr.subject.relativization}).
+A: word: nɯ	 gloss: DEM
+B: word: lɯlu	 gloss: cat
+C: word: nɯra	 gloss: DEM:PL
+D: word: ɯ-mɤ-nɯ-mɯnmu	 gloss: QU-NEG-AOR-move
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 7:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-<xuetang> ɯ-tɯ-mbro <kongzhi> tu-βze-a ŋu. [mɯ-tu-kɤ-mbro] ___ tu-βze-a ŋu.
+Gloss (with missing item): 1SG.POSS-blood.sugar 3SG.POSS-NMLZ:DEG-be.high control IPFV-do[III]-1SG be:FACT NEG-IPFV-INF-be.high ___ IPFV-do[III]-1SG be:FACT
+The English translation of this sentence is:`I control my blood sugar, I do what I can to prevent it from being too high'. (conversation, 15-12-05)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In examples (\ref{ex:kongzhi}) and (\ref{ex:kAtAB.ftCaka}), the head noun \japhug{the morpheme ___}{method}, `its gloss ___' is neither a core argument nor an adjunct. It is not possible to convert the infinitive subordinate clauses \forme{mɯ-tu-kɤ-mbro} `not become too high' and \forme{qartsɤβ kɤ-kɤ-βzu ra kɤ-tɤβ} `thresh the (grains) that have been harvested' into independent sentences that would include \forme{the morpheme ___}. These clauses should therefore be analyzed as adnominal complement clauses, rather than a prenominal relatives.
+A: word: ftɕaka	 gloss: manner
+B: word: ɣɯ-ku-βze-a"	 gloss: CISL-IPFV-make[III]-1SG
+C: word: ɯ-ftɕaka	 gloss: 3SG.POSS-manner
+D: word: sŋaʁspa	 gloss: sorcerer
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 8:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [qartsɤβ kɤ-kɤ-βzu ra kɤ-tɤβ] ___ ɣɯ-βzu ra
+Gloss (with missing item): harvest AOR-OBJ:PCP-make PL INF-thresh ___ INV-make be.needed:FACT
+The English translation of this sentence is:`Then one has to prepare to thresh the [grains] that have been harvested.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In examples (\ref{ex:kongzhi}) and (\ref{ex:kAtAB.ftCaka}), the head noun \japhug{the morpheme ___}{method}, `its gloss ___' is neither a core argument nor an adjunct. It is not possible to convert the infinitive subordinate clauses \forme{mɯ-tu-kɤ-mbro} `not become too high' and \forme{qartsɤβ kɤ-kɤ-βzu ra kɤ-tɤβ} `thresh the (grains) that have been harvested' into independent sentences that would include \forme{the morpheme ___}. These clauses should therefore be analyzed as adnominal complement clauses, rather than a prenominal relatives.
+A: word: ftɕaka	 gloss: manner
+B: word: ɕ-tú-wɣ-sɯ-rtoʁ	 gloss: TRAL-IPFV-INV-CAUS-look
+C: word: ɯ-ftɕaka	 gloss: 3SG.POSS-manner
+D: word: kʰɯna	 gloss: dog
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 9:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-<xuetang> ɯ-tɯ-mbro <kongzhi> tu-βze-a ŋu. [mɯ-tu-kɤ-mbro] ___ tu-βze-a ŋu.
+Gloss (with missing item): 1SG.POSS-blood.sugar 3SG.POSS-NMLZ:DEG-be.high control IPFV-do[III]-1SG be:FACT NEG-IPFV-INF-be.high ___ IPFV-do[III]-1SG be:FACT
+The English translation of this sentence is:`I control my blood sugar, I do what I can to prevent it from being too high'. (conversation, 15-12-05)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The construction exemplified by (\ref{ex:kongzhi}) and (\ref{ex:kAtAB.ftCaka}) is a collocation combining the com\-ple\-ment-taking noun \forme{the morpheme ___} with the verb \japhug{βzu}{make}, meaning either `do by any means possible' (as in \ref{ex:kongzhi}) or `prepare to X' ( \ref{ex:kAtAB.ftCaka}). In the latter meaning, the collocation is homonymous with the transitive denominal verb \japhug{nɯthe morpheme ___}{prepare} (§\ref{sec:denom.tr.nW}), which also selects velar infinitive complements, as shown by (\ref{ex:kAtAB.kuwGnWftCaka}), uttered just before (\ref{ex:kAtAB.ftCaka}) in the same recording.
+A: word: sŋaʁspa	 gloss: sorcerer
+B: word: ɯ-ftɕaka	 gloss: 3SG.POSS-manner
+C: word: ftɕaka	 gloss: manner
+D: word: lu-χɤβ	 gloss: IPFV:UPSTREAM-suck
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 10:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [qartsɤβ kɤ-kɤ-βzu ra kɤ-tɤβ] ___ ɣɯ-βzu ra
+Gloss (with missing item): harvest AOR-OBJ:PCP-make PL INF-thresh ___ INV-make be.needed:FACT
+The English translation of this sentence is:`Then one has to prepare to thresh the [grains] that have been harvested.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The construction exemplified by (\ref{ex:kongzhi}) and (\ref{ex:kAtAB.ftCaka}) is a collocation combining the com\-ple\-ment-taking noun \forme{the morpheme ___} with the verb \japhug{βzu}{make}, meaning either `do by any means possible' (as in \ref{ex:kongzhi}) or `prepare to X' ( \ref{ex:kAtAB.ftCaka}). In the latter meaning, the collocation is homonymous with the transitive denominal verb \japhug{nɯthe morpheme ___}{prepare} (§\ref{sec:denom.tr.nW}), which also selects velar infinitive complements, as shown by (\ref{ex:kAtAB.kuwGnWftCaka}), uttered just before (\ref{ex:kAtAB.ftCaka}) in the same recording.
+A: word: ftɕaka	 gloss: manner
+B: word: ɯ-ftɕaka	 gloss: 3SG.POSS-manner
+C: word: nɤ-sɯm	 gloss: 2SG.POSS-mind
+D: word: tɤŋe	 gloss: sun
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 11:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-<xuetang> ɯ-tɯ-mbro <kongzhi> tu-βze-a ŋu. [mɯ-tu-kɤ-mbro] ___ tu-βze-a ŋu.
+Gloss (with missing item): 1SG.POSS-blood.sugar 3SG.POSS-NMLZ:DEG-be.high control IPFV-do[III]-1SG be:FACT NEG-IPFV-INF-be.high ___ IPFV-do[III]-1SG be:FACT
+The English translation of this sentence is:`I control my blood sugar, I do what I can to prevent it from being too high'. (conversation, 15-12-05)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The construction exemplified by (\ref{ex:kongzhi}) and (\ref{ex:kAtAB.ftCaka}) is a collocation combining the com\-ple\-ment-taking noun \forme{the morpheme ___} with the verb \japhug{βzu}{make}, meaning either `do by any means possible' (as in \ref{ex:kongzhi}) or `prepare to X' ( \ref{ex:kAtAB.ftCaka}). In the latter meaning, the collocation is homonymous with the transitive denominal verb \japhug{nɯthe morpheme ___}{prepare} (§\ref{sec:denom.tr.nW}), which also selects velar infinitive complements, as shown by (\ref{ex:kAtAB.kuwGnWftCaka}), uttered just before (\ref{ex:kAtAB.ftCaka}) in the same recording.
+A: word: ɯ-ftɕaka	 gloss: 3SG.POSS-manner
+B: word: aʑo	 gloss: 1SG
+C: word: ftɕaka	 gloss: manner
+D: word: kɯ-mɯm	 gloss: SBJ:PCP-be.tasty
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 12:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [qartsɤβ kɤ-kɤ-βzu ra kɤ-tɤβ] ___ ɣɯ-βzu ra
+Gloss (with missing item): harvest AOR-OBJ:PCP-make PL INF-thresh ___ INV-make be.needed:FACT
+The English translation of this sentence is:`Then one has to prepare to thresh the [grains] that have been harvested.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The construction exemplified by (\ref{ex:kongzhi}) and (\ref{ex:kAtAB.ftCaka}) is a collocation combining the com\-ple\-ment-taking noun \forme{the morpheme ___} with the verb \japhug{βzu}{make}, meaning either `do by any means possible' (as in \ref{ex:kongzhi}) or `prepare to X' ( \ref{ex:kAtAB.ftCaka}). In the latter meaning, the collocation is homonymous with the transitive denominal verb \japhug{nɯthe morpheme ___}{prepare} (§\ref{sec:denom.tr.nW}), which also selects velar infinitive complements, as shown by (\ref{ex:kAtAB.kuwGnWftCaka}), uttered just before (\ref{ex:kAtAB.ftCaka}) in the same recording.
+A: word: ftɕaka	 gloss: manner
+B: word: aʑo	 gloss: 1SG
+C: word: a-nɯ-pʰɯt	 gloss: IRR-PFV-take.out
+D: word: ɯ-ftɕaka	 gloss: 3SG.POSS-manner
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 13:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [qartsɤβ kɤ-kɤ-βzu ra kɤ-tɤβ] ___ ɣɯ-βzu ra
+Gloss (with missing item): harvest AOR-OBJ:PCP-make PL INF-thresh ___ INV-make be.needed:FACT
+The English translation of this sentence is:`Then one has to prepare to thresh the [grains] that have been harvested.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The construction exemplified by (\ref{ex:kongzhi}) and (\ref{ex:kAtAB.ftCaka}) is a collocation combining the com\-ple\-ment-taking noun \forme{the morpheme ___} with the verb \japhug{βzu}{make}, meaning either `do by any means possible' (as in \ref{ex:kongzhi}) or `prepare to X' ( \ref{ex:kAtAB.ftCaka}). In the latter meaning, the collocation is homonymous with the transitive denominal verb \japhug{nɯthe morpheme ___}{prepare} (§\ref{sec:denom.tr.nW}), which also selects velar infinitive complements, as shown by (\ref{ex:kAtAB.kuwGnWftCaka}), uttered just before (\ref{ex:kAtAB.ftCaka}) in the same recording.
+A: word: nɤ-sɯm	 gloss: 2SG.POSS-mind
+B: word: ftɕaka	 gloss: manner
+C: word: ɲɤ-kʰo	 gloss: IFR-give
+D: word: ɯ-ftɕaka	 gloss: 3SG.POSS-manner
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 14:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [qartsɤβ kɤ-kɤ-βzu ra kɤ-tɤβ] ___ ɣɯ-βzu ra
+Gloss (with missing item): harvest AOR-OBJ:PCP-make PL INF-thresh ___ INV-make be.needed:FACT
+The English translation of this sentence is:`Then one has to prepare to thresh the [grains] that have been harvested.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The infinitive complement \forme{kɤ-tɤβ} in (\ref{ex:kAtAB.kuwGnWftCaka}) is exactly parallel to the adnominal complement clause in (\ref{ex:kAtAB.ftCaka}). This parallelism between com\-ple\-ment-taking noun and the com\-ple\-ment-taking denominal verb derived from it is not found in all the cases (§\ref{sec:complement.taking.noun.list}), but confirms the observation that the adnominal clause in (\ref{ex:kAtAB.ftCaka}) is not a prenominal relative.
+A: word: ɯ-zgra	 gloss: 3SG.POSS-noise
+B: word: ɯ-ftɕaka	 gloss: 3SG.POSS-manner
+C: word: pjɤ-ɣi	 gloss: IFR:DOWN-come
+D: word: ftɕaka	 gloss: manner
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 15:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [qartsɤβ kɤ-kɤ-βzu ra kɤ-tɤβ] ___ ɣɯ-βzu ra
+Gloss (with missing item): harvest AOR-OBJ:PCP-make PL INF-thresh ___ INV-make be.needed:FACT
+The English translation of this sentence is:`Then one has to prepare to thresh the [grains] that have been harvested.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The infinitive complement \forme{kɤ-tɤβ} in (\ref{ex:kAtAB.kuwGnWftCaka}) is exactly parallel to the adnominal complement clause in (\ref{ex:kAtAB.ftCaka}). This parallelism between com\-ple\-ment-taking noun and the com\-ple\-ment-taking denominal verb derived from it is not found in all the cases (§\ref{sec:complement.taking.noun.list}), but confirms the observation that the adnominal clause in (\ref{ex:kAtAB.ftCaka}) is not a prenominal relative.
+A: word: cʰɯ-tɯ-nɯmbjɯm-nɯ	 gloss: IPFV-2-get.warm-PL
+B: word: ftɕaka	 gloss: manner
+C: word: ɯ-skɤt	 gloss: 3SG.POSS-language
+D: word: ɯ-ftɕaka	 gloss: 3SG.POSS-manner
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 16:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ji-wɯ kɯ ``a-mɤ-jɤ-tɯ-ɣi-nɯ'' ___ to-βzu ɕti
+Gloss (with missing item): 1PL.POSS-grandfather ERG IRR-NEG-PFV-2-come-PL ___ IFR-make be.AFF:FACT
+The English translation of this sentence is:`(By these words) our father-in-law means that he does not want us to come back'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Two categories must be distinguished among these inalienably possessed nouns. First, some nouns such as \japhug{the morpheme ___}{language}, `sound' (§\ref{sec:nouns.speech.complement}) always take a \textsc{3sg} possessive prefix coreferent with the complement clause (treated as possessor of the noun), as in (\ref{ex:amAjAtWGinW.WskAt}).
+A: word: ɯ-skɤt	 gloss: 3SG.POSS-language
+B: word: pɣɤtɕɯ	 gloss: bird
+C: word: ji-skɤt	 gloss: 1PL.POSS-language
+D: word: kɯrɯ-skɤt	 gloss: Tibetan-language
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 17:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [nɯ-βdaʁmu nɯ tu-tɯ-ndɤm] ___ ɯ́-ɕe?
+Gloss (with missing item): 3PL.POSS-queen DEM IPFV-2-take[III] ___ QU-go:FACT
+The English translation of this sentence is:`Do you want to become their queen?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Other nouns like \japhug{ɯ-sɯm}{mind} (§\ref{sec:nouns.cognition.complement}) on the other hand select as possessor the experiencer, which may not be \textsc{3sg}, and the complement clause is not syntactically a possessor. For instance, in (\ref{ex:tutWndAm.nAsWm.WCe}) the possessor of \forme{-sɯm} is \textsc{2sg}, not \textsc{3sg} as would be expected if the finite clause \forme{nɯ-βdaʁmu nɯ tu-tɯ-ndɤm} were the possessor of this noun.
+A: word: tɯ-sɯm	 gloss: GENR.POSS-mind
+B: word: lɯlu	 gloss: cat
+C: word: nɤ-sɯm	 gloss: 2SG.POSS-mind
+D: word: a-sɯm	 gloss: 1SG.POSS-mind
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 18:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-rɟit ra nɯ-ɣi-nɯ ɕti tɕetʰa, [kɤ-ndza] ___ tɯ́-wɣ-βzu ɕti tɕe ku-ta-sɯ-ɤnbaʁ ŋu
+Gloss (with missing item): 1SG.POSS-offspring PL VERT-come:FACT-PL be.AFF:FACT soon INF-eat ___ 2-INV-make:FACT be.AFF:FACT LNK IPFV-1\fl{}2-CAUS-hide be:FACT
+The English translation of this sentence is:`My children are coming back home soon, and they will try to eat you, let me hide you.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The alienably possessed nouns \japhug{ftɕaka}{method}, `its gloss ___' (§\ref{sec:compl.taking.nouns.denominal}) and \japhug{the morpheme ___}{its gloss ___},\footnote{These nouns are both translated into Chinese as \ch{办法}{bànfǎ}{method}, `means', `its gloss ___'.} both borrowed from Tibetan (from \tibet{བཅའ་ཀ}{btɕa.ka}{implement} and \tibet{བཀོད་པ}{bkod.pa}{arrangement}, `method', respectively), occur in collocation with the verb \japhug{βzu}{make} (§\ref{sec:Bzu.lv}) in the meanings `try to X by any means' (in Chinese \ch{想尽办法}{xiǎng jìn bànfǎ}{try to do by any means}) or `prepare'. They can select an infinitive clause with raising of the person indexation on the main verb, as shown by the 3\fl{}\textsc{2sg} form \forme{tɯ́-wɣ-βzu} `they will X you' in (\ref{ex:kAndza.the morpheme ___.tuwGBzu}).
+A: word: ɯ-ftɕaka	 gloss: 3SG.POSS-manner
+B: word: kowa	 gloss: manner
+C: word: ɯ-skɤt	 gloss: 3SG.POSS-language
+D: word: ɯ-tɯ-rko	 gloss: 3SG.POSS-NMLZ:DEG-be.hard
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 19:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [ɲɯ-nɯqambɯmbjom] ___ nɯ ``vɯrwɯrwɯr'' tu-ti ŋgrɤl.
+Gloss (with missing item): IPFV-fly ___ DEM ONOM IPFV-say be.usually.the.case:FACT
+The English translation of this sentence is:`The sound it makes when it flies is `vrvr'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The inalienably possessed nouns related to speech and noise \japhug{ɯ-ti}{way of saying}, `wording', `expression', \japhug{ɯ-fɕɤt}{story}, \japhug{ɯ-skɤt}{language}, `sound', \japhug{tɤ-zgra}{sound}, `noise' and \japhug{tɯ-tɕʰa}{information, news} (about someone) (§\ref{sec:biactantial.ipn}), and the alienably possessed \japhug{kʰɤcɤl}{discussion} can occur with finite complement clauses (\ref{ex:WfCAt.tu}, \ref{ex:YWnWqambWmbjom.Wzgra}) (see also \ref{ex:rCWB4.pjWlAt}, §\ref{sec:ideo.X}) or reported speech complements (\ref{ex:ra.WskAt.ra.toBzu}).
+A: word: ɯ-zgra	 gloss: 3SG.POSS-noise
+B: word: ɲɯ-kɯ-ɤsɯ-zgroʁ-a	 gloss: SENS-2\fl{}1-PROG-attach-1SG
+C: word: aʑo	 gloss: 1SG
+D: word: ɯ-raŋ	 gloss: 3SG.POSS-during
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 20:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [ɲɯ-nɯqambɯmbjom] ___ nɯ ``vɯrwɯrwɯr'' tu-ti ŋgrɤl.
+Gloss (with missing item): IPFV-fly ___ DEM ONOM IPFV-say be.usually.the.case:FACT
+The English translation of this sentence is:`The sound it makes when it flies is `vrvr'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As shown by (\ref{ex:WfCAt.tu}) and (\ref{ex:YWnWqambWmbjom.Wzgra}), \japhug{ɯ-fɕɤt}{story} and \japhug{tɤ-zgra}{sound} can take complements even without a noun-verb collocation.
+A: word: ɲɯ-kɯ-ɤsɯ-zgroʁ-a	 gloss: SENS-2\fl{}1-PROG-attach-1SG
+B: word: kowa	 gloss: manner
+C: word: ɯ-zgra	 gloss: 3SG.POSS-noise
+D: word: ɯ-raŋ	 gloss: 3SG.POSS-during
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 21:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ji-wɯ kɯ ``a-mɤ-jɤ-tɯ-ɣi-nɯ'' ___ to-βzu ɕti
+Gloss (with missing item): 1PL.POSS-grandfather ERG IRR-NEG-PFV-2-come-PL ___ IFR-make be.AFF:FACT
+The English translation of this sentence is:`(By these words) our father-in-law means that he does not want us to come back'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The noun \japhug{the morpheme ___}{language}, `sound' mainly takes complements when occurring with \japhug{βzu}{make} (§\ref{sec:Bzu.lv}) or \japhug{stu}{do like}. The collocation with this verbs means `do/say something that means X' as in (\ref{ex:ra.WskAt.ra.toBzu})\footnote{The poignant anecdote in (\ref{ex:ra.WskAt.ra.toBzu}) shows that the collocations \forme{the morpheme ___+βzu} and \forme{the morpheme ___+stu} are used even when the expression is not linguistic but based on gesture and facial expression. The hunter did not have the heart to shoot the monkey mother (see example \ref{ex:mWpjAcha.khi} in §\ref{sec:fsp.hearsay}). } or (\ref{ex:amAjAtWGinW.WskAt}) (in §\ref{sec:complement.taking.noun.possessor} above).
+A: word: aʑo	 gloss: 1SG
+B: word: ɯ-skɤt	 gloss: 3SG.POSS-language
+C: word: kɯrɯ-skɤt	 gloss: Tibetan-language
+D: word: ji-skɤt	 gloss: 1PL.POSS-language
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 22:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [nɯ-βdaʁmu nɯ tu-tɯ-ndɤm] ___ ɯ́-ɕe?
+Gloss (with missing item): 3PL.POSS-queen DEM IPFV-2-take[III] ___ QU-go:FACT
+The English translation of this sentence is:`Do you want to become their queen?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The noun of cognition \japhug{tɯ-sɯm}{mind} occur in collocation with the motion verb \japhug{ɕe}{go} in the meaning `want to X' (§\ref{sec:motion.light.verbs}) with either finite clause as in (\ref{ex:jutWCe.asWm.mWjCe}) and (\ref{ex:CkunWrNgWa.asWm}) (see also \ref{ex:tutWndAm.nAsWm.WCe} in §\ref{sec:complement.taking.noun.possessor}) or an infinitival one as in (\ref{ex:kAti.WsWm.mWpjACe})(\ref{ex:CWkArNgW.asWm}).
+A: word: ɯʑo	 gloss: 3SG
+B: word: a-sɯm	 gloss: 1SG.POSS-mind
+C: word: nɤ-sɯm	 gloss: 2SG.POSS-mind
+D: word: tɯ-sɯm	 gloss: GENR.POSS-mind
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 23:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [nɯ-βdaʁmu nɯ tu-tɯ-ndɤm] ___ ɯ́-ɕe?
+Gloss (with missing item): 3PL.POSS-queen DEM IPFV-2-take[III] ___ QU-go:FACT
+The English translation of this sentence is:`Do you want to become their queen?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The possessive prefix on the com\-ple\-ment-taking noun encodes the experiencer, while the motion verb \japhug{ɕe}{go} remains in \textsc{3sg} form. When the complement clause is an infinitival clause, its subject must be coreferent with the experiencer in the main clause as in (\ref{ex:CWkArNgW.asWm}) and (\ref{ex:kAti.WsWm.mWpjACe}). However, when the complement clause is finite, subject corefence is possible (\ref{ex:CkunWrNgWa.asWm}, \ref{ex:tutWndAm.nAsWm.WCe}) but not required (\ref{ex:jutWCe.asWm.mWjCe}).
+A: word: a-sɯm	 gloss: 1SG.POSS-mind
+B: word: ɯ-zgra	 gloss: 3SG.POSS-noise
+C: word: tɯ-sɯm	 gloss: GENR.POSS-mind
+D: word: nɤ-sɯm	 gloss: 2SG.POSS-mind
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+

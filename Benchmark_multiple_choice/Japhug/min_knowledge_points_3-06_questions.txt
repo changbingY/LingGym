@@ -1,0 +1,130 @@
+Question 0:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ʑo tɤ-ndzur
+Gloss (with missing item): ___ EMPH AOR-stand
+The English translation of this sentence is:`He stood up suddenly, and [appeared to be] very tall.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Pattern I, which consists of the bare ideophonic root, is combined with predicates in the Aorist or Inferential to express an action occurring suddenly, as in (\ref{ex:ideo1}). The form \forme{the morpheme ___} means that the action of the sentence resulted in the main referent becoming taller than its surrounding.
+A: word: zjaŋ	 gloss: IDPH(I):tall
+B: word: zjaŋzjaŋ	 gloss: IDPH(II):tall
+C: word: zjaŋnɤlaŋ	 gloss: IDPH(IV):tall
+D: word: mɤlɤzjaŋ	 gloss: IDPH(VI):tall
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 1:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mbro ɯ-taʁ to-ɕe tɕe ___ jɤ-ari-ndʑi
+Gloss (with missing item): horse 3SG-on IFR:UP-go LNK ___ AOR-go[II]-DU
+The English translation of this sentence is:`He mounted the horse, and they went there, very tall.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Pattern III is formed by reduplicating the ideophonic root with the additive marker \forme{nɤ} (§\ref{sec:additive.nA}) inserted in between. It depicts a rhythmic action or a constant motion as in (\ref{ex:ideo3}), depending on the semantics of the root.
+A: word: mɤlɤzjaŋ	 gloss: IDPH(VI):tall
+B: word: zjaŋzjaŋ	 gloss: IDPH(II):tall
+C: word: zjaŋnɤlaŋ	 gloss: IDPH(IV):tall
+D: word: zjaŋnɤzjaŋ	 gloss: IDPH(III):tall
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-ɣe ___ ʑo tʰɯ-aβzu
+Gloss (with missing item): 1SG.POSS-grandson ___ EMPH AOR-become
+The English translation of this sentence is:`My grandson has become very tall.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Pattern VI, with the root prefixed by \forme{mɤlɤ\trt}, describes a state like pattern II, but differs from it in that it expresses a higher degree. In addition, it can be used to express the result of a change of state with the verb \japhug{aβzu}{become, grow} as in (\ref{ex:ideo6}). It is the rarest of all ideophonic patterns, not attested in the Japhug text corpus.
+A: word: zjaŋnɤzjaŋ	 gloss: IDPH(III):tall
+B: word: zjaŋɯŋi	 gloss: IDPH(VII):tall
+C: word: mɤlɤzjaŋ	 gloss: IDPH(VI):tall
+D: word: nɯnɯ	 gloss: DEM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 3:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma nɯnɯ ɕawurambɯm tu-ti-nɯ tɕe nɯnɯ, nɤkinɯ, [[tɯ-rdoʁ ʑo ___ ma] kɯ-me ɲɯ-ŋu kʰi
+Gloss (with missing item): LNK DEM Shwa.ba.rwa.mbum IPFV-say-PL LNK DEM FILLER one-piece EMPH ___ apart.from SBJ:PCP-not.exist SENS-be HEARSAY
+The English translation of this sentence is:`People call it `Shwaba rwa'bum', it is [a kind of deer antler] with only one [branch], short and thick.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples (\ref{ex:zJAGzJAG.ma}) and (\ref{ex:ndzArndzAr.ma}) are incontrovertible evidence that ideophones can serve as noun modifier: in (\ref{ex:zJAGzJAG.ma}) is embedded within an exceptive (§\ref{sec:exceptive}) postpositional phrase which does not contain any verb, and must be analyzed as modifier of the counted noun \forme{tɯ-rdoʁ} `one piece'.
+A: word: zjaŋnɤzjaŋ	 gloss: IDPH(III):tall
+B: word: ɲɯɣɲɯɣ	 gloss: IDPH(II):soft
+C: word: rɟɤɣi	 gloss: tsampa
+D: word: zɟɤɣzɟɤɣ	 gloss: IDPH(II):short.and.thick
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 4:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma nɯnɯ ɕawurambɯm tu-ti-nɯ tɕe nɯnɯ, nɤkinɯ, [[tɯ-rdoʁ ʑo ___ ma] kɯ-me ɲɯ-ŋu kʰi
+Gloss (with missing item): LNK DEM Shwa.ba.rwa.mbum IPFV-say-PL LNK DEM FILLER one-piece EMPH ___ apart.from SBJ:PCP-not.exist SENS-be HEARSAY
+The English translation of this sentence is:`People call it `Shwaba rwa'bum', it is [a kind of deer antler] with only one [branch], short and thick.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples (\ref{ex:zJAGzJAG.ma}) and (\ref{ex:ndzArndzAr.ma}) are incontrovertible evidence that ideophones can serve as noun modifier: in (\ref{ex:zJAGzJAG.ma}) is embedded within an exceptive (§\ref{sec:exceptive}) postpositional phrase which does not contain any verb, and must be analyzed as modifier of the counted noun \forme{tɯ-rdoʁ} `one piece'.
+A: word: zɟɤɣzɟɤɣ	 gloss: IDPH(II):short.and.thick
+B: word: rɟɤɣi	 gloss: tsampa
+C: word: zjaŋ	 gloss: IDPH(I):tall
+D: word: ɲɯɣɲɯɣ	 gloss: IDPH(II):soft
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 5:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɯra tɤ-stu-t-a tɕe, sɯŋgɯnaχtɕɯn ___ ʑo nɯ-stu-t-a, ɯ-taʁ, pɣa ɲcɣɤnɤɲcɣɤt ʑo ɲɯ-mbri tɕe
+Gloss (with missing item): DEM:PL AOR-do.like-PST:TR-1SG LNK deep.forest ___ EMPH AOR-do.like-PST:TR-1SG 3SG-on birds IDPH(III):loud EMPH SENS-call LNK
+The English translation of this sentence is:`I acted this way, I created a huge and deep forest on the top of whose trees birds are tweeting and chirping and flying around.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ideophones convey rich and intricate meanings in a succinct way. In traditional stories, their use contributes to the vividness of the description. For instance, in (\ref{ex:ndArndAr}), the choice of the pattern II \forme{the morpheme ___} `huge and imposing' and the pattern III \forme{ɲcɣɤnɤɲcɣɤt} `loud and moving around' evokes a much more expressive picture than the translation provided here in plain language. Native speakers, upon hearing such a sentence, visualize the vivid picture of huge lush trees and flocks of birds flying around, tweeting and chirping.
+A: word: cʰa	 gloss: alcohol
+B: word: ndɤre	 gloss: ADVERS
+C: word: ndɤrndɤr	 gloss: IDPH(II):huge
+D: word: zjaŋzjaŋ	 gloss: IDPH(II):tall
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 6:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɯra tɤ-stu-t-a tɕe, sɯŋgɯnaχtɕɯn ndɤrndɤr ʑo nɯ-stu-t-a, ɯ-taʁ, pɣa ___ ʑo ɲɯ-mbri tɕe
+Gloss (with missing item): DEM:PL AOR-do.like-PST:TR-1SG LNK deep.forest IDPH(II):huge EMPH AOR-do.like-PST:TR-1SG 3SG-on birds ___ EMPH SENS-call LNK
+The English translation of this sentence is:`I acted this way, I created a huge and deep forest on the top of whose trees birds are tweeting and chirping and flying around.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ideophones convey rich and intricate meanings in a succinct way. In traditional stories, their use contributes to the vividness of the description. For instance, in (\ref{ex:ndArndAr}), the choice of the pattern II \forme{ndɤrndɤr} `huge and imposing' and the pattern III \forme{the morpheme ___} `loud and moving around' evokes a much more expressive picture than the translation provided here in plain language. Native speakers, upon hearing such a sentence, visualize the vivid picture of huge lush trees and flocks of birds flying around, tweeting and chirping.
+A: word: ɲcɣɤnɤɲcɣɤt	 gloss: IDPH(III):loud
+B: word: cʰɤ-nɯ-sɤɲcɣɤɲcɣɤt-nɯ	 gloss: IFR-AUTO-cause.to.be.prosperous-PL
+C: word: `ʂɯt'	 gloss: IDPH.I:sound
+D: word: cʰa	 gloss: alcohol
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 7:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): pɣɤkʰɯ nɯ kɯ qaɲi kɤ-sat wuma ʑo ___ kʰi.
+Gloss (with missing item): owl DEM ERG mole INF-kill really EMPH ___ SFP
+The English translation of this sentence is:`The owl is very good at killing moles, it is said.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In the immense majority of examples, \forme{kʰi} occurs with verbs in the Inferential (\ref{ex:mWpjAcha.khi}) or Sensory (\ref{ex:YWNu.khi} and \ref{ex:YWNu.khi.ma}) (§\ref{sec:ifr}, §\ref{sec:sensory}). However, this not a morphosyntactic constraint, and \forme{kʰi} can in principle be combined with verbs in other TAME categories, such as the Factual (§\ref{sec:factual}) in (\ref{ex:cha.khi}) (\forme{the morpheme ___} rather than the Sensory \forme{ɲɯ-the morpheme ___}), confirming Tournadre and LaPolla's (\citeyear{tournadre14evidentiality}) insight of the necessity of distinguishing source and access to information when describing evidential systems.
+A: word: mɯ́j-cʰa-a	 gloss: NEG:SENS-can-1SG
+B: word: nɯnɯ	 gloss: DEM
+C: word: χsɤ-rʑaʁ	 gloss: three-night
+D: word: cʰa	 gloss: can:FACT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 8:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): <chunjie> ___ kɯ ja-nɯ-tsɯm ŋu tʰaŋ
+Gloss (with missing item): ANTHR ___ ERG AOR:3\flobv{}-VERT-take.away be:FACT SFP
+The English translation of this sentence is:`It is probably him who took away Chunjie.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Other TAME categories are also compatible with \forme{tʰaŋ}, including the Past Imperfective (\ref{ex:pWsaXaR.thaN}) and the Aorist (examples \ref{ex:WmAjazGWt.gloss} in §\ref{sec:peg.circumfix} and \ref{ex:OSV.janWtsWm} in §\ref{sec:monotransitive.word.order}).
+A: word: nɯnɯra	 gloss: DEM:PL
+B: word: nɯnɯ	 gloss: DEM
+C: word: nɯra	 gloss: DEM:PL
+D: word: zjaŋnɤzjaŋ	 gloss: IDPH(III):tall
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 9:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): <chunjie> nɯnɯ ___ ja-nɯ-tsɯm ŋu tʰaŋ
+Gloss (with missing item): ANTHR DEM ___ AOR:3\flobv{}-VERT-take.away be:FACT SFP
+The English translation of this sentence is:`It is probably him who took away Chunjie.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Other TAME categories are also compatible with \forme{tʰaŋ}, including the Past Imperfective (\ref{ex:pWsaXaR.thaN}) and the Aorist (examples \ref{ex:WmAjazGWt.gloss} in §\ref{sec:peg.circumfix} and \ref{ex:OSV.janWtsWm} in §\ref{sec:monotransitive.word.order}).
+A: word: a-tɤ-kɯ-nɯlaʁrdaβ-a	 gloss: IRR-PFV-2\fl{}1-hit.with.forelegs-1SG
+B: word: kɯ	 gloss: ERG
+C: word: qʰoʁqʰoʁ	 gloss: ingot
+D: word: ndɤrndɤr	 gloss: IDPH(II):huge
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+

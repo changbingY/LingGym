@@ -1,0 +1,52 @@
+Question 0:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [si kɤ-pʰaʁ] ___ ʑo cʰa-a
+Gloss (with missing item): tree INF-chop ___ EMPH can:FACT-1SG
+The English translation of this sentence is:`I am very good at felling trees.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When \japhug{cʰa}{can} takes an infinite complement, \forme{the morpheme ___} generally follows the complement clause, as in (\ref{ex:the morpheme ___.Zo.chaa}), whereas with finite complements it is generally located inside of the complement clause (\ref{ex:the morpheme ___.tusApe.cha}).
+A: word: tsa	 gloss: a.little
+B: word: `wuma	 gloss: really
+C: word: dʒɐspɐ̂	 gloss: quite
+D: word: wuma	 gloss: really
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 1:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɯ-ji ɯ-ŋgɯ zɯ tsʰɤt ɯ-ɣli nɯ cʰɯ́-wɣ-lɤt tɕe, [tɤ-rɤku ___ ʑo tu-sɤpe] cʰa
+Gloss (with missing item): INDEF.POSS-field 3SG.POSS-in LOC goat 3SG.POSS-manure DEM IPFV-INV-release LNK INDEF.POSS-crops ___ EMPH IPFV-do.well can:FACT
+The English translation of this sentence is:`If one spreads goat manure on the fields, it can make the crops (grow) really well.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When \japhug{cʰa}{can} takes an infinite complement, \forme{the morpheme ___} generally follows the complement clause, as in (\ref{ex:the morpheme ___.Zo.chaa}), whereas with finite complements it is generally located inside of the complement clause (\ref{ex:the morpheme ___.tusApe.cha}).
+A: word: wuma	 gloss: really
+B: word: `wuma	 gloss: really
+C: word: tɯ-ŋga	 gloss: INDEF.POSS-clothes
+D: word: dʒɐspɐ̂	 gloss: quite
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 2:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕʰitɕɯn paχɕi nɯ tɕe tɕe, ɯ-jwaʁ nɯra iʑora ji-paχɕi stʰɯci mɯ-ɲɯ-ɤrtɯm kɯ ɲɯ-rɲɟi ___
+Gloss (with missing item): TOPO apple DEM LNK LNK 3SG.POSS-leave DEM:PL 1PL 1PL.POSS-apple so.much NEG-SENS-be.round ERG SENS-be.long ___
+The English translation of this sentence is:`Pears (Chuchen apples), their leaves are not as round as [those of] our apples, but a bit longer.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It can be combined with an overt standard marked by either \forme{sɤz} `than' (\ref{ex:sAz.YWwxti.the morpheme ___}) or \japhug{stʰɯci}{so much} (example \ref{ex:YWrYJi.the morpheme ___}, §\ref{sec:postverbal.adv}).
+A: word: wuma	 gloss: really
+B: word: tsa	 gloss: a.little
+C: word: kɤndʑi-mɤtsa	 gloss: COLL-MZCh
+D: word: xtɕi	 gloss: be.small:FACT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 3:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [tɤ-rme kɯ ___ tʰɯ-kɤ-βzu] nɯra ʁɟa tu-ndze ɲɯ-ŋu.
+Gloss (with missing item): INDEF.POSS-hair ERG ___ AOR-OBJ:PCP-make DEM:PL completely IPFV-eat[III] SENS-be
+The English translation of this sentence is:`It eats all of the clothes that are made of [animal] hair.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The superlative adverb is also attested with transitive dynamic verbs of action, as in the pseudo-cleft construction (§\ref{sec:pseudo.cleft}) in (\ref{ex:stu.Zo.WkAndza}).\footnote{The phrase \forme{tɤ-rme kɯ-fse} `like hair' is incomplete; the correct way to express the meaning `clothes made of animal hair' is the head-internal relative clause \forme{tɤ-rme kɯ the morpheme ___ tʰɯ-kɤ-βzu} (see \ref{ex:tWNga.thWkABzu}, §\ref{sec:head-internal.relative}).}
+A: word: tsa	 gloss: a.little
+B: word: ɯ-ŋga	 gloss: 3SG.POSS-clothes
+C: word: tɯ-ɕa	 gloss: INDEF.POSS-flesh
+D: word: tɯ-ŋga	 gloss: INDEF.POSS-clothes
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+

@@ -1,0 +1,130 @@
+Question 0:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɯ-zda pjɯ́-wɣ-z-ɣɤtɕa, ___ ntsɯ pjɯ-kɯ-ʑɣɤ-ɣɤŋgi tɕe, pɯ-kɯ-nɯ-ɣɤtɕa kɯ́nɤ pjɯ-kɯ-ʑɣɤ-ɣɤŋgi tɕe, ɯ-mbrɤzɯ kɯ-tu me tu-kɯ-ti ɲɯ-ŋu.
+Gloss (with missing item): GENR.POSS-companion IPFV-INV-CAUS-be.wrong ___ always IPFV-GENR:S/O-REFL-be.right LNK AOR-GENR:S/O-AUTO-be.wrong also IPFV-GENR:S/O-REFL-be.right LNK 3SG.POSS-result SBJ:PCP-have not.exist:FACT IPFV-GENR-say SENS-be
+The English translation of this sentence is:`If one considers that one's companion is wrong, and always considers himself to be right even if one is wrong, there is can be no good result.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In Japhug, sentences have at most one generic human referent (§\ref{sec:indef.genr.poss}). If this referent is core argument, the verb has generic indexation (\forme{kɯ-} for intransitive subject and object and \forme{wɣ-} for transitive subject, as in the following example, §\ref{sec:indexation.generic.tr}). The generic argument can be realized as the generic pronoun \forme{the morpheme ___} as in (\ref{ex:pjWkWZGAGANgi}) or by a generic noun (such as \japhug{tɯrme}{person}, §\ref{sec:tWrme.generic}).
+A: word: ɯʑora	 gloss: 3PL
+B: word: tɯʑo	 gloss: oneself
+C: word: stɯsti	 gloss: alone
+D: word: kɯki	 gloss: DEM.PROX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 1:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɯ-zda pjɯ́-wɣ-z-ɣɤtɕa, ___ ntsɯ pjɯ-kɯ-ʑɣɤ-ɣɤŋgi tɕe, pɯ-kɯ-nɯ-ɣɤtɕa kɯ́nɤ pjɯ-kɯ-ʑɣɤ-ɣɤŋgi tɕe, ɯ-mbrɤzɯ kɯ-tu me tu-kɯ-ti ɲɯ-ŋu.
+Gloss (with missing item): GENR.POSS-companion IPFV-INV-CAUS-be.wrong ___ always IPFV-GENR:S/O-REFL-be.right LNK AOR-GENR:S/O-AUTO-be.wrong also IPFV-GENR:S/O-REFL-be.right LNK 3SG.POSS-result SBJ:PCP-have not.exist:FACT IPFV-GENR-say SENS-be
+The English translation of this sentence is:`If one considers that one's companion is wrong, and always considers himself to be right even if one is wrong, there is can be no good result.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As examples (\ref{ex:pjWkWZGAGANgi}) to (\ref{ex:tWZo.tWCki}) illustrate, generic agreement between pronoun, possessive prefix and verb indexation is very systematic. Examples of \textsc{1pl} indexation with generic pronouns or vice-versa are, however, attested (§\ref{sec:partitive.indexation}).
+A: word: tɯʑo	 gloss: oneself
+B: word: ɯʑora	 gloss: 3PL
+C: word: stɯsti	 gloss: alone
+D: word: nɯnɯ	 gloss: DEM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 2:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tʂʰa kɤ-nɯ-ta tɤ-ra, smi kɤ-βlɯ tɤ-ra pɯ-nɯ-ŋu, tʰamaka sko-nɯ pɯ-nɯ-ŋu, tɕe ___ kɯ smi tu-sɯ-tɕɤt-nɯ.
+Gloss (with missing item): tea INF-AUTO-put AOR-be.needed fire AOR-burn AOR-be.needed PST.IPFV-AUTO-be tobacco smoke:FACT-PL PST.IPFV-AUTO-be LNK ___ ERG fire IPFV-CAUS-take.out-PL
+The English translation of this sentence is:`When they need to boil tea, to make a fire or smoke tobacco, people light up the fire with it.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The distal demonstratives \forme{nɯ} and \forme{the morpheme ___} serve as anaphoric pronouns with any type of referent, including humans, but also abstract concepts, inanimate objects or plants as in (\ref{ex:nWnW.kW.smi}), though as mentioned in §\ref{sec:pers.pronouns}, third person pronouns such as \japhug{ɯʑo}{he} can also have inanimate antecedents.
+A: word: nɯnɯ	 gloss: DEM
+B: word: nɯnɯra	 gloss: DEM:PL
+C: word: nɯtɕu	 gloss: DEM:LOC
+D: word: nɯra	 gloss: DEM:PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 3:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɯ\redp{}mɤ-pɯ-jɤɣ tɕe mɤ-ɣi-tɕi ma ___ nɯ fstɯn-tɕi ra ma tɕi-βɣe ɯ-ku tʰɯ-kɯ-ɣɤrndi
+Gloss (with missing item): COND\redp{}NEG-PST.IPFV-be.acceptable LNK NEG-come:FACT-1DU LNK ___ DEM serve:FACT-1DU be.needed:FACT LNK 1DU.POSS-orphan 3SG.POSS-head AOR-SBJ:PCP-support
+The English translation of this sentence is:`If it is not possible [to take the old man with us] we will not come, as we have to serve him, he is the one who adopted us orphans when we were in dire straits.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When a third person mentioned in a discussion is present, the pronoun \japhug{ɯʑo}{he} is not the optimal way of referring to him/her, and a proximal demonstrative, in particular the reduplicated \japhug{the morpheme ___}{this}, is used instead. It can occur to present someone to someone else (\ref{ex:kWki.aslama}) (note that a similar usage exists in Western languages such as English in the same context) and even to talk about the actions of this person, as in (\ref{ex:kWki.kW.taBzu}) and (\ref{ex:kWki.nW.ftsWntCi}).
+A: word: ɯ-tɯ-nɤmbju	 gloss: 3SG.POSS-NMLZ:DEG-be.shiny
+B: word: nɯtɕu	 gloss: DEM:LOC
+C: word: `kɯki	 gloss: DEM.PROX
+D: word: kɯki	 gloss: DEM:PROX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 4:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɯ\redp{}mɤ-pɯ-jɤɣ tɕe mɤ-ɣi-tɕi ma kɯki ___ fstɯn-tɕi ra ma tɕi-βɣe ɯ-ku tʰɯ-kɯ-ɣɤrndi
+Gloss (with missing item): COND\redp{}NEG-PST.IPFV-be.acceptable LNK NEG-come:FACT-1DU LNK DEM:PROX ___ serve:FACT-1DU be.needed:FACT LNK 1DU.POSS-orphan 3SG.POSS-head AOR-SBJ:PCP-support
+The English translation of this sentence is:`If it is not possible [to take the old man with us] we will not come, as we have to serve him, he is the one who adopted us orphans when we were in dire straits.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When a third person mentioned in a discussion is present, the pronoun \japhug{ɯʑo}{he} is not the optimal way of referring to him/her, and a proximal demonstrative, in particular the reduplicated \japhug{kɯki}{this}, is used instead. It can occur to present someone to someone else (\ref{ex:kWki.aslama}) (note that a similar usage exists in Western languages such as English in the same context) and even to talk about the actions of this person, as in (\ref{ex:kWki.kW.taBzu}) and (\ref{ex:kWki.nW.ftsWntCi}).
+A: word: ɯ-mɤ-nɯ-mɯnmu	 gloss: QU-NEG-AOR-move
+B: word: nɯ	 gloss: DEM
+C: word: nɯra	 gloss: DEM:PL
+D: word: kɯki	 gloss: DEM.PROX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 5:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɯ\redp{}mɤ-pɯ-jɤɣ tɕe mɤ-ɣi-tɕi ma ___ nɯ fstɯn-tɕi ra ma tɕi-βɣe ɯ-ku tʰɯ-kɯ-ɣɤrndi
+Gloss (with missing item): COND\redp{}NEG-PST.IPFV-be.acceptable LNK NEG-come:FACT-1DU LNK ___ DEM serve:FACT-1DU be.needed:FACT LNK 1DU.POSS-orphan 3SG.POSS-head AOR-SBJ:PCP-support
+The English translation of this sentence is:`If it is not possible [to take the old man with us] we will not come, as we have to serve him, he is the one who adopted us orphans when we were in dire straits.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As other pronouns (see §\ref{sec:pers.pronouns}), demonstrative pronouns can take the demonstrative determiner \forme{nɯ}, as in (\ref{ex:kWki.nW.ftsWntCi}).
+A: word: lo-nɯ-kʰɤ-rŋgɯ	 gloss: AOR-DENOM-house-lie.down
+B: word: tɯʑo	 gloss: GENR
+C: word: kɯki	 gloss: DEM:PROX
+D: word: `kɯki	 gloss: DEM.PROX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 6:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɯ\redp{}mɤ-pɯ-jɤɣ tɕe mɤ-ɣi-tɕi ma kɯki ___ fstɯn-tɕi ra ma tɕi-βɣe ɯ-ku tʰɯ-kɯ-ɣɤrndi
+Gloss (with missing item): COND\redp{}NEG-PST.IPFV-be.acceptable LNK NEG-come:FACT-1DU LNK DEM:PROX ___ serve:FACT-1DU be.needed:FACT LNK 1DU.POSS-orphan 3SG.POSS-head AOR-SBJ:PCP-support
+The English translation of this sentence is:`If it is not possible [to take the old man with us] we will not come, as we have to serve him, he is the one who adopted us orphans when we were in dire straits.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As other pronouns (see §\ref{sec:pers.pronouns}), demonstrative pronouns can take the demonstrative determiner \forme{the morpheme ___}, as in (\ref{ex:kWki.nW.ftsWntCi}).
+A: word: ɯ-mɤ-nɯ-mɯnmu	 gloss: QU-NEG-AOR-move
+B: word: nɯra	 gloss: DEM:PL
+C: word: nɯ	 gloss: DEM
+D: word: nɯtɕu	 gloss: DEM:LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 7:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɕe nɯ tɯ-ci ɣɯ ɯ-taʁ nɯnɯtɕu, ___ ɲɤ-χtɤr, iɕqʰa <yujinxiang> kɤ-ti mɯntoʁ nɯ ɣɯ ɯ-jwaʁ nɯ ɲɤ-χtɤr.
+Gloss (with missing item): LNK DEM INDEF.POSS-water GEN 3SG-on DEM:LOC ___ IFR-spread the.aforementionned tulip OBJ:PCP-say flower DEM GEN 3SG.POSS-leaf DEM IFR-spread
+The English translation of this sentence is:`She spilled on the water... she spilled the petals of the flower called ``tulip''.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In addition to its function as a medial demonstrative (§\ref{sec:medial.dem.pro}), the demonstrative \forme{the morpheme ___} also occurs to express cataphoric reference. It occurs especially when the speaker hesitates and uses it as a filler, followed by a clause with the same verb (examples \ref{ex:nAki.YWNu} and \ref{ex:nAki.YAXtAr}) or just with the same auxiliary (\ref{ex:nAki.Nu.Ci}).
+A: word: mɯ-ja-sɯ-ɤzɣɯt	 gloss: NEG-AOR:3SG\fl{}3-CAUS-arrive
+B: word: tɯʑo	 gloss: GENR
+C: word: nɤki	 gloss: DEM:CATAPH
+D: word: nɤkinɯ	 gloss: filler
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 8:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kʰopi kɯ ɴqiazwɤr ci ɲɯ-mɯm rca ɲɯ-saχaʁ ʑo tɕe ___ tu-stu-nɯ ɲɯ-ŋu ɲɯ-ti, ɲɯ-pʰɯt-nɯ qʰe kɯ-zri... ki jamar ʑo kɯ-zri ɲɯ-pʰɯt-nɯ qʰe nɤki, ɯ-ku ɯ-mtɯ kɯ-fse nɯtɕu kú-wɣ-ndo qʰe tɕe ɯ-pa nɯ, ɯ-jwaʁ nɯ cʰɯ-χɕoʁ-nɯ ɲɯ-ŋu...
+Gloss (with missing item): ANTHR ERG bitter.wormwood INDEF SENS-be.tasty UNEXPECT SENS-be.extremely EMPH LNK ___ IPFV-do.like-PL SENS-be SENS-say IPFV-take.out-PL LNK SBJ:PCP-be.long DEM:PROX about EMPH SBJ:PCP-be.long IPFV-take.out-PL LNK DEM:CATAPH 3SG.POSS-head 3SG.POSS-crest SBJ:PCP-be.like DEM:LOC IPFV-INV-take LNK LNK 3SG.POSS-under DEM 3SG.POSS-leaf DEM IPFV:DOWNSTREAM-take.out-PL SENS-be
+The English translation of this sentence is:`Kebei says that bitter wormwood is very tasty, and that they prepare it in the following way: they pluck (wormwoods) that are this big, take it by something that looks like a crest on the top, and prune away the leaves under it... (continued by several paragraphs)'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is also used when the speaker alerts the addressee that a long description follows as in (\ref{ex:nAki.tustunW}), as in English `(he said) the following'. Given the fact the Japhug is strictly verb-final and has pre-verbal complements (§\ref{sec:basic.word.order}), this is a strategy employed to avoid relegating the main verb to the end of the description.
+A: word: kɯki	 gloss: DEM.PROX
+B: word: nɤki	 gloss: DEM:CATAPH
+C: word: nɤkinɯ	 gloss: filler
+D: word: kupa-skɤt	 gloss: Chinese-language
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 9:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): <qidian> tɕe tɤ-mŋɤm ta-ʑa a-pɯ-ŋu tɕe, tɕe nɯnɯ tɯ-sŋi nɯ tu-mŋɤm, tɯ-rʑaʁ nɯ tu-mŋɤm tɕe, ɯ-fso <qidian> mɤɕtʂa nɯ mɯ́j-ʑi tɕe ___ tɕe kɯ-xtɕɯ\redp{}xtɕi tɯ-ʑi ɲɯ-ʑe ɲɯ-ŋu tɕe
+Gloss (with missing item): seven.o'clock LNK AOR-hurt AOR:3\flobv{}-start IRR-IPFV-be LNK LNK DEM one-day DEM IPFV-hurt one-night DEM IPFV-hurt LNK 3SG.POSS-tomorrow seven.o'clock until DEM NEG:SENS-subside LNK ___ LNK SBJ:PCP-EMPH\redp{}be.small INF-subside IPFV-start[III] SENS-be LNK
+The English translation of this sentence is:`(For instance), if [the headache] starts at seven o'clock, it hurts for one day and one night, and subsides only in the next day at seven, at that time it starts to subside a little.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Apart from its locative uses, \forme{the morpheme ___} can express a temporal meaning `at that time' as in (\ref{ex:nWtCu.temporal}) and (\ref{ex:nWtCu.temporal2}).
+A: word: nɯnɯtɕu	 gloss: DEM:LOC
+B: word: kɯre	 gloss: DEM:PROX:LOC
+C: word: nɯtɕu	 gloss: DEM:LOC
+D: word: kɯki	 gloss: DEM.PROX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+

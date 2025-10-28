@@ -1,0 +1,208 @@
+Question 0:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [[ɯ-pi ni] ___ pɣa nɯ pa-mto-ndʑi
+Gloss (with missing item): 3SG.POSS-elder.sibling DU ___ bird DEM 3\flobv{}:AOR-see-DU
+The English translation of this sentence is:`His two elder siblings saw the bird.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Grammatical relations on noun phrases are encoded by postpositions such as the ergative \forme{the morpheme ___} (§\ref{sec:erg.kW}), the genitive \forme{ɣɯ} (§\ref{sec:genitive}) and the comitative \forme{cʰo} (§\ref{sec:comitative}), as well as relator nouns (§\ref{sec:relator.nouns}) such as the dative \forme{ɯ-ɕki} or \forme{ɯ-pʰe} (§\ref{sec:dative}). With the sole exception of the genitive forms of a few pronouns such as \forme{aʑɯɣ} \textsc{1sg}:\textsc{gen} (from \japhug{aʑo}{\textsc{1sg}} and \forme{ɣɯ}, §\ref{sec:pronouns.gen}), the postpositions do not merge phonologically with the previous word. As shown by (\ref{ex:Wpi.ni.kW}) and (\ref{ex:ra.GW.nWfsapaR}), they are located at the end of the noun phrase, further away from the head noun than all determiners, including number markers.
+A: word: qʰoʁqʰoʁ	 gloss: ingot
+B: word: a-tɤ-kɯ-nɯlaʁrdaβ-a	 gloss: IRR-PFV-2\fl{}1-hit.with.forelegs-1SG
+C: word: kɯ	 gloss: ERG
+D: word: lɯlu	 gloss: cat
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 1:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [[tɯrme ra] ___ nɯ-fsapaʁ
+Gloss (with missing item): person PL ___ 3PL.POSS-cattle
+The English translation of this sentence is:`People's cattle'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Grammatical relations on noun phrases are encoded by postpositions such as the ergative \forme{kɯ} (§\ref{sec:erg.kW}), the genitive \forme{the morpheme ___} (§\ref{sec:genitive}) and the comitative \forme{cʰo} (§\ref{sec:comitative}), as well as relator nouns (§\ref{sec:relator.nouns}) such as the dative \forme{ɯ-ɕki} or \forme{ɯ-pʰe} (§\ref{sec:dative}). With the sole exception of the genitive forms of a few pronouns such as \forme{aʑɯɣ} \textsc{1sg}:\textsc{gen} (from \japhug{aʑo}{\textsc{1sg}} and \forme{the morpheme ___}, §\ref{sec:pronouns.gen}), the postpositions do not merge phonologically with the previous word. As shown by (\ref{ex:Wpi.ni.kW}) and (\ref{ex:ra.GW.nWfsapaR}), they are located at the end of the noun phrase, further away from the head noun than all determiners, including number markers.
+A: word: tɯʑo	 gloss: GENR
+B: word: ɣɯ	 gloss: GEN
+C: word: a^-6-mɤ^-5-ɣɯ^-4-tɤ^-3-tɯ́^-2-wɣ^-1-ndza	 gloss: IRR^{-6}-NEG^{-5}-CISL^{-4}-PFV^{-3}-2^{-2}-INV^{-1}-eat
+D: word: mkʰɤrmaŋ	 gloss: people
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 2:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ɣɯ ɯ-rʑaβ ɯ-ɕki tɕe ``a-ɬaʁ" tu-kɯ-ti ŋu
+Gloss (with missing item): ___ GEN 3SG.POSS-wife 3SG.POSS-DAT LOC 1SG.POSS-aunt IPFV-\TEXTBF{GENR}-say be:FACT
+The English translation of this sentence is:`One_i calls one_i's mother's brother's wife `my aunt'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: No more than one generic referent is possible per clause, so that if a noun with generic possessor prefix is found in the same clause as a verb with generic indexation, there is obligatory co-reference (§\ref{sec:indexation.generic.tr}), as in (\ref{ex:tWrpW.WrZaB}) between the possessor of \forme{the morpheme ___} `one's mother's brother' (indefinite form \forme{tɤ-rpɯ}, §\ref{sec:kinship}) and the transitive subject of the verb \forme{tu-kɯ-ti} `one says' (§\ref{sec:irregular.transitive}).
+A: word: ɯ-tɯ-rko	 gloss: 3SG.POSS-NMLZ:DEG-be.hard
+B: word: tɯ-rpɯ	 gloss: \TEXTBF{GENR}.POSS-mother's.brother
+C: word: cʰɤ-sɯ-tʂɯβ	 gloss: IFR-CAUS-sew
+D: word: qʰajŋgɯ	 gloss: water.trough
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 3:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tɯ-rpɯ ɣɯ ɯ-rʑaβ ɯ-ɕki tɕe ``a-ɬaʁ" ___ ŋu
+Gloss (with missing item): \TEXTBF{GENR}.POSS-mother's.brother GEN 3SG.POSS-wife 3SG.POSS-DAT LOC 1SG.POSS-aunt ___ be:FACT
+The English translation of this sentence is:`One_i calls one_i's mother's brother's wife `my aunt'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: No more than one generic referent is possible per clause, so that if a noun with generic possessor prefix is found in the same clause as a verb with generic indexation, there is obligatory co-reference (§\ref{sec:indexation.generic.tr}), as in (\ref{ex:tWrpW.WrZaB}) between the possessor of \forme{tɯ-rpɯ} `one's mother's brother' (indefinite form \forme{tɤ-rpɯ}, §\ref{sec:kinship}) and the transitive subject of the verb \forme{the morpheme ___} `one says' (§\ref{sec:irregular.transitive}).
+A: word: pɯ-asɯ-ndza-ndʑi	 gloss: PST.IPFV-PROG-eat-DU
+B: word: tu-kɯ-ti	 gloss: IPFV-\TEXTBF{GENR}-say
+C: word: tu-kɯ-tsɯm-a	 gloss: IPFV-2\fl{}1-take.away-1SG
+D: word: lɯlu	 gloss: cat
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 4:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): rɟɤlpu kɯ ɯ-ma nɯ ___ ra tu-z-nɤme pjɤ-ŋu
+Gloss (with missing item): king ERG 3SG.POSS-work DEM ___ PL IPFV-CAUS-do[III] IFR.IPFV-be
+The English translation of this sentence is:`The king used to make the people do work for him.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The sigmatic causative is the most productive derivation in Japhug. It is compatible with intransitive, transitive and even ditransitive verbs (§\ref{sec:ditransitive.causative}), and has a wide range of meanings (§\ref{sec:sig.caus.function}), from coercion (§\ref{sec:sig.caus.coercitive}) as in (\ref{ex:kW.tuznAme}) to indirect causation (§\ref{sec:sig.caus.indirect}).
+A: word: tɯrme-kʰa	 gloss: people-house
+B: word: mkʰɤrmaŋ	 gloss: people
+C: word: kʰɤɕkʰɤr	 gloss: men.seating.place
+D: word: taqaβ	 gloss: needle
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 5:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): rɟɤlpu kɯ ɯ-ma nɯ mkʰɤrmaŋ ___ tu-z-nɤme pjɤ-ŋu
+Gloss (with missing item): king ERG 3SG.POSS-work DEM people ___ IPFV-CAUS-do[III] IFR.IPFV-be
+The English translation of this sentence is:`The king used to make the people do work for him.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The sigmatic causative is the most productive derivation in Japhug. It is compatible with intthe morpheme ___nsitive, tthe morpheme ___nsitive and even ditthe morpheme ___nsitive verbs (§\ref{sec:ditthe morpheme ___nsitive.causative}), and has a wide the morpheme ___nge of meanings (§\ref{sec:sig.caus.function}), from coercion (§\ref{sec:sig.caus.coercitive}) as in (\ref{ex:kW.tuznAme}) to indirect causation (§\ref{sec:sig.caus.indirect}).
+A: word: ɯʑora	 gloss: 3PL
+B: word: ɯ-laχtɕʰa	 gloss: 3SG.POSS-thing
+C: word: ra	 gloss: PL
+D: word: kɤ-ɣndʑɯr	 gloss: OBJ:PCP-grind
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 6:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): rɟɤlpu kɯ ɯ-ma nɯ mkʰɤrmaŋ ra ___ pjɤ-ŋu
+Gloss (with missing item): king ERG 3SG.POSS-work DEM people PL ___ IFR.IPFV-be
+The English translation of this sentence is:`The king used to make the people do work for him.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The sigmatic causative is the most productive derivation in Japhug. It is compatible with intransitive, transitive and even ditransitive verbs (§\ref{sec:ditransitive.causative}), and has a wide range of meanings (§\ref{sec:sig.caus.function}), from coercion (§\ref{sec:sig.caus.coercitive}) as in (\ref{ex:kW.tuznAme}) to indirect causation (§\ref{sec:sig.caus.indirect}).
+A: word: tu-z-nɤme	 gloss: IPFV-CAUS-do[III]
+B: word: ɲɯ-z-nɤme	 gloss: IPFV-CAUS-do[III]
+C: word: lɯlu	 gloss: cat
+D: word: ɲɯ-sɯ-ɤβze	 gloss: IPFV-CAUS-become[III]
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 7:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ taqaβ ki kɯ tɯ-ŋga cʰɤ-sɯ-tʂɯβ
+Gloss (with missing item): ___ needle DEM.PROX ERG INDEF.POSS-clothes IFR-CAUS-sew
+The English translation of this sentence is:`S/he sewed the clothes with this needle.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The sigmatic causative is also used to mark instruments (§\ref{sec:sig.caus.instrumental}), for example in (\ref{ex:kW.chAsWtsxWB}), where the instrument \japhug{taqaβ}{needle} receives ergative marthe morpheme ___ng (§\ref{sec:instr.kW}) like a causee (§\ref{sec:causee.kW}): the construction literally means `s/he made the needle sew the clothes'.
+A: word: nɯ-ɕki	 gloss: 3PL.POSS-DAT
+B: word: pɣa	 gloss: bird
+C: word: ki	 gloss: DEM.PROX
+D: word: kɯkɯra	 gloss: DEM.PROX:PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 8:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ki ___ ki kɯ tɯ-ŋga cʰɤ-sɯ-tʂɯβ
+Gloss (with missing item): DEM.PROX ___ DEM.PROX ERG INDEF.POSS-clothes IFR-CAUS-sew
+The English translation of this sentence is:`S/he sewed the clothes with this needle.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The sigmatic causative is also used to mark instruments (§\ref{sec:sig.caus.instrumental}), for example in (\ref{ex:kW.chAsWtsxWB}), where the instrument \japhug{the morpheme ___}{its gloss ___} receives ergative marking (§\ref{sec:instr.kW}) like a causee (§\ref{sec:causee.kW}): the construction literally means `s/he made the its gloss ___ sew the clothes'.
+A: word: tʰaʁmu	 gloss: weaving.blade
+B: word: taqaβ	 gloss: needle
+C: word: ɯ-laχtɕʰa	 gloss: 3SG.POSS-thing
+D: word: kɯ-ɤrɯ-taqaβ	 gloss: SBJ:PCP-DENOM-needle
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 9:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ki taqaβ ___ kɯ tɯ-ŋga cʰɤ-sɯ-tʂɯβ
+Gloss (with missing item): DEM.PROX needle ___ ERG INDEF.POSS-clothes IFR-CAUS-sew
+The English translation of this sentence is:`S/he sewed the clothes with this needle.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The sigmatic causative is also used to mark instruments (§\ref{sec:sig.caus.instrumental}), for example in (\ref{ex:kW.chAsWtsxWB}), where the instrument \japhug{taqaβ}{needle} receives ergative marthe morpheme ___ng (§\ref{sec:instr.kW}) like a causee (§\ref{sec:causee.kW}): the construction literally means `s/he made the needle sew the clothes'.
+A: word: ki	 gloss: DEM.PROX
+B: word: nɯ-ɕki	 gloss: 3PL.POSS-DAT
+C: word: pɣa	 gloss: bird
+D: word: kɯkɯra	 gloss: DEM.PROX:PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 10:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ki taqaβ ki ___ tɯ-ŋga cʰɤ-sɯ-tʂɯβ
+Gloss (with missing item): DEM.PROX needle DEM.PROX ___ INDEF.POSS-clothes IFR-CAUS-sew
+The English translation of this sentence is:`S/he sewed the clothes with this needle.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The sigmatic causative is also used to mark instruments (§\ref{sec:sig.caus.instrumental}), for example in (\ref{ex:kW.chAsWtsxWB}), where the instrument \japhug{taqaβ}{needle} receives ergative marking (§\ref{sec:instr.kW}) like a causee (§\ref{sec:causee.kW}): the construction literally means `s/he made the needle sew the clothes'.
+A: word: a-tɤ-kɯ-nɯlaʁrdaβ-a	 gloss: IRR-PFV-2\fl{}1-hit.with.forelegs-1SG
+B: word: ɯ-laχtɕʰa	 gloss: 3SG.POSS-thing
+C: word: qʰoʁqʰoʁ	 gloss: ingot
+D: word: kɯ	 gloss: ERG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 11:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ki taqaβ ki kɯ tɯ-ŋga ___
+Gloss (with missing item): DEM.PROX needle DEM.PROX ERG INDEF.POSS-clothes ___
+The English translation of this sentence is:`S/he sewed the clothes with this needle.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The sigmatic causative is also used to mark instruments (§\ref{sec:sig.caus.instrumental}), for example in (\ref{ex:kW.chAsWtsxWB}), where the instrument \japhug{taqaβ}{needle} receives ergative marking (§\ref{sec:instr.kW}) like a causee (§\ref{sec:causee.kW}): the construction literally means `s/he made the needle sew the clothes'.
+A: word: cʰɯ-tɯ-nɯ-sɯ-tʂɯβ	 gloss: IPFV-2-AUTO-CAUS/ABIL-sew
+B: word: cʰɤ-sɯ-tʂɯβ	 gloss: IFR-CAUS-sew
+C: word: cʰɤ-tʂɯβ	 gloss: IFR-sew
+D: word: pɣa	 gloss: bird
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 12:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [nɯɕɯŋgɯ ɣɯ ___ pɯ-kɯ-tu] nɯra ɕ-tú-wɣ-sɯ-rtoʁ tɕe,
+Gloss (with missing item): before GEN ___ PST.IPFV-SBJ:PCP-exist DEM:PL TRAL-IPFV-INV-CAUS-look LNK
+The English translation of this sentence is:`They go (there) and show [the child_i objects] that he_i used to have before (in his_i previous life, when he_i was a lama).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The first piece of evidence for this type of alignment in Gyalrong languages to have been proposed \citep{jackson03caodeng} is the fact that the \forme{kɯ-} (subject) participle (§\ref{sec:subject.participle.subject.relative}) is the only form that can be used to relativize both intransitive (§\ref{sec:intr.subject.relativization}) and transitive subjects (§\ref{sec:tr.subject.relativization}). However, the \forme{kɯ-} participles are not exclusively used to relativize intransitive and transitive subjects: they can also relativize possessors of intransitive subjects (§\ref{sec:possessor.relativization}), and are the only option to do so, resulting in ambiguities (see examples \ref{ex:WlaXtCha.pWkWtu} and \ref{ex:jla.nWRrW.kWtu} in §\ref{sec:possessive.mihi.est}).
+A: word: tɯ-laχtɕʰa	 gloss: GENR.POSS-thing
+B: word: pɣa	 gloss: bird
+C: word: ɯ-laχtɕʰa	 gloss: 3SG.POSS-thing
+D: word: ɯ-skɯrma	 gloss: 3SG.POSS-present
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 13:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nɯ-ʁrɯ kɯ-tu] ra kɯnɤ, nɯ-rpaʁ kɯ ɲɯ-z-rɤɕi-nɯ pɯ-ŋu tɕe,
+Gloss (with missing item): ___ 3PL.POSS-horn SBJ:PCP-exist DEM:PL also 3PL.POSS-shoulder ERG IPFV-CAUS-pull-PL PST.IPFV-be LNK
+The English translation of this sentence is:`Even the hybrid yaks that had horns used to pull [the plough] with their shoulders (rather than with their horns).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The first piece of evidence for this type of alignment in Gyalrong languages to have been proposed \citep{jackson03caodeng} is the fact that the \forme{kɯ-} (subject) participle (§\ref{sec:subject.participle.subject.relative}) is the only form that can be used to relativize both intransitive (§\ref{sec:intr.subject.relativization}) and transitive subjects (§\ref{sec:tr.subject.relativization}). However, the \forme{kɯ-} participles are not exclusively used to relativize intransitive and transitive subjects: they can also relativize possessors of intransitive subjects (§\ref{sec:possessor.relativization}), and are the only option to do so, resulting in ambiguities (see examples \ref{ex:WlaXtCha.pWkWtu} and \ref{ex:the morpheme ___.nWRrW.kWtu} in §\ref{sec:possessive.mihi.est}).
+A: word: pɣa	 gloss: bird
+B: word: nɯ-jla	 gloss: 3PL.POSS-hybrid.yak
+C: word: jla	 gloss: hybrid.yak
+D: word: ftsoʁ	 gloss: female.hybrid.yak
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 14:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [lɯlu nɯ kɯ ___ ta-ndza] nɯ
+Gloss (with missing item): cat DEM ERG ___ AOR:3\flobv{}-eat DEM
+The English translation of this sentence is:`The bird that the cat ate'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example (\ref{ex:lWlu.nW.kW.tAkAndza}) illustrates a head-internal finite relative: the relativized object \japhug{the morpheme ___}{bird} is located between the transitive subject \forme{lɯlu nɯ kɯ} and the finite verb (an object participle \forme{tɤ-kɤ-ndza} (\textsc{aor}-\textsc{obj}:\textsc{pcp}-eat) would also be possible to express the same meaning), at the position it would normally occupy in the corresponding independent sentence (see \ref{ex:lWlu.nW.kW.tondza} above).
+A: word: tamar	 gloss: butter
+B: word: tu-kɯ-ti	 gloss: IPFV-GENR-say
+C: word: ja-pɣaʁ	 gloss: AOR:3\flobv{}-cross
+D: word: pɣa	 gloss: \textbf{bird}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 15:
+You are a linguist specializing in Japhug. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [pɣa ɯ-tɤ-kɯ-ndza] ___ nɯ
+Gloss (with missing item): bird 3SG.POSS-AOR-SBJ:PCP-eat ___ DEM
+The English translation of this sentence is:`The cat that ate the bird'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:pGA.WkWndza}) on the other hand, the relative clause precedes the relativized transitive subject \japhug{the morpheme ___}{cat}.
+A: word: lɯlu	 gloss: \textbf{cat}
+B: word: tɯ-rpɯ	 gloss: GENR.POSS-MB
+C: word: pjɤ-nɯkɯlu-nɯ	 gloss: IFR-be.lost-PL
+D: word: kɤ-ɣɯt	 gloss: INF-bring
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
