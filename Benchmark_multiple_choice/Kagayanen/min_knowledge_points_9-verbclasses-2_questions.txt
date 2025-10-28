@@ -1,0 +1,234 @@
+Question 0:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ a nang gibii.
+Gloss (with missing item): ___ 1S.ABS only/just yesterday
+The English translation of this sentence is:‘I just let it rain (on me) yesterday.’ (Instead of going inside he kept trying to spear a wild pig.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref149030144} illustrates a kind of reflexive construction. This is not an experiential construction (i.e., there is no applicative marker indicating the absolutive is the experiencer of the situation), but the implication is that the speaker “let it rain” on himself while hunting (see \chapref{chap:voice}, \sectref{sec:causatives} for this reflexive use of the detransitive causative ga-pa- or mag-pa-):
+A: word: pa-pa-uran-an	 gloss: T.R-CAUS-rain-APL
+B: word: salíg	 gloss: think.wrongly
+C: word: ga-pa-uran	 gloss: I.R-CAUS-rain
+D: word: ga-uran	 gloss: I.R-rain
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 1:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din yaken i na m-kuyog a ma-ng-pasyar.
+Gloss (with missing item): ___ 3S.ERG 1S.ABS DEF.N LK I.V.IR-go.with 1S.ABS A.HAP.IR-PL-visit
+The English translation of this sentence is:‘S/he told me that I will go with (him) to go visiting.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Occasionally, the recipient may be expressed as the absolutive with no applicative marking. In that case, the implication is the speech is more direct or frank. For example, \REF{bkm:Ref402322426} is about a fairy telling a person to go with him to the world of the dead. This is an unusual and momentous direct request, and so the applicative is not used. This emphasizes the usually direct nature of this statement. Example \REF{bkm:Ref122516350} is about a woman telling her mother to regret or repent of her sins, which also is an unusually frank thing for anyone to say to their parents.
+A: word: pa-ambaļ	 gloss: T.R-say
+B: word: pa-ambaļ-an	 gloss: T.R-say-APL
+C: word: pa-atag	 gloss: T.R-give
+D: word: ∅-mati-an	 gloss: T.IR-hear-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 2:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ko kanen an, “Ma-neļseļ ka ta imo na saļa."\\
+Gloss (with missing item): ___ 1S.ERG 3S.ABS DEF.M A.HAP.IR-regret/repent 2S.ABS NABS 2S.GEN LK sin/mistake
+The English translation of this sentence is:‘I told her (directly), “You may regret/repent of your sins.”'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Occasionally, the recipient may be expressed as the absolutive with no applicative marking. In that case, the implication is the speech is more direct or frank. For example, \REF{bkm:Ref402322426} is about a fairy telling a person to go with him to the world of the dead. This is an unusual and momentous direct request, and so the applicative is not used. This emphasizes the usually direct nature of this statement. Example \REF{bkm:Ref122516350} is about a woman telling her mother to regret or repent of her sins, which also is an unusually frank thing for anyone to say to their parents.
+A: word: pa-atag	 gloss: T.R-give
+B: word: liag	 gloss: want
+C: word: pa-ambaļ	 gloss: T.R-say
+D: word: pa-ambaļ-an	 gloss: T.R-say-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 3:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ kay isab ta mga mama nay ya na duma. Lain man iran baļay daen.
+Gloss (with missing item): ___ 1P.EXCL.ABS again NABS PL man 1P.EXCL.GEN DEF.F LK companion different also 3P.GEN house 3P.GEN
+The English translation of this sentence is:‘We (the women) met together again with our male companions. As for them, their house was different (from ours).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The root kita with the meaning of ‘see’ only occurs in happenstantial modality. The causative stem, pakita, may occur in dynamic modality with the meaning of ‘to show’. The reciprocal stem, kitaay ‘to meet together’, may also appear in dynamic modality. There are thirty-eight examples of stems based on kita functioning as predicates in dynamic modality in the corpus, twelve of which are causatives and twenty-six of which are reciprocals. Examples \REF{bkm:Ref121468636} and \REF{bkm:Ref121468640} illustrate the reciprocal usage:
+A: word: ga-tubang-ay	 gloss: I.R-facing-REC
+B: word: mag-mati	 gloss: I.IR-hear
+C: word: ga-kita-ay	 gloss: I.R-see-REC
+D: word: pag-kita-ay	 gloss: NR.ACT-see-REC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 4:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pag-uļa nang lugay ___ nay en daguno ta iruplano.
+Gloss (with missing item): NR.ACT-NEG.R only/just long.time ___ 1P.EXCL.ERG CM drone.sound NABS airplane
+The English translation of this sentence is:`Not long afterwards, we heard the drone of the airplane.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The root mati ‘to hear/listen’ is of Class V, subclass Vb of non-volitional semantically transitive\is{semantic transitivity}\is{transitivity!semantic} roots, and Class VIII, volitional transitive roots, depending on the context. Both of these classes are those that take the applicative -an in their basic transitive form (see \chapref{chap:verbclasses-1}, \sectref{sec:overviewofeightverbclasses}). In happenstantial modality with the applicative, the meaning tends to be unintentional: ‘to hear’ (\ref{bkm:Ref121468755} and \ref{bkm:Ref121468759}), and in dynamic modalities the meaning is more intentional: ‘to listen’ (\ref{bkm:Ref121468840} and \ref{bkm:Ref121468843}):
+A: word: indya	 gloss: where
+B: word: na-mati-an	 gloss: A.HAP.R-hear-APL
+C: word: ga-ng-ka-sebe	 gloss: I.R-PL-VBLZ-sad
+D: word: pa-mati-an	 gloss: T.R-hear-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 5:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ no ta ga-ļaļa an ta ikam paryo ta isya na ittaw na ga-type.
+Gloss (with missing item): ___ 2S.ERG NABS I.R-weave DEF.M NABS mat same NABS one LK person LK I.R-type
+The English translation of this sentence is:‘When you listen to someone weaving a mat, it is the same as one person typing.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The root mati ‘to hear/listen’ is of Class V, subclass Vb of non-volitional semantically transitive\is{semantic transitivity}\is{transitivity!semantic} roots, and Class VIII, volitional transitive roots, depending on the context. Both of these classes are those that take the applicative -an in their basic transitive form (see \chapref{chap:verbclasses-1}, \sectref{sec:overviewofeightverbclasses}). In happenstantial modality with the applicative, the meaning tends to be unintentional: ‘to hear’ (\ref{bkm:Ref121468755} and \ref{bkm:Ref121468759}), and in dynamic modalities the meaning is more intentional: ‘to listen’ (\ref{bkm:Ref121468840} and \ref{bkm:Ref121468843}):
+A: word: inta	 gloss: OPT
+B: word: pa-mati-an	 gloss: T.R-hear-APL
+C: word: na-mati-an	 gloss: A.HAP.R-hear-APL
+D: word: pa-batyag-an	 gloss: T.R-noticel-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 6:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Lain man iran na ambaļ na daw ___ no ma-tawa ka gid.
+Gloss (with missing item): dfferent too 3P.GEN LK say LK if/when ___ 2S.ERG A.HAP.IR-laugh 2S.ABS INT
+The English translation of this sentence is:‘Their language is so different that if you listen to it, you might really laugh.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The root mati ‘to hear/listen’ is of Class V, subclass Vb of non-volitional semantically transitive\is{semantic transitivity}\is{transitivity!semantic} roots, and Class VIII, volitional transitive roots, depending on the context. Both of these classes are those that take the applicative -an in their basic transitive form (see \chapref{chap:verbclasses-1}, \sectref{sec:overviewofeightverbclasses}). In happenstantial modality with the applicative, the meaning tends to be unintentional: ‘to hear’ (\ref{bkm:Ref121468755} and \ref{bkm:Ref121468759}), and in dynamic modalities the meaning is more intentional: ‘to listen’ (\ref{bkm:Ref121468840} and \ref{bkm:Ref121468843}):
+A: word: ga-kita-ay	 gloss: I.R-see-REC
+B: word: ∅-mati-an	 gloss: T.IR-hear-APL
+C: word: ma-mati-an	 gloss: A.HAP.IR-hear-APL
+D: word: na-mati-an	 gloss: A.HAP.R-hear-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 7:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ kay ta laygay Mayor naan plasa.
+Gloss (with missing item): ___ 1P.EXCL.ABS NABS speech Mayor SPAT.DEF plaza
+The English translation of this sentence is:‘We will listen to the Mayor’s speech on the plaza.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \glt ‘We \textbf{will get to listen to} the Mayor’s speech on the plaza.’ (c.f. \REF{bkm:Ref123365713} above)
+A: word: na-mati-an	 gloss: A.HAP.R-hear-APL
+B: word: pa-mati-an	 gloss: T.R-hear-APL
+C: word: mag-ambaļ	 gloss: I.IR-say
+D: word: mag-mati	 gloss: I.IR-hear
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 8:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ a din daw m-panaw a.
+Gloss (with missing item): ___ 1S.ABS 3S.ERG if/when I.V.IR-go/walk 1S.ABS
+The English translation of this sentence is:‘S/he took notice of me whenever I leave.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the verb batyag is used in a transitive frame, the experiencer is in the ergative case and the stimulus, the item or sensation felt, is absolutive as in \REF{ex:becomingverybig} through \REF{bkm:Ref123389246}, and \REF{bkm:Ref122549938}. In an intransitive frame, the experiencer is absolutive and the stimulus, if present, is oblique (several examples from \ref{ex:willrun} through \ref{ex:asthmaattack}). Of the sixty examples of batyag used as a inflected predicate in the corpus, thirty-eight are in happenstantial modality plus the applicative \nobreakdash-an or its exclamatory equivalent -i (two examples). Twenty are expressed in dynamic modality (usages 6 and 7). There are no examples of batyag with the non-applicative exclamatory suffix -a.
+A: word: pa-batyag-an	 gloss: T.R-noticel-APL
+B: word: ga-intindi	 gloss: I.R-understand
+C: word: na-masmas--i	 gloss: A.HAP.R-notice-XC.APL
+D: word: na-batyag-an	 gloss: A.HAP.R-feel-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 9:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Naan aren ta baybay Peek ___ ko en ļettem daw ka-kapoy ta ake na lawa.
+Gloss (with missing item): SPAT.DEF 1S.ABS NABS beach Peek ___ 1S.ERG CM hunger and NR-tired NABS 1S.GEN LK body
+The English translation of this sentence is:`When I was on the beach of Peek I felt hunger and exhaustion of my body.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{ex:becomingverybig} and \REF{bkm:Ref122532854} illustrate the difference in meaning between the first two usages of batyag. Both are from the same first person personal experience recounted by a fisherman whose boat overturned in rough seas. While fishing he noticed that he felt hungry, and uses nabatyag \REF{ex:becomingverybig} (usage 2). Then, after surviving the accident and coming ashore, he was feeling intense hunger and tiredness and used nabatyagan, shown in example \REF{bkm:Ref122532854} (usage 1):
+A: word: na-batyag-an	 gloss: A.HAP.R-feel-APL
+B: word: na-liag-an	 gloss: A.HAP.R-like/want-APL
+C: word: pa-batyag-an	 gloss: T.R-noticel-APL
+D: word: salíg	 gloss: think.wrongly
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 10:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Naan aren ta baybay Peek ___ ko en ļettem daw ka-kapoy ta ake na lawa.
+Gloss (with missing item): SPAT.DEF 1S.ABS NABS beach Peek ___ 1S.ERG CM hunger and NR-tired NABS 1S.GEN LK body
+The English translation of this sentence is:`When I was on the beach of Peek I felt hunger and exhaustion of my body.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{ex:becomingverybig} and \REF{bkm:Ref122532854} illustrate the difference in meaning between the first two usages of batyag. Both are from the same first person personal experience recounted by a fisherman whose boat overturned in rough seas. While fishing he noticed that he felt hungry, and uses nabatyag \REF{ex:becomingverybig} (usage 2). Then, after surviving the accident and coming ashore, he was feeling intense hunger and tiredness and used nabatyagan, shown in example \REF{bkm:Ref122532854} (usage 1):
+A: word: pa-batyag-an	 gloss: T.R-noticel-APL
+B: word: na-batyag-an	 gloss: A.HAP.R-feel-APL
+C: word: ∅-mati-an	 gloss: T.IR-hear-APL
+D: word: na-liag-an	 gloss: A.HAP.R-like/want-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 11:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Uļa nang lugay ___ ko na ga-baliskad en dyip na sakay-an nay.
+Gloss (with missing item): NEG.R only/just long.time ___ 1S.ERG LK I.R-upside.down CM jeep LK ride-NR 1P.EXCL.GEN
+The English translation of this sentence is:`Not a long time I felt that the jeep that we were riding was turning upside down.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref121399507} and \REF{bkm:Ref123389246} illustrate the applicative stem batyagan inflected in happenstantial, realis modality, with a complement clause as the stimulus (usage 1):
+A: word: pa-batyag-an	 gloss: T.R-noticel-APL
+B: word: na-batyag-an	 gloss: A.HAP.R-feel-APL
+C: word: pa-mati-an	 gloss: T.R-hear-APL
+D: word: na-liag-an	 gloss: A.HAP.R-like/want-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 12:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ a din daw m-panaw a.
+Gloss (with missing item): ___ 1S.ABS 3S.ERG if/when I.V.IR-go/walk 1S.ABS
+The English translation of this sentence is:‘S/he took notice of me whenever I leave.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are also no examples of the applicative used in dynamic, realis modality with this root in the corpus. Example \REF{bkm:Ref122549938} is from conversation (usage 7):
+A: word: pa-batyag-an	 gloss: T.R-noticel-APL
+B: word: na-batyag-an	 gloss: A.HAP.R-feel-APL
+C: word: na-masmas--i	 gloss: A.HAP.R-notice-XC.APL
+D: word: ga-ng-ka-sebe	 gloss: I.R-PL-VBLZ-sad
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 13:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Man-o tak ___ ka?
+Gloss (with missing item): why because ___ 2S.ABS
+The English translation of this sentence is:‘Why are you sorrowing?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref123572729} illustrates that the pluraction prefix ng{}- is not strictly “agreement” with a plural experiencer, since the experiencer in this example is singular. Although pluraction for stems expressing sadness and joy overwhelmingly occur with plural experiencers, this is not a grammatical restriction. The sense in example \REF{bkm:Ref123572729} is that the actor is sorrowing over and over again, over a long period of time.
+A: word: ga-ng-ka-sebe	 gloss: I.R-PL-VBLZ-sad
+B: word: pag-ka-sellem	 gloss: NR.ACT-NR-morning
+C: word: ga-gaļ	 gloss: I.R-cry
+D: word: mag-mati	 gloss: I.IR-hear
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 14:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Man-o tak ___ ka?
+Gloss (with missing item): why because ___ 2S.ABS
+The English translation of this sentence is:‘Why are you sorrowing?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref123572729} illustrates that the pluraction prefix ng{}- is not strictly “agreement” with a plural experiencer, since the experiencer in this example is singular. Although pluraction for stems expressing sadness and joy overwhelmingly occur with plural experiencers, this is not a grammatical restriction. The sense in example \REF{bkm:Ref123572729} is that the actor is sorrowing over and over again, over a long period of time.
+A: word: ga-gaļ	 gloss: I.R-cry
+B: word: ga-intindi	 gloss: I.R-understand
+C: word: ga-ng-ka-sebe	 gloss: I.R-PL-VBLZ-sad
+D: word: pag-ka-sellem	 gloss: NR.ACT-NR-morning
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 15:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ man kanen ki kami na naan kay dya ga-tunuga.
+Gloss (with missing item): ___ EMPH 3S.ABS OBL.P 1P.EXCL LK SPAT.DEF 1P.EXCL.ABS D4LOC I.R-sleep
+The English translation of this sentence is:`S/he was concerned for/took care of us when we slept there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The following are examples of intindi ‘to understand’ (from Spanish entender ‘to understand’) from the corpus. The only example in the corpus of the detransitive dynamic form of intindi is a reciprocal (\ref{bkm:Ref123631997}). However, other examples do occur in conversation (\ref{bkm:Ref123632049}). The reciprocal can mean either to understand each other or to get along together well:
+A: word: naka-intindi	 gloss: I.HAP.R-understand
+B: word: ino-en	 gloss: what-T.IR
+C: word: pa-mati-an	 gloss: T.R-hear-APL
+D: word: ga-intindi	 gloss: I.R-understand
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 16:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din daw ga-laeg-laeg a nang.
+Gloss (with missing item): ___ 3S.ERG if/when I.R-RED-joke 1S.ABS only/just
+The English translation of this sentence is:‘She thought wrongly that I was just joking.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The word salig ‘to think wrongly’ usually occurs as a bare root, and so may be thought of either as a “defective” verb, or something falling in between the verb and adverb categories. This is in contrast to the verbal root sálig ‘to trust’ (prominence on first syllable). In example \REF{bkm:Ref123650588} it is clear that salig 'to think wrongly' is functioning as a transitive predicate with an ergative Cognizer and a complement clause as the absolutive stimulus, though it carries no inflection.
+A: word: ga-negga	 gloss: I.R-lie
+B: word: salamat	 gloss: thank
+C: word: mag-mati	 gloss: I.IR-hear
+D: word: salíg	 gloss: think.wrongly
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 17:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din na mag-kaan ta sidda na dilis.
+Gloss (with missing item): ___ 3S.ERG LK I.IR-eat NABS fish LK anchovies.
+The English translation of this sentence is:‘She wanted to eat anchovies.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As with other complement taking predicates, pronouns in the complement clause may be omitted when coreferential with the actor/experiencer \REF{bkm:Ref122109526}.
+A: word: pa-mati-an	 gloss: T.R-hear-APL
+B: word: kinangļan	 gloss: need
+C: word: na-liag-an	 gloss: A.HAP.R-like/want-APL
+D: word: liag	 gloss: want
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+

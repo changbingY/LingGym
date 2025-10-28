@@ -1,0 +1,1235 @@
+Question 0:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Daw ino na ___ mga dikurasyon an na mga paniin.
+Gloss (with missing item): if/when what LK ___ PL decoration DEF.M LK PL shells
+The English translation of this sentence is:‘What beauty of the shell decorations!’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref447113409} and \REF{bkm:Ref441302833} illustrate ka{}- nominalizations used as nouns in context:
+A: word: ka-dayad	 gloss: NR-good
+B: word: ka-baskeg	 gloss: NR-strong
+C: word: dayad	 gloss: good
+D: word: man	 gloss: EMPH
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 1:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ∅-atag-an kay ta ___ ta ame na mga lawa para mag--ubra kay...
+Gloss (with missing item): T.IR-give-APL 1P.EXCL.ABS NABS ___ NABS 1P.EXCL.GEN LK PL body for I.IR-work 1P.EXCL.ABS
+The English translation of this sentence is:‘Give us strength for our bodies in order for us to work ...'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref447113409} and \REF{bkm:Ref441302833} illustrate ka{}- nominalizations used as nouns in context:
+A: word: b<in>egkes	 gloss: <NR.RES>bundle
+B: word: ka-dayad	 gloss: NR-good
+C: word: maka-balik	 gloss: I.HAP.IR-return
+D: word: ka-baskeg	 gloss: NR-strong
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Piro ta ___ ta iran na ubra uļa danen na-masmas--i na iran na bata may ka-lain ta beet ki danen.
+Gloss (with missing item): but NABS ___ NABS 3P.GEN LK work NEG.R 3P.ERG A.HAP.R-notice-XC.APL LK 3P.GEN LK child EXT.IN NR-bad NABS inner.being OBL.P 3p
+The English translation of this sentence is:`But in the business of their work they did not notice that their child had bad feelings towards them.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref116398555}{}-\REF{bkm:Ref116398718} illustrate some ka{}-...-én nominalizations in context:
+A: word: naka-sangga	 gloss: I.HAP.R-bump.into
+B: word: ka-laban-an	 gloss: NR-most-NR
+C: word: ka-sàke-én	 gloss: NR-busy-NR
+D: word: karsada	 gloss: road
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 3:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din paryo ta iya na amay.
+Gloss (with missing item): ___ 3S.GEN same NABS 3S.GEN LK father
+The English translation of this sentence is:‘His/her laziness is like his/her father.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref116398555}{}-\REF{bkm:Ref116398718} illustrate some ka{}-...-én nominalizations in context:
+A: word: ka-tamad-én	 gloss: NR-lazy-NR
+B: word: mga	 gloss: PL
+C: word: ga-tambek	 gloss: I.R-fat/healthy
+D: word: ka-sàke-én	 gloss: NR-busy-NR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 4:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ga-kamang a ta kaļaw daw ___ ta ummay na ega.
+Gloss (with missing item): I.R-get 1S.ABS NABS winnowing.basket and ___ NABS unmilled.rice LK dry
+The English translation of this sentence is:`I got a winnowing basket and a container of unmilled rice that was dry.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref106949527} illustrates the verbal root ugsak ‘put inside’ nominalized with -an, to refer to a location.
+A: word: ake	 gloss: 1S.GEN
+B: word: na-pattik-an	 gloss: A.HAP.R-sting-APL
+C: word: ugsak-an	 gloss: put.inside-NR
+D: word: ka-matuod-an	 gloss: NR-true-NR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 5:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): May bata daen appat buok, darwa bai, darwa man mama. Ta, tak ubos en may sawa ___ daen, darwa nang en bilin an baļay en.
+Gloss (with missing item): EXT.IN child 3P.ABS four piece two female two too male so because all CM EXT.IN spouse ___ 3P.GEN two only CM left SPAT.DEF house CM
+The English translation of this sentence is:`They have four children, two female, two male too. So, because all their children have spouses, just (they) two only are left at the house.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Finally, example \REF{bkm:Ref106950024} illustrates the noun bata ‘child’ with -an meaning ‘group of children usually having the same parents’, while \REF{bkm:Ref106950027} illustrates the same root with ka-…-an meaning ‘group of many children’, or ‘youth’, usually having different parents:
+A: word: bata-an	 gloss: child-NR
+B: word: lieg	 gloss: neck
+C: word: ka-bata-an	 gloss: NR-child-NR
+D: word: mag--arey	 gloss: REL-friend
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 6:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Anduni mga bag-o tubo na mga ___ uļa ga-taod ta iran na isigka-ittaw.\footnotemark{}
+Gloss (with missing item): now/today PL new grow LK PL ___ NEG.R I.R-respect NABS 3P.GEN LK fellow-people
+The English translation of this sentence is:`Now/today, the new generation of children do not respect their fellow people.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Finally, example \REF{bkm:Ref106950024} illustrates the noun bata ‘child’ with -an meaning ‘group of children usually having the same parents’, while \REF{bkm:Ref106950027} illustrates the same root with ka-…-an meaning ‘group of many children’, or ‘youth’, usually having different parents:
+A: word: ake	 gloss: 1S.GEN
+B: word: ka-bata-an	 gloss: NR-child-NR
+C: word: bata-an	 gloss: child-NR
+D: word: prugrama	 gloss: program
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 7:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ta Cagayancillo klasi--klasi na mga prutas tampayas puso ta saging, sitaw, bļatong, taļong, kļubay, klabasa\footnotemark{}, nangka daw duma pa na gulay-én.
+Gloss (with missing item): ___ NABS Cagayancillo RED-kind LK PL fruit papaya heart NABS banana yardlong.bean string.bean eggplant bottle.gourd summer.squash jackfruit and other INC LK vegetable-NR
+The English translation of this sentence is:`Cooking vegetables on Cagayancillo, (are) kinds of fruits, papaya, flower (lit. heart) of banana, yardlong beans, string beans, eggplant, bottle gourd, summer squash, jackfruit, and other cooking vegetables.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The suffix -én/-ón can also derive adjectives as described in \chapref{chap:modification}, \sectref{bkm:Ref117512242}. Examples \REF{bkm:Ref116398789} and \REF{bkm:Ref116398793} illustrate some future patient nominalizations from the corpus:
+A: word: gulay	 gloss: vegetables
+B: word: gulay-én	 gloss: vegetables-NR
+C: word: na-abot-an	 gloss: A.HAP.R-arrive-APL
+D: word: nai	 gloss: D1ABS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 8:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Daw luto en iran na ___ mag-tumpok danen daw mag-kaan.
+Gloss (with missing item): if/when cook CM 3P.GEN LK ___ I.IR-gather 3S.ABS and I.IR-eat
+The English translation of this sentence is:‘When what was cooked is already cooked (completely) they gather together and eat.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The nominalizing infix <in> occurs after the first consonant of the root.\footnote{As discussed in Chapter 2, in Kagayanen all words begin with consonants. Words that begin with vowel letters in the orthography actually start with an unwritten glottal stop, which is a full consonant in Kagayanen. So, for example, the verb ambaļ has an initial unwritten glottal stop. The infix <in> occurs after the initial glottal stop to form the word spelled inambaļ.} The resulting noun usually refers to something that is affected by the action or process described by the root (examples \ref{bkm:Ref419299508} and \ref{bkm:Ref419299510}). In this sense, <in> is analogous to a past-participle marker. Unlike \isi{Tagalog} and many other Philippine languages, <in> alone has no function as a Transitivity/Modality marker on inflected verbs. Rather, in Kagayanen the corresponding \isi{inflectional} form is the transitive realis pa{}- (see \chapref{chap:verbstructure}, \sectref{sec:transitiverealis}):
+A: word: sin-ad	 gloss: cook.grain
+B: word: s<in>in-ad	 gloss: <NR.RES>cook.grain
+C: word: s<in>inugba	 gloss: <NR.RES>roast
+D: word: pag-ka-sellem	 gloss: NR.ACT-NR-morning
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 9:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pag--abot nay dya, listo kay eman kaan tak may mga ___ na sidda.
+Gloss (with missing item): NR.ACT-arrive 1P.EXCL.GEN D4LOC quickly 1P.EXCL.ABS again.as.before eat because EXT.IN PL ___ LK fish
+The English translation of this sentence is:`When we arrived there, quickly we ate again because there were some roasted fish.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Like all Kagayanen nouns, nominalizations formed with the infix <in> can function as modifiers (as in \ref{bkm:Ref419299508}). For example, baļad ‘to sun dry’ with <in> becomes binaļad ‘sun dried thing’. This form may occur in the position of a modifier in Referring Phrases, e.g., binaļad na mais ‘sun dried corn’. Examples \REF{bkm:Ref419378020} and \REF{bkm:Ref51233639} are corpus examples illustrating this usage with the roots sugba ‘to roast’ and begkes ‘to bundle’ respectively:
+A: word: tan	 gloss: D3NABS
+B: word: s<in>in-ad	 gloss: <NR.RES>cook.grain
+C: word: s<in>inugba	 gloss: <NR.RES>roast
+D: word: s<in>ugba	 gloss: <NR.RES>-roast
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 10:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ma-simba anay danen an daw mag-prusisyon na daļa a santos na Santo Ninyo pa-libot ta banwa na ga-daļa ta ___ na tanitang.
+Gloss (with missing item): A.HAP.IR-worship first 3P.ABS DEF.M and I.IR-procession LK carry INJ statue LK Holy Child T.R-around NABS town/country LK I.R-carry NABS ___ LK dried.coconut.frond
+The English translation of this sentence is:`They will first go to church and go in a procession carrying the statue, the Holy Child, taking (it) around the town carrying bundled dried coconut fronds.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Like all Kagayanen nouns, nominalizations formed with the infix <in> can function as modifiers (as in \ref{bkm:Ref419299508}). For example, baļad ‘to sun dry’ with <in> becomes binaļad ‘sun dried thing’. This form may occur in the position of a modifier in Referring Phrases, e.g., binaļad na mais ‘sun dried corn’. Examples \REF{bkm:Ref419378020} and \REF{bkm:Ref51233639} are corpus examples illustrating this usage with the roots sugba ‘to roast’ and begkes ‘to bundle’ respectively:
+A: word: t<in>anem	 gloss: <NR.RES>plant
+B: word: t<in>anur-an	 gloss: <NR.RES>care.for-APL
+C: word: b<in>egkes	 gloss: <NR.RES>bundle
+D: word: b<in>uļan	 gloss: <NR.RES>month
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 11:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ta ___ b<in>uļan na ga-ubra mga mama ta simba-an daw iskwila-an ma-lised na uļa angay pangabui ta mga ittaw.
+Gloss (with missing item): NABS ___ <NR.RES>month LK I.R-work PL man NABS worship-NR and go.to.school-NR ADJ-distress LK NEG.R fitting living NABS PL person
+The English translation of this sentence is:‘During the months when the men were working on the church and school (it was) distressing (and) not fitting for the lives of people.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When <in> occurs on nominal roots referring to units of time, the meaning is plural, with (\ref{bkm:Ref419299808} and \ref{bkm:Ref419299809}) or without (\ref{bkm:Ref441664725}) the \isi{plural} marker the morpheme ___:
+A: word: t<in>udlu-an	 gloss: <NR.RES>teach-APL
+B: word: mga	 gloss: PL
+C: word: derse	 gloss: small.PL
+D: word: ga-layag	 gloss: I.R-sail
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 12:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ta mga ___ na ga-ubra mga mama ta simba-an daw iskwila-an ma-lised na uļa angay pangabui ta mga ittaw.
+Gloss (with missing item): NABS PL ___ LK I.R-work PL man NABS worship-NR and go.to.school-NR ADJ-distress LK NEG.R fitting living NABS PL person
+The English translation of this sentence is:‘During the months when the men were working on the church and school (it was) distressing (and) not fitting for the lives of people.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When <in> occurs on nominal roots referring to units of time, the meaning is plural, with (\ref{bkm:Ref419299808} and \ref{bkm:Ref419299809}) or without (\ref{bkm:Ref441664725}) the \isi{plural} marker mga:
+A: word: b<in>uļan	 gloss: <NR.RES>month
+B: word: b<in>egkes	 gloss: <NR.RES>bundle
+C: word: t<in>aon	 gloss: <NR.RES>year
+D: word: ga-ubra	 gloss: I.R-work
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 13:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ta una sa na ___ <in>adlaw panliton i pa-sunod ta maid-id ta mga ittaw ta banwa ta i.
+Gloss (with missing item): NABS first D4NABS LK ___ <NR.RES>day baby.ritual DEF.N T.R-follow NABS well NABS PL person NABS town/country 1P.INCL.GEN DEF.N
+The English translation of this sentence is:`In the first (i.e. early) days the ritual of presenting babies to ancestor spirits the people in our town followed (it) well.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When <in> occurs on nominal roots referring to units of time, the meaning is plural, with (\ref{bkm:Ref419299808} and \ref{bkm:Ref419299809}) or without (\ref{bkm:Ref441664725}) the \isi{plural} marker the morpheme ___:
+A: word: ga-layag	 gloss: I.R-sail
+B: word: derse	 gloss: small.PL
+C: word: u-yi	 gloss: EMPH-D1ADJ
+D: word: mga	 gloss: PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 14:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ta una sa na mga ___ panliton i pa-sunod ta maid-id ta mga ittaw ta banwa ta i.
+Gloss (with missing item): NABS first D4NABS LK PL ___ baby.ritual DEF.N T.R-follow NABS well NABS PL person NABS town/country 1P.INCL.GEN DEF.N
+The English translation of this sentence is:`In the first (i.e. early) days the ritual of presenting babies to ancestor spirits the people in our town followed (it) well.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When <in> occurs on nominal roots referring to units of time, the meaning is plural, with (\ref{bkm:Ref419299808} and \ref{bkm:Ref419299809}) or without (\ref{bkm:Ref441664725}) the \isi{plural} marker mga:
+A: word: <in>adlaw	 gloss: <NR.RES>day
+B: word: adlaw	 gloss: day/sun
+C: word: b<in>uļan	 gloss: <NR.RES>month
+D: word: ubra-én	 gloss: work-NR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 15:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Piro duma ya na ga-lambay ya na ___ dili pa gid segeng na pag--ataki ta apo.
+Gloss (with missing item): but some DEF.F LK I.R-pass.by DEF.F LK ___ NEG.IR INC INT extreme LK NR.ACT-attack NABS asthma
+The English translation of this sentence is:`But other past years it was not yet really an extreme attack of asthma.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When <in> occurs on nominal roots referring to units of time, the meaning is plural, with (\ref{bkm:Ref419299808} and \ref{bkm:Ref419299809}) or without (\ref{bkm:Ref441664725}) the \isi{plural} marker mga:
+A: word: t<in>anem	 gloss: <NR.RES>plant
+B: word: b<in>uļan	 gloss: <NR.RES>month
+C: word: t<in>aon	 gloss: <NR.RES>year
+D: word: pag-ka-sellem	 gloss: NR.ACT-NR-morning
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 16:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ko ya na bata na-uļog ta geddan.
+Gloss (with missing item): ___ 1S.GEN DEF.F LK child A.HAP.R-fall NABS stairs
+The English translation of this sentence is:`The child I cared for fell down the stairs.’ (lit. `my cared for child')
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The infix <in> may combine with the applicative \textit{{}-an}. Only verb roots which require or allow the applicative \nobreakdash-an may be nominalized in this way (see \chapref{chap:stemformingprocesses}, \sectref{sec:applicative-an}). The interpretation of the resulting nominalization depends largely on the nature of the verb root, and is generally consistent with the use of the applicative suffix on Inflected Verbs. For example, as discussed in \chapref{chap:stemformingprocesses}, \sectref{sec:applicative-an}, some transitive verbs require \textit{{}-an} in their normal active-transitive use as main verbs. For this same set of roots, <in>...-an forms a nominalization that refers to the Patient of the verb (\ref{bkm:Ref419300230}-\ref{bkm:Ref419300233}). The stress on such nominalizations is regular---the main stress falls on the penultimate syllable and the secondary stress two syllables to the left.
+A: word: tan	 gloss: D3NABS
+B: word: t<in>anur-an	 gloss: <NR.RES>care.for-APL
+C: word: t<in>anem	 gloss: <NR.RES>plant
+D: word: s<in>akep-an	 gloss: <NR.RES>subjects-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 17:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din na kaoy kamang ta duma na ittaw.
+Gloss (with missing item): ___ 3S.GEN LK tree/wood get NABS other LK person
+The English translation of this sentence is:‘His/her chopped wood another person took (it).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Some roots can take either <in> alone or <in>...-an to form a Patient nominalization (\ref{bkm:Ref419300396} and \ref{bkm:Ref447637695}). With <in> alone the patient is presented as more precise and individuated and in some situations is more directly acted upon than the corresponding form with <in>...-an. This meaning difference is comparable to the difference between pa- and pa-…-an for this same class of roots used as inflected verbs (see \chapref{chap:verbstructure}, \sectref{bkm:Ref448124627}).
+A: word: p<in>etpetan	 gloss: <NR.RES>chop-APL
+B: word: p<in>etpet	 gloss: <NR.RES>chop
+C: word: i-pa-kilala	 gloss: T.DEON-CAUS-know
+D: word: manakem	 gloss: older
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 18:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din na kaoy nabilin din naan\footnotemark{} uma nay.
+Gloss (with missing item): ___ 3S.GEN LK tree/wood A.HAP.R-left 3S.ERG SPAT.DEF field 1P.EXCL.GEN
+The English translation of this sentence is:‘Some of his/her chopped wood s/he happened to leave behind in our field.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Some roots can take either <in> alone or <in>...-an to form a Patient nominalization (\ref{bkm:Ref419300396} and \ref{bkm:Ref447637695}). With <in> alone the patient is presented as more precise and individuated and in some situations is more directly acted upon than the corresponding form with <in>...-an. This meaning difference is comparable to the difference between pa- and pa-…-an for this same class of roots used as inflected verbs (see \chapref{chap:verbstructure}, \sectref{bkm:Ref448124627}).
+A: word: p<in>etpetan	 gloss: <NR.RES>chop-APL
+B: word: p<in>etpet	 gloss: <NR.RES>chop
+C: word: derset	 gloss: small.PL
+D: word: s<in>aksak	 gloss: <NR.RES>chop
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 19:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din an na sayaw dili\footnotemark{} dayad.
+Gloss (with missing item): ___ 3S.GEN DEF.M LK dance NEG.IR good
+The English translation of this sentence is:‘The dance he taught was not good.’ (lit. ‘His/her taught dance ...)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In example \REF{bkm:Ref419380070}, <in> with the verb tudlo ‘teach’ becomes tinudlo referring to what is being taught, which in this example is a dance. In example \REF{bkm:Ref419444251}, <in>...-an with tudlo ‘teach’ becomes tinudluan referring to the recipient of the action, that is, the one taught, which in this example are children.
+A: word: man-o	 gloss: why
+B: word: t<in>udlu-an	 gloss: <NR.RES>teach-APL
+C: word: t<in>udlo	 gloss: <NR.RES>teach
+D: word: ubra-én	 gloss: work-NR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 20:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Yi na ___ ko na mga bata kan-o, ga-tudlo man anduni.
+Gloss (with missing item): D1ABS LK ___ 1S.GEN LK PL child previously I.R-teach also now/today
+The English translation of this sentence is:`These children I taught previously, are teaching also now.’ (lit. ‘My taught children ...”)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In example \REF{bkm:Ref419380070}, <in> with the verb tudlo ‘teach’ becomes tinudlo referring to what is being taught, which in this example is a dance. In example \REF{bkm:Ref419444251}, <in>...-an with tudlo ‘teach’ becomes tinudluan referring to the recipient of the action, that is, the one taught, which in this example are children.
+A: word: s<in>akep-an	 gloss: <NR.RES>subjects-APL
+B: word: t<in>udlo	 gloss: <NR.RES>teach
+C: word: karsada	 gloss: road
+D: word: t<in>udlu-an	 gloss: <NR.RES>teach-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 21:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ eman, ga-panaw kay isab\footnotemark{} na m-iling ta isya na ristaurant.
+Gloss (with missing item): ___ again.as.before I.R-walk/leave 1P.INCL.ABS again LK I.V.IR-go NABS one LK restaurant
+The English translation of this sentence is:`After it became morning again as before, we left again going to a restaurant.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \footnotetext{There are two words glossed as ‘again’ in this example. Eman is the marked member of the pair, and refers to the continuation of an action that was interrupted. Isab expresses no particular sense of continuation. In the context of example \REF{bkm:Ref447656201}, eman would have been semantically appropriate in both positions, however we speculate that having two emans in a row would have sounded odd, so the speaker chose to use isab in the second instance, which is also semantically appropriate.}
+A: word: ka-selled	 gloss: I.EXM-go.inside
+B: word: ame	 gloss: 1P.EXCL.GEN
+C: word: pag-ka-sellem	 gloss: NR.ACT-NR-morning
+D: word: pag-kita	 gloss: NR.ACT-see
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 22:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Isya na adlaw, darwa i na ___ Umang i daw Pwikan, na-ŋ-pasyar naan ta baybay.
+Gloss (with missing item): one LK day two DEF.N LK ___ hermit.crab DEF.N and sea.turtle A.HAP.R-PL-visit SPAT.DEF NABS beach
+The English translation of this sentence is:`One day, the two friends, Hermit Crab and Sea Turtle, went strolling on the beach.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The affix mag{}- with nouns that indicate a human relationship, such as kinship terms and words such as arey ‘friend’, result in a noun that refers to particular persons who are in that relationship. Some of these nouns express reciprocal and others non-reciprocal relationships. For example, mag{}- with utod ‘sibling’ becomes mag-utod ‘siblings (to each other)’ (\ref{bkm:Ref420509881}); mag- with arey ‘friend’ becomes mag-arey meaning ‘friends (to each other)’, (\ref{bkm:Ref420509947}). These are reciprocal relationships, since each member of the relationship is equal---sibling-to-sibling, or friend-to-friend. An example of a non-reciprocal relationship is mag{}- + inay ‘mother’ yielding mag-inay ‘mother and child(ren)’:
+A: word: mag--arey	 gloss: REL-friend
+B: word: arey	 gloss: friend
+C: word: papa	 gloss: Papa
+D: word: mag--ambaļ-anay	 gloss: I.IR-say-REC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 23:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pa-tugtug an ta banda mga tukar an ___ en pugya a.
+Gloss (with missing item): T.R-play.music DEF.M NABS band PL music DEF.M ___ CM long.ago INJ
+The English translation of this sentence is:`The music the band played was the older people’s style of music of long ago.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The prefix king- is added to a nominal root to form a new noun that refers to the ‘style’ or ‘manner’ of the root noun. This is not a common prefix. Example \REF{bkm:Ref116461310} below is the only instance of this prefix in the corpus. The others are all from conversation, or are elicited. Words formed with king- are not adjectives by the definition given in \chapref{chap:modification}, \sectref{sec:adjectives}, because they do not occur with degree adverbs such as sikad ‘very’:
+A: word: ame	 gloss: 1P.EXCL.GEN
+B: word: manakem	 gloss: older
+C: word: king-manakem	 gloss: style/way-older
+D: word: t<in>udlu-an	 gloss: <NR.RES>teach-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 24:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ yaken i.
+Gloss (with missing item): ___ 1S.ABS DEF.N
+The English translation of this sentence is:‘I am originally from Cagayancillo.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The prefix taga{}- forms a noun or modifier that refers to a person who is originally from a location specified in the root. Example \REF{bkm:Ref447688060} is a predicate nominal consisting of a predicate meaning “someone originally from Cagayancillo”, followed by the single Argument:
+A: word: taga-cagayancillo	 gloss: ORIG-Cagayancillo
+B: word: m-kanta	 gloss: I.V.IR-sing
+C: word: karsada	 gloss: road
+D: word: cagayancillo	 gloss: Cagayancillo
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 25:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ yaken i.
+Gloss (with missing item): ___ 1S.ABS DEF.N
+The English translation of this sentence is:‘I am originally from Cagayancillo.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Some writers use a hyphen following taga-, especially when it occurs before a capitalized place name, such as Cagayancillo (\ref{bkm:Ref447688060}) or Negros \REF{ex:negros}. However, this is not consistent \REF{ex:philippines}.
+A: word: man	 gloss: EMPH
+B: word: alas	 gloss: o’clock
+C: word: cagayancillo	 gloss: Cagayancillo
+D: word: taga-cagayancillo	 gloss: ORIG-Cagayancillo
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 26:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pa-atag din sid-anan din an ___ yaken.
+Gloss (with missing item): T.R-give 3S.ERG viand 3S.GEN DEF.M ___ 1s
+The English translation of this sentence is:‘S/he gave his/her viand to me.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \footnotetext{The root for this verb is atag. In conversation, the initial vowel normally drops out when a suffix occurs, though this is optional. In example \REF{bkm:Ref420429206}, below, the initial vowel may not drop out because the verb carries no suffix.}
+A: word: kis-a	 gloss: than
+B: word: ki	 gloss: OBL.P
+C: word: imes	 gloss: prepare
+D: word: b<in>uļan	 gloss: <NR.RES>month
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 27:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ∅-atag-an din ___ i ta sid-anan.
+Gloss (with missing item): T.IR-give-APL 3S.ERG ___ DEF.N NABS viand
+The English translation of this sentence is:‘S/he will give ME some viand.’ (Emphasis on ME.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref419465634} and \REF{bkm:Ref419465636} are identical except that the absolutive case Recipient is expressed with the emphatic pronoun plus demonstrative determiner in \REF{bkm:Ref419465636}. Emphatic pronouns have the same distributional possibilities as full Referring Phrases, while enclitics follow the first major constituent of the immediate phrase. The demonstrative determiner i may be “optional” in this and the following examples, especially in relaxed speech. However, speakers agree that it “sounds better” with the demonstrative determiner:
+A: word: yaken	 gloss: 1S.ABS
+B: word: …-pa-abot	 gloss: T.IR-CAUS-arrive
+C: word: ake	 gloss: 1S.GEN
+D: word: t<in>udlu-an	 gloss: <NR.RES>teach-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 28:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ∅-atag-an din ___ i ta sid-anan.
+Gloss (with missing item): T.IR-give-APL 3S.ERG ___ DEF.N NABS viand
+The English translation of this sentence is:‘S/he will give ME some viand.’ (Emphasis on ME.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref419465634} and \REF{bkm:Ref419465636} are identical except that the absolutive case Recipient is expressed with the emphatic pronoun plus demonstrative determiner in \REF{bkm:Ref419465636}. Emphatic pronouns have the same distributional possibilities as full Referring Phrases, while enclitics follow the first major constituent of the immediate phrase. The demonstrative determiner i may be “optional” in this and the following examples, especially in relaxed speech. However, speakers agree that it “sounds better” with the demonstrative determiner:
+A: word: danen	 gloss: 3P.ABS
+B: word: ake	 gloss: 1S.GEN
+C: word: yaken	 gloss: 1S.ABS
+D: word: pang-swirti-én	 gloss: NR-luck-NR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 29:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ga-atag kay ___ ta sid-anan ki kanen.
+Gloss (with missing item): I.R-give 1P.EXCL.ABS ___ NABS viand OBL.P 3s
+The English translation of this sentence is:‘We ourselves (rather than someone else) gave some viand to him’.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In example \REF{bkm:Ref419117602}, the verb appears in the intransitive form, so the actor kay is the absolutive argument. Therefore the morpheme ___ is not ergative; rather it occurs after the absolutive pronoun of the sthe morpheme ___ person and number to express strong contrast. Example \REF{bkm:Ref419174393} is similar, but with a first person singular actor. In relaxed speech, the a 1\textsc{s.abs} pronoun may elide before ake.
+A: word: ame	 gloss: 1P.EXCL.GEN
+B: word: ate	 gloss: 1P.INCL.GEN
+C: word: pag-tamed	 gloss: NR.ACT-focus.attention
+D: word: t<in>aon	 gloss: <NR.RES>year
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 30:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ga-atag a ___ ta sid-anan ki kanen.
+Gloss (with missing item): I.R-give 1S.ABS ___ NABS viand OBL.P 3s
+The English translation of this sentence is:‘I myself (rather than someone else) gave some viand to him/her.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In example \REF{bkm:Ref419117602}, the verb appears in the intransitive form, so the actor kay is the absolutive argument. Therefore ame is not ergative; rather it occurs after the absolutive pronoun of the same person and number to express strong contrast. Example \REF{bkm:Ref419174393} is similar, but with a first person singular actor. In relaxed speech, the a 1\textsc{s.abs} pronoun may elide before the morpheme ___.
+A: word: yaken	 gloss: 1s
+B: word: iya	 gloss: 3S.GEN
+C: word: ake	 gloss: 1S.GEN
+D: word: derset	 gloss: small.PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 31:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ga-atag kay ___ ta sid-anan ki kanen.
+Gloss (with missing item): I.R-give 1P.EXCL.ABS ___ NABS viand OBL.P 3s
+The English translation of this sentence is:‘We ourselves (rather than someone else) gave some viand to him’.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Free pronoun in Oblique role (see also examples \ref{bkm:Ref419117602} and \ref{bkm:Ref419174393} above) \\
+A: word: ame	 gloss: 1P.EXCL.GEN
+B: word: ate	 gloss: 1P.INCL.GEN
+C: word: pag-tamed	 gloss: NR.ACT-focus.attention
+D: word: t<in>udlu-an	 gloss: <NR.RES>teach-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 32:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ga-atag a ___ ta sid-anan ki kanen.
+Gloss (with missing item): I.R-give 1S.ABS ___ NABS viand OBL.P 3s
+The English translation of this sentence is:‘I myself (rather than someone else) gave some viand to him/her.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Free pronoun in Oblique role (see also examples \ref{bkm:Ref419117602} and \ref{bkm:Ref419174393} above) \\
+A: word: yaken	 gloss: 1s
+B: word: iya	 gloss: 3S.GEN
+C: word: s<in>inugba	 gloss: <NR.RES>roast
+D: word: ake	 gloss: 1S.GEN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 33:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ambaļ ___ “M-larga kon en.”
+Gloss (with missing item): say ___ I.V.IR-depart HSY CM
+The English translation of this sentence is:‘This one said, “(The boat) will depart now".’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The non-absoluthe morpheme ___ve demonstrathe morpheme ___ve pronouns functhe morpheme ___on in ergathe morpheme ___ve (\ref{bkm:Ref419468709} and \ref{bkm:Ref419525739}), or oblique (\ref{bkm:Ref420432602} and \ref{bkm:Ref420432613}) roles. Similarly, they functhe morpheme ___on within Referring Phrases (RPs) in the genithe morpheme ___ve role (\ref{bkm:Ref116482624} and \ref{bkm:Ref420432688}):
+A: word: kulor	 gloss: color
+B: word: gulay-én	 gloss: vegetables-NR
+C: word: ti	 gloss: D1NABS
+D: word: tiset	 gloss: small
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 34:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Lasa ___ sikad na tam-is…
+Gloss (with missing item): taste ___ very LK sweet
+The English translation of this sentence is:‘The taste of that is very sweet…’ (This text is describing a pineapple.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The non-absolutive demonstrative pronouns function in ergative (\ref{bkm:Ref419468709} and \ref{bkm:Ref419525739}), or oblique (\ref{bkm:Ref420432602} and \ref{bkm:Ref420432613}) roles. Similarly, they function within Referring Phrases (RPs) in the genitive role (\ref{bkm:Ref116482624} and \ref{bkm:Ref420432688}):
+A: word: t<in>anur-an	 gloss: <NR.RES>care.for-APL
+B: word: tan	 gloss: D3NABS
+C: word: san	 gloss: D2NABS
+D: word: ga-tan-aw	 gloss: I.R-look
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 35:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Lain man nyan, bao ___ na agas a.
+Gloss (with missing item): bad EMPH D2PR odor ___ LK kerosene INJ
+The English translation of this sentence is:‘That is really bad, the odor of that kerosene.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The non-absolutive demonstrative pronouns function in ergative (\ref{bkm:Ref419468709} and \ref{bkm:Ref419525739}), or oblique (\ref{bkm:Ref420432602} and \ref{bkm:Ref420432613}) roles. Similarly, they function within Referring Phrases (RPs) in the genitive role (\ref{bkm:Ref116482624} and \ref{bkm:Ref420432688}):
+A: word: tan	 gloss: D3NABS
+B: word: bisan	 gloss: any
+C: word: san	 gloss: D2NABS
+D: word: nai	 gloss: D1ABS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 36:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ gid una na suwa ta Cagayan i.
+Gloss (with missing item): ___ INT first LK citrus.fruit NABS Cagayan DEF.N
+The English translation of this sentence is:‘This really is the first citrus fruit on Cagayancillo.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A pre-Head demonstrative adjective may occur alone as an absolutive Referring Expression only when it occurs in pre-predicate position (see examples \ref{bkm:Ref420931966} and \ref{bkm:Ref420931983} below). The usual function of demonstrative adjectives, however, is as pre-Head modifiers of RPs in any case role, in any allowable position.
+A: word: ka-bata-an	 gloss: NR-child-NR
+B: word: u-yi	 gloss: EMPH-D1ABS
+C: word: tan	 gloss: D3NABS
+D: word: t<in>udlu-an	 gloss: <NR.RES>teach-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 37:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ma-sugid ko ki kyo.
+Gloss (with missing item): ___ A.HAP.R-tell 1S.ERG OBL.P 2P.ABS
+The English translation of this sentence is:‘That is what I can tell you.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A pre-Head demonstrative adjective may occur alone as an absolutive Referring Expression only when it occurs in pre-predicate position (see examples \ref{bkm:Ref420931966} and \ref{bkm:Ref420931983} below). The usual function of demonstrative adjectives, however, is as pre-Head modifiers of RPs in any case role, in any allowable position.
+A: word: yon	 gloss: D3ABS
+B: word: nya	 gloss: D4ABS
+C: word: t<in>aon	 gloss: <NR.RES>year
+D: word: tubuyong	 gloss: manioc.flour
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 38:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): lieg ya ___ bata din
+Gloss (with missing item): neck DEF.F ___ child 3S.GEN
+The English translation of this sentence is:‘the neck of his child’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The RP\textsubscript{gen} position may be filled by any genitive case RP, bolded in examples \REF{bkm:Ref447702935}-\REF{bkm:Ref363473619}. Only one expression of a possessor/genitive element modifying the head may occur in any RP. In other words, if a full RP\textsubscript{gen} occurs, enclitic genitives are precluded.
+A: word: ta	 gloss: NABS
+B: word: nusa	 gloss: Nusa
+C: word: tak	 gloss: because
+D: word: mag-damag	 gloss: I.IR-wake
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 39:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): lieg ya ta ___ din
+Gloss (with missing item): neck DEF.F NABS ___ 3S.GEN
+The English translation of this sentence is:‘the neck of his child’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The RP\textsubscript{gen} position may be filled by any genitive case RP, bolded in examples \REF{bkm:Ref447702935}-\REF{bkm:Ref363473619}. Only one expression of a possessor/genitive element modifying the head may occur in any RP. In other words, if a full RP\textsubscript{gen} occurs, enclitic genitives are precluded.
+A: word: bata	 gloss: child
+B: word: na-patay	 gloss: A.HAP.R-dead
+C: word: bata-an	 gloss: child-NR
+D: word: ninyo	 gloss: Child
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 40:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): lieg ya ta bata ___
+Gloss (with missing item): neck DEF.F NABS child ___
+The English translation of this sentence is:‘the neck of his child’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The RP\textsubscript{gen} position may be filled by any genitive case RP, bolded in examples \REF{bkm:Ref447702935}-\REF{bkm:Ref363473619}. Only one expression of a possessor/genitive element modifying the head may occur in any RP. In other words, if a full RP\textsubscript{gen} occurs, enclitic genitives are precluded.
+A: word: ugsak-an	 gloss: put.inside-NR
+B: word: din	 gloss: 3S.GEN
+C: word: iran	 gloss: 3P.GEN
+D: word: din…	 gloss: 3S.GEN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 41:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ta mga ginikanan man ___ mga bag-o tao na bata
+Gloss (with missing item): NABS PL parent too ___ PL new born LK child
+The English translation of this sentence is:‘also parents of newborn children’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The RP\textsubscript{gen} position may be filled by any genitive case RP, bolded in examples \REF{bkm:Ref447702935}-\REF{bkm:Ref363473619}. Only one expression of a possessor/genitive element modifying the head may occur in any RP. In other words, if a full RP\textsubscript{gen} occurs, enclitic genitives are precluded.
+A: word: tak	 gloss: because
+B: word: nusa	 gloss: Nusa
+C: word: ta	 gloss: NABS
+D: word: gulay-én	 gloss: vegetables-NR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 42:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ta mga ginikanan man ta ___ bag-o tao na bata
+Gloss (with missing item): NABS PL parent too NABS ___ new born LK child
+The English translation of this sentence is:‘also parents of newborn children’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The RP\textsubscript{gen} position may be filled by any genitive case RP, bolded in examples \REF{bkm:Ref447702935}-\REF{bkm:Ref363473619}. Only one expression of a possessor/genitive element modifying the head may occur in any RP. In other words, if a full RP\textsubscript{gen} occurs, enclitic genitives are precluded.
+A: word: derse	 gloss: small.PL
+B: word: sidda	 gloss: fish
+C: word: mga	 gloss: PL
+D: word: ga-layag	 gloss: I.R-sail
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 43:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ta mga ginikanan man ta mga ___ tao na bata
+Gloss (with missing item): NABS PL parent too NABS PL ___ born LK child
+The English translation of this sentence is:‘also parents of newborn children’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The RP\textsubscript{gen} position may be filled by any genitive case RP, bolded in examples \REF{bkm:Ref447702935}-\REF{bkm:Ref363473619}. Only one expression of a possessor/genitive element modifying the head may occur in any RP. In other words, if a full RP\textsubscript{gen} occurs, enclitic genitives are precluded.
+A: word: mag-saļep	 gloss: I.IR-sunset
+B: word: pag-dumaļa	 gloss: NR.ACT-rule
+C: word: bag-o	 gloss: new
+D: word: s<in>inugba	 gloss: <NR.RES>roast
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 44:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ta mga ginikanan man ta mga bag-o ___ na bata
+Gloss (with missing item): NABS PL parent too NABS PL new ___ LK child
+The English translation of this sentence is:‘also parents of newborn children’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The RP\textsubscript{gen} position may be filled by any genitive case RP, bolded in examples \REF{bkm:Ref447702935}-\REF{bkm:Ref363473619}. Only one expression of a possessor/genitive element modifying the head may occur in any RP. In other words, if a full RP\textsubscript{gen} occurs, enclitic genitives are precluded.
+A: word: ga-taod	 gloss: I.R-respect
+B: word: bata	 gloss: child
+C: word: tan	 gloss: D3NABS
+D: word: tao	 gloss: born
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 45:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ta mga ginikanan man ta mga bag-o tao ___ bata
+Gloss (with missing item): NABS PL parent too NABS PL new born ___ child
+The English translation of this sentence is:‘also parents of newborn children’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The RP\textsubscript{gen} position may be filled by any genitive case RP, bolded in examples \REF{bkm:Ref447702935}-\REF{bkm:Ref363473619}. Only one expression of a possessor/genitive element modifying the head may occur in any RP. In other words, if a full RP\textsubscript{gen} occurs, enclitic genitives are precluded.
+A: word: na-buong	 gloss: A.HAP.R-shatter
+B: word: na	 gloss: LK
+C: word: ugsak-an	 gloss: put.inside-NR
+D: word: pa-bunaļ	 gloss: T.R-spank
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 46:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ta mga ginikanan man ta mga bag-o tao na ___
+Gloss (with missing item): NABS PL parent too NABS PL new born LK ___
+The English translation of this sentence is:‘also parents of newborn children’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The RP\textsubscript{gen} position may be filled by any genitive case RP, bolded in examples \REF{bkm:Ref447702935}-\REF{bkm:Ref363473619}. Only one expression of a possessor/genitive element modifying the head may occur in any RP. In other words, if a full RP\textsubscript{gen} occurs, enclitic genitives are precluded.
+A: word: bata	 gloss: child
+B: word: ninyo	 gloss: Child
+C: word: s<in>in-ad	 gloss: <NR.RES>cook.grain
+D: word: bata-an	 gloss: child-NR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 47:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ya na duma
+Gloss (with missing item): ___ DEF.F LK companion
+The English translation of this sentence is:‘my companion’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Finally, free genitive pronouns can occur in MOD\textsubscript{1} position (\ref{bkm:Ref447707029}{}-\ref{bkm:Ref343925554}).
+A: word: bata-an	 gloss: child-NR
+B: word: ake	 gloss: 1S.GEN
+C: word: iya	 gloss: 3S.GEN
+D: word: yaken	 gloss: 1s
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 48:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ake ___ na duma
+Gloss (with missing item): 1S.GEN ___ LK companion
+The English translation of this sentence is:‘my companion’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Finally, free genitive pronouns can occur in MOD\textsubscript{1} position (\ref{bkm:Ref447707029}{}-\ref{bkm:Ref343925554}).
+A: word: an…	 gloss: DEF.M
+B: word: ya	 gloss: DEF.F
+C: word: danen	 gloss: 3P.ABS
+D: word: layag	 gloss: sail
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 49:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ na manakem lipo na tise, piro tama na-adlek ki kanen.
+Gloss (with missing item): ___ LK older short LK small but many A.HAP.R-afraid OBL.P 3s
+The English translation of this sentence is:‘This older person is short and small, but many are afraid of her.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Demonstrative adjectives can occur in MOD\textsubscript{1} \REF{bkm:Ref343578428}-\REF{singlewoman}, or in MOD\textsubscript{2} position \REF{bkm:Ref360182922}-\REF{bkm:Ref363547504}. In the following examples, the RP containing a demonstrative is bolded in the text and in its free translation:
+A: word: nya	 gloss: D4ABS
+B: word: karsada	 gloss: road
+C: word: yi	 gloss: D1ABS
+D: word: uyi	 gloss: EMPH.D1ABS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 50:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Yi ___ manakem lipo na tise, piro tama na-adlek ki kanen.
+Gloss (with missing item): D1ABS ___ older short LK small but many A.HAP.R-afraid OBL.P 3s
+The English translation of this sentence is:‘This older person is short and small, but many are afraid of her.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Demonstrative adjectives can occur in MOD\textsubscript{1} \REF{bkm:Ref343578428}-\REF{singlewoman}, or in MOD\textsubscript{2} position \REF{bkm:Ref360182922}-\REF{bkm:Ref363547504}. In the following examples, the RP containing a demonstrative is bolded in the text and in its free translation:
+A: word: na	 gloss: LK
+B: word: na-buong	 gloss: A.HAP.R-shatter
+C: word: ga-ubra	 gloss: I.R-work
+D: word: pa-bunaļ	 gloss: T.R-spank
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 51:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Yi na ___ lipo na tise, piro tama na-adlek ki kanen.
+Gloss (with missing item): D1ABS LK ___ short LK small but many A.HAP.R-afraid OBL.P 3s
+The English translation of this sentence is:‘This older person is short and small, but many are afraid of her.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Demonstrative adjectives can occur in MOD\textsubscript{1} \REF{bkm:Ref343578428}-\REF{singlewoman}, or in MOD\textsubscript{2} position \REF{bkm:Ref360182922}-\REF{bkm:Ref363547504}. In the following examples, the RP containing a demonstrative is bolded in the text and in its free translation:
+A: word: king-manakem	 gloss: style/way-older
+B: word: manakem	 gloss: older
+C: word: bag-o	 gloss: before
+D: word: manong	 gloss: older.brother
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 52:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Manakem ___ kateļ-en.
+Gloss (with missing item): older ___ itchy-ABS
+The English translation of this sentence is:‘That older one was very itchy with sores.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Demonstrative adjectives can occur in MOD\textsubscript{1} \REF{bkm:Ref343578428}-\REF{singlewoman}, or in MOD\textsubscript{2} position \REF{bkm:Ref360182922}-\REF{bkm:Ref363547504}. In the following examples, the RP containing a demonstrative is bolded in the text and in its free translation:
+A: word: b<in>uļan	 gloss: <NR.RES>month
+B: word: layag	 gloss: sail
+C: word: nya	 gloss: D4ABS
+D: word: naya	 gloss: D3ABS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 53:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mangngod ko ___ na sise
+Gloss (with missing item): younger.sibling 1S.GEN ___ LK small
+The English translation of this sentence is:‘this small younger sibling of mine’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Demonstrative adjectives can occur in MOD\textsubscript{1} \REF{bkm:Ref343578428}-\REF{singlewoman}, or in MOD\textsubscript{2} position \REF{bkm:Ref360182922}-\REF{bkm:Ref363547504}. In the following examples, the RP containing a demonstrative is bolded in the text and in its free translation:
+A: word: nai	 gloss: D1ABS
+B: word: na-buong	 gloss: A.HAP.R-shatter
+C: word: manakem	 gloss: older
+D: word: nya	 gloss: D4ABS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 54:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ta ___ man na adlaw sikad kay sadya.
+Gloss (with missing item): NABS ___ too LK day very 1P.EXCL.ABS fun/enjoy
+The English translation of this sentence is:‘On that same day we were very happy.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When a demonstrative occurs in MOD\textsubscript{1}, an intensity, clausal or aspectual adverb such as man ‘also’ may occur after the demonstrative \REF{bkm:Ref342913658}.\footnote{We gloss the adverb man as ‘also’, which adequately captures its main function. However, depending on the context it may express the sense of ‘again’ or ‘same’ (as in example \ref{bkm:Ref342913658}). In other contexts, it may evoke excitement or strong feelings. The same form functions as a conjunction joining two RPs, two clauses or even higher level units. In that usage, it expresses none of the emotional overtones that accompany its adverbial usages.} Other words, including the enclitic demonstrative determiner, numerals, adjectives, free genitive pronouns or enclitic genitive pronouns do not co-occur with demonstratives in the same Referring Phrase (compare \ref{bkm:Ref447708043} and the ungrammatical or extremely awkward examples in \ref{bkm:Ref116485548}):
+A: word: naya	 gloss: D3ABS
+B: word: yo	 gloss: D4ABS
+C: word: ka-sàke-én	 gloss: NR-busy-NR
+D: word: pa-limpyo-an	 gloss: T.R-clean-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 55:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ta yo ___ na adlaw sikad kay sadya.
+Gloss (with missing item): NABS D4ABS ___ LK day very 1P.EXCL.ABS fun/enjoy
+The English translation of this sentence is:‘On that same day we were very happy.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When a demonstrative occurs in MOD\textsubscript{1}, an intensity, clausal or aspectual adverb such as the morpheme ___ ‘also’ may occur after the demonstrative \REF{bkm:Ref342913658}.\footnote{We gloss the adverb the morpheme ___ as ‘also’, which adequately captures its main function. However, depending on the context it may express the sense of ‘again’ or ‘same’ (as in example \ref{bkm:Ref342913658}). In other contexts, it may evoke excitement or strong feelings. The same form functions as a conjunction joining two RPs, two clauses or even higher level units. In that usage, it expresses none of the emotional overtones that accompany its adverbial usages.} Other words, including the enclitic demonstrative determiner, numerals, adjectives, free genitive pronouns or enclitic genitive pronouns do not co-occur with demonstratives in the same Referring Phrase (compare \ref{bkm:Ref447708043} and the ungrammatical or extremely awkward examples in \ref{bkm:Ref116485548}):
+A: word: man	 gloss: too
+B: word: manang	 gloss: older.sister
+C: word: patay-en	 gloss: kill-T.IR
+D: word: ka-bata-an	 gloss: NR-child-NR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 56:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ta yo man ___ adlaw sikad kay sadya.
+Gloss (with missing item): NABS D4ABS too ___ day very 1P.EXCL.ABS fun/enjoy
+The English translation of this sentence is:‘On that same day we were very happy.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When a demonstrative occurs in MOD\textsubscript{1}, an intensity, clausal or aspectual adverb such as man ‘also’ may occur after the demonstrative \REF{bkm:Ref342913658}.\footnote{We gloss the adverb man as ‘also’, which adequately captures its main function. However, depending on the context it may express the sense of ‘again’ or ‘same’ (as in example \ref{bkm:Ref342913658}). In other contexts, it may evoke excitement or strong feelings. The same form functions as a conjunction joining two RPs, two clauses or even higher level units. In that usage, it expresses none of the emotiothe morpheme ___l overtones that accompany its adverbial usages.} Other words, including the enclitic demonstrative determiner, numerals, adjectives, free genitive pronouns or enclitic genitive pronouns do not co-occur with demonstratives in the same Referring Phrase (compare \ref{bkm:Ref447708043} and the ungrammatical or extremely awkward examples in \ref{bkm:Ref116485548}):
+A: word: na	 gloss: LK
+B: word: na-buong	 gloss: A.HAP.R-shatter
+C: word: p<in>etpetan	 gloss: <NR.RES>chop-APL
+D: word: pa-bunaļ	 gloss: T.R-spank
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 57:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ta yo man na ___ sikad kay sadya.
+Gloss (with missing item): NABS D4ABS too LK ___ very 1P.EXCL.ABS fun/enjoy
+The English translation of this sentence is:‘On that same day we were very happy.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When a demonstrative occurs in MOD\textsubscript{1}, an intensity, clausal or aspectual adverb such as man ‘also’ may occur after the demonstrative \REF{bkm:Ref342913658}.\footnote{We gloss the adverb man as ‘also’, which adequately captures its main function. However, depending on the context it may express the sense of ‘again’ or ‘same’ (as in example \ref{bkm:Ref342913658}). In other contexts, it may evoke excitement or strong feelings. The same form functions as a conjunction joining two RPs, two clauses or even higher level units. In that usage, it expresses none of the emotional overtones that accompany its adverbial usages.} Other words, including the enclitic demonstrative determiner, numerals, adjectives, free genitive pronouns or enclitic genitive pronouns do not co-occur with demonstratives in the same Referring Phrase (compare \ref{bkm:Ref447708043} and the ungrammatical or extremely awkward examples in \ref{bkm:Ref116485548}):
+A: word: adlaw	 gloss: day
+B: word: <in>adlaw	 gloss: <NR.RES>day
+C: word: address	 gloss: address
+D: word: mag-damag	 gloss: I.IR-wake
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 58:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ta ___ man na adlaw sikad kay sadya.
+Gloss (with missing item): NABS ___ too LK day very 1P.EXCL.ABS fun/enjoy
+The English translation of this sentence is:‘On that same day we were very happy.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When a demonstrative occurs in MOD\textsubscript{1}, an intensity, clausal or aspectual adverb such as man ‘also’ may occur after the demonstrative \REF{bkm:Ref342913658}.\footnote{We gloss the adverb man as ‘also’, which adequately captures its main function. However, depending on the context it may express the sense of ‘again’ or ‘same’ (as in example \ref{bkm:Ref342913658}). In other contexts, it may evoke excitement or strong feelings. The same form functions as a conjunction joining two RPs, two clauses or even higher level units. In that usage, it expresses none of the emotional overtones that accompany its adverbial usages.} Other words, including the enclitic demonstrative determiner, numerals, adjectives, free genitive pronouns or enclitic genitive pronouns do not co-occur with demonstratives in the same Referring Phrase (compare \ref{bkm:Ref447708043} and the ungrammatical or extremely awkward examples in \ref{bkm:Ref116485548}):
+A: word: darko	 gloss: big.PL
+B: word: pa-limpyo-an	 gloss: T.R-clean-APL
+C: word: naya	 gloss: D3ABS
+D: word: yo	 gloss: D4ABS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 59:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ta yo ___ na adlaw sikad kay sadya.
+Gloss (with missing item): NABS D4ABS ___ LK day very 1P.EXCL.ABS fun/enjoy
+The English translation of this sentence is:‘On that same day we were very happy.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When a demonstrative occurs in MOD\textsubscript{1}, an intensity, clausal or aspectual adverb such as the morpheme ___ ‘also’ may occur after the demonstrative \REF{bkm:Ref342913658}.\footnote{We gloss the adverb the morpheme ___ as ‘also’, which adequately captures its main function. However, depending on the context it may express the sense of ‘again’ or ‘same’ (as in example \ref{bkm:Ref342913658}). In other contexts, it may evoke excitement or strong feelings. The same form functions as a conjunction joining two RPs, two clauses or even higher level units. In that usage, it expresses none of the emotional overtones that accompany its adverbial usages.} Other words, including the enclitic demonstrative determiner, numerals, adjectives, free genitive pronouns or enclitic genitive pronouns do not co-occur with demonstratives in the same Referring Phrase (compare \ref{bkm:Ref447708043} and the ungrammatical or extremely awkward examples in \ref{bkm:Ref116485548}):
+A: word: tao	 gloss: born
+B: word: pa-duma-an	 gloss: T.R-other-APL
+C: word: manang	 gloss: older.sister
+D: word: man	 gloss: too
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 60:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ta yo man ___ adlaw sikad kay sadya.
+Gloss (with missing item): NABS D4ABS too ___ day very 1P.EXCL.ABS fun/enjoy
+The English translation of this sentence is:‘On that same day we were very happy.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When a demonstrative occurs in MOD\textsubscript{1}, an intensity, clausal or aspectual adverb such as man ‘also’ may occur after the demonstrative \REF{bkm:Ref342913658}.\footnote{We gloss the adverb man as ‘also’, which adequately captures its main function. However, depending on the context it may express the sense of ‘again’ or ‘same’ (as in example \ref{bkm:Ref342913658}). In other contexts, it may evoke excitement or strong feelings. The same form functions as a conjunction joining two RPs, two clauses or even higher level units. In that usage, it expresses none of the emotiothe morpheme ___l overtones that accompany its adverbial usages.} Other words, including the enclitic demonstrative determiner, numerals, adjectives, free genitive pronouns or enclitic genitive pronouns do not co-occur with demonstratives in the same Referring Phrase (compare \ref{bkm:Ref447708043} and the ungrammatical or extremely awkward examples in \ref{bkm:Ref116485548}):
+A: word: na	 gloss: LK
+B: word: pa-bunaļ	 gloss: T.R-spank
+C: word: na-buong	 gloss: A.HAP.R-shatter
+D: word: ubra-én	 gloss: work-NR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 61:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ta yo man na ___ sikad kay sadya.
+Gloss (with missing item): NABS D4ABS too LK ___ very 1P.EXCL.ABS fun/enjoy
+The English translation of this sentence is:‘On that same day we were very happy.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When a demonstrative occurs in MOD\textsubscript{1}, an intensity, clausal or aspectual adverb such as man ‘also’ may occur after the demonstrative \REF{bkm:Ref342913658}.\footnote{We gloss the adverb man as ‘also’, which adequately captures its main function. However, depending on the context it may express the sense of ‘again’ or ‘same’ (as in example \ref{bkm:Ref342913658}). In other contexts, it may evoke excitement or strong feelings. The same form functions as a conjunction joining two RPs, two clauses or even higher level units. In that usage, it expresses none of the emotional overtones that accompany its adverbial usages.} Other words, including the enclitic demonstrative determiner, numerals, adjectives, free genitive pronouns or enclitic genitive pronouns do not co-occur with demonstratives in the same Referring Phrase (compare \ref{bkm:Ref447708043} and the ungrammatical or extremely awkward examples in \ref{bkm:Ref116485548}):
+A: word: adlaw	 gloss: day
+B: word: ∅-bantay-an	 gloss: T.IRwatch/guard-APL
+C: word: <in>adlaw	 gloss: <NR.RES>day
+D: word: danen	 gloss: 3P.ABS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 62:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Manakem ___ kateļ-en.
+Gloss (with missing item): older ___ itchy-ABS
+The English translation of this sentence is:‘That older one was very itchy with sores.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A demonstrative may occur in MOD\textsubscript{2} (\ref{bkm:Ref360182922}-\ref{bkm:Ref363547504}), rather than MOD\textsubscript{1}. An enclitic genitive pronoun, mostly first person singular ko, and a postposed adjective may co-occur in the same Referring Phrase (\ref{bkm:Ref447709205} and \ref{bkm:Ref363547504}), but not a numeral, preposed adjective, free genitive pronoun or an enclitic demonstrative determiner (\ref{bkm:Ref447709215}). The linker na does not occur between the postposed demonstrative and the head since the postposed demonstratives are contractions of the linker na plus the basic demonstrative.
+A: word: p<in>etpet	 gloss: <NR.RES>chop
+B: word: layag	 gloss: sail
+C: word: naya	 gloss: D3ABS
+D: word: nya	 gloss: D4ABS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 63:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mangngod ko ___ na sise
+Gloss (with missing item): younger.sibling 1S.GEN ___ LK small
+The English translation of this sentence is:‘this small younger sibling of mine’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A demonstrative may occur in MOD\textsubscript{2} (\ref{bkm:Ref360182922}-\ref{bkm:Ref363547504}), rather than MOD\textsubscript{1}. An enclitic genitive pronoun, mostly first person singular ko, and a postposed adjective may co-occur in the same Referring Phrase (\ref{bkm:Ref447709205} and \ref{bkm:Ref363547504}), but not a numeral, preposed adjective, free genitive pronoun or an enclitic demonstrative determiner (\ref{bkm:Ref447709215}). The linker na does not occur between the postposed demonstrative and the head since the postposed demonstratives are contractions of the linker na plus the basic demonstrative.
+A: word: din	 gloss: 3S.ERG
+B: word: na-buong	 gloss: A.HAP.R-shatter
+C: word: nya	 gloss: D4ABS
+D: word: nai	 gloss: D1ABS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 64:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Gumangken ko ___ ga-pa-dugang gid ta abilidad din…
+Gloss (with missing item): niece/nephew 1S.GEN ___ I.R-CAUS-add INT NABS ability 3S.GEN
+The English translation of this sentence is:`This nephew of mine really added to his ability…’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A demonstrative may occur in MOD\textsubscript{2} (\ref{bkm:Ref360182922}-\ref{bkm:Ref363547504}), rather than MOD\textsubscript{1}. An enclitic genitive pronoun, mostly first person singular ko, and a postposed adjective may co-occur in the same Referring Phrase (\ref{bkm:Ref447709205} and \ref{bkm:Ref363547504}), but not a numeral, preposed adjective, free genitive pronoun or an enclitic demonstrative determiner (\ref{bkm:Ref447709215}). The linker na does not occur between the postposed demonstrative and the head since the postposed demonstratives are contractions of the linker na plus the basic demonstrative.
+A: word: nya	 gloss: D4ABS
+B: word: nai	 gloss: D1ABS
+C: word: t<in>udlo	 gloss: <NR.RES>teach
+D: word: na-buong	 gloss: A.HAP.R-shatter
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 65:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mangngod ko ___ na sise
+Gloss (with missing item): younger.sibling 1S.GEN ___ LK small
+The English translation of this sentence is:‘this small younger sibling of mine’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A demonstrative may occur in MOD\textsubscript{2} (\ref{bkm:Ref360182922}-\ref{bkm:Ref363547504}), rather than MOD\textsubscript{1}. An enclitic genitive pronoun, mostly first person singular ko, and a postposed adjective may co-occur in the same Referring Phrase (\ref{bkm:Ref447709205} and \ref{bkm:Ref363547504}), but not a numeral, preposed adjective, free genitive pronoun or an enclitic demonstrative determiner (\ref{bkm:Ref447709215}). The linker na does not occur between the postposed demonstrative and the head since the postposed demonstratives are contractions of the linker na plus the basic demonstrative.
+A: word: taga-cagayancillo	 gloss: ORIG-Cagayancillo
+B: word: nai	 gloss: D1ABS
+C: word: na-buong	 gloss: A.HAP.R-shatter
+D: word: nya	 gloss: D4ABS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 66:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Uļa en ___ ta mga na-patay
+Gloss (with missing item): NEG.R CM ___ NABS PL A.HAP.R-die
+The English translation of this sentence is:‘There was no one who will attend the wake of the ones who had died.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since participant nominalizations may have arguments, some linguists may describe them as (headless) relative clauses (see \chapref{chap:clausecombining}, \sectref{sec:relativeclauses}). The ambitransitive affixes (na{}- and ma-) create a noun that refers to the S or O argument of the verb (na- twice in example \ref{bkm:Ref447709957} and once in example \ref{bkm:Ref447710237}). Intransitive affixes create a noun that refers to the S (ga{}- in examples \ref{bkm:Ref447709957}, \ref{bkm:Ref417973067}, \ref{bkm:Ref417973212}, and mag{}- in \ref{bkm:Ref447710237}). Finally, the applicative plus transitive affixation forms a noun that refers to an applied O argument (\ref{bkm:Ref363550595}).
+A: word: mag-saļep	 gloss: I.IR-sunset
+B: word: mag-damag	 gloss: I.IR-wake
+C: word: ga-bugtaw	 gloss: I.R-wake.up
+D: word: gulay-én	 gloss: vegetables-NR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 67:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Uļa en mag-damag ___ mga na-patay
+Gloss (with missing item): NEG.R CM I.IR-wake ___ PL A.HAP.R-die
+The English translation of this sentence is:‘There was no one who will attend the wake of the ones who had died.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since participant nominalizations may have arguments, some linguists may describe them as (headless) relative clauses (see \chapref{chap:clausecombining}, \sectref{sec:relativeclauses}). The ambitransitive affixes (na{}- and ma-) create a noun that refers to the S or O argument of the verb (na- twice in example \ref{bkm:Ref447709957} and once in example \ref{bkm:Ref447710237}). Intransitive affixes create a noun that refers to the S (ga{}- in examples \ref{bkm:Ref447709957}, \ref{bkm:Ref417973067}, \ref{bkm:Ref417973212}, and mag{}- in \ref{bkm:Ref447710237}). Finally, the applicative plus transitive affixation forms a noun that refers to an applied O argument (\ref{bkm:Ref363550595}).
+A: word: tak	 gloss: because
+B: word: p<in>etpetan	 gloss: <NR.RES>chop-APL
+C: word: nusa	 gloss: Nusa
+D: word: ta	 gloss: NABS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 68:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Uļa en mag-damag ta ___ na-patay
+Gloss (with missing item): NEG.R CM I.IR-wake NABS ___ A.HAP.R-die
+The English translation of this sentence is:‘There was no one who will attend the wake of the ones who had died.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since participant nominalizations may have arguments, some linguists may describe them as (headless) relative clauses (see \chapref{chap:clausecombining}, \sectref{sec:relativeclauses}). The ambitransitive affixes (na{}- and ma-) create a noun that refers to the S or O argument of the verb (na- twice in example \ref{bkm:Ref447709957} and once in example \ref{bkm:Ref447710237}). Intransitive affixes create a noun that refers to the S (ga{}- in examples \ref{bkm:Ref447709957}, \ref{bkm:Ref417973067}, \ref{bkm:Ref417973212}, and mag{}- in \ref{bkm:Ref447710237}). Finally, the applicative plus transitive affixation forms a noun that refers to an applied O argument (\ref{bkm:Ref363550595}).
+A: word: derse	 gloss: small.PL
+B: word: ga-layag	 gloss: I.R-sail
+C: word: mga	 gloss: PL
+D: word: bag-o	 gloss: before
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 69:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Uļa en mag-damag ta mga ___
+Gloss (with missing item): NEG.R CM I.IR-wake NABS PL ___
+The English translation of this sentence is:‘There was no one who will attend the wake of the ones who had died.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since participant nominalizations may have arguments, some linguists may describe them as (headless) relative clauses (see \chapref{chap:clausecombining}, \sectref{sec:relativeclauses}). The ambitransitive affixes (na{}- and ma-) create a noun that refers to the S or O argument of the verb (na- twice in example \ref{bkm:Ref447709957} and once in example \ref{bkm:Ref447710237}). Intransitive affixes create a noun that refers to the S (ga{}- in examples \ref{bkm:Ref447709957}, \ref{bkm:Ref417973067}, \ref{bkm:Ref417973212}, and mag{}- in \ref{bkm:Ref447710237}). Finally, the applicative plus transitive affixation forms a noun that refers to an applied O argument (\ref{bkm:Ref363550595}).
+A: word: u-yi	 gloss: EMPH-D1ADJ
+B: word: pa-patay	 gloss: T.R-die
+C: word: mari	 gloss: godmother
+D: word: na-patay	 gloss: A.HAP.R-die
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 70:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pag--abot nay ___ ga-ubra ta karsada dayon din angad operator ya daw ambaļ-en ta Visaya na ambaļ...
+Gloss (with missing item): NR.ACT-arrive 1P.EXCL.GEN ___ I.R-work NABS road right.away 3S.ERG look.up operator DEF.F and say-T.IR NABS Visayan LK say
+The English translation of this sentence is:`When we arrived at the one working on the road, then he looked up at the operator (of the construction machinery) and said in the Visayan language…’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since participant nominalizations may have arguments, some linguists may describe them as (headless) relative clauses (see \chapref{chap:clausecombining}, \sectref{sec:relativeclauses}). The ambitransitive affixes (na{}- and ma-) create a noun that refers to the S or O argument of the verb (na- twice in example \ref{bkm:Ref447709957} and once in example \ref{bkm:Ref447710237}). Intransitive affixes create a noun that refers to the S (ga{}- in examples \ref{bkm:Ref447709957}, \ref{bkm:Ref417973067}, \ref{bkm:Ref417973212}, and mag{}- in \ref{bkm:Ref447710237}). Finally, the applicative plus transitive affixation forms a noun that refers to an applied O argument (\ref{bkm:Ref363550595}).
+A: word: ta	 gloss: NABS
+B: word: na-patay	 gloss: A.HAP.R-dead
+C: word: tak	 gloss: because
+D: word: nusa	 gloss: Nusa
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 71:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pag--abot nay ta ___ ta karsada dayon din angad operator ya daw ambaļ-en ta Visaya na ambaļ...
+Gloss (with missing item): NR.ACT-arrive 1P.EXCL.GEN NABS ___ NABS road right.away 3S.ERG look.up operator DEF.F and say-T.IR NABS Visayan LK say
+The English translation of this sentence is:`When we arrived at the one working on the road, then he looked up at the operator (of the construction machinery) and said in the Visayan language…’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since participant nominalizations may have arguments, some linguists may describe them as (headless) relative clauses (see \chapref{chap:clausecombining}, \sectref{sec:relativeclauses}). The ambitransitive affixes (na{}- and ma-) create a noun that refers to the S or O argument of the verb (na- twice in example \ref{bkm:Ref447709957} and once in example \ref{bkm:Ref447710237}). Intransitive affixes create a noun that refers to the S (ga{}- in examples \ref{bkm:Ref447709957}, \ref{bkm:Ref417973067}, \ref{bkm:Ref417973212}, and mag{}- in \ref{bkm:Ref447710237}). Finally, the applicative plus transitive affixation forms a noun that refers to an applied O argument (\ref{bkm:Ref363550595}).
+A: word: ga-ubra	 gloss: I.R-work
+B: word: ka-dayad	 gloss: NR-good
+C: word: pa-pa-ubra	 gloss: T.R-CAUS-work
+D: word: ga-tabyang	 gloss: I.R-help
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 72:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pag--abot nay ta ga-ubra ___ karsada dayon din angad operator ya daw ambaļ-en ta Visaya na ambaļ...
+Gloss (with missing item): NR.ACT-arrive 1P.EXCL.GEN NABS I.R-work ___ road right.away 3S.ERG look.up operator DEF.F and say-T.IR NABS Visayan LK say
+The English translation of this sentence is:`When we arrived at the one working on the road, then he looked up at the operator (of the construction machinery) and said in the Visayan language…’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since participant nominalizations may have arguments, some linguists may describe them as (headless) relative clauses (see \chapref{chap:clausecombining}, \sectref{sec:relativeclauses}). The ambitransitive affixes (na{}- and ma-) create a noun that refers to the S or O argument of the verb (na- twice in example \ref{bkm:Ref447709957} and once in example \ref{bkm:Ref447710237}). Intransitive affixes create a noun that refers to the S (ga{}- in examples \ref{bkm:Ref447709957}, \ref{bkm:Ref417973067}, \ref{bkm:Ref417973212}, and mag{}- in \ref{bkm:Ref447710237}). Finally, the applicative plus transitive affixation forms a noun that refers to an applied O argument (\ref{bkm:Ref363550595}).
+A: word: ta	 gloss: NABS
+B: word: nusa	 gloss: Nusa
+C: word: tao	 gloss: born
+D: word: tak	 gloss: because
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 73:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pag--abot nay ta ga-ubra ta ___ dayon din angad operator ya daw ambaļ-en ta Visaya na ambaļ...
+Gloss (with missing item): NR.ACT-arrive 1P.EXCL.GEN NABS I.R-work NABS ___ right.away 3S.ERG look.up operator DEF.F and say-T.IR NABS Visayan LK say
+The English translation of this sentence is:`When we arrived at the one working on the road, then he looked up at the operator (of the construction machinery) and said in the Visayan language…’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since participant nominalizations may have arguments, some linguists may describe them as (headless) relative clauses (see \chapref{chap:clausecombining}, \sectref{sec:relativeclauses}). The ambitransitive affixes (na{}- and ma-) create a noun that refers to the S or O argument of the verb (na- twice in example \ref{bkm:Ref447709957} and once in example \ref{bkm:Ref447710237}). Intransitive affixes create a noun that refers to the S (ga{}- in examples \ref{bkm:Ref447709957}, \ref{bkm:Ref417973067}, \ref{bkm:Ref417973212}, and mag{}- in \ref{bkm:Ref447710237}). Finally, the applicative plus transitive affixation forms a noun that refers to an applied O argument (\ref{bkm:Ref363550595}).
+A: word: karsada	 gloss: road
+B: word: pag-ka-sellem	 gloss: NR.ACT-NR-morning
+C: word: granada	 gloss: grenade
+D: word: madyo	 gloss: far
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 74:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Daw mga pamilya ___ na-patay an ga-sake ta imes ta mga ubra-én paryas ta kaoy na buat-en na kabaong.
+Gloss (with missing item): and PL family ___ A.HAP.R-die DEF.M I.R-busy NABS prepare NABS PL work-NR like NABS wood LK make-T.IR LK coffin
+The English translation of this sentence is:`And the family of the one who died are busy preparing for the work that will be done, such as the wood to make a coffin.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since participant nominalizations may have arguments, some linguists may describe them as (headless) relative clauses (see \chapref{chap:clausecombining}, \sectref{sec:relativeclauses}). The ambitransitive affixes (na{}- and ma-) create a noun that refers to the S or O argument of the verb (na- twice in example \ref{bkm:Ref447709957} and once in example \ref{bkm:Ref447710237}). Intransitive affixes create a noun that refers to the S (ga{}- in examples \ref{bkm:Ref447709957}, \ref{bkm:Ref417973067}, \ref{bkm:Ref417973212}, and mag{}- in \ref{bkm:Ref447710237}). Finally, the applicative plus transitive affixation forms a noun that refers to an applied O argument (\ref{bkm:Ref363550595}).
+A: word: nusa	 gloss: Nusa
+B: word: tak	 gloss: because
+C: word: ta	 gloss: NABS
+D: word: ga-ubra	 gloss: I.R-work
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 75:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Daw mga pamilya ta ___ an ga-sake ta imes ta mga ubra-én paryas ta kaoy na buat-en na kabaong.
+Gloss (with missing item): and PL family NABS ___ DEF.M I.R-busy NABS prepare NABS PL work-NR like NABS wood LK make-T.IR LK coffin
+The English translation of this sentence is:`And the family of the one who died are busy preparing for the work that will be done, such as the wood to make a coffin.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since participant nominalizations may have arguments, some linguists may describe them as (headless) relative clauses (see \chapref{chap:clausecombining}, \sectref{sec:relativeclauses}). The ambitransitive affixes (na{}- and ma-) create a noun that refers to the S or O argument of the verb (na- twice in example \ref{bkm:Ref447709957} and once in example \ref{bkm:Ref447710237}). Intransitive affixes create a noun that refers to the S (ga{}- in examples \ref{bkm:Ref447709957}, \ref{bkm:Ref417973067}, \ref{bkm:Ref417973212}, and mag{}- in \ref{bkm:Ref447710237}). Finally, the applicative plus transitive affixation forms a noun that refers to an applied O argument (\ref{bkm:Ref363550595}).
+A: word: na-patay	 gloss: A.HAP.R-die
+B: word: taga-cagayancillo	 gloss: ORIG-Cagayancillo
+C: word: maka-iskwila	 gloss: I.HAP.IR-school
+D: word: pa-patay	 gloss: T.R-die
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 76:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Daw mga pamilya ta na-patay ___ ga-sake ta imes ta mga ubra-én paryas ta kaoy na buat-en na kabaong.
+Gloss (with missing item): and PL family NABS A.HAP.R-die ___ I.R-busy NABS prepare NABS PL work-NR like NABS wood LK make-T.IR LK coffin
+The English translation of this sentence is:`And the family of the one who died are busy preparing for the work that will be done, such as the wood to make a coffin.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since participthe morpheme ___t nominalizations may have arguments, some linguists may describe them as (headless) relative clauses (see \chapref{chap:clausecombining}, \sectref{sec:relativeclauses}). The ambitrthe morpheme ___sitive affixes (na{}- the morpheme ___d ma-) create a noun that refers to the S or O argument of the verb (na- twice in example \ref{bkm:Ref447709957} the morpheme ___d once in example \ref{bkm:Ref447710237}). Intrthe morpheme ___sitive affixes create a noun that refers to the S (ga{}- in examples \ref{bkm:Ref447709957}, \ref{bkm:Ref417973067}, \ref{bkm:Ref417973212}, the morpheme ___d mag{}- in \ref{bkm:Ref447710237}). Finally, the applicative plus trthe morpheme ___sitive affixation forms a noun that refers to the morpheme ___ applied O argument (\ref{bkm:Ref363550595}).
+A: word: u-yi	 gloss: EMPH-D1ADJ
+B: word: ya"	 gloss: DEF.F
+C: word: an	 gloss: DEF.M
+D: word: nang	 gloss: only/just
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 77:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Daw mga pamilya ta na-patay an ga-sake ta imes ___ mga ubra-én paryas ta kaoy na buat-en na kabaong.
+Gloss (with missing item): and PL family NABS A.HAP.R-die DEF.M I.R-busy NABS prepare ___ PL work-NR like NABS wood LK make-T.IR LK coffin
+The English translation of this sentence is:`And the family of the one who died are busy preparing for the work that will be done, such as the wood to make a coffin.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since participant nominalizations may have arguments, some linguists may describe them as (headless) relative clauses (see \chapref{chap:clausecombining}, \sectref{sec:relativeclauses}). The ambitransitive affixes (na{}- and ma-) create a noun that refers to the S or O argument of the verb (na- twice in example \ref{bkm:Ref447709957} and once in example \ref{bkm:Ref447710237}). Intransitive affixes create a noun that refers to the S (ga{}- in examples \ref{bkm:Ref447709957}, \ref{bkm:Ref417973067}, \ref{bkm:Ref417973212}, and mag{}- in \ref{bkm:Ref447710237}). Finally, the applicative plus transitive affixation forms a noun that refers to an applied O argument (\ref{bkm:Ref363550595}).
+A: word: derset	 gloss: small.PL
+B: word: nusa	 gloss: Nusa
+C: word: tak	 gloss: because
+D: word: ta	 gloss: NABS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 78:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Daw mga pamilya ta na-patay an ga-sake ta imes ta ___ ubra-én paryas ta kaoy na buat-en na kabaong.
+Gloss (with missing item): and PL family NABS A.HAP.R-die DEF.M I.R-busy NABS prepare NABS ___ work-NR like NABS wood LK make-T.IR LK coffin
+The English translation of this sentence is:`And the family of the one who died are busy preparing for the work that will be done, such as the wood to make a coffin.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since participant nominalizations may have arguments, some linguists may describe them as (headless) relative clauses (see \chapref{chap:clausecombining}, \sectref{sec:relativeclauses}). The ambitransitive affixes (na{}- and ma-) create a noun that refers to the S or O argument of the verb (na- twice in example \ref{bkm:Ref447709957} and once in example \ref{bkm:Ref447710237}). Intransitive affixes create a noun that refers to the S (ga{}- in examples \ref{bkm:Ref447709957}, \ref{bkm:Ref417973067}, \ref{bkm:Ref417973212}, and mag{}- in \ref{bkm:Ref447710237}). Finally, the applicative plus transitive affixation forms a noun that refers to an applied O argument (\ref{bkm:Ref363550595}).
+A: word: mga	 gloss: PL
+B: word: derse	 gloss: small.PL
+C: word: ga-layag	 gloss: I.R-sail
+D: word: ubra-én	 gloss: work-NR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 79:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Daw mga pamilya ta na-patay an ga-sake ta imes ta mga ___ paryas ta kaoy na buat-en na kabaong.
+Gloss (with missing item): and PL family NABS A.HAP.R-die DEF.M I.R-busy NABS prepare NABS PL ___ like NABS wood LK make-T.IR LK coffin
+The English translation of this sentence is:`And the family of the one who died are busy preparing for the work that will be done, such as the wood to make a coffin.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since participant nominalizations may have arguments, some linguists may describe them as (headless) relative clauses (see \chapref{chap:clausecombining}, \sectref{sec:relativeclauses}). The ambitransitive affixes (na{}- and ma-) create a noun that refers to the S or O argument of the verb (na- twice in example \ref{bkm:Ref447709957} and once in example \ref{bkm:Ref447710237}). Intransitive affixes create a noun that refers to the S (ga{}- in examples \ref{bkm:Ref447709957}, \ref{bkm:Ref417973067}, \ref{bkm:Ref417973212}, and mag{}- in \ref{bkm:Ref447710237}). Finally, the applicative plus transitive affixation forms a noun that refers to an applied O argument (\ref{bkm:Ref363550595}).
+A: word: ubra	 gloss: work
+B: word: mag-ubra	 gloss: I.IR-work/make
+C: word: ubra-én	 gloss: work-NR
+D: word: tao	 gloss: born
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 80:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Uļa en ___ ta mga na-patay
+Gloss (with missing item): NEG.R CM ___ NABS PL A.HAP.R-die
+The English translation of this sentence is:‘There was no one who will attend the wake of the ones who had died.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since participant nominalizations may have arguments, some linguists may describe them as (headless) relative clauses (see \chapref{chap:clausecombining}, \sectref{sec:relativeclauses}). The ambitransitive affixes (na{}- and ma-) create a noun that refers to the S or O argument of the verb (na- twice in example \ref{bkm:Ref447709957} and once in example \ref{bkm:Ref447710237}). Intransitive affixes create a noun that refers to the S (ga{}- in examples \ref{bkm:Ref447709957}, \ref{bkm:Ref417973067}, \ref{bkm:Ref417973212}, and mag{}- in \ref{bkm:Ref447710237}). Finally, the applicative plus transitive affixation forms a noun that refers to an applied O argument (\ref{bkm:Ref363550595}).
+A: word: mag-saļep	 gloss: I.IR-sunset
+B: word: mag-damag	 gloss: I.IR-wake
+C: word: ga-bugtaw	 gloss: I.R-wake.up
+D: word: nai	 gloss: D1ABS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 81:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Uļa en mag-damag ___ mga na-patay
+Gloss (with missing item): NEG.R CM I.IR-wake ___ PL A.HAP.R-die
+The English translation of this sentence is:‘There was no one who will attend the wake of the ones who had died.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since participant nominalizations may have arguments, some linguists may describe them as (headless) relative clauses (see \chapref{chap:clausecombining}, \sectref{sec:relativeclauses}). The ambitransitive affixes (na{}- and ma-) create a noun that refers to the S or O argument of the verb (na- twice in example \ref{bkm:Ref447709957} and once in example \ref{bkm:Ref447710237}). Intransitive affixes create a noun that refers to the S (ga{}- in examples \ref{bkm:Ref447709957}, \ref{bkm:Ref417973067}, \ref{bkm:Ref417973212}, and mag{}- in \ref{bkm:Ref447710237}). Finally, the applicative plus transitive affixation forms a noun that refers to an applied O argument (\ref{bkm:Ref363550595}).
+A: word: nusa	 gloss: Nusa
+B: word: tak	 gloss: because
+C: word: ta	 gloss: NABS
+D: word: san	 gloss: D2NABS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 82:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Uļa en mag-damag ta ___ na-patay
+Gloss (with missing item): NEG.R CM I.IR-wake NABS ___ A.HAP.R-die
+The English translation of this sentence is:‘There was no one who will attend the wake of the ones who had died.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since participant nominalizations may have arguments, some linguists may describe them as (headless) relative clauses (see \chapref{chap:clausecombining}, \sectref{sec:relativeclauses}). The ambitransitive affixes (na{}- and ma-) create a noun that refers to the S or O argument of the verb (na- twice in example \ref{bkm:Ref447709957} and once in example \ref{bkm:Ref447710237}). Intransitive affixes create a noun that refers to the S (ga{}- in examples \ref{bkm:Ref447709957}, \ref{bkm:Ref417973067}, \ref{bkm:Ref417973212}, and mag{}- in \ref{bkm:Ref447710237}). Finally, the applicative plus transitive affixation forms a noun that refers to an applied O argument (\ref{bkm:Ref363550595}).
+A: word: mga	 gloss: PL
+B: word: ga-layag	 gloss: I.R-sail
+C: word: derse	 gloss: small.PL
+D: word: pag-ka-sellem	 gloss: NR.ACT-NR-morning
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 83:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Uļa en mag-damag ta mga ___
+Gloss (with missing item): NEG.R CM I.IR-wake NABS PL ___
+The English translation of this sentence is:‘There was no one who will attend the wake of the ones who had died.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since participant nominalizations may have arguments, some linguists may describe them as (headless) relative clauses (see \chapref{chap:clausecombining}, \sectref{sec:relativeclauses}). The ambitransitive affixes (na{}- and ma-) create a noun that refers to the S or O argument of the verb (na- twice in example \ref{bkm:Ref447709957} and once in example \ref{bkm:Ref447710237}). Intransitive affixes create a noun that refers to the S (ga{}- in examples \ref{bkm:Ref447709957}, \ref{bkm:Ref417973067}, \ref{bkm:Ref417973212}, and mag{}- in \ref{bkm:Ref447710237}). Finally, the applicative plus transitive affixation forms a noun that refers to an applied O argument (\ref{bkm:Ref363550595}).
+A: word: na-patay	 gloss: A.HAP.R-die
+B: word: pa-patay	 gloss: T.R-die
+C: word: ga-layag	 gloss: I.R-sail
+D: word: b<in>uļan	 gloss: <NR.RES>month
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 84:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Uļa\~uļa-an ___ pirmi tampek ta pantad.
+Gloss (with missing item): RED\~spill/drain/pour-APL ___ always pack.on NABS sand
+The English translation of this sentence is:‘Sand was always packed on where liquid drains out.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since participthe morpheme ___t nominalizations may have arguments, some linguists may describe them as (headless) relative clauses (see \chapref{chap:clausecombining}, \sectref{sec:relativeclauses}). The ambitrthe morpheme ___sitive affixes (na{}- the morpheme ___d ma-) create a noun that refers to the S or O argument of the verb (na- twice in example \ref{bkm:Ref447709957} the morpheme ___d once in example \ref{bkm:Ref447710237}). Intrthe morpheme ___sitive affixes create a noun that refers to the S (ga{}- in examples \ref{bkm:Ref447709957}, \ref{bkm:Ref417973067}, \ref{bkm:Ref417973212}, the morpheme ___d mag{}- in \ref{bkm:Ref447710237}). Finally, the applicative plus trthe morpheme ___sitive affixation forms a noun that refers to the morpheme ___ applied O argument (\ref{bkm:Ref363550595}).
+A: word: an	 gloss: DEF.M
+B: word: nang	 gloss: only/just
+C: word: ya"	 gloss: DEF.F
+D: word: yon	 gloss: D3ADJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 85:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Kamusta nang en ___ danen Maria.
+Gloss (with missing item): greeting only CM ___ 3P Maria
+The English translation of this sentence is:‘Greetings to Maria and companions.’ (The word nang ‘only’ in this example indicates politeness.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Personal names can be marked for plural with plural pronouns, in which case the RP refers to the person named and some group of associates, for example, danen Maria `Maria and them/family/companions/associates', danen Papa `Dad and them/family/companions/associates' (see \sectref{sec:referringphrasesheadedbypersonalnames}, examples \ref{bkm:Ref53060834} and \ref{bkm:Ref343578640}). Referring Phrases can also be pluralized with numerals, quantifiers, collective nouns, and with two adjectives that have specialized plural forms – sise/siset ‘small’, derse/derset ‘small.\textsc{pl}’ (\ref{bkm:Ref447720514}), and bakod ‘big’, darko ‘big.\textsc{pl}’ (examples \ref{bkm:Ref447720545} and \ref{bkm:Ref447720547}). Collections or groups can also be specified morphologically, for example, bata ‘child’, bataan ‘group of children usually with the same parents’ kabataan ‘groups or many children usually having different parents’ (see \sectref{sec:ka-an} above). The plural marker mga is optional when there is a plural form of a numeral, quantifier or adjective:
+A: word: ki	 gloss: OBL.P
+B: word: u-yi	 gloss: EMPH-D1ADJ
+C: word: ga-alin	 gloss: I.R-from
+D: word: kis-a	 gloss: than
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 86:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Kamusta nang en ki ___ Maria.
+Gloss (with missing item): greeting only CM OBL.P ___ Maria
+The English translation of this sentence is:‘Greetings to Maria and companions.’ (The word nang ‘only’ in this example indicates politeness.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Personal names can be marked for plural with plural pronouns, in which case the RP refers to the person named and some group of associates, for example, the morpheme ___ Maria `Maria and them/family/companions/associates', the morpheme ___ Papa `Dad and them/family/companions/associates' (see \sectref{sec:referringphrasesheadedbypersonalnames}, examples \ref{bkm:Ref53060834} and \ref{bkm:Ref343578640}). Referring Phrases can also be pluralized with numerals, quantifiers, collective nouns, and with two adjectives that have specialized plural forms – sise/siset ‘small’, derse/derset ‘small.\textsc{pl}’ (\ref{bkm:Ref447720514}), and bakod ‘big’, darko ‘big.\textsc{pl}’ (examples \ref{bkm:Ref447720545} and \ref{bkm:Ref447720547}). Collections or groups can also be specified morphologically, for example, bata ‘child’, bataan ‘group of children usually with the same parents’ kabataan ‘groups or many children usually having different parents’ (see \sectref{sec:ka-an} above). The plural marker mga is optional when there is a plural form of a numeral, quantifier or adjective:
+A: word: danen	 gloss: 3P
+B: word: kanen	 gloss: 3S.ABS
+C: word: biskeg	 gloss: strong
+D: word: ka-bata-an	 gloss: NR-child-NR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 87:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Na\footnotemark{} ∅-abot kay en naan ta baļay, ga-tingaļa en ___ Papa tak ubos kay ta basa.
+Gloss (with missing item): LK I.R-arrive 1P.EXCL.ABS CM SPAT.DEF NABS house I.R-wonder CM ___ Papa because all 1P.EXCL.ABS NABS wet
+The English translation of this sentence is:`When we arrived at the house, Papa and companions were wondering because all of us were wet.’ CBWN-C-10 4.42
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Personal names can be marked for plural with plural pronouns, in which case the RP refers to the person named and some group of associates, for example, the morpheme ___ Maria `Maria and them/family/companions/associates', the morpheme ___ Papa `Dad and them/family/companions/associates' (see \sectref{sec:referringphrasesheadedbypersonalnames}, examples \ref{bkm:Ref53060834} and \ref{bkm:Ref343578640}). Referring Phrases can also be pluralized with numerals, quantifiers, collective nouns, and with two adjectives that have specialized plural forms – sise/siset ‘small’, derse/derset ‘small.\textsc{pl}’ (\ref{bkm:Ref447720514}), and bakod ‘big’, darko ‘big.\textsc{pl}’ (examples \ref{bkm:Ref447720545} and \ref{bkm:Ref447720547}). Collections or groups can also be specified morphologically, for example, bata ‘child’, bataan ‘group of children usually with the same parents’ kabataan ‘groups or many children usually having different parents’ (see \sectref{sec:ka-an} above). The plural marker mga is optional when there is a plural form of a numeral, quantifier or adjective:
+A: word: taga-cagayancillo	 gloss: ORIG-Cagayancillo
+B: word: danen	 gloss: 3P.ABS
+C: word: kanen	 gloss: 3S.ABS
+D: word: ka-sàke-én	 gloss: NR-busy-NR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 88:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Na\footnotemark{} ∅-abot kay en naan ta baļay, ga-tingaļa en danen ___ tak ubos kay ta basa.
+Gloss (with missing item): LK I.R-arrive 1P.EXCL.ABS CM SPAT.DEF NABS house I.R-wonder CM 3P.ABS ___ because all 1P.EXCL.ABS NABS wet
+The English translation of this sentence is:`When we arrived at the house, Papa and companions were wondering because all of us were wet.’ CBWN-C-10 4.42
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Personal names can be marked for plural with plural pronouns, in which case the RP refers to the person named and some group of associates, for example, danen Maria `Maria and them/family/companions/associates', danen its gloss ___ `Dad and them/family/companions/associates' (see \sectref{sec:referringphrasesheadedbypersonalnames}, examples \ref{bkm:Ref53060834} and \ref{bkm:Ref343578640}). Referring Phrases can also be pluralized with numerals, quantifiers, collective nouns, and with two adjectives that have specialized plural forms – sise/siset ‘small’, derse/derset ‘small.\textsc{pl}’ (\ref{bkm:Ref447720514}), and bakod ‘big’, darko ‘big.\textsc{pl}’ (examples \ref{bkm:Ref447720545} and \ref{bkm:Ref447720547}). Collections or groups can also be specified morphologically, for example, bata ‘child’, bataan ‘group of children usually with the same parents’ kabataan ‘groups or many children usually having different parents’ (see \sectref{sec:ka-an} above). The plural marker mga is optional when there is a plural form of a numeral, quantifier or adjective:
+A: word: apang	 gloss: but
+B: word: mag-damag	 gloss: I.IR-wake
+C: word: papa	 gloss: Papa
+D: word: tampayas	 gloss: papaya
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 89:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Tapos ∅-lungag-an ta ___ na lungag para maka-singngaw daw mag-sikaļ waig an.
+Gloss (with missing item): then T.IR-hole-APL NABS ___ LK hole PURP I.CAUS.HAP.IR-evaporate if/when I.IR-boil water DEF.M
+The English translation of this sentence is:`Then make small holes (in the can) for the purpose of the water evaporating out when boiling.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Personal names can be marked for plural with plural pronouns, in which case the RP refers to the person named and some group of associates, for example, danen Maria `Maria and them/family/companions/associates', danen Papa `Dad and them/family/companions/associates' (see \sectref{sec:referringphrasesheadedbypersonalnames}, examples \ref{bkm:Ref53060834} and \ref{bkm:Ref343578640}). Referring Phrases can also be pluralized with numerals, quantifiers, collective nouns, and with two adjectives that have specialized plural forms – sise/siset ‘small’, derse/the morpheme ___ ‘small.\textsc{pl}’ (\ref{bkm:Ref447720514}), and bakod ‘big’, darko ‘big.\textsc{pl}’ (examples \ref{bkm:Ref447720545} and \ref{bkm:Ref447720547}). Collections or groups can also be specified morphologically, for example, bata ‘child’, bataan ‘group of children usually with the same parents’ kabataan ‘groups or many children usually having different parents’ (see \sectref{sec:ka-an} above). The plural marker mga is optional when there is a plural form of a numeral, quantifier or adjective:
+A: word: derset	 gloss: small.PL
+B: word: tiset	 gloss: small
+C: word: bata-an	 gloss: child-NR
+D: word: derse	 gloss: small.PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 90:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Tapos ∅-lungag-an ta derset ___ lungag para maka-singngaw daw mag-sikaļ waig an.
+Gloss (with missing item): then T.IR-hole-APL NABS small.PL ___ hole PURP I.CAUS.HAP.IR-evaporate if/when I.IR-boil water DEF.M
+The English translation of this sentence is:`Then make small holes (in the can) for the purpose of the water evaporating out when boiling.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Persothe morpheme ___l the morpheme ___mes can be marked for plural with plural pronouns, in which case the RP refers to the person the morpheme ___med and some group of associates, for example, danen Maria `Maria and them/family/companions/associates', danen Papa `Dad and them/family/companions/associates' (see \sectref{sec:referringphrasesheadedbypersothe morpheme ___lthe morpheme ___mes}, examples \ref{bkm:Ref53060834} and \ref{bkm:Ref343578640}). Referring Phrases can also be pluralized with numerals, quantifiers, collective nouns, and with two adjectives that have specialized plural forms – sise/siset ‘small’, derse/derset ‘small.\textsc{pl}’ (\ref{bkm:Ref447720514}), and bakod ‘big’, darko ‘big.\textsc{pl}’ (examples \ref{bkm:Ref447720545} and \ref{bkm:Ref447720547}). Collections or groups can also be specified morphologically, for example, bata ‘child’, bataan ‘group of children usually with the same parents’ kabataan ‘groups or many children usually having different parents’ (see \sectref{sec:ka-an} above). The plural marker mga is optiothe morpheme ___l when there is a plural form of a numeral, quantifier or adjective:
+A: word: pa-bunaļ	 gloss: T.R-spank
+B: word: na-buong	 gloss: A.HAP.R-shatter
+C: word: ka-baskeg	 gloss: NR-strong
+D: word: na	 gloss: LK
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 91:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Tapos ∅-lungag-an ta derset na ___ para maka-singngaw daw mag-sikaļ waig an.
+Gloss (with missing item): then T.IR-hole-APL NABS small.PL LK ___ PURP I.CAUS.HAP.IR-evaporate if/when I.IR-boil water DEF.M
+The English translation of this sentence is:`Then make small holes (in the can) for the purpose of the water evaporating out when boiling.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Personal names can be marked for plural with plural pronouns, in which case the RP refers to the person named and some group of associates, for example, danen Maria `Maria and them/family/companions/associates', danen Papa `Dad and them/family/companions/associates' (see \sectref{sec:referringphrasesheadedbypersonalnames}, examples \ref{bkm:Ref53060834} and \ref{bkm:Ref343578640}). Referring Phrases can also be pluralized with numerals, quantifiers, collective nouns, and with two adjectives that have specialized plural forms – sise/siset ‘small’, derse/derset ‘small.\textsc{pl}’ (\ref{bkm:Ref447720514}), and bakod ‘big’, darko ‘big.\textsc{pl}’ (examples \ref{bkm:Ref447720545} and \ref{bkm:Ref447720547}). Collections or groups can also be specified morphologically, for example, bata ‘child’, bataan ‘group of children usually with the same parents’ kabataan ‘groups or many children usually having different parents’ (see \sectref{sec:ka-an} above). The plural marker mga is optional when there is a plural form of a numeral, quantifier or adjective:
+A: word: lungag	 gloss: hole
+B: word: saļangan	 gloss: passageway
+C: word: manakem	 gloss: older
+D: word: lungag…	 gloss: hole
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 92:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Unsi bilog na ___ na sidda igo nang ∅-layung-an ta appat na bata-an.
+Gloss (with missing item): eleven round LK ___ LK fish right just T.IR-carry.on.pole-APL NABS four LK child-NR
+The English translation of this sentence is:`Eleven big fish is just right for four children to carry between them (on a pole over the shoulders).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Personal names can be marked for plural with plural pronouns, in which case the RP refers to the person named and some group of associates, for example, danen Maria `Maria and them/family/companions/associates', danen Papa `Dad and them/family/companions/associates' (see \sectref{sec:referringphrasesheadedbypersonalnames}, examples \ref{bkm:Ref53060834} and \ref{bkm:Ref343578640}). Referring Phrases can also be pluralized with numerals, quantifiers, collective nouns, and with two adjectives that have specialized plural forms – sise/siset ‘small’, derse/derset ‘small.\textsc{pl}’ (\ref{bkm:Ref447720514}), and bakod ‘big’, the morpheme ___ ‘big.\textsc{pl}’ (examples \ref{bkm:Ref447720545} and \ref{bkm:Ref447720547}). Collections or groups can also be specified morphologically, for example, bata ‘child’, bataan ‘group of children usually with the same parents’ kabataan ‘groups or many children usually having different parents’ (see \sectref{sec:ka-an} above). The plural marker mga is optional when there is a plural form of a numeral, quantifier or adjective:
+A: word: darko	 gloss: big.PL
+B: word: na-patay	 gloss: A.HAP.R-dead
+C: word: darwa	 gloss: two
+D: word: bakod	 gloss: big
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 93:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Unsi bilog na darko ___ sidda igo nang ∅-layung-an ta appat na bata-an.
+Gloss (with missing item): eleven round LK big.PL ___ fish right just T.IR-carry.on.pole-APL NABS four LK child-NR
+The English translation of this sentence is:`Eleven big fish is just right for four children to carry between them (on a pole over the shoulders).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Persothe morpheme ___l the morpheme ___mes can be marked for plural with plural pronouns, in which case the RP refers to the person the morpheme ___med and some group of associates, for example, danen Maria `Maria and them/family/companions/associates', danen Papa `Dad and them/family/companions/associates' (see \sectref{sec:referringphrasesheadedbypersothe morpheme ___lthe morpheme ___mes}, examples \ref{bkm:Ref53060834} and \ref{bkm:Ref343578640}). Referring Phrases can also be pluralized with numerals, quantifiers, collective nouns, and with two adjectives that have specialized plural forms – sise/siset ‘small’, derse/derset ‘small.\textsc{pl}’ (\ref{bkm:Ref447720514}), and bakod ‘big’, darko ‘big.\textsc{pl}’ (examples \ref{bkm:Ref447720545} and \ref{bkm:Ref447720547}). Collections or groups can also be specified morphologically, for example, bata ‘child’, bataan ‘group of children usually with the same parents’ kabataan ‘groups or many children usually having different parents’ (see \sectref{sec:ka-an} above). The plural marker mga is optiothe morpheme ___l when there is a plural form of a numeral, quantifier or adjective:
+A: word: danen	 gloss: 3P.ABS
+B: word: na-buong	 gloss: A.HAP.R-shatter
+C: word: na	 gloss: LK
+D: word: pa-bunaļ	 gloss: T.R-spank
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 94:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Unsi bilog na darko na ___ igo nang ∅-layung-an ta appat na bata-an.
+Gloss (with missing item): eleven round LK big.PL LK ___ right just T.IR-carry.on.pole-APL NABS four LK child-NR
+The English translation of this sentence is:`Eleven big fish is just right for four children to carry between them (on a pole over the shoulders).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Personal names can be marked for plural with plural pronouns, in which case the RP refers to the person named and some group of associates, for example, danen Maria `Maria and them/family/companions/associates', danen Papa `Dad and them/family/companions/associates' (see \sectref{sec:referringphrasesheadedbypersonalnames}, examples \ref{bkm:Ref53060834} and \ref{bkm:Ref343578640}). Referring Phrases can also be pluralized with numerals, quantifiers, collective nouns, and with two adjectives that have specialized plural forms – sise/siset ‘small’, derse/derset ‘small.\textsc{pl}’ (\ref{bkm:Ref447720514}), and bakod ‘big’, darko ‘big.\textsc{pl}’ (examples \ref{bkm:Ref447720545} and \ref{bkm:Ref447720547}). Collections or groups can also be specified morphologically, for example, bata ‘child’, bataan ‘group of children usually with the same parents’ kabataan ‘groups or many children usually having different parents’ (see \sectref{sec:ka-an} above). The plural marker mga is optional when there is a plural form of a numeral, quantifier or adjective:
+A: word: na-leddang	 gloss: A.HAP.R-sink
+B: word: ka-subbad	 gloss: I.HAP-catch.fish
+C: word: sidda	 gloss: fish
+D: word: s<in>inugba	 gloss: <NR.RES>roast
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+

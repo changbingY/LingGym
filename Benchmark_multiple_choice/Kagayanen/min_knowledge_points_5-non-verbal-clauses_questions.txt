@@ -1,0 +1,13 @@
+Question 0:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ki kanen kalaw no an.
+Gloss (with missing item): ___ OBL.P 3s winnow.basket 2S.GEN DEF.M
+The English translation of this sentence is:‘S/he has your winnowing basket.’ (lit. ‘Your winnowing basket is with/on/at him/her.’)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The locational non-verbal construction serves as the basis for the second type of predicative possession. This is an instance of the “locational possessive”\is{locational possessive constructions} type \citep[47]{stassen2009}, which is the most common type exhibited in the languages in Stassen’s sample. In Kagayanen, the locational possessive construction normally expresses \isi{temporary possession}. The predicate of this construction consists of a locative phrase initiated by the spatial demonstrative the morpheme ___, with idiolectical variants yaan and nyaan ({\ref{bkm:Ref251934246}-\ref{ex:elementaryschool}}). Naan is the most common variant of the \isi{spatial demonstrative}, followed by yaan, and then nyaan. There are no examples of nyaan in locational possessive constructions in the corpus. All variants are equivalent in meaning and can be substituted for one another in the following examples. A thorough study is needed to determine any sociolinguistic or topolectical patterns to their usages.
+A: word: pag-kaan	 gloss: NR.ACT-eat
+B: word: naan	 gloss: SPAT.DEF
+C: word: gasakay	 gloss: I.R-ride
+D: word: ya"	 gloss: DEF.F
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+

@@ -1,0 +1,572 @@
+Question 0:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ubra ta ake na amay ___ nang daw ma-kwa ta guso ma-ng-tanem, ma-ng-uma.
+Gloss (with missing item): work NABS 1S.GEN LK father ___ only/just and A.HAP.IR-whachamacallit NABS seaweed A.HAP.IR-PL-plant A.HAP.IR-PL-field
+The English translation of this sentence is:`The work of my father is to spear fish, to whatchamacallit, to plant agar-agar seaweed, to farm.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The verb tanem ‘to plant’, as in examples \REF{bkm:Ref447198515} and \REF{bkm:Ref444336178}, often takes the pluraction prefix. This is because planting necessarily involves multiple, repetitive actions. Thus, even if one person is planting, the pluraction prefix may be used (example \ref{bkm:Ref447198515}). A verb may optionally take the pluraction prefix when several actors perform the same intransitive action individually (examples \ref{bkm:Ref444336178} and \ref{bkm:Ref394988295}):
+A: word: ma-bali	 gloss: A.HAP.IR-break
+B: word: tunaw-en	 gloss: dissolve-T.IR
+C: word: ga-ng-tampara	 gloss: I.R-PL-goggles
+D: word: ma-ng-tampara	 gloss: A.HAP.IR-PL-goggles
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 1:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ubra ta ake na amay ma-ng-tampara nang daw ma-kwa ta guso ___ ma-ng-uma.
+Gloss (with missing item): work NABS 1S.GEN LK father A.HAP.IR-PL-goggles only/just and A.HAP.IR-whachamacallit NABS seaweed ___ A.HAP.IR-PL-field
+The English translation of this sentence is:`The work of my father is to spear fish, to whatchamacallit, to plant agar-agar seaweed, to farm.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The verb tanem ‘to plant’, as in examples \REF{bkm:Ref447198515} and \REF{bkm:Ref444336178}, often takes the pluraction prefix. This is because planting necessarily involves multiple, repetitive actions. Thus, even if one person is planting, the pluraction prefix may be used (example \ref{bkm:Ref447198515}). A verb may optionally take the pluraction prefix when several actors perform the same intransitive action individually (examples \ref{bkm:Ref444336178} and \ref{bkm:Ref394988295}):
+A: word: ma-ng-tanem	 gloss: A.HAP.IR-PL-plant
+B: word: ga-ng-tanem	 gloss: I.R-PL-plant
+C: word: pa-panno-an	 gloss: T.R-fill-APL
+D: word: na-tanem-an	 gloss: A.HAP.R-plant-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 2:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Tapos duma an ___ ta guso tak uļa iskwila.
+Gloss (with missing item): then other DEF.M ___ NABS seaweed because NEG.R school
+The English translation of this sentence is:‘Then the other (students) were planting agar-agar seaweed because there is no school (in session).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The verb tanem ‘to plant’, as in examples \REF{bkm:Ref447198515} and \REF{bkm:Ref444336178}, often takes the pluraction prefix. This is because planting necessarily involves multiple, repetitive actions. Thus, even if one person is planting, the pluraction prefix may be used (example \ref{bkm:Ref447198515}). A verb may optionally take the pluraction prefix when several actors perform the same intransitive action individually (examples \ref{bkm:Ref444336178} and \ref{bkm:Ref394988295}):
+A: word: ma-ng-tanem	 gloss: A.HAP.IR-PL-plant
+B: word: ga-tanem	 gloss: T.R-plant
+C: word: ga-ng-tanem	 gloss: I.R-PL-plant
+D: word: pa-tunaw-en	 gloss: CAUS-dissolve-T.IR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 3:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ubra ta ake na amay ___ nang daw ma-kwa ta guso ma-ng-tanem, ma-ng-uma.
+Gloss (with missing item): work NABS 1S.GEN LK father ___ only/just and A.HAP.IR-whachamacallit NABS seaweed A.HAP.IR-PL-plant A.HAP.IR-PL-field
+The English translation of this sentence is:`The work of my father is to spear fish, to whatchamacallit, to plant agar-agar seaweed, to farm.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The verb tanem ‘to plant’, as in examples \REF{bkm:Ref447198515} and \REF{bkm:Ref444336178}, often takes the pluraction prefix. This is because planting necessarily involves multiple, repetitive actions. Thus, even if one person is planting, the pluraction prefix may be used (example \ref{bkm:Ref447198515}). A verb may optionally take the pluraction prefix when several actors perform the same intransitive action individually (examples \ref{bkm:Ref444336178} and \ref{bkm:Ref394988295}):
+A: word: ma-ng-tampara	 gloss: A.HAP.IR-PL-goggles
+B: word: ka-darwa	 gloss: ORD-two
+C: word: ga-ng-tampara	 gloss: I.R-PL-goggles
+D: word: ga-palangga-ay	 gloss: I.R-love-REC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 4:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ubra ta ake na amay ma-ng-tampara nang daw ma-kwa ta guso ___ ma-ng-uma.
+Gloss (with missing item): work NABS 1S.GEN LK father A.HAP.IR-PL-goggles only/just and A.HAP.IR-whachamacallit NABS seaweed ___ A.HAP.IR-PL-field
+The English translation of this sentence is:`The work of my father is to spear fish, to whatchamacallit, to plant agar-agar seaweed, to farm.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The verb tanem ‘to plant’, as in examples \REF{bkm:Ref447198515} and \REF{bkm:Ref444336178}, often takes the pluraction prefix. This is because planting necessarily involves multiple, repetitive actions. Thus, even if one person is planting, the pluraction prefix may be used (example \ref{bkm:Ref447198515}). A verb may optionally take the pluraction prefix when several actors perform the same intransitive action individually (examples \ref{bkm:Ref444336178} and \ref{bkm:Ref394988295}):
+A: word: ma-ng-tanem	 gloss: A.HAP.IR-PL-plant
+B: word: ga-ng-tanem	 gloss: I.R-PL-plant
+C: word: na-panno-an	 gloss: A.HAP.R-fill-APL
+D: word: na-tanem-an	 gloss: A.HAP.R-plant-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 5:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Tapos duma an ___ ta guso tak uļa iskwila.
+Gloss (with missing item): then other DEF.M ___ NABS seaweed because NEG.R school
+The English translation of this sentence is:‘Then the other (students) were planting agar-agar seaweed because there is no school (in session).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The verb tanem ‘to plant’, as in examples \REF{bkm:Ref447198515} and \REF{bkm:Ref444336178}, often takes the pluraction prefix. This is because planting necessarily involves multiple, repetitive actions. Thus, even if one person is planting, the pluraction prefix may be used (example \ref{bkm:Ref447198515}). A verb may optionally take the pluraction prefix when several actors perform the same intransitive action individually (examples \ref{bkm:Ref444336178} and \ref{bkm:Ref394988295}):
+A: word: ma-ng-tanem	 gloss: A.HAP.IR-PL-plant
+B: word: pa-panno-an	 gloss: T.R-fill-APL
+C: word: ga-tanem	 gloss: T.R-plant
+D: word: ga-ng-tanem	 gloss: I.R-PL-plant
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 6:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ubra ta ake na amay ___ nang daw ma-kwa ta guso ma-ng-tanem, ma-ng-uma.
+Gloss (with missing item): work NABS 1S.GEN LK father ___ only/just and A.HAP.IR-whachamacallit NABS seaweed A.HAP.IR-PL-plant A.HAP.IR-PL-field
+The English translation of this sentence is:`The work of my father is to spear fish, to whatchamacallit, to plant agar-agar seaweed, to farm.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since pluractionality is only expressed in grammatically intransitive constructions, it does not occur with the transitive, realis pa{}-. When it occurs with the ambitransitive happenstantial prefixes, na{}- and ma{}-, the construction must be understood as grammatically intransitive (see examples \ref{bkm:Ref447198515} and \ref{bkm:Ref444336178} above).
+A: word: pag-pa-dayon	 gloss: NR.ACT-CAUS-continue
+B: word: ga-ng-tampara	 gloss: I.R-PL-goggles
+C: word: ma-ng-tampara	 gloss: A.HAP.IR-PL-goggles
+D: word: ga-palangga-ay	 gloss: I.R-love-REC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 7:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ubra ta ake na amay ma-ng-tampara nang daw ma-kwa ta guso ___ ma-ng-uma.
+Gloss (with missing item): work NABS 1S.GEN LK father A.HAP.IR-PL-goggles only/just and A.HAP.IR-whachamacallit NABS seaweed ___ A.HAP.IR-PL-field
+The English translation of this sentence is:`The work of my father is to spear fish, to whatchamacallit, to plant agar-agar seaweed, to farm.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since pluractionality is only expressed in grammatically intransitive constructions, it does not occur with the transitive, realis pa{}-. When it occurs with the ambitransitive happenstantial prefixes, na{}- and ma{}-, the construction must be understood as grammatically intransitive (see examples \ref{bkm:Ref447198515} and \ref{bkm:Ref444336178} above).
+A: word: ga-ng-tanem	 gloss: I.R-PL-plant
+B: word: na-tanem-an	 gloss: A.HAP.R-plant-APL
+C: word: na-panno-an	 gloss: A.HAP.R-fill-APL
+D: word: ma-ng-tanem	 gloss: A.HAP.IR-PL-plant
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 8:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Tapos duma an ___ ta guso tak uļa iskwila.
+Gloss (with missing item): then other DEF.M ___ NABS seaweed because NEG.R school
+The English translation of this sentence is:‘Then the other (students) were planting agar-agar seaweed because there is no school (in session).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since pluractionality is only expressed in grammatically intransitive constructions, it does not occur with the transitive, realis pa{}-. When it occurs with the ambitransitive happenstantial prefixes, na{}- and ma{}-, the construction must be understood as grammatically intransitive (see examples \ref{bkm:Ref447198515} and \ref{bkm:Ref444336178} above).
+A: word: ga-ng-tanem	 gloss: I.R-PL-plant
+B: word: pa-lebbeng	 gloss: T.R-bury
+C: word: ga-tanem	 gloss: T.R-plant
+D: word: ma-ng-tanem	 gloss: A.HAP.IR-PL-plant
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 9:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Sunod i eman na mga adlaw sidda na utang\sim{}utang ___ isab.
+Gloss (with missing item): next DEF.N again.as.before LK PL day/sun fish LK RED\simborrow.money ___ again
+The English translation of this sentence is:`The next days again, as before, the fish (called) always-debting was able again to make debts.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In example \REF{bkm:Ref394988618} the pluraction prefix is used on the verb utang ‘to borrow money’ because this fish was in the habit of making debts, and in the discourse context he enabled himself to make many debts again by changing his appearance:
+A: word: na-ŋ-pasyar	 gloss: A.HAP.R-PL-visit
+B: word: na-ng-utang	 gloss: A.HAP.R-PL-borrow.money
+C: word: ga-ng-tampara	 gloss: I.R-PL-goggles
+D: word: pa-lebbeng-an	 gloss: T.R-bury-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 10:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ta nanay din suman an kani.
+Gloss (with missing item): ___ NABS mother 3SGEN sticky.rice.cake DEF.M later
+The English translation of this sentence is:‘His/her mother will cook the sticky rice cake later.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The stem-forming prefix pa{}- adds a causative sense to any verb root. The result is an inherently transitive stem that can then be inflected with any of the inflectional affixes discussed in \chapref{chap:verbstructure}. Such morphological causatives are discussed from a function-first perspective, along with other types of causatives, in \chapref{chap:voice}, \sectref{sec:causatives}. Examples \REF{bkm:Ref397062399} and \REF{bkm:Ref444336543} illustrate dynamic non-causative and corresponding causative constructions:
+A: word: luto-en	 gloss: cook-T.IR
+B: word: ∅-luto-an	 gloss: T.IR-cook-APL
+C: word: pa-luto-en	 gloss: CAUS-cook-T.IR
+D: word: na-ng-utang	 gloss: A.HAP.R-PL-borrow.money
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 11:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ kanen ta nanay din ta suman kani.
+Gloss (with missing item): ___ 3S.ABS NABS mother 3S.GEN NABS sticky.rice.cake later
+The English translation of this sentence is:‘His/her mother will have him/her cook the sticky rice cake later.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \footnotetext{The detransitive (actor voice) construction is often used when an ergative element needs to occur in the absolutive form for purposes of relativization, or, as in this elicited example based on example \REF{bkm:Ref395074775}, when the causer is fronted for contrastive/focal prominence (see \chapref{chap:voice}, \sectref{sec:causatives}).}
+A: word: pa-luto-en	 gloss: CAUS-cook-T.IR
+B: word: pa-leddang-en	 gloss: CAUS-sink-T.IR
+C: word: ma-ng-tampara	 gloss: A.HAP.IR-PL-goggles
+D: word: pa-luto	 gloss: T.R-cook
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 12:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ko antibiotic ya.
+Gloss (with missing item): ___ 1S.ERG antibiotics DEF.F
+The English translation of this sentence is:‘I took the antibiotics.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Although the verb forms are identical in examples \REF{bkm:Ref362342951} and \REF{bkm:Ref122954287}, \REF{bkm:Ref122954287} is clearly the causative because of the construction in which it appears. The midwife is the ergative case agent of cause, and the speaker is the absolutive case causee. As a non-causative this would have to mean ‘The midwife took me (as medicine)’, which is pragmatically nonsensical. Furthermore, the verb form papatumar, with both pa{}- prefixes present, may replace the verb in \REF{bkm:Ref122954287} but not in \REF{bkm:Ref362342951}. When both prefixes occur, the effect is to make the causative notion more forceful or more direct. The causer is the one initiating and forcing the causee to perform the action either with words, threats of punishment or physical force. The causee does not have a choice to perform the action or not.
+A: word: pa-tumar	 gloss: T.R-take.meds
+B: word: pa-pa-tunaw	 gloss: T.R-CAUS-dissolve
+C: word: ga-pa-buļong	 gloss: I.R-CAUS-medicine
+D: word: pa-tumba	 gloss: T.R-fall.over
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 13:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ko antibiotic ya.
+Gloss (with missing item): ___ 1S.ERG antibiotics DEF.F
+The English translation of this sentence is:‘I took the antibiotics.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Although the verb forms are identical in examples \REF{bkm:Ref362342951} and \REF{bkm:Ref122954287}, \REF{bkm:Ref122954287} is clearly the causative because of the construction in which it appears. The midwife is the ergative case agent of cause, and the speaker is the absolutive case causee. As a non-causative this would have to mean ‘The midwife took me (as medicine)’, which is pragmatically nonsensical. Furthermore, the verb form papatumar, with both pa{}- prefixes present, may replace the verb in \REF{bkm:Ref122954287} but not in \REF{bkm:Ref362342951}. When both prefixes occur, the effect is to make the causative notion more forceful or more direct. The causer is the one initiating and forcing the causee to perform the action either with words, threats of punishment or physical force. The causee does not have a choice to perform the action or not.
+A: word: pa-tumba	 gloss: T.R-fall.over
+B: word: ma-ng-tanem	 gloss: A.HAP.IR-PL-plant
+C: word: pa-tumar	 gloss: T.R-take.meds
+D: word: ga-pa-buļong	 gloss: I.R-CAUS-medicine
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 14:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Bag-o ko ___ ake na suļat, liag ko anay …-pa-abot ko a miad na adlaw ki kaon.
+Gloss (with missing item): before 1S.ERG ___ 1S.GEN LK letter want 1S.ERG first/for.awhile T.IR-CAUS-arrive 1S.ERG INJ good LK day/sun OBL.P 2s
+The English translation of this sentence is:`Before I make my letter long, I want to first wish you a good day.’ (This is a common way to begin a letter in Kagayanen, literally: ... I cause a good day to reach you.’)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These roots can also occur with the overt causative prefix. Example \REF{bkm:Ref395081078} illustrates the root mļangkaw/ļangkaw with the causative prefix and transitive irrealis suffix:
+A: word: ļangkaw	 gloss: long
+B: word: pa-leddang-en	 gloss: CAUS-sink-T.IR
+C: word: pa-ļangkaw-en	 gloss: CAUS-long-T.IR
+D: word: ma-ng-tanem	 gloss: A.HAP.IR-PL-plant
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 15:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ tubuyong an.
+Gloss (with missing item): ___ manioc.flour DEF.M
+The English translation of this sentence is:‘This manioc flour has dissolved.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref395110780} illustrates the non-volitional intransitive verb tunaw ‘melt/dissolve’ in its basic usage.
+A: word: pa-tunaw	 gloss: T.R-dissolve
+B: word: ga-larga	 gloss: I.R-depart
+C: word: pa-pa-tunaw	 gloss: T.R-CAUS-dissolve
+D: word: na-tunaw	 gloss: A.HAP.R-dissolve
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 16:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ no anay tubuyong an para pang-miroļ.
+Gloss (with missing item): ___ 2S.ERG first/for.awhile manioc.flour DEF.M for INST-starch
+The English translation of this sentence is:‘Dissolve please the manioc flour for use as starch.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{bkm:Ref395110927} and \REF{bkm:Ref122956811}, this same root is used transitively with transitive irrealis and transitive realis affixation respectively. The effect is a causative interpretation (`cause to dissolve'), even though the causative prefix does not appear.
+A: word: ga-tingaļa	 gloss: I.R-wonder
+B: word: pa-tunaw-en	 gloss: CAUS-dissolve-T.IR
+C: word: tunaw-en	 gloss: dissolve-T.IR
+D: word: pa-atag	 gloss: T.R-give
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 17:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din tubuyong an para pang-miroļ.
+Gloss (with missing item): ___ 3S.ERG manioc.flour DEF.M for INST-starch
+The English translation of this sentence is:‘S/he dissolved the manioc flour for use as starch.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{bkm:Ref395110927} and \REF{bkm:Ref122956811}, this same root is used transitively with transitive irrealis and transitive realis affixation respectively. The effect is a causative interpretation (`cause to dissolve'), even though the causative prefix does not appear.
+A: word: pa-tunaw	 gloss: T.R-dissolve
+B: word: pa-tunaw-en	 gloss: CAUS-dissolve-T.IR
+C: word: pa-pa-tunaw	 gloss: T.R-CAUS-dissolve
+D: word: pa-dawat-a	 gloss: T.R-hand.to-XC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 18:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din tubuyong an para pang-miroļ.
+Gloss (with missing item): ___ 3S.ERG manioc.flour DEF.M for INST-starch
+The English translation of this sentence is:‘S/he dissolved the manioc flour for use as starch.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are at least two pieces of evidence that show that the pa{}- prefix in example \REF{bkm:Ref122956811} is the transitive, realis pa{}- and not the causative. First, the transitive irrealis form is used in example \REF{bkm:Ref395110927} with the same set of argument roles (Causer-ergative, patient-absolutive). Second, this verb may also take the causative prefix, in which case the effect is an indirect causative of a causative:
+A: word: pa-tunaw-en	 gloss: CAUS-dissolve-T.IR
+B: word: pa-pa-tunaw	 gloss: T.R-CAUS-dissolve
+C: word: pa-tunaw	 gloss: T.R-dissolve
+D: word: pa-ļangkaw-en	 gloss: CAUS-long-T.IR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 19:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ no anay tubuyong an para pang-miroļ.
+Gloss (with missing item): ___ 2S.ERG first/for.awhile manioc.flour DEF.M for INST-starch
+The English translation of this sentence is:‘Dissolve please the manioc flour for use as starch.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are at least two pieces of evidence that show that the pa{}- prefix in example \REF{bkm:Ref122956811} is the transitive, realis pa{}- and not the causative. First, the transitive irrealis form is used in example \REF{bkm:Ref395110927} with the same set of argument roles (Causer-ergative, patient-absolutive). Second, this verb may also take the causative prefix, in which case the effect is an indirect causative of a causative:
+A: word: tunaw-en	 gloss: dissolve-T.IR
+B: word: “m-larga	 gloss: I.V.IR-depart
+C: word: pa-tunaw-en	 gloss: CAUS-dissolve-T.IR
+D: word: ga-kaan	 gloss: I.R-eat
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 20:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ no anay ki kanen tubuyong an.
+Gloss (with missing item): ___ 2S.ERG first/for.awhile OBL.P 3s manioc.flour DEF.M
+The English translation of this sentence is:‘Please have him/her dissolve the manioc flour.’ (e.g., ‘Cause him/her to cause the manioc flour to dissolve.’)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In these examples the roles are Causer=ergative, patient=absolutive, causee=ob\-lique. In other words, examples \REF{bkm:Ref395126311} and \REF{bkm:Ref122957467} are morphological causatives of the lexical (patient-preserving) causative roots illustrated in \REF{bkm:Ref395110927} and \REF{bkm:Ref122956811} respectively.
+A: word: pa-pa-tunaw	 gloss: T.R-CAUS-dissolve
+B: word: ga-kaan	 gloss: I.R-eat
+C: word: pa-tunaw-en	 gloss: CAUS-dissolve-T.IR
+D: word: tunaw-en	 gloss: dissolve-T.IR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 21:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din ki yaken tubuyong an.
+Gloss (with missing item): ___ 3S.ERG OBL.P 1s manioc.flour DEF.M
+The English translation of this sentence is:‘S/he had me dissolve the manioc flour.’ (e.g. ‘S/he caused me to cause the manioc flour to dissolve.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In these examples the roles are Causer=ergative, patient=absolutive, causee=ob\-lique. In other words, examples \REF{bkm:Ref395126311} and \REF{bkm:Ref122957467} are morphological causatives of the lexical (patient-preserving) causative roots illustrated in \REF{bkm:Ref395110927} and \REF{bkm:Ref122956811} respectively.
+A: word: pa-tunaw-en	 gloss: CAUS-dissolve-T.IR
+B: word: pa-tunaw	 gloss: T.R-dissolve
+C: word: pa-pa-tunaw	 gloss: T.R-CAUS-dissolve
+D: word: pa-dawat-a	 gloss: T.R-hand.to-XC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 22:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ no anay tubuyong an para pang-miroļ.
+Gloss (with missing item): ___ 2S.ERG first/for.awhile manioc.flour DEF.M for INST-starch
+The English translation of this sentence is:‘Dissolve please the manioc flour for use as starch.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In these examples the roles are Causer=ergative, patient=absolutive, causee=ob\-lique. In other words, examples \REF{bkm:Ref395126311} and \REF{bkm:Ref122957467} are morphological causatives of the lexical (patient-preserving) causative roots illustrated in \REF{bkm:Ref395110927} and \REF{bkm:Ref122956811} respectively.
+A: word: kinangļan	 gloss: need
+B: word: pa-tunaw-en	 gloss: CAUS-dissolve-T.IR
+C: word: tunaw-en	 gloss: dissolve-T.IR
+D: word: luto-en	 gloss: cook-T.IR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 23:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din tubuyong an para pang-miroļ.
+Gloss (with missing item): ___ 3S.ERG manioc.flour DEF.M for INST-starch
+The English translation of this sentence is:‘S/he dissolved the manioc flour for use as starch.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In these examples the roles are Causer=ergative, patient=absolutive, causee=ob\-lique. In other words, examples \REF{bkm:Ref395126311} and \REF{bkm:Ref122957467} are morphological causatives of the lexical (patient-preserving) causative roots illustrated in \REF{bkm:Ref395110927} and \REF{bkm:Ref122956811} respectively.
+A: word: pa-tunaw	 gloss: T.R-dissolve
+B: word: pa-pa-tunaw	 gloss: T.R-CAUS-dissolve
+C: word: ma-ng-tampara	 gloss: A.HAP.IR-PL-goggles
+D: word: pa-tunaw-en	 gloss: CAUS-dissolve-T.IR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 24:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Sakon ya ___ naan ta Pasig River.
+Gloss (with missing item): whale DEF.F ___ SPAT.DEF NABS Pasig River
+The English translation of this sentence is:‘The whale happened to wash ashore in the Pasig River.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref395170605} is a non-volitional intransitive construction, while \REF{bkm:Ref395170609} is the applicative equivalent:
+A: word: pa-tunaw-en	 gloss: CAUS-dissolve-T.IR
+B: word: na-dagsa-an	 gloss: A.HAP.R-wash.ashore-APL
+C: word: bļatong	 gloss: string.bean
+D: word: na-dagsa	 gloss: A.HAP.R-wash.ashore
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 25:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ta sakon Pasig River ya.
+Gloss (with missing item): ___ NABS whale Pasig River DEF.F
+The English translation of this sentence is:‘The whale happened to wash ashore in the Pasig River.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref395170605} is a non-volitional intransitive construction, while \REF{bkm:Ref395170609} is the applicative equivalent:
+A: word: ∅-pa-dagsa-an	 gloss: T.IR-CAUS-wash.ashore-APL
+B: word: na-dagsa-an	 gloss: A.HAP.R-wash.ashore-APL
+C: word: na-dagsa	 gloss: A.HAP.R-wash.ashore
+D: word: ma-ng-tanem	 gloss: A.HAP.IR-PL-plant
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 26:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ta sakon Pasig River ya.
+Gloss (with missing item): ___ NABS whale Pasig River DEF.F
+The English translation of this sentence is:‘The whale happened to wash ashore in the Pasig River.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In example \REF{bkm:Ref395170609}, the Pasig River lacks the non-absolutive prenominal case marker ta. This indicates that it is in the absolutive case. Meanwhile the whale is no longer absolutive, but is now marked with ta. We may say that in this case, the non-absolutive role is ergative. Unfortunately, there is no natural way to reflect the difference in meaning expressed by this “advancement” to absolutive status of a locative participant in the English free translation, literally: `The whale washed-ashore-on the Pasig river,' or `the whale affected the Pasig river by washing ashore,' or `The Pasig river was washed upon by the whale.'
+A: word: ∅-pa-dagsa-an	 gloss: T.IR-CAUS-wash.ashore-APL
+B: word: na-dagsa-an	 gloss: A.HAP.R-wash.ashore-APL
+C: word: ga-kaan	 gloss: I.R-eat
+D: word: na-dagsa	 gloss: A.HAP.R-wash.ashore
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 27:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ta dason na adlaw ake na lola ___ nay ta patyo.
+Gloss (with missing item): NABS next LK day/sun 1S.GEN LK grandmother ___ 1P.EXCL.ERG NABS cemetery
+The English translation of this sentence is:`The next day we buried my grandmother in the cemetery.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In example \REF{bkm:Ref395171864}, the inherently transitive verb lebbeng ‘bury’ is used in a grammatically transitive, non-applicative clause with an Actor in the ergative role, Undergoer (patient) in the absolutive role and a location, ta patyo, ‘in the cemetery’, in an oblique role:
+A: word: bugnaw	 gloss: cold
+B: word: mag--ambaļ-anay	 gloss: I.IR-say-REC
+C: word: pa-lebbeng-an	 gloss: T.R-bury-APL
+D: word: pa-lebbeng	 gloss: T.R-bury
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 28:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nay patyo an ta mga patay.
+Gloss (with missing item): ___ 1P.EXCL.ERG cemetery DEF.M NABS PL dead
+The English translation of this sentence is:‘We buried the dead in the cemetery.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In example \REF{bkm:Ref395171866}, the same verb is used with the applicative suffix. In this case the cemetery is the absolutive, while the patient argument, ta mga patay ‘the dead ones’ is in a non-absolutive role. The actor is ergative in both examples:
+A: word: pa-lebbeng-an	 gloss: T.R-bury-APL
+B: word: pa-lebbeng	 gloss: T.R-bury
+C: word: pa-tunaw-en	 gloss: CAUS-dissolve-T.IR
+D: word: pa-ibit-an	 gloss: T.R-hold-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 29:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Bisan ino na mga ampang-an an ___ danen ta iran na bata.
+Gloss (with missing item): any what LK PL play-NR DEF.M ___ 3P.ERG NABS 3P.GEN LK child
+The English translation of this sentence is:‘Whatever playthings, they gave (them) to their child.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ditransitive verbs can also appear in applicative constructions. The effect is to express a recipient or location (depending on the verb) in the absolutive role (see \chapref{chap:voice} on voice). Example \REF{bkm:Ref396506191} illustrates the verb atag ‘give’ in a non-applicative construction, with the recipient, iran na bata ‘their child’, in an oblique role, marked by the prenominal case marker ta:
+A: word: pa-atag-an	 gloss: T.R-give-APL
+B: word: pa-atag	 gloss: T.R-give
+C: word: ga-atag	 gloss: I.R-give
+D: word: pa-tumar	 gloss: T.R-take.meds
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 30:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din bayo din ya ta bļawan.
+Gloss (with missing item): ___ 3S.ERG shirt 3S.GEN DEF.F NABS gold
+The English translation of this sentence is:‘He partially filled his shirt with gold.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref395171874} illustrates the same verb in an applicative construction. Note, however, that the argument structure is the same. The shirt is still absolutive, and the agent is still ergative:
+A: word: na-panno-an	 gloss: A.HAP.R-fill-APL
+B: word: mag--ambaļ-anay	 gloss: I.IR-say-REC
+C: word: ga-lambay	 gloss: I.R-pass.by
+D: word: pa-panno-an	 gloss: T.R-fill-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 31:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din bayo din ya ta bļawan.
+Gloss (with missing item): ___ 3S.ERG shirt 3S.GEN DEF.F NABS gold
+The English translation of this sentence is:‘He was able to partially fill his shirt with gold.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref395206755} illustrates the same construction in the happenstantial mode:
+A: word: pa-luto-en	 gloss: CAUS-cook-T.IR
+B: word: pa-panno-an	 gloss: T.R-fill-APL
+C: word: lana	 gloss: coconut.oil
+D: word: na-panno-an	 gloss: A.HAP.R-fill-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 32:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din bayo din ya ta bļawan.
+Gloss (with missing item): ___ 3S.ERG shirt 3S.GEN DEF.F NABS gold
+The English translation of this sentence is:‘He partially filled his shirt with gold.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref395171874} and \REF{bkm:Ref395206755} illustrate the partitive sense of the applicative with the verb panno ‘fill’, which arguably takes a location (the shirt in this case) as its absolutive argument in the unmarked form. However, the applicative has this effect for many other verbs that are inherently transitive. Consider the following:
+A: word: pa-lebbeng-an	 gloss: T.R-bury-APL
+B: word: na-panno-an	 gloss: A.HAP.R-fill-APL
+C: word: pa-panno-an	 gloss: T.R-fill-APL
+D: word: buong	 gloss: shatter
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 33:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din bayo din ya ta bļawan.
+Gloss (with missing item): ___ 3S.ERG shirt 3S.GEN DEF.F NABS gold
+The English translation of this sentence is:‘He was able to partially fill his shirt with gold.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref395171874} and \REF{bkm:Ref395206755} illustrate the partitive sense of the applicative with the verb panno ‘fill’, which arguably takes a location (the shirt in this case) as its absolutive argument in the unmarked form. However, the applicative has this effect for many other verbs that are inherently transitive. Consider the following:
+A: word: pa-ļangkaw-en	 gloss: CAUS-long-T.IR
+B: word: pa-panno-an	 gloss: T.R-fill-APL
+C: word: ga-us-os	 gloss: I.R-slide.down
+D: word: na-panno-an	 gloss: A.HAP.R-fill-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 34:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din s<in>ugba ya na sidda naan ta pinggan ko.
+Gloss (with missing item): ___ 3S.ERG <NR.RES>-roast DEF.F LK fish SPAT.DEF NABS dish 1S.GEN
+The English translation of this sentence is:‘S/he ate the roasted fish in my dish.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref396998462} illustrates the verb kaan ‘eat’ in its basic transitive argument structure with the agent expressed with an ergative pronoun and the patient, the roasted fish, with no prenominal marker, indicating it is absolutive. Example \REF{ex:inmydish-1} is a standard applicative in which the verb carries the applicative suffix, the roasted fish has been marked as non-absolutive, and the dish is now in the absolutive role. Finally, example \REF{ex:inmydish-2} illustrates the partitive use of the applicative construction. The case frame in \REF{ex:inmydish-2} is the same as in \REF{bkm:Ref396998462}. The only difference in structure is the presence of the applicative suffix. The semantic effect is to assert that only some of the roasted fish was consumed.
+A: word: pa-kaan	 gloss: T.R-eat
+B: word: maka-kaan	 gloss: I.HAP.IR-eat
+C: word: na-dagsa	 gloss: A.HAP.R-wash.ashore
+D: word: ga-kaan	 gloss: I.R-eat
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 35:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din s<in>ugba ya na sidda naan ta pinggan ko.
+Gloss (with missing item): ___ 3S.ERG <NR.RES>-roast DEF.F LK fish SPAT.DEF NABS dish 1S.GEN
+The English translation of this sentence is:‘S/he ate the roasted fish in my dish.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref396998462} illustrates the verb kaan ‘eat’ in its basic transitive argument structure with the agent expressed with an ergative pronoun and the patient, the roasted fish, with no prenominal marker, indicating it is absolutive. Example \REF{ex:inmydish-1} is a standard applicative in which the verb carries the applicative suffix, the roasted fish has been marked as non-absolutive, and the dish is now in the absolutive role. Finally, example \REF{ex:inmydish-2} illustrates the partitive use of the applicative construction. The case frame in \REF{ex:inmydish-2} is the same as in \REF{bkm:Ref396998462}. The only difference in structure is the presence of the applicative suffix. The semantic effect is to assert that only some of the roasted fish was consumed.
+A: word: maka-kaan	 gloss: I.HAP.IR-eat
+B: word: ma-ng-tanem	 gloss: A.HAP.IR-PL-plant
+C: word: ga-kaan	 gloss: I.R-eat
+D: word: pa-kaan	 gloss: T.R-eat
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 36:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din s<in>ugba ya na sidda naan ta pinggan ko.
+Gloss (with missing item): ___ 3S.ERG <NR.RES>-roast DEF.F LK fish SPAT.DEF NABS dish 1S.GEN
+The English translation of this sentence is:‘S/he ate the roasted fish in my dish.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: One way of understanding this usage is that, since the applicative has the default function of indicating that the absolutive is a location, recipient or some other non-patient semantic role, the use of the applicative when the absolutive is a patient expresses that it is somehow a less than prototypical patient. One reasonable interpretation of this is that the patient is not completely affected by the action of the verb. Another way of understanding this usage is that \REF{bkm:Ref396998462}b is the applicative of \REF{bkm:Ref396998462}a, while \REF{bkm:Ref396998462}c is the applicative of the detransitive of \REF{bkm:Ref396998462}b, given in \REF{bkm:Ref460337201}:
+A: word: ga-kaan	 gloss: I.R-eat
+B: word: maka-kaan	 gloss: I.HAP.IR-eat
+C: word: pa-kaan	 gloss: T.R-eat
+D: word: na-dagsa-an	 gloss: A.HAP.R-wash.ashore-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 37:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din s<in>ugba ya na sidda naan ta pinggan ko.
+Gloss (with missing item): ___ 3S.ERG <NR.RES>-roast DEF.F LK fish SPAT.DEF NABS dish 1S.GEN
+The English translation of this sentence is:‘S/he ate the roasted fish in my dish.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: One way of understanding this usage is that, since the applicative has the default function of indicating that the absolutive is a location, recipient or some other non-patient semantic role, the use of the applicative when the absolutive is a patient expresses that it is somehow a less than prototypical patient. One reasonable interpretation of this is that the patient is not completely affected by the action of the verb. Another way of understanding this usage is that \REF{bkm:Ref396998462}b is the applicative of \REF{bkm:Ref396998462}a, while \REF{bkm:Ref396998462}c is the applicative of the detransitive of \REF{bkm:Ref396998462}b, given in \REF{bkm:Ref460337201}:
+A: word: maka-kaan	 gloss: I.HAP.IR-eat
+B: word: pa-pa-tunaw	 gloss: T.R-CAUS-dissolve
+C: word: ga-kaan	 gloss: I.R-eat
+D: word: pa-kaan	 gloss: T.R-eat
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 38:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din s<in>ugba ya na sidda naan ta pinggan ko.
+Gloss (with missing item): ___ 3S.ERG <NR.RES>-roast DEF.F LK fish SPAT.DEF NABS dish 1S.GEN
+The English translation of this sentence is:‘S/he ate the roasted fish in my dish.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: One way of understanding this usage is that, since the applicative has the default function of indicating that the absolutive is a location, recipient or some other non-patient semantic role, the use of the applicative when the absolutive is a patient expresses that it is somehow a less than prototypical patient. One reasonable interpretation of this is that the patient is not completely affected by the action of the verb. Another way of understanding this usage is that \REF{bkm:Ref396998462}b is the applicative of \REF{bkm:Ref396998462}a, while \REF{bkm:Ref396998462}c is the applicative of the detransitive of \REF{bkm:Ref396998462}b, given in \REF{bkm:Ref460337201}:
+A: word: pa-luto-en	 gloss: CAUS-cook-T.IR
+B: word: pa-kaan	 gloss: T.R-eat
+C: word: maka-kaan	 gloss: I.HAP.IR-eat
+D: word: ga-kaan	 gloss: I.R-eat
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 39:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din s<in>ugba ya na sidda naan ta pinggan ko.
+Gloss (with missing item): ___ 3S.ERG <NR.RES>-roast DEF.F LK fish SPAT.DEF NABS dish 1S.GEN
+The English translation of this sentence is:‘S/he ate the roasted fish in my dish.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: One way of understanding this usage is that, since the applicative has the default function of indicating that the absolutive is a location, recipient or some other non-patient semantic role, the use of the applicative when the absolutive is a patient expresses that it is somehow a less than prototypical patient. One reasonable interpretation of this is that the patient is not completely affected by the action of the verb. Another way of understanding this usage is that \REF{bkm:Ref396998462}b is the applicative of \REF{bkm:Ref396998462}a, while \REF{bkm:Ref396998462}c is the applicative of the detransitive of \REF{bkm:Ref396998462}b, given in \REF{bkm:Ref460337201}:
+A: word: pa-dawat-a	 gloss: T.R-hand.to-XC
+B: word: pa-kaan	 gloss: T.R-eat
+C: word: maka-kaan	 gloss: I.HAP.IR-eat
+D: word: ga-kaan	 gloss: I.R-eat
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 40:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ kanen ta s<in>ugba ya na sidda naan ta pinggan ko.
+Gloss (with missing item): ___ 3S.ABS NABS <NR.RES>-roast DEF.F LK fish SPAT.DEF NABS dish 1S.GEN
+The English translation of this sentence is:‘S/he ate roasted fish in my dish.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: One way of understanding this usage is that, since the applicative has the default function of indicating that the absolutive is a location, recipient or some other non-patient semantic role, the use of the applicative when the absolutive is a patient expresses that it is somehow a less than prototypical patient. One reasonable interpretation of this is that the patient is not completely affected by the action of the verb. Another way of understanding this usage is that \REF{bkm:Ref396998462}b is the applicative of \REF{bkm:Ref396998462}a, while \REF{bkm:Ref396998462}c is the applicative of the detransitive of \REF{bkm:Ref396998462}b, given in \REF{bkm:Ref460337201}:
+A: word: pa-kaan	 gloss: T.R-eat
+B: word: maka-kaan	 gloss: I.HAP.IR-eat
+C: word: na-dagsa-an	 gloss: A.HAP.R-wash.ashore-APL
+D: word: ga-kaan	 gloss: I.R-eat
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 41:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ danen an parti ta kasaļ.
+Gloss (with missing item): ___ 3P.ABS DEF.M about NABS wedding
+The English translation of this sentence is:‘They will make an agreement with each other about the wedding.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: With some other verbs, such as ambaļ ‘say’ and palangga ‘love’, -anay asserts a more binding, intense, united, or closer feeling or relationship than -ay does. For example, mag-ambaļanay means ‘to make an agreement’ such as families meeting together to talk about the wedding of the children (example \ref{bkm:Ref414723411}). Mag-ambaļay, on the other hand, means to speak to each other again after some time of not speaking (example \ref{bkm:Ref414723505}).
+A: word: mag-ambaļ	 gloss: I.IR-say
+B: word: pa-ambaļ-an	 gloss: T.R-say-APL
+C: word: mag--ambaļ-anay	 gloss: I.IR-say-REC
+D: word: na-tunaw	 gloss: A.HAP.R-dissolve
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 42:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ki ta kada isya.
+Gloss (with missing item): ___ 1P.INCL.ABS NABS each one
+The English translation of this sentence is:‘We love each other.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \hspace*{-.6pt}The inflected verb gapalanggaay means to ‘love each other’ (example \ref{bkm:Ref414723576}), while gapalanggaanay means to ‘seriously love each other from one’s heart’ (example \ref{bkm:Ref414723659}).
+A: word: mag--ambaļ-anay	 gloss: I.IR-say-REC
+B: word: ga-palangga-ay	 gloss: I.R-love-REC
+C: word: ga-kita-ay	 gloss: I.R-see-REC
+D: word: palangga	 gloss: love
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 43:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Bag-o, anen ko dya ___ ake na mga mangngod.
+Gloss (with missing item): before EXT.G 1S.ERG D4LOC ___ 1S.GEN LK PL younger.sibling
+The English translation of this sentence is:‘Then, there I handed my younger siblings off (to the man in the yard)!’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref123024886} is from a story about a house fire. The speaker gets her younger siblings and hands them to a man in the yard to take care of while she is trying to help save some of the house. The use of the exclamatory suffix on the verb underscores the desperation of the situation.
+A: word: pa-dawat-a	 gloss: T.R-hand.to-XC
+B: word: pa-daļa	 gloss: T.R-carry
+C: word: ma-ng-tampara	 gloss: A.HAP.IR-PL-goggles
+D: word: …-kamang-a	 gloss: T.R-get-XC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+

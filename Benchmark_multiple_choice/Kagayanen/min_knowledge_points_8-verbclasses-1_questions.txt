@@ -1,0 +1,624 @@
+Question 0:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ baso ya.
+Gloss (with missing item): ___ glass DEF.F
+The English translation of this sentence is:`That glass is shattered.' \hspace{1cm}STATE
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref398301852} and \REF{bkm:Ref398301854} illustrate the root the morpheme ___ ‘its gloss ___’, which is a non-volitio\-nal root of Class I. With no inflectional affixes this root describes a simple state \REF{bkm:Ref398301852}. This may be considered a non-verbal, modification predicate (see \chapref{chap:non-verbalclauses}, \sectref{sec:predicatemodifiers}). In \REF{bkm:Ref398301854}, with happenstantial marking it describes the perfective achievement of its gloss ___ing. As with all Class I verbs, this root does not occur in dynamic modality (*gathe morpheme ___/*magthe morpheme ___). This makes sense since its gloss ___ing is a punctual event, therefore the root that expresses this concept cannot describe an activity, since activities are inherently non-punctual:
+A: word: ga-seddep	 gloss: I.R-go.in.small.space
+B: word: na-buong	 gloss: A.HAP.R-shatter
+C: word: tapos	 gloss: then
+D: word: buong	 gloss: shatter
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 1:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ baso ya.
+Gloss (with missing item): ___ glass DEF.F
+The English translation of this sentence is:`That glass is shattered.' \hspace{1cm}STATE
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref398301852} and \REF{bkm:Ref398301854} illustrate the root the morpheme ___ ‘its gloss ___’, which is a non-volitio\-nal root of Class I. With no inflectional affixes this root describes a simple state \REF{bkm:Ref398301852}. This may be considered a non-verbal, modification predicate (see \chapref{chap:non-verbalclauses}, \sectref{sec:predicatemodifiers}). In \REF{bkm:Ref398301854}, with happenstantial marking it describes the perfective achievement of its gloss ___ing. As with all Class I verbs, this root does not occur in dynamic modality (*gathe morpheme ___/*magthe morpheme ___). This makes sense since its gloss ___ing is a punctual event, therefore the root that expresses this concept cannot describe an activity, since activities are inherently non-punctual:
+A: word: na-buong	 gloss: A.HAP.R-shatter
+B: word: buong	 gloss: shatter
+C: word: ginikanan	 gloss: parents
+D: word: ga-iling	 gloss: I.R-go
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 2:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Tiset a nang ___ ta jip.
+Gloss (with missing item): small 1S.ABS only/just ___ NABS jeep
+The English translation of this sentence is:‘A jeep almost pinned me.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref440375076}{}-\REF{bkm:Ref119566298} illustrate additional Class I verbs from the corpus:
+A: word: mag-ayad	 gloss: I.IR-be.careful
+B: word: na-ipo	 gloss: A.HAP.R-pick
+C: word: na-kamang	 gloss: A.HAP.R-get
+D: word: na-ipit	 gloss: A.HAP.R-pin
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 3:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ kanen ta granada tak pa-limpyo-an din.
+Gloss (with missing item): ___ 3S.ABS NABS grenade because T.R-clean-APL 3S.ERG
+The English translation of this sentence is:‘He happened to be hit by a grenade (explosion), because he cleaned it’ or ‘The grenade (explosion) happened to hit him because he cleaned it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref440375076}{}-\REF{bkm:Ref119566298} illustrate additional Class I verbs from the corpus:
+A: word: na-igo	 gloss: A.HAP.R-hit
+B: word: buong	 gloss: shatter
+C: word: na-ipit	 gloss: A.HAP.R-pin
+D: word: pa-pakang	 gloss: T.R-hit
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 4:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ layag i.
+Gloss (with missing item): ___ sail DEF.N
+The English translation of this sentence is:‘The sail is torn.’\hspace{1cm}State
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref398301059}{}-\REF{bkm:Ref398301061} illustrate the root the morpheme ___ ‘torn/its gloss ___’, which is a non-volitional root of Class II. In \REF{bkm:Ref398301059} with no inflectional affixes it describes a state. In \REF{bkm:Ref367348391} with happenstantial marking it describes the perfective accomplishment of its gloss ___ing. In \REF{bkm:Ref398301061} with dynamic marking the same root describes an imperfective activity, with no resultant change in state implied:
+A: word: mantika	 gloss: oil
+B: word: gisi	 gloss: tear
+C: word: ga-gisi	 gloss: I.R-tear
+D: word: mag-tunga	 gloss: I.IR-come.up.from.underwater
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 5:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ga-layag kay nang en na uļa nay na-aļam-i daw indi kay punta asta nang en na ___ layag i.\\
+Gloss (with missing item): I.R-sail 1P.EXCL.ABS only/just CM LK NEG.R 1P.EXCL.ERG A.HAP.R-know-XC.APL if/when where 1P.EXCL.ABS go until only/just CM LK ___ sail DEF.N
+The English translation of this sentence is:‘We sailed without knowing where we were going until the sail was tearing/began to tear.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref398301059}{}-\REF{bkm:Ref398301061} illustrate the root gisi ‘torn/tear’, which is a non-volitional root of Class II. In \REF{bkm:Ref398301059} with no inflectional affixes it describes a state. In \REF{bkm:Ref367348391} with happenstantial marking it describes the perfective accomplishment of tearing. In \REF{bkm:Ref398301061} with dynamic marking the same root describes an imperfective activity, with no resultant change in state implied:
+A: word: pa-leddang	 gloss: T.R-sink
+B: word: na-gisi	 gloss: A.HAP.R-tear
+C: word: ga-gisi	 gloss: I.R-tear
+D: word: salíg	 gloss: think.wrongly
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 6:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ layag i.
+Gloss (with missing item): ___ sail DEF.N
+The English translation of this sentence is:‘The sail is torn.’\hspace{1cm}State
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref398301059}{}-\REF{bkm:Ref398301061} illustrate the root the morpheme ___ ‘torn/its gloss ___’, which is a non-volitional root of Class II. In \REF{bkm:Ref398301059} with no inflectional affixes it describes a state. In \REF{bkm:Ref367348391} with happenstantial marking it describes the perfective accomplishment of its gloss ___ing. In \REF{bkm:Ref398301061} with dynamic marking the same root describes an imperfective activity, with no resultant change in state implied:
+A: word: ga-dagbeng	 gloss: I.R-thud
+B: word: u-yi	 gloss: EMPH-D1ADJ
+C: word: gisi	 gloss: tear
+D: word: ga-gisi	 gloss: I.R-tear
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 7:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ layag i.
+Gloss (with missing item): ___ sail DEF.N
+The English translation of this sentence is:‘The sail tore.’\hspace{1cm}Accomplishment
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref398301059}{}-\REF{bkm:Ref398301061} illustrate the root gisi ‘torn/tear’, which is a non-volitional root of Class II. In \REF{bkm:Ref398301059} with no inflectional affixes it describes a state. In \REF{bkm:Ref367348391} with happenstantial marking it describes the perfective accomplishment of tearing. In \REF{bkm:Ref398301061} with dynamic marking the same root describes an imperfective activity, with no resultant change in state implied:
+A: word: pa-leddang	 gloss: T.R-sink
+B: word: na-gisi	 gloss: A.HAP.R-tear
+C: word: dagat	 gloss: sea
+D: word: ga-gisi	 gloss: I.R-tear
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 8:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ga-layag kay nang en na uļa nay na-aļam-i daw indi kay punta asta nang en na ___ layag i.\\
+Gloss (with missing item): I.R-sail 1P.EXCL.ABS only/just CM LK NEG.R 1P.EXCL.ERG A.HAP.R-know-XC.APL if/when where 1P.EXCL.ABS go until only/just CM LK ___ sail DEF.N
+The English translation of this sentence is:‘We sailed without knowing where we were going until the sail was tearing/began to tear.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref398301059}{}-\REF{bkm:Ref398301061} illustrate the root gisi ‘torn/tear’, which is a non-volitional root of Class II. In \REF{bkm:Ref398301059} with no inflectional affixes it describes a state. In \REF{bkm:Ref367348391} with happenstantial marking it describes the perfective accomplishment of tearing. In \REF{bkm:Ref398301061} with dynamic marking the same root describes an imperfective activity, with no resultant change in state implied:
+A: word: na-gisi	 gloss: A.HAP.R-tear
+B: word: ga-gisi	 gloss: I.R-tear
+C: word: gisi	 gloss: tear
+D: word: beggas	 gloss: milled.rice
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 9:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pa-ibit-an nay ta timbang mama na duma nay daw m-luoy piro mama an ___ daw na-daļa din man kami tak mama i bakod kis-a ki kami.\\
+Gloss (with missing item): T.R-hold.on-APL 1P.EXCL.ERG NABS balance man LK companion 1P.EXCL.GEN and I.V.IR-swim but man DEF.M ___ and A.HAP.R-take 3S.ERG also 1P.EXCL.ABS because man DEF.N big than OBL.P 1P.EXCL
+The English translation of this sentence is:‘We held on to both sides of the man that was our companion and swam, but the man was sinking (or ‘began to sink’) and took us also (down with him) because the man was bigger than us.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref388967386} illustrates the same verb in dynamic modality, expressing an imperfective, inceptive sense:
+A: word: pa-leddang	 gloss: T.R-sink
+B: word: pa-pa-balik	 gloss: T.R-CAUS-return
+C: word: ga-leddang	 gloss: I.R-sink
+D: word: na-leddang	 gloss: A.HAP.R-sink
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 10:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ga-pangamuyo kay man na kabay na ___ en Manang ya aged maka-balik man kanen ya ta Pilipinas i.\\
+Gloss (with missing item): I.R-pray 1P.EXCL.ABS too LK may.it.be LK ___ CM Older.sister DEF.F so.that I.HAP.IR-return too 3S.ABS DEF.F NABS Philippines DEF.N
+The English translation of this sentence is:‘We prayed too that Manang may be well so that she can return to the Philippines.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The following illustrate the root the morpheme ___ ‘its gloss ___/be its gloss ___’ in the stative \REF{bkm:Ref148778216}, dynamic irrealis \REF{bkm:Ref148778256}, and happenstantial irrealis \REF{bkm:Ref148778286} forms:
+A: word: mag-ayad	 gloss: I.IR-be.careful
+B: word: buong	 gloss: shatter
+C: word: ayad	 gloss: well
+D: word: piro	 gloss: but
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 11:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mag-ubra danen ta duļot agod ___ ka.
+Gloss (with missing item): I.IR-work/make 3P.ABS NABS food.offering so.that ___ 2S.ABS
+The English translation of this sentence is:‘They will do a food offering so that you will get well.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The following illustrate the root ayad ‘well/be well’ in the stative \REF{bkm:Ref148778216}, dynamic irrealis \REF{bkm:Ref148778256}, and happenstantial irrealis \REF{bkm:Ref148778286} forms:
+A: word: mag-ayad	 gloss: I.IR-well
+B: word: ma-simba	 gloss: A.HAP.IR-worship
+C: word: gisi	 gloss: tear
+D: word: ma-ayad	 gloss: A.HAP.IR-well
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 12:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ambaļ din en bisan ino pa kon ayo-en din ∅-atag din kon basta ___ nang kon kanen an.
+Gloss (with missing item): say 3S.ERG CM any what INC HSY request-T.IR 3S.ERG T.IR-give 3S.ERG HSY just.so.that ___ only/just HRS 3S.ABS DEF.M
+The English translation of this sentence is:‘He said whatever else he asks for, he will give just so that he will get well.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The following illustrate the root ayad ‘well/be well’ in the stative \REF{bkm:Ref148778216}, dynamic irrealis \REF{bkm:Ref148778256}, and happenstantial irrealis \REF{bkm:Ref148778286} forms:
+A: word: buong	 gloss: shatter
+B: word: ma-kita	 gloss: A.HAP.IR-see
+C: word: mag-ayad	 gloss: I.IR-be.careful
+D: word: ma-ayad	 gloss: A.HAP.IR-well
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 13:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Piro naan aren ta tudtod ta pambot na ___ na sigi en anod.
+Gloss (with missing item): but SPAT.DEF 1S.ABS NABS back NABS boat LK ___ LK continuously CM drift
+The English translation of this sentence is:‘But I was on the back of the boat which had turned over that was continuously now adrift.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Several roots, such as daeb ‘to turn face down’ may present non-volitional situations with an inanimate Undergoer, or volitional situations with an animate Actor. As such these roots fall logically into Class II and Class IV. When the absolutive is an inanimate Undergoer they exhibit the affixation pattern of Class II roots, and when the absolutive is an animate Actor, they exhibit the pattern of Class IV roots. Here we give some examples of the Class II usage. The following examples are from the same text, and describe the same discourse event. However, in \REF{bkm:Ref148966026} happenstantial modality is used, while in \REF{bkm:Ref148965908} dynamic modality occurs. In \REF{bkm:Ref148966026} the act of turning over is non-volitional and is on the event line of the narrative. In this context, happenstantial modality is expected, and can be understood as expressing a semantic perfective aspect.
+A: word: ga-daeb	 gloss: I.R-turn.over
+B: word: ga-dagbeng	 gloss: I.R-thud
+C: word: buong	 gloss: shatter
+D: word: ga-iling	 gloss: I.R-go
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 14:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Piro naan aren ta tudtod ta pambot na ___ na sigi en anod.
+Gloss (with missing item): but SPAT.DEF 1S.ABS NABS back NABS boat LK ___ LK continuously CM drift
+The English translation of this sentence is:‘But I was on the back of the boat which had turned over that was continuously now adrift.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{bkm:Ref148965908} the same verb occurs, but this time it is not on the main event line of the narrative. It simply describes the condition of the boat that resulted from the event of turning over narrated earlier in the story. In this case, dynamic modality is appropriate. If happenstantial were used again in this context, the intention would be that the boat turned over a second time, constituting another event on the main event line of the story. This would have been possible, but highly unusual inside a relative clause.
+A: word: ga-iling	 gloss: I.R-go
+B: word: leddang-en	 gloss: sink-T.IR
+C: word: ga-daeb	 gloss: I.R-turn.over
+D: word: ga-dagbeng	 gloss: I.R-thud
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 15:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Daw may ___ na na-uļog, isip-en no tak {yon} {nan} niog na na-ipo ko.
+Gloss (with missing item): if/when EXT.IN ___ LK A.HAP.R-fall think/count-T.IR 2S.ERG because D3ABS D3ABS.PR coconut LK A.HAP.R-pick 1S.ERG
+The English translation of this sentence is:‘If something falls making a thud sound, count it because that very one is the coconut I have picked.’ (The speaker climbs a tree to get coconuts and he tells the blind guy on the ground to count how many thuds he hears because that will be the coconuts that he picks and lets fall to the ground. But the one who climbs the tree keeps falling out and so the blind guy counts each time the other guy falls out of the tree thinking it is a coconut.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref442966831} through \REF{bkm:Ref444436899} illustrate Class III verbs from the corpus:
+A: word: ga-daeb	 gloss: I.R-turn.over
+B: word: ga-dagbeng	 gloss: I.R-thud
+C: word: ga-leddang	 gloss: I.R-sink
+D: word: na-uļog	 gloss: A.HAP.R-fall
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 16:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ no anay tubuyong an para pang-miroļ.
+Gloss (with missing item): ___ 2S.ERG first/for.a.while manioc.flour DEF.M for INST-clothes.starch
+The English translation of this sentence is:‘Dissolve please the manioc flour for use as starch.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Most Class I-III verbs can be used in a transitive frame with no transitivizing stem-forming morphology (applicative or causative). In this case they express direct causation. Example \REF{ex:hasdissolved} illustrates the Class II root tunaw ‘to dissolve/melt’ in its basic intransitive frame, while example \REF{bkm:Ref395126196} illustrates the same root in a transitive, causative, frame:
+A: word: ga-daeb	 gloss: I.R-turn.over
+B: word: pigado	 gloss: difficult
+C: word: pa-tunaw-en	 gloss: CAUS-dissolve-T.IR
+D: word: tunaw-en	 gloss: dissolve-T.IR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 17:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ kaoy ya naan ta t<in>anem nay na mga gulay.
+Gloss (with missing item): ___ tree DEF.F SPAT.DEF NABS <NR.RES>plant 1P.EXCL.GEN LK PL vegetables
+The English translation of this sentence is:‘The tree fell over on our planted vegetables.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Similarly, example \REF{bkm:Ref398385527} illustrates the verb tumba ‘to fall over’ in its basic, intransitive frame, while \REF{bkm:Ref398385530} illustrates the same verb in a transitive, causative frame:
+A: word: na-uļog	 gloss: A.HAP.R-fall
+B: word: na-agi-an	 gloss: A.HAP.R-experience-APL
+C: word: na-tumba	 gloss: A.HAP.R-fall.over
+D: word: pa-tumba	 gloss: T.R-fall.over
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 18:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din kaoy ya naan ta t<in>anem nay na mga gulay.
+Gloss (with missing item): ___ 3S.ERG tree DEF.F SPAT.DEF NABS <NR.RES>plant 1P.EXCL.GEN LK PL vegetables
+The English translation of this sentence is:‘S/he felled the tree (on our planted vegetables).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Similarly, example \REF{bkm:Ref398385527} illustrates the verb tumba ‘to fall over’ in its basic, intransitive frame, while \REF{bkm:Ref398385530} illustrates the same verb in a transitive, causative frame:
+A: word: pa-tumba	 gloss: T.R-fall.over
+B: word: pa-leddang	 gloss: T.R-sink
+C: word: na-tumba	 gloss: A.HAP.R-fall.over
+D: word: sayaw	 gloss: dance
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 19:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ta pirata pambot nay ya.
+Gloss (with missing item): ___ ERG pirate motor.boat 1P.EXCL.GEN DEF.F
+The English translation of this sentence is:‘The pirates sank our motor boat.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref119509106} illustrates leddang ‘to sink’ in a transitive form, meaning ‘cause to sink’:
+A: word: ga-leddang	 gloss: I.R-sink
+B: word: pa-leddang	 gloss: T.R-sink
+C: word: pa-pa-leddang	 gloss: T.R-CAUS-sink
+D: word: mag-ayad	 gloss: I.IR-be.careful
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 20:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din kaoy ya naan ta t<in>anem nay na mga gulay.
+Gloss (with missing item): ___ 3S.ERG tree DEF.F SPAT.DEF NABS <NR.RES>plant 1P.EXCL.GEN LK PL vegetables
+The English translation of this sentence is:‘S/he felled the tree (on our planted vegetables).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: We know that the prefix pa{}- in \REF{bkm:Ref398385530} and \REF{bkm:Ref119509106} is the transitive, realis pa{}- rather than the causative for several reasons. First, if pa{}- in these examples were the causative, the predicates would imply indirect causation, as though the boat retained some responsibility for its own sinking. Second, this pa{}- is not retained in the irrealis (\ref{bkm:Ref395126196}, \ref{bkm:Ref123281189}) or detransitive (Actor voice) form \REF{bkm:Ref123281290}:
+A: word: niog	 gloss: coconut
+B: word: pa-tumba	 gloss: T.R-fall.over
+C: word: ma-ayad	 gloss: A.HAP.IR-well
+D: word: na-tumba	 gloss: A.HAP.R-fall.over
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 21:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ta pirata pambot nay ya.
+Gloss (with missing item): ___ ERG pirate motor.boat 1P.EXCL.GEN DEF.F
+The English translation of this sentence is:‘The pirates sank our motor boat.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: We know that the prefix pa{}- in \REF{bkm:Ref398385530} and \REF{bkm:Ref119509106} is the transitive, realis pa{}- rather than the causative for several reasons. First, if pa{}- in these examples were the causative, the predicates would imply indirect causation, as though the boat retained some responsibility for its own sinking. Second, this pa{}- is not retained in the irrealis (\ref{bkm:Ref395126196}, \ref{bkm:Ref123281189}) or detransitive (Actor voice) form \REF{bkm:Ref123281290}:
+A: word: pa-leddang	 gloss: T.R-sink
+B: word: ga-leddang	 gloss: I.R-sink
+C: word: pa-pa-leddang	 gloss: T.R-CAUS-sink
+D: word: ga-seddep	 gloss: I.R-go.in.small.space
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 22:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ no anay tubuyong an para pang-miroļ.
+Gloss (with missing item): ___ 2S.ERG first/for.a.while manioc.flour DEF.M for INST-clothes.starch
+The English translation of this sentence is:‘Dissolve please the manioc flour for use as starch.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: We know that the prefix pa{}- in \REF{bkm:Ref398385530} and \REF{bkm:Ref119509106} is the transitive, realis pa{}- rather than the causative for several reasons. First, if pa{}- in these examples were the causative, the predicates would imply indirect causation, as though the boat retained some responsibility for its own sinking. Second, this pa{}- is not retained in the irrealis (\ref{bkm:Ref395126196}, \ref{bkm:Ref123281189}) or detransitive (Actor voice) form \REF{bkm:Ref123281290}:
+A: word: leddang-en	 gloss: sink-T.IR
+B: word: pa-tunaw-en	 gloss: CAUS-dissolve-T.IR
+C: word: tunaw-en	 gloss: dissolve-T.IR
+D: word: adlaw	 gloss: day/sun
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 23:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nyo lunday an tak sikad bao.
+Gloss (with missing item): ___ 2P.ERG outrigger.canoe DEF.M because very odor
+The English translation of this sentence is:‘Sink the outrigger canoe because it smells bad.’ (The outrigger canoe probably has the odor of rotten fish and sinking it will wash it out.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: We know that the prefix pa{}- in \REF{bkm:Ref398385530} and \REF{bkm:Ref119509106} is the transitive, realis pa{}- rather than the causative for several reasons. First, if pa{}- in these examples were the causative, the predicates would imply indirect causation, as though the boat retained some responsibility for its own sinking. Second, this pa{}- is not retained in the irrealis (\ref{bkm:Ref395126196}, \ref{bkm:Ref123281189}) or detransitive (Actor voice) form \REF{bkm:Ref123281290}:
+A: word: m-tunga	 gloss: I.V.IR-come.up.from.underwater
+B: word: leddang-en	 gloss: sink-T.IR
+C: word: pa-leddang-en	 gloss: CAUS-sink-T.IR
+D: word: ma-ng-tampara	 gloss: A.HAP.IR-PL-goggles
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 24:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ mga pirata ta pambot nay ya.
+Gloss (with missing item): ___ PL pirate NABS motor.boat 1P.EXCL.GEN DEF.F
+The English translation of this sentence is:‘The pirates sank our motor boat.’\smallskip
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: We know that the prefix pa{}- in \REF{bkm:Ref398385530} and \REF{bkm:Ref119509106} is the transitive, realis pa{}- rather than the causative for several reasons. First, if pa{}- in these examples were the causative, the predicates would imply indirect causation, as though the boat retained some responsibility for its own sinking. Second, this pa{}- is not retained in the irrealis (\ref{bkm:Ref395126196}, \ref{bkm:Ref123281189}) or detransitive (Actor voice) form \REF{bkm:Ref123281290}:
+A: word: na-leddang	 gloss: A.HAP.R-sink
+B: word: ga-iling	 gloss: I.R-go
+C: word: ga-leddang	 gloss: I.R-sink
+D: word: pa-leddang	 gloss: T.R-sink
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 25:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din ki yaken pambot ya.
+Gloss (with missing item): ___ 3S.ERG OBL.P 1s motor.boat DEF.F
+The English translation of this sentence is:‘S/he caused/let/allowed me to sink the motor boat.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Finally, there is a causative form of this root, expressed with the causative prefix pa{}- in addition to the transitive inflections (realis in \ref{bkm:Ref123281737} and irrealis in \ref{bkm:Ref148779410}):
+A: word: lugar	 gloss: place
+B: word: pa-seddep-an	 gloss: T.R-go.in.small.space-APL
+C: word: pa-pa-leddang	 gloss: T.R-CAUS-sink
+D: word: pa-leddang	 gloss: T.R-sink
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 26:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din ki yaken pambot ya.
+Gloss (with missing item): ___ 3S.ERG OBL.P 1s motor.boat DEF.F
+The English translation of this sentence is:‘S/he will cause/let/allow me to sink the motor boat.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Finally, there is a causative form of this root, expressed with the causative prefix pa{}- in addition to the transitive inflections (realis in \ref{bkm:Ref123281737} and irrealis in \ref{bkm:Ref148779410}):
+A: word: pa-pa-leddang	 gloss: T.R-CAUS-sink
+B: word: pa-leddang	 gloss: T.R-sink
+C: word: pa-leddang-en	 gloss: CAUS-sink-T.IR
+D: word: leddang-en	 gloss: sink-T.IR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 27:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ko kanen an naan ta baļay danen.
+Gloss (with missing item): ___ 1S.ERG 3S.ABS DEF.M SPAT.DEF NABS house 3P.GEN
+The English translation of this sentence is:‘I made/let him/her return to their house.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another grammatical difference between non-volitional and volitional intransitive roots is that non-volitional roots may easily occur in a transitive frame to express direct causation (see \sectref{bkm:Ref148856716} above). Class IV roots, on the other hand, almost always require explicit transitivizing stem-forming morphology, either causative (pa{}-) or applicative (-an, -i) in order to occur in a transitive frame. This is because the causee is often animate, and therefore retains some control over the situation. However, if the causee is inanimate or otherwise incapable of controlling the situation, some of these roots may express direct causation in a transitive frame without the stem-forming causative prefix. For example, roots such as balik ‘return’, tago ‘hide’ and others that describe motion to a destination (return to a place, hide in a place) when used intransitively describe volitional situations \REF{bkm:Ref148946728}. When the same roots describe caused situations in which the causee is capable of exercising some control over the situation, the causative prefix is used, as in \REF{bkm:Ref148968257}. However, the same verbs may occur in a transitive \REF{bkm:Ref148946793} or detransitive \REF{bkm:Ref148946893} construction with no causative prefix, in which case they imply that the causee is probably inanimate, and therefore has no control or volition. In other words, as with root Classes I-III, this construction expresses direct causation:
+A: word: pa-balik	 gloss: T.R-return
+B: word: lasa	 gloss: taste
+C: word: na-igo	 gloss: A.HAP.R-hit
+D: word: pa-pa-balik	 gloss: T.R-CAUS-return
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 28:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ko en kugod-an din ya naan ta baļay danen.
+Gloss (with missing item): ___ 1S.ERG CM grate.coconut-NR 3S.GEN DEF.F SPAT.DEF NABS house 3P.GEN
+The English translation of this sentence is:‘I returned his/her coconut grater to their house.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another grammatical difference between non-volitional and volitional intransitive roots is that non-volitional roots may easily occur in a transitive frame to express direct causation (see \sectref{bkm:Ref148856716} above). Class IV roots, on the other hand, almost always require explicit transitivizing stem-forming morphology, either causative (pa{}-) or applicative (-an, -i) in order to occur in a transitive frame. This is because the causee is often animate, and therefore retains some control over the situation. However, if the causee is inanimate or otherwise incapable of controlling the situation, some of these roots may express direct causation in a transitive frame without the stem-forming causative prefix. For example, roots such as balik ‘return’, tago ‘hide’ and others that describe motion to a destination (return to a place, hide in a place) when used intransitively describe volitional situations \REF{bkm:Ref148946728}. When the same roots describe caused situations in which the causee is capable of exercising some control over the situation, the causative prefix is used, as in \REF{bkm:Ref148968257}. However, the same verbs may occur in a transitive \REF{bkm:Ref148946793} or detransitive \REF{bkm:Ref148946893} construction with no causative prefix, in which case they imply that the causee is probably inanimate, and therefore has no control or volition. In other words, as with root Classes I-III, this construction expresses direct causation:
+A: word: pa-pa-balik	 gloss: T.R-CAUS-return
+B: word: pa-balik	 gloss: T.R-return
+C: word: ma-ayad	 gloss: A.HAP.IR-well
+D: word: mag-ambaļ	 gloss: I.IR-say
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 29:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ambaļ ta rais ya ___ gid kon tak ga-larga kon en duma ya na bļangay.
+Gloss (with missing item): say NABS captain DEF.F ___ INT HSY because I.R-depart HSY CM other DEF.F LK 2.mast.boat
+The English translation of this sentence is:‘The captain said to really depart because the other two-mast boats are already departing.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Other volitional motion verbs of Class IV, such as larga ‘depart’, never take a location as an oblique or Undergoer argument (\ref{bkm:Ref148793705}). For such verbs, a destination is expressed in a complement clause \REF{bkm:Ref148793741}, preceded by the linker/complementizer na:
+A: word: m-larga	 gloss: I.V.IR-depart
+B: word: “m-larga	 gloss: I.V.IR-depart
+C: word: pa-pa-leddang	 gloss: T.R-CAUS-sink
+D: word: m-iling	 gloss: I.V.IR-go
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 30:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ambaļ ta rais ya m-larga gid kon tak ___ kon en duma ya na bļangay.
+Gloss (with missing item): say NABS captain DEF.F I.V.IR-depart INT HSY because ___ HSY CM other DEF.F LK 2.mast.boat
+The English translation of this sentence is:‘The captain said to really depart because the other two-mast boats are already departing.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Other volitional motion verbs of Class IV, such as larga ‘depart’, never take a location as an oblique or Undergoer argument (\ref{bkm:Ref148793705}). For such verbs, a destination is expressed in a complement clause \REF{bkm:Ref148793741}, preceded by the linker/complementizer na:
+A: word: ma-larga	 gloss: A.HAP.IR-depart
+B: word: ga-larga	 gloss: I.R-depart
+C: word: m-tunga	 gloss: I.V.IR-come.up.from.underwater
+D: word: m-larga	 gloss: I.V.IR-depart
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 31:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ kay kan-o na m-iling Iloilo.
+Gloss (with missing item): ___ 1P.EXCL.ABS previously LK I.V.IR-go Iloilo
+The English translation of this sentence is:‘We departed previously to go to Iloilo.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Other volitional motion verbs of Class IV, such as larga ‘depart’, never take a location as an oblique or Undergoer argument (\ref{bkm:Ref148793705}). For such verbs, a destination is expressed in a complement clause \REF{bkm:Ref148793741}, preceded by the linker/complementizer na:
+A: word: ga-tago	 gloss: I.R-hide
+B: word: ga-larga	 gloss: I.R-depart
+C: word: m-larga	 gloss: I.V.IR-depart
+D: word: ma-larga	 gloss: A.HAP.IR-depart
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 32:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Piro mangngod i ___ naan ta bubon para dili ma-kita.\\
+Gloss (with missing item): but younger.sibling DEF.N ___ SPAT.DEF NABS well for NEG.IR A.HAP.IR-see
+The English translation of this sentence is:‘But the younger sibling hid in the well in order not to be seen.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The volitional intransitive verb, tago ‘to hide’, may express a location optionally as an oblique (\ref{bkm:Ref148793817}), but this is not a detransitive of direct causation because it cannot mean ``the younger sibling hid a well":
+A: word: pa-balik	 gloss: T.R-return
+B: word: ga-layas	 gloss: I.R-flee
+C: word: ga-tago	 gloss: I.R-hide
+D: word: ga-tagtag	 gloss: I.R-distribute
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 33:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Kanen i ___ ta yi na puļo paagi ta pag-sakay ta lunday para ma-ng-laya.\\
+Gloss (with missing item): 3S.ABS DEF.N ___ NABS D1ADJ LK island by.means NABS NR.ACT-ride NABS outrigger.canoe for A.HAP.IR-PL-cast.net
+The English translation of this sentence is:‘He went to this island by means of riding an outrigger canoe in order to cast-net fish.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref148947015} illustrates the volitional intransitive motion root, iling ‘to go’, with an obligatory destination expressed as an oblique \REF{bkm:Ref148947015} or as absolutive with applicative, \REF{bkm:Ref148947027} and \REF{bkm:Ref148947052}:
+A: word: pa-iling-an	 gloss: T.R-go-APL
+B: word: ga-kuyog	 gloss: I.R-go.with
+C: word: ga-iling	 gloss: I.R-go
+D: word: na-agi-an	 gloss: A.HAP.R-experience-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 34:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Kanen i ___ ta yi na puļo paagi ta pag-sakay ta lunday para ma-ng-laya.\\
+Gloss (with missing item): 3S.ABS DEF.N ___ NABS D1ADJ LK island by.means NABS NR.ACT-ride NABS outrigger.canoe for A.HAP.IR-PL-cast.net
+The English translation of this sentence is:‘He went to this island by means of riding an outrigger canoe in order to cast-net fish.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref148947015} illustrates the volitional intransitive motion root, iling ‘to go’, with an obligatory destination expressed as an oblique \REF{bkm:Ref148947015} or as absolutive with applicative, \REF{bkm:Ref148947027} and \REF{bkm:Ref148947052}:
+A: word: ga-kuyog	 gloss: I.R-go.with
+B: word: pa-iling-an	 gloss: T.R-go-APL
+C: word: pa-pa-balik	 gloss: T.R-CAUS-return
+D: word: ga-iling	 gloss: I.R-go
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 35:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pamiro, first time, ko na ___ Puerto.
+Gloss (with missing item): first first time 1S.ERG LK ___ Puerto.
+The English translation of this sentence is:‘First, first time, I went to Puerto.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref148947015} illustrates the volitional intransitive motion root, iling ‘to go’, with an obligatory destination expressed as an oblique \REF{bkm:Ref148947015} or as absolutive with applicative, \REF{bkm:Ref148947027} and \REF{bkm:Ref148947052}:
+A: word: ga-iling	 gloss: I.R-go
+B: word: pa-iling-an	 gloss: T.R-go-APL
+C: word: pa-ambaļ-an	 gloss: T.R-say-APL
+D: word: ma-ayad	 gloss: A.HAP.IR-well
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 36:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Kaysan bisan puon ta mga darko na mga kaoy paryo ta baliti, kumpang o bugo ___ daw ambaļ-en dya na, “Anen en bata an.”\\
+Gloss (with missing item): sometimes even trunk NABS PL large.PL LK PL trees same/like NABS ficus wild.almond or garuga.floribunda ___ and say-T.IR D4LOC LK EXT.G CM child DEF.M
+The English translation of this sentence is:‘Sometimes even the trunks of large trees like ficus, wild almond or garuga floribunda (they) go to and say there, “Here is the child.”'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref148947015} illustrates the volitional intransitive motion root, iling ‘to go’, with an obligatory destination expressed as an oblique \REF{bkm:Ref148947015} or as absolutive with applicative, \REF{bkm:Ref148947027} and \REF{bkm:Ref148947052}:
+A: word: pa-iling-an	 gloss: T.R-go-APL
+B: word: na-igo	 gloss: A.HAP.R-hit
+C: word: pa-ambaļ-an	 gloss: T.R-say-APL
+D: word: ga-iling	 gloss: I.R-go
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 37:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ta geyem talinga ko i.
+Gloss (with missing item): ___ NABS ant ear 1S.GEN DEF.N
+The English translation of this sentence is:‘The ant(s) happened to go inside my ear.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The following are a few examples of such roots in context. In example \REF{bkm:Ref148966154}, the root seddep ‘go into a small space’ is used in a transitive frame with happenstantial modality. In this case the ants are presented as a “substance” that happened to enter, was able to enter, or had entered the speaker’s ear. In example \REF{bkm:Ref148966156} the same verb occurs in dynamic (volitional) modality. In this case, the ants are presented as “actors”, purposely entering the speaker’s ear:
+A: word: ga-leddang	 gloss: I.R-sink
+B: word: pa-seddep-an	 gloss: T.R-go.in.small.space-APL
+C: word: na-seddep-an	 gloss: A.HAP.R-go.in.small.space-APL
+D: word: ubos	 gloss: all
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 38:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ta geyem talinga ko i.
+Gloss (with missing item): ___ NABS ant ear 1S.GEN DEF.N
+The English translation of this sentence is:‘The ant(s) went inside my ear.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The following are a few examples of such roots in context. In example \REF{bkm:Ref148966154}, the root seddep ‘go into a small space’ is used in a transitive frame with happenstantial modality. In this case the ants are presented as a “substance” that happened to enter, was able to enter, or had entered the speaker’s ear. In example \REF{bkm:Ref148966156} the same verb occurs in dynamic (volitional) modality. In this case, the ants are presented as “actors”, purposely entering the speaker’s ear:
+A: word: ma-ayad	 gloss: A.HAP.IR-well
+B: word: dukwa	 gloss: possibly.some.time
+C: word: na-seddep-an	 gloss: A.HAP.R-go.in.small.space-APL
+D: word: pa-seddep-an	 gloss: T.R-go.in.small.space-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 39:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ta, ake na duma ___ ta baļas an…
+Gloss (with missing item): so 1S.GEN LK companion ___ NABS forest DEF.M
+The English translation of this sentence is:‘So my companion went into the forest…’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref148966256} and \REF{bkm:Ref148965959} illustrate this same root, without the applicative suffix, in dynamic modality:
+A: word: pa-seddep-an	 gloss: T.R-go.in.small.space-APL
+B: word: na-seddep-an	 gloss: A.HAP.R-go.in.small.space-APL
+C: word: pa-iling-an	 gloss: T.R-go-APL
+D: word: ga-seddep	 gloss: I.R-go.in.small.space
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 40:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Aso ta apoy ___ en ta lungag…
+Gloss (with missing item): smoke NABS fire ___ CM NABS hole
+The English translation of this sentence is:‘The smoke of the fire went inside the hole….’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref148966256} and \REF{bkm:Ref148965959} illustrate this same root, without the applicative suffix, in dynamic modality:
+A: word: ga-seddep	 gloss: I.R-go.in.small.space
+B: word: tunaw-en	 gloss: dissolve-T.IR
+C: word: pa-seddep-an	 gloss: T.R-go.in.small.space-APL
+D: word: na-seddep-an	 gloss: A.HAP.R-go.in.small.space-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 41:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Aso ta apoy ___ en ta lungag…
+Gloss (with missing item): smoke NABS fire ___ CM NABS hole
+The English translation of this sentence is:‘The smoke of the fire went inside the hole….’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref148965959} is from a story about a raid on the island of Cagayancillo. A group of Kagayanens were hiding in a cave (referred to as a “hole”), and the attackers set a fire at the entrance to the cave such that everyone inside died except one woman. This was a volitional act on the part of the raiders, though the absolutive argument, the smoke, is not itself volitional:
+A: word: na-gisi	 gloss: A.HAP.R-tear
+B: word: pa-seddep-an	 gloss: T.R-go.in.small.space-APL
+C: word: ga-seddep	 gloss: I.R-go.in.small.space
+D: word: na-seddep-an	 gloss: A.HAP.R-go.in.small.space-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 42:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ta buļan na ga-ligad ___ ko a masakit na swalem.
+Gloss (with missing item): NABS month/moon LK I.R-pass.by ___ 1S.ERG INJ sick LK chickenpox
+The English translation of this sentence is:‘In the month that passed by I experienced the sickness of chickenpox.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The root agi may take dynamic affixes, in which case it expresses the meaning of ‘to pass somewhere’, and falls into Class IV. However, when occurring with happenstantial affixes, it has the somewhat idiomatic meaning of ‘to experience’, as a sickness (example \ref{bkm:Ref150244144}). In this case the experiencer is expressed as ergative, and the source of the experience as absolutive. Therefore in this usage it falls into Subclass Vb:
+A: word: na-agi-an	 gloss: A.HAP.R-experience-APL
+B: word: agi-an	 gloss: pass-APL
+C: word: na-aļaman	 gloss: A.HAP.R-know-APL
+D: word: ayad	 gloss: well
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 43:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ko kalilawan i.
+Gloss (with missing item): ___ 1S.ERG Philippine.oriole DEF.N
+The English translation of this sentence is:‘I hit the Philippine oriole.’ (He was shooting at it with a slingshot.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The verb igo ‘hit/strike’ describes the non-volitional act of hitting an object, as a tree branch falling on a parked car, or a rock hitting a window. It may or may not be the result of a volitional act of throwing, shooting, etc. (as in \ref{bkm:Ref150345606}), but the event of hitting is presented as happenstantial.
+A: word: na-ipit	 gloss: A.HAP.R-pin
+B: word: na-agi-an	 gloss: A.HAP.R-experience-APL
+C: word: na-igo	 gloss: A.HAP.R-hit
+D: word: pa-pakang	 gloss: T.R-hit
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 44:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ga-bangon a daw ___ ta pitrumaks.
+Gloss (with missing item): I.R-get.up 1S.ABS and ___ NABS petromax
+The English translation of this sentence is:‘I got up and lit a petromax.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The following are a few examples of each of these major groups from the corpus. Examples \REF{ex:tobecomewell} through \REF{bkm:Ref150434151} illustrate Group 1 roots. The ungrammatical forms illustrate their non-occurrence with the m- prefix:
+A: word: mag-tutod	 gloss: I.IR-light
+B: word: mag-tunga	 gloss: I.IR-come.up.from.underwater
+C: word: “mag-pa-kita	 gloss: I.IR-CAUS-see
+D: word: tunaw-en	 gloss: dissolve-T.IR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 45:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Apang ta pang-tallo ko na pag-eseb ___ a dagat naan tuman ta ake na ilek.
+Gloss (with missing item): but NABS ORD-three 1S.GEN LK NR.ACT-go.underwater ___ 1S.ABS sea NABS until NABS 1S.GEN LK armpit
+The English translation of this sentence is:‘But on my third going under water I came up from under the sea to my armpits.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref150434299} through \REF{bkm:Ref150430302} illustrate Group 2 verbs from Classes IV, VI, VII, and VIII that may take m{}- as well as mag{}- as the intransitive, irrealis inflection. Sometimes there is no discernible difference in meaning between the two forms, while other times the m{}- forms describe more immediate, inevitable situations. The mag{}- forms tend to describe more non-specific, habitual situations, often in combination with another clause in the same construction. Example \REF{bkm:Ref150434299} illustrates the culminative usage of irrealis modality (see \chapref{chap:verbstructure}, \sectref{sec:intransitiveirrealis}):
+A: word: mag-tunga	 gloss: I.IR-come.up.from.underwater
+B: word: mag-tutod	 gloss: I.IR-light
+C: word: pa-pa-leddang	 gloss: T.R-CAUS-sink
+D: word: m-tunga	 gloss: I.V.IR-come.up.from.underwater
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 46:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Apang ta pang-tallo ko na pag-eseb ___ a dagat naan tuman ta ake na ilek.
+Gloss (with missing item): but NABS ORD-three 1S.GEN LK NR.ACT-go.underwater ___ 1S.ABS sea NABS until NABS 1S.GEN LK armpit
+The English translation of this sentence is:‘But on my third going under water I came up from under the sea to my armpits.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref150434299} through \REF{bkm:Ref150430302} illustrate Group 2 verbs from Classes IV, VI, VII, and VIII that may take m{}- as well as mag{}- as the intransitive, irrealis inflection. Sometimes there is no discernible difference in meaning between the two forms, while other times the m{}- forms describe more immediate, inevitable situations. The mag{}- forms tend to describe more non-specific, habitual situations, often in combination with another clause in the same construction. Example \REF{bkm:Ref150434299} illustrates the culminative usage of irrealis modality (see \chapref{chap:verbstructure}, \sectref{sec:intransitiveirrealis}):
+A: word: mag-tunga	 gloss: I.IR-come.up.from.underwater
+B: word: m-tunga	 gloss: I.V.IR-come.up.from.underwater
+C: word: mag-tutod	 gloss: I.IR-light
+D: word: na-igo	 gloss: A.HAP.R-hit
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 47:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pang-tallo ko na eseb ___ a dagat naan tuman ta ilek i.
+Gloss (with missing item): ORD-three 1S.GEN LK go.underwater ___ 1S.ABS sea SPAT.DEF until NABS armpit DEF.N
+The English translation of this sentence is:‘My third going under water I came up from under the sea until the armpits.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In a different telling of the same story, the same speaker uses the m{}- form, again in the culminative usage \REF{bkm:Ref150434555}. Here there does not seem to be any discernable difference in meaning:
+A: word: m-tunga	 gloss: I.V.IR-come.up.from.underwater
+B: word: mag-tunga	 gloss: I.IR-come.up.from.underwater
+C: word: babaw	 gloss: shallow
+D: word: na-seddep-an	 gloss: A.HAP.R-go.in.small.space-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+

@@ -1,0 +1,702 @@
+Question 0:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pa-akid-an ko ∅ ___ an ta sidda.
+Gloss (with missing item): T.R-serve-APL 1S.ERG ABS ___ DEF.M NABS fish
+The English translation of this sentence is:‘I served her/him some fish.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Benefactive voice often functions to express situations in which something is transferred to a beneficiary, with the beneficiary presented in the absolutive case (examples \ref{bkm:Ref500489993} and \ref{bkm:Ref500489123}). However, transfer is not a necessary component of the meaning of this construction (examples \ref{ex:thecabinet} through \ref{ex:thetikling}).
+A: word: kanen	 gloss: 3S.ABS
+B: word: daen	 gloss: 3P.ABS
+C: word: kaugalingen	 gloss: self
+D: word: danen	 gloss: 3P.ABS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 1:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pa-akid-an ko ∅ kanen ___ ta sidda.
+Gloss (with missing item): T.R-serve-APL 1S.ERG ABS 3S.ABS ___ NABS fish
+The English translation of this sentence is:‘I served her/him some fish.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Benefactive voice often functions to express situations in which something is trthe morpheme ___sferred to a beneficiary, with the beneficiary presented in the absolutive case (examples \ref{bkm:Ref500489993} the morpheme ___d \ref{bkm:Ref500489123}). However, trthe morpheme ___sfer is not a necessary component of the methe morpheme ___ing of this construction (examples \ref{ex:thecabinet} through \ref{ex:thetikling}).
+A: word: mag-lumba-ay	 gloss: I.IR-race-REC
+B: word: ya"	 gloss: DEF.F
+C: word: nang	 gloss: only/just
+D: word: an	 gloss: DEF.M
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ∅-Luto-an ko ∅ ___ an ta sidda.
+Gloss (with missing item): T.IR-cook-APL 1S.ERG ABS ___ DEF.M NABS fish
+The English translation of this sentence is:‘I will cook him/her some fish.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Benefactive voice often functions to express situations in which something is transferred to a beneficiary, with the beneficiary presented in the absolutive case (examples \ref{bkm:Ref500489993} and \ref{bkm:Ref500489123}). However, transfer is not a necessary component of the meaning of this construction (examples \ref{ex:thecabinet} through \ref{ex:thetikling}).
+A: word: ga-kita-ay	 gloss: I.R-see-REC
+B: word: kanen	 gloss: 3S.ABS
+C: word: danen	 gloss: 3P.ABS
+D: word: daen	 gloss: 3P.ABS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 3:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ∅-Luto-an ko ∅ kanen ___ ta sidda.
+Gloss (with missing item): T.IR-cook-APL 1S.ERG ABS 3S.ABS ___ NABS fish
+The English translation of this sentence is:‘I will cook him/her some fish.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Benefactive voice often functions to express situations in which something is trthe morpheme ___sferred to a beneficiary, with the beneficiary presented in the absolutive case (examples \ref{bkm:Ref500489993} the morpheme ___d \ref{bkm:Ref500489123}). However, trthe morpheme ___sfer is not a necessary component of the methe morpheme ___ing of this construction (examples \ref{ex:thecabinet} through \ref{ex:thetikling}).
+A: word: ga-pa-lunot	 gloss: I.R-CAUS-decay
+B: word: an	 gloss: DEF.M
+C: word: ya"	 gloss: DEF.F
+D: word: nang	 gloss: only/just
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 4:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ∅-Luto-an ko ∅ ___ an ta sidda.
+Gloss (with missing item): T.IR-cook-APL 1S.ERG ABS ___ DEF.M NABS fish
+The English translation of this sentence is:‘I will cook him/her some fish.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Without the applicative marker on the verb, example \REF{bkm:Ref500489123} could only be understood as patient voice, which would be anomalous with these arguments: “I will cook him/her (with/on/by) fish.”
+A: word: danen	 gloss: 3P.ABS
+B: word: daen	 gloss: 3P.ABS
+C: word: ∅-pa-dagsa-an	 gloss: T.IR-CAUS-wash.ashore-APL
+D: word: kanen	 gloss: 3S.ABS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 5:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ∅-Luto-an ko ∅ kanen ___ ta sidda.
+Gloss (with missing item): T.IR-cook-APL 1S.ERG ABS 3S.ABS ___ NABS fish
+The English translation of this sentence is:‘I will cook him/her some fish.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Without the applicative marker on the verb, example \REF{bkm:Ref500489123} could only be understood as patient voice, which would be the morpheme ___omalous with these arguments: “I will cook him/her (with/on/by) fish.”
+A: word: pa-garay-an	 gloss: T.R-chant-APL
+B: word: an	 gloss: DEF.M
+C: word: ya"	 gloss: DEF.F
+D: word: nang	 gloss: only/just
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 6:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): I-luto ___ no ta sidda.
+Gloss (with missing item): T.DEON-cook ___ 2S.ERG NABS fish
+The English translation of this sentence is:‘You must cook me some fish.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As discussed in \chthe morpheme ___pref{chthe morpheme ___p:verbstructure}, \sectref{sec:modthe morpheme ___lity} the Deontic prefix i- mthe morpheme ___y function the morpheme ___s the morpheme ___n the morpheme ___pplicthe morpheme ___tive mthe morpheme ___rker, the morpheme ___s in \REF{bkm:Ref500489008}. As such, i- mthe morpheme ___y function the morpheme ___s the morpheme ___ deontic Benefthe morpheme ___ctive mthe morpheme ___rker:
+A: word: baso	 gloss: glass
+B: word: (pag)-dļagan	 gloss: NR.ACT-run
+C: word: ga-tubang-ay	 gloss: I.R-facing-REC
+D: word: a	 gloss: 1S.ABS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 7:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): I-luto ___ no ta sidda.
+Gloss (with missing item): T.DEON-cook ___ 2S.ERG NABS fish
+The English translation of this sentence is:‘You must cook me some fish.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Technicthe morpheme ___lly, \ref{bkm:Ref500489008} is the morpheme ___mbiguous between Benefthe morpheme ___ctive the morpheme ___nd Pthe morpheme ___tient voice. However, prthe morpheme ___gmthe morpheme ___ticthe morpheme ___lly it cthe morpheme ___n only be understood the morpheme ___s Benefthe morpheme ___ctive voice, since people don’t cook other people. We the morpheme ___re reminded of English sentences like “I will mthe morpheme ___ke you the morpheme ___ sthe morpheme ___ndwich” which the morpheme ___re similthe morpheme ___rly “the morpheme ___mbiguous”. The usthe morpheme ___ge illustrthe morpheme ___ted in \REF{bkm:Ref500489008} hthe morpheme ___s the morpheme ___lso been described the morpheme ___s “conveythe morpheme ___nce voice” in \isi{Cebuthe morpheme ___no} bthe morpheme ___sed on the fthe morpheme ___ct ththe morpheme ___t it presents the Undergoer (siddthe morpheme ___ ‘fish’) the morpheme ___s moving the morpheme ___wthe morpheme ___y from the Actor \citep[69]{wolff1973}.
+A: word: kaugalingen	 gloss: self
+B: word: barangay	 gloss: community
+C: word: a	 gloss: 1S.ABS
+D: word: baso	 gloss: glass
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 8:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): I-luto ___ no ta sidda.
+Gloss (with missing item): T.DEON-cook ___ 2S.ERG NABS fish
+The English translation of this sentence is:‘You must cook me some fish.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Technicthe morpheme ___lly, \ref{bkm:Ref500489008} is the morpheme ___mbiguous between Benefthe morpheme ___ctive the morpheme ___nd Pthe morpheme ___tient voice. However, prthe morpheme ___gmthe morpheme ___ticthe morpheme ___lly it cthe morpheme ___n only be understood the morpheme ___s Benefthe morpheme ___ctive voice, since people don’t cook other people. We the morpheme ___re reminded of English sentences like “I will mthe morpheme ___ke you the morpheme ___ sthe morpheme ___ndwich” which the morpheme ___re similthe morpheme ___rly “the morpheme ___mbiguous”. The usthe morpheme ___ge illustrthe morpheme ___ted in \REF{bkm:Ref500489008} hthe morpheme ___s the morpheme ___lso been described the morpheme ___s “conveythe morpheme ___nce voice” in \isi{Cebuthe morpheme ___no} bthe morpheme ___sed on the fthe morpheme ___ct ththe morpheme ___t it presents the Undergoer (siddthe morpheme ___ ‘fish’) the morpheme ___s moving the morpheme ___wthe morpheme ___y from the Actor \citep[69]{wolff1973}.
+A: word: a	 gloss: 1S.ABS
+B: word: na-tanem-an	 gloss: A.HAP.R-plant-APL
+C: word: “anen	 gloss: EXT.G
+D: word: baso	 gloss: glass
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 9:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Kami may basak ___ nay ta niog.
+Gloss (with missing item): 1P.EXCL.ABS EXT.IN land ___ 1P.EXCL.ERG NABS coconut
+The English translation of this sentence is:‘As for us (we) have land on which we have planted coconut trees.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref118204268} illustrates an applicative construction inside a relative clause. The head is basak ‘land’, which is the location of planting.
+A: word: basa-ay	 gloss: read-REC
+B: word: ga-tanem	 gloss: T.R-plant
+C: word: na-tanem-an	 gloss: A.HAP.R-plant-APL
+D: word: ma-ng-tanem	 gloss: A.HAP.IR-PL-plant
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 10:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Nanligan i ___ din bata daw ...-batang-an ta waig a ulo ta bata. Tapos pa-garay-an din.\\
+Gloss (with missing item): midwife DEF.N ___ 3S.ERG child and T.R-put-APL NABS water INJ head NABS child then T.R-chant-APL 3S.ERG
+The English translation of this sentence is:`As for the midwife, she holds the child and puts some water on the head of the child. Then she chants (for the child).’ (This is a naming ceremony for newborn babies similar to baptism.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref118204569} illustrates three applicative constructions. The first applicative involves the root ibit ‘hold’, which is a member of the class of roots that always appear in an applicative form when transitive (Class VIII). All such roots involve a patient that does not undergo a change in state, but is only slightly, superficially or invisibly affected by the action of the verb. In this case, the act of holding a child does not change or affect the child in any substantive way, and thus the child shares the semantic feature of “superficial affectedness” with locations. \chapref{chap:verbclasses-1}, \sectref{sec:volitionaltransitiveroots} contains a long list of such roots. In the second applicative in \REF{bkm:Ref118204569}, the location of the placing of water is the head of the child, which appears in the absolutive. Finally, in the third applicative, the absolutive argument of the stem garayan ‘to chant for’ is ellipted because the child is the main topic in this stretch of text, and in the context it is clear that the midwife chants for the child.
+A: word: mag-pa-kasaļ	 gloss: I.IR-CAUS-wedding
+B: word: ∅-ibit-an	 gloss: T.IR-hold-APL
+C: word: pa-duma-an	 gloss: T.R-other-APL
+D: word: pa-ibit-an	 gloss: T.R-hold-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 11:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Nanligan i pa-ibit-an din bata daw ...-batang-an ta waig a ulo ta bata. Tapos ___ din.\\
+Gloss (with missing item): midwife DEF.N T.R-hold-APL 3S.ERG child and T.R-put-APL NABS water INJ head NABS child then ___ 3S.ERG
+The English translation of this sentence is:`As for the midwife, she holds the child and puts some water on the head of the child. Then she chants (for the child).’ (This is a naming ceremony for newborn babies similar to baptism.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref118204569} illustrates three applicative constructions. The first applicative involves the root ibit ‘hold’, which is a member of the class of roots that always appear in an applicative form when transitive (Class VIII). All such roots involve a patient that does not undergo a change in state, but is only slightly, superficially or invisibly affected by the action of the verb. In this case, the act of holding a child does not change or affect the child in any substantive way, and thus the child shares the semantic feature of “superficial affectedness” with locations. \chapref{chap:verbclasses-1}, \sectref{sec:volitionaltransitiveroots} contains a long list of such roots. In the second applicative in \REF{bkm:Ref118204569}, the location of the placing of water is the head of the child, which appears in the absolutive. Finally, in the third applicative, the absolutive argument of the stem garayan ‘to chant for’ is ellipted because the child is the main topic in this stretch of text, and in the context it is clear that the midwife chants for the child.
+A: word: pa-mati-an	 gloss: T.R-hear-APL
+B: word: mag-pa-kasaļ	 gloss: I.IR-CAUS-wedding
+C: word: sakay-an	 gloss: ride-NR
+D: word: pa-garay-an	 gloss: T.R-chant-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 12:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Nanligan i ___ din bata daw ...-batang-an ta waig a ulo ta bata. Tapos pa-garay-an din.\\
+Gloss (with missing item): midwife DEF.N ___ 3S.ERG child and T.R-put-APL NABS water INJ head NABS child then T.R-chant-APL 3S.ERG
+The English translation of this sentence is:`As for the midwife, she holds the child and puts some water on the head of the child. Then she chants (for the child).’ (This is a naming ceremony for newborn babies similar to baptism.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref118204569} illustrates three applicative constructions. The first applicative involves the root ibit ‘hold’, which is a member of the class of roots that always appear in an applicative form when transitive (Class VIII). All such roots involve a patient that does not undergo a change in state, but is only slightly, superficially or invisibly affected by the action of the verb. In this case, the act of holding a child does not change or affect the child in any substantive way, and thus the child shares the semantic feature of “superficial affectedness” with locations. \chapref{chap:verbclasses-1}, \sectref{sec:volitionaltransitiveroots} contains a long list of such roots. In the second applicative in \REF{bkm:Ref118204569}, the location of the placing of water is the head of the child, which appears in the absolutive. Finally, in the third applicative, the absolutive argument of the stem garayan ‘to chant for’ is ellipted because the child is the main topic in this stretch of text, and in the context it is clear that the midwife chants for the child.
+A: word: iran	 gloss: 3P.GEN
+B: word: pa-ibit-an	 gloss: T.R-hold-APL
+C: word: ∅-ibit-an	 gloss: T.IR-hold-APL
+D: word: pa-duma-an	 gloss: T.R-other-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 13:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Nanligan i pa-ibit-an din bata daw ...-batang-an ta waig a ulo ta bata. Tapos ___ din.\\
+Gloss (with missing item): midwife DEF.N T.R-hold-APL 3S.ERG child and T.R-put-APL NABS water INJ head NABS child then ___ 3S.ERG
+The English translation of this sentence is:`As for the midwife, she holds the child and puts some water on the head of the child. Then she chants (for the child).’ (This is a naming ceremony for newborn babies similar to baptism.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref118204569} illustrates three applicative constructions. The first applicative involves the root ibit ‘hold’, which is a member of the class of roots that always appear in an applicative form when transitive (Class VIII). All such roots involve a patient that does not undergo a change in state, but is only slightly, superficially or invisibly affected by the action of the verb. In this case, the act of holding a child does not change or affect the child in any substantive way, and thus the child shares the semantic feature of “superficial affectedness” with locations. \chapref{chap:verbclasses-1}, \sectref{sec:volitionaltransitiveroots} contains a long list of such roots. In the second applicative in \REF{bkm:Ref118204569}, the location of the placing of water is the head of the child, which appears in the absolutive. Finally, in the third applicative, the absolutive argument of the stem garayan ‘to chant for’ is ellipted because the child is the main topic in this stretch of text, and in the context it is clear that the midwife chants for the child.
+A: word: pa-mati-an	 gloss: T.R-hear-APL
+B: word: sakay-an	 gloss: ride-NR
+C: word: ga-pa-buļong	 gloss: I.R-CAUS-medicine
+D: word: pa-garay-an	 gloss: T.R-chant-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 14:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din bayo din ya ta bļawan…
+Gloss (with missing item): ___ 3S.ERG shirt 3S.GEN DEF.F NABS gold
+The English translation of this sentence is:‘He filled up his shirt with gold...’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref500573274} and \REF{bkm:Ref500573276} have the same argument structure--an Actor in the ergative case and a patient in the absolutive, therefore they are both patient voice. The difference is that \REF{bkm:Ref500573274} is a simple transitive construction, while \REF{bkm:Ref500573276} is an applicative. The meaning of \REF{bkm:Ref500573276} is that the Actor did not cut the wood completely in two parts, but only cut off a small portion. The following examples, repeated here from \chapref{chap:verbstructure}, also illustrate the partitive use of the applicative. Example \REF{bkm:Ref395171869} illustrates the verb panno ‘fill’ in a non-applicative construction. In this example, the shirt is the absolutive, while the Actor, ‘he’ is ergative:
+A: word: kanen	 gloss: 3S.ABS
+B: word: pag--abot	 gloss: NR.ACT-arrive
+C: word: pa-panno-an	 gloss: T.R-fill-APL
+D: word: pa-panno	 gloss: T.R-fill
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 15:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din bayo din ya ta bļawan.
+Gloss (with missing item): ___ 3S.ERG shirt 3S.GEN DEF.F NABS gold
+The English translation of this sentence is:‘He filled part way his shirt with gold.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref395171874v} illustrates the same verb in an applicative construction. Note, however, that the argument structure is the same. The shirt is still absolutive, and the Actor is still ergative:
+A: word: sise	 gloss: little
+B: word: pa-panno-an	 gloss: T.R-fill-APL
+C: word: ga-pa-lunot	 gloss: I.R-CAUS-decay
+D: word: na-panno-an	 gloss: A.HAP.R-fill-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 16:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ kanen ta tampayas.
+Gloss (with missing item): ___ 3S.ABS NABS papaya
+The English translation of this sentence is:‘S/he let/caused the papaya to decay.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As with all semantically transitive\is{semantic transitivity}\is{transitivity!semantic} verbs, causative verb stems can appear in a Detransitive (Actor voice) construction. In this case, the pa{}- causative does appear with some verbs (such as lunot `decay' in example \ref{bkm:Ref501112712}) but not with others (such as pudpod, ‘crumble into powder’ in example \ref{bkm:Ref329259219}):
+A: word: baybay	 gloss: beach
+B: word: ga-pa-lunot	 gloss: I.R-CAUS-decay
+C: word: ga-pa-luko	 gloss: I.R-CAUS-trick
+D: word: pa-pa-tunaw	 gloss: T.R-CAUS-dissolve
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 17:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ kanen an ta buļong.
+Gloss (with missing item): ___ 3S.ABS DEF.M NABS medicine
+The English translation of this sentence is:‘S/he is/was crumbling medicine into powder.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As with all semantically transitive\is{semantic transitivity}\is{transitivity!semantic} verbs, causative verb stems can appear in a Detransitive (Actor voice) construction. In this case, the pa{}- causative does appear with some verbs (such as lunot `decay' in example \ref{bkm:Ref501112712}) but not with others (such as pudpod, ‘crumble into powder’ in example \ref{bkm:Ref329259219}):
+A: word: ga-pursigir	 gloss: I.R-persevere
+B: word: ake	 gloss: 1S.GEN
+C: word: ga-pudpod	 gloss: I.R-crumble.into.powder
+D: word: pa-tunaw	 gloss: T.R-dissolve
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 18:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ kanen an ta buļong.
+Gloss (with missing item): ___ 3S.ABS DEF.M NABS medicine
+The English translation of this sentence is:‘S/he is/was crumbling medicine into powder.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: We know that \REF{bkm:Ref329259219} is a detransitive of a causative construction and not a simple intransitive construction because a) the absolutive pronoun refers to a person, and persons don’t (normally) crumble into powder, and b) the understanding is that the medicine is what crumbles, with the absolutive argument referring to a causal agent.
+A: word: na-tanem-an	 gloss: A.HAP.R-plant-APL
+B: word: ga-pudpod	 gloss: I.R-crumble.into.powder
+C: word: pa-tunaw	 gloss: T.R-dissolve
+D: word: ga-pursigir	 gloss: I.R-persevere
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 19:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ din ki yaken baybay an ta mga batang.
+Gloss (with missing item): ___ 3S.ERG OBL.P 1s beach DEF.M NABS PL driftwood
+The English translation of this sentence is:`S/he will make me let some driftwood wash ashore on the beach.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: We know that the pa{}- prefix is a causative, and the modality is irrealis in \REF{bkm:Ref501176811} because of the argument structure. The presence of an oblique argument, ki yaken, makes it clear that this is a double causative. The absence of an overt transitivity marker on the verb indicates that this must be irrealis modality (recall that the presence of the applicative -an precludes the use of the transitive irrealis suffix -en, thus leaving “zero” as the only indicator of transitivity). If the pa{}- in this example were the transitive realis pa{}-, the only possible reading would be “You brought the driftwood to the beach at me,” and such a meaning is impossible.
+A: word: ga-pa-buļong	 gloss: I.R-CAUS-medicine
+B: word: na-dagsa-an	 gloss: A.HAP.R-wash.ashore-APL
+C: word: manang	 gloss: older.sister
+D: word: ∅-pa-dagsa-an	 gloss: T.IR-CAUS-wash.ashore-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 20:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ∅-Pa-dagsa-an din ki yaken ___ an ta mga batang.
+Gloss (with missing item): T.IR-CAUS-wash.ashore-APL 3S.ERG OBL.P 1s ___ DEF.M NABS PL driftwood
+The English translation of this sentence is:`S/he will make me let some driftwood wash ashore on the beach.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: We know that the pa{}- prefix is a causative, and the modality is irrealis in \REF{bkm:Ref501176811} because of the argument structure. The presence of an oblique argument, ki yaken, makes it clear that this is a double causative. The absence of an overt transitivity marker on the verb indicates that this must be irrealis modality (recall that the presence of the applicative -an precludes the use of the transitive irrealis suffix -en, thus leaving “zero” as the only indicator of transitivity). If the pa{}- in this example were the transitive realis pa{}-, the only possible reading would be “You brought the driftwood to the its gloss ___ at me,” and such a meaning is impossible.
+A: word: kabay	 gloss: may.it.be
+B: word: na-tanem-an	 gloss: A.HAP.R-plant-APL
+C: word: baybay	 gloss: beach
+D: word: pantad	 gloss: sand
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 21:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ∅-Pa-dagsa-an din ki yaken baybay ___ ta mga batang.
+Gloss (with missing item): T.IR-CAUS-wash.ashore-APL 3S.ERG OBL.P 1s beach ___ NABS PL driftwood
+The English translation of this sentence is:`S/he will make me let some driftwood wash ashore on the beach.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: We know that the pa{}- prefix is a causative, the morpheme ___d the modality is irrealis in \REF{bkm:Ref501176811} because of the argument structure. The presence of the morpheme ___ oblique argument, ki yaken, makes it clear that this is a double causative. The absence of the morpheme ___ overt trthe morpheme ___sitivity marker on the verb indicates that this must be irrealis modality (recall that the presence of the applicative -the morpheme ___ precludes the use of the trthe morpheme ___sitive irrealis suffix -en, thus leaving “zero” as the only indicator of trthe morpheme ___sitivity). If the pa{}- in this example were the trthe morpheme ___sitive realis pa{}-, the only possible reading would be “You brought the driftwood to the beach at me,” the morpheme ___d such a methe morpheme ___ing is impossible.
+A: word: ya"	 gloss: DEF.F
+B: word: an	 gloss: DEF.M
+C: word: nang	 gloss: only/just
+D: word: ga-kita-ay	 gloss: I.R-see-REC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 22:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ka nang en daw manakem ka.
+Gloss (with missing item): ___ 2S.ABS just CM if/when older 2S.ABS
+The English translation of this sentence is:‘Just have yourself taken care of when you are elderly.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The detransitive causative of some verbs has a reflexive sense, since the causer and the patient may be coreferential (\ref{bkm:Ref329267348}). The meaning is ‘to let oneself have something done to oneself.’ A distinct causee can occur optionally in an oblique phrase, as in \REF{bkm:Ref329267373} and \REF{bkm:Ref329267376}.
+A: word: mag-pa-aļam	 gloss: I.IR-CAUS-know
+B: word: mag-pa-ilis	 gloss: I.IR-CAUS-shallow.sea
+C: word: mag-pa-sagod	 gloss: I.IR-CAUS-take.care
+D: word: pa-panno-an	 gloss: T.R-fill-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 23:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ a naan ta duktor.
+Gloss (with missing item): ___ 1S.ABS SPAT.DEF NABS doctor
+The English translation of this sentence is:‘I am/was having myself medicated by the doctor.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The detransitive causative of some verbs has a reflexive sense, since the causer and the patient may be coreferential (\ref{bkm:Ref329267348}). The meaning is ‘to let oneself have something done to oneself.’ A distinct causee can occur optionally in an oblique phrase, as in \REF{bkm:Ref329267373} and \REF{bkm:Ref329267376}.
+A: word: baybay	 gloss: beach
+B: word: mag-pa-sagod	 gloss: I.IR-CAUS-take.care
+C: word: ga-pa-buļong	 gloss: I.R-CAUS-medicine
+D: word: ga-buļong	 gloss: I.R-crash.together
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 24:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ka nang imo ta yo na ittaw.
+Gloss (with missing item): ___ 2S.ABS just EMPH NABS D4ADJ LK person
+The English translation of this sentence is:‘You just let yourself be tricked by that person.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The detransitive causative of some verbs has a reflexive sense, since the causer and the patient may be coreferential (\ref{bkm:Ref329267348}). The meaning is ‘to let oneself have something done to oneself.’ A distinct causee can occur optionally in an oblique phrase, as in \REF{bkm:Ref329267373} and \REF{bkm:Ref329267376}.
+A: word: ga-pa-lunot	 gloss: I.R-CAUS-decay
+B: word: ga-dakep	 gloss: I.R-catch
+C: word: ake	 gloss: 1S.GEN
+D: word: ga-pa-luko	 gloss: I.R-CAUS-trick
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 25:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Sabat ta pangka ya, ___ a ta imo na mga ginikanan daw ambaļ-en ko danen na mag-pa-kasaļ ki."
+Gloss (with missing item): answer NASB frog DEF.F ___ 1S.ABS NABS 2S.GEN LK PL parent and say-T.IR 1S.ERG 3P.ABS LK I.IR-CAUS-wedding 1P.INCL.ABS
+The English translation of this sentence is:`The frog answered, “I will show myself to your parents and I will tell them that we are going to get (ourselves) wedded/married.”'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref108689939} illustrates two instances of this “reflexive/causative” usage for two other verbs, kita ‘to see’ and kasaļ ‘to marry’:
+A: word: “mag-pa-kita	 gloss: I.IR-CAUS-see
+B: word: mag-pa-kasaļ	 gloss: I.IR-CAUS-wedding
+C: word: mag-pa-aļam	 gloss: I.IR-CAUS-know
+D: word: ake	 gloss: 1S.GEN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 26:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Sabat ta pangka ya, “Mag-pa-kita a ta imo na mga ginikanan daw ambaļ-en ko danen na ___ ki."
+Gloss (with missing item): answer NASB frog DEF.F I.IR-CAUS-see 1S.ABS NABS 2S.GEN LK PL parent and say-T.IR 1S.ERG 3P.ABS LK ___ 1P.INCL.ABS
+The English translation of this sentence is:`The frog answered, “I will show myself to your parents and I will tell them that we are going to get (ourselves) wedded/married.”'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{bkm:Ref108689939} illustrates two instances of this “reflexive/causative” usage for two other verbs, kita ‘to see’ and kasaļ ‘to marry’:
+A: word: nang	 gloss: only/just
+B: word: “mag-pa-kita	 gloss: I.IR-CAUS-see
+C: word: mag-prusisyon	 gloss: I.IR-procession
+D: word: mag-pa-kasaļ	 gloss: I.IR-CAUS-wedding
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 27:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pa-nina din ___ din an.
+Gloss (with missing item): T.R-wound 3S.ERG ___ 3S.GEN DEF.M
+The English translation of this sentence is:‘S/he wounded him/herself.’ (lit. ’S/he wounded her/his own body.’)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Except for these lexical reflexives, and the extended use of causative morphology to express a kind of reflexive described in the previous section, most reflexive constructions in Kagayanen are syntactic. They consist of a transitive or detransitive construction with a possessed Referring Phrase headed either by kaugalingen ‘self’ or the morpheme ___ ‘its gloss ___’ occurring in the Undergoer role. These may either be transitive (\ref{bkm:Ref118617763}), or detransitive (\ref{bkm:Ref118617766}):
+A: word: pa-panno-an	 gloss: T.R-fill-APL
+B: word: gettek	 gloss: stomach
+C: word: kalilawan	 gloss: Philippine.oriole
+D: word: lawa	 gloss: body
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 28:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pa-nina din lawa ___ an.
+Gloss (with missing item): T.R-wound 3S.ERG body ___ DEF.M
+The English translation of this sentence is:‘S/he wounded him/herself.’ (lit. ’S/he wounded her/his own body.’)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Except for these lexical reflexives, and the extended use of causative morphology to express a kind of reflexive described in the previous section, most reflexive constructions in Kagayanen are syntactic. They consist of a transitive or detransitive construction with a possessed Referring Phrase headed either by kaugalingen ‘self’ or lawa ‘body’ occurring in the Undergoer role. These may either be transitive (\ref{bkm:Ref118617763}), or detransitive (\ref{bkm:Ref118617766}):
+A: word: iran	 gloss: 3P.GEN
+B: word: din	 gloss: 3S.GEN
+C: word: ga-tubang-ay	 gloss: I.R-facing-REC
+D: word: din…	 gloss: 3S.GEN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 29:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ga-ugas kanen ta ___ din.
+Gloss (with missing item): I.R-wash 3S.ABS NABS ___ 3S.GEN
+The English translation of this sentence is:‘S/he washed her/himself.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Except for these lexical reflexives, and the extended use of causative morphology to express a kind of reflexive described in the previous section, most reflexive constructions in Kagayanen are syntactic. They consist of a transitive or detransitive construction with a possessed Referring Phrase headed either by the morpheme ___ ‘its gloss ___’ or lawa ‘body’ occurring in the Undergoer role. These may either be transitive (\ref{bkm:Ref118617763}), or detransitive (\ref{bkm:Ref118617766}):
+A: word: kaugalingen	 gloss: self
+B: word: ittaw	 gloss: person
+C: word: iran	 gloss: 3P.GEN
+D: word: ugaling	 gloss: however
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 30:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pa-nina din ___ din an.
+Gloss (with missing item): T.R-wound 3S.ERG ___ 3S.GEN DEF.M
+The English translation of this sentence is:‘S/he wounded him/herself.’ (lit. ’S/he wounded her/his own body.’)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These examples must be understood as reflexive; the possessor of the Undergoer may not refer to a distinct person. In other words, \REF{bkm:Ref118617763} cannot mean `S/he wounded someone else's its gloss ___’. Kaugalingen is the dedicated reflexive nominal. Lawa ’physical its gloss ___’ is sometimes used in place of kaugalingen, possibly because it is shorter.
+A: word: kalilawan	 gloss: Philippine.oriole
+B: word: lawa	 gloss: body
+C: word: gettek	 gloss: stomach
+D: word: kaugalingen	 gloss: self
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 31:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pa-nina din lawa ___ an.
+Gloss (with missing item): T.R-wound 3S.ERG body ___ DEF.M
+The English translation of this sentence is:‘S/he wounded him/herself.’ (lit. ’S/he wounded her/his own body.’)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These examples must be understood as reflexive; the possessor of the Undergoer may not refer to a distinct person. In other words, \REF{bkm:Ref118617763} cannot mean `S/he wounded someone else's body’. Kaugalingen is the dedicated reflexive nominal. Lawa ’physical body’ is sometimes used in place of kaugalingen, possibly because it is shorter.
+A: word: din…	 gloss: 3S.GEN
+B: word: ga-kita-ay	 gloss: I.R-see-REC
+C: word: iran	 gloss: 3P.GEN
+D: word: din	 gloss: 3S.GEN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 32:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pa-nina din ___ din an.
+Gloss (with missing item): T.R-wound 3S.ERG ___ 3S.GEN DEF.M
+The English translation of this sentence is:‘S/he wounded him/herself.’ (lit. ’S/he wounded her/his own body.’)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref118617763} and \REF{bkm:Ref118618251}-\REF{bkm:Ref118618196} show that ergative case Actors may antecede absolutive case reflexive RPs. Examples \REF{bkm:Ref118617766} and \REF{bkm:Ref501865097} illustrate that an absolutive Actor (ka ‘you’) may be the antecedent for a reflexive Referring Phrase in a detransitive construction:
+A: word: ga-pa-buļong	 gloss: I.R-CAUS-medicine
+B: word: kalilawan	 gloss: Philippine.oriole
+C: word: lawa	 gloss: body
+D: word: gettek	 gloss: stomach
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 33:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pa-nina din lawa ___ an.
+Gloss (with missing item): T.R-wound 3S.ERG body ___ DEF.M
+The English translation of this sentence is:‘S/he wounded him/herself.’ (lit. ’S/he wounded her/his own body.’)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref118617763} and \REF{bkm:Ref118618251}-\REF{bkm:Ref118618196} show that ergative case Actors may antecede absolutive case reflexive RPs. Examples \REF{bkm:Ref118617766} and \REF{bkm:Ref501865097} illustrate that an absolutive Actor (ka ‘you’) may be the antecedent for a reflexive Referring Phrase in a detransitive construction:
+A: word: pa-panno-an	 gloss: T.R-fill-APL
+B: word: din	 gloss: 3S.GEN
+C: word: iran	 gloss: 3P.GEN
+D: word: din…	 gloss: 3S.GEN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 34:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nang na kaugalingen isip ya danen.
+Gloss (with missing item): ___ only LK self think DEF.F 3P.ERG
+The English translation of this sentence is:‘Themselves only is what they think about.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref118617763} and \REF{bkm:Ref118618251}-\REF{bkm:Ref118618196} show that ergative case Actors may antecede absolutive case reflexive RPs. Examples \REF{bkm:Ref118617766} and \REF{bkm:Ref501865097} illustrate that an absolutive Actor (ka ‘you’) may be the antecedent for a reflexive Referring Phrase in a detransitive construction:
+A: word: granada	 gloss: grenade
+B: word: iran	 gloss: 3P.GEN
+C: word: pa-ibit-an	 gloss: T.R-hold-APL
+D: word: iya	 gloss: 3S.GEN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 35:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Iran ___ na kaugalingen isip ya danen.
+Gloss (with missing item): 3P.GEN ___ LK self think DEF.F 3P.ERG
+The English translation of this sentence is:‘Themselves only is what they think about.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref118617763} and \REF{bkm:Ref118618251}-\REF{bkm:Ref118618196} show that ergative case Actors may antecede absolutive case reflexive RPs. Examples \REF{bkm:Ref118617766} and \REF{bkm:Ref501865097} illustrate that an absolutive Actor (ka ‘you’) may be the antecedent for a reflexive Referring Phrase in a detransitive construction:
+A: word: manang	 gloss: older.sister
+B: word: pa-garay-an	 gloss: T.R-chant-APL
+C: word: nang	 gloss: only
+D: word: sitaw	 gloss: yardlong.bean
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 36:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Iran nang ___ kaugalingen isip ya danen.
+Gloss (with missing item): 3P.GEN only ___ self think DEF.F 3P.ERG
+The English translation of this sentence is:‘Themselves only is what they think about.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref118617763} and \REF{bkm:Ref118618251}-\REF{bkm:Ref118618196} show that ergative case Actors may antecede absolutive case reflexive RPs. Examples \REF{bkm:Ref118617766} and \REF{bkm:Ref501865097} illustrate that an absolutive Actor (ka ‘you’) may be the antecedent for a reflexive Referring Phrase in a detransitive construction:
+A: word: na	 gloss: LK
+B: word: ake	 gloss: 1S.GEN
+C: word: pa-bunaļ	 gloss: T.R-spank
+D: word: na-buong	 gloss: A.HAP.R-shatter
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 37:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Iran nang na ___ isip ya danen.
+Gloss (with missing item): 3P.GEN only LK ___ think DEF.F 3P.ERG
+The English translation of this sentence is:‘Themselves only is what they think about.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref118617763} and \REF{bkm:Ref118618251}-\REF{bkm:Ref118618196} show that ergative case Actors may antecede absolutive case reflexive RPs. Examples \REF{bkm:Ref118617766} and \REF{bkm:Ref501865097} illustrate that an absolutive Actor (ka ‘you’) may be the antecedent for a reflexive Referring Phrase in a detransitive construction:
+A: word: ittaw	 gloss: person
+B: word: kaugalingen	 gloss: self
+C: word: mag-pa-sagod	 gloss: I.IR-CAUS-take.care
+D: word: ugaling	 gloss: however
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 38:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Piro gusto ko gid anay i-pa-kilala ko ___ na kaugalingen.
+Gloss (with missing item): but want 1S.ERG INT first/for.awhile T.DEON-CAUS-know 1S.ERG ___ LK self
+The English translation of this sentence is:‘But I really want to first have to introduce myself.’ (kilala is code switching from \isi{Tagalog}.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref118617763} and \REF{bkm:Ref118618251}-\REF{bkm:Ref118618196} show that ergative case Actors may antecede absolutive case reflexive RPs. Examples \REF{bkm:Ref118617766} and \REF{bkm:Ref501865097} illustrate that an absolutive Actor (ka ‘you’) may be the antecedent for a reflexive Referring Phrase in a detransitive construction:
+A: word: pa-panno-an	 gloss: T.R-fill-APL
+B: word: iya	 gloss: 3S.GEN
+C: word: yaken	 gloss: 1s
+D: word: ake	 gloss: 1S.GEN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 39:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Piro gusto ko gid anay i-pa-kilala ko ake ___ kaugalingen.
+Gloss (with missing item): but want 1S.ERG INT first/for.awhile T.DEON-CAUS-know 1S.ERG 1S.GEN ___ self
+The English translation of this sentence is:‘But I really want to first have to introduce myself.’ (kilala is code switching from \isi{Tagalog}.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref118617763} and \REF{bkm:Ref118618251}-\REF{bkm:Ref118618196} show that ergative case Actors may antecede absolutive case reflexive RPs. Examples \REF{bkm:Ref118617766} and \REF{bkm:Ref501865097} illustrate that an absolutive Actor (ka ‘you’) may be the antecedent for a reflexive Referring Phrase in a detransitive construction:
+A: word: pa-bunaļ	 gloss: T.R-spank
+B: word: na	 gloss: LK
+C: word: sayaw-ay	 gloss: dance-REC
+D: word: na-buong	 gloss: A.HAP.R-shatter
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 40:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ga-ugas kanen ta ___ din.
+Gloss (with missing item): I.R-wash 3S.ABS NABS ___ 3S.GEN
+The English translation of this sentence is:‘S/he washed her/himself.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref118617763} and \REF{bkm:Ref118618251}-\REF{bkm:Ref118618196} show that ergative case Actors may antecede absolutive case reflexive RPs. Examples \REF{bkm:Ref118617766} and \REF{bkm:Ref501865097} illustrate that an absolutive Actor (ka ‘you’) may be the antecedent for a reflexive Referring Phrase in a detransitive construction:
+A: word: ittaw	 gloss: person
+B: word: kaugalingen	 gloss: self
+C: word: ga-tubang-ay	 gloss: I.R-facing-REC
+D: word: ugaling	 gloss: however
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 41:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Dili ka gid dyan mag-pa-baya ta ___ na kaugalingen.
+Gloss (with missing item): NEG,IR 2S.ABS INT D4LOC I.IR-CAUS-ignore NABS ___ LK self
+The English translation of this sentence is:‘Do not just ignore yourself there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref118617763} and \REF{bkm:Ref118618251}-\REF{bkm:Ref118618196} show that ergative case Actors may antecede absolutive case reflexive RPs. Examples \REF{bkm:Ref118617766} and \REF{bkm:Ref501865097} illustrate that an absolutive Actor (ka ‘you’) may be the antecedent for a reflexive Referring Phrase in a detransitive construction:
+A: word: imo	 gloss: 2S.GEN
+B: word: ga-pudpod	 gloss: I.R-crumble.into.powder
+C: word: ma-imo	 gloss: A.HAP.IR-make
+D: word: na-patay	 gloss: A.HAP.R-dead
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 42:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Dili ka gid dyan mag-pa-baya ta imo ___ kaugalingen.
+Gloss (with missing item): NEG,IR 2S.ABS INT D4LOC I.IR-CAUS-ignore NABS 2S.GEN ___ self
+The English translation of this sentence is:‘Do not just ignore yourself there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref118617763} and \REF{bkm:Ref118618251}-\REF{bkm:Ref118618196} show that ergative case Actors may antecede absolutive case reflexive RPs. Examples \REF{bkm:Ref118617766} and \REF{bkm:Ref501865097} illustrate that an absolutive Actor (ka ‘you’) may be the antecedent for a reflexive Referring Phrase in a detransitive construction:
+A: word: ga-pa-luko	 gloss: I.R-CAUS-trick
+B: word: na-buong	 gloss: A.HAP.R-shatter
+C: word: pa-bunaļ	 gloss: T.R-spank
+D: word: na	 gloss: LK
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 43:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Dimalas na ___ danen i naan ta Puerto.
+Gloss (with missing item): bad.luck LK ___ 3P.ABS DEF.N SPAT.DEF NABS Puerto
+The English translation of this sentence is:‘(It was) bad luck that they met each other in Puerto.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref414723974} through \REF{bkm:Ref414775243} illustrate several prototypical examples of the reciprocal suffixes from the text corpus. Following this, some extended usages are described. A prototypical reciprocal construction involves an inherently transitive verb in a grammatically intransitive construction, with a reciprocal suffix on the verb and an Actor understood or explicited expressed as plural. The plural Actor may appear as a plural pronoun (\ref{bkm:Ref414723974}) or full RP (\ref{bkm:Ref414775363}):
+A: word: na-sugat	 gloss: A.HAP.R-meet
+B: word: “mag-pa-kita	 gloss: I.IR-CAUS-see
+C: word: ga-sugat-ay	 gloss: I.R-meet-REC
+D: word: pag-suļat	 gloss: NR.ACT-write
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 44:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pa-ambaļ na tangkeb-an, sura din, may darwa na bato na ___ na may kulor na ga-inog-inog.\footnotemark{}
+Gloss (with missing item): T.R-say LK close-NR looks 3S.GEN EXT.IN two LK rock LK ___ LK EXT.IN color LK I.R-RED-red
+The English translation of this sentence is:`What is called tangkeban, it looks like two rocks that have a reddish color facing each other.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref414723974} through \REF{bkm:Ref414775243} illustrate several prototypical examples of the reciprocal suffixes from the text corpus. Following this, some extended usages are described. A prototypical reciprocal construction involves an inherently transitive verb in a grammatically intransitive construction, with a reciprocal suffix on the verb and an Actor understood or explicited expressed as plural. The plural Actor may appear as a plural pronoun (\ref{bkm:Ref414723974}) or full RP (\ref{bkm:Ref414775363}):
+A: word: ga-tubang-ay	 gloss: I.R-facing-REC
+B: word: ma-tabang-an	 gloss: HAP.IR-help-APL
+C: word: ga-kita-ay	 gloss: I.R-see-REC
+D: word: basa-ay	 gloss: read-REC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 45:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Dimalas na ___ danen i naan ta Puerto.
+Gloss (with missing item): bad.luck LK ___ 3P.ABS DEF.N SPAT.DEF NABS Puerto
+The English translation of this sentence is:‘(It was) bad luck that they met each other in Puerto.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref414723974} through \REF{bkm:Ref414775243} illustrate several prototypical examples of the reciprocal suffixes from the text corpus. Following this, some extended usages are described. A prototypical reciprocal construction involves an inherently transitive verb in a grammatically intransitive construction, with a reciprocal suffix on the verb and an Actor understood or explicited expressed as plural. The plural Actor may appear as a plural pronoun (\ref{bkm:Ref414723974}) or full RP (\ref{bkm:Ref414775363}):
+A: word: pa-ibit-an	 gloss: T.R-hold-APL
+B: word: ga-sugat-ay	 gloss: I.R-meet-REC
+C: word: din…	 gloss: 3S.GEN
+D: word: na-sugat	 gloss: A.HAP.R-meet
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 46:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ danen na tama en na mga umang, pa-sugid-an en na kanen an daw Pwikan kisyem sellem mag-lumba-ay dļagan.
+Gloss (with missing item): ___ 3P.ABS LK many CM LK PL hermit.crab T.R-tell-APL CM LK 3S.ABS DEF.M and sea.turtle tomorrow morning I.IR-race-REC run
+The English translation of this sentence is:`When he and many hermit crabs met, (he) told (them) that he and Sea-turtle tomorrow morning would race each other running.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref414723974} through \REF{bkm:Ref414775243} illustrate several prototypical examples of the reciprocal suffixes from the text corpus. Following this, some extended usages are described. A prototypical reciprocal construction involves an inherently transitive verb in a grammatically intransitive construction, with a reciprocal suffix on the verb and an Actor understood or explicited expressed as plural. The plural Actor may appear as a plural pronoun (\ref{bkm:Ref414723974}) or full RP (\ref{bkm:Ref414775363}):
+A: word: pag-kita	 gloss: NR.ACT-see
+B: word: pag-kita-ay	 gloss: NR.ACT-see-REC
+C: word: na-tanem-an	 gloss: A.HAP.R-plant-APL
+D: word: ga-kita-ay	 gloss: I.R-see-REC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 47:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pag-kita-ay danen na tama en na mga umang, pa-sugid-an en na kanen an daw Pwikan kisyem sellem ___ dļagan.
+Gloss (with missing item): NR.ACT-see-REC 3P.ABS LK many CM LK PL hermit.crab T.R-tell-APL CM LK 3S.ABS DEF.M and sea.turtle tomorrow morning ___ run
+The English translation of this sentence is:`When he and many hermit crabs met, (he) told (them) that he and Sea-turtle tomorrow morning would race each other running.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples \REF{bkm:Ref414723974} through \REF{bkm:Ref414775243} illustrate several prototypical examples of the reciprocal suffixes from the text corpus. Following this, some extended usages are described. A prototypical reciprocal construction involves an inherently transitive verb in a grammatically intransitive construction, with a reciprocal suffix on the verb and an Actor understood or explicited expressed as plural. The plural Actor may appear as a plural pronoun (\ref{bkm:Ref414723974}) or full RP (\ref{bkm:Ref414775363}):
+A: word: mag--ambaļ-anay	 gloss: I.IR-say-REC
+B: word: mag-pa-kasaļ	 gloss: I.IR-CAUS-wedding
+C: word: mag-luoy	 gloss: I.IR-swim
+D: word: mag-lumba-ay	 gloss: I.IR-race-REC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 48:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ danen na tama en na mga umang, pa-sugid-an en na kanen an daw Pwikan kisyem sellem mag-lumba-ay dļagan.
+Gloss (with missing item): ___ 3P.ABS LK many CM LK PL hermit.crab T.R-tell-APL CM LK 3S.ABS DEF.M and sea.turtle tomorrow morning I.IR-race-REC run
+The English translation of this sentence is:`When he and many hermit crabs met, (he) told (them) that he and Sea-turtle tomorrow morning would race each other running.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Notice the first word in example \REF{bkm:Ref414775363} carries the reciprocal suffix -ay and also the action nominalization prefix pag{}- (see \chapref{chap:referringexpressions}, \sectref{sec:pag}). The sense of this action nominalization is “seeing each other”, or “meeting together”. Examples \REF{bkm:Ref501776847} and \REF{bkm:Ref501776849} illustrate the same verb with the reciprocal suffix as the main predicator of the clause:
+A: word: pag-kita-ay	 gloss: NR.ACT-see-REC
+B: word: ∅-pa-dagsa-an	 gloss: T.IR-CAUS-wash.ashore-APL
+C: word: pag-kita	 gloss: NR.ACT-see
+D: word: ga-kita-ay	 gloss: I.R-see-REC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 49:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pag-kita-ay danen na tama en na mga umang, pa-sugid-an en na kanen an daw Pwikan kisyem sellem ___ dļagan.
+Gloss (with missing item): NR.ACT-see-REC 3P.ABS LK many CM LK PL hermit.crab T.R-tell-APL CM LK 3S.ABS DEF.M and sea.turtle tomorrow morning ___ run
+The English translation of this sentence is:`When he and many hermit crabs met, (he) told (them) that he and Sea-turtle tomorrow morning would race each other running.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Notice the first word in example \REF{bkm:Ref414775363} carries the reciprocal suffix -ay and also the action nominalization prefix pag{}- (see \chapref{chap:referringexpressions}, \sectref{sec:pag}). The sense of this action nominalization is “seeing each other”, or “meeting together”. Examples \REF{bkm:Ref501776847} and \REF{bkm:Ref501776849} illustrate the same verb with the reciprocal suffix as the main predicator of the clause:
+A: word: mag-lumba-ay	 gloss: I.IR-race-REC
+B: word: mag-luoy	 gloss: I.IR-swim
+C: word: ga-kita-ay	 gloss: I.R-see-REC
+D: word: mag--ambaļ-anay	 gloss: I.IR-say-REC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 50:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mam, taan sadya kaw pirmi tak ___ kaw ta inyo na mga utod daw arey.
+Gloss (with missing item): Ma’am maybe happy 2P.ABS always because ___ 2P.ABS NABS 2P.GEN LK PL sibling and friend
+The English translation of this sentence is:`Ma’am, maybe you are always happy because you and your siblings and friends are seeing each other.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Notice the first word in example \REF{bkm:Ref414775363} carries the reciprocal suffix -ay and also the action nominalization prefix pag{}- (see \chapref{chap:referringexpressions}, \sectref{sec:pag}). The sense of this action nominalization is “seeing each other”, or “meeting together”. Examples \REF{bkm:Ref501776847} and \REF{bkm:Ref501776849} illustrate the same verb with the reciprocal suffix as the main predicator of the clause:
+A: word: ga-tubang-ay	 gloss: I.R-facing-REC
+B: word: pag-kita-ay	 gloss: NR.ACT-see-REC
+C: word: ga-kita-ay	 gloss: I.R-see-REC
+D: word: ga-sugat-ay	 gloss: I.R-meet-REC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 51:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Nyan na ___ ta bai an.
+Gloss (with missing item): D2ABS LK ___ NABS woman DEF.M
+The English translation of this sentence is:‘Wow! Look at the woman dance!’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Finally, the reciprocal may be used in a special sense when only one participant is acting (\ref{bkm:Ref402683617}-\ref{bkm:Ref118453570}). The free translations of these examples somewhat capture the sense of what this construction expresses, though they are not very literal. A literal translation of \REF{bkm:Ref402683617} would be something like “That is dancing of the woman with each other.” The idea is that the woman is dancing so well or vigorously that it seems as though there are several women dancing together. This is a very productive construction that can involve all kinds of actions and participants.
+A: word: mag-pa-sagod	 gloss: I.IR-CAUS-take.care
+B: word: sayaw-ay	 gloss: dance-REC
+C: word: sayaw	 gloss: dance
+D: word: bellay-an	 gloss: tire-APL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 52:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Nyan na ___ ta libro bata an.
+Gloss (with missing item): D2ABS LK ___ NABS book chld DEF.M
+The English translation of this sentence is:‘Wow! Look at the child reading books!’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Finally, the reciprocal may be used in a special sense when only one participant is acting (\ref{bkm:Ref402683617}-\ref{bkm:Ref118453570}). The free translations of these examples somewhat capture the sense of what this construction expresses, though they are not very literal. A literal translation of \REF{bkm:Ref402683617} would be something like “That is dancing of the woman with each other.” The idea is that the woman is dancing so well or vigorously that it seems as though there are several women dancing together. This is a very productive construction that can involve all kinds of actions and participants.
+A: word: basa-ay	 gloss: read-REC
+B: word: ga-kita-ay	 gloss: I.R-see-REC
+C: word: lawa	 gloss: body
+D: word: basa-en	 gloss: read-T.IR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 53:
+You are a linguist specializing in Kagayanen. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Nyan na ___ ta bai an.
+Gloss (with missing item): D2ABS LK ___ NABS woman DEF.M
+The English translation of this sentence is:‘Wow! Look at the woman dance!’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Finally, the reciprocal may be used in a special sense when only one participant is acting (\ref{bkm:Ref402683617}-\ref{bkm:Ref118453570}). The free translations of these examples somewhat capture the sense of what this construction expresses, though they are not very literal. A literal translation of \REF{bkm:Ref402683617} would be something like “That is dancing of the woman with each other.” The idea is that the woman is dancing so well or vigorously that it seems as though there are several women dancing together. This is a very productive construction that can involve all kinds of actions and participants.
+A: word: igma	 gloss: lunch
+B: word: sayaw-ay	 gloss: dance-REC
+C: word: mag-pa-sagod	 gloss: I.IR-CAUS-take.care
+D: word: sayaw	 gloss: dance
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
