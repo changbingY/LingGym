@@ -1,0 +1,39 @@
+Question 0:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wɛ-H kɛ̀-H nà nyɛ̂ nkɔ̃̀wáká ___ a nzíí wɛ̂ vã́ã̀kɛ́ sâ mpù
+Gloss (with missing item): 2SG-PRS go-R COM 1 equal.sharing ___ 1 PROG.PRS 2SG.OBJ go[Bulu] do like.this
+The English translation of this sentence is:`You go with him equally sharing, he tries to trick you [lit. he is going to do you like this].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The morpheme -{\itshape gà} is an inflectional suffix that attaches to subject pronouns, as shown in \REF{122t}, and to object pronouns, as in \REF{122s}.
+A: word: mɛ̀-gà	 gloss: 1.SBJ-CONTR
+B: word: wû-o-h	 gloss: there-VOC-DIST
+C: word: wɛ̀-gà	 gloss: 2SG.SBJ-CONTR
+D: word: nyɛ̀-gà	 gloss: 1.SBJ-CONTR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 1:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ-H nyɛ̂-H ___
+Gloss (with missing item): 1SG-PRS see-R ___
+The English translation of this sentence is:`I see YOU/you, too.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The morpheme -{\itshape gà} is an inflectional suffix that attaches to subject pronouns, as shown in \REF{122t}, and to object pronouns, as in \REF{122s}.
+A: word: nyɛ̀-gà	 gloss: 1.SBJ-CONTR
+B: word: mɛ̀-gà	 gloss: 1.SBJ-CONTR
+C: word: wɛ̀-gà	 gloss: 2SG-CONTR
+D: word: wɛ̂-gà	 gloss: 2.SG-CONTR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): m-ùdì kí tàtɔ ___
+Gloss (with missing item): N1-person NEG scream ___
+The English translation of this sentence is:`Nobody scream over there!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The vocative suffix is not exclusively restricted to proper names, but can also be used with common nouns. These occurrences are, however, limited to common nouns expressing a relation that can be used as address, such as {\itshape nyá-ò} `mother' and {\itshape tá-ò} `father'. The vocative can also attach to the locative adverb {\itshape wɛ̂} `there', as shown in \REF{VOC}, where it also combines with the distal H tone.
+A: word: wû-o-h	 gloss: there-VOC-DIST
+B: word: pɛ́-ɛ́	 gloss: there-DIST
+C: word: wú-o-h	 gloss: there-VOC-DIST
+D: word: nyɛ̀-gà	 gloss: 1.SBJ-CONTR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+

@@ -1,0 +1,52 @@
+Question 0:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): vɛ̂ mɛ̀ sâ m-wánɔ̀ w-ɔ́ɔ̀ ___ wɛ bùdɛ-H nû
+Gloss (with missing item): give.IMP 1SG.OBJ only N1-child 1-POSS.2SG ___ 2SG have-R 1.DEM.PROX
+The English translation of this sentence is:`Give me only your child that you have here.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The attributive marker also serves as optional marker for relative clauses, as shown in \REF{Gatt2}.
+A: word: nkwànò	 gloss: emptyset3.honey
+B: word: nà	 gloss: CONJ
+C: word: wà	 gloss: 1:ATT
+D: word: (bá)	 gloss: (2:ATT)
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 1:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): vɛ̂ mɛ̀ sâ m-wánɔ̀ w-ɔ́ɔ̀ ___ wɛ bùdɛ-H nû
+Gloss (with missing item): give.IMP 1SG.OBJ only N1-child 1-POSS.2SG ___ 2SG have-R 1.DEM.PROX
+The English translation of this sentence is:`Give me only your child that you have here.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \REF{Gatt2} also illustrates the glossing for demonstratives which represents its two paradigms based on distance: one for proximal (\textsc{dem.prox}) vs.\ distal (\textsc{dem.dist}).
+A: word: nà	 gloss: CONJ
+B: word: nkwànò	 gloss: emptyset3.honey
+C: word: wà	 gloss: 1:ATT
+D: word: (bá)	 gloss: (2:ATT)
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 2:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ pɛ́-ɛ́ mɛ̀ɛ̀ lwɔ̃̂ nyá ndáwɔ̀
+Gloss (with missing item): ___ there-DIST 1SG.FUT build real emptyset9.house
+The English translation of this sentence is:`I will build a real house over there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The prepositions {\itshape the morpheme ___}, marking location, and the comitative {\itshape nà} also appear frequently in glosses. The locative {\it the morpheme ___} often precedes other locative adverbs, as in \REF{Gloc}. See \sectref{sec:its gloss ___e} for more information.
+A: word: ɛ́	 gloss: LOC
+B: word: nà	 gloss: CONJ
+C: word: by-ɛ́sɛ̀	 gloss: 8-all
+D: word: kɛ̀-h-ɛ́	 gloss: go-R-LOC?
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 3:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bá ___ b-wánɔ̀ b-áwɔ̀
+Gloss (with missing item): 2.SBJ ___ ba2-child 2-POSS.3PL
+The English translation of this sentence is:`they and/with their children'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The comitative marker {\it ná} expresses association in the nominal domain and can be translated both as `and' and `with', as shown in \REF{Gcom}.
+A: word: nâ	 gloss: COMP
+B: word: wà	 gloss: 1:ATT
+C: word: nà	 gloss: COM
+D: word: nàmɛ́nɔ́	 gloss: tomorrow
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+

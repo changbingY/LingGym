@@ -1,0 +1,104 @@
+Question 0:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): b-wánɔ̀ ba dè-H mí-mbàngá ___ mí-mbáà
+Gloss (with missing item): ba2-child 2.PST1 eat-R mi4-nut ___ 4-two
+The English translation of this sentence is:`The children ate two nuts each.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In Gyeli, distributive numerals only display one kind of reduplication, namely full reduplication. The numeral, based on its cardinal form, is entirely copied, including its agreement prefixes, if required, and tones, as shown in \REF{nut}.
+A: word: mí-mbáà	 gloss: 4-two
+B: word: má-báà	 gloss: 6-two
+C: word: mí-mbàngá	 gloss: mi4-nut
+D: word: lé	 gloss: 5:ATT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 1:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): b-wánɔ̀ ba dè-H mí-mbàngá mí-mbáà ___
+Gloss (with missing item): ba2-child 2.PST1 eat-R mi4-nut 4-two ___
+The English translation of this sentence is:`The children ate two nuts each.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In Gyeli, distributive numerals only display one kind of reduplication, namely full reduplication. The numeral, based on its cardinal form, is entirely copied, including its agreement prefixes, if required, and tones, as shown in \REF{nut}.
+A: word: má-báà	 gloss: 6-two
+B: word: mí-mbáà	 gloss: 4-two
+C: word: má-ngá	 gloss: 6-GEN
+D: word: mí-mbàngá	 gloss: mi4-nut
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 2:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nyã̂ ___ m-wánɔ̀
+Gloss (with missing item): emptyset1.mother ___ N1-child
+The English translation of this sentence is:`the child's mother'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Gyeli does not make a grammatical distinction between alienable and inalienable possession as shown in \REF{INAL}. No matter whether the possessee is a kin \REF{INAL1}, body part \REF{INAL2}, or material possession \REF{INAL3}, the attributive marker always agrees in class with the head noun (possessee).
+A: word: (bá)	 gloss: (2:ATT)
+B: word: ngá	 gloss: GEN
+C: word: wà	 gloss: 1:ATT
+D: word: nkwànò	 gloss: emptyset3.honey
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 3:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): d-úú ___ m-wánɔ̀
+Gloss (with missing item): le5-nose ___ N1-child
+The English translation of this sentence is:`the child's nose'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Gyeli does not make a grammatical distinction between alienable and inalienable possession as shown in \REF{INAL}. No matter whether the possessee is a kin \REF{INAL1}, body part \REF{INAL2}, or material possession \REF{INAL3}, the attributive marker always agrees in class with the head noun (possessee).
+A: word: má	 gloss: 6:ATT
+B: word: lé	 gloss: 5:ATT
+C: word: mí-mbáà	 gloss: 4-two
+D: word: léè	 gloss: 5.COP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 4:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nkwálá ___ m-wánɔ̀
+Gloss (with missing item): emptyset3.machete ___ N1-child
+The English translation of this sentence is:`the child's machete'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Gyeli does not make a grammatical distinction between alienable and inalienable possession as shown in \REF{INAL}. No matter whether the possessee is a kin \REF{INAL1}, body part \REF{INAL2}, or material possession \REF{INAL3}, the attributive marker always agrees in class with the head noun (possessee).
+A: word: b-wánɔ̀	 gloss: ba2-child
+B: word: mí	 gloss: 4:ATT
+C: word: mí-mbáà	 gloss: 4-two
+D: word: wá	 gloss: 3:ATT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 5:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): m-ùdû ___ Nándtùngù
+Gloss (with missing item): N1-man ___ emptyset1.PN
+The English translation of this sentence is:`Nandtoungou's husband'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In Gyeli, the genitive split is conditioned by the type of possessor noun, distinguishing common nouns and proper names. If the possessor is expressed by a proper name, the genitive marker (\sectref{sec:its gloss ___}) is used, as in \REF{splitits gloss ___1}. If a common noun is used for the possessor instead, as in a parallel construction in \REF{splitits gloss ___2}, the two nouns are linked by an attributive marker.
+A: word: má-ngá	 gloss: 6-GEN
+B: word: wá	 gloss: 3:ATT
+C: word: ngá	 gloss: GEN
+D: word: mí-mbàngá	 gloss: mi4-nut
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 6:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): m-ùdũ̂ ___ m-ùdã̂
+Gloss (with missing item): N1-man ___ N1-woman
+The English translation of this sentence is:`the woman's husband'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In Gyeli, the genitive split is conditioned by the type of possessor noun, distinguishing common nouns and proper names. If the possessor is expressed by a proper name, the genitive marker (\sectref{sec:GEN}) is used, as in \REF{splitGEN1}. If a common noun is used for the possessor instead, as in a parallel construction in \REF{splitGEN2}, the two nouns are linked by an attributive marker.
+A: word: wà	 gloss: 1:ATT
+B: word: má-ngá	 gloss: 6-GEN
+C: word: (bá)	 gloss: (2:ATT)
+D: word: nkwànò	 gloss: emptyset3.honey
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 7:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma-kwámɔ́ ___ Nándtùngù
+Gloss (with missing item): ma6-bag ___ ∅1.PN
+The English translation of this sentence is:`Nandtoungou's bags'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The genitive marker only takes an agreement prefix if the possessee head noun occurs in a plural form, as in \REF{splitGEN3}. Therefore, the genitive marker is conditioned both by the head noun's grammatical number and the dependent noun's status as common or proper noun. The dependent possessor noun determines whether an attributive or a genitive marker is used. The possessee head noun determines number/agreement class marking.
+A: word: má-ngá	 gloss: 6-GEN
+B: word: mí-mbàngá	 gloss: mi4-nut
+C: word: wà	 gloss: 1:ATT
+D: word: ngá	 gloss: GEN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+

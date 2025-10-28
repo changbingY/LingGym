@@ -1,0 +1,1924 @@
+Question 0:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Àdà nà Màmbì báà ___
+Gloss (with missing item): ∅1.PN COM ∅1.PN 2.COP ___
+The English translation of this sentence is:`Ada and Mambi are teachers.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Unlike full nouns, nominalized past participles never allow a plural form. Thus, while the nominal predicate in \REF{NounPart2a} takes the plural noun class marker {\itshape ba}-, agreeing in number with the subject, this is not the case for the nominalized past participle in \REF{NounPart2b}.
+A: word: dyâ	 gloss: lie.down
+B: word: ngɛ̀lɛ́nɛ̀	 gloss: emptyset1.English
+C: word: b-ùdì	 gloss: ba2-person
+D: word: ba-ngɛ̀lɛ́nɛ̀	 gloss: ba2-teacher
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 1:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Àdà nà Màmbì báà ___
+Gloss (with missing item): ∅1.PN COM ∅1.PN 2.COP ___
+The English translation of this sentence is:`Ada and Mambi are married [lit. are married ones].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Unlike full nouns, nominalized past participles never allow a plural form. Thus, while the nominal predicate in \REF{NounPart2a} takes the plural noun class marker {\itshape ba}-, agreeing in number with the subject, this is not the case for the nominalized past participle in \REF{NounPart2b}.
+A: word: m-bán-a	 gloss: N-marry-NOM
+B: word: bâ-h	 gloss: marry-R
+C: word: bí-báà	 gloss: 7-two
+D: word: kɛ́-kɛ́-kɛ́-kɛ́-kɛ́	 gloss: IDEO:repeated.placement
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 2:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): m-ùdã̂ a-H ___ H-be-déwɔ̀
+Gloss (with missing item): N1-woman 1-PRS ___ OBJ.LINK-be8-food
+The English translation of this sentence is:`The woman looks for food.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In the simple predicate construction in \REF{simPred}, the main verb {\itshape gyɛ́sɔ́} `look for' is the syntactic and semantic head of the clause.
+A: word: gyɛ́sɔ	 gloss: look.for
+B: word: gyɛ́sɔ-h	 gloss: look.for-R
+C: word: dígɛ-h	 gloss: look-R
+D: word: ná	 gloss: still
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 3:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): m-ùdã̂ a-H ___ gyɛ́sɔ H-be-déwɔ̀
+Gloss (with missing item): N1-woman 1-PRS ___ look.for OBJ.LINK-be8-food
+The English translation of this sentence is:`The woman must not look for food.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In contrast, in a complex predicate construction, the main verb is the semantic head of the clause. An auxiliary or light verb serves as the syntactic head, as exemplified in \REF{simPredb} with the negative subjunctive auxiliary verb {\itshape the morpheme ___}. In this example, the auxiliary is the finite verb encoding the tense-mood category it belongs to. The main verb takes its non-finite form, namely with an underlyingly toneless final vowel, as described in \sectref{sec:toneless}.
+A: word: dúù	 gloss: NEG.SBJV
+B: word: áá	 gloss: EXCL
+C: word: bɛ́ɛ̀	 gloss: be.SBJV
+D: word: púù	 gloss: emptyset7.reason
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 4:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): m-ùdã̂ a-H dúù ___ H-be-déwɔ̀
+Gloss (with missing item): N1-woman 1-PRS NEG.SBJV ___ OBJ.LINK-be8-food
+The English translation of this sentence is:`The woman must not look for food.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In contrast, in a complex predicate construction, the main verb is the semantic head of the clause. An auxiliary or light verb serves as the syntactic head, as exemplified in \REF{simPredb} with the negative subjunctive auxiliary verb {\itshape dúù}. In this example, the auxiliary is the finite verb encoding the tense-mood category it belongs to. The main verb takes its non-finite form, namely with an underlyingly toneless final vowel, as described in \sectref{sec:toneless}.
+A: word: dígɛ̀	 gloss: look
+B: word: lùnga-h	 gloss: grow-R
+C: word: gyɛ́sɔ	 gloss: look.for
+D: word: gyɛ́sɔ-h	 gloss: look.for-R
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 5:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): m-ùdã̂ a-H ___ gyɛ́sɔ H-be-déwɔ̀
+Gloss (with missing item): N1-woman 1-PRS ___ look.for OBJ.LINK-be8-food
+The English translation of this sentence is:`The woman must not look for food.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The non-finite form in \REF{simPredb} is, at the same time, the {\bfseries infinitive} form. Infinitive forms in Gyeli do not receive any special morphological or tonal marking, but are identical to their citation form. As shown in \sectref{sec:Tinventory}, second and third syllables are underlyingly toneless, surfacing with an L tone. Infinitive forms are found in complex predicates \REF{simPredb} as well as two types of subordinate clauses. First, they occur in subordinate infinitival clauses (\sectref{sec:InfSub}), as in \REF{INFPred1}.
+A: word: dúù	 gloss: NEG.SBJV
+B: word: púù	 gloss: emptyset7.reason
+C: word: bɛ́ɛ̀	 gloss: be.SBJV
+D: word: wà	 gloss: 1:ATT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 6:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): m-ùdã̂ a-H dúù ___ H-be-déwɔ̀
+Gloss (with missing item): N1-woman 1-PRS NEG.SBJV ___ OBJ.LINK-be8-food
+The English translation of this sentence is:`The woman must not look for food.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The non-finite form in \REF{simPredb} is, at the same time, the {\bfseries infinitive} form. Infinitive forms in Gyeli do not receive any special morphological or tonal marking, but are identical to their citation form. As shown in \sectref{sec:Tinventory}, second and third syllables are underlyingly toneless, surfacing with an L tone. Infinitive forms are found in complex predicates \REF{simPredb} as well as two types of subordinate clauses. First, they occur in subordinate infinitival clauses (\sectref{sec:InfSub}), as in \REF{INFPred1}.
+A: word: dígɛ̀	 gloss: look
+B: word: gyɛ́sɔ-h	 gloss: look.for-R
+C: word: dyâ-h	 gloss: lie.down-R
+D: word: gyɛ́sɔ	 gloss: look.for
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 7:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): m-ùdã̂ a-H ___ gyɛ́sɔ H-be-déwɔ̀
+Gloss (with missing item): N1-woman 1-PRS ___ look.for OBJ.LINK-be8-food
+The English translation of this sentence is:`The woman must not look for food.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The non-finite form in \REF{simPredb} is, at the same time, the {\bfseries infinitive} form. Infinitive forms in Gyeli do not receive any special morphological or tonal marking, but are identical to their citation form. As shown in \sectref{sec:Tinventory}, second and third syllables are underlyingly toneless, surfacing with an L tone. Infinitive forms are found in complex predicates \REF{simPredb} as well as two types of subordinate clauses. First, they occur in subordinate infinitival clauses (\sectref{sec:InfSub}), as in \REF{INFPred1}.
+A: word: bɛ́ɛ̀	 gloss: be.SBJV
+B: word: dúù	 gloss: NEG.SBJV
+C: word: yánɛ-h	 gloss: must-R
+D: word: púù	 gloss: emptyset7.reason
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 8:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): m-ùdã̂ a-H dúù ___ H-be-déwɔ̀
+Gloss (with missing item): N1-woman 1-PRS NEG.SBJV ___ OBJ.LINK-be8-food
+The English translation of this sentence is:`The woman must not look for food.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The non-finite form in \REF{simPredb} is, at the same time, the {\bfseries infinitive} form. Infinitive forms in Gyeli do not receive any special morphological or tonal marking, but are identical to their citation form. As shown in \sectref{sec:Tinventory}, second and third syllables are underlyingly toneless, surfacing with an L tone. Infinitive forms are found in complex predicates \REF{simPredb} as well as two types of subordinate clauses. First, they occur in subordinate infinitival clauses (\sectref{sec:InfSub}), as in \REF{INFPred1}.
+A: word: gyɛ́sɔ	 gloss: look.for
+B: word: dígɛ̀	 gloss: look
+C: word: dɔ̃̀	 gloss: so[French]
+D: word: gyɛ́sɔ-h	 gloss: look.for-R
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 9:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ tísɔ̀nì a-H súmɛlɛ-H b-ùdì
+Gloss (with missing item): ___ emptyset7.town 1-PRS greet-R ba2-people
+The English translation of this sentence is:`Having arrived in town, he greets the people.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The non-finite form in \REF{simPredb} is, at the same time, the {\bfseries infinitive} form. Infinitive forms in Gyeli do not receive any special morphological or tonal marking, but are identical to their citation form. As shown in \sectref{sec:Tinventory}, second and third syllables are underlyingly toneless, surfacing with an L tone. Infinitive forms are found in complex predicates \REF{simPredb} as well as two types of subordinate clauses. First, they occur in subordinate infinitival clauses (\sectref{sec:InfSub}), as in \REF{INFPred1}.
+A: word: yánɛ-h	 gloss: must-R
+B: word: sɔ́ɔ̀	 gloss: dbbefore
+C: word: pámɔ	 gloss: dbarrive
+D: word: pámɔ-h	 gloss: arrive-R
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 10:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a múà nà bábɛ̀ tí ___ wɛ̀
+Gloss (with missing item): 1 be COM ∅7.illness NEG ___ die
+The English translation of this sentence is:`He was sick, not wanting to die.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent These subordinate infinitival clauses can also be negated with the negative auxiliary {\itshape tí}, as in \REF{INFPred2}.
+A: word: wúmbɛ	 gloss: want-R
+B: word: yánɛ-h	 gloss: must-R
+C: word: bɛ̀-h	 gloss: be-R
+D: word: wúmbɛ-lɛ́	 gloss: want-NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 11:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): m-ùdã̂ a lɔ́ sìs-ɛlɛ n-ɔ́nɛ́gá nâ nyɛ̂ nà ___
+Gloss (with missing item): N1-woman 1.PST RETRO scare-APPL 1-other dbCOMP 1 COM ___
+The English translation of this sentence is:`The woman scared the other by her coughing.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent And second, the main verb of certain attributive clauses with the complementizer {\itshape nâ} appears in its infinitival form, as shown in \REF{INFPred3} and explained in more detail in \sectref{sec:COMPINF}.
+A: word: kɔ́sɛ	 gloss: cough
+B: word: lùnga-h	 gloss: grow-R
+C: word: bábɛ̀	 gloss: ∅7.illness
+D: word: by-ɛ́sɛ̀	 gloss: 8-all
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 12:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yɔ́ɔ̀ ba-H ___ kɛ̀ndɛ̀
+Gloss (with missing item): so 2-PRS ___ emptyset7.walk
+The English translation of this sentence is:`So they go on a walk.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: At the same time, the cognate objects can also appear with other verbs, as shown in \REF{CognO}.
+A: word: áá	 gloss: EXCL
+B: word: táálɛ-h	 gloss: begin-R
+C: word: téè-h	 gloss: start.walking-R
+D: word: dè-h	 gloss: eat-R
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 13:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yɔ́ɔ̀ ba-H téè-H ___
+Gloss (with missing item): so 2-PRS start.walking-R ___
+The English translation of this sentence is:`So they go on a walk.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: At the same time, the cognate objects can also appear with other verbs, as shown in \REF{CognO}.
+A: word: nà	 gloss: CONJ
+B: word: bí-ndɛ̀	 gloss: 8-ANA
+C: word: sálɛ-h	 gloss: emptyset7.work
+D: word: kɛ̀ndɛ̀	 gloss: emptyset7.walk
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 14:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ ___ dyâ vâ kùgúù dẽ̀ ma-fú má-báà
+Gloss (with missing item): 1SG ___ lie.down here emptyset7.evening today ma6-day 6-two
+The English translation of this sentence is:`I had to sleep here in the evening two days ago [from today].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A set of verbs in Gyeli occur as the finite verbal element in a complex predicate construction without (fully) contributing to its lexical content. (Complex predicate constructions are discussed in \sectref{sec:CompPred}.) I call these verbs ``auxiliaries'', which I subdivide into true auxiliaries and semi-auxiliaries. They both precede the lexical verb. \REF{G114} illustrates the contrast between a complex predicate with a semi-auxiliary (the modal {\itshape yánɛ} `must') in \REF{G114a} and its simplex predicate counterpart in \REF{G114b}. In the complex predicate construction, the semi-auxiliary {\itshape yánɛ} is inflected for tense-mood (see \sectref{sec:GramTM}), while the lexical verb {\itshape dyâ} `lie down' appears in its non-finite form. In the simplex predicate construction, the lexical verb receives the tense-mood marking H tone.
+A: word: dúù-h	 gloss: must.not-R
+B: word: yánɛ-h	 gloss: must-R
+C: word: ndɛ̀	 gloss: ANA
+D: word: bá-tánɛ̀	 gloss: 2-five
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 15:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ yánɛ-H ___ vâ kùgúù dẽ̀ ma-fú má-báà
+Gloss (with missing item): 1SG must-R ___ here emptyset7.evening today ma6-day 6-two
+The English translation of this sentence is:`I had to sleep here in the evening two days ago [from today].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A set of verbs in Gyeli occur as the finite verbal element in a complex predicate construction without (fully) contributing to its lexical content. (Complex predicate constructions are discussed in \sectref{sec:CompPred}.) I call these verbs ``auxiliaries'', which I subdivide into true auxiliaries and semi-auxiliaries. They both precede the lexical verb. \REF{G114} illustrates the contrast between a complex predicate with a semi-auxiliary (the modal {\itshape yánɛ} `must') in \REF{G114a} and its simplex predicate counterpart in \REF{G114b}. In the complex predicate construction, the semi-auxiliary {\itshape yánɛ} is inflected for tense-mood (see \sectref{sec:GramTM}), while the lexical verb {\itshape the morpheme ___} `lie down' appears in its non-finite form. In the simplex predicate construction, the lexical verb receives the tense-mood marking H tone.
+A: word: m-bán-a	 gloss: N-marry-NOM
+B: word: dyâ-h	 gloss: lie.down-R
+C: word: dyâ	 gloss: lie.down
+D: word: dé	 gloss: LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 16:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ ___ vâ kùgúù dẽ̀ ma-fú má-báà
+Gloss (with missing item): 1SG.PST ___ here emptyset7.evening today ma6-day 6-two
+The English translation of this sentence is:`I slept here in the evening two days ago [from today].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A set of verbs in Gyeli occur as the finite verbal element in a complex predicate construction without (fully) contributing to its lexical content. (Complex predicate constructions are discussed in \sectref{sec:CompPred}.) I call these verbs ``auxiliaries'', which I subdivide into true auxiliaries and semi-auxiliaries. They both precede the lexical verb. \REF{G114} illustrates the contrast between a complex predicate with a semi-auxiliary (the modal {\itshape yánɛ} `must') in \REF{G114a} and its simplex predicate counterpart in \REF{G114b}. In the complex predicate construction, the semi-auxiliary {\itshape yánɛ} is inflected for tense-mood (see \sectref{sec:GramTM}), while the lexical verb {\itshape dyâ} `lie down' appears in its non-finite form. In the simplex predicate construction, the lexical verb receives the tense-mood marking H tone.
+A: word: dyâ-h	 gloss: lie.down-R
+B: word: gyâ-h	 gloss: sing-R
+C: word: wà	 gloss: 1:ATT
+D: word: bô-h	 gloss: lie-R
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 17:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mi-nsáyá mí bèya-H sâ mi-H bɛ́-lɛ́ ___
+Gloss (with missing item): mi4-thing 4:ATT 2PL-PRS do 4-PRS be-NEG ___
+The English translation of this sentence is:`The things that you do are not good.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent The adjective clearly shows no agreement morphology, although this would be expected with all plural classes. The same is true for an adjectival complement in a negative non-verbal construction, as in \REF{qualif6}.
+A: word: mpà	 gloss: good
+B: word: mùdà	 gloss: great
+C: word: mpàgó	 gloss: dbemptyset3.street
+D: word: voilà	 gloss: ok[French]
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 18:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ-gà mɛ́ɛ̀ dyúwɔ-H nzã́ã̀ d-úwɔ̀ lé ___
+Gloss (with missing item): 1SG-CONTR 1SG.PST2 feel-R emptyset7.appetite dble5-day 5:ATT ___
+The English translation of this sentence is:`As for me, I had a craving [for meat] that day.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: All deictic adverbs are monosyllabic. They do not seem to be derived from another part of speech, in contrast to, for instance, group 3 adverbs. Some of them may, however, also be used to modify nouns rather than verbs, namely as the second constituent in noun + attributive marker constructions, as discussed in \sectref{sec:CONC}. The distribution of deictic adverbs as modifying verbs as opposed to nouns is illustrated in \tabref{Tab:DeicAdv} under ``Frequency''. \REF{DeicNom} gives an example of a deictic element as nominal modifier while the examples in the remainder of this section show deictic adverbs modifying verbs.
+A: word: vâ	 gloss: here
+B: word: nga-h	 gloss: PL-OBJ.LINK
+C: word: tè	 gloss: there
+D: word: dè-h	 gloss: eat-R
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 19:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yɔ́ɔ̀ Nzàmbí njî-H ___ bã̂ã̂ã̂ã̂ njì dígɛ̀ mpù
+Gloss (with missing item): so emptyset1.PN.PRS come-R ___ IDEO:walking.far come look like.this
+The English translation of this sentence is:`So Nzambi comes like this [depiction of walking a long distance], comes looking like this.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The manner deictic {\itshape (ɛ́) the morpheme ___} never occurs as nominal modifier. It generally serves to introduce gestures and ideophones, as for instance in \REF{ADVmpu1}. In this example, the first occurrence of {\itshape the morpheme ___} frames the ideophone while the second refers to a gesture that may actually be made or not, i.e.\ the gesture is most likely implied, but not necessarily made.
+A: word: námpùndì	 gloss: ∅1.PN
+B: word: ndɛ̀náà	 gloss: like.that
+C: word: mpù	 gloss: like.this
+D: word: kɛ́ɛ́ɛ́ɛ́	 gloss: EXCL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 20:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yɔ́ɔ̀ Nzàmbí njî-H mpù bã̂ã̂ã̂ã̂ njì dígɛ̀ ___
+Gloss (with missing item): so emptyset1.PN.PRS come-R like.this IDEO:walking.far come look ___
+The English translation of this sentence is:`So Nzambi comes like this [depiction of walking a long distance], comes looking like this.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The manner deictic {\itshape (ɛ́) the morpheme ___} never occurs as nominal modifier. It generally serves to introduce gestures and ideophones, as for instance in \REF{ADVmpu1}. In this example, the first occurrence of {\itshape the morpheme ___} frames the ideophone while the second refers to a gesture that may actually be made or not, i.e.\ the gesture is most likely implied, but not necessarily made.
+A: word: námpùndì	 gloss: ∅1.PN
+B: word: ɔ́ɔ́ɔ́	 gloss: EXCL
+C: word: mpù	 gloss: like.this
+D: word: ndɛ̀náà	 gloss: like.that
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 21:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Màmá a ndáà gyà ntɛ̀ ___ Màmbì.
+Gloss (with missing item): ∅1.PN 1.have also ∅7.length ∅3.size ___ ∅1.PN
+The English translation of this sentence is:`Mama is as tall as Mambi.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent Also, {\itshape the morpheme ___} is used in comparison constructions as in \REF{ADVmpu2}. In these cases, {\itshape the morpheme ___} is translated as `its gloss ___, than' rather than `its gloss ___ this'.
+A: word: mpù	 gloss: like
+B: word: m-bán-a	 gloss: N-marry-NOM
+C: word: ndɛ̀náà	 gloss: like.that
+D: word: námpùndì	 gloss: ∅1.PN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 22:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ-H bvû-H nâ nkwálá wúù tfùndɛ-H mɛ̀ ___
+Gloss (with missing item): 1SG-PRS think-R COMP emptyset3.machete 3.PST2 miss-R 1SG ___
+The English translation of this sentence is:`I think that the machete missed [injured] me here.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A further distinctive morphosyntactic property in adverbial subclasses is the phrase position in which adverbs can occur. As a default position, all adverb classes occur phrase finally. This is also true for group 1 adverbs, as shown in \REF{ADV1finala} and \REF{ADV1finalb}.
+A: word: wà	 gloss: 1:ATT
+B: word: be-sâ	 gloss: be8-thing
+C: word: tè	 gloss: there
+D: word: vâ	 gloss: here
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 23:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ-H pã̂-H ná kɛ̀ dígɛ m-ùdì wà nû ___ pɛ́
+Gloss (with missing item): 1SG.PRS try-R again go see N1-person 1:ATT 1.DEM.PROX ___ there
+The English translation of this sentence is:`I try again and go to see that person there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A further distinctive morphosyntactic property in adverbial subclasses is the phrase position in which adverbs can occur. As a default position, all adverb classes occur phrase finally. This is also true for group 1 adverbs, as shown in \REF{ADV1finala} and \REF{ADV1finalb}.
+A: word: mpà	 gloss: good
+B: word: ɛ́	 gloss: LOC
+C: word: by-ɛ́sɛ̀	 gloss: 8-all
+D: word: kɛ̀-h-ɛ́	 gloss: go-R-LOC?
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 24:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ-H pã̂-H ná kɛ̀ dígɛ m-ùdì wà nû ɛ́ ___
+Gloss (with missing item): 1SG.PRS try-R again go see N1-person 1:ATT 1.DEM.PROX LOC ___
+The English translation of this sentence is:`I try again and go to see that person there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A further distinctive morphosyntactic property in adverbial subclasses is the phrase position in which adverbs can occur. As a default position, all adverb classes occur phrase finally. This is also true for group 1 adverbs, as shown in \REF{ADV1finala} and \REF{ADV1finalb}.
+A: word: pɛ́-ɛ́	 gloss: there-DIST
+B: word: vâ	 gloss: here
+C: word: mpù	 gloss: like.this
+D: word: pɛ́	 gloss: there
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 25:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ vâ mɛ dyùwɔ-H nâ ɛ́ vâ yíì sílɛ̀ njì búlɛ
+Gloss (with missing item): ___ here 1SG.PST1 hear-R COMP LOC here 7.FUT finish.FUT come destroy
+The English translation of this sentence is:`I heard that it [the road] will all come here to be destroyed [the plants].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In contrast to group 3, group 1 adverbs also pervasively appear in phrase-initial positions, as in \REF{ADV1initiala} and \REF{ADV1initialb}. This position is clearly correlated with information structure, moving the deictic adverb into a focus position.\footnote{See \sectref{sec:IS} on information structure for a more detailed discussion.} While also group 2 (temporal) adverbs can occur in this initial focus position, deictic adverbs are significantly more frequently focused in the Gyeli text corpus.
+A: word: ɛ́	 gloss: LOC
+B: word: fī́	 gloss: different
+C: word: kɛ̀-h-ɛ́	 gloss: go-R-LOC?
+D: word: by-ɛ́sɛ̀	 gloss: 8-all
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 26:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɛ́ ___ mɛ dyùwɔ-H nâ ɛ́ vâ yíì sílɛ̀ njì búlɛ
+Gloss (with missing item): LOC ___ 1SG.PST1 hear-R COMP LOC here 7.FUT finish.FUT come destroy
+The English translation of this sentence is:`I heard that it [the road] will all come here to be destroyed [the plants].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In contrast to group 3, group 1 adverbs also pervasively appear in phrase-initial positions, as in \REF{ADV1initiala} and \REF{ADV1initialb}. This position is clearly correlated with information structure, moving the deictic adverb into a focus position.\footnote{See \sectref{sec:IS} on information structure for a more detailed discussion.} While also group 2 (temporal) adverbs can occur in this initial focus position, deictic adverbs are significantly more frequently focused in the Gyeli text corpus.
+A: word: m-bán-a	 gloss: N-marry-NOM
+B: word: vâ	 gloss: here
+C: word: be-sâ	 gloss: be8-thing
+D: word: tè	 gloss: there
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 27:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɛ́ vâ mɛ dyùwɔ-H nâ ___ vâ yíì sílɛ̀ njì búlɛ
+Gloss (with missing item): LOC here 1SG.PST1 hear-R COMP ___ here 7.FUT finish.FUT come destroy
+The English translation of this sentence is:`I heard that it [the road] will all come here to be destroyed [the plants].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In contrast to group 3, group 1 adverbs also pervasively appear in phrase-initial positions, as in \REF{ADV1initiala} and \REF{ADV1initialb}. This position is clearly correlated with information structure, moving the deictic adverb into a focus position.\footnote{See \sectref{sec:IS} on information structure for a more detailed discussion.} While also group 2 (temporal) adverbs can occur in this initial focus position, deictic adverbs are significantly more frequently focused in the Gyeli text corpus.
+A: word: ɛ́	 gloss: LOC
+B: word: kɛ̀-h-ɛ́	 gloss: go-R-LOC?
+C: word: mpà	 gloss: good
+D: word: by-ɛ́sɛ̀	 gloss: 8-all
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 28:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɛ́ vâ mɛ dyùwɔ-H nâ ɛ́ ___ yíì sílɛ̀ njì búlɛ
+Gloss (with missing item): LOC here 1SG.PST1 hear-R COMP LOC ___ 7.FUT finish.FUT come destroy
+The English translation of this sentence is:`I heard that it [the road] will all come here to be destroyed [the plants].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In contrast to group 3, group 1 adverbs also pervasively appear in phrase-initial positions, as in \REF{ADV1initiala} and \REF{ADV1initialb}. This position is clearly correlated with information structure, moving the deictic adverb into a focus position.\footnote{See \sectref{sec:IS} on information structure for a more detailed discussion.} While also group 2 (temporal) adverbs can occur in this initial focus position, deictic adverbs are significantly more frequently focused in the Gyeli text corpus.
+A: word: tè	 gloss: there
+B: word: w-ɛ̂	 gloss: 1-POSS.3SG
+C: word: be-sâ	 gloss: be8-thing
+D: word: vâ	 gloss: here
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 29:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ pɛ́-ɛ́ mɛ̀ɛ̀ lwɔ̃̂ nyà ndáwɔ̀
+Gloss (with missing item): ___ there-DIST 1SG.FUT build real emptyset9.house
+The English translation of this sentence is:`Over there, I will build a real house.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In contrast to group 3, group 1 adverbs also pervasively appear in phrase-initial positions, as in \REF{ADV1initiala} and \REF{ADV1initialb}. This position is clearly correlated with information structure, moving the deictic adverb into a focus position.\footnote{See \sectref{sec:IS} on information structure for a more detailed discussion.} While also group 2 (temporal) adverbs can occur in this initial focus position, deictic adverbs are significantly more frequently focused in the Gyeli text corpus.
+A: word: wúmbɛ	 gloss: want-R
+B: word: by-ɛ́sɛ̀	 gloss: 8-all
+C: word: kɛ̀-h-ɛ́	 gloss: go-R-LOC?
+D: word: ɛ́	 gloss: LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 30:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɛ́ ___ mɛ̀ɛ̀ lwɔ̃̂ nyà ndáwɔ̀
+Gloss (with missing item): LOC ___ 1SG.FUT build real emptyset9.house
+The English translation of this sentence is:`Over there, I will build a real house.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In contrast to group 3, group 1 adverbs also pervasively appear in phrase-initial positions, as in \REF{ADV1initiala} and \REF{ADV1initialb}. This position is clearly correlated with information structure, moving the deictic adverb into a focus position.\footnote{See \sectref{sec:IS} on information structure for a more detailed discussion.} While also group 2 (temporal) adverbs can occur in this initial focus position, deictic adverbs are significantly more frequently focused in the Gyeli text corpus.
+A: word: wú-o-h	 gloss: there-VOC-DIST
+B: word: wà	 gloss: 1:ATT
+C: word: by-ɛ́sɛ̀	 gloss: 8-all
+D: word: pɛ́-ɛ́	 gloss: there-DIST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 31:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ pɛ̀ ba sílɛ-H bî lwɔ̃̂ H-ma-ndáwɔ̀ ɛ́ pɛ̀
+Gloss (with missing item): ___ there 2.PST1 finish-R 1PL.OBJ build OBJ.LINK-ma6-house LOC there
+The English translation of this sentence is:`There, they have finished to build us houses.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent If a deictic adverb occurs in the initial focus position, it is often repeated again at the end of the phrase in its default position, as shown in \REF{ADV1botha} and \REF{ADV1bothb}.
+A: word: by-ɛ́sɛ̀	 gloss: 8-all
+B: word: ndɛ̀	 gloss: ANA
+C: word: kɛ̀-h-ɛ́	 gloss: go-R-LOC?
+D: word: ɛ́	 gloss: LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 32:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɛ́ ___ ba sílɛ-H bî lwɔ̃̂ H-ma-ndáwɔ̀ ɛ́ pɛ̀
+Gloss (with missing item): LOC ___ 2.PST1 finish-R 1PL.OBJ build OBJ.LINK-ma6-house LOC there
+The English translation of this sentence is:`There, they have finished to build us houses.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent If a deictic adverb occurs in the initial focus position, it is often repeated again at the end of the phrase in its default position, as shown in \REF{ADV1botha} and \REF{ADV1bothb}.
+A: word: pɛ̀	 gloss: there
+B: word: vâ	 gloss: here
+C: word: tè	 gloss: there
+D: word: pɛ̀mbɔ̀	 gloss: emptyset1.bread
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 33:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɛ́ pɛ̀ ba sílɛ-H bî lwɔ̃̂ H-ma-ndáwɔ̀ ___ pɛ̀
+Gloss (with missing item): LOC there 2.PST1 finish-R 1PL.OBJ build OBJ.LINK-ma6-house ___ there
+The English translation of this sentence is:`There, they have finished to build us houses.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent If a deictic adverb occurs in the initial focus position, it is often repeated again at the end of the phrase in its default position, as shown in \REF{ADV1botha} and \REF{ADV1bothb}.
+A: word: ɛ́	 gloss: LOC
+B: word: by-ɛ́sɛ̀	 gloss: 8-all
+C: word: kɛ̀-h-ɛ́	 gloss: go-R-LOC?
+D: word: dyâ	 gloss: lie.down
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 34:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɛ́ pɛ̀ ba sílɛ-H bî lwɔ̃̂ H-ma-ndáwɔ̀ ɛ́ ___
+Gloss (with missing item): LOC there 2.PST1 finish-R 1PL.OBJ build OBJ.LINK-ma6-house LOC ___
+The English translation of this sentence is:`There, they have finished to build us houses.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent If a deictic adverb occurs in the initial focus position, it is often repeated again at the end of the phrase in its default position, as shown in \REF{ADV1botha} and \REF{ADV1bothb}.
+A: word: tí	 gloss: NEG.R
+B: word: pɛ̀	 gloss: there
+C: word: vâ	 gloss: here
+D: word: pɛ̀mbɔ̀	 gloss: emptyset1.bread
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 35:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ wû bèyá lwɔ̃̂-H kwádɔ́ y-ã̂ ɛ́ wû
+Gloss (with missing item): ___ there 2PL[Kwasio] build-R emptyset7.village 7-POSS.1SG LOC there
+The English translation of this sentence is:`Over there, you (pl.) build my village over there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent If a deictic adverb occurs in the initial focus position, it is often repeated again at the end of the phrase in its default position, as shown in \REF{ADV1botha} and \REF{ADV1bothb}.
+A: word: kɛ̀-h-ɛ́	 gloss: go-R-LOC?
+B: word: nàmɛ́nɔ́	 gloss: tomorrow
+C: word: ɛ́	 gloss: LOC
+D: word: by-ɛ́sɛ̀	 gloss: 8-all
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 36:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɛ́ ___ bèyá lwɔ̃̂-H kwádɔ́ y-ã̂ ɛ́ wû
+Gloss (with missing item): LOC ___ 2PL[Kwasio] build-R emptyset7.village 7-POSS.1SG LOC there
+The English translation of this sentence is:`Over there, you (pl.) build my village over there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent If a deictic adverb occurs in the initial focus position, it is often repeated again at the end of the phrase in its default position, as shown in \REF{ADV1botha} and \REF{ADV1bothb}.
+A: word: wû	 gloss: there
+B: word: kɛ́ɛ́ɛ́ɛ́	 gloss: EXCL
+C: word: wû-o-h	 gloss: there-VOC-DIST
+D: word: vâ	 gloss: here
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 37:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɛ́ wû bèyá lwɔ̃̂-H kwádɔ́ y-ã̂ ___ wû
+Gloss (with missing item): LOC there 2PL[Kwasio] build-R emptyset7.village 7-POSS.1SG ___ there
+The English translation of this sentence is:`Over there, you (pl.) build my village over there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent If a deictic adverb occurs in the initial focus position, it is often repeated again at the end of the phrase in its default position, as shown in \REF{ADV1botha} and \REF{ADV1bothb}.
+A: word: kɛ́ɛ̀	 gloss: go.SBJV
+B: word: by-ɛ́sɛ̀	 gloss: 8-all
+C: word: ɛ́	 gloss: LOC
+D: word: kɛ̀-h-ɛ́	 gloss: go-R-LOC?
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 38:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɛ́ wû bèyá lwɔ̃̂-H kwádɔ́ y-ã̂ ɛ́ ___
+Gloss (with missing item): LOC there 2PL[Kwasio] build-R emptyset7.village 7-POSS.1SG LOC ___
+The English translation of this sentence is:`Over there, you (pl.) build my village over there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent If a deictic adverb occurs in the initial focus position, it is often repeated again at the end of the phrase in its default position, as shown in \REF{ADV1botha} and \REF{ADV1bothb}.
+A: word: wû	 gloss: there
+B: word: wû-o-h	 gloss: there-VOC-DIST
+C: word: vâ	 gloss: here
+D: word: dé	 gloss: LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 39:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bã̂ y-ɔ́ɔ̀ yíì ___
+Gloss (with missing item): emptyset7.word 7-2SG.POSS 7.ID ___
+The English translation of this sentence is:`You are understood [lit. your word is there].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In the default case, it seems that {\itshape wû} denotes a medial distance between {\itshape vâ} `here' and {\itshape pɛ̀} `over its gloss ___' and occurs mainly in the verbal domain. In contrast, {\itshape the morpheme ___} is mostly used with nouns rather than with verbs where {\itshape the morpheme ___} seems to be related more to specificity and/or anaphora than to actual location. In that sense, {\itshape the morpheme ___} may be less part of the distance-related deictic system, as \REF{Advte1} illustrates. In this example, {\itshape the morpheme ___} is more existential than about distance.
+A: word: tè	 gloss: there
+B: word: dúù	 gloss: NEG.SBJV
+C: word: dè-h	 gloss: eat-R
+D: word: vâ	 gloss: here
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 40:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ká ba-H kɛ̀-H wɛ̂ vɛ̀ H-be-bwúyà bé-báà nà ma-wú má-tánɛ̀ wɛ-H sâ-H ___ ná
+Gloss (with missing item): if 2-PRS go-R 2SG.OBJ give OBJ.LINK-be8-hundred 8-two COM ma6-ten 6-five 2SG-PRS do-R ___ how
+The English translation of this sentence is:`If they go to give you 250 (Francs), how do you manage there? [because it's very little money]'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent Also in \REF{Advte2}, the use of {\itshape the morpheme ___} is not primarily locative, but more anaphoric to the circumstances of earning only 250 Cameroon Francs.
+A: word: fī́	 gloss: different
+B: word: tè	 gloss: there
+C: word: dè-h	 gloss: eat-R
+D: word: vâ	 gloss: here
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 41:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ mɛ̀ɛ̀ jíbi kɛ̀ lwɔ̃̂ tè
+Gloss (with missing item): ___ 1SG.FUT start go build there
+The English translation of this sentence is:`There, I will first go to build there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In other cases, however, as in \REF{Advte3}, {\itshape the morpheme ___} is place-denoting just like the other deictic adverbs. Speakers state that, in this example, {\itshape the morpheme ___} can also be replaced by {\itshape pɛ̀} or {\itshape wû} in both instances.
+A: word: vâ	 gloss: here
+B: word: tè	 gloss: there
+C: word: dè-h	 gloss: eat-R
+D: word: ɛ̀sɛ́	 gloss: is.it[French]
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 42:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tè mɛ̀ɛ̀ jíbi kɛ̀ lwɔ̃̂ ___
+Gloss (with missing item): there 1SG.FUT start go build ___
+The English translation of this sentence is:`There, I will first go to build there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In other cases, however, as in \REF{Advte3}, {\itshape the morpheme ___} is place-denoting just like the other deictic adverbs. Speakers state that, in this example, {\itshape the morpheme ___} can also be replaced by {\itshape pɛ̀} or {\itshape wû} in both instances.
+A: word: dè-h	 gloss: eat-R
+B: word: dyâ-h	 gloss: lie.down-R
+C: word: vâ	 gloss: here
+D: word: tè	 gloss: there
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 43:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): le-kfúdɛ̀ a nzí bíyɔ nlô ___
+Gloss (with missing item): le5-idiot 1 PROG.PST hit ∅3.head ___
+The English translation of this sentence is:`The idiot was hitting his head far over there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Further, distance cannot be the only distinctive criterion within the locative deictic system: an increased sense of distance can be added phonologically by lengthening the final vowel of the adverb and an H tone, as shown in \REF{pEE} and in \REF{ADV1initialb} above.
+A: word: by-ɛ́sɛ̀	 gloss: 8-all
+B: word: nyúlɛ-h	 gloss: drink-R
+C: word: wà	 gloss: 1:ATT
+D: word: pɛ́-ɛ́	 gloss: over.there-DIST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 44:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ pɛ́-ɛ́ mɛ̀ɛ̀ lwɔ̃̂ nyà ndáwɔ̀
+Gloss (with missing item): ___ there-DIST 1SG.FUT build real emptyset9.house
+The English translation of this sentence is:`Over there, I will build a real house.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Further, distance cannot be the only distinctive criterion within the locative deictic system: an increased sense of distance can be added phonologically by lengthening the final vowel of the adverb and an H tone, as shown in \REF{pEE} and in \REF{ADV1initialb} above.
+A: word: by-ɛ́sɛ̀	 gloss: 8-all
+B: word: ɛ́	 gloss: LOC
+C: word: kɛ̀-h-ɛ́	 gloss: go-R-LOC?
+D: word: nàkùgúù	 gloss: yesterday
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 45:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɛ́ ___ mɛ̀ɛ̀ lwɔ̃̂ nyà ndáwɔ̀
+Gloss (with missing item): LOC ___ 1SG.FUT build real emptyset9.house
+The English translation of this sentence is:`Over there, I will build a real house.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Further, distance cannot be the only distinctive criterion within the locative deictic system: an increased sense of distance can be added phonologically by lengthening the final vowel of the adverb and an H tone, as shown in \REF{pEE} and in \REF{ADV1initialb} above.
+A: word: wà	 gloss: 1:ATT
+B: word: pɛ́-ɛ́	 gloss: there-DIST
+C: word: by-ɛ́sɛ̀	 gloss: 8-all
+D: word: wú-o-h	 gloss: there-VOC-DIST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 46:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): báà tfùbɔ̀ báà tfùbɔ̀ mpàgó wá nùmbà ___
+Gloss (with missing item): 2.FUT pierce 2.FUT pierce ∅3.road 3:ATT ∅1.logger ___
+The English translation of this sentence is:`They will cut, they will cut. The road of the loggers there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent This way of expressing further distance by vowel lengthening and H tones is possible with both {\itshape pɛ̀} and {\itshape wû}. An example for the latter is given in \REF{wUU}. In contrast, this does not seem to be possible with {\itshape tè}, which indicates again that {\itshape tè} behaves differently from the other more purely locative deictic elements.\footnote{{\itshape vâ} `here' also does not allow for final vowel lengthening and an H tone, but that is clearly a semantic restriction since it denotes a place that is close to the speaker.}
+A: word: wúmbɛ	 gloss: want-R
+B: word: wû-o-h	 gloss: there-VOC-DIST
+C: word: wú-ú	 gloss: there-DIST
+D: word: wú-o-h	 gloss: there-VOC-DIST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 47:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): m-ùdì kí tàtɔ ___
+Gloss (with missing item): N1-person NEG scream ___
+The English translation of this sentence is:`Nobody scream over there!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another difference between {\itshape wû} and {\itshape tè} concerns the combination with a vocative morpheme -{\itshape o} which, at the same time, can further take an H tone to indicate distance between the speaker and the addressee. This vocative morpheme can be used with {\itshape wû}, as shown in \REF{wuo}, but not with {\itshape tè} nor any other deictic element.
+A: word: wú-o-h	 gloss: there-VOC-DIST
+B: word: nga-h	 gloss: PL-OBJ.LINK
+C: word: wú-ú	 gloss: there-DIST
+D: word: pɛ́-ɛ́	 gloss: there-DIST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 48:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wɛ-H làwɔ-H ___
+Gloss (with missing item): 2SG-PRS talk-R ___
+The English translation of this sentence is:`You speak now.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: All group 2 adverbs occur phrase finally as a default position. Examples are given in \REF{ADV2a} through \REF{ADV2c}.
+A: word: vɛ́ɛ̀lá	 gloss: ∅7.decoration
+B: word: tɛ́ɛ̀	 gloss: now
+C: word: yɛ́ɛ́	 gloss: then
+D: word: bí-ndɛ̀	 gloss: 8-ANA
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 49:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ nzí kɛ̀ jí ___
+Gloss (with missing item): 1SG PROG.PST go emptyset7.forest ___
+The English translation of this sentence is:`I was going to the forest yesterday.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: All group 2 adverbs occur phrase finally as a default position. Examples are given in \REF{ADV2a} through \REF{ADV2c}.
+A: word: nàkùgúù	 gloss: yesterday
+B: word: kùgúù	 gloss: emptyset7.evening
+C: word: tù	 gloss: inside
+D: word: dẽ̀	 gloss: today
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 50:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): àà ___ bwáà dè nàmɛ́nɔ́
+Gloss (with missing item): EXCL ___ 2PL.FUT eat tomorrow
+The English translation of this sentence is:`Ah, tomorrow you will eat, tomorrow.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: They can all also occur phrase initially, as shown in \REF{ADV2d}. In these cases, they are in focus, as discussed for group 1 adverbs and in \sectref{sec:IS} on information structure. In \REF{ADV2d}, the narrator stresses that the mice will only eat the skulls the next day, as contrastive focus to the possibility that they might eat them right away.
+A: word: nàmɛ́nɔ́	 gloss: tomorrow
+B: word: ndɛ̀	 gloss: ANA
+C: word: dẽ̀	 gloss: today
+D: word: mɛ́nɔ́	 gloss: ∅7.morning
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 51:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): àà nàmɛ́nɔ́ bwáà dè ___
+Gloss (with missing item): EXCL tomorrow 2PL.FUT eat ___
+The English translation of this sentence is:`Ah, tomorrow you will eat, tomorrow.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: They can all also occur phrase initially, as shown in \REF{ADV2d}. In these cases, they are in focus, as discussed for group 1 adverbs and in \sectref{sec:IS} on information structure. In \REF{ADV2d}, the narrator stresses that the mice will only eat the skulls the next day, as contrastive focus to the possibility that they might eat them right away.
+A: word: nàmɛ́nɔ́	 gloss: tomorrow
+B: word: fī́	 gloss: different
+C: word: mɛ́nɔ́	 gloss: ∅7.morning
+D: word: dẽ̀	 gloss: today
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 52:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): àà ___ bwáà dè nàmɛ́nɔ́
+Gloss (with missing item): EXCL ___ 2PL.FUT eat tomorrow
+The English translation of this sentence is:`Ah, tomorrow you will eat, tomorrow.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: They can all also occur phrase initially, as shown in \REF{ADV2d}. In these cases, they are in focus, as discussed for group 1 adverbs and in \sectref{sec:IS} on information structure. In \REF{ADV2d}, the narrator stresses that the mice will only eat the skulls the next day, as contrastive focus to the possibility that they might eat them right away.
+A: word: nàmɛ́nɔ́	 gloss: tomorrow
+B: word: ɛ̀sɛ́	 gloss: is.it[French]
+C: word: mɛ́nɔ́	 gloss: ∅7.morning
+D: word: dẽ̀	 gloss: today
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 53:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): àà nàmɛ́nɔ́ bwáà dè ___
+Gloss (with missing item): EXCL tomorrow 2PL.FUT eat ___
+The English translation of this sentence is:`Ah, tomorrow you will eat, tomorrow.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: They can all also occur phrase initially, as shown in \REF{ADV2d}. In these cases, they are in focus, as discussed for group 1 adverbs and in \sectref{sec:IS} on information structure. In \REF{ADV2d}, the narrator stresses that the mice will only eat the skulls the next day, as contrastive focus to the possibility that they might eat them right away.
+A: word: bvùbvù	 gloss: lots
+B: word: mɛ́nɔ́	 gloss: ∅7.morning
+C: word: nàmɛ́nɔ́	 gloss: tomorrow
+D: word: dẽ̀	 gloss: today
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 54:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wɛ nzíì-H bàlɛ ___
+Gloss (with missing item): 2SG PROG.PRS-R keep ___
+The English translation of this sentence is:`You are remembering well [lit. your are keeping the words well].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \hspace*{-3.5pt}In terms of their position, manner adverbs exclusively occur (intonation) phrase finally. Thus, the adverb may follow the verb if there is no object, as demonstrated in \REF{Advmpa} and \REF{Advfi}.
+A: word: pɛ́-ɛ́	 gloss: there-DIST
+B: word: mùdà	 gloss: great
+C: word: mpàgó	 gloss: dbemptyset3.street
+D: word: mpà	 gloss: good
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 55:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wɛ-H ná báàla-H nà nyɛ̂-H ___ nà wɛ-H ndyándya-H ná sálɛ-H ɛ́ pɛ̂
+Gloss (with missing item): 2SG-PRS again repeat-R COM see-R ___ COM 2SG-PRS work-R again emptyset7.work LOC there
+The English translation of this sentence is:`You repeat [it] again and try something else and you work there again.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \hspace*{-3.5pt}In terms of their position, manner adverbs exclusively occur (intonation) phrase finally. Thus, the adverb may follow the verb if there is no object, as demonstrated in \REF{Advmpa} and \REF{Advfi}.
+A: word: fí	 gloss: different
+B: word: kɛ́-kɛ́-kɛ́-kɛ́-kɛ́	 gloss: IDEO:repeated.placement
+C: word: fī́	 gloss: different
+D: word: b-ɔ́gà	 gloss: 2-other
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 56:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-H sìmbɔ-H màtúà ___
+Gloss (with missing item): 1-PRS drive-R emptyset1.car ___
+The English translation of this sentence is:`He drives the car poorly.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent If the clause has an object, the manner adverb will follow the object instead of the verb, as shown in \REF{Advbiwo} and \REF{Advbvu}.
+A: word: ntàmanɛ	 gloss: ruin
+B: word: bíwɔ̀	 gloss: bad
+C: word: gbĩ́-gbĩ̀-gbĩ́-gbĩ̀-gbĩ́	 gloss: IDEO:roaming
+D: word: ma-jíwɔ̀	 gloss: ma6-water
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 57:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ̀ɛ́ jí-lɛ́ wɛ̂ ___
+Gloss (with missing item): 1SG.PRS.NEG ask-NEG 2SG ___
+The English translation of this sentence is:`I don't ask you [for] much.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent If the clause has an object, the manner adverb will follow the object instead of the verb, as shown in \REF{Advbiwo} and \REF{Advbvu}.
+A: word: gyɛ̃́ɛ̃̀	 gloss: cry.COMPL
+B: word: kùgúù	 gloss: emptyset7.evening
+C: word: bvùbvù	 gloss: much
+D: word: bvúbvù	 gloss: many
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 58:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ̀ nzí dyá ___ kùgúù dẽ̂ ma-fú má-báà.
+Gloss (with missing item): 1SG PROG.PST1 lie.down ___ emptyset7.evening dbtoday ma6-day 6-two
+The English translation of this sentence is:`I was here in the evening two days ago.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Tits gloss ___ seem to be some ordering principles among multiple phrase-final adverbs slot, with some adverbs seem closer to the center of the phrase than others. Since multiple adverbs do not occur very frequently in natural speech, it is not possible at this point to give a full account of adverb order in multiple adverb constructions. The present examples, however, suggest that group 1 adverbs are closest to the center, i.e.\ verb and following object, as shown in \REF{ADVM1} and \REF{ADVM2}.
+A: word: nàmɛ́nɔ́	 gloss: tomorrow
+B: word: be-sâ	 gloss: be8-thing
+C: word: tè	 gloss: there
+D: word: vâ	 gloss: here
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 59:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ̀ nzí dyá vâ ___ dẽ̂ ma-fú má-báà.
+Gloss (with missing item): 1SG PROG.PST1 lie.down here ___ dbtoday ma6-day 6-two
+The English translation of this sentence is:`I was here in the evening two days ago.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There seem to be some ordering principles among multiple phrase-final adverbs slot, with some adverbs seem closer to the center of the phrase than others. Since multiple adverbs do not occur very frequently in natural speech, it is not possible at this point to give a full account of adverb order in multiple adverb constructions. The present examples, however, suggest that group 1 adverbs are closest to the center, i.e.\ verb and following object, as shown in \REF{ADVM1} and \REF{ADVM2}.
+A: word: dé	 gloss: LOC
+B: word: kùgúù	 gloss: emptyset7.evening
+C: word: nàkùgúù	 gloss: yesterday
+D: word: gyá	 gloss: emptyset7.song
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 60:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ̀ nzí dyá vâ kùgúù ___ ma-fú má-báà.
+Gloss (with missing item): 1SG PROG.PST1 lie.down here emptyset7.evening ___ ma6-day 6-two
+The English translation of this sentence is:`I was here in the evening two days ago.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There seem to be some ordering principles among multiple phrase-final adverbs slot, with some adverbs seem closer to the center of the phrase than others. Since multiple adverbs do not occur very frequently in natural speech, it is not possible at this point to give a full account of adverb order in multiple adverb constructions. The present examples, however, suggest that group 1 adverbs are closest to the center, i.e.\ verb and following object, as shown in \REF{ADVM1} and \REF{ADVM2}.
+A: word: dé	 gloss: LOC
+B: word: dẽ̀	 gloss: today
+C: word: d-úwɔ̀	 gloss: dble5-day
+D: word: dẽ̂	 gloss: dbtoday
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 61:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yɔ́ɔ̀ m-ùdã̂ dígɛ-H m-ísì ___
+Gloss (with missing item): so N1-woman watch-R ma6-eye ___
+The English translation of this sentence is:`So the woman looks with her eyes [depiction of staring].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ideophones in Gyeli frequently occur at the end of an intonation phrase as in \REF{IDEOadv1} and \REF{IDEOadv2}. In these cases, ideophones are similar to adverbs in their position and their function, namely depicting the manner in which an action or event happens.
+A: word: wɔ̀m	 gloss: IDEO
+B: word: nà	 gloss: CONJ
+C: word: dẽ̀	 gloss: today
+D: word: ndẽ́ẽ́ẽ́	 gloss: IDEO:staring
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 62:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ba-H kɛ-H ndáà nà tɛ́lɛ-H H-ma-kùndù má kùrã̂ ___
+Gloss (with missing item): 2-PRS go-R also COM put-R OBJ.LINK-ma6-clay.house 6:ATT emptyset7.electricity ___
+The English translation of this sentence is:`They also go and put up electricity poles for clay houses [depiction of putting the electricity poles along the road].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ideophones in Gyeli frequently occur at the end of an intonation phrase as in \REF{IDEOadv1} and \REF{IDEOadv2}. In these cases, ideophones are similar to adverbs in their position and their function, namely depicting the manner in which an action or event happens.
+A: word: le-kɛ́lɛ̀	 gloss: le5-speech
+B: word: kɛ́-kɛ́-kɛ́-kɛ́-kɛ́	 gloss: IDEO:repeated.placement
+C: word: wɔ̀m	 gloss: IDEO
+D: word: tɛ́ɛ̀	 gloss: now
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 63:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yɔ́ɔ̀ Nzàmbí nji-H mpù ___ njì dígɛ̀ mpù
+Gloss (with missing item): so ∅1.PN come-R like.this ___ come look like.this
+The English translation of this sentence is:`So Nzambi comes like this [depiction of walking a long distance], comes looking like this.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In contrast to adverbs, ideophones also occur in constructions with the deictic element {\itshape mpù} `like this', as shown in \REF{IDEOadv3}.
+A: word: bã̂ã̂ã̂ã̂	 gloss: IDEO:walking.far
+B: word: gbĩ́-gbĩ̀-gbĩ́-gbĩ̀-gbĩ́	 gloss: IDEO:roaming
+C: word: bã̂	 gloss: emptyset7.word
+D: word: wúmbɛ	 gloss: want-R
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 64:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Nzàmbí ma-bɔ́ɔ̀ nkwɛ́ɛ̀ dé nâ ___
+Gloss (with missing item): ∅1.PN ma6-breadfruit ∅3.basket LOC COMP ___
+The English translation of this sentence is:`Nzambi pours the breadfruit into the basket.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \subsubsection*{Ideophones as {\itshape nâ} complements} Similarly, the same sort of signaling happens when ideophones are used as complements in {\itshape nâ} clauses, as illustrated in \REF{IDEOna}.
+A: word: mi-ndísì	 gloss: mi4-rice
+B: word: wɔ̀m	 gloss: IDEO
+C: word: vɔ́sì	 gloss: IDEO:pouring
+D: word: gyɛ́sɔ-h	 gloss: look.for-R
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 65:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ a múà nà bábɛ̀ tí wúmbɛ-H wɛ̀
+Gloss (with missing item): ___ 1SG.PST1 PROSP COM emptyset7.illness NEG want-R die
+The English translation of this sentence is:`[depiction of disease roaming in his body] He was about to be sick, not wanting to die.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Gyeli ideophones occur independently from an intonation phrase, rather forming an intonation phrase on their own. In this, they differ from adverbs which cannot occur as independent intonation phrases. In \REF{IDEOfree1}, the ideophone occurs before the intonation phrase it refers to in the discourse. The ideophone is separated from the following intonation by a short pause.
+A: word: gbĩ́-gbĩ̀-gbĩ́-gbĩ̀-gbĩ́	 gloss: IDEO:roaming
+B: word: gbĩ́-gbĩ̀-gbĩ́-gbĩ̀-gbĩ́	 gloss: IDEO:roaming
+C: word: wɔ̀m	 gloss: IDEO
+D: word: voilà	 gloss: ok[French]
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 66:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wɛ-H dyúwɔ-H mpù ba-mìntùlɛ̀ bɔ́-gá ba-H tsígɛ̀ ___
+Gloss (with missing item): 2SG-PRS hear-R like.this ba2-mouse 2-other 2-PRS take.off ___
+The English translation of this sentence is:`You hear like this the other mice take off [depiction of noise made by mice].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent Intonationally independent ideophones can also follow the intonation phrase they are semantically linked to in the discourse, as shown in \REF{IDEOfree2}.
+A: word: gyàgâ	 gloss: buy.IMP
+B: word: wɔ̀m	 gloss: IDEO
+C: word: sùkúlì	 gloss: ∅7.school
+D: word: tsùk-tsùk-tsùk	 gloss: IDEO:rustling
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 67:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wɛ-H dyúwɔ-H mpù ba-mìntùlɛ̀ bɔ́-gá ba-H tsígɛ̀ ___
+Gloss (with missing item): 2SG-PRS hear-R like.this ba2-mouse 2-other 2-PRS take.off ___
+The English translation of this sentence is:`You hear like this the other mice take off [depiction of noise made by mice].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent In addition to intonational breaks, the end of an intonation phrase can be indicated by the tonal melody. In \REF{IDEOfree2}, it is the L tone on {\itshape tsígɛ̀} `take off', which shows the end on the intonation phrase. If the ideophone was part of the same intonation phrase, the final tone on {\itshape tsígɛ̀} would be H.
+A: word: b-ɔ́ɔ̀	 gloss: 2-other
+B: word: sùkúlì	 gloss: ∅7.school
+C: word: wɔ̀m	 gloss: IDEO
+D: word: tsùk-tsùk-tsùk	 gloss: IDEO:rustling
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 68:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): dɔ̃̀ ___ ya-H táálɛ-H bê yàlanɛ àà
+Gloss (with missing item): so[French] ___ 1PL-PRS begin-R 2PL respond[Bulu] EXCL
+The English translation of this sentence is:`So we start to respond to you, mhm.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: While many subject pronouns are segmentally identical to the \textsc{stamp} markers of their person/class (see \tabref{Tab:Pros} for comparison), there are a few exceptions which clearly show that subject pronouns form a distinct paradigm. These exceptions include the first and second person plural, and the pronoun of agreement class 1. To indicate this distinction in the glosses, I mark subject pronouns with `{\SBJ}', while the \textsc{stamp} marker is only marked for its agreement class/person, as in \REF{SBJpro1} where subject pronoun (in bold) and \textsc{stamp} marker differ in their form.
+A: word: kɛ́ɛ́ɛ́ɛ́	 gloss: EXCL
+B: word: bí	 gloss: 1PL.SBJ
+C: word: bí-ndɛ̀	 gloss: 8-ANA
+D: word: béé	 gloss: 2PL.SBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 69:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ah mbúmbù ___ wɛ-H tɛ́lɛ-H nú-ndɛ̀
+Gloss (with missing item): EXCL emptyset1.namesake ___ 2SG-PRS stand-R 1-ANA
+The English translation of this sentence is:`Ah namesake, is it you who is standing there?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Other subject pronouns are segmentally identical to their \textsc{stamp} marker and might only differ tonally, depending on the tense-mood category, as in \REF{SBJpro2}.
+A: word: gbĩ́-gbĩ̀-gbĩ́-gbĩ̀-gbĩ́	 gloss: IDEO:roaming
+B: word: kɛ́ɛ́ɛ́ɛ́	 gloss: EXCL
+C: word: wɛ-h	 gloss: 2SG-PRS
+D: word: wɛ	 gloss: 2SG.SBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 70:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ báà bù mpàgó
+Gloss (with missing item): ___ 2.FUT break ∅3.road
+The English translation of this sentence is:`THEY will build a road.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent Thus, although the agreement class 2 subject pronoun {\itshape the morpheme ___} is segmentally identical to its \textsc{stamp} marker, the two forms differ due to the \textsc{future} marking on the \textsc{stamp} marker in \REF{SBJpro3}.
+A: word: bá	 gloss: 2.SBJ
+B: word: mí-mbáà	 gloss: 4-two
+C: word: mɛ́dɛ́	 gloss: self
+D: word: béé	 gloss: 2PL.SBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 71:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yɔ́ɔ̀ Nzàmbí ___ a kɛ̃́ɛ̃̀ dígɛ m-ísì
+Gloss (with missing item): so ∅1.PN ___ 1.PST1 go.COMPL watch ma6-eye
+The English translation of this sentence is:`So this Nzambi has gone and was thinking very hard [lit. he watched with his eyes].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are certain words that can enter between the subject pronoun and the \textsc{stamp} marker. These are, for instance, the contrastive marker -{\itshape gà} (\sectref{sec:CONTRS}) that attaches to the subject pronoun, as in \REF{SBJpro5}.
+A: word: wɛ̀-gà	 gloss: 2SG.SBJ-CONTR
+B: word: nyɛ-gà	 gloss: 1.SBJ-CONTR
+C: word: kɔ́sɛ	 gloss: cough
+D: word: nyɛ-gá	 gloss: 1.SBJ-CONTR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 72:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ b-ɔ́ɔ̀ ya-H bígɛ-H mpá'à wá vɛ́
+Gloss (with missing item): ___ 2-other 1PL-PRS develop-R emptyset3.side 3:ATT which
+The English translation of this sentence is:`How will we others [in contrast to other Gyeli villages] make progress?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent Other nominal modifiers, such as {\itshape bɔ́ɔ̀} `other' in \REF{SBJpro6} or {\itshape ndáà} `also' in \REF{SBJpro7} occur between the subject pronoun and the \textsc{stamp} marker.
+A: word: bí-ndɛ̀	 gloss: 8-ANA
+B: word: béé	 gloss: 2PL.SBJ
+C: word: áá	 gloss: EXCL
+D: word: bí	 gloss: 1PL.SBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 73:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bí ___ ya-H bígɛ-H mpá'à wá vɛ́
+Gloss (with missing item): 1PL.SBJ ___ 1PL-PRS develop-R emptyset3.side 3:ATT which
+The English translation of this sentence is:`How will we others [in contrast to other Gyeli villages] make progress?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent Other nominal modifiers, such as {\itshape bɔ́ɔ̀} `other' in \REF{SBJpro6} or {\itshape ndáà} `also' in \REF{SBJpro7} occur between the subject pronoun and the \textsc{stamp} marker.
+A: word: y-ɔ́ɔ̀	 gloss: 7-OBJ
+B: word: nɔ́-gá	 gloss: 1-other
+C: word: gbĩ́-gbĩ̀-gbĩ́-gbĩ̀-gbĩ́	 gloss: IDEO:roaming
+D: word: b-ɔ́ɔ̀	 gloss: 2-other
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 74:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bwáa-H lã-H ___
+Gloss (with missing item): 2PL-PRS tell-R ___
+The English translation of this sentence is:`You tell them!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Non-subject pronouns that serve as objects occur in all object positions discussed in \sectref{sec:verbalC} and \sectref{sec:IS}. The basic position is after the verb, as in \REF{NSBJ1x} and \REF{NSBJ3}.
+A: word: lùnga-h	 gloss: grow-R
+B: word: y-ɔ̂	 gloss: 7-OBJ
+C: word: bɔ̂	 gloss: 2.OBJ
+D: word: b-ɔ̂	 gloss: 2-OBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 75:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): byɔ̂ be-H vɛ̀-H ___ ma-pè'è
+Gloss (with missing item): 8.OBJ 8-PRS give-R ___ ma6-wisdom
+The English translation of this sentence is:`They give us wisdom.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Non-subject pronouns that serve as objects occur in all object positions discussed in \sectref{sec:verbalC} and \sectref{sec:IS}. The basic position is after the verb, as in \REF{NSBJ1x} and \REF{NSBJ3}.
+A: word: yíì	 gloss: COP
+B: word: bíì	 gloss: 1PL.OBJ
+C: word: bê	 gloss: 2PL.OBJ
+D: word: bí	 gloss: 1PL.SBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 76:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ mɛ-H wúmbɛ-H wû
+Gloss (with missing item): ___ 1SG-PRS want-R there
+The English translation of this sentence is:`That is what I want there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Non-subject pronouns serving as objects can also be dislocated to the left edge of the clause, as in \REF{NSBJ1}. In this marked position \REF{NSBJ3} as well as in the in-situ focus position in \REF{NSBJ1}, the pronoun is optionally lengthened for emphasis.
+A: word: yɔ́ɔ̀	 gloss: 7.OBJ
+B: word: dyùù	 gloss: kill
+C: word: bã̂ã̂ã̂ã̂	 gloss: IDEO:walking.far
+D: word: y-ɔ́ɔ̀	 gloss: 7-OBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 77:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): byɔ̂ be-H vɛ̀-H ___ ma-pè'è
+Gloss (with missing item): 8.OBJ 8-PRS give-R ___ ma6-wisdom
+The English translation of this sentence is:`They give us wisdom.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Non-subject pronouns serving as objects can also be dislocated to the left edge of the clause, as in \REF{NSBJ1}. In this marked position \REF{NSBJ3} as well as in the in-situ focus position in \REF{NSBJ1}, the pronoun is optionally lengthened for emphasis.
+A: word: bíì	 gloss: 1PL.OBJ
+B: word: ndẽ́ẽ́ẽ́	 gloss: IDEO:staring
+C: word: yíì	 gloss: COP
+D: word: bê	 gloss: 2PL.OBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 78:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ mɛ-H wúmbɛ-H wû
+Gloss (with missing item): ___ 1SG-PRS want-R there
+The English translation of this sentence is:`That is what I want there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Non-subject pronouns serving as objects can also be dislocated to the left edge of the clause, as in \REF{NSBJ1}. In this marked position \REF{NSBJ3} as well as in the in-situ focus position in \REF{NSBJ1}, the pronoun is optionally lengthened for emphasis.
+A: word: mpà	 gloss: good
+B: word: bɛ́dɛ	 gloss: light
+C: word: y-ɔ́ɔ̀	 gloss: 7-OBJ
+D: word: yɔ́ɔ̀	 gloss: 7.OBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 79:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ngùndyá tè ___ bɛ̀-H nyî
+Gloss (with missing item): ∅9.raffia there ___ be-R 9.DEM.PROX
+The English translation of this sentence is:`The raffia there, IT is that.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Finally, non-subject pronouns are used as an information structure strategy after nominal subjects to mark subject focus, as in \REF{beEMPH2x}.
+A: word: ny-ɔ̂	 gloss: 9-OBJ
+B: word: bã̂ã̂ã̂ã̂	 gloss: IDEO:walking.far
+C: word: nyɔ̂	 gloss: 9.OBJ
+D: word: dyɔ̂	 gloss: sleep
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 80:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): èé lûngà yá sã́ ___ y-ɔ́ɔ̀ yíì
+Gloss (with missing item): EXCL emptyset7.grave 7:ATT emptyset1.father ___ 7-OBJ 7.COP
+The English translation of this sentence is:`Right, his father's grave is over there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In natural text, as opposed to elicitation, third person singular possessor pronouns are often lengthened, as shown in \REF{POSSlength}.
+A: word: kɛ́-kɛ́-kɛ́-kɛ́-kɛ́	 gloss: IDEO:repeated.placement
+B: word: w-ɛ́ɛ̀	 gloss: 1-POSS.3SG
+C: word: w-ɛ̂	 gloss: 1-POSS.3SG
+D: word: w-ã̂	 gloss: 3-POSS.1SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 81:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bímbú lɛ́ ma-mbòngò mâ wɛ̀ ___ dígɛ̂ mɛ́dɛ́
+Gloss (with missing item): emptyset5.amount 5:ATT ma6-plant 6.DEM.PROX 2SG.SBJ ___ look.IMP self
+The English translation of this sentence is:`The amount of these plants, yourself, look yourself,'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: With an emphatic function, the reflexive pronoun can be used in all kinds of noun phrases: subject, object, and adjunct. Typically, {\itshape the morpheme ___} `its gloss ___' follows a pronoun, as with the subject pronoun in \REF{mede1} and in the adjunct in \REF{mede2}.
+A: word: támé	 gloss: alone
+B: word: mɛ́dɛ́	 gloss: self
+C: word: mɛ́dɛ̀	 gloss: self
+D: word: yánɛ-h	 gloss: must-R
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 82:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bímbú lɛ́ ma-mbòngò mâ wɛ̀ mɛ́dɛ́ dígɛ̂ ___
+Gloss (with missing item): emptyset5.amount 5:ATT ma6-plant 6.DEM.PROX 2SG.SBJ self look.IMP ___
+The English translation of this sentence is:`The amount of these plants, yourself, look yourself,'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: With an emphatic function, the reflexive pronoun can be used in all kinds of noun phrases: subject, object, and adjunct. Typically, {\itshape the morpheme ___} `its gloss ___' follows a pronoun, as with the subject pronoun in \REF{mede1} and in the adjunct in \REF{mede2}.
+A: word: ná	 gloss: still
+B: word: mɛ́dɛ̀	 gloss: self
+C: word: támé	 gloss: alone
+D: word: mɛ́dɛ́	 gloss: self
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 83:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a múà ___ nyá m-ùdì
+Gloss (with missing item): 1 be.almost ___ real N1-person
+The English translation of this sentence is:`He was himself a real (old) man.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Unlike with its reflexive function, the reflexive pronoun can also occur after other parts of speech than pronouns when used emphatically. In \REF{mede3}, for instance, it occurs after the finite verb form, referring to the subject. Given that other words, such as the finite verb form in this example, can enter between the subject and reflexive pronoun, I analyze {\itshape the morpheme ___} `its gloss ___' as a free morpheme.
+A: word: fī́	 gloss: different
+B: word: mɛ́dɛ́	 gloss: self
+C: word: támé	 gloss: alone
+D: word: mɛ́dɛ̀	 gloss: self
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 84:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): sá ___ mɛ nzí sâ yî
+Gloss (with missing item): emptyset7.thing ___ 1SG PROG.PST do 7.DEM.PROX
+The English translation of this sentence is:`The thing itself, I was doing this.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: {\itshape the morpheme ___} `its gloss ___' also follows nouns (instead of pronouns), as in \REF{mede4} where it follows the left-dislocated object noun.
+A: word: mɛ́dɛ́	 gloss: self
+B: word: mɛ́dɛ̀	 gloss: self
+C: word: pɛ́-ɛ́	 gloss: there-DIST
+D: word: támé	 gloss: alone
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 85:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɛ́ ná m-wánɔ̀ nùù ___
+Gloss (with missing item): LOC how N1-child 1.COP ___
+The English translation of this sentence is:`What! Where is the child?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In contrast to {\itshape líní} `when', the other two interrogative pro-forms {\itshape the morpheme ___} `its gloss ___' and {\itshape ná} `how' only appear in simple constructions if they are used in-situ at the end of the phrase, as illustrated in \REF{its gloss ___vE} and \REF{howna}.
+A: word: vɔ́sì	 gloss: IDEO:pouring
+B: word: tɛ̀lɛ	 gloss: place
+C: word: vɛ́ɛ̀lá	 gloss: ∅7.decoration
+D: word: vɛ́	 gloss: where
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 86:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kó mbúmbù nyɛ nzí lèmbo dyùù b-ɔ̂ fàmíì bá b-ùdì ___
+Gloss (with missing item): EXCL ∅1.namesake 1.SBJ PROG.PST know kill 2-OBJ ∅1.family 2:ATT ba2-person ___
+The English translation of this sentence is:`Oh namesake, how could he kill them, the family of people?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In contrast to {\itshape líní} `when', the other two interrogative pro-forms {\itshape vɛ́} `where' and {\itshape the morpheme ___} `its gloss ___' only appear in simple constructions if they are used in-situ at the end of the phrase, as illustrated in \REF{wherevE} and \REF{its gloss ___na}.
+A: word: kfùmala	 gloss: find
+B: word: ná	 gloss: how
+C: word: náà	 gloss: by
+D: word: nyɔ̂	 gloss: 9.OBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 87:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mbúmbù ___ ná
+Gloss (with missing item): ∅1.namesake ___ how
+The English translation of this sentence is:`Namesake, how is it?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent The complex form {\itshape the morpheme ___ ná} `how' is also used as a greeting in \REF{enahow}
+A: word: kɛ̀-h-ɛ́	 gloss: go-R-LOC?
+B: word: by-ɛ́sɛ̀	 gloss: 8-all
+C: word: ɔ́ɔ́ɔ́	 gloss: EXCL
+D: word: ɛ́	 gloss: LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 88:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mbúmbù ɛ́ ___
+Gloss (with missing item): ∅1.namesake LOC ___
+The English translation of this sentence is:`Namesake, how is it?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent The complex form {\itshape ɛ́ the morpheme ___} `its gloss ___' is also used as a greeting in \REF{enaits gloss ___}
+A: word: níyɛ̀	 gloss: how.many
+B: word: kɔ́sɛ	 gloss: cough
+C: word: ná	 gloss: how
+D: word: náà	 gloss: by
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 89:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ-H sùmɛlɛ-H bê ___
+Gloss (with missing item): 1SG-PRS greet-R 2PL.OBJ ___
+The English translation of this sentence is:`I greet you like this.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent Similarly, in \REF{likethis2}, {\itshape the morpheme ___} indicates that the greeting is ongoing between the speech act participants.
+A: word: náà	 gloss: by
+B: word: ndɛ̀náà	 gloss: like.that
+C: word: mpù	 gloss: like.this
+D: word: mɛ́dɛ́	 gloss: self
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 90:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bon pílì yi-H báàla-H nà bɛ̀ ___ ndɛ̀náà ndáà ná
+Gloss (with missing item): good[French] when 7-PRS repeat-R COM be ___ like.that also still
+The English translation of this sentence is:`So, when it continues and is still like this and like that.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent The deictic reference of pro-adverbs can also be anaphoric rather than signaling an ongoing or immediately following non-verbal communicative event. This is the case in \REF{likethis4}, for instance, where {\itshape the morpheme ___} summarizes the situation that the speaker has elaborated previously.
+A: word: ndɛ̀náà	 gloss: like.that
+B: word: náà	 gloss: by
+C: word: kɛ́-kɛ́-kɛ́-kɛ́-kɛ́	 gloss: IDEO:repeated.placement
+D: word: mpù	 gloss: like.this
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 91:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bon pílì yi-H báàla-H nà bɛ̀ ___ ndɛ̀náà ndáà ná
+Gloss (with missing item): good[French] when 7-PRS repeat-R COM be ___ like.that also still
+The English translation of this sentence is:`So, when it continues and is still like this and like that.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As \REF{likethis4} and \REF{likethis5} show, {\itshape mpù} and {\itshape the morpheme ___} `like this' can both occur directly after the finite verb, as expected for an adverb. While {\itshape mpù} is often followed by an object, this is not the case for {\itshape the morpheme ___} in the corpus. Speakers state, however, that it would be perfectly grammatical.
+A: word: mpù	 gloss: like.this
+B: word: dyâ-h	 gloss: lie.down-R
+C: word: ndɛ̀náà	 gloss: like.that
+D: word: náà	 gloss: by
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 92:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yɔ́ɔ̀ Nzàmbí dígɛ-H m-ísì ___ mpù
+Gloss (with missing item): so ∅1.PN look-R ma6-eye ___ like.this
+The English translation of this sentence is:`So Nzambi looks with the eyes like this.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: {\itshape Mpù}, unlike {\itshape ndɛ̀náà}, is often preceded by the preposition {\itshape the morpheme ___}, as in \REF{likethis6}.
+A: word: ɛ́	 gloss: LOC
+B: word: kɛ̀-h-ɛ́	 gloss: go-R-LOC?
+C: word: dyâ	 gloss: lie.down
+D: word: by-ɛ́sɛ̀	 gloss: 8-all
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 93:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yɔ́ɔ̀ Nzàmbí dígɛ-H m-ísì ɛ́ ___
+Gloss (with missing item): so ∅1.PN look-R ma6-eye LOC ___
+The English translation of this sentence is:`So Nzambi looks with the eyes like this.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: {\itshape Mpù}, unlike {\itshape ndɛ̀náà}, is often preceded by the preposition {\itshape ɛ́}, as in \REF{likethis6}.
+A: word: nàkùgúù	 gloss: yesterday
+B: word: mpù	 gloss: like.this
+C: word: námpùndì	 gloss: ∅1.PN
+D: word: ndɛ̀náà	 gloss: like.that
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 94:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ wɛ-H nyɛ̂-H mpù
+Gloss (with missing item): ___ 2SG-PRS see-R like.this
+The English translation of this sentence is:`Right, you see that?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The pro-clausal tag question particle {\itshape the morpheme ___} is used to verify the truth value of a clause in leading polar questions (\sectref{sec:Questions}), as in \REF{Qtag1}. It is extra-clausal as evidenced by a phonetic break that separates {\itshape the morpheme ___} from the main clause and its ability to occur by itself, for instance as a response to an interlocutor's statement. A {\itshape the morpheme ___} response by itself expresses either surprise, a truth verification (`is that right?', `really?'), or agreement (`isn't that right!', `really!').
+A: word: nànâ	 gloss: Q
+B: word: kùgáà	 gloss: be.enough.SBJV
+C: word: kɛ̀ndɛ̀	 gloss: emptyset7.walk
+D: word: ngáà	 gloss: Q(tag)
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 95:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ wɛ-H nyɛ̂-H mpù
+Gloss (with missing item): ___ 2SG-PRS see-R like.this
+The English translation of this sentence is:`Right, you see that?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent {\itshape the morpheme ___} appears both at the beginning of the question, as in \REF{Qtag1}, or at the end of it, as in \REF{Qtag2}.
+A: word: kùgáà	 gloss: be.enough.SBJV
+B: word: nànâ	 gloss: Q
+C: word: ngáà	 gloss: Q(tag)
+D: word: dɔ̃̀	 gloss: so[French]
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 96:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wɛ-H nyɛ̂-H mpù ___
+Gloss (with missing item): 2SG-PRS see-R like.this ___
+The English translation of this sentence is:`You see that, don't you?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent {\itshape the morpheme ___} appears both at the beginning of the question, as in \REF{Qtag1}, or at the end of it, as in \REF{Qtag2}.
+A: word: nànâ	 gloss: Q
+B: word: kùgáà	 gloss: be.enough.SBJV
+C: word: tsùk-tsùk-tsùk	 gloss: IDEO:rustling
+D: word: ngáà	 gloss: Q(tag)
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 97:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wɛ̀ɛ́ nyɛ̂-lɛ mpù ___
+Gloss (with missing item): 2SG.NEG.PRS see-NEG like.this ___
+The English translation of this sentence is:`You don't see that, do you?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The pro-clausal particle is used in both affirmative and negated questions. An example of the latter is given in \REF{Qtag3}.
+A: word: kùgáà	 gloss: be.enough.SBJV
+B: word: pɛ̀	 gloss: there
+C: word: ngáà	 gloss: Q(tag)
+D: word: nànâ	 gloss: Q
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 98:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ béé ndáà bèya-H làwɔ-H fàlà
+Gloss (with missing item): ___ 2PL.SBJ also 2PL[Kwasio]-PRS speak-R emptyset1.French
+The English translation of this sentence is:`Isn't it, you (pl.) also, you speak French.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In affirmative questions, Gyeli also uses French loanwords or code-switching.\footnote{The status of these French words in Gyeli is not clear at the moment.} In \REF{Qtag4}, {\itshape the morpheme ___} taken from French {\itshape est-ce} `is it' is used as tag question marker. There seems to be a preference to use it phrase initially.
+A: word: dɔ̃̀	 gloss: so[French]
+B: word: mi-nsɛ́	 gloss: mi4-sand
+C: word: w-ɛ̂	 gloss: 1-POSS.3SG
+D: word: ɛ̀sɛ́	 gloss: is.it[French]
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 99:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): be-déwò ___ byɔ̂ mɛ-H lɔ́ njì lɛ́bɛlɛ H-be-déwò bà wɛ̀
+Gloss (with missing item): be8-food ___ 8.OBJ 1-PRS RETRO come follow be8-food AP 2SG.OBJ
+The English translation of this sentence is:`That (aforementioned) food, I have come to look for the food at your place.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The anaphoric marker {\itshape ndɛ̀} signals reference to an entity that has been mentioned before in the discourse. It occurs in two variants: (i) with an agreement prefix and (ii) as the stem only without an agreement prefix. The variant with agreement prefix is more frequent in the text corpus with almost six times more agreeing than free stem forms. A natural text example of {\itshape ndɛ́} with an agreement prefix is given in \REF{41t}.
+A: word: bí-ndɛ̀	 gloss: 8-ANA
+B: word: bà	 gloss: AP
+C: word: yí-ndɛ̀	 gloss: 7-ANA
+D: word: yí-ndɛ̀	 gloss: 7-ANA
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 100:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): m-ùdì ___ nú-ndɛ̀ dígɛ-H m-ísì
+Gloss (with missing item): N1-person ___ 1-ANA look-R ma6-eye
+The English translation of this sentence is:`That (aforementioned) person thinks very hard [lit. looks with his eyes].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another possibility would be to analyze the CV morph as an attributive marker. As shown in \sectref{sec:ATT}, many of the attributive markers across different agreement classes have a CV shape with a plain vowel and an H tone. Most attributive markers link a noun to a second constituent that could be another noun or another part of speech, such as an adjective or interrogative pronoun, as discussed in \sectref{sec:CONC}. Thus, this analysis would also make sense syntactically. Arguments against this explanation, however, concern the form of some attributive markers and their distribution. First, the attributive marker forms of agreement classes 1, 3, 7, and 9 differ from the CV shape element found with {\itshape ndɛ̀}. For instance, in agreement class 1, the attributive marker is {\itshape the morpheme ___}, while {\itshape ndɛ̀} would be preceded by {\itshape nú}-; in agreement class 7, the attributive marker is {\itshape yá}, but {\itshape ndɛ̀} is preceded by {\itshape yí}-. Second, there are examples where {\itshape ndɛ̀} plus its preceding CV morph follow a true attributive, as shown in \REF{ANAnoATT}. This makes it clear that the morph cannot be an attributive marker.
+A: word: (bá)	 gloss: (2:ATT)
+B: word: wà	 gloss: 1:ATT
+C: word: nyɛ-gà	 gloss: 1.SBJ-CONTR
+D: word: nkwànò	 gloss: emptyset3.honey
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 101:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): m-ùdì wà ___ dígɛ-H m-ísì
+Gloss (with missing item): N1-person 1:ATT ___ look-R ma6-eye
+The English translation of this sentence is:`That (aforementioned) person thinks very hard [lit. looks with his eyes].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another possibility would be to analyze the CV morph as an attributive marker. As shown in \sectref{sec:ATT}, many of the attributive markers across different agreement classes have a CV shape with a plain vowel and an H tone. Most attributive markers link a noun to a second constituent that could be another noun or another part of speech, such as an adjective or interrogative pronoun, as discussed in \sectref{sec:CONC}. Thus, this analysis would also make sense syntactically. Arguments against this explanation, however, concern the form of some attributive markers and their distribution. First, the attributive marker forms of agreement classes 1, 3, 7, and 9 differ from the CV shape element found with {\itshape ndɛ̀}. For instance, in agreement class 1, the attributive marker is {\itshape wà}, while {\itshape ndɛ̀} would be preceded by {\itshape nú}-; in agreement class 7, the attributive marker is {\itshape yá}, but {\itshape ndɛ̀} is preceded by {\itshape yí}-. Second, there are examples where {\itshape ndɛ̀} plus its preceding CV morph follow a true attributive, as shown in \REF{ANAnoATT}. This makes it clear that the morph cannot be an attributive marker.
+A: word: bé-ndɛ̀	 gloss: 8-ANA
+B: word: nú-ndɛ̀	 gloss: 1-ANA
+C: word: wú-ú	 gloss: there-DIST
+D: word: bí-ndɛ̀	 gloss: 8-ANA
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 102:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kàndá wɛ́ ___
+Gloss (with missing item): ∅7.proverb ID ___
+The English translation of this sentence is:`The story is this.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Unlike other nominal modifiers that always agree with their head noun, the anaphoric marker can also appear with its stem only. When following an identificational marker, {\itshape the morpheme ___} occurs without an agreement prefix, as shown in \REF{its gloss ___41t}, which was uttered at the end of a story.
+A: word: gyɛ́sɔ	 gloss: look.for
+B: word: ndɛ̀	 gloss: ANA
+C: word: bí-ndɛ̀	 gloss: 8-ANA
+D: word: nú-ndɛ̀	 gloss: 1-ANA
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 103:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): àà kfúmá ___ wà Nlúnzɔ̀
+Gloss (with missing item): ECXL ∅1.chief ___ 1:ATT ∅1.PN
+The English translation of this sentence is:`Ah, that chief from Nlunzo!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent The anaphoric marker {\itshape ndɛ́} also appears as a bare stem after nouns, as in \REF{its gloss ___42t}, which is a response to a question about the chief.
+A: word: nú-ndɛ̀	 gloss: 1-ANA
+B: word: bí-ndɛ̀	 gloss: 8-ANA
+C: word: nga	 gloss: PL
+D: word: ndɛ̀	 gloss: ANA
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 104:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): èè mɛ̀ j-ínɔ̀ ___ Màmà
+Gloss (with missing item): yes 1SG le5-name ___ emptyset1.PN
+The English translation of this sentence is:`Yes, my name is Mama.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The similative marker {\itshape the morpheme ___} occurs both as a free morpheme and a prefix. The free morpheme {\itshape the morpheme ___} functions as a predicative marker that is restricted to naming constructions, linking the noun {\itshape jínɔ̀} `name' with a proper name, as shown in \REF{its gloss ___word}. It is distinct from other copula forms discussed in \sectref{sec:its gloss ___} and is labelled as a ``similative'' marker for its segmental identity with the similative prefix, which is more productive and more obviously denotes similarity (\sectref{sec:its gloss ___}).
+A: word: ná	 gloss: SIM
+B: word: tfúga	 gloss: suffer
+C: word: náà	 gloss: by
+D: word: bíwɔ̀	 gloss: bad
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 105:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bà m-ínɔ̀ ___ Màmà nà Màmbì
+Gloss (with missing item): 2 ma6-name ___ ∅1.PN CONJ ∅1.PN
+The English translation of this sentence is:`Their names are Mama and Mambi.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The free similative marker is invariable, even if the noun + noun construction has plural constituents. As illustrated in \REF{its gloss ___word2}, number has to be identical in the first and second constituent, but the connecting similative marker {\itshape the morpheme ___} does not change.
+A: word: náà	 gloss: by
+B: word: wúmbɛ	 gloss: want-R
+C: word: mpù	 gloss: like.this
+D: word: ná	 gloss: SIM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 106:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ ___ mɔ̀ bvùbvù
+Gloss (with missing item): 1SG ___ COMPL lots
+The English translation of this sentence is:`I have (already) grown lots.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: I consider {\itshape mɔ̀} a free morpheme rather than a verbal suffix since tonal inflection of past tense and/or realis mood (\sectref{sec:SimpPred}) through the grammatical H tone happens on the preceding verb. If {\itshape mɔ̀} was a suffix, it would be the suffix (and the preceding toneless verbal derivation morphemes) that would take the grammatical H tone in non-final position. This, however, is not the case, as \REF{absmo1c} shows.
+A: word: gyàgâ	 gloss: buy.IMP
+B: word: nga-h	 gloss: PL-OBJ.LINK
+C: word: lùngã́ã̀	 gloss: grow.COMPL
+D: word: lùnga-h	 gloss: grow-R
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 107:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ lùnga-H ___ bvùbvù
+Gloss (with missing item): 1SG grow-R ___ lots
+The English translation of this sentence is:`I have (already) grown lots.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: I consider {\itshape the morpheme ___} a free morpheme rather than a verbal suffix since tonal inflection of past tense and/or realis mood (\sectref{sec:SimpPred}) through the grammatical H tone happens on the preceding verb. If {\itshape the morpheme ___} was a suffix, it would be the suffix (and the preceding toneless verbal derivation morphemes) that would take the grammatical H tone in non-final position. This, however, is not the case, as \REF{absmo1c} shows.
+A: word: njìmɔ̀	 gloss: ∅3.certain
+B: word: dẽ̂	 gloss: dbtoday
+C: word: lèmbṍõ̀	 gloss: know.COMPL
+D: word: mɔ̀	 gloss: COMPL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 108:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nà wɛ làdtɔ-H ___ nà ngã̀
+Gloss (with missing item): Q 2SG.PST1 meet-R ___ COM emptyset1.healer
+The English translation of this sentence is:`Have you ever/already met the healer?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There is no other element that can occur between the verb and the verbal particle. With verbs that require the comitative marker {\itshape nà} (\sectref{sec:MainVerbs}), for instance, {\itshape nà} follows the verbal particle, as in \REF{absmo7}.
+A: word: pɛ́-ɛ́	 gloss: there-DIST
+B: word: mɔ̀	 gloss: COMPL
+C: word: njìmɔ̀	 gloss: ∅3.certain
+D: word: lèmbṍõ̀	 gloss: know.COMPL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 109:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yá ___ nga bèkálàdè
+Gloss (with missing item): 1PL-PRS ___ PL be8-book
+The English translation of this sentence is:`Let's buy books!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: {\itshape ga/nga} always follows the finite verb, as can be seen in the contrast between the positive and the negated cohortative forms (\sectref{sec:NEGti}) in \REF{IMPga2}. In both cases, the verbal particle pluralizes the subject. In \REF{IMPga2a}, the finite verb is {\itshape the morpheme ___} `buy' in a simple predicate. In contrast, \REF{IMPga2b} shows a complex predicate where the finite verb is the negation auxiliary {\itshape tí}. The verbal plural particle follows the auxiliary, preceding the lexical verb.
+A: word: gyàga-h	 gloss: buy-R
+B: word: dígɛ̂	 gloss: look.IMP
+C: word: lùnga-h	 gloss: grow-R
+D: word: gyàgâ	 gloss: buy.IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 110:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yá gyàgâ ___ bèkálàdè
+Gloss (with missing item): 1PL-PRS buy.IMP ___ be8-book
+The English translation of this sentence is:`Let's buy books!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: {\itshape ga/the morpheme ___} always follows the finite verb, as can be seen in the contrast between the positive and the negated cohortative forms (\sectref{sec:NEGti}) in \REF{IMPga2}. In both cases, the verbal particle pluralizes the subject. In \REF{IMPga2a}, the finite verb is {\itshape gyàgâ} `buy' in a simple predicate. In contrast, \REF{IMPga2b} shows a complex predicate where the finite verb is the negation auxiliary {\itshape tí}. The verbal plural particle follows the auxiliary, preceding the lexical verb.
+A: word: nà	 gloss: CONJ
+B: word: nga	 gloss: PL
+C: word: nzíí	 gloss: PROG.PRS.R
+D: word: mí-mbàngá	 gloss: mi4-nut
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 111:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ya-H ___ nga gyàga H-be-kálàdè
+Gloss (with missing item): 1PL-PRS ___ PL buy OBJ.LINk-be8-book
+The English translation of this sentence is:`Let's not buy books!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: {\itshape ga/nga} always follows the finite verb, as can be seen in the contrast between the positive and the negated cohortative forms (\sectref{sec:NEGti}) in \REF{IMPga2}. In both cases, the verbal particle pluralizes the subject. In \REF{IMPga2a}, the finite verb is {\itshape gyàgâ} `buy' in a simple predicate. In contrast, \REF{IMPga2b} shows a complex predicate where the finite verb is the negation auxiliary {\itshape the morpheme ___}. The verbal plural particle follows the auxiliary, preceding the lexical verb.
+A: word: ba-tí	 gloss: ba2-in.law
+B: word: tí	 gloss: NEG.R
+C: word: kí	 gloss: NEG
+D: word: bíì	 gloss: 1PL.OBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 112:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ya-H tí ___ gyàga H-be-kálàdè
+Gloss (with missing item): 1PL-PRS NEG.R ___ buy OBJ.LINk-be8-book
+The English translation of this sentence is:`Let's not buy books!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: {\itshape ga/the morpheme ___} always follows the finite verb, as can be seen in the contrast between the positive and the negated cohortative forms (\sectref{sec:NEGti}) in \REF{IMPga2}. In both cases, the verbal particle pluralizes the subject. In \REF{IMPga2a}, the finite verb is {\itshape gyàgâ} `buy' in a simple predicate. In contrast, \REF{IMPga2b} shows a complex predicate where the finite verb is the negation auxiliary {\itshape tí}. The verbal plural particle follows the auxiliary, preceding the lexical verb.
+A: word: dẽ̂	 gloss: dbtoday
+B: word: nga	 gloss: PL
+C: word: nzíí	 gloss: PROG.PRS.R
+D: word: mí-mbàngá	 gloss: mi4-nut
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 113:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yá ___ nga bèkálàdè
+Gloss (with missing item): 1PL-PRS ___ PL be8-book
+The English translation of this sentence is:`Let's buy books!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: I consider {\itshape ga/nga} as a particle rather than a suffix that attaches to the finite verb of an \textsc{imperative} construction. If the particle was a suffix, one would expect it to take the HL tone that is characteristic of the \textsc{imperative} category. Instead, the particle is underlyingly toneless, behaving like toneless CV- noun class prefixes. Phrase finally, {\itshape ga/nga} surfaces as L, as shown in \REF{gaimp1} and \REF{ngaimp1}. If a nominal object follows, however, {\itshape nga} ``steals'' the object-linking H tone (\sectref{sec:HLinker}), which would otherwise surface on the noun class prefix in \REF{IMPga2a}. In that case, {\itshape be-kálàdè} surfaces with an L tone on the prefix.
+A: word: gyàga-h	 gloss: buy-R
+B: word: nú-ndɛ̀	 gloss: 1-ANA
+C: word: dígɛ̂	 gloss: look.IMP
+D: word: gyàgâ	 gloss: buy.IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 114:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yá gyàgâ ___ bèkálàdè
+Gloss (with missing item): 1PL-PRS buy.IMP ___ be8-book
+The English translation of this sentence is:`Let's buy books!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: I consider {\itshape ga/the morpheme ___} as a particle rather than a suffix that attaches to the finite verb of an \textsc{imperative} construction. If the particle was a suffix, one would expect it to take the HL tone that is characteristic of the \textsc{imperative} category. Instead, the particle is underlyingly toneless, behaving like toneless CV- noun class prefixes. Phrase finally, {\itshape ga/the morpheme ___} surfaces as L, as shown in \REF{gaimp1} and \REF{the morpheme ___imp1}. If a nominal object follows, however, {\itshape the morpheme ___} ``steals'' the object-linking H tone (\sectref{sec:HLinker}), which would otherwise surface on the noun class prefix in \REF{IMPga2a}. In that case, {\itshape be-kálàdè} surfaces with an L tone on the prefix.
+A: word: mí-mbàngá	 gloss: mi4-nut
+B: word: ná	 gloss: still
+C: word: nzíí	 gloss: PROG.PRS.R
+D: word: nga	 gloss: PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 115:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tí ___ dè wámíyɛ̀
+Gloss (with missing item): NEG ___ eat fast
+The English translation of this sentence is:`Don't (2{\PL}) eat fast.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The same is true when the particle is followed by {\itshape wámíyɛ̀} `quickly', as in \REF{ngapos1}.
+A: word: vâ	 gloss: here
+B: word: lùnga-h	 gloss: grow-R
+C: word: h-ŋga	 gloss: OBJ.LINK-PL
+D: word: nga-h	 gloss: PL-OBJ.LINK
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 116:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): sílɛ̂ ___ nyî vâ
+Gloss (with missing item): finish.IMP ___ enter here
+The English translation of this sentence is:`Enter (2{\PL}) here [one after the other until everybody is in the house].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent If {\itshape the morpheme ___} precedes a non-finite verb in a complex predicate, however, no H tone attaches, as shown in \REF{the morpheme ___pos2}.
+A: word: mí-mbàngá	 gloss: mi4-nut
+B: word: nzíí	 gloss: PROG.PRS.R
+C: word: nga	 gloss: PL
+D: word: mɛ́dɛ́	 gloss: self
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 117:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ya-H ___ nga gyàga H-be-kálàdè
+Gloss (with missing item): 1PL-PRS ___ PL buy OBJ.LINk-be8-book
+The English translation of this sentence is:`Let's not buy books!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent The H tone on {\itshape nga} in \REF{IMPga2b} is therefore not from the object-linking H tone, but originates from the H tone on the preceding auxiliary {\itshape the morpheme ___}. The object-linking H tone in this case attaches to the prefix of the nominal object.
+A: word: tí	 gloss: NEG.R
+B: word: ba-tí	 gloss: ba2-in.law
+C: word: vɔ́sì	 gloss: IDEO:pouring
+D: word: kí	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 118:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ya-H tí ___ gyàga H-be-kálàdè
+Gloss (with missing item): 1PL-PRS NEG.R ___ buy OBJ.LINk-be8-book
+The English translation of this sentence is:`Let's not buy books!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent The H tone on {\itshape the morpheme ___} in \REF{IMPga2b} is therefore not from the object-linking H tone, but originates from the H tone on the preceding auxiliary {\itshape tí}. The object-linking H tone in this case attaches to the prefix of the nominal object.
+A: word: nga	 gloss: PL
+B: word: tè	 gloss: there
+C: word: nzíí	 gloss: PROG.PRS.R
+D: word: mí-mbàngá	 gloss: mi4-nut
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 119:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): m-ùdã̂ kɛ̀-H ___ nyɛ̀ H-ma-nkɛ̃̂
+Gloss (with missing item): n1-woman go-R ___ 1 OBJ.LINK-ma6-field
+The English translation of this sentence is:`Woman, go with her to the fields.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In keeping with Bantu terminology, I call the comitative preposition {\itshape the morpheme ___} a marker. This preposition broadly expresses association between nominal entities or a referent and a predicate. As such, it is often translated as `with', as in \REF{its gloss ___1}.
+A: word: nâ	 gloss: COMP
+B: word: téè-h	 gloss: start.walking-R
+C: word: nà	 gloss: COM
+D: word: nàmɛ́nɔ́	 gloss: tomorrow
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 120:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ kí bɛ̀ ___ tsídí
+Gloss (with missing item): 1SG.PST1 NEG[Kwasio] be ___ emptyset1.meat
+The English translation of this sentence is:`I didn't have any meat.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The comitative marker is used in conjunction with the verb {\itshape bɛ̀} `be' to form {\itshape bɛ̀ the morpheme ___} `be with' > `have' to express possession, as in \REF{its gloss ___2}.
+A: word: nâ	 gloss: COMP
+B: word: nàmɛ́nɔ́	 gloss: tomorrow
+C: word: dɔ̃̀	 gloss: so[French]
+D: word: nà	 gloss: COM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 121:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ vùlɔ-H pɛ́mbɔ́ ___ ntfúmò
+Gloss (with missing item): 1SG.PST1 cut-R emptyset7.bread ___ emptyset3.knife
+The English translation of this sentence is:`I cut the bread with a knife.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: {\itshape the morpheme ___} is used in an instrumental sense, as in \REF{its gloss ___3a}.
+A: word: bí	 gloss: 1PL.SBJ
+B: word: nâ	 gloss: COMP
+C: word: nàmɛ́nɔ́	 gloss: tomorrow
+D: word: nà	 gloss: COM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 122:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nyɛ-gà váà nyɛ-gá tsíyɛ́ sâ ___ ma-lɛ́ndí
+Gloss (with missing item): 1.SBJ-CONTR here 1.SBJ-CONTR live-R only ___ 6-palm.tree
+The English translation of this sentence is:`Him here, he lives only from palm trees.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent Extended uses of the instrumental sense are given in \REF{its gloss ___3} through \REF{its gloss ___5}.
+A: word: nà	 gloss: COM
+B: word: nga-h	 gloss: PL-OBJ.LINK
+C: word: nâ	 gloss: COMP
+D: word: nàmɛ́nɔ́	 gloss: tomorrow
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 123:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a múà a-H kɛ̀-H jìí dé tù ___ ndzǐ gyâ
+Gloss (with missing item): 1.PST1 be.almost 1-PRS go-R emptyset7.forest LOC inside ___ emptyset9.path emptyset7.length
+The English translation of this sentence is:`He was about to go into the forest, on the long path'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent Extended uses of the instrumental sense are given in \REF{its gloss ___3} through \REF{its gloss ___5}.
+A: word: gyɛ́sɔ-h	 gloss: look.for-R
+B: word: nàmɛ́nɔ́	 gloss: tomorrow
+C: word: nà	 gloss: COM
+D: word: nâ	 gloss: COMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 124:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɛ́ pɛ̀ nâ a-H njíyɛ mɛ̀ ___ y-ɔ̂
+Gloss (with missing item): LOC there COMP 1-PRS come.SBJV 1SG.OBJ ___ 7-OBJ
+The English translation of this sentence is:`so that she bring me that [food]'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: With some verbs, the use of {\itshape the morpheme ___} is lexicalized (\sectref{sec:MainVerbs}), as in \REF{its gloss ___6}, where the combination of {\itshape njì} `come' and the comitative yields the meaning `bring'.
+A: word: nâ	 gloss: COMP
+B: word: bà	 gloss: AP
+C: word: nàmɛ́nɔ́	 gloss: tomorrow
+D: word: nà	 gloss: COM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 125:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bá ___ m-ùdã̂ w-ɛ̂
+Gloss (with missing item): 2.SBJ ___ 1-woman 1-POSS.3SG
+The English translation of this sentence is:`they and his wife'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The comitative also coordinates noun phrases, as in \REF{its gloss ___7}, where {\itshape the morpheme ___} links a subject pronoun and a noun + possessive pronoun construction.
+A: word: nà	 gloss: COM
+B: word: nâ	 gloss: COMP
+C: word: bíì	 gloss: 1PL.OBJ
+D: word: nàmɛ́nɔ́	 gloss: tomorrow
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 126:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ-H kɛ̀-H jìyɔ vé ya-H ___ fàmí w-ã̂
+Gloss (with missing item): 1SG-PRS go-R stay where 1PL-PRS ___ emptyset1.family 1-POSS.1SG
+The English translation of this sentence is:`Where will I live, we with my family?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The associative plural marker {\itshape the morpheme ___}\footnote{\citet{creissels2016} provides an in-depth discussion of the associative plural marker in Tswana (Bantu S31) from a historical and typological perspective.} is a preposition that marks not only the relationship between a governed element to a predicate or sentence, as is the case for the other prepositions described above, but also to a non-predicative noun. {\itshape the morpheme ___} is segmentally identical with the agreement class 2 subject pronoun and denotes a group of related people when used with a noun, as in \REF{its gloss ___1} and \REF{its gloss ___2}. The relationship that is marked in these instances is that between the governed nominal and an abstract group of referents that is not identical with the governed nominal, but associated to it.
+A: word: mí-mbàngá	 gloss: mi4-nut
+B: word: nzá	 gloss: who
+C: word: bà	 gloss: AP
+D: word: ɛ̀sɛ́	 gloss: is.it[French]
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 127:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bá ___ m-ùdã̂ w-ɛ̂
+Gloss (with missing item): 2.SBJ ___ 1-woman 1-POSS.3SG
+The English translation of this sentence is:`they and his wife'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent \REF{AP2} is similar to \REF{its gloss ___7}, but differs in that no comitative marker is used. The tonal pattern of {\itshape ba} also differs: as the associative plural, {\itshape bà} has an L tone, as a subject pronoun, it has an H tone.
+A: word: nàmɛ́nɔ́	 gloss: tomorrow
+B: word: tè	 gloss: there
+C: word: nâ	 gloss: COMP
+D: word: nà	 gloss: COM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 128:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ-H lɔ́ njì ba-gyɛ̃̂ ___ wɛ̂
+Gloss (with missing item): 1SG-PRS RETRO come ba2-stranger ___ 2SG.OBJ
+The English translation of this sentence is:`I just came as a guest to you.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: {\itshape the morpheme ___} is also used in the same way as the other prepositions described above, {\pagebreak}linking the governed element to a predicate or sentence. In these cases, the as\-sociative plural marker {\itshape the morpheme ___} often precedes a non-subject pronoun and expresses directionality towards human entities, as in \REF{its gloss ___3}.\footnote{This is similar to the French use of {\itshape chez} `to' that is used for human goals.}
+A: word: nzá	 gloss: who
+B: word: bà	 gloss: AP
+C: word: áá	 gloss: EXCL
+D: word: mí-mbàngá	 gloss: mi4-nut
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 129:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): b-ɔ́nɛ́gá báà ná jìí ___ tù
+Gloss (with missing item): 2-other 2.COP still ∅7.forest ___ inside
+The English translation of this sentence is:`The others are still in the forest.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples of the co-occurrence of both postpositions from natural text are provided in \REF{detu1} and \REF{detu2}.
+A: word: kɛ̀-h-ɛ́	 gloss: go-R-LOC?
+B: word: dé	 gloss: LOC
+C: word: h-be-déwɔ̀	 gloss: OBJ.LINK-be8-food
+D: word: b-ɔ́ɔ̀	 gloss: 2-other
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 130:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): b-ɔ́nɛ́gá báà ná jìí dé ___
+Gloss (with missing item): 2-other 2.COP still ∅7.forest LOC ___
+The English translation of this sentence is:`The others are still in the forest.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples of the co-occurrence of both postpositions from natural text are provided in \REF{detu1} and \REF{detu2}.
+A: word: nándtùngù	 gloss: ∅1.PN
+B: word: gyàgâ	 gloss: buy.IMP
+C: word: nyî	 gloss: enter
+D: word: tù	 gloss: inside
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 131:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): àà ndáwɔ̀ ___ tù nyɛ mɛ́dɛ́ támé
+Gloss (with missing item): 1.COP ∅9.house ___ inside 1 self alone
+The English translation of this sentence is:`He is in the house all by himself.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples of the co-occurrence of both postpositions from natural text are provided in \REF{detu1} and \REF{detu2}.
+A: word: ba-ngɛ̀lɛ́nɛ̀	 gloss: ba2-teacher
+B: word: h-be-déwɔ̀	 gloss: OBJ.LINK-be8-food
+C: word: kɛ̀-h-ɛ́	 gloss: go-R-LOC?
+D: word: dé	 gloss: LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 132:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): àà ndáwɔ̀ dé ___ nyɛ mɛ́dɛ́ támé
+Gloss (with missing item): 1.COP ∅9.house LOC ___ 1 self alone
+The English translation of this sentence is:`He is in the house all by himself.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples of the co-occurrence of both postpositions from natural text are provided in \REF{detu1} and \REF{detu2}.
+A: word: nyî	 gloss: enter
+B: word: bá	 gloss: 2.SBJ
+C: word: tù	 gloss: inside
+D: word: nándtùngù	 gloss: ∅1.PN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 133:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mbúmbù le-bvúú léè nlémò ___
+Gloss (with missing item): N1.namesake le5-anger 5.COP ∅3.heart ___
+The English translation of this sentence is:`The namesake is angry [lit. has anger in his heart].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples of the locative postposition {\itshape the morpheme ___} only that come from natural text are given in \REF{deonly1} through \REF{deonly3}.
+A: word: kɛ̀-h-ɛ́	 gloss: go-R-LOC?
+B: word: h-be-déwɔ̀	 gloss: OBJ.LINK-be8-food
+C: word: dé	 gloss: LOC
+D: word: pɛ́	 gloss: there
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 134:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mi-ntángánɛ́ mi-H múà vìdɛga ___
+Gloss (with missing item): mi4-white.person 4-PRS be.almost turn ___
+The English translation of this sentence is:`They are about to turn into white people.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples of the locative postposition {\itshape the morpheme ___} only that come from natural text are given in \REF{deonly1} through \REF{deonly3}.
+A: word: w-ɛ̂	 gloss: 1-POSS.3SG
+B: word: h-be-déwɔ̀	 gloss: OBJ.LINK-be8-food
+C: word: dé	 gloss: LOC
+D: word: kɛ̀-h-ɛ́	 gloss: go-R-LOC?
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 135:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Nzàmbí ma-bɔ́ɔ̀ nkwɛ́ɛ̀ ___ nâ vɔ́sì
+Gloss (with missing item): ∅1.PN ma6-breadfruit ∅3.basket ___ COMP IDEO:pouring
+The English translation of this sentence is:`Nzambi pours the breadfruit into the basket.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent As \REF{deonly2} shows, {\itshape the morpheme ___} can also be used to indicate directionality rather than location.
+A: word: kɛ̀-h-ɛ́	 gloss: go-R-LOC?
+B: word: dé	 gloss: LOC
+C: word: bí-ndɛ̀	 gloss: 8-ANA
+D: word: h-be-déwɔ̀	 gloss: OBJ.LINK-be8-food
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 136:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mi-ntángánɛ́ mi-H múà vìdɛga ___
+Gloss (with missing item): mi4-white.person 4-PRS be.almost turn ___
+The English translation of this sentence is:`They are about to turn into white people.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent The same is true for figurative directionality with the verb {\itshape vìdɛga the morpheme ___} `turn into' in \REF{deonly3}.
+A: word: kɛ̀-h-ɛ́	 gloss: go-R-LOC?
+B: word: h-be-déwɔ̀	 gloss: OBJ.LINK-be8-food
+C: word: dé	 gloss: LOC
+D: word: lùnga-h	 gloss: grow-R
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 137:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): b-ùdì ba sílɛ̃́ɛ̃̀ mɛ̂ wɛ̀ ndáwɔ̀ ___ vâ
+Gloss (with missing item): ba2-person 2.PST1 finish.COMPL 1SG.OBJ die emptyset9.house ___ here
+The English translation of this sentence is:`The people have all died here inside the house.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples of the sole use of {\itshape the morpheme ___} `its gloss ___' as postposition in natural text is less frequent, but attested as in \REF{tuonly}.
+A: word: mpù	 gloss: like.this
+B: word: nyî	 gloss: enter
+C: word: tù	 gloss: inside
+D: word: nándtùngù	 gloss: ∅1.PN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 138:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ sí ny-ã̂ nyíì búùlɛ̀ yá Ngɔ̀lɔ́
+Gloss (with missing item): ___ emptyset9.ground 9-POSS.1SG 9:COP emptyset7.old.camp 7:ATT emptyset3.PN
+The English translation of this sentence is:`So [French: {\itshape donc}], my land is the old settlement of Ngolo.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Most (recognizable) interjections used in Gyeli are loanwords from French.\footnote{It is possible that I classify some local interjections with exclamations since their meaning is generally hard to describe for speakers and the difference between a lexical word and an emotion encoding sound is possibly not always very clear.} Interjections have a discourse structuring function and often appear at the beginning of an intonation phrase, as in \REF{INTERJ1}.
+A: word: yɔ̃́ɔ̃̀	 gloss: dbemptyset7.time
+B: word: ɛ̀sɛ́	 gloss: is.it[French]
+C: word: dɔ̃̀	 gloss: so[French]
+D: word: téè-h	 gloss: start.walking-R
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 139:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ wɛ̀ɛ̀ njǐ nà njǐ wɛ̀ɛ̀ njǐ nà njǐ
+Gloss (with missing item): ___ 2SG.COP emptyset9.path CONJ emptyset9.path 2SG.COP emptyset9.path CONJ emptyset9.path
+The English translation of this sentence is:`Exactly, you are on the right track.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Pragmatically, interjections are also used to reinforce common ground, as in \REF{INTERJ2} where the speaker acknowledges that he and the addressee are on the same page.
+A: word: nlàmbɔ́	 gloss: emptyset3.country
+B: word: voilà	 gloss: ok[French]
+C: word: bon	 gloss: good[French]
+D: word: dɔ̃̀	 gloss: so[French]
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 140:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ m-ùdã̂ a gyɛ̃́ɛ̃̀
+Gloss (with missing item): ___ N1-woman 1.PST1 cry.COMPL
+The English translation of this sentence is:`Oh, the woman cried.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A widely used exclamation in the area (not only in Gyeli) is {\itshape the morpheme ___}, which signals general surprise about either a positive or negative event. In \REF{eeke1}, {\itshape the morpheme ___} is a reaction to a character in a story who wants to eat a child. The exclamation refers potentially to both the narrator's attitude and the reaction of the woman in the story whose child will be eaten.
+A: word: nzɛ́ɛ́	 gloss: PROG.SUB.R
+B: word: ooh	 gloss: dbEXCL
+C: word: nà	 gloss: CONJ
+D: word: ɛ́ɛ́kɛ̀	 gloss: EXCL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 141:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yɔ́ɔ̀ ba-H ki-H nâ ___
+Gloss (with missing item): so 2-PRS say-R COMP ___
+The English translation of this sentence is:`So they say that [exclamation of surprise]!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Exclamations are also frequently used in reported discourse, as in \REF{eeke}.
+A: word: tɛ́ɛ̀	 gloss: now
+B: word: nzɛ́ɛ́	 gloss: PROG.SUB.R
+C: word: ooh	 gloss: dbEXCL
+D: word: ɛ́ɛ́kɛ̀	 gloss: EXCL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 142:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ gyí wɛ-H lɔ́ njì gyɛ́sɔ
+Gloss (with missing item): ___ what 2SG-PRS RETRO come look.for
+The English translation of this sentence is:`Ah, what have you just come to look for?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another frequent exclamation is {\itshape the morpheme ___} or {\itshape áà} or {\itshape àà}. The tonal pattern seems to depend, at least partially, on the distance between speaker and addressee, with an H tone indicating distance and an L tone proximity. {\itshape the morpheme ___} has been observed to occur often to introduce a question, as in \REF{aa1} and \REF{aa2}. It seems comparable to the English exclamation `oh!' expressing surprise or desire.
+A: word: má-láálɛ̀	 gloss: 6-three
+B: word: ná	 gloss: still
+C: word: ooh	 gloss: dbEXCL
+D: word: áá	 gloss: EXCL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 143:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ bíì ma-ndáwɔ̀ má zì yáà m-ɔ́ fúala bwɛ̂ le-wùlà lé vɛ́
+Gloss (with missing item): ___ 1PL.OBJ ma6-house 6:ATT emptyset7.tin[Bulu] 1PL.FUT 6-OBJ end receive le5-hour 5:ATT which
+The English translation of this sentence is:`Ah, us, tin houses, when will we receive them?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another frequent exclamation is {\itshape the morpheme ___} or {\itshape áà} or {\itshape àà}. The tonal pattern seems to depend, at least partially, on the distance between speaker and addressee, with an H tone indicating distance and an L tone proximity. {\itshape the morpheme ___} has been observed to occur often to introduce a question, as in \REF{aa1} and \REF{aa2}. It seems comparable to the English exclamation `oh!' expressing surprise or desire.
+A: word: má-láálɛ̀	 gloss: 6-three
+B: word: nga	 gloss: PL
+C: word: áá	 gloss: EXCL
+D: word: ooh	 gloss: dbEXCL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 144:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nyɛ nâ ___ m-ùdã̂
+Gloss (with missing item): 1 COMP ___ N1-woman
+The English translation of this sentence is:`He [said]: ``Oh, wife!''.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A similar function of attention seeking and address is found with {\itshape the morpheme ___} in \REF{ooo} and {\itshape ɛ́} in \REF{eee}, comparable to English `hey!'.
+A: word: nà	 gloss: CONJ
+B: word: ooh	 gloss: dbEXCL
+C: word: ɔ́ɔ́ɔ́	 gloss: EXCL
+D: word: y-ɔ́ɔ̀	 gloss: 7-OBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 145:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ m-wánɔ̀ w-ã̂ dyúwɔ̀
+Gloss (with missing item): ___ N1-child 1-POSS.1SG on
+The English translation of this sentence is:`Hey, about my child!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A similar function of attention seeking and address is found with {\itshape ɔ́ɔ́ɔ́} in \REF{ooo} and {\itshape the morpheme ___} in \REF{eee}, comparable to English `hey!'.
+A: word: ɔ́ɔ́ɔ́	 gloss: EXCL
+B: word: ooh	 gloss: dbEXCL
+C: word: ɛ́	 gloss: EXCL
+D: word: by-ɛ́sɛ̀	 gloss: 8-all
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 146:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nyɛ nâ ___
+Gloss (with missing item): 1 COMP ___
+The English translation of this sentence is:`He [says]: ``What!''.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Exclamations with a clear negative connotation are {\itshape yééé} as a sound of disappreciation and {\itshape kɛ́ɛ́ɛ́} (with varying length). The latter expresses outrage and strong disapproval, as in \REF{keee1} where the speaker expresses his indignation after learning that his child had been eaten by his friend.
+A: word: kɛ́ɛ́ɛ́ɛ́	 gloss: EXCL
+B: word: ooh	 gloss: dbEXCL
+C: word: fī́	 gloss: different
+D: word: nzɛ́ɛ́	 gloss: PROG.SUB.R
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 147:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nyɛ nâ ___ b-wánɔ̀ b-ã̊ mɛ sílɛ̃ɛ̃̀ b-ɔ̂ dyùù
+Gloss (with missing item): 1 COMP ___ ba2-child 2-POSS.1SG 1SG finish.COMPL 2-OBJ kill
+The English translation of this sentence is:`He [says]: ``Ha, my children, I have already killed them all''.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: This exclamation can also be used less strongly in a pejorative way, as in \REF{keee2}. Here, {\itshape kɛ́ɛ́ɛ́} shows the belittling attitude of the speaker towards his children.
+A: word: ooh	 gloss: dbEXCL
+B: word: ɔ́ɔ́ɔ́	 gloss: EXCL
+C: word: kɛ́ɛ̀	 gloss: EXCL
+D: word: vɛ́ɛ̀lá	 gloss: ∅7.decoration
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+

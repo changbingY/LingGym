@@ -1,0 +1,234 @@
+Question 0:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ba-sɔ́ ___ ba-tí
+Gloss (with missing item): ba2-friend ___ ba2-in.law
+The English translation of this sentence is:`the friends of the in-laws'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In the first case, an H tone spreads from an attributive marker of a noun + noun attributive construction to the noun class prefix of the second noun, as in \REF{CONr2}. In contrast, the attributive marker in \REF{CONr1} has an L tone. Thus, the following underlyingly toneless noun class prefix of the second nominal constituent surfaces with L as well since it is underlyingly toneless and there is no H that could attach to it.
+A: word: bá	 gloss: 2:ATT
+B: word: mí-mbáà	 gloss: 4-two
+C: word: ba-tí	 gloss: ba2-in.law
+D: word: nzã́ã̀	 gloss: emptyset7.appetite
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 1:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ba-sɔ́ bá ___
+Gloss (with missing item): ba2-friend 2:ATT ___
+The English translation of this sentence is:`the friends of the in-laws'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In the first case, an H tone spreads from an attributive marker of a noun + noun attributive construction to the noun class prefix of the second noun, as in \REF{CONr2}. In contrast, the attributive marker in \REF{CONr1} has an L tone. Thus, the following underlyingly toneless noun class prefix of the second nominal constituent surfaces with L as well since it is underlyingly toneless and there is no H that could attach to it.
+A: word: b-ùdì	 gloss: ba2-person
+B: word: ba-tsídí	 gloss: ba2-animal
+C: word: ba-tí	 gloss: ba2-in.law
+D: word: kwé-hl	 gloss: fall-IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 2:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): sɔ́ ___ ba-tí
+Gloss (with missing item): ∅1.friend ___ ba2-in.law
+The English translation of this sentence is:`the friend of the in-laws'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In the first case, an H tone spreads from an attributive marker of a noun + noun attributive construction to the noun class prefix of the second noun, as in \REF{CONr2}. In contrast, the attributive marker in \REF{CONr1} has an L tone. Thus, the following underlyingly toneless noun class prefix of the second nominal constituent surfaces with L as well since it is underlyingly toneless and there is no H that could attach to it.
+A: word: ŋga	 gloss: PL
+B: word: wà	 gloss: 1:ATT
+C: word: (bá)	 gloss: (2:ATT)
+D: word: nkwànò	 gloss: emptyset3.honey
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 3:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): sɔ́ wà ___
+Gloss (with missing item): ∅1.friend 1:ATT ___
+The English translation of this sentence is:`the friend of the in-laws'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In the first case, an H tone spreads from an attributive marker of a noun + noun attributive construction to the noun class prefix of the second noun, as in \REF{CONr2}. In contrast, the attributive marker in \REF{CONr1} has an L tone. Thus, the following underlyingly toneless noun class prefix of the second nominal constituent surfaces with L as well since it is underlyingly toneless and there is no H that could attach to it.
+A: word: b-ùdì	 gloss: ba2-person
+B: word: ba-tsídí	 gloss: ba2-animal
+C: word: h-ma-ntúà	 gloss: OBJ.LINK-ma6-mango
+D: word: ba-tí	 gloss: ba2-in.law
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 4:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ba-sɔ́ ___ ba-tí
+Gloss (with missing item): ba2-friend ___ ba2-in.law
+The English translation of this sentence is:`the friends of the in-laws'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \REF{Toneright} gives an autosegmental representation of \REF{CONr2}. It shows how the H from the attributive marker spreads to the right onto the toneless noun class prefix which then surfaces as H as well.
+A: word: bá	 gloss: 2:ATT
+B: word: mí-mbáà	 gloss: 4-two
+C: word: kwé-h	 gloss: fall-PST
+D: word: h-ŋga	 gloss: OBJ.LINK-PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 5:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ba-sɔ́ bá ___
+Gloss (with missing item): ba2-friend 2:ATT ___
+The English translation of this sentence is:`the friends of the in-laws'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \REF{Toneright} gives an autosegmental representation of \REF{CONr2}. It shows how the H from the attributive marker spreads to the right onto the toneless noun class prefix which then surfaces as H as well.
+A: word: ba-tí	 gloss: ba2-in.law
+B: word: dè-h	 gloss: eat-R
+C: word: ba-tsídí	 gloss: ba2-animal
+D: word: b-ùdì	 gloss: ba2-person
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 6:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ba-sɔ́ ___ ba-tí
+Gloss (with missing item): ba2-friend ___ ba2-in.law
+The English translation of this sentence is:`the friends of the in-laws'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As discussed in \sectref{sec:toneless}, the noun class prefix is underlyingly toneless and only surfaces phonetically as L in isolation. If it was marked L, one would have to assume a more complicated rule of featural change or L deletion. Or, one would expect an underlying L to affect an H stem by lowering the L in downstep. This is, however, not the case, as shown in \figref{Fig:pitchHTS}. Just as in \REF{CONr2}, {\itshape mà-fwálá má bé-túmbɔ́} `borders (lit.\ ends of the countries)' surfaces with an H on the prefix {\itshape be-} which has spread from the preceding attributive marker {\itshape má}. The pitch track in \figref{Fig:pitchHTS}, represented by the lower line, shows that there is neither downstep nor downdrift, but the pitch stays at the same level throughout the utterance.%\footnote{This also shows that the Obligatory Contour Principle (OCP), ``which disallows sequences of identical tones'' as described by \citet[52]{yip2002}, is not relevant in Gyeli. Also at the level of underlying representation, the two disyllabic noun stems have subsequent H tones.}
+A: word: bá	 gloss: 2:ATT
+B: word: bàga-h	 gloss: stop-R
+C: word: mí-mbáà	 gloss: 4-two
+D: word: kwé-h	 gloss: fall-PST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 7:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ba-sɔ́ bá ___
+Gloss (with missing item): ba2-friend 2:ATT ___
+The English translation of this sentence is:`the friends of the in-laws'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As discussed in \sectref{sec:toneless}, the noun class prefix is underlyingly toneless and only surfaces phonetically as L in isolation. If it was marked L, one would have to assume a more complicated rule of featural change or L deletion. Or, one would expect an underlying L to affect an H stem by lowering the L in downstep. This is, however, not the case, as shown in \figref{Fig:pitchHTS}. Just as in \REF{CONr2}, {\itshape mà-fwálá má bé-túmbɔ́} `borders (lit.\ ends of the countries)' surfaces with an H on the prefix {\itshape be-} which has spread from the preceding attributive marker {\itshape má}. The pitch track in \figref{Fig:pitchHTS}, represented by the lower line, shows that there is neither downstep nor downdrift, but the pitch stays at the same level throughout the utterance.%\footnote{This also shows that the Obligatory Contour Principle (OCP), ``which disallows sequences of identical tones'' as described by \citet[52]{yip2002}, is not relevant in Gyeli. Also at the level of underlying representation, the two disyllabic noun stems have subsequent H tones.}
+A: word: kwé-h	 gloss: fall-PST
+B: word: ba-tí	 gloss: ba2-in.law
+C: word: b-ùdì	 gloss: ba2-person
+D: word: ba-tsídí	 gloss: ba2-animal
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 8:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ-H wúmbɛ-H dè ___
+Gloss (with missing item): 1SG-PRS want-R eat ___
+The English translation of this sentence is:`I want to eat (the) mangoes.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent In contrast, the nominal object {\itshape mantúà} `mangoes' in \REF{HTSM2} has a CV noun class prefix which takes the object-linking H tone.
+A: word: h-ma-ntúà	 gloss: OBJ.LINK-ma6-mango
+B: word: kwé-hl	 gloss: fall-IMP
+C: word: mà-ntúà	 gloss: ma6-mango
+D: word: ma-ntúà	 gloss: ma6-mango
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 9:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): gyàgâ ___
+Gloss (with missing item): buy.IMP ___
+The English translation of this sentence is:`Buy (pl.)!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: {\HTS} onto the verbal plural marker is generally restricted to specific grammatical environments since this marker only occurs in a few positions. Testing grounds for {\HTS} are limited to a preceding HL pattern with imperative verbs and the preceding H tone of the negative auxiliary {\itshape tí}. These are described with examples in \sectref{sec:nga}. To summarize the overall findings, {\itshape the morpheme ___} follows an imperative verb form that characteristically carries a final HL pattern. If {\itshape the morpheme ___} is intonation phrase-final, it surfaces with L, as in \REF{impP1}. If {\itshape the morpheme ___} is not phrase-final, the verbal marker hosts a potential object-linking H tone which it ``steals'' from a nominal object, as in \REF{impP2}. This example also shows that the H tone cannot spread further onto other toneless TBUs. The underlyingly toneless CV noun class prefix of {\itshape mantúà} `mangoes' has to surface L.
+A: word: h-ŋga	 gloss: OBJ.LINK-PL
+B: word: ŋga	 gloss: PL
+C: word: nzíí	 gloss: PROG.PRS.R
+D: word: kwé-hl	 gloss: fall-IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 10:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): gyàgâ ___ ma-ntúà
+Gloss (with missing item): buy.IMP ___ ma6-mango
+The English translation of this sentence is:`Buy (pl.) mangoes!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: {\HTS} onto the verbal plural marker is generally restricted to specific grammatical environments since this marker only occurs in a few positions. Testing grounds for {\HTS} are limited to a preceding HL pattern with imperative verbs and the preceding H tone of the negative auxiliary {\itshape tí}. These are described with examples in \sectref{sec:nga}. To summarize the overall findings, {\itshape ŋga} follows an imperative verb form that characteristically carries a final HL pattern. If {\itshape ŋga} is intonation phrase-final, it surfaces with L, as in \REF{impP1}. If {\itshape ŋga} is not phrase-final, the verbal marker hosts a potential object-linking H tone which it ``steals'' from a nominal object, as in \REF{impP2}. This example also shows that the H tone cannot spread further onto other toneless TBUs. The underlyingly toneless CV noun class prefix of {\itshape mantúà} `mangoes' has to surface L.
+A: word: h-ŋga	 gloss: OBJ.LINK-PL
+B: word: nga-h	 gloss: PL-OBJ.LINK
+C: word: ŋga	 gloss: PL
+D: word: bá	 gloss: 2.SBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 11:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tí ___ gyàga H-ma-ntúà
+Gloss (with missing item): NEG.R ___ buy OBJ.LINK-ma6-mango
+The English translation of this sentence is:`Don't (pl.) buy mangoes!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The verbal marker also follows the negative auxiliary {\itshape tí}, which is then followed by a lexical non-finite verb. In this case, {\itshape the morpheme ___} always takes the H tone from the preceding auxiliary, as illustrated in \REF{impP3}.
+A: word: nzíí	 gloss: PROG.PRS.R
+B: word: h-ŋga	 gloss: OBJ.LINK-PL
+C: word: kwé-h	 gloss: fall-PST
+D: word: ŋga	 gloss: PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 12:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ ___
+Gloss (with missing item): 1SG.PST1 ___
+The English translation of this sentence is:`I ate.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Monosyllabic L verb stems take an H in past tenses \REF{Detachde2} and in the realis mood \REF{Detachde3}.
+A: word: h-ŋga	 gloss: OBJ.LINK-PL
+B: word: bwè-h	 gloss: obtain-R
+C: word: wúù	 gloss: 3.PST2
+D: word: dè-h	 gloss: eat-PST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 13:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ-H ___ tɛ́ɛ̀
+Gloss (with missing item): 1SG-PRS ___ now
+The English translation of this sentence is:`I eat now.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Monosyllabic L verb stems take an H in past tenses \REF{Detachde2} and in the realis mood \REF{Detachde3}.
+A: word: dè	 gloss: eat
+B: word: bwè-h	 gloss: obtain-R
+C: word: ŋga	 gloss: PL
+D: word: dè-h	 gloss: eat-R
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 14:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ-H ___
+Gloss (with missing item): 1SG-PRS ___
+The English translation of this sentence is:`I fall.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The representation that follows for glossing is exemplified in \REF{Detachkwe} for all tonal melodies that attach. For citation form categories such as the present in \REF{Detachkwe1}, the underlying monosyllabic H stem is lowered to HL by an L. For the inflectional melody 1 with an H in \REF{Detachkwe2}, the verb just surfaces with its underlying H form. In \REF{Detachkwe3}, the HL inflectional melody 2 overrides the underlying H, resulting in a surface pattern that is identical to citation form categories.
+A: word: kwé-h	 gloss: fall-PST
+B: word: kwé-l	 gloss: fall-CF
+C: word: wà	 gloss: 1:ATT
+D: word: kwè	 gloss: fall
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 15:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ ___
+Gloss (with missing item): 1SG.PST1 ___
+The English translation of this sentence is:`I fell.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The representation that follows for glossing is exemplified in \REF{Detachkwe} for all tonal melodies that attach. For citation form categories such as the present in \REF{Detachkwe1}, the underlying monosyllabic H stem is lowered to HL by an L. For the inflectional melody 1 with an H in \REF{Detachkwe2}, the verb just surfaces with its underlying H form. In \REF{Detachkwe3}, the HL inflectional melody 2 overrides the underlying H, resulting in a surface pattern that is identical to citation form categories.
+A: word: kwé-h	 gloss: fall-PST
+B: word: kwé-l	 gloss: fall-CF
+C: word: wà	 gloss: 1:ATT
+D: word: kwé-hl	 gloss: fall-IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 16:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`Fall!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The representation that follows for glossing is exemplified in \REF{Detachkwe} for all tonal melodies that attach. For citation form categories such as the present in \REF{Detachkwe1}, the underlying monosyllabic H stem is lowered to HL by an L. For the inflectional melody 1 with an H in \REF{Detachkwe2}, the verb just surfaces with its underlying H form. In \REF{Detachkwe3}, the HL inflectional melody 2 overrides the underlying H, resulting in a surface pattern that is identical to citation form categories.
+A: word: wà	 gloss: 1:ATT
+B: word: kwé-h	 gloss: fall-PST
+C: word: kwé-hl	 gloss: fall-IMP
+D: word: kwè	 gloss: fall
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 17:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛ ___
+Gloss (with missing item): 1SG.PST1 ___
+The English translation of this sentence is:`I fell.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since the final lowering of citation form categories in monosyllabic H verb stems is purely phonological and does not seem to carry any grammatical function, unlike the inflectional tonal melodies, I do not represent the phonological lowering rule in my glosses in the following chapters and appendices. In order to be consistent with the other verb patterns and to transparently track the attachment of inflectional melodies, I use the glosses as in \REF{Detachkweb}. The HL citation form will appear in the underlying form line (the second line) and possibly take inflectional melodies as in \REF{Detachkwe2b}. It should be kept in mind though that, phonologically, the underlying form of HL monosyllabic verb stems is in fact H.
+A: word: kwé-l	 gloss: fall-CF
+B: word: kwê-h	 gloss: fall-PST
+C: word: dè-h	 gloss: eat-R
+D: word: kwê	 gloss: fall
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
