@@ -1,0 +1,52 @@
+Question 0:
+You are a linguist specializing in Ik. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Gaana mɛna=díí ___ ʝ{\Í}k\ᶤ.
+Gloss (with missing item): bad:3SG issues:NOM=those ___ completely
+The English translation of this sentence is:‘Those issues are really very bad!’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \textsc{manner} adverbs modify whole clauses by commenting on, for example, the manner in which a state comes across or in which an action is done. Manner adverbs usually come near or at the end of the clause they modify, as shown in example sentences \REF{ex:adv:1}-\REF{ex:adv:2} below. \tabref{tab:adv:manner} presents a sampling of these adverbs:
+A: word: ńda	 gloss: and
+B: word: zuku	 gloss: very
+C: word: nánoo	 gloss: INFR
+D: word: páka	 gloss: up.to
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 1:
+You are a linguist specializing in Ik. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ɦyekesa Icé.
+Gloss (with missing item): ___ life:NOM Ik:GEN
+The English translation of this sentence is:‘The life of the Ik was good (back then).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ik divides \textsc{past tense} into four time periods and marks them with adverbial enclitics. They are: 1) \textsc{recent past} that covers the current day and is marked with =nákà, 2) \textsc{removed past} that covers yesterday (or any last or ‘yester-’ time period like 'yesterday' or 'yesteryear') and is marked with =bàtsè, 3) \textsc{remote past} that covers a few days or weeks before yesterday and is marked with =nótsò, and finally, 4) \textsc{remotest past} that covers everything before the remote past and is marked with =nòkò. Each of these \isi{tense} enclitics comes directly after ther verb and has a non-final and final form. \tabref{tab:adv:past} illustrates the Ik \isi{tense} markers in all their forms, and examples \REF{ex:adv:3}-\REF{ex:adv:4} illustrate their typical post-verbal position in a sentence:
+A: word: atsa=noo	 gloss: come:3SG=PST
+B: word: maráŋá	 gloss: good:3SG
+C: word: táá	 gloss: next
+D: word: maráŋa=noo	 gloss: good:3SG=PST4
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Ik. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Atsésíma ___ baratsᵒ.
+Gloss (with missing item): come:1PL.EXC ___ morning:INS
+The English translation of this sentence is:‘We will come tomorrow (i.e., next morning).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ik divides the \textsc{non-past} \isi{tense} into three rather vaguely defined time periods suggested by three adverbs. They are: 1) the \textsc{distended} \textsc{present} that includes just before and just after the present and is expressed by the \isi{adverb} \textit{tsʼ\`{ɔ}\`{ɔ}}, 2) the \textsc{removed future} that includes the its gloss ___ future time period (its gloss ___ hour, its gloss ___ day, its gloss ___ year) and is expressed by the \isi{adverb} the morpheme ___, and 3) the \textsc{remote future} expressed by the \isi{adverb} fàrà (occasionally fàrò). \tabref{tab:adv:npst} arranges these adverbs in a paradigm, while \REF{ex:adv:7}-\REF{ex:adv:8} below illustrates them in natural sentences:
+A: word: ɨtáána	 gloss: reach:IPS
+B: word: maráŋa=noo	 gloss: good:3SG=PST4
+C: word: táá	 gloss: next
+D: word: koto	 gloss: then
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 3:
+You are a linguist specializing in Ik. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ teremátᵃ.
+Gloss (with missing item): ___ separate:3PL
+The English translation of this sentence is:‘It looks like they separated.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ik can communicate a degree of un\isi{certainty} about a situation by means of a set of \textsc{inferential} tense-based adverbs. This sense of making a tentative inference based on an observation can be translated into English with such turns of phrase as ‘Apparently {\dots}’, ‘Maybe {\dots}’, ‘It seems that {\dots}’, ‘must have’, etc. Two of these inferential particles consist of the \isi{proclitic} ná plus a past-\isi{tense} \isi{particle}, while the third combines ná with the \isi{adverb} tsamʉ. \tabref{tab:adv:inf} presents the three inferential adverbial particles in their final and non-final forms. Note that compared to the past-\isi{tense} markers above in \tabref{tab:adv:past}, the inferential time-scale is moved up one notch more recent. Examples \REF{ex:adv:9}-\REF{ex:adv:10} show the Ik inferential adverbs in context. Note that they can be placed before or after the main verb.
+A: word: nánoo	 gloss: INFR
+B: word: maráŋa=noo	 gloss: good:3SG=PST4
+C: word: mɨta	 gloss: be:3SG
+D: word: ntsúó=noo	 gloss: it:COP=PAST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+

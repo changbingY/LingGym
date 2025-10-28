@@ -1,0 +1,13 @@
+Question 0:
+You are a linguist specializing in Ik. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ƙàƙààƙ\`{ɔ}k\ᵋ.
+Gloss (with missing item): ___ hunt:inside:DAT
+The English translation of this sentence is:‘People go hunting.’ (Lit. ‘It is gone for hunting.’)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \textsc{impersonal passive} suffix \{-àn-\} behaves like a typical \isi{passive} in that it eliminates the agent of a transitive verb and promotes the object to subject. However, unlike the \isi{passive} \{-ósí-\} described above, the impersonal \isi{passive} cannot be specified for the person or number of its subject. Instead, it remains marked for 3\textsc{sg} regardless of who or what the subject may be. Another strange property of \{-\`{a}n-\} is that it can be used with \isi{intransitive} verbs as well (just like the \isi{passive}). When used with \isi{intransitive} verbs, it has the function of downplaying the identity of the subject. For this reason, it can often be translated as ‘People {\dots}’ or ‘One {\dots}’, as in Tódian ‘People say (it)’. The impersonal \isi{passive} is a grammatical morpheme not listed in the lexicon, and so it must be illustrated in examples like \REF{ex:verbs:3}-\REF{ex:verbs:4}:
+A: word: ƙaíánà	 gloss: go:PLUR:IPS
+B: word: hyeíá	 gloss: know:1SG
+C: word: ɨtáána	 gloss: reach:IPS
+D: word: atsésíma	 gloss: come:1PL.EXC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+

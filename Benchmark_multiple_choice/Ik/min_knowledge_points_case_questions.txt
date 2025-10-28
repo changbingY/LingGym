@@ -1,0 +1,39 @@
+Question 0:
+You are a linguist specializing in Ik. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): H\'{ɔ}nɨnɨ ɦyɔa ___ ɓórékᵉ.
+Gloss (with missing item): drive:SEQ cattle:ACC ___ corral:DAT
+The English translation of this sentence is:‘And they drove their cattle to the corral.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \textsc{genitive} case, marked by the suffix \{-e\}, is the ‘of’ case, whose role is to encode a possessive or associative relationship a noun has with another noun (or, in rare cases, with a verb). Within the broad notions of \isi{possession} and association are finer nuances such as: ownership, part-whole relationship, kinship, and attribution. These nuances are illustrated in examples \REF{ex:case:22}-\REF{ex:case:25}:\\
+A: word: ńtí-e	 gloss: they-GEN
+B: word: fetíékù	 gloss: East:ABL
+C: word: fítés-o	 gloss: washing-INS
+D: word: ńda	 gloss: and
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 1:
+You are a linguist specializing in Ik. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Cɛma ___ ƙwázìkàᵉ.
+Gloss (with missing item): fight:3SG ___ clothes:GEN
+The English translation of this sentence is:‘She’s washing clothes.’ (lit: ‘She is fighting with the washing of clothes.’)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \textsc{instrumental} case, marked by the suffix \{-o\}, is the ‘by’ or ‘with’ case. Unlike the ablative suffix \{-o\}, the instrumental suffix is subtractive, meaning that it first deletes the noun’s final vowel. The function of the \isi{instrumental case} is to mark secondary objects with such semantic roles as instrument/means, pathway, accompaniment, manner, time, and occupation. Each of these nuances are illustrated by one sentence each in example sentences \REF{ex:case:31}-\REF{ex:case:36}:\\
+A: word: cue=dííǃ	 gloss: water:OBL=those
+B: word: wetésátà	 gloss: drink:FUT:3PL
+C: word: fítés-o	 gloss: washing-INS
+D: word: ńtí-e	 gloss: they-GEN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 2:
+You are a linguist specializing in Ik. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ wetím.
+Gloss (with missing item): ___ drink:1PL.EXC
+The English translation of this sentence is:‘It was we (who) drank (it).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \textsc{copulative} case, marked by the suffix \{-ko\}, is the ‘is’ or ‘coupling’ case, whose function is to link one noun to another in a relationship of exact identity. In this function, the copulative marks three kinds of nouns: 1) a focused (fronted) noun, 2) the \isi{complement} of a verbless \textsc{copula} (linking verb) clause, and 3) the \isi{complement} of a \isi{negative copula} of identity clause. These different uses of the copulative are illustrated in examples sentences \REF{ex:case:37}-\REF{ex:case:41}:\\
+A: word: ŋgó-ó=naa	 gloss: we-COP=PST
+B: word: ńtí-e	 gloss: they-GEN
+C: word: atsa=noo	 gloss: come:3SG=PST
+D: word: ntsúó=noo	 gloss: it:COP=PAST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+

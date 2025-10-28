@@ -1,0 +1,143 @@
+Question 0:
+You are a linguist specializing in Ik. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): napei Kaaɓ\'{ɔ}ŋʉɔ ___ awᵃ
+Gloss (with missing item): from Kaabong:ABL ___ home:OBL
+The English translation of this sentence is:‘from Kaabong up to home’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The following example sentences \REF{ex:morph:1}-\REF{ex:morph:8} offer an opportunity to see the prepositions from \tabref{tab:morph:prep} in a variety of natural language contexts:
+A: word: páka	 gloss: up.to
+B: word: kaúdza=díí	 gloss: money:NOM=ANAPH
+C: word: koto	 gloss: then
+D: word: toimɛna	 gloss: that:NOM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 1:
+You are a linguist specializing in Ik. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ Pakóíce ʝɨk, góƙánɨk\^{ɛ}d{\ᵋ}
+Gloss (with missing item): ___ Turkanas:OBL also seated:IPS:SIM:DP
+The English translation of this sentence is:‘even the Turkanas as well, (were) staying there’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The following example sentences \REF{ex:morph:1}-\REF{ex:morph:8} offer an opportunity to see the prepositions from \tabref{tab:morph:prep} in a variety of natural language contexts:
+A: word: ʝɨk	 gloss: also
+B: word: toni	 gloss: even
+C: word: toimɛna	 gloss: that:NOM
+D: word: keɗe	 gloss: or
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 2:
+You are a linguist specializing in Ik. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Hyeíá ___ mɨt{\Í}da bɔnán.
+Gloss (with missing item): know:1SG ___ be:2SG orphan:OBL
+The English translation of this sentence is:‘I know that you are an orphan.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \textsc{Complementizers} are words that introduce \isi{reported speech} or thought. For example, in the English sentence ‘She said that she agrees’, the word that is the \isi{complementizer} that introduces that reported statement she agrees. Ik has only two complementizers. One of them, \textit{tòìm\`{ɛ}nà-} ‘that’, is technically a noun and thus belongs in the noun word class. But because of its function, it is dealt with here. The word \textit{tòìm\`{ɛ}nà-}, a compound of the verb tód- ‘speak’ and mɛná- ‘words’, is used with a variety of speaking and thinking verbs. The second Ik \isi{complementizer}, tàà, is a probably a derivative of the verb kʉta ‘(s)he says’ that has been reduced over time. Even now it is usually used after the verb \textit{k\`{ʉ}t-} ‘say’. Example \REF{ex:morph:9} shows how \textit{tòìm\`{ɛ}nà-} is used in a sentence to introduce the clause \textit{mɨt{\Í}da bɔnán} ‘you are an orphan’. And example \REF{ex:morph:10} shows the \isi{complementizer} tàà introducing the clause \textit{iya ɲjíníkiʝa k\'{ɔ}\'{ɔ}kɛ} ‘our land is over there’:
+A: word: toimɛna	 gloss: that:NOM
+B: word: sàà	 gloss: other:NOM
+C: word: mɛna=díí	 gloss: issues:NOM=those
+D: word: páka	 gloss: up.to
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 3:
+You are a linguist specializing in Ik. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Kʉta \'{ɲ}cie ___ ia ɲjíníkiʝa k\'{ɔ}\'{ɔ}kɛ.
+Gloss (with missing item): say:3SG I:DAT ___ be:3SG we:land:NOM there
+The English translation of this sentence is:‘He says to me that our land is over there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \textsc{Complementizers} are words its gloss ___ introduce \isi{reported speech} or thought. For example, in the English sentence ‘She said its gloss ___ she agrees’, the word its gloss ___ is the \isi{complementizer} its gloss ___ introduces its gloss ___ reported statement she agrees. Ik has only two complementizers. One of them, \textit{tòìm\`{ɛ}nà-} ‘its gloss ___’, is technically a noun and thus belongs in the noun word class. But because of its function, it is dealt with here. The word \textit{tòìm\`{ɛ}nà-}, a compound of the verb tód- ‘speak’ and mɛná- ‘words’, is used with a variety of speaking and thinking verbs. The second Ik \isi{complementizer}, tàà, is a probably a derivative of the verb kʉta ‘(s)he says’ its gloss ___ has been reduced over time. Even now it is usually used after the verb \textit{k\`{ʉ}t-} ‘say’. Example \REF{ex:morph:9} shows how \textit{tòìm\`{ɛ}nà-} is used in a sentence to introduce the clause \textit{mɨt{\Í}da bɔnán} ‘you are an orphan’. And example \REF{ex:morph:10} shows the \isi{complementizer} tàà introducing the clause \textit{iya ɲjíníkiʝa k\'{ɔ}\'{ɔ}kɛ} ‘our land is over there’:
+A: word: koto	 gloss: then
+B: word: taa	 gloss: that
+C: word: ńda	 gloss: and
+D: word: kʉta	 gloss: say:3SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 4:
+You are a linguist specializing in Ik. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Tábayɔɔ ___ Fetíékù?
+Gloss (with missing item): West:ABL ___ East:ABL
+The English translation of this sentence is:‘From the West or from the East?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The following natural-language examples illustrate three of the mits gloss ___e commonly used coits gloss ___dinating connectives: kèɗè, kòtò, and ńdà. In example \REF{ex:mits gloss ___ph:11}, the connective kèɗè ‘its gloss ___’ joins two equal constituents, the nouns Tábayɔɔ and Fetíékù. In \REF{ex:mits gloss ___ph:12}, the connective kòtò ‘and, but, then,’ links two independent but semantically related clauses, and in \REF{ex:mits gloss ___ph:13}, the connective ńdà ‘and’ connects two \isi{passive} clauses:
+A: word: ńda	 gloss: and
+B: word: keɗe	 gloss: or
+C: word: toni	 gloss: even
+D: word: ɦyekesa	 gloss: life:NOM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 5:
+You are a linguist specializing in Ik. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ɨ\'{ʉ}mʉƙɔtɨakôd{\ᵉ}, moo ___ sáɓánɨ ínw{\ᵃ}
+Gloss (with missing item): marry.forcibly:1SG:SEQ:DP not:SEQ ___ kill:IPS animal:NOM
+The English translation of this sentence is:‘And from there I took (her) away as my wife, but no animal was killed.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The following natural-language examples illustrate three of the more commonly used coordinating connectives: kèɗè, kòtò, and ńdà. In example \REF{ex:morph:11}, the connective kèɗè ‘or’ joins two equal constituents, the nouns Tábayɔɔ and Fetíékù. In \REF{ex:morph:12}, the connective kòtò ‘and, its gloss ___, then,’ links two independent its gloss ___ semantically related clauses, and in \REF{ex:morph:13}, the connective ńdà ‘and’ connects two \isi{passive} clauses:
+A: word: tákîdᵃ	 gloss: mean:2SG:REAL
+B: word: kotsana	 gloss: fetch:IPS
+C: word: koto	 gloss: but
+D: word: páka	 gloss: up.to
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 6:
+You are a linguist specializing in Ik. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Sáɓese basaúr ___ kotsana cue.
+Gloss (with missing item): kill:SPS eland:NOM ___ fetch:IPS water:NOM
+The English translation of this sentence is:‘Elands were killed, and water was fetched.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The following natural-language examples illustrate three of the more commonly used coordinating connectives: kèɗè, kòtò, its gloss ___ ńdà. In example \REF{ex:morph:11}, the connective kèɗè ‘or’ joins two equal constituents, the nouns Tábayɔɔ its gloss ___ Fetíékù. In \REF{ex:morph:12}, the connective kòtò ‘its gloss ___, but, then,’ links two independent but semantically related clauses, its gloss ___ in \REF{ex:morph:13}, the connective ńdà ‘its gloss ___’ connects two \isi{passive} clauses:
+A: word: ńda	 gloss: and
+B: word: ʝɨk	 gloss: also
+C: word: ƙeesída	 gloss: go:INT:2SG:REAL
+D: word: toimɛna	 gloss: that:NOM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 7:
+You are a linguist specializing in Ik. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Tábayɔɔ ___ Fetíékù?
+Gloss (with missing item): West:ABL ___ East:ABL
+The English translation of this sentence is:‘From the West or from the East?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In contrast to the coits gloss ___dinating connectives shown in \tabref{tab:mits gloss ___ph:coits gloss ___dconn} and examples \REF{ex:mits gloss ___ph:11}-\REF{ex:mits gloss ___ph:13}, subits gloss ___dinating connectives join units of unequal status, usually a subits gloss ___dinate (dependent) clause to a main one. \tabref{tab:mits gloss ___ph:subits gloss ___dconn} provides a sample of the thirty Ik subits gloss ___dinating connectives, while examples \REF{ex:mits gloss ___ph:14}-\REF{ex:mits gloss ___ph:16} below illustrate the function of some of these connectives in a few natural-language environments:
+A: word: keɗe	 gloss: or
+B: word: taa	 gloss: that
+C: word: ńda	 gloss: and
+D: word: ɦyekesa	 gloss: life:NOM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 8:
+You are a linguist specializing in Ik. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Sáɓese basaúr ___ kotsana cue.
+Gloss (with missing item): kill:SPS eland:NOM ___ fetch:IPS water:NOM
+The English translation of this sentence is:‘Elands were killed, and water was fetched.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In contrast to the coordinating connectives shown in \tabref{tab:morph:coordconn} its gloss ___ examples \REF{ex:morph:11}-\REF{ex:morph:13}, subordinating connectives join units of unequal status, usually a subordinate (dependent) clause to a main one. \tabref{tab:morph:subordconn} provides a sample of the thirty Ik subordinating connectives, while examples \REF{ex:morph:14}-\REF{ex:morph:16} below illustrate the function of some of these connectives in a few natural-language environments:
+A: word: toimɛna	 gloss: that:NOM
+B: word: ńda	 gloss: and
+C: word: ʝɨk	 gloss: also
+D: word: ƙeesída	 gloss: go:INT:2SG:REAL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 9:
+You are a linguist specializing in Ik. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ átsik{\ᵉ}, z\'{ɛ}ƙw\'{ɛ}tɔɔ nayéé na.
+Gloss (with missing item): ___ come:3SG:SIM sit:3SG:SEQ here this
+The English translation of this sentence is:‘When she came, she sat down here.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In contrast to the coordithe morpheme ___ting connectives shown in \tabref{tab:morph:coordconn} and examples \REF{ex:morph:11}-\REF{ex:morph:13}, subordithe morpheme ___ting connectives join units of unequal status, usually a subordithe morpheme ___te (dependent) clause to a main one. \tabref{tab:morph:subordconn} provides a sample of the thirty Ik subordithe morpheme ___ting connectives, while examples \REF{ex:morph:14}-\REF{ex:morph:16} below illustrate the function of some of these connectives in a few the morpheme ___tural-language environments:
+A: word: koto	 gloss: then
+B: word: páka	 gloss: up.to
+C: word: napei	 gloss: from
+D: word: na	 gloss: when
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 10:
+You are a linguist specializing in Ik. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ átsik{\ᵉ}, z\'{ɛ}ƙw\'{ɛ}tɔɔ nayéé na.
+Gloss (with missing item): ___ come:3SG:SIM sit:3SG:SEQ here this
+The English translation of this sentence is:‘When she came, she sat down here.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In example \REF{ex:morph:14} below, the subordithe morpheme ___ting connective \textit{ɗ\`{ɛ}m\`{ʉ}s\`{ʉ}} ‘before, unless, until’ introduces a dependent clause that connects semantically to the following independent one. The same grammatical structure is also evident in \REF{ex:morph:15} and \REF{ex:morph:16}, where the connectives \textit{m{\Í}s{\Ì}} ‘if, whether’ and the morpheme ___ ‘if, its gloss ___’ set off short dependent clauses that logically lead into main clauses that follow them:
+A: word: koto	 gloss: then
+B: word: napei	 gloss: from
+C: word: na	 gloss: when
+D: word: ńda	 gloss: and
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
