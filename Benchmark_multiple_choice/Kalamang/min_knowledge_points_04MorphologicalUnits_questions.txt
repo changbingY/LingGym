@@ -1,0 +1,195 @@
+Question 0:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): in ___ paruon
+Gloss (with missing item): 1PL.EXCL ___ make
+The English translation of this sentence is:`We're making pig's language [= ugly language].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Clitics follow affixes, as exemplified for the third-person possessive suffix -un and the object clitic =at in~(\ref{exe:pepmang}).
+A: word: timbang-un=ko	 gloss: forehead-3SG=LOC
+B: word: pep-mang-un=at	 gloss: pig-language-3POSS=OBJ
+C: word: tiri∼tiri	 gloss: sail∼PROG
+D: word: mangun	 gloss: language-3POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 1:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mat dan=i koyet ___ ecien=i sara
+Gloss (with missing item): 3SG.OBJ bury=PLNK finish ___ return=PLNK ascend
+The English translation of this sentence is:`After burying him [we] went back up.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: We also find the morpheme ___ in clauthe morpheme ___s where the subject is elided, as in example \ref{exe:matdani}, which consists of the clauthe morpheme ___s [after burying him] and [went back up]. The the morpheme ___cond clauthe morpheme ___ starts with the morpheme ___, and the subject `we' is elided.
+A: word: sem=ten=at	 gloss: afraid-ADJ=OBJ
+B: word: se	 gloss: IAM
+C: word: or=ko=te	 gloss: back=LOC=IMP
+D: word: halangan-rep=sawe	 gloss: trouble-get=too
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 2:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): an se koi ___ yal yal tebol-suban war=i war=i eh sor nat=nin
+Gloss (with missing item): 1SG IAM again ___ paddle paddle reef_edge-fish fish=PLNK fish=PLNK INT.E fish consume=NEG
+The English translation of this sentence is:`I paddled and paddled again, fished at the reef edge, fished and fished, the fish didn't bite.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Kalamang also makes use of repetition\is{repetition}. Repetition is distinguished from reduplication by two diagnostics: repetition applies to the domain of the word (such that each repeated word carries its own stress) and repetition may have two or more copies (whereas reduplication involves two copies only). Repetition is different from tail-head linking (§\ref{sec:tailhead}) in that it occurs within the clause. As an example, consider the repetition of the morpheme ___ `to its gloss ___' (repeated three times, each repetition carrying a main stress) and war `to fish' in~(\ref{exe:wariw}) (repeated twice and with predicate linker =i). Reduplication is predominantly attested with verbs to indicate iteration or duration. %cite gil 2005?
+A: word: irul	 gloss: Irul
+B: word: yal=i	 gloss: paddle=PLNK
+C: word: ewa∼wa∼ewawa=in	 gloss: talk∼PROG∼PROG=PROH
+D: word: yal	 gloss: paddle
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 3:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): an se koi yal ___ yal tebol-suban war=i war=i eh sor nat=nin
+Gloss (with missing item): 1SG IAM again paddle ___ paddle reef_edge-fish fish=PLNK fish=PLNK INT.E fish consume=NEG
+The English translation of this sentence is:`I paddled and paddled again, fished at the reef edge, fished and fished, the fish didn't bite.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Kalamang also makes use of repetition\is{repetition}. Repetition is distinguished from reduplication by two diagnostics: repetition applies to the domain of the word (such that each repeated word carries its own stress) and repetition may have two or more copies (whereas reduplication involves two copies only). Repetition is different from tail-head linking (§\ref{sec:tailhead}) in that it occurs within the clause. As an example, consider the repetition of the morpheme ___ `to its gloss ___' (repeated three times, each repetition carrying a main stress) and war `to fish' in~(\ref{exe:wariw}) (repeated twice and with predicate linker =i). Reduplication is predominantly attested with verbs to indicate iteration or duration. %cite gil 2005?
+A: word: bol-un=ko	 gloss: mouth-3POSS=LOC
+B: word: yal	 gloss: paddle
+C: word: yal=i	 gloss: paddle=PLNK
+D: word: ewa∼wa∼ewawa	 gloss: talk∼PROG∼PROG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 4:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): an se koi yal yal ___ tebol-suban war=i war=i eh sor nat=nin
+Gloss (with missing item): 1SG IAM again paddle paddle ___ reef_edge-fish fish=PLNK fish=PLNK INT.E fish consume=NEG
+The English translation of this sentence is:`I paddled and paddled again, fished at the reef edge, fished and fished, the fish didn't bite.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Kalamang also makes use of repetition\is{repetition}. Repetition is distinguished from reduplication by two diagnostics: repetition applies to the domain of the word (such that each repeated word carries its own stress) and repetition may have two or more copies (whereas reduplication involves two copies only). Repetition is different from tail-head linking (§\ref{sec:tailhead}) in that it occurs within the clause. As an example, consider the repetition of the morpheme ___ `to its gloss ___' (repeated three times, each repetition carrying a main stress) and war `to fish' in~(\ref{exe:wariw}) (repeated twice and with predicate linker =i). Reduplication is predominantly attested with verbs to indicate iteration or duration. %cite gil 2005?
+A: word: yal=i	 gloss: paddle=PLNK
+B: word: yal	 gloss: paddle
+C: word: baranggap=i	 gloss: yellow=PLNK
+D: word: or=ko=te	 gloss: back=LOC=IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 5:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): an se koi yal yal yal tebol-suban ___ war=i eh sor nat=nin
+Gloss (with missing item): 1SG IAM again paddle paddle paddle reef_edge-fish ___ fish=PLNK INT.E fish consume=NEG
+The English translation of this sentence is:`I paddled and paddled again, fished at the reef edge, fished and fished, the fish didn't bite.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Kalamang also makes use of repetition\is{repetition}. Repetition is distinguished from reduplication by two diagnostics: repetition applies to the domain of the word (such that each repeated word carries its own stress) and repetition may have two or more copies (whereas reduplication involves two copies only). Repetition is different from tail-head linking (§\ref{sec:tailhead}) in that it occurs within the clause. As an example, consider the repetition of yal `to paddle' (repeated three times, each repetition carrying a main stress) and war `to fish' in~(\ref{exe:wariw}) (repeated twice and with predicate linker =i). Reduplication is predominantly attested with verbs to indicate iteration or duration. %cite gil 2005?
+A: word: kome=i	 gloss: look=PLNK
+B: word: war=i	 gloss: fish=PLNK
+C: word: war=kin	 gloss: fish={\glkin}
+D: word: tiri∼tiri	 gloss: sail∼PROG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 6:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): an se koi yal yal yal tebol-suban war=i ___ eh sor nat=nin
+Gloss (with missing item): 1SG IAM again paddle paddle paddle reef_edge-fish fish=PLNK ___ INT.E fish consume=NEG
+The English translation of this sentence is:`I paddled and paddled again, fished at the reef edge, fished and fished, the fish didn't bite.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Kalamang also makes use of repetition\is{repetition}. Repetition is distinguished from reduplication by two diagnostics: repetition applies to the domain of the word (such that each repeated word carries its own stress) and repetition may have two or more copies (whereas reduplication involves two copies only). Repetition is different from tail-head linking (§\ref{sec:tailhead}) in that it occurs within the clause. As an example, consider the repetition of yal `to paddle' (repeated three times, each repetition carrying a main stress) and war `to fish' in~(\ref{exe:wariw}) (repeated twice and with predicate linker =i). Reduplication is predominantly attested with verbs to indicate iteration or duration. %cite gil 2005?
+A: word: kome=i	 gloss: look=PLNK
+B: word: war=i	 gloss: fish=PLNK
+C: word: war=kin	 gloss: fish={\glkin}
+D: word: or=ko=te	 gloss: back=LOC=IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 7:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): warkin naman=et pi wandi siktak∼tak=i ___ tiri∼tiri
+Gloss (with missing item): tide deep=IRR 1PL.EXCL like_this slow∼INTS=PLNK ___ sail∼PROG
+The English translation of this sentence is:`When the tide is deep we sail slowly like this.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Repetition and reduplication may be combined. In~(\ref{exe:tiririri}), the reduplicated tiri `to sail' is repeated. There are thus two words in~(\ref{exe:tiririri}): [tiˈritiˌri] [tiˈritiˌri].
+A: word: or=ko=te	 gloss: back=LOC=IMP
+B: word: neba∼neba	 gloss: PH∼RED
+C: word: tiri	 gloss: sail
+D: word: tiri∼tiri	 gloss: sail∼PROG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 8:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): warkin naman=et pi wandi siktak∼tak=i tiri∼tiri ___
+Gloss (with missing item): tide deep=IRR 1PL.EXCL like_this slow∼INTS=PLNK sail∼PROG ___
+The English translation of this sentence is:`When the tide is deep we sail slowly like this.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Repetition and reduplication may be combined. In~(\ref{exe:tiririri}), the reduplicated tiri `to sail' is repeated. There are thus two words in~(\ref{exe:tiririri}): [tiˈritiˌri] [tiˈritiˌri].
+A: word: tiri∼tiri	 gloss: sail∼PROG
+B: word: tiri	 gloss: sail
+C: word: war=i	 gloss: fish=PLNK
+D: word: neba∼neba	 gloss: PH∼RED
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 9:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): warkin naman=et pi wandi siktak∼tak=i ___ tiri∼tiri
+Gloss (with missing item): tide deep=IRR 1PL.EXCL like_this slow∼INTS=PLNK ___ sail∼PROG
+The English translation of this sentence is:`When the tide is deep we sail slowly like this.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Repetition and reduplication may be combined. In~(\ref{exe:tiririri}), the reduplicated tiri `to sail' is repeated. There are thus two words in~(\ref{exe:tiririri}): [tiˈritiˌri] [tiˈritiˌri].
+A: word: kewe=at=a	 gloss: house=OBJ=FOC
+B: word: tiri∼tiri	 gloss: sail∼PROG
+C: word: tiri	 gloss: sail
+D: word: neba∼neba	 gloss: PH∼RED
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 10:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): warkin naman=et pi wandi siktak∼tak=i tiri∼tiri ___
+Gloss (with missing item): tide deep=IRR 1PL.EXCL like_this slow∼INTS=PLNK sail∼PROG ___
+The English translation of this sentence is:`When the tide is deep we sail slowly like this.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Repetition and reduplication may be combined. In~(\ref{exe:tiririri}), the reduplicated tiri `to sail' is repeated. There are thus two words in~(\ref{exe:tiririri}): [tiˈritiˌri] [tiˈritiˌri].
+A: word: pep-mang-un=at	 gloss: pig-language-3POSS=OBJ
+B: word: tiri	 gloss: sail
+C: word: neba∼neba	 gloss: PH∼RED
+D: word: tiri∼tiri	 gloss: sail∼PROG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 11:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma-mun ma neba ___ [...] ewa∼wa∼ewawa
+Gloss (with missing item): 3SG-PROH 3SG PH ___ {} talk∼PROG∼PROG
+The English translation of this sentence is:`She shouldn't talk, talk [disturbing].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In a few rare cases, a reduplicated word is reduplicated. In~(\ref{exe:ewawawa}), the reduplicated reduplication is pronounced [ewaˈwaewaˌwa] (note the stress difference with a singly reduplicated ewa `to speak': /eˈwawa/).
+A: word: naras∼naras=in	 gloss: fight∼RED=PROH
+B: word: ewa∼wa∼ewawa	 gloss: talk∼PROG∼PROG
+C: word: or=ko=te	 gloss: back=LOC=IMP
+D: word: ewa∼wa∼ewawa=in	 gloss: talk∼PROG∼PROG=PROH
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 12:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma-mun ma neba ewa∼wa∼ewawa=in [...] ___
+Gloss (with missing item): 3SG-PROH 3SG PH talk∼PROG∼PROG=PROH {} ___
+The English translation of this sentence is:`She shouldn't talk, talk [disturbing].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In a few rare cases, a reduplicated word is reduplicated. In~(\ref{exe:ewawawa}), the reduplicated reduplication is pronounced [ewaˈwaewaˌwa] (note the stress difference with a singly reduplicated ewa `to speak': /eˈwawa/).
+A: word: tiri∼tiri	 gloss: sail∼PROG
+B: word: ewa∼wa∼ewawa=in	 gloss: talk∼PROG∼PROG=PROH
+C: word: ewa∼wa∼ewawa	 gloss: talk∼PROG∼PROG
+D: word: neba∼neba	 gloss: PH∼RED
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 13:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): an ___ kon-i paruo
+Gloss (with missing item): 1SG ___ one-OBJQNT make
+The English translation of this sentence is:`I made a house.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Enclitics are frequently combined. Postpositions are the innermost enclitics, forming the base together with their host NP. They can be followed by focus marker =a (§\ref{sec:a}) when in argument function, as in~(\ref{exe:konia}). Several nouns with postpositions can be used in predicate function too (§\ref{sec:case}). When inflected with aspect and mood morphology or for negation, this follows the postpositions, as illustrated in~(\ref{exe:orkoree}).
+A: word: kewe=at	 gloss: house=OBJ
+B: word: wagom=ko	 gloss: Wagom=LOC
+C: word: ewa∼wa∼ewawa	 gloss: talk∼PROG∼PROG
+D: word: kewe=at=a	 gloss: house=OBJ=FOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 14:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ka me ___
+Gloss (with missing item): 2SG TOP ___
+The English translation of this sentence is:`You're in the back!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Enclitics are frequently combined. Postpositions are the innermost enclitics, forming the base together with their host NP. They can be followed by focus marker =a (§\ref{sec:a}) when in argument function, as in~(\ref{exe:konia}). Several nouns with postpositions can be used in predicate function too (§\ref{sec:case}). When inflected with aspect and mood morphology or for negation, this follows the postpositions, as illustrated in~(\ref{exe:orkoree}).
+A: word: leng=ko=ten	 gloss: village=LOC=AT
+B: word: tiri∼tiri	 gloss: sail∼PROG
+C: word: metko=te	 gloss: DIST.LOC=IMP
+D: word: or=ko=te	 gloss: back=LOC=IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+

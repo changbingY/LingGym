@@ -1,0 +1,312 @@
+Question 0:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): pi bo rep=et me sampi ___
+Gloss (with missing item): 1PL.INCL go get=IRR TOP until ___
+The English translation of this sentence is:`We harvest up to ten thousand.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A collective numeral\is{numeral!collective} indicates that several entities are seen as a unit and not as individuals. There is one collective numeral in Kalamang: the morpheme ___ `ten thousand'. Not used in counting, the morpheme ___ is a collective numeral used, for example, for trading goods such as nutmeg. An example is given in~(\ref{exe:the morpheme ___}).
+A: word: salak-kon=et	 gloss: ten_thousand-one=\glet
+B: word: ripi	 gloss: thousand
+C: word: salak	 gloss: ten_thousand
+D: word: tebon∼tebon=tun	 gloss: all∼INTS=INTS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 1:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): musim kon-i me ___
+Gloss (with missing item): season one-OBJQNT TOP ___
+The English translation of this sentence is:`One season, ten thousand.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Salak may be combined with a cardinal as in~(\ref{exe:salaon}).
+A: word: konawaruo∼waruo	 gloss: forget∼RED
+B: word: kis-kon-i	 gloss: CLF_LONG-one-OBJQNT
+C: word: salak	 gloss: ten_thousand
+D: word: salak-kon=et	 gloss: ten_thousand-one=\glet
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma se tabai=at ___ jien
+Gloss (with missing item): 3SG IAM cigarette=OBJ ___ get
+The English translation of this sentence is:`He got one cigarette.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A classifier gives information about the classification of a noun. Kalamang classifiers, which are numeral prefixes, occupy the quantifier slot together with a numeral when modifying certain classes of nouns. When those nouns are modified by a numeral, the use of a classifier is obligatory. They can also be prefixed to the question word puraman `how many'. There are 16 classifiers, listed in Table~\ref{tab:class}. Those that are also bound roots that express part-whole relations (§\ref{sec:inal}) are marked accordingly. There are two unique classifiers (i.e. classifiers that apply to only one noun: \citealt{grinevald2007}): mir-\footnote{The West Bomberai language Mbaham has a word muur `branch' \parencite{flassy1987} and a transport classifier mu- \parencite{cottet2015}, and Iha has a classifier mur for boats, `motor' and branches (Katherine Walker, p.c.).} for the noun et `canoe' and pel- for the noun im `banana'.\footnote{While I elicited negative grammaticality judgments for mir- with, for example, other modes of transport or other things made of wood, I have not had the chance to test pel- in combination with nouns other than `banana'. In other words, the status of pel- as a unique classifier is based on its lack of appearance in combination with nouns other than `banana' in the current corpus.} An example with the classifier kis- for long thin things on the numeral kon `one', modifying the object tabai `cigarette', is given in~(\ref{exe:kiskon}). An example with the fruit classifier nak- and puraman `how many' is given in~(\ref{exe:watnak}).\is{noun!classification}\is{gender*}
+A: word: kon∼kon	 gloss: one∼DISTR
+B: word: selet-kon-i	 gloss: piece-one-OBJQNT
+C: word: kis-kon-i	 gloss: CLF_LONG-one-OBJQNT
+D: word: kis-eir-i	 gloss: CLF_LONG-two-OBJQNT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 3:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wat ___ mindi kajie
+Gloss (with missing item): coconut ___ like_that pick
+The English translation of this sentence is:`We picked up I-don't-know-how-many coconuts like that.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A classifier gives information about the classification of a noun. Kalamang classifiers, which are numeral prefixes, occupy the quantifier slot together with a numeral when modifying certain classes of nouns. When those nouns are modified by a numeral, the use of a classifier is obligatory. They can also be prefixed to the question word puraman `how many'. There are 16 classifiers, listed in Table~\ref{tab:class}. Those that are also bound roots that express part-whole relations (§\ref{sec:inal}) are marked accordingly. There are two unique classifiers (i.e. classifiers that apply to only one noun: \citealt{grinevald2007}): mir-\footnote{The West Bomberai language Mbaham has a word muur `branch' \parencite{flassy1987} and a transport classifier mu- \parencite{cottet2015}, and Iha has a classifier mur for boats, `motor' and branches (Katherine Walker, p.c.).} for the noun et `canoe' and pel- for the noun im `banana'.\footnote{While I elicited negative grammaticality judgments for mir- with, for example, other modes of transport or other things made of wood, I have not had the chance to test pel- in combination with nouns other than `banana'. In other words, the status of pel- as a unique classifier is based on its lack of appearance in combination with nouns other than `banana' in the current corpus.} An example with the classifier kis- for long thin things on the numeral kon `one', modifying the object tabai `cigarette', is given in~(\ref{exe:kiskon}). An example with the fruit classifier nak- and puraman `how many' is given in~(\ref{exe:watnak}).\is{noun!classification}\is{gender*}
+A: word: bolon∼bolon=tun	 gloss: little∼INTS=INTS
+B: word: tep-eir	 gloss: CLF_FRUIT2-two
+C: word: taraman-kodak	 gloss: fathom-just_one
+D: word: nak-puraman-i	 gloss: CLF_FRUIT1-how_many-OBJQNT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 4:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): in marua [pas kanyot=at] ___ koluk
+Gloss (with missing item): 1PL.EXCL move_seawards exactly giant_clam=OBJ ___ find
+The English translation of this sentence is:`We went to sea and found four giant clams right there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Many nouns that are modified with a numeral are not attested with a classifier. Examples include all nouns referring to persons (unless they are in a group and following each other, in which case the group classifier ep- is used), shells as in~(\ref{exe:kanye}), landscape features like lempuang `island' and celestial bodies like pak `moon'. The latter two categories are perhaps not surprising, since they are less likely to be quantified with an exact number. Other nouns associate with more than one classifier (though not at the same time), depending on which characteristic of the nominal referent is being emphasised. This way, classifiers help specify whether we are talking about the leaves, the stem or the fruit of a plant, or whether we are talking about a halved fish, fish as single entities, fish on a string or schools of fish. To take another example, mun `lime' can be modified with the classifier for halves tabak- if it is cut cross-wise, or with the fruit classifier nak- if it is whole. Consider also the examples with sayang `nutmeg' in~(\ref{exe:sayangya}):
+A: word: karuok-i	 gloss: three-OBJQNT
+B: word: kansuor	 gloss: four
+C: word: kansuor-i	 gloss: four-OBJQNT
+D: word: kon∼kon=nin	 gloss: one∼RED=NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 5:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): koi mun ___
+Gloss (with missing item): then lime ___
+The English translation of this sentence is:`Then half a lime...'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Kalamang has a fraction-like operation marked with the morpheme ___, which literally means `one side' but can be used to mean `its gloss ___', as in~(\ref{exe:the morpheme ___}). Indigenous ways of doing arithmetic operations are so far unattested.\is{arithmetic operation!fraction}
+A: word: konat=nin	 gloss: see=NEG
+B: word: setela	 gloss: after
+C: word: taikon	 gloss: half
+D: word: taikonggo	 gloss: side.LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 6:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mu buoksarun=at paruo ba ___ to
+Gloss (with missing item): 3PL offering=OBJ make but ___ right
+The English translation of this sentence is:`They are making the offering, but just a little, right.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Bolon occurs with non-count\is{count noun} referents. It is the only non-numeral quantifier that co-occurs with -tak `only, just', as illustrated in~(\ref{exe:buoksarun}). Like with kon `one' + -tak, which becomes kodak, the final nasal of the root is deleted and the plosive is voiced: bolon + -tak = the morpheme ___.
+A: word: nak-puraman-i	 gloss: CLF_FRUIT1-how_many-OBJQNT
+B: word: kodak-pis	 gloss: just_one-side
+C: word: bolodak	 gloss: little_only
+D: word: bolon	 gloss: little
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 7:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): o tumtum ___ me Bobi emun=a kona
+Gloss (with missing item): EMPH children ___ TOP Bobi mother=FOC see
+The English translation of this sentence is:`O, some children, Bobi's mother saw them.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Taukon `its gloss ___' and ikon `its gloss ___' appear to have the same meaning, although the former only occurs seven times in the natural spoken corpus, whereas the latter has 28 occurrences. Both can be used with animate and inanimate referents. They are illustrated modifying an animate noun in~(\ref{exe:tumtau}) and~(\ref{exe:murkon}). It is likely that these quantifiers were originally morphologically complex (cf. words like kon `one', tawir `side'\footnote{maybe tau `?' + eir `two', although `two sides' is tawirir} and taikon `half; one side').
+A: word: kon	 gloss: one
+B: word: konat=nin	 gloss: see=NEG
+C: word: taukon	 gloss: some
+D: word: pun	 gloss: even
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 8:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): emumur ___ toni a ma se me
+Gloss (with missing item): woman.PL ___ say INT 3SG IAM TOP
+The English translation of this sentence is:`Some women said: ``Ah, that's it.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Taukon `its gloss ___' and the morpheme ___ `its gloss ___' appear to have the same meaning, although the former only occurs seven times in the natural spoken corpus, whereas the latter has 28 occurrences. Both can be used with animate and inanimate referents. They are illustrated modifying an animate noun in~(\ref{exe:tumtau}) and~(\ref{exe:murkon}). It is likely that these quantifiers were originally morphologically complex (cf. words like kon `one', tawir `side'\footnote{maybe tau `?' + eir `two', although `two sides' is tawirir} and tathe morpheme ___ `half; one side').
+A: word: karuok-gan	 gloss: three-all
+B: word: taikonggo	 gloss: side.LOC
+C: word: ikon	 gloss: some
+D: word: taukon	 gloss: few
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 9:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): gorun ___ kodak-pis
+Gloss (with missing item): stalk ___ just_one-side
+The English translation of this sentence is:`All three stalks are on one side.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Quantifiers may be inflected in a number of ways except for its use with classifiers as described in §\ref{sec:clf}. Suffixes and clitics are only attested with lower numerals and bolon `little'. Numeral quantifiers and pronouns inflected with a numeral may carry the suffix -gan `all' as shown in~(\ref{exe:karugan}) and~(\ref{exe:rgan}). The enclitic =tak `just; only' (example~\ref{exe:rtak}) is found on the numeral two, pronouns inflected with a numeral, and (fossilised) in bolodak `just a little' and kodak `just one'. \is{intensification}Intensification with =tun is found with bolon `little' (example~\ref{exe:sei}) and kodak `just one' (example~\ref{exe:kodakk}). Tebonggan `all' seems to contain the morpheme -gan `all'. While tebon cannot be used on its own, it is a root that can be reduplicated and intensified with =tun as in~(\ref{exe:tebonteb}).
+A: word: karuok-gan	 gloss: three-all
+B: word: wan-karuok-i	 gloss: time-three-OBJQNT
+C: word: karuok	 gloss: three
+D: word: et-purir-kon=kap	 gloss: CLF_AN-twenty-approximately=SIM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 10:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): an bara komet=ta me ___
+Gloss (with missing item): 1SG descend look=NFIN TOP ___
+The English translation of this sentence is:`I went down to look; [there were] only two pieces.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Quantifiers may be inflected in a number of ways except for its use with classifiers as described in §\ref{sec:clf}. Suffixes and clitics are only attested with lower numerals and bolon `little'. Numeral quantifiers and pronouns inflected with a numeral may carry the suffix -gan `all' as shown in~(\ref{exe:karugan}) and~(\ref{exe:rgan}). The enclitic =tak `just; only' (example~\ref{exe:rtak}) is found on the numeral two, pronouns inflected with a numeral, and (fossilised) in bolodak `just a little' and kodak `just one'. \is{intensification}Intensification with =tun is found with bolon `little' (example~\ref{exe:sei}) and kodak `just one' (example~\ref{exe:kodakk}). Tebonggan `all' seems to contain the morpheme -gan `all'. While tebon cannot be used on its own, it is a root that can be reduplicated and intensified with =tun as in~(\ref{exe:tebonteb}).
+A: word: pareir=taet	 gloss: follow=again
+B: word: kis-eir-i	 gloss: CLF_LONG-two-OBJQNT
+C: word: ikon	 gloss: some
+D: word: kies-eir=tak	 gloss: CLF_LONG-two=only
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 11:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma mat sei ___
+Gloss (with missing item): 3SG 3SG.OBJ askew ___
+The English translation of this sentence is:`He is a tiny bit askew from it.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Quantifiers may be inflected in a number of ways except for its use with classifiers as described in §\ref{sec:clf}. Suffixes and clitics are only attested with lower numerals and bolon `little'. Numeral quantifiers and pronouns inflected with a numeral may carry the suffix -gan `all' as shown in~(\ref{exe:karugan}) and~(\ref{exe:rgan}). The enclitic =tak `just; only' (example~\ref{exe:rtak}) is found on the numeral two, pronouns inflected with a numeral, and (fossilised) in bolodak `just a little' and kodak `just one'. \is{intensification}Intensification with =tun is found with bolon `little' (example~\ref{exe:sei}) and kodak `just one' (example~\ref{exe:kodakk}). Tebonggan `all' seems to contain the morpheme -gan `all'. While tebon cannot be used on its own, it is a root that can be reduplicated and intensified with =tun as in~(\ref{exe:tebonteb}).
+A: word: bolon∼bolon	 gloss: little∼INTS
+B: word: ikon	 gloss: some
+C: word: tebon∼tebon=tun	 gloss: all∼INTS=INTS
+D: word: bolon∼bolon=tun	 gloss: little∼INTS=INTS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 12:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma-autak ___
+Gloss (with missing item): 3SG-alone ___
+The English translation of this sentence is:`He was all alone.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Quantifiers may be inflected in a number of ways except for its use with classifiers as described in §\ref{sec:clf}. Suffixes and clitics are only attested with lower numerals and bolon `little'. Numeral quantifiers and pronouns inflected with a numeral may carry the suffix -gan `all' as shown in~(\ref{exe:karugan}) and~(\ref{exe:rgan}). The enclitic =tak `just; only' (example~\ref{exe:rtak}) is found on the numeral two, pronouns inflected with a numeral, and (fossilised) in bolodak `just a little' and kodak `just one'. \is{intensification}Intensification with =tun is found with bolon `little' (example~\ref{exe:sei}) and kodak `just one' (example~\ref{exe:kodakk}). Tebonggan `all' seems to contain the morpheme -gan `all'. While tebon cannot be used on its own, it is a root that can be reduplicated and intensified with =tun as in~(\ref{exe:tebonteb}).
+A: word: kodak-pis	 gloss: just_one-side
+B: word: kodak∼dak=tun	 gloss: just_one∼INTS=INTS
+C: word: bolon∼bolon=tun	 gloss: little∼INTS=INTS
+D: word: ikon	 gloss: some
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 13:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): esun=kin ___ mu don kon∼kon paning=nin
+Gloss (with missing item): father.3POSS=POSS ___ 3PL thing one∼RED ask=NEG
+The English translation of this sentence is:`From his father's side everyone didn't ask for anything.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Quantifiers may be inflected in a number of ways except for its use with classifiers as described in §\ref{sec:clf}. Suffixes and clitics are only attested with lower numerals and bolon `little'. Numeral quantifiers and pronouns inflected with a numeral may carry the suffix -gan `all' as shown in~(\ref{exe:karugan}) and~(\ref{exe:rgan}). The enclitic =tak `just; only' (example~\ref{exe:rtak}) is found on the numeral two, pronouns inflected with a numeral, and (fossilised) in bolodak `just a little' and kodak `just one'. \is{intensification}Intensification with =tun is found with bolon `little' (example~\ref{exe:sei}) and kodak `just one' (example~\ref{exe:kodakk}). Tebonggan `all' seems to contain the morpheme -gan `all'. While tebon cannot be used on its own, it is a root that can be reduplicated and intensified with =tun as in~(\ref{exe:tebonteb}).
+A: word: ikon	 gloss: some
+B: word: tebon∼tebon=tun	 gloss: all∼INTS=INTS
+C: word: bolon∼bolon=tun	 gloss: little∼INTS=INTS
+D: word: wis	 gloss: yesterday
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 14:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): esun=kin ___ mu don kon∼kon paning=nin
+Gloss (with missing item): father.3POSS=POSS ___ 3PL thing one∼RED ask=NEG
+The English translation of this sentence is:`From his father's side everyone didn't ask for anything.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Both numeral and non-numeral quantifiers may be reduplicated\is{reduplication!numerals}. The non-numeral quantifiers that are found reduplicated in the corpus are bolon `little' and tebonggan `all'. These have already been exemplified in combination with =tun `very' in~(\ref{exe:tebonteb}) and~(\ref{exe:sei}). Bolon `little' is illustrated in~(\ref{exe:bolbol}) without =tun `very'.
+A: word: tebon∼tebon=tun	 gloss: all∼INTS=INTS
+B: word: kis-kon-i	 gloss: CLF_LONG-one-OBJQNT
+C: word: neko=et	 gloss: inside=IRR
+D: word: bolon∼bolon=tun	 gloss: little∼INTS=INTS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 15:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma mat sei ___
+Gloss (with missing item): 3SG 3SG.OBJ askew ___
+The English translation of this sentence is:`He is a tiny bit askew from it.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Both numeral and non-numeral quantifiers may be reduplicated\is{reduplication!numerals}. The non-numeral quantifiers that are found reduplicated in the corpus are bolon `little' and tebonggan `all'. These have already been exemplified in combination with =tun `very' in~(\ref{exe:tebonteb}) and~(\ref{exe:sei}). Bolon `little' is illustrated in~(\ref{exe:bolbol}) without =tun `very'.
+A: word: bolon∼bolon=tun	 gloss: little∼INTS=INTS
+B: word: bolon∼bolon	 gloss: little∼INTS
+C: word: tebon∼tebon=tun	 gloss: all∼INTS=INTS
+D: word: taukon	 gloss: few
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 16:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): lembaga nerun=ko an ___ kon∼kon konat=nin
+Gloss (with missing item): prison in=LOC 1SG ___ one∼RED see=NEG
+The English translation of this sentence is:`He saw nothing / he didn't see a thing.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In addition, reduplication of kon `one' has indefinite-like meanings\is{indefinite pronoun}. The use of konkon with a negated verb and combined with the morpheme ___ `its gloss ___' so that we get \textit{the morpheme ___ konkon Verb=\textsc{neg}} results in the meaning `noits gloss ___', as exemplified in~(\ref{exe:dkonkon1}). Konkon=nin can also be used predicatively, inflected with the negator =nin itself, where it means `it doesn't matter'. See~(\ref{exe:dkonkonn2}). These constructions are well-established in the corpus.
+A: word: ikon	 gloss: some
+B: word: dodon-un	 gloss: clothes-3POSS
+C: word: don	 gloss: thing
+D: word: neba	 gloss: what
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 17:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): lembaga nerun=ko an don ___ konat=nin
+Gloss (with missing item): prison in=LOC 1SG thing ___ see=NEG
+The English translation of this sentence is:`He saw nothing / he didn't see a thing.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In addition, reduplication of kon `one' has indefinite-like meanings\is{indefinite pronoun}. The use of konkon with a negated verb and combined with don `thing' so that we get \textit{don konkon Verb=\textsc{neg}} results in the meaning `nothing', as exemplified in~(\ref{exe:dkonkon1}). Konkon=nin can also be used predicatively, inflected with the negator =nin itself, where it means `it doesn't matter'. See~(\ref{exe:dkonkonn2}). These constructions are well-established in the corpus.
+A: word: bolodak	 gloss: little_only
+B: word: kon∼kon	 gloss: one∼RED
+C: word: kolko=rar	 gloss: move_out=IMP.PL
+D: word: kon∼kon=nin	 gloss: one∼RED=NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 18:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): lembaga nerun=ko an don kon∼kon ___
+Gloss (with missing item): prison in=LOC 1SG thing one∼RED ___
+The English translation of this sentence is:`He saw nothing / he didn't see a thing.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In addition, reduplication of kon `one' has indefinite-like meanings\is{indefinite pronoun}. The use of konkon with a negated verb and combined with don `thing' so that we get \textit{don konkon Verb=\textsc{neg}} results in the meaning `nothing', as exemplified in~(\ref{exe:dkonkon1}). Konkon=nin can also be used predicatively, inflected with the negator =nin itself, where it means `it doesn't matter'. See~(\ref{exe:dkonkonn2}). These constructions are well-established in the corpus.
+A: word: bolodak	 gloss: little_only
+B: word: kuet=nin	 gloss: get=NEG
+C: word: nat=nin	 gloss: consum=NEG
+D: word: konat=nin	 gloss: see=NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 19:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kian ma sala-un ___ kon∼kon=nin
+Gloss (with missing item): wife.1SG.POSS 3SG mistake-3POSS ___ one∼RED=NEG
+The English translation of this sentence is:`My wife's mistake doesn't matter.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In addition, reduplication of kon `one' has indefinite-like meanings\is{indefinite pronoun}. The use of konkon with a negated verb and combined with the morpheme ___ `its gloss ___' so that we get \textit{the morpheme ___ konkon Verb=\textsc{neg}} results in the meaning `noits gloss ___', as exemplified in~(\ref{exe:dkonkon1}). Konkon=nin can also be used predicatively, inflected with the negator =nin itself, where it means `it doesn't matter'. See~(\ref{exe:dkonkonn2}). These constructions are well-established in the corpus.
+A: word: dodon-un	 gloss: clothes-3POSS
+B: word: neba	 gloss: what
+C: word: don	 gloss: thing
+D: word: tebon∼tebon=tun	 gloss: all∼INTS=INTS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 20:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kian ma sala-un don ___
+Gloss (with missing item): wife.1SG.POSS 3SG mistake-3POSS thing ___
+The English translation of this sentence is:`My wife's mistake doesn't matter.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In addition, reduplication of kon `one' has indefinite-like meanings\is{indefinite pronoun}. The use of konkon with a negated verb and combined with don `thing' so that we get \textit{don konkon Verb=\textsc{neg}} results in the meaning `nothing', as exemplified in~(\ref{exe:dkonkon1}). Konkon=nin can also be used predicatively, inflected with the negator =nin itself, where it means `it doesn't matter'. See~(\ref{exe:dkonkonn2}). These constructions are well-established in the corpus.
+A: word: towari∼wa=ten	 gloss: young∼RED=AT
+B: word: salak	 gloss: ten_thousand
+C: word: kon∼kon	 gloss: one∼DISTR
+D: word: kon∼kon=nin	 gloss: one∼RED=NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 21:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): samur-et ___
+Gloss (with missing item): Mbaham-person ___
+The English translation of this sentence is:`A few Mbaham people.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The corpus also contains two other indefinite-like examples of reduplicated kon `one'. In~(\ref{exe:samuret}), the best translation of konkon is `few' or 'some'. It is taken from a discussion about who was invited to a big funeral on Karas. The context of~(\ref{exe:obatkon}) gives fewer clues about the meaning of konkon, but it seems to mean `other', or alternatively, `not any'.
+A: word: et-purir-kon=kap	 gloss: CLF_AN-twenty-approximately=SIM
+B: word: nain=kap=et	 gloss: like=SIM=IRR
+C: word: kon∼kon	 gloss: one∼RED
+D: word: kon∼kon=nin	 gloss: one∼RED=NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 22:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): sontum pasier=ka bot=nin [...] obat ___ eranun pi neba=et me [...] pirawilak met koyak
+Gloss (with missing item): person beach=LAT go=NEG {} medicine ___ cannot 1PL.INCL PH=IRR TOP {} kind_of_tree DIST.OBJ cut
+The English translation of this sentence is:`[When] people can't go to the toilet, [... if we] cannot use other medicine, we whatsit [...] cut that pirawilak.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The corpus also contains two other indefinite-like examples of reduplicated kon `one'. In~(\ref{exe:samuret}), the best translation of konkon is `few' or 'some'. It is taken from a discussion about who was invited to a big funeral on Karas. The context of~(\ref{exe:obatkon}) gives fewer clues about the meaning of konkon, but it seems to mean `other', or alternatively, `not any'.
+A: word: kon∼kon	 gloss: one∼RED
+B: word: taikon	 gloss: one_side
+C: word: yorsik=ta	 gloss: straight=NFIN
+D: word: kon∼kon=nin	 gloss: one∼RED=NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 23:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ikon-i an se parair mungkin ___ ye
+Gloss (with missing item): some-OBJQNT 1SG IAM split maybe ___ or
+The English translation of this sentence is:`Some I already split, maybe twenty or so?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The last inflection attested on quantifiers is the quantifier object marker\is{quantifier object} -i (§\ref{sec:numobj}), for quantifiers in object NPs. An example of this is ikon `some' in~(\ref{exe:purirkon}) above.
+A: word: an=kap	 gloss: 1SG=SIM
+B: word: et-purir-kon=kap	 gloss: CLF_AN-twenty-approximately=SIM
+C: word: et-putkaruok	 gloss: CLF_AN-thirteen
+D: word: tebon∼tebon=tun	 gloss: all∼INTS=INTS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+

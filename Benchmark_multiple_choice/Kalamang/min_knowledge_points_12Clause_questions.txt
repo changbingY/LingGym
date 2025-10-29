@@ -1,0 +1,325 @@
+Question 0:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma am=at ma ___
+Gloss (with missing item): 3SG breast_milk=OBJ 3SG ___
+The English translation of this sentence is:`She didn't give him milk.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The position of the zero morpheme is after the recipient as in~(\ref{exe:main}) and~(\ref{exe:amat}), or after the benefactive if present as in~(\ref{exe:ditumunggi}). This is evident from the position of, for example, mood or negation marking. On the surface, everything that is attached to the verb is attached to the recipient, and is also sometimes morphophonologically integrated, as shown in~(\ref{exe:main}). Give-constructions may also be part of \is{predicate!complex}complex predicates (Chapter~\ref{ch:svc}), such as the one in~(\ref{exe:pada}), where the verbs are linked with predicate linker =i.
+A: word: tenggeles=kap	 gloss: eagle=SIM
+B: word: kuet=nin	 gloss: get=NEG
+C: word: ∅=nin	 gloss: give=NEG
+D: word: nat=nin	 gloss: consum=NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 1:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): sor me selet-kon-i tete=ki ___
+Gloss (with missing item): fish TOP piece-one-OBJQNT grandfather=BEN ___
+The English translation of this sentence is:`Give one piece of fish to grandfather!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The position of the zero morpheme is after the recipient as in~(\ref{exe:main}) and~(\ref{exe:amat}), or after the benefactive if present as in~(\ref{exe:ditumunggi}). This is evident from the position of, for example, mood or negation marking. On the surface, everything that is attached to the verb is attached to the recipient, and is also sometimes morphophonologically integrated, as shown in~(\ref{exe:main}). Give-constructions may also be part of \is{predicate!complex}complex predicates (Chapter~\ref{ch:svc}), such as the one in~(\ref{exe:pada}), where the verbs are linked with predicate linker =i.
+A: word: saerak	 gloss: NEG_EXIST
+B: word: mama	 gloss: mother
+C: word: sem=ten=at	 gloss: afraid-ADJ=OBJ
+D: word: ∅=te	 gloss: give=IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): naman=a padanual=at ___ ka ∅
+Gloss (with missing item): who=FOC pandanus=OBJ ___ 2SG give
+The English translation of this sentence is:`Who got pandanus [leaf] and gave it to you?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The position of the zero morpheme is after the recipient as in~(\ref{exe:main}) and~(\ref{exe:amat}), or after the benefactive if present as in~(\ref{exe:ditumunggi}). This is evident from the position of, for example, mood or negation marking. On the surface, everything that is attached to the verb is attached to the recipient, and is also sometimes morphophonologically integrated, as shown in~(\ref{exe:main}). Give-constructions may also be part of \is{predicate!complex}complex predicates (Chapter~\ref{ch:svc}), such as the one in~(\ref{exe:pada}), where the verbs are linked with predicate linker =i.
+A: word: rep=et	 gloss: get=IRR
+B: word: kabarat=nin	 gloss: sweep=NEG
+C: word: kuet=i	 gloss: bring=PLNK
+D: word: rep=i	 gloss: get=PLNK
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 3:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): naman=a padanual=at rep=i ___ ∅
+Gloss (with missing item): who=FOC pandanus=OBJ get=PLNK ___ give
+The English translation of this sentence is:`Who got pandanus [leaf] and gave it to you?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The position of the zero morpheme is after the recipient as in~(\ref{exe:main}) and~(\ref{exe:amat}), or after the benefactive if present as in~(\ref{exe:ditumunggi}). This is evident from the position of, for example, mood or negation marking. On the surface, everything that is attached to the verb is attached to the recipient, and is also sometimes morphophonologically integrated, as shown in~(\ref{exe:main}). Give-constructions may also be part of \is{predicate!complex}complex predicates (Chapter~\ref{ch:svc}), such as the one in~(\ref{exe:pada}), where the verbs are linked with predicate linker =i.
+A: word: kawotman	 gloss: cut
+B: word: weinun	 gloss: too
+C: word: naman=a	 gloss: who=FOC
+D: word: ka	 gloss: 2SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 4:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma tanbes=ko ror mat ___
+Gloss (with missing item): 3SG right=LOC tree 3SG.OBJ ___
+The English translation of this sentence is:`He's on the right, the tree exceeds him.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The majority of elicited and natural speech comparative constructions are monoclausal, making use of the morpheme ___ `to its gloss ___', illustrated in~(\ref{exe:matthe morpheme ___}) and~(\ref{exe:hargathe morpheme ___}). Lebe `to its gloss ___' is a loan from Malay lebih `more (than)', which is also used in comparative constructions in Malay varieties.
+A: word: lebe	 gloss: exceed
+B: word: melebor=ta	 gloss: move_to_side=NFIN
+C: word: baran=taet	 gloss: descend=more
+D: word: mambon	 gloss: EXIST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 5:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): warkin se mat ___
+Gloss (with missing item): tide IAM 3SG.OBJ ___
+The English translation of this sentence is:`The tide exceeded him.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A monoclausal its gloss ___ construction may also be made with the morpheme ___ `to its gloss ___', but is much less frequent (one natural speech example and one corpus example, against at least ten of each for lebe). (\ref{exe:the morpheme ___}) and (\ref{exe:the morpheme ___2}) are the two attested instances. Based on these two examples, it is possible that the morpheme ___ actually has the more specific meaning `to its gloss ___ in height'.
+A: word: erei	 gloss: ascend.IMP
+B: word: baran=taet	 gloss: descend=more
+C: word: mier-gan	 gloss: 3PL-both
+D: word: nemies	 gloss: exceed
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 6:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kewe metko ___
+Gloss (with missing item): house DIST.LOC ___
+The English translation of this sentence is:`There is a house there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Existential and possessive clauses are expressed with existential the morpheme ___. (\ref{exe:kewmam}) is an existential clause. Possessive clauses, like~(\ref{exe:huka-ca}), also include a possessive suffix on the possessed or a possessive pronoun.
+A: word: rombongan	 gloss: group
+B: word: mambon	 gloss: EXIST
+C: word: naman=a	 gloss: who=FOC
+D: word: saerak	 gloss: NEG_EXIST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 7:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ka me ___ mambon
+Gloss (with missing item): 2PL TOP ___ EXIST
+The English translation of this sentence is:`Do you have your fishing net?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Existential and possessive clauses are expressed with existential mambon. (\ref{exe:kewmam}) is an existential clause. Possessive clauses, like~(\ref{exe:huka-ca}), also include a possessive suffix on the possessed or a possessive pronoun.
+A: word: nika	 gloss: fishing_line
+B: word: hukat	 gloss: net
+C: word: hukat-ca	 gloss: fishing_net-2SG.POSS
+D: word: saerak	 gloss: NEG_EXIST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 8:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ka me hukat-ca ___
+Gloss (with missing item): 2PL TOP fishing_net-2SG.POSS ___
+The English translation of this sentence is:`Do you have your fishing net?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Existential and possessive clauses are expressed with existential the morpheme ___. (\ref{exe:kewmam}) is an existential clause. Possessive clauses, like~(\ref{exe:huka-ca}), also include a possessive suffix on the possessed or a possessive pronoun.
+A: word: rombongan	 gloss: group
+B: word: tenggeles=kap	 gloss: eagle=SIM
+C: word: saerak	 gloss: NEG_EXIST
+D: word: mambon	 gloss: EXIST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 9:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): se bo=te ___ panggala naun=kap
+Gloss (with missing item): ASP go=\GLTE ___ cassava fruit=SIM
+The English translation of this sentence is:`It's already becoming as big as a cassava.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: An equative construction is made with the morpheme ___ `its gloss ___' as the standard marker and the similative postposition\is{postposition!similative} =kap on the standard. As with comparative constructions, there is no parameter, but the gradable property might be expressed as part of the comparee, as in~(\ref{exe:eq1}). In~(\ref{exe:eq2}), the verb bo `to go' is used to indicate growth. The sentence means literally something its gloss ___ `[it] has become [so that it is] its gloss ___ [the size of] a cassava fruit'.
+A: word: mindi	 gloss: like_that
+B: word: nain	 gloss: like
+C: word: nain=kap=et	 gloss: like=SIM=IRR
+D: word: kabarat=nin	 gloss: sweep=NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 10:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): se bo=te nain panggala ___
+Gloss (with missing item): ASP go=\GLTE like cassava ___
+The English translation of this sentence is:`It's already becoming as big as a cassava.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: An equative construction is made with nain `like' as the standard marker and the similative postposition\is{postposition!similative} =kap on the standard. As with comparative constructions, there is no parameter, but the gradable property might be expressed as part of the comparee, as in~(\ref{exe:eq1}). In~(\ref{exe:eq2}), the verb bo `to go' is used to indicate growth. The sentence means literally something like `[it] has become [so that it is] like [the size of] a cassava fruit'.
+A: word: an=kap	 gloss: 1SG=SIM
+B: word: nemies	 gloss: exceed
+C: word: naun=kap	 gloss: fruit=SIM
+D: word: teun	 gloss: fruit
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 11:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma ___
+Gloss (with missing item): 3SG ___
+The English translation of this sentence is:`It's like water.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The similative postposition =kap can be used on its own, as in~(\ref{exe:kap22}) and~(\ref{exe:kap33}). In~(\ref{exe:kap22}), two things are compared, and in~(\ref{exe:kap33}), one person is compared to many.
+A: word: yie=te	 gloss: swim={\glte}
+B: word: nemies	 gloss: exceed
+C: word: per=kap=teba	 gloss: water=SIM=\glteba
+D: word: tenggeles=kap=te	 gloss: eagle=SIM={\glte}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 12:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma ___
+Gloss (with missing item): 3SG ___
+The English translation of this sentence is:`It's like water.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The similative postposition =kap can be used on its own, as in~(\ref{exe:kap22}) and~(\ref{exe:kap33}). In~(\ref{exe:kap22}), two things are compared, and in~(\ref{exe:kap33}), one person is compared to many.
+A: word: per=kap=teba	 gloss: water=SIM=\glteba
+B: word: menyanyi=te	 gloss: sing=IMP
+C: word: yie=te	 gloss: swim={\glte}
+D: word: tenggeles=kap=te	 gloss: eagle=SIM={\glte}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 13:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ka ___ tenggeles=kap ka bo tenggeles=kap=te don kuek=te kuru luk=te yuwa
+Gloss (with missing item): 2SG ___ eagle=SIM 2SG go eagle=SIM={\glte} thing steal={\glte} bring come={\glte} PROX
+The English translation of this sentence is:`You're like an eagle, you turn into an eagle stealing stuff and bringing it back.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In~(\ref{exe:kapthe morpheme ___}), =kap is used in combination with the morpheme ___, which also translates as `its gloss ___'. This is not uncommon in the corpus, but it is unclear what drives the choice of a double similative marking. Constructions with the morpheme ___ N=kap are used for equative constructions (as described in §\ref{sec:eq}), but it is common with similative constructions as well.
+A: word: nain	 gloss: like
+B: word: naun=kap	 gloss: fruit=SIM
+C: word: mindi	 gloss: like_that
+D: word: nain=kap=et	 gloss: like=SIM=IRR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 14:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ka nain ___ ka bo tenggeles=kap=te don kuek=te kuru luk=te yuwa
+Gloss (with missing item): 2SG like ___ 2SG go eagle=SIM={\glte} thing steal={\glte} bring come={\glte} PROX
+The English translation of this sentence is:`You're like an eagle, you turn into an eagle stealing stuff and bringing it back.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In~(\ref{exe:kapnain}), =kap is used in combination with nain, which also translates as `like'. This is not uncommon in the corpus, but it is unclear what drives the choice of a double similative marking. Constructions with nain N=kap are used for equative constructions (as described in §\ref{sec:eq}), but it is common with similative constructions as well.
+A: word: tenggeles=kap	 gloss: eagle=SIM
+B: word: tenggeles=kap=te	 gloss: eagle=SIM={\glte}
+C: word: nokidak=te	 gloss: be_silent=IMP
+D: word: yar-un	 gloss: stone-3POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 15:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ka nain tenggeles=kap ka bo ___ don kuek=te kuru luk=te yuwa
+Gloss (with missing item): 2SG like eagle=SIM 2SG go ___ thing steal={\glte} bring come={\glte} PROX
+The English translation of this sentence is:`You're like an eagle, you turn into an eagle stealing stuff and bringing it back.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In~(\ref{exe:kapnain}), =kap is used in combination with nain, which also translates as `like'. This is not uncommon in the corpus, but it is unclear what drives the choice of a double similative marking. Constructions with nain N=kap are used for equative constructions (as described in §\ref{sec:eq}), but it is common with similative constructions as well.
+A: word: tenggeles=kap	 gloss: eagle=SIM
+B: word: menyanyi=te	 gloss: sing=IMP
+C: word: hukat=at	 gloss: net=OBJ
+D: word: tenggeles=kap=te	 gloss: eagle=SIM={\glte}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 16:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ kat sirie
+Gloss (with missing item): ___ 2SG.OBJ follow
+The English translation of this sentence is:`Who follows you?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Content questions (also question-word questions, wh-questions or information questions) are formed with the question words listed in §\ref{sec:wcq}. Question words occur in the syntactic position\is{in situ} of the argument they are replacing and are typically \is{focus}focused with =a. Thus, in~(\ref{exe:nebaO}), neba `what' occurs in object position, because that is the syntactic position that the question is after. In~(\ref{exe:whereLOC}), tamatko `where' comes before the verb kos `to grow', just as any locative would. And in~(\ref{exe:whoA}), naman `who' occurs in subject position. The question posed in the narrative in~(\ref{exe:whoA}) is not answered, whereas for the other two examples the answer is also given.
+A: word: mu-raman=a	 gloss: 3PL-six=FOC
+B: word: ∅=nin	 gloss: give=NEG
+C: word: naman=a	 gloss: who=FOC
+D: word: tamatko=a	 gloss: where=FOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 17:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ kat sirie
+Gloss (with missing item): ___ 2SG.OBJ follow
+The English translation of this sentence is:`Who follows you?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Content questions (also question-word questions, wh-questions or information questions) are formed with the question words listed in §\ref{sec:wcq}. Question words occur in the syntactic position\is{in situ} of the argument they are replacing and are typically \is{focus}focused with =a. Thus, in~(\ref{exe:nebaO}), neba `what' occurs in object position, because that is the syntactic position that the question is after. In~(\ref{exe:whereLOC}), tamatko `where' comes before the verb kos `to grow', just as any locative would. And in~(\ref{exe:whoA}), naman `who' occurs in subject position. The question posed in the narrative in~(\ref{exe:whoA}) is not answered, whereas for the other two examples the answer is also given.
+A: word: mu-raman=a	 gloss: 3PL-six=FOC
+B: word: tenggeles=kap=te	 gloss: eagle=SIM={\glte}
+C: word: naman=a	 gloss: who=FOC
+D: word: tamatko=a	 gloss: where=FOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 18:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wa me nika wa me pi watko kaniet=et ___
+Gloss (with missing item): PROX TOP fishing_line PROX TOP 1PL.INCL PROX.LOC tie=IRR ___
+The English translation of this sentence is:`This is fishing line, this we tie here, don't we?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: To `its gloss ___' is a confirmation-seeking tag (from Malay the morpheme ___h, ultimately from Dutch\il{Dutch} the morpheme ___ch, all with the same meaning), illustrated in~(\ref{exe:tagthe morpheme ___2}). It is also used the morpheme ___ check whether the listener is still following along, and is often used the morpheme ___ mark information that was previously given by the speaker, as in~(\ref{exe:tagthe morpheme ___1}). Usually, an answer is not expected. Like the tag e, the use of the morpheme ___ is not confined the morpheme ___ questions, and can be a confirmation-seeking tag on declaratives as well (§\ref{sec:idphon}).
+A: word: ∅=nin	 gloss: give=NEG
+B: word: to	 gloss: right
+C: word: rombongan	 gloss: group
+D: word: toni	 gloss: say
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 19:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tumun opa me per nerunggo ___
+Gloss (with missing item): child ANA TOP water inside ___
+The English translation of this sentence is:`So that child is in the water, you see?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: To `its gloss ___' is a confirmation-seeking tag (from Malay the morpheme ___h, ultimately from Dutch\il{Dutch} the morpheme ___ch, all with the same meaning), illustrated in~(\ref{exe:tagthe morpheme ___2}). It is also used the morpheme ___ check whether the listener is still following along, and is often used the morpheme ___ mark information that was previously given by the speaker, as in~(\ref{exe:tagthe morpheme ___1}). Usually, an answer is not expected. Like the tag e, the use of the morpheme ___ is not confined the morpheme ___ questions, and can be a confirmation-seeking tag on declaratives as well (§\ref{sec:idphon}).
+A: word: tenggeles=kap=te	 gloss: eagle=SIM={\glte}
+B: word: toni	 gloss: say
+C: word: pi-mun	 gloss: 1PL.INCL-PROH
+D: word: to	 gloss: right
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 20:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): goras mat sirie ka ___
+Gloss (with missing item): crow 3SG.OBJ order 2SG ___
+The English translation of this sentence is:`The crow orders him: ``You sing!'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Imperatives are directive speech acts used for orders and commands\is{command} \parencite[][303]{shopen2007b}. They are marked with enclitic =te on the predicate. An imperative clause can but need not contain a subject (addressee). Compare~(\ref{exe:impw}), with subject, and~(\ref{exe:impwo}), without subject.
+A: word: ewa=te	 gloss: speak=IMP
+B: word: mindi=ten	 gloss: like_that={\glten}
+C: word: menyanyi=te	 gloss: sing=IMP
+D: word: nain	 gloss: like
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 21:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`Shut up!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Imperatives are directive speech acts used for orders and commands\is{command} \parencite[][303]{shopen2007b}. They are marked with enclitic =te on the predicate. An imperative clause can but need not contain a subject (addressee). Compare~(\ref{exe:impw}), with subject, and~(\ref{exe:impwo}), without subject.
+A: word: mambon	 gloss: EXIST
+B: word: nokidak=te	 gloss: be_silent=IMP
+C: word: kodak∼dak=tun	 gloss: just_one∼INTS=INTS
+D: word: nokin-tar	 gloss: be_silent-PL.IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 22:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bo masikit mul-un=ka ka se [...] uriap mengga ___
+Gloss (with missing item): go mosque side-3POSS=LAT 2SG IAM {} street DIST.LAT ___
+The English translation of this sentence is:`Past the mosque, you go up to that street.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Movement verbs ending in -a (e.g. sara `go up', marua `go towards sea', mia `come') have imperative forms in -ei, as illustrated in~(\ref{exe:the morpheme ___}) for the imperative form of era `go up diagonally'. That example, taken from a route description given to a fictional stranger, also illustrates that imperative forms are not only used for orders, but also for hortatives\is{hortative}.
+A: word: merengguen	 gloss: gather
+B: word: erei	 gloss: ascend.IMP
+C: word: ∅=nin	 gloss: give=NEG
+D: word: sara=r	 gloss: ascend=PL.IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 23:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): naman=a kewe=at ___
+Gloss (with missing item): who=FOC house=OBJ ___
+The English translation of this sentence is:`Who doesn't want to sweep the house?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Content questions (§\ref{sec:opq}) are negated with negator =nin, as illustrated in~(\ref{exe:kabnin}).
+A: word: barsi=ten	 gloss: clean=AT
+B: word: kabarat=nin	 gloss: sweep=NEG
+C: word: barat=nin	 gloss: descend=NEG
+D: word: per=kap=teba	 gloss: water=SIM=\glteba
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 24:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): karena pak ___ karek=ki=a kanie
+Gloss (with missing item): because nail ___ string=INS=FOC tie
+The English translation of this sentence is:`Because there were no nails [we] tied with string.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Finally, existential clauses are negated with negative existential the morpheme ___. Examples~(\ref{exe:sorthe morpheme ___}) and~(\ref{exe:the morpheme ___}) show existential negation. Saerak is the opposite of existential mambon, as shown in example~(\ref{exe:mamsae}). It is ungrammatical to combine either mambon or the morpheme ___ with negator =nin. Saerak has a slightly more differentiated use than mambon. For non-possession, the morpheme ___ is obligatory, whereas for affirmative possessive clauses mambon only stresses the presence of a possessed item, but is not necessary to express possession.
+A: word: ∅=nin	 gloss: give=NEG
+B: word: saerak	 gloss: NEG_EXIST
+C: word: bolon	 gloss: little
+D: word: go_saerak=ko	 gloss: place-NEG_EXIST=LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+

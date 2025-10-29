@@ -1,0 +1,299 @@
+Question 0:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [enem beladar-pas] ___ buok=at kuru bara pier=ki bes to
+Gloss (with missing item): woman Netherlands-woman ___ betel=OBJ bring descend 1DU.IN=BEN good right
+The English translation of this sentence is:`The Dutchwoman brought down betel for us, good, right?' (Context: subject is given but not recently mentioned.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Me can be used after a NP or PP to mark it as the topic in clauses with a verbal (see \ref{exe:the morpheme ___trans}, \ref{exe:the morpheme ___pron} and~\ref{exe:the morpheme ___stat}), nominal (see \ref{exe:the morpheme ___nom}), \is{quantifier clause}quantifier (see \ref{exe:the morpheme ___quant}) or locative (see \ref{exe:the morpheme ___loc}) predicate, but is not obligatory in any of these contexts.
+A: word: melelu	 gloss: sit
+B: word: tebolsuban	 gloss: fish_at_reef_edge
+C: word: tomi=ba	 gloss: Tomi=FOC
+D: word: me	 gloss: TOP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 1:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ki Tanggor=ka=ta rar [Tanggor] ___ mambon
+Gloss (with missing item): 2PL Tanggor=LAT=NFIN go.PL.IMP Tanggor ___ EXIST
+The English translation of this sentence is:`You go to Tanggor, at Tanggor there are [fish].' (Context: Tanggor is given, in this very example.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Me can be used after a NP or PP to mark it as the topic in clauses with a verbal (see \ref{exe:the morpheme ___trans}, \ref{exe:the morpheme ___pron} and~\ref{exe:the morpheme ___stat}), nominal (see \ref{exe:the morpheme ___nom}), \is{quantifier clause}quantifier (see \ref{exe:the morpheme ___quant}) or locative (see \ref{exe:the morpheme ___loc}) predicate, but is not obligatory in any of these contexts.
+A: word: melelu	 gloss: sit
+B: word: amdir-un=ko	 gloss: garden-3POSS=LOC
+C: word: kasur	 gloss: tomorrow
+D: word: me	 gloss: TOP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [pas me] ___ mungkin berupa jim
+Gloss (with missing item): woman DIST ___ maybe be_a_form_of jinn
+The English translation of this sentence is:`That woman is maybe a kind of jinn.' (Context: description of a video. The woman has been mentioned; this is a comment about her identity.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Me can be used after a NP or PP to mark it as the topic in clauses with a verbal (see \ref{exe:the morpheme ___trans}, \ref{exe:the morpheme ___pron} and~\ref{exe:the morpheme ___stat}), nominal (see \ref{exe:the morpheme ___nom}), \is{quantifier clause}quantifier (see \ref{exe:the morpheme ___quant}) or locative (see \ref{exe:the morpheme ___loc}) predicate, but is not obligatory in any of these contexts.
+A: word: samur-et	 gloss: Mbaham-person
+B: word: kon=bon=a	 gloss: one=COM=FOC
+C: word: melelu	 gloss: sit
+D: word: me	 gloss: ME
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 3:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [wa] ___ eir eh
+Gloss (with missing item): PROX ___ two TAG
+The English translation of this sentence is:`These are two, right?' (Context: learning to weave a basket, pointing at strips of material in the teacher's hand.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Me can be used after a NP or PP to mark it as the topic in clauses with a verbal (see \ref{exe:the morpheme ___trans}, \ref{exe:the morpheme ___pron} and~\ref{exe:the morpheme ___stat}), nominal (see \ref{exe:the morpheme ___nom}), \is{quantifier clause}quantifier (see \ref{exe:the morpheme ___quant}) or locative (see \ref{exe:the morpheme ___loc}) predicate, but is not obligatory in any of these contexts.
+A: word: kasur	 gloss: tomorrow
+B: word: jam	 gloss: o'clock
+C: word: me	 gloss: TOP
+D: word: melelu	 gloss: sit
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 4:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [tumtum eir] ___ kewe-un=ko
+Gloss (with missing item): children two ___ house-3POSS=LOC
+The English translation of this sentence is:`Two children are in their house.' (Context: frog story. Children have been mentioned; description of a new page in the book.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Me can be used after a NP or PP to mark it as the topic in clauses with a verbal (see \ref{exe:the morpheme ___trans}, \ref{exe:the morpheme ___pron} and~\ref{exe:the morpheme ___stat}), nominal (see \ref{exe:the morpheme ___nom}), \is{quantifier clause}quantifier (see \ref{exe:the morpheme ___quant}) or locative (see \ref{exe:the morpheme ___loc}) predicate, but is not obligatory in any of these contexts.
+A: word: melelu	 gloss: sit
+B: word: sap=ki=a	 gloss: stick=INS=FOC
+C: word: kulpanggat=bon	 gloss: triggerfish=COM
+D: word: me	 gloss: ME
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 5:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [Arifin=bon Mei=bon] ___ nat=nin
+Gloss (with missing item): Arifin=COM Mei=COM ___ consum=NEG
+The English translation of this sentence is:`Arifin and Mei don't eat.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The topic marker follows postpositions, as in~(\ref{exe:finbon}) and~(\ref{exe:kothe morpheme ___neko}). Topicalised objects lack object postposition =at (example~\ref{exe:bobmun}). The topic marker is typically used following NPs or PPs that refer to given referents. It can also topicalise a tithe morpheme ___ adverbial (example~\ref{exe:ambun}). Another way to mark topics, which may be combined with topic marker the morpheme ___, is fronting of the topicalised constituent (§\ref{sec:leftd}).
+A: word: tomi=ba	 gloss: Tomi=FOC
+B: word: et=at	 gloss: canoe=OBJ
+C: word: me	 gloss: TOP
+D: word: melelu	 gloss: sit
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 6:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [watko] ___ lempuang-tumun wilak=ko me neko
+Gloss (with missing item): PROX.LOC ___ island-child sea=LOC TOP inside
+The English translation of this sentence is:`Here, the small island inside the sea.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The topic marker follows postpositions, as in~(\ref{exe:finbon}) and~(\ref{exe:kothe morpheme ___neko}). Topicalised objects lack object postposition =at (example~\ref{exe:bobmun}). The topic marker is typically used following NPs or PPs that refer to given referents. It can also topicalise a tithe morpheme ___ adverbial (example~\ref{exe:ambun}). Another way to mark topics, which may be combined with topic marker the morpheme ___, is fronting of the topicalised constituent (§\ref{sec:leftd}).
+A: word: melelu	 gloss: sit
+B: word: me	 gloss: TOP
+C: word: sap=ki=a	 gloss: stick=INS=FOC
+D: word: tengguen=i	 gloss: gather=PLNK
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 7:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kier Luis=bon ___ me bo sor-sanggara
+Gloss (with missing item): 2DU Luis=COM ___ TOP go fish-search
+The English translation of this sentence is:`(As for) tomorrow, you and Luis go fishing.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The topic marker follows postpositions, as in~(\ref{exe:finbon}) and~(\ref{exe:komeneko}). Topicalised objects lack object postposition =at (example~\ref{exe:bobmun}). The topic marker is typically used following NPs or PPs that refer to given referents. It can also topicalise a time adverbial (example~\ref{exe:ambun}). Another way to mark topics, which may be combined with topic marker me, is fronting of the topicalised constituent (§\ref{sec:leftd}).
+A: word: diri-an=at	 gloss: self-1SG.POSS=OBJ
+B: word: kon=bon=a	 gloss: one=COM=FOC
+C: word: kasur=et	 gloss: tomorrow=IRR
+D: word: kasur	 gloss: tomorrow
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 8:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kier Luis=bon [kasur] ___ bo sor-sanggara
+Gloss (with missing item): 2DU Luis=COM tomorrow ___ go fish-search
+The English translation of this sentence is:`(As for) tomorrow, you and Luis go fishing.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The topic marker follows postpositions, as in~(\ref{exe:finbon}) and~(\ref{exe:kothe morpheme ___neko}). Topicalised objects lack object postposition =at (example~\ref{exe:bobmun}). The topic marker is typically used following NPs or PPs that refer to given referents. It can also topicalise a tithe morpheme ___ adverbial (example~\ref{exe:ambun}). Another way to mark topics, which may be combined with topic marker the morpheme ___, is fronting of the topicalised constituent (§\ref{sec:leftd}).
+A: word: tantayon=ko	 gloss: left=LOC
+B: word: melelu	 gloss: sit
+C: word: me	 gloss: TOP
+D: word: kon=bon=a	 gloss: one=COM=FOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 9:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [sikan kon] ___ in=at tiri pareir
+Gloss (with missing item): cat one ___ 1PL.EXCL=OBJ run follow
+The English translation of this sentence is:`A cat ran after us.' (Context: a story about going to someone's house, first mention of the cat.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: More seldomly, new participants are introduced with the morpheme ___. This is limited to unimportant participants. In~(\ref{exe:sikank}), the cat is introduced; it is not the morpheme ___ntioned thereafter, and is only used in the story as a prop to create a slightly threatening atmosphere. In examples of the type in~(\ref{exe:wathe morpheme ___ta}), where properties of referents are described out of context, the morpheme ___ is also used, often combined with a demonstrative.
+A: word: sap=ki=a	 gloss: stick=INS=FOC
+B: word: narari=te	 gloss: slice=IMP
+C: word: me	 gloss: TOP
+D: word: melelu	 gloss: sit
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 10:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [ror wa] ___ tabusik
+Gloss (with missing item): tree PROX ___ short
+The English translation of this sentence is:`This tree is short.' (Context: no context, elicitation, transl. of Malay pohon ini pendek `this tree is short'.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: More seldomly, new participants are introduced with the morpheme ___. This is limited to unimportant participants. In~(\ref{exe:sikank}), the cat is introduced; it is not the morpheme ___ntioned thereafter, and is only used in the story as a prop to create a slightly threatening atmosphere. In examples of the type in~(\ref{exe:wathe morpheme ___ta}), where properties of referents are described out of context, the morpheme ___ is also used, often combined with a demonstrative.
+A: word: kadok-ca=at=a	 gloss: cloth-2SG.POSS=OBJ=FOC
+B: word: yuwa=ba	 gloss: PROX=FOC
+C: word: me	 gloss: TOP
+D: word: melelu	 gloss: sit
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 11:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [an] ___ [don] me ka an ∅=nin
+Gloss (with missing item): 1SG ___ thing TOP 2SG 1SG give=NEG
+The English translation of this sentence is:`As for me, and as for that thing, you didn't give [it] to me.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In a few instances, the morpheme ___ marks two referents in the sathe morpheme ___ clause. In~(\ref{exe:anthe morpheme ___d}), the second instance of the morpheme ___ could alternately be analysed as a distal demonstrative (but would still be topicalised because it is fronted), but in~(\ref{exe:lekop}) the analysis seems untlikely to fit, as there is already a demonstrative modifying each noun. Analysing the morpheme ___ as a definite marker also does not fit, as it does not appear consistently on anaphoric definites (referents that have been the morpheme ___ntioned in the text).
+A: word: me	 gloss: TOP
+B: word: dan=i	 gloss: bury=PLNK
+C: word: yuwa=ba	 gloss: PROX=FOC
+D: word: melelu	 gloss: sit
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 12:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [an] me [don] ___ ka an ∅=nin
+Gloss (with missing item): 1SG TOP thing ___ 2SG 1SG give=NEG
+The English translation of this sentence is:`As for me, and as for that thing, you didn't give [it] to me.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In a few instances, the morpheme ___ marks two referents in the sathe morpheme ___ clause. In~(\ref{exe:anthe morpheme ___d}), the second instance of the morpheme ___ could alternately be analysed as a distal demonstrative (but would still be topicalised because it is fronted), but in~(\ref{exe:lekop}) the analysis seems untlikely to fit, as there is already a demonstrative modifying each noun. Analysing the morpheme ___ as a definite marker also does not fit, as it does not appear consistently on anaphoric definites (referents that have been the morpheme ___ntioned in the text).
+A: word: ukir=te	 gloss: measure=IMP
+B: word: me	 gloss: TOP
+C: word: melelu	 gloss: sit
+D: word: tamatko=a	 gloss: where=FOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 13:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [lek opa] ___ [afokat opa] me kona
+Gloss (with missing item): goat {\glopa} ___ avocado {\glopa} TOP see
+The English translation of this sentence is:`That goat sees those avocados.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In a few instances, the morpheme ___ marks two referents in the sathe morpheme ___ clause. In~(\ref{exe:anthe morpheme ___d}), the second instance of the morpheme ___ could alternately be analysed as a distal demonstrative (but would still be topicalised because it is fronted), but in~(\ref{exe:lekop}) the analysis seems untlikely to fit, as there is already a demonstrative modifying each noun. Analysing the morpheme ___ as a definite marker also does not fit, as it does not appear consistently on anaphoric definites (referents that have been the morpheme ___ntioned in the text).
+A: word: napaki=kin	 gloss: use=VOL
+B: word: melelu	 gloss: sit
+C: word: yuwa=ba	 gloss: PROX=FOC
+D: word: me	 gloss: TOP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 14:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [lek opa] me [afokat opa] ___ kona
+Gloss (with missing item): goat {\glopa} TOP avocado {\glopa} ___ see
+The English translation of this sentence is:`That goat sees those avocados.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In a few instances, the morpheme ___ marks two referents in the sathe morpheme ___ clause. In~(\ref{exe:anthe morpheme ___d}), the second instance of the morpheme ___ could alternately be analysed as a distal demonstrative (but would still be topicalised because it is fronted), but in~(\ref{exe:lekop}) the analysis seems untlikely to fit, as there is already a demonstrative modifying each noun. Analysing the morpheme ___ as a definite marker also does not fit, as it does not appear consistently on anaphoric definites (referents that have been the morpheme ___ntioned in the text).
+A: word: melelu	 gloss: sit
+B: word: me	 gloss: TOP
+C: word: paruak=i	 gloss: throw_away=PLNK
+D: word: tamatko=a	 gloss: where=FOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 15:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [siada eir=et] ___ ma se taraouk
+Gloss (with missing item): kind_of_fish two=IRR ___ 3SG IAM store
+The English translation of this sentence is:`As for those two siadas, he had already stored [them].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The combination of irrealis =et followed by the morpheme ___ is also seen in pre-posed topic constructions as in~(\ref{exe:eiretthe morpheme ___}). This is an unusual way to present a topic: it is much more common to do so without =et.
+A: word: konat=nin	 gloss: see=NEG
+B: word: me	 gloss: TOP
+C: word: melelu	 gloss: sit
+D: word: tomi=ba	 gloss: Tomi=FOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 16:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ kiem-an yuwa=at kuet
+Gloss (with missing item): ___ basket-1SG.POSS PROX=OBJ bring
+The English translation of this sentence is:`Who took my basket?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The enclitic =a is a focus marker that typically attaches to the NP or PP.\is{postpositional phrase} Question words often carry this enclitic and are naturally focused. See~(\ref{exe:namana}) and~(\ref{exe:tamatkoa}).
+A: word: tamatko=a	 gloss: where=FOC
+B: word: naman=a	 gloss: who=FOC
+C: word: kon=bon=a	 gloss: one=COM=FOC
+D: word: mu-raman=a	 gloss: 3PL-six=FOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 17:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mu ___ kajie
+Gloss (with missing item): 3PL ___ pick
+The English translation of this sentence is:`Where did they pick [chestnuts]?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The enclitic =a is a focus marker that typically attaches to the NP or PP.\is{postpositional phrase} Question words often carry this enclitic and are naturally focused. See~(\ref{exe:namana}) and~(\ref{exe:tamatkoa}).
+A: word: tamatko=a	 gloss: where=FOC
+B: word: tamatko=et	 gloss: where=IRR
+C: word: tamandi=a	 gloss: how=FOC
+D: word: tama=ba-kadok	 gloss: where=FOC-side
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 18:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): emun se ___ mara∼mara
+Gloss (with missing item): mother.3POSS IAM ___ move_landwards∼PROG
+The English translation of this sentence is:`His mother came walking with a stick.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: (\ref{exe:kiafoc}) and~(\ref{exe:bonafoc}), together with~(\ref{exe:terques}) above, show that focus marker =a comes after postpositions\is{postposition}. %also after poss, but before kin?
+A: word: tomi=ba	 gloss: Tomi=FOC
+B: word: kibis-un=ko	 gloss: shore-3POSS=LOC
+C: word: sap=ki=a	 gloss: stick=INS=FOC
+D: word: karek=ki=a	 gloss: string=INS=FOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 19:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mier pas kahen ___ min
+Gloss (with missing item): 3DU woman tall ___ sleep
+The English translation of this sentence is:`She and a tall woman are sleeping.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: (\ref{exe:kiafoc}) and~(\ref{exe:bonafoc}), together with~(\ref{exe:terques}) above, show that focus marker =a comes after postpositions\is{postposition}. %also after poss, but before kin?
+A: word: kon=bon	 gloss: one=\TEXTBF{COM}
+B: word: kon=a	 gloss: one=FOC
+C: word: naman=a	 gloss: who=FOC
+D: word: kon=bon=a	 gloss: one=COM=FOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 20:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mungkin dodon-un ___ neba=ko pue to semen=ko
+Gloss (with missing item): maybe clothes-3POSS ___ PH=LOC hit right concrete=LOC
+The English translation of this sentence is:`Maybe these clothes of his hit the whatsit, right, the concrete.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The clitic =ba is a secondary focus marker found only on demonstratives (example~\ref{exe:yuwaba}), proper names\is{names!personal names} (example~\ref{exe:tomib}), question word naman `who' and question word root tama (example~\ref{exe:puloro}). It is much rarer than =a. =ba is often, but not exclusively, used with questions.
+A: word: yuwa=ba	 gloss: PROX=FOC
+B: word: yuwa=at=a	 gloss: PROX=OBJ=FOC
+C: word: yuwa=at	 gloss: PROX=OBJ
+D: word: kon=bon=a	 gloss: one=COM=FOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 21:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wat na=ten yuwa naman=a yuwa [...] ___ ye
+Gloss (with missing item): coconut consume=AT PROX who=FOC PROX {} ___ or
+The English translation of this sentence is:`[Someone] who is drinking coconut here, who is this, Tomi?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The clitic =ba is a secondary focus marker found only on demonstratives (example~\ref{exe:yuwaba}), proper names\is{names!personal names} (example~\ref{exe:tomib}), question word naman `who' and question word root tama (example~\ref{exe:puloro}). It is much rarer than =a. =ba is often, but not exclusively, used with questions.
+A: word: kasur	 gloss: tomorrow
+B: word: di=baran	 gloss: CAUS=descend
+C: word: tamandi=a	 gloss: how=FOC
+D: word: tomi=ba	 gloss: Tomi=FOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 22:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): pulor opa ka tu=ta me ___ os-kadok
+Gloss (with missing item): betel_leaf DEM 2SG pound-TA TOP ___ beach-side
+The English translation of this sentence is:`That betel leaf that you were pounding, on which side is it, on the beach-side?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The clitic =ba is a secondary focus marker found only on demonstratives (example~\ref{exe:yuwaba}), proper names\is{names!personal names} (example~\ref{exe:tomib}), question word naman `who' and question word root tama (example~\ref{exe:puloro}). It is much rarer than =a. =ba is often, but not exclusively, used with questions.
+A: word: kon=bon=a	 gloss: one=COM=FOC
+B: word: tamatko=a	 gloss: where=FOC
+C: word: tama=ba-kadok	 gloss: where=FOC-side
+D: word: os-kadok	 gloss: beach-side
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+

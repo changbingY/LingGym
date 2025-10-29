@@ -1,0 +1,572 @@
+Question 0:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): teun ___
+Gloss (with missing item): fruit ___
+The English translation of this sentence is:`The fruits are bad.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Each verb licenses zero to three arguments\is{argument}. Verbs follow the subject and the object. There is no agreement marking on the verb.\footnote{Except for verbs in the imperative mood, which distinguish between singular and plural subjects (§\ref{sec:verbdistr}).} (\ref{exe:kalis}) contains a zero-intransitive clause without argument. (\ref{exe:monovstat}) has a monovalent stative verb and (\ref{exe:monov}) a monovalent active verb, each with one argument. (\ref{exe:biv}) shows a bivalent verb with its two arguments. (\ref{exe:triv}) contains a trivalent verb with its three arguments.\is{monovalent clause|see{intransitive clause}}\is{intransitive clause}\is{active verb}\is{bivalent clause|see{transitive clause}}\is{transitive clause}\is{trivalent clause|see{three-participant clause}}\is{three-participant clause}
+A: word: ten	 gloss: bad
+B: word: sem=ten=at	 gloss: afraid-ADJ=OBJ
+C: word: nak-puraman-i	 gloss: CLF_FRUIT1-how_many-OBJQNT
+D: word: kasian	 gloss: poor
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 1:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mu ___
+Gloss (with missing item): 3PL ___
+The English translation of this sentence is:`They run.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Each verb licenses zero to three arguments\is{argument}. Verbs follow the subject and the object. There is no agreement marking on the verb.\footnote{Except for verbs in the imperative mood, which distinguish between singular and plural subjects (§\ref{sec:verbdistr}).} (\ref{exe:kalis}) contains a zero-intransitive clause without argument. (\ref{exe:monovstat}) has a monovalent stative verb and (\ref{exe:monov}) a monovalent active verb, each with one argument. (\ref{exe:biv}) shows a bivalent verb with its two arguments. (\ref{exe:triv}) contains a trivalent verb with its three arguments.\is{monovalent clause|see{intransitive clause}}\is{intransitive clause}\is{active verb}\is{bivalent clause|see{transitive clause}}\is{transitive clause}\is{trivalent clause|see{three-participant clause}}\is{three-participant clause}
+A: word: kiem-an	 gloss: basket-1SG.POSS
+B: word: karuok-i	 gloss: three-OBJQNT
+C: word: istar	 gloss: start
+D: word: kiem	 gloss: run
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): emun tumun=at ___
+Gloss (with missing item): mother child=OBJ ___
+The English translation of this sentence is:`The mother takes the child by the hand.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Each verb licenses zero to three arguments\is{argument}. Verbs follow the subject and the object. There is no agreement marking on the verb.\footnote{Except for verbs in the imperative mood, which distinguish between singular and plural subjects (§\ref{sec:verbdistr}).} (\ref{exe:kalis}) contains a zero-intransitive clause without argument. (\ref{exe:monovstat}) has a monovalent stative verb and (\ref{exe:monov}) a monovalent active verb, each with one argument. (\ref{exe:biv}) shows a bivalent verb with its two arguments. (\ref{exe:triv}) contains a trivalent verb with its three arguments.\is{monovalent clause|see{intransitive clause}}\is{intransitive clause}\is{active verb}\is{bivalent clause|see{transitive clause}}\is{transitive clause}\is{trivalent clause|see{three-participant clause}}\is{three-participant clause}
+A: word: kasi	 gloss: give
+B: word: karuok-i	 gloss: three-OBJQNT
+C: word: narorar=i	 gloss: drag=PLNK
+D: word: narorar	 gloss: take_by_hand
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 3:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mu kawir-un=at mat ___
+Gloss (with missing item): 3PL hat-3POSS=OBJ 3SG.OBJ ___
+The English translation of this sentence is:`They showed him the hat.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Each verb licenses zero to three arguments\is{argument}. Verbs follow the subject and the object. There is no agreement marking on the verb.\footnote{Except for verbs in the imperative mood, which distinguish between singular and plural subjects (§\ref{sec:verbdistr}).} (\ref{exe:kalis}) contains a zero-intransitive clause without argument. (\ref{exe:monovstat}) has a monovalent stative verb and (\ref{exe:monov}) a monovalent active verb, each with one argument. (\ref{exe:biv}) its gloss ___s a bivalent verb with its two arguments. (\ref{exe:triv}) contains a trivalent verb with its three arguments.\is{monovalent clause|see{intransitive clause}}\is{intransitive clause}\is{active verb}\is{bivalent clause|see{transitive clause}}\is{transitive clause}\is{trivalent clause|see{three-participant clause}}\is{three-participant clause}
+A: word: naunak	 gloss: show
+B: word: tumun-an=at	 gloss: child-1SG.POSS=OBJ
+C: word: naunak=te	 gloss: show=IMP
+D: word: kasur	 gloss: tomorrow
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 4:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): in se ___ yecie
+Gloss (with missing item): 1PL.EXCL IAM ___ return
+The English translation of this sentence is:`We sailed back.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Verbs may be part of complex predicates (Chapter~\ref{ch:svc}). (\ref{exe:svc}) shows a directional construction, with the morpheme ___ `its gloss ___' and yecie `return' to express `its gloss ___ back'. (\ref{exe:svcmod}) combines a stative verb `be far' and a directional verb `descend' to form `go down far'.
+A: word: tiri∼tiri	 gloss: sail∼PROG
+B: word: yuwa	 gloss: PROX
+C: word: tiri	 gloss: sail
+D: word: fiber	 gloss: fibre_boat
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 5:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): in se tiri ___
+Gloss (with missing item): 1PL.EXCL IAM sail ___
+The English translation of this sentence is:`We sailed back.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Verbs may be part of complex predicates (Chapter~\ref{ch:svc}). (\ref{exe:svc}) shows a directional construction, with tiri `sail' and the morpheme ___ `its gloss ___' to express `sail back'. (\ref{exe:svcmod}) combines a stative verb `be far' and a directional verb `descend' to form `go down far'.
+A: word: yecie	 gloss: return
+B: word: ecie-p∼cie-p	 gloss: return-DISTR∼DISTR-DISTR
+C: word: ecien=i	 gloss: return=PLNK
+D: word: eir	 gloss: two
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 6:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma ___ baran
+Gloss (with missing item): 3SG ___ descend
+The English translation of this sentence is:`He goes down far.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Verbs may be part of complex predicates (Chapter~\ref{ch:svc}). (\ref{exe:svc}) shows a directional construction, with tiri `sail' and yecie `return' to express `sail back'. (\ref{exe:svcmod}) combines a stative verb `be far' and a directional verb `descend' to form `go down far'.
+A: word: langsung=i	 gloss: directly=PLNK
+B: word: kahen=i	 gloss: far=PLNK
+C: word: kahen=tun	 gloss: long=too
+D: word: wat	 gloss: coconut
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 7:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma kahen=i ___
+Gloss (with missing item): 3SG far=PLNK ___
+The English translation of this sentence is:`He goes down far.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Verbs may be part of complex predicates (Chapter~\ref{ch:svc}). (\ref{exe:svc}) shows a directional construction, with tiri `sail' and yecie `return' to express `sail back'. (\ref{exe:svcmod}) combines a stative verb `be far' and a directional verb `its gloss ___' to form `go down far'.
+A: word: tamandi=a	 gloss: how=FOC
+B: word: baran=taet	 gloss: descend=more
+C: word: nau=bes=tenden	 gloss: RECP=good=so
+D: word: baran	 gloss: descend
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 8:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ror ___
+Gloss (with missing item): wood ___
+The English translation of this sentence is:`cut wood (wood that is cut)'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: All verbs can be used attributively\is{attribute}, that is, modifying a noun in a noun phrase (NP). In attributive function, verbs can carry the attributive clitic =ten (§\ref{sec:attr}). A verb in post-nominal position can be a predicate, in which case it is bare, or it can be a modifier, in which case it carries =ten. Consider the contrast in~(\ref{exe:rorpotma}). In~(\ref{exe:rorpotma}a), the noun ror `wood' is incorporated in the verb potma `cut'. In~(\ref{exe:rorpotma}b), the verb paramua `cut' functions as a modifier of the noun and carries the attributive enclitic =ten.
+A: word: paramuan=ten	 gloss: cut=AT
+B: word: wat	 gloss: coconut
+C: word: paramuan	 gloss: cut
+D: word: kawotman	 gloss: cut
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 9:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ror ___
+Gloss (with missing item): wood ___
+The English translation of this sentence is:`cut wood (wood that is cut)'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: All verbs can be used attributively\is{attribute}, that is, modifying a noun in a noun phrase (NP). In attributive function, verbs can carry the attributive clitic =ten (§\ref{sec:attr}). A verb in post-nominal position can be a predicate, in which case it is bare, or it can be a modifier, in which case it carries =ten. Consider the contrast in~(\ref{exe:rorpotma}). In~(\ref{exe:rorpotma}a), the noun ror `wood' is incorporated in the verb potma `cut'. In~(\ref{exe:rorpotma}b), the verb paramua `cut' functions as a modifier of the noun and carries the attributive enclitic =ten.
+A: word: paramuan	 gloss: cut
+B: word: kawotman	 gloss: cut
+C: word: bot=kin	 gloss: go={\glkin}
+D: word: paramuan=ten	 gloss: cut=AT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 10:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ror ___
+Gloss (with missing item): wood ___
+The English translation of this sentence is:`cut wood (wood that is cut)'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: All verbs can be used attributively\is{attribute}, that is, modifying a noun in a noun phrase (NP). In attributive function, verbs can carry the attributive clitic =ten (§\ref{sec:attr}). A verb in post-nominal position can be a predicate, in which case it is bare, or it can be a modifier, in which case it carries =ten. Consider the contrast in~(\ref{exe:rorpotma}). In~(\ref{exe:rorpotma}a), the noun ror `wood' is incorporated in the verb potma `cut'. In~(\ref{exe:rorpotma}b), the verb paramua `cut' functions as a modifier of the noun and carries the attributive enclitic =ten.
+A: word: kawotman	 gloss: cut
+B: word: bolon-i	 gloss: little-OBJQNT
+C: word: paramuan=ten	 gloss: cut=AT
+D: word: paramuan	 gloss: cut
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 11:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tumun ___ ririn
+Gloss (with missing item): child ___ tall
+The English translation of this sentence is:`The running child is tall.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Consider also the contrast in~(\ref{exe:kiemden}), where the two verbs are either used in attributive function modifying the subject, or in predicative function.
+A: word: giar=ten	 gloss: new=AT
+B: word: yuwa	 gloss: PROX
+C: word: kiem=ten	 gloss: run=AT
+D: word: sem=ten=at	 gloss: afraid-ADJ=OBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 12:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ yuwa me warpas=a an=at melebor=ta
+Gloss (with missing item): ___ PROX TOP witch=FOC 1SG=OBJ move_to_side=NFIN
+The English translation of this sentence is:`As for me, the witch shoved me aside.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Pronouns cthe morpheme ___ substitute for a NP in subject the morpheme ___d object position. Like nouns, they cthe morpheme ___ be modified by, for example, a quthe morpheme ___tifier as in~(\ref{exe:inikon1}) or a demonstrative as in~(\ref{exe:warpas}).
+A: word: kibis-kadok=at	 gloss: shore-side=OBJ
+B: word: eir-gan	 gloss: two-all
+C: word: anggon=ki	 gloss: 1SG.POSS=INS
+D: word: an	 gloss: 1SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 13:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): an ___ me warpas=a an=at melebor=ta
+Gloss (with missing item): 1SG ___ TOP witch=FOC 1SG=OBJ move_to_side=NFIN
+The English translation of this sentence is:`As for me, the witch shoved me aside.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Pronouns can substitute for a NP in subject and object position. Like nouns, they can be modified by, for example, a quantifier as in~(\ref{exe:inikon1}) or a demonstrative as in~(\ref{exe:warpas}).
+A: word: yuwat	 gloss: PROX.OBJ
+B: word: wangga	 gloss: PROX.LAT
+C: word: waruo=teba	 gloss: wash={\glteba}
+D: word: yuwa	 gloss: PROX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 14:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma ___ na
+Gloss (with missing item): 3SG ___ consume
+The English translation of this sentence is:`He drinks his [one/drink].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Pronouns do not carry possessive morphology. Instead there is a paradigm of possessive pronouns which can be used pronominally as well as adnominally (§\ref{sec:possprons}. The paradigm is given in Table~\ref{tab:posspronk} and an example with a possessive pronoun in object position is given in~(\ref{exe:possobj}).
+A: word: main=at	 gloss: 3POSS=OBJ
+B: word: mu=at	 gloss: 3PL=OBJ
+C: word: kain=at	 gloss: 2SG.POSS=OBJ
+D: word: reidak	 gloss: many
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 15:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kewe=at ___ in paruo
+Gloss (with missing item): house=OBJ ___ 1PL.EXCL make
+The English translation of this sentence is:`Three houses we made.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: (\ref{exe:numattr}) has the quantifier karuok `four' as an adnominal modifier to kewe `house'. Quantifiers have a fixed position in the NP (§\ref{sec:nomphr}); they follow the noun and possessive suffix, and precede possessive pronouns. In~(\ref{exe:numnom}), the nominal referent is clear from the context, and so the quantifier eir `two' is the NP head.
+A: word: kansuor-i	 gloss: four-OBJQNT
+B: word: karuok-i	 gloss: three-OBJQNT
+C: word: kiem	 gloss: run
+D: word: wan-karuok-i	 gloss: time-three-OBJQNT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 16:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nau=namanghadap
+Gloss (with missing item): ___ REC=face
+The English translation of this sentence is:`Two [animals] face each other.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: (\ref{exe:numattr}) has the quantifier karuok `four' as an adnominal modifier to kewe `house'. Quantifiers have a fixed position in the NP (§\ref{sec:nomphr}); they follow the noun and possessive suffix, and precede possessive pronouns. In~(\ref{exe:numnom}), the nominal referent is clear from the context, and so the quantifier the morpheme ___ `its gloss ___' is the NP head.
+A: word: yecie	 gloss: return
+B: word: eir	 gloss: two
+C: word: un-deir=i	 gloss: REFL-bring=PLNK
+D: word: eir-gan	 gloss: two-all
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 17:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): in ___
+Gloss (with missing item): 1PL.EXCL ___
+The English translation of this sentence is:`We were many.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: (\ref{exe:inthe morpheme ___}) illustrates the use of quantifier the morpheme ___ `its gloss ___' in predicate function.
+A: word: ripi	 gloss: thousand
+B: word: reidak	 gloss: many
+C: word: reidak-i	 gloss: much-OBJQNT
+D: word: kiem	 gloss: run
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 18:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mingtun=at ___ ko=yuon
+Gloss (with missing item): palm_oil=OBJ ___ APPL=rub
+The English translation of this sentence is:`[You] rub a little palm oil on.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The suffix -i occurs on quantifiers in object\is{object} position, as illustrated in~(\ref{exe:mingtun}).
+A: word: bolon∼bolon=tun	 gloss: little∼INTS=INTS
+B: word: bolon-i	 gloss: little-OBJQNT
+C: word: ikon-i	 gloss: some-OBJQNT
+D: word: eir-gan	 gloss: two-all
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 19:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): som ___ pas kodak
+Gloss (with missing item): person ___ woman only_one
+The English translation of this sentence is:`Only one person, only one woman.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The suffix -tak `just, only' is illustrated in~(\ref{exe:the morpheme ___}). When suffixed to kon `one', it results in the morpheme ___ instead of the expected kondak.\footnote{Note the similarity of this suffix with the last part of the pronominal suffix -autak `alone', Chapter~\ref{ch:pron}, and the last part of reidak `many', example~\ref{exe:inreidak}.}
+A: word: koi	 gloss: again
+B: word: kodak-pis	 gloss: just_one-side
+C: word: sabar-kadok=a	 gloss: front-side=FOC
+D: word: kodak	 gloss: only_one
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 20:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): som kodak pas ___
+Gloss (with missing item): person only_one woman ___
+The English translation of this sentence is:`Only one person, only one woman.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The suffix -tak `just, only' is illustrated in~(\ref{exe:the morpheme ___}). When suffixed to kon `one', it results in the morpheme ___ instead of the expected kondak.\footnote{Note the similarity of this suffix with the last part of the pronominal suffix -autak `alone', Chapter~\ref{ch:pron}, and the last part of reidak `many', example~\ref{exe:inreidak}.}
+A: word: kodak-pis	 gloss: just_one-side
+B: word: kodak	 gloss: only_one
+C: word: tamandi=a	 gloss: how=FOC
+D: word: mamun=et	 gloss: leave=IRR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 21:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): in ___
+Gloss (with missing item): 1PL.EXCL ___
+The English translation of this sentence is:`We were many.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The suffix -tak `just, only' is illustrated in~(\ref{exe:kodak}). When suffixed to kon `one', it results in kodak instead of the expected kondak.\footnote{Note the similarity of this suffix with the last part of the pronominal suffix -autak `alone', Chapter~\ref{ch:pron}, and the last part of the morpheme ___ `its gloss ___', example~\ref{exe:inthe morpheme ___}.}
+A: word: reidak	 gloss: many
+B: word: ripi	 gloss: thousand
+C: word: kiem	 gloss: run
+D: word: reidak-i	 gloss: much-OBJQNT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 22:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): goni-kinkin kilo ___ Bulog yuwane
+Gloss (with missing item): sack-small kilo ___ Bulog PROX
+The English translation of this sentence is:`[It] comes in small sacks of fifteen kilos each, this Bulog rice.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Reduplication\is{reduplication} of numerals denotes distributivity (indicating that the number applies to each referent, or that the referents are divided into groups of the size the numeral indicates, \citealt{gil2013}). \is{distributive}Distributive numerals can be in attributive\is{attribute} function following the noun, as in~(\ref{exe:dstrbnum}), but may also be used predicatively. %predicative use: see q wc 2019, ror tebonggan pusun putkonkon.
+A: word: putkon_ba_ap∼ap=kin	 gloss: fifteen∼DISTR=POSS
+B: word: putkon=kin	 gloss: ten=POSS
+C: word: wat	 gloss: coconut
+D: word: kain=kin	 gloss: 2SG.POSS=POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 23:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kon=a ma tan-un=at ___ madong
+Gloss (with missing item): one=FOC 3SG hand-3POSS=OBJ ___ stretch
+The English translation of this sentence is:`One, he stretches out both his arms.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Numerals, including pronouns inflected with a numeral (§\ref{sec:wcprons}), can carry the suffix -gan `all'. This suffix is most commonly used with eir `two' to create eirgan `both', as in~(\ref{exe:eirgan}).
+A: word: mier-gan	 gloss: 3PL-both
+B: word: putkon_ba_ap∼ap=kin	 gloss: fifteen∼DISTR=POSS
+C: word: eir-gan	 gloss: two-all
+D: word: eir	 gloss: two
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 24:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma ___ paruo
+Gloss (with missing item): 3SG ___ make
+The English translation of this sentence is:`She made this.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The same root is used in all positions, as illustrated below for proximal wa. Wa and me as adnominal and pronominal demonstratives are infrequent; almost all corpus occurrences of wa and me are identificational. The three uses are illustrated in (\ref{exe:demad}) (adnominal), (\ref{exe:demad2}) (pronominal), (\ref{exe:demid}) (identificational in argument function) and~(\ref{exe:demidpred}) (identificational in predicate function). When used adnominally or identificationally in argument function, the demonstrative is almost invariably followed by me `\glme'.
+A: word: watko	 gloss: PROX.LOC
+B: word: wat	 gloss: PROX.OBJ
+C: word: yuwa=at	 gloss: PROX=OBJ
+D: word: yuwa	 gloss: PROX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 25:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ me yartep
+Gloss (with missing item): ___ TOP sardine
+The English translation of this sentence is:`This is a sardine.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The same root is used in all positions, as illustrated below for proximal the morpheme ___. Wa and me as adnominal and pronominal demonstratives are infrequent; almost all corpus occurrences of the morpheme ___ and me are identificational. The three uses are illustrated in (\ref{exe:demad}) (adnominal), (\ref{exe:demad2}) (pronominal), (\ref{exe:demid}) (identificational in argument function) and~(\ref{exe:demidpred}) (identificational in predicate function). When used adnominally or identificationally in argument function, the demonstrative is almost invariably followed by me `\glme'.
+A: word: ewa∼wa=in	 gloss: speak∼PROG=PROH
+B: word: wangga	 gloss: PROX.LAT
+C: word: wa	 gloss: PROX
+D: word: opa	 gloss: {\glopa}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 26:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): namun=a ___ kiun=a wa tumun-un=a wa
+Gloss (with missing item): husband.3POSS=FOC ___ wife.3POSS=FOC PROX child-3POSS=FOC PROX
+The English translation of this sentence is:`Her husband is this, his wife is this, their child is this.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The same root is used in all positions, as illustrated below for proximal the morpheme ___. Wa and me as adnominal and pronominal demonstratives are infrequent; almost all corpus occurrences of the morpheme ___ and me are identificational. The three uses are illustrated in (\ref{exe:demad}) (adnominal), (\ref{exe:demad2}) (pronominal), (\ref{exe:demid}) (identificational in argument function) and~(\ref{exe:demidpred}) (identificational in predicate function). When used adnominally or identificationally in argument function, the demonstrative is almost invariably followed by me `\glme'.
+A: word: ewa∼wa=in	 gloss: speak∼PROG=PROH
+B: word: wangga	 gloss: PROX.LAT
+C: word: wa	 gloss: PROX
+D: word: kodak	 gloss: only_one
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 27:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): namun=a wa kiun=a ___ tumun-un=a wa
+Gloss (with missing item): husband.3POSS=FOC PROX wife.3POSS=FOC ___ child-3POSS=FOC PROX
+The English translation of this sentence is:`Her husband is this, his wife is this, their child is this.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The same root is used in all positions, as illustrated below for proximal the morpheme ___. Wa and me as adnominal and pronominal demonstratives are infrequent; almost all corpus occurrences of the morpheme ___ and me are identificational. The three uses are illustrated in (\ref{exe:demad}) (adnominal), (\ref{exe:demad2}) (pronominal), (\ref{exe:demid}) (identificational in argument function) and~(\ref{exe:demidpred}) (identificational in predicate function). When used adnominally or identificationally in argument function, the demonstrative is almost invariably followed by me `\glme'.
+A: word: wangga	 gloss: PROX.LAT
+B: word: eir-gan	 gloss: two-all
+C: word: wa	 gloss: PROX
+D: word: ewa∼wa=in	 gloss: speak∼PROG=PROH
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 28:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): namun=a wa kiun=a wa tumun-un=a ___
+Gloss (with missing item): husband.3POSS=FOC PROX wife.3POSS=FOC PROX child-3POSS=FOC ___
+The English translation of this sentence is:`Her husband is this, his wife is this, their child is this.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The same root is used in all positions, as illustrated below for proximal the morpheme ___. Wa and me as adnominal and pronominal demonstratives are infrequent; almost all corpus occurrences of the morpheme ___ and me are identificational. The three uses are illustrated in (\ref{exe:demad}) (adnominal), (\ref{exe:demad2}) (pronominal), (\ref{exe:demid}) (identificational in argument function) and~(\ref{exe:demidpred}) (identificational in predicate function). When used adnominally or identificationally in argument function, the demonstrative is almost invariably followed by me `\glme'.
+A: word: wa	 gloss: PROX
+B: word: baran	 gloss: descend
+C: word: ewa∼wa=in	 gloss: speak∼PROG=PROH
+D: word: wangga	 gloss: PROX.LAT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 29:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma tama ka bo minggalot-an ___ komere
+Gloss (with missing item): 3SG where 2SG go bedroom-1SG.POSS ___ look
+The English translation of this sentence is:`Where is it? You go look in my bedroom down there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \is{demonstrative!elevational}elevationals the morpheme ___ `\textsc{down}' and osa `\textsc{up}' can only be used adnominally and identificationally. This is illustrated for the morpheme ___ `\textsc{down}' in~(\ref{exe:the morpheme ___kom}) (adnominal) and~(\ref{exe:lempthe morpheme ___}) (identificational).
+A: word: kacang	 gloss: beans
+B: word: karuok-i	 gloss: three-OBJQNT
+C: word: yawetko	 gloss: DOWN.LOC
+D: word: yawe	 gloss: DOWN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 30:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): lempuang ___
+Gloss (with missing item): island ___
+The English translation of this sentence is:`The island is down there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \is{demonstrative!elevational}elevationals the morpheme ___ `\textsc{down}' and osa `\textsc{up}' can only be used adnominally and identificationally. This is illustrated for the morpheme ___ `\textsc{down}' in~(\ref{exe:the morpheme ___kom}) (adnominal) and~(\ref{exe:lempthe morpheme ___}) (identificational).
+A: word: yawetko	 gloss: DOWN.LOC
+B: word: yawe	 gloss: DOWN
+C: word: lebe	 gloss: exceed
+D: word: wat	 gloss: coconut
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 31:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): udang ___ ka kuet=nin
+Gloss (with missing item): lobster ___ 2SG get=NEG
+The English translation of this sentence is:`Didn't you get that lobster (we talked about earlier)?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Finally, there is a demonstrative the morpheme ___, which is always used adnominally. It signals that a referent represents shared knowledge between the speaker and addressee. This demonstrative is further described in §\ref{sec:demthe morpheme ___} and~\textcite{visser2020}. An example is given in~(\ref{exe:udangthe morpheme ___}).
+A: word: eir	 gloss: two
+B: word: war=kin	 gloss: fish={\glkin}
+C: word: opa	 gloss: {\glopa}
+D: word: opa_yuwa	 gloss: today
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 32:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mu ___ koi yal
+Gloss (with missing item): 3PL ___ again paddle
+The English translation of this sentence is:`They already paddled again.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The following examples illustrate post-subject iamitive the morpheme ___ and koi `again' in (\ref{exe:hekoi}), clauthe morpheme ___-final reon `maybe' in (\ref{exe:gongreon}), clauthe morpheme ___-initial temporal adverbials and progressive =teba and volitional =kin on the predicate in (\ref{exe:kasurm}).
+A: word: ten	 gloss: bad
+B: word: kodak	 gloss: only_one
+C: word: sem=ten=at	 gloss: afraid-ADJ=OBJ
+D: word: se	 gloss: IAM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 33:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mu se ___ yal
+Gloss (with missing item): 3PL IAM ___ paddle
+The English translation of this sentence is:`They already paddled again.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The following examples illustrate post-subject iamitive se and the morpheme ___ `its gloss ___' in (\ref{exe:hethe morpheme ___}), clause-final reon `maybe' in (\ref{exe:gongreon}), clause-initial temporal adverbials and progressive =teba and volitional =kin on the predicate in (\ref{exe:kasurm}).
+A: word: koup	 gloss: hug
+B: word: koi	 gloss: again
+C: word: eba	 gloss: then
+D: word: bot=kin	 gloss: go={\glkin}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 34:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma toni ___ an dodon waruo=teba kasur mu kolak=ka bot=kin
+Gloss (with missing item): 3SG say ___ 1SG clothes wash={\glteba} tomorrow 3PL mountain=LAT go={\glkin}
+The English translation of this sentence is:`She said: ``Today I'm washing clothes.'' Tomorrow they want to go to the mountains.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The following examples illustrate post-subject iamitive se and koi `again' in (\ref{exe:hekoi}), clause-final reon `maybe' in (\ref{exe:gongreon}), clause-initial temporal adverbials and progressive =teba and volitional =kin on the predicate in (\ref{exe:kasurm}).
+A: word: wis	 gloss: yesterday
+B: word: yuwa	 gloss: PROX
+C: word: bolon-i	 gloss: little-OBJQNT
+D: word: opa_yuwa	 gloss: today
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 35:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma toni opa_yuwa an dodon ___ kasur mu kolak=ka bot=kin
+Gloss (with missing item): 3SG say today 1SG clothes ___ tomorrow 3PL mountain=LAT go={\glkin}
+The English translation of this sentence is:`She said: ``Today I'm washing clothes.'' Tomorrow they want to go to the mountains.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The following examples illustrate post-subject iamitive se and koi `again' in (\ref{exe:hekoi}), clause-final reon `maybe' in (\ref{exe:gongreon}), clause-initial temporal adverbials and progressive =teba and volitional =kin on the predicate in (\ref{exe:kasurm}).
+A: word: don-nabaca=teba	 gloss: thing-read={\glteba}
+B: word: naluar=teba	 gloss: slacken=\glteba
+C: word: koi	 gloss: again
+D: word: waruo=teba	 gloss: wash={\glteba}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 36:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma toni opa_yuwa an dodon waruo=teba ___ mu kolak=ka bot=kin
+Gloss (with missing item): 3SG say today 1SG clothes wash={\glteba} ___ 3PL mountain=LAT go={\glkin}
+The English translation of this sentence is:`She said: ``Today I'm washing clothes.'' Tomorrow they want to go to the mountains.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The following examples illustrate post-subject iamitive se and koi `again' in (\ref{exe:hekoi}), clause-final reon `maybe' in (\ref{exe:gongreon}), clause-initial temporal adverbials and progressive =teba and volitional =kin on the predicate in (\ref{exe:the morpheme ___m}).
+A: word: kasur=et	 gloss: tomorrow=IRR
+B: word: kasur	 gloss: tomorrow
+C: word: yawe	 gloss: DOWN
+D: word: tum∼tum	 gloss: child∼PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 37:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma toni opa_yuwa an dodon waruo=teba kasur mu kolak=ka ___
+Gloss (with missing item): 3SG say today 1SG clothes wash={\glteba} tomorrow 3PL mountain=LAT ___
+The English translation of this sentence is:`She said: ``Today I'm washing clothes.'' Tomorrow they want to go to the mountains.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The following examples illustrate post-subject iamitive se and koi `again' in (\ref{exe:hekoi}), clause-final reon `maybe' in (\ref{exe:gongreon}), clause-initial temporal adverbials and progressive =teba and volitional =kin on the predicate in (\ref{exe:kasurm}).
+A: word: bot=kin	 gloss: go={\glkin}
+B: word: bo=te	 gloss: go={\glte}
+C: word: kewe-paruot=kin	 gloss: house-make=VOL
+D: word: eir	 gloss: two
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 38:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ema ___
+Gloss (with missing item): mother ___
+The English translation of this sentence is:`Where is mother?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Tamangga `to/from its gloss ___' and the morpheme ___ `its gloss ___' are formed with tama plus the lative or the locative enclitic, respectively (for the morphosyntax see §\ref{sec:problems}). They have verbal properties. Tamangga, like other words carrying lative =ka, is primarily used in \is{predicate!complex} complex predicates (see Chapter~\ref{ch:svc}), for example with jie `get' in~(\ref{exe:tamjie}). Tamatko, like other words carrying locative =ko, is usually in predicate function. It can stand on its own, as illustrated in~(\ref{exe:the morpheme ___}), or be accompanied by another verb. A short form of the morpheme ___ is tama. These suffixes are also described in §\ref{sec:lat} and~\ref{sec:loc}.\is{question word}\is{location}
+A: word: tamatko	 gloss: where
+B: word: tamatko=et	 gloss: where=IRR
+C: word: paramuan=ten	 gloss: cut=AT
+D: word: kol	 gloss: outside
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 39:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): din saerak in ___ lampur=at komele
+Gloss (with missing item): fire NEG_EXIST 1PL.EXCL ___ lamp=OBJ burn
+The English translation of this sentence is:`There was no fire, how could we burn the lamps?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Tamandi is an adverbial question word. It is illustrated modifying komele `burn' in~(\ref{exe:qadv}), and paruo `do' in~(\ref{exe:babut}) below. In addition, it is used as a \is{greeting}greeting with the meaning `how are you doing?'. It seems to contain the suffix -ndi, which is also found on manner demonstratives (§\ref{sec:mqqd}).
+A: word: tamatko=a	 gloss: where=FOC
+B: word: tamandi=kin	 gloss: how=VOL
+C: word: tamandi=a	 gloss: how=FOC
+D: word: kiem=ten	 gloss: run=AT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 40:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma muawese ___ ma tamandi paruot=et
+Gloss (with missing item): 3SG hungry ___ 3SG how do=IRR
+The English translation of this sentence is:`He's hungry but what can he do?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Tamandi is an adverbial question word. It is illustrated modifying komele `burn' in~(\ref{exe:qadv}), and paruo `do' in~(\ref{exe:the morpheme ___its gloss ___}) below. In addition, it is used as a \is{greeting}greeting with the meaning `how are you doing?'. It seems to contain the suffix -ndi, which is also found on manner demonstratives (§\ref{sec:mqqd}).
+A: word: ba	 gloss: but
+B: word: nabestai	 gloss: well
+C: word: naluar=teba	 gloss: slacken=\glteba
+D: word: yuwa	 gloss: PROX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 41:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wat ___ mindi kajie
+Gloss (with missing item): coconut ___ like_that pick
+The English translation of this sentence is:`How many coconuts did [we] pick like that?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Puraman `how many' replaces a quantifier. (\ref{exe:pel}) illustrates puraman following a classifier (§\ref{sec:clf}).
+A: word: putkon_ba_ap∼ap=kin	 gloss: fifteen∼DISTR=POSS
+B: word: tep-eir	 gloss: CLF_FRUIT2-two
+C: word: taraman-kodak	 gloss: fathom-just_one
+D: word: nak-puraman-i	 gloss: CLF_FRUIT1-how_many-OBJQNT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 42:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma muawese ___ ma tamandi paruot=et
+Gloss (with missing item): 3SG hungry ___ 3SG how do=IRR
+The English translation of this sentence is:`He's hungry but what can he do?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ba `its gloss ___' is an adversative coordinator\is{conjunction!adversative}, as illustrated in~(\ref{exe:the morpheme ___its gloss ___}). It is also used to conjoin numerals\is{numeral} between 11 and 29, as described in §\ref{sec:cardnum}.
+A: word: yawe	 gloss: DOWN
+B: word: ba	 gloss: but
+C: word: naluar=teba	 gloss: slacken=\glteba
+D: word: nabestai	 gloss: well
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 43:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): saban potmat=et ___ kanggaran paruot=et
+Gloss (with missing item): bamboo cut=IRR ___ bamboo_floor make=IRR
+The English translation of this sentence is:`[One] cuts bamboo, then [one] makes the bamboo floor.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Eba `its gloss ___' is used to connect two clauses that refer to sequential events\is{conjunction!sequential}. Intonationally, it belongs to the second clause. Koi `its gloss ___' also expresses sequential meaning, but is often placed after the subject, although it can also be clause-initial when the subject is elided. There is no restriction on the combination of eba and the morpheme ___. (\ref{exe:eba}) illustrates post-subject the morpheme ___ and eba. (\ref{exe:the morpheme ___cllnk}) illustrates the morpheme ___ clause-initially in an example where there is no subject because it is from a procedural text explaining how to build a traditional house. Koi is also an adverbial that means `again', see §\ref{sec:wcadv}.
+A: word: koi	 gloss: then
+B: word: tapi	 gloss: but
+C: word: koup	 gloss: hug
+D: word: baran	 gloss: descend
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+

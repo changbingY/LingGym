@@ -1,0 +1,429 @@
+Question 0:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): an ___ kawotman ma main=ki kawotman
+Gloss (with missing item): 1SG ___ cut 3SG 3POSS=INS cut
+The English translation of this sentence is:`I cut with mine, he cuts with his.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: At least the basic pronouns, the -tain series of restricting pronouns and possessive pronouns can be marked with the following clitics in different syntactic and pragmatic roles: object =at (§\ref{sec:at}), \is{causative}causative di= (in give-constructions, §\ref{sec:give}), comitative =bon (§\ref{sec:comi}) and similative =kap (§\ref{sec:simcase}). Lative =ka and locative =ko cannot be suffixed to pronouns, having dedicated animate forms instead that can be used with pronouns referring to animates: =kongga and =konggo, respectively (§\ref{sec:animloclat}). Benefactive marker =ki is the only case enclitic that cannot be attached to pronouns (see §\ref{sec:give}). An instance of instrumental =ki was elicited, see~(\ref{exe:anggonggi}). The comitative and similative postpositions\is{postposition!on pronouns} are illustrated in~(\ref{exe:proncom}) and~(\ref{exe:pronkap}), respectively.
+A: word: anggon=ki	 gloss: 1SG.POSS=INS
+B: word: kain=kin	 gloss: 2SG.POSS=POSS
+C: word: keca=bon	 gloss: Keca=COM
+D: word: anggon=at	 gloss: 1SG.POSS=OBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 1:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): an anggon=ki kawotman ma ___ kawotman
+Gloss (with missing item): 1SG 1SG.POSS=INS cut 3SG ___ cut
+The English translation of this sentence is:`I cut with mine, he cuts with his.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: At least the basic pronouns, the -tain series of restricting pronouns and possessive pronouns can be marked with the following clitics in different syntactic and pragmatic roles: object =at (§\ref{sec:at}), \is{causative}causative di= (in give-constructions, §\ref{sec:give}), comitative =bon (§\ref{sec:comi}) and similative =kap (§\ref{sec:simcase}). Lative =ka and locative =ko cannot be suffixed to pronouns, having dedicated animate forms instead that can be used with pronouns referring to animates: =kongga and =konggo, respectively (§\ref{sec:animloclat}). Benefactive marker =ki is the only case enclitic that cannot be attached to pronouns (see §\ref{sec:give}). An instance of instrumental =ki was elicited, see~(\ref{exe:anggonggi}). The comitative and similative postpositions\is{postposition!on pronouns} are illustrated in~(\ref{exe:proncom}) and~(\ref{exe:pronkap}), respectively.
+A: word: main=ki	 gloss: 3POSS=INS
+B: word: main=ko	 gloss: 3POSS=LOC
+C: word: keca=bon	 gloss: Keca=COM
+D: word: muin	 gloss: 3POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 2:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mu se yal ___
+Gloss (with missing item): 3PL IAM paddle ___
+The English translation of this sentence is:`They paddled with him alone.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: At least the basic pronouns, the -tain series of restricting pronouns and possessive pronouns can be marked with the following clitics in different syntactic and pragmatic roles: object =at (§\ref{sec:at}), \is{causative}causative di= (in give-constructions, §\ref{sec:give}), comitative =bon (§\ref{sec:comi}) and similative =kap (§\ref{sec:simcase}). Lative =ka and locative =ko cannot be suffixed to pronouns, having dedicated animate forms instead that can be used with pronouns referring to animates: =kongga and =konggo, respectively (§\ref{sec:animloclat}). Benefactive marker =ki is the only case enclitic that cannot be attached to pronouns (see §\ref{sec:give}). An instance of instrumental =ki was elicited, see~(\ref{exe:anggonggi}). The comitative and similative postpositions\is{postposition!on pronouns} are illustrated in~(\ref{exe:proncom}) and~(\ref{exe:pronkap}), respectively.
+A: word: in=bon	 gloss: 1PL.EXCL=COM
+B: word: emun	 gloss: mother.3POSS
+C: word: ma-tain	 gloss: 3SG-alone
+D: word: marain=bon	 gloss: 3SG.ALONE=COM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 3:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): me sama=i nain ___
+Gloss (with missing item): DIST same=PLNK like ___
+The English translation of this sentence is:`That's the same as me.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: At least the basic pronouns, the -tain series of restricting pronouns and possessive pronouns can be marked with the following clitics in different syntactic and pragmatic roles: object =at (§\ref{sec:at}), \is{causative}causative di= (in give-constructions, §\ref{sec:give}), comitative =bon (§\ref{sec:comi}) and similative =kap (§\ref{sec:simcase}). Lative =ka and locative =ko cannot be suffixed to pronouns, having dedicated animate forms instead that can be used with pronouns referring to animates: =kongga and =konggo, respectively (§\ref{sec:animloclat}). Benefactive marker =ki is the only case enclitic that cannot be attached to pronouns (see §\ref{sec:give}). An instance of instrumental =ki was elicited, see~(\ref{exe:anggonggi}). The comitative and similative postpositions\is{postposition!on pronouns} are illustrated in~(\ref{exe:proncom}) and~(\ref{exe:pronkap}), respectively.
+A: word: an=kap	 gloss: 1SG=SIM
+B: word: an=a	 gloss: 1SG=FOC
+C: word: et-purir-kon=kap	 gloss: CLF_AN-twenty-approximately=SIM
+D: word: keca=bon	 gloss: Keca=COM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 4:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): an ___ naluar=teba
+Gloss (with missing item): 1SG ___ slacken=\glteba
+The English translation of this sentence is:`I'm slackening mine.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: All pronouns in Table~\ref{tab:pronouns} must carry object marker =at when they function as the (direct or indirect) object of a clause. (\ref{exe:bandrol}) and~(\ref{exe:naluar}) illustrate different kinds of pronouns in object function.
+A: word: anggon=at	 gloss: 1SG.POSS=OBJ
+B: word: kain=at	 gloss: 2SG.POSS=OBJ
+C: word: anggon=at=a	 gloss: 1SG.POSS=OBJ=FOC
+D: word: ma=nan	 gloss: 3SG=too
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 5:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ koyan amdir-un=ko
+Gloss (with missing item): ___ plant garden-3POSS=LOC
+The English translation of this sentence is:`He also plants in the garden.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Other nominal morphology that is also carried by pronouns is =nan `too', illustrated in~(\ref{exe:pronnan}).
+A: word: ka=taet	 gloss: 2SG=again
+B: word: ma=nan	 gloss: 3SG=too
+C: word: mu=nan	 gloss: 3PL=too
+D: word: an-tain=a	 gloss: 1SG-alone=FOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 6:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ki-mun ___ ewa∼wa=in
+Gloss (with missing item): 2PL-PROH ___ speak∼PROG=PROH
+The English translation of this sentence is:`Don't you guys speak to us!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In all pronominal paradigms, there is a distinction between inclusive and exclusive forms. Forms containing in are first-person exclusive (referring to the speaker and other people, excluding the addressee), while forms containing pi are inclusive (referring to the speaker and the addressee, and (an)other person(s)). The dual form inier refers to the speaker and another person, and the dual form pier refers to the speaker and the addressee. Clusivity is illustrated for the basic pronouns in~(\ref{exe:kimuninbon}) and~(\ref{exe:pibuokbuok}).\footnote{Contra the preliminary analysis of the Kalamang pronominal system in \textcite{visser2016}, clusivity is a well-established distinction in Kalamang.}
+A: word: in=bon	 gloss: 1PL.EXCL=COM
+B: word: ma-hutak	 gloss: 3SG-alone
+C: word: marain=bon	 gloss: 3SG.ALONE=COM
+D: word: in=nan	 gloss: 1PL.EXCL=too
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 7:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ buokbuok=et eba pi garung=et
+Gloss (with missing item): ___ chew_betel=IRR then 1PL.INCL talk=IRR
+The English translation of this sentence is:`We chew betel and then we talk.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In all pronominal paradigms, there is a distinction between inclusive and exclusive forms. Forms containing in are first-person exclusive (referring to the speaker and other people, excluding the addressee), while forms containing the morpheme ___ are inclusive (referring to the speaker and the addressee, and (an)other person(s)). The dual form inier refers to the speaker and another person, and the dual form the morpheme ___er refers to the speaker and the addressee. Clusivity is illustrated for the basic pronouns in~(\ref{exe:kimuninbon}) and~(\ref{exe:the morpheme ___buokbuok}).\footnote{Contra the preliminary analysis of the Kalamang pronominal system in \textcite{visser2016}, clusivity is a well-established distinction in Kalamang.}
+A: word: pi	 gloss: 1PL.INCL
+B: word: elak-pis	 gloss: down-\textbf{side}
+C: word: ar-kon	 gloss: CLF_STEM-one
+D: word: in=bon	 gloss: 1PL.EXCL=COM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 8:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): pi buokbuok=et eba ___ garung=et
+Gloss (with missing item): 1PL.INCL chew_betel=IRR then ___ talk=IRR
+The English translation of this sentence is:`We chew betel and then we talk.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In all pronominal paradigms, there is a distinction between inclusive and exclusive forms. Forms containing in are first-person exclusive (referring to the speaker and other people, excluding the addressee), while forms containing the morpheme ___ are inclusive (referring to the speaker and the addressee, and (an)other person(s)). The dual form inier refers to the speaker and another person, and the dual form the morpheme ___er refers to the speaker and the addressee. Clusivity is illustrated for the basic pronouns in~(\ref{exe:kimuninbon}) and~(\ref{exe:the morpheme ___buokbuok}).\footnote{Contra the preliminary analysis of the Kalamang pronominal system in \textcite{visser2016}, clusivity is a well-established distinction in Kalamang.}
+A: word: elak-pis	 gloss: down-\textbf{side}
+B: word: in-ahutak	 gloss: 1PL.EXCL-alone
+C: word: pi	 gloss: 1PL.INCL
+D: word: naras∼naras=in	 gloss: fight∼RED=PROH
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 9:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ et-putkaruok koluk
+Gloss (with missing item): ___ CLF_AN-thirteen find
+The English translation of this sentence is:`We caught thirteen pieces.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Dual number is created by suffixing -ier to the basic pronouns. This might be a metathesis\is{metathesis} of eir `two'. Dual forms are not obligatory, but are used in the great majority of the cases where a pronoun refers to two referents. When there are more than two referents, the speaker can choose between a basic pronoun with or without a suffixed \is{numeral}numeral. The higher the number of referents, the lower the share of pronouns with a suffixed numeral.\footnote{This observation is impressionistic. It is based on a corpus search for pronouns with a suffixed numeral. A confounding factor is that lower numerals are more common than higher numerals.} (\ref{exe:mier}) shows dual number, and~(\ref{exe:munggansuor}) shows the numeral kansuor `four' suffixed to the third-person plural.\is{metathesis}\is{number!pronominal}
+A: word: keca=bon	 gloss: Keca=COM
+B: word: di=saran	 gloss: CAUS=ascend
+C: word: inier	 gloss: 1DU.EX
+D: word: in-ininggan	 gloss: 1PL.EXCL-all
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 10:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kon eir karuok kansuor ___ melelu
+Gloss (with missing item): one two three four ___ sit
+The English translation of this sentence is:`One, two, three, four, they six sit.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Although suffixing a numeral to a pronoun is less and less common the higher the number of referents, there are several instances in the corpus where speakers count the number of referents to make sure they refer to them in the correct way (as in~\ref{exe:muraman}, where the number of people in a picture is counted), or check with their addressee whether they are referring to the correct number of people, as in~(\ref{exe:mupuraman}). In~(\ref{exe:muraman}) it is unclear whether raman=a should be analysed as a suffix to the pronoun or as an independent numeral, but since the corpus contains examples with `two', `three' and `four' that are suffixed, I take it that `six' is, too.
+A: word: ma-hutak	 gloss: 3SG-alone
+B: word: tamandi=a	 gloss: how=FOC
+C: word: naman=a	 gloss: who=FOC
+D: word: mu-raman=a	 gloss: 3PL-six=FOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 11:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kon eir karuok kansuor ___ melelu
+Gloss (with missing item): one two three four ___ sit
+The English translation of this sentence is:`One, two, three, four, they six sit.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Although suffixing a numeral to a pronoun is less and less common the higher the number of referents, there are several instances in the corpus where speakers count the number of referents to make sure they refer to them in the correct way (as in~\ref{exe:muraman}, where the number of people in a picture is counted), or check with their addressee whether they are referring to the correct number of people, as in~(\ref{exe:mupuraman}). In~(\ref{exe:muraman}) it is unclear whether raman=a should be analysed as a suffix to the pronoun or as an independent numeral, but since the corpus contains examples with `two', `three' and `four' that are suffixed, I take it that `six' is, too.
+A: word: tamandi=a	 gloss: how=FOC
+B: word: naman=a	 gloss: who=FOC
+C: word: nyong	 gloss: Nyong
+D: word: mu-raman=a	 gloss: 3PL-six=FOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 12:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ Keca=bon bo war=kin
+Gloss (with missing item): ___ Keca=COM go fish={\glkin}
+The English translation of this sentence is:`Me and Keca wanted to go fishing.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A common construction with the morpheme ___, which includes the speaker, is the morpheme ___ N=bon, literally `we two and X'. Rather than referring to three people, it refers to the speaker and X, as illustrated in~(\ref{exe:the morpheme ___bon}). This is what \textcite{singer2001} refers to as an inclusory construction.
+A: word: inier	 gloss: 1DU.EX
+B: word: in-ininggan	 gloss: 1PL.EXCL-all
+C: word: kahen	 gloss: tall
+D: word: keca=bon	 gloss: Keca=COM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 13:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): inier ___ bo war=kin
+Gloss (with missing item): 1DU.EX ___ go fish={\glkin}
+The English translation of this sentence is:`Me and Keca wanted to go fishing.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A common construction with inier, which includes the speaker, is inier N=bon, literally `we two and X'. Rather than referring to three people, it refers to the speaker and X, as illustrated in~(\ref{exe:inierbon}). This is what \textcite{singer2001} refers to as an inclusory construction.
+A: word: inier	 gloss: 1DU
+B: word: ma=bon	 gloss: 3SG=COM
+C: word: keca=bon	 gloss: Keca=COM
+D: word: luis=bon	 gloss: Luis=COM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 14:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ taikonggo kiun taikonggo
+Gloss (with missing item): ___ side.LOC wife.3POSS side.LOC
+The English translation of this sentence is:`He (alone/himself) on one side, his wife on the other side.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: (\ref{exe:marain}) and~(\ref{exe:andain}) illustrate the -tain series with restrictive or contrastive focus\is{pronoun!focus}. In~(\ref{exe:marain}), where people describe a picture from the Family problems picture task\is{picture-matching task} \parencite{carroll2009}, there are clearly more referents to choose from, but the speaker wishes to focus on `him alone'. In~(\ref{exe:andain}), from the same recording, the speaker explains that the man in the task, who has come out of jail and has become a better person, improved himself on his own. There were perhaps more candidates for the source of his improvement, but the speaker wishes to convey that the man did it all alone. Strikingly, -tain pronouns often co-occur with the focus enclitic =a.
+A: word: ma-tain	 gloss: 3SG-alone
+B: word: anggon=at	 gloss: 1SG.POSS=OBJ
+C: word: ka-tain=a	 gloss: 2SG-alone=FOC
+D: word: ka-hutak	 gloss: 2SG-alone
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 15:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ paruo
+Gloss (with missing item): ___ do
+The English translation of this sentence is:`It was I who did it.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: (\ref{exe:marain}) and~(\ref{exe:andain}) illustrate the -tain series with restrictive or contrastive focus\is{pronoun!focus}. In~(\ref{exe:marain}), where people describe a picture from the Family problems picture task\is{picture-matching task} \parencite{carroll2009}, there are clearly more referents to choose from, but the speaker wishes to focus on `him alone'. In~(\ref{exe:andain}), from the same recording, the speaker explains that the man in the task, who has come out of jail and has become a better person, improved himself on his own. There were perhaps more candidates for the source of his improvement, but the speaker wishes to convey that the man did it all alone. Strikingly, -tain pronouns often co-occur with the focus enclitic =a.
+A: word: ka-tain=a	 gloss: 2SG-alone=FOC
+B: word: an-tain=a	 gloss: 1SG-alone=FOC
+C: word: marain=bon	 gloss: 3SG.ALONE=COM
+D: word: kewe=ko	 gloss: house=LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 16:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ taikonggo kiun taikonggo
+Gloss (with missing item): ___ side.LOC wife.3POSS side.LOC
+The English translation of this sentence is:`He (alone/himself) on one side, his wife on the other side.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: (\ref{exe:marain}) and~(\ref{exe:andain}) illustrate the -tain series with restrictive or contrastive focus\is{pronoun!focus}. In~(\ref{exe:marain}), where people describe a picture from the Family problems picture task\is{picture-matching task} \parencite{carroll2009}, there are clearly more referents to choose from, but the speaker wishes to focus on `him alone'. In~(\ref{exe:andain}), from the same recording, the speaker explains that the man in the task, who has come out of jail and has become a better person, improved himself on his own. There were perhaps more candidates for the source of his improvement, but the speaker wishes to convey that the man did it all alone. Strikingly, -tain pronouns often co-occur with the focus enclitic =a.
+A: word: ka-hutak	 gloss: 2SG-alone
+B: word: ma-tain	 gloss: 3SG-alone
+C: word: ka-tain=a	 gloss: 2SG-alone=FOC
+D: word: an-tain=a	 gloss: 1SG-alone=FOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 17:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ paruo
+Gloss (with missing item): ___ do
+The English translation of this sentence is:`It was I who did it.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: (\ref{exe:marain}) and~(\ref{exe:andain}) illustrate the -tain series with restrictive or contrastive focus\is{pronoun!focus}. In~(\ref{exe:marain}), where people describe a picture from the Family problems picture task\is{picture-matching task} \parencite{carroll2009}, there are clearly more referents to choose from, but the speaker wishes to focus on `him alone'. In~(\ref{exe:andain}), from the same recording, the speaker explains that the man in the task, who has come out of jail and has become a better person, improved himself on his own. There were perhaps more candidates for the source of his improvement, but the speaker wishes to convey that the man did it all alone. Strikingly, -tain pronouns often co-occur with the focus enclitic =a.
+A: word: goni-kinkin	 gloss: sack-small
+B: word: an-tain=a	 gloss: 1SG-alone=FOC
+C: word: ka-tain=a	 gloss: 2SG-alone=FOC
+D: word: ma-hutak	 gloss: 3SG-alone
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 18:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ se un-deir=i luk
+Gloss (with missing item): ___ IAM REFL-bring=PLNK come
+The English translation of this sentence is:`She came herself.' (Lit. `She brought herself coming.')
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The -tain series may also be used in \is{reflexive}reflexive constructions, as in~(\ref{exe:undeirii}). See §\ref{sec:rflx} for a further description.
+A: word: ma-tain	 gloss: 3SG-alone
+B: word: nyong	 gloss: Nyong
+C: word: ka-tain=a	 gloss: 2SG-alone=FOC
+D: word: ka-hutak	 gloss: 2SG-alone
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 19:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ watko ewa=te
+Gloss (with missing item): ___ PROX.LOC speak=IMP
+The English translation of this sentence is:`You talk on your own here!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: (\ref{exe:kahutak}) and~(\ref{exe:mahutak}) illustrate the quantifying -(a)hutak series\is{pronoun!quantifying}. In~(\ref{exe:kahutak}), one speaker leaves the other during a recording session and orders her to speak further on her own. There are no others around, so the speaker is really only talking about the addressee. In~(\ref{exe:mahutak}), people are discussing a picture with a girl named Ramina on it, and no-one else.
+A: word: ma-tain	 gloss: 3SG-alone
+B: word: ma-hutak	 gloss: 3SG-alone
+C: word: inier	 gloss: 1DU
+D: word: ka-hutak	 gloss: 2SG-alone
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 20:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ramina ___ bara
+Gloss (with missing item): Ramina ___ descend
+The English translation of this sentence is:`Ramina alone is coming back.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: (\ref{exe:kahutak}) and~(\ref{exe:mahutak}) illustrate the quantifying -(a)hutak series\is{pronoun!quantifying}. In~(\ref{exe:kahutak}), one speaker leaves the other during a recording session and orders her to speak further on her own. There are no others around, so the speaker is really only talking about the addressee. In~(\ref{exe:mahutak}), people are discussing a picture with a girl named Ramina on it, and no-one else.
+A: word: kain	 gloss: 2SG.POSS
+B: word: karuok-i	 gloss: three-OBJQNT
+C: word: ka-hutak	 gloss: 2SG-alone
+D: word: ma-hutak	 gloss: 3SG-alone
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 21:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ watko ewa=te
+Gloss (with missing item): ___ PROX.LOC speak=IMP
+The English translation of this sentence is:`You talk on your own here!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: (\ref{exe:kahutak}) and~(\ref{exe:mahutak}) illustrate the quantifying -(a)hutak series\is{pronoun!quantifying}. In~(\ref{exe:kahutak}), one speaker leaves the other during a recording session and orders her to speak further on her own. There are no others around, so the speaker is really only talking about the addressee. In~(\ref{exe:mahutak}), people are discussing a picture with a girl named Ramina on it, and no-one else.
+A: word: ma-tain	 gloss: 3SG-alone
+B: word: ka-hutak	 gloss: 2SG-alone
+C: word: esun=a	 gloss: father.3POSS=FOC
+D: word: ma-hutak	 gloss: 3SG-alone
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 22:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ramina ___ bara
+Gloss (with missing item): Ramina ___ descend
+The English translation of this sentence is:`Ramina alone is coming back.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: (\ref{exe:kahutak}) and~(\ref{exe:mahutak}) illustrate the quantifying -(a)hutak series\is{pronoun!quantifying}. In~(\ref{exe:kahutak}), one speaker leaves the other during a recording session and orders her to speak further on her own. There are no others around, so the speaker is really only talking about the addressee. In~(\ref{exe:mahutak}), people are discussing a picture with a girl named Ramina on it, and no-one else.
+A: word: ma-tain	 gloss: 3SG-alone
+B: word: sanggaran=taet	 gloss: search=again
+C: word: ma-hutak	 gloss: 3SG-alone
+D: word: ka-hutak	 gloss: 2SG-alone
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 23:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bukan ___ ge [...] in-ininggan mindi
+Gloss (with missing item): not ___ no {} 1PL.EXCL-all like_that
+The English translation of this sentence is:`Not just us, we all did like that.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The difference of these last two examples with the -tain examples above is that there are no more referents to choose from. A negated -(a)hutak example further strengthens this hypothesis. In~(\ref{exe:inahutak}), the speaker explains that he and his travel company were not alone (drinking tea at a funeral), but that the other invited people did so as well. By negating a quantifying pronoun, the speaker indicates that there were more people present than just those referred to with `we'. The -(a)hutak pronouns contrast with the -(V)ninggan series described in the next section, also illustrated in the example below.
+A: word: ma-hutak	 gloss: 3SG-alone
+B: word: ka-hutak	 gloss: 2SG-alone
+C: word: in-ahutak	 gloss: 1PL.EXCL-alone
+D: word: in-ininggan	 gloss: 1PL.EXCL-all
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 24:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bukan in-ahutak ge [...] ___ mindi
+Gloss (with missing item): not 1PL.EXCL-alone no {} ___ like_that
+The English translation of this sentence is:`Not just us, we all did like that.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The difference of these last two examples with the -tain examples above is that there are no more referents to choose from. A negated -(a)hutak example further strengthens this hypothesis. In~(\ref{exe:inahutak}), the speaker explains that he and his travel company were not alone (drinking tea at a funeral), but that the other invited people did so as well. By negating a quantifying pronoun, the speaker indicates that there were more people present than just those referred to with `we'. The -(a)hutak pronouns contrast with the -(V)ninggan series described in the next section, also illustrated in the example below.
+A: word: anggon=ki	 gloss: 1SG.POSS=INS
+B: word: in=nan	 gloss: 1PL.EXCL=too
+C: word: in-ininggan	 gloss: 1PL.EXCL-all
+D: word: manggan	 gloss: Manggan
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 25:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nakal-un elak-pis
+Gloss (with missing item): ___ head-3POSS down-side
+The English translation of this sentence is:`They both have their heads down'.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: For the dual forms, the suffix just takes the form -gan, resulting in the meaning `we both, you both, they both', as shown in~(\ref{exe:miergan2}). This suffix is also used on \is{numeral}numerals with the meaning `both' or `all'. Note that the morpheme -gan also seems to be part of the word tebonggan `all'. Tebon does not have a meaning on its own.
+A: word: mier-gan	 gloss: 3PL.DU-both
+B: word: mier-gan=at	 gloss: 3DU-all=OBJ
+C: word: keca=bon	 gloss: Keca=COM
+D: word: owane	 gloss: FDIST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 26:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): an ___ naluar kain me ka narorar=i bo tamatko=et eba naluar=te
+Gloss (with missing item): 1SG ___ slacken 2SG.POSS TOP 2SG drag=PLNK go where=IRR then slacken=IMP
+The English translation of this sentence is:`I slacken mine, as for yours, you drag it over there, then you slacken!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Possessive pronouns, listed in Table~\ref{tab:pronouns}, are used in two ways: pronominally and adnominally. A pronominal example is given in~(\ref{exe:kainme}). The possessive pronouns refer to the two ends of a fishing net.
+A: word: anggon=at	 gloss: 1SG.POSS=OBJ
+B: word: anggon=at=a	 gloss: 1SG.POSS=OBJ=FOC
+C: word: anggon=a	 gloss: 1SG.POSS=FOC
+D: word: in=bon	 gloss: 1PL.EXCL=COM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 27:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): an anggon=at=a naluar ___ me ka narorar=i bo tamatko=et eba naluar=te
+Gloss (with missing item): 1SG 1SG.POSS=OBJ=FOC slacken ___ TOP 2SG drag=PLNK go where=IRR then slacken=IMP
+The English translation of this sentence is:`I slacken mine, as for yours, you drag it over there, then you slacken!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Possessive pronouns, listed in Table~\ref{tab:pronouns}, are used in two ways: pronominally and adnominally. A pronominal example is given in~(\ref{exe:the morpheme ___me}). The possessive pronouns refer to the two ends of a fishing net.
+A: word: anggon=ki	 gloss: 1SG.POSS=INS
+B: word: kain=kin	 gloss: 2SG.POSS=POSS
+C: word: kain	 gloss: 2SG.POSS
+D: word: kain=at	 gloss: 2SG.POSS=OBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 28:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ emun ka tok per=at di=mu ∅=te
+Gloss (with missing item): ___ mother.3POSS 2SG first water=OBJ CAUS=3PL give=IMP
+The English translation of this sentence is:`Binkur's mother, you give them water first.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Pronominal address with the second-person singular ka and plural ki is a common form of address in everyday speech. It is considered very informal, and is used among peers, among spouses and towards children, typically for commands. In a more polite variant, it is used in combination with non-pronominal address. (\ref{exe:kaaddr}) is taken from a recording of two friends discussing fishing gear. The speaker addresses her friend with the second-person singular ka to tell her when to speak. (\ref{exe:munka}) is taken from a recording from a boat trip with two distant relatives. The speaker uses a non-pronominal address form first before he uses the pronoun. There are no formal pronominal terms of address. Non-pronominal address is further described in §\ref{sec:usage}.
+A: word: binkur	 gloss: Binkur
+B: word: an-tain=a	 gloss: 1SG-alone=FOC
+C: word: ibrahim	 gloss: Ibrahim
+D: word: kuru	 gloss: bring
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 29:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Binkur ___ ka tok per=at di=mu ∅=te
+Gloss (with missing item): Binkur ___ 2SG first water=OBJ CAUS=3PL give=IMP
+The English translation of this sentence is:`Binkur's mother, you give them water first.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Pronominal address with the second-person singular ka and plural ki is a common form of address in everyday speech. It is considered very informal, and is used among peers, among spouses and towards children, typically for commands. In a more polite variant, it is used in combination with non-pronominal address. (\ref{exe:kaaddr}) is taken from a recording of two friends discussing fishing gear. The speaker addresses her friend with the second-person singular ka to tell her when to speak. (\ref{exe:munka}) is taken from a recording from a boat trip with two distant relatives. The speaker uses a non-pronominal address form first before he uses the pronoun. There are no formal pronominal terms of address. Non-pronominal address is further described in §\ref{sec:usage}.
+A: word: emun=at	 gloss: mother.3POSS=OBJ
+B: word: emun=a	 gloss: mother=FOC
+C: word: in-ahutak	 gloss: 1PL.EXCL-alone
+D: word: emun	 gloss: mother.3POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 30:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Binkur emun ___ tok per=at di=mu ∅=te
+Gloss (with missing item): Binkur mother.3POSS ___ first water=OBJ CAUS=3PL give=IMP
+The English translation of this sentence is:`Binkur's mother, you give them water first.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Pronominal address with the second-person singular the morpheme ___ and plural ki is a common form of address in everyday speech. It is considered very informal, and is used among peers, among spouses and towards children, typically for commands. In a more polite variant, it is used in combination with non-pronominal address. (\ref{exe:the morpheme ___addr}) is taken from a recording of two friends discussing fishing gear. The speaker addresses her friend with the second-person singular the morpheme ___ to tell her when to speak. (\ref{exe:munthe morpheme ___}) is taken from a recording from a boat trip with two distant relatives. The speaker uses a non-pronominal address form first before he uses the pronoun. There are no formal pronominal terms of address. Non-pronominal address is further described in §\ref{sec:usage}.
+A: word: ka	 gloss: 2SG
+B: word: an=kap	 gloss: 1SG=SIM
+C: word: kawotman	 gloss: cut
+D: word: mindi	 gloss: like_that
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 31:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ esun=a marua yuwa
+Gloss (with missing item): ___ father.3SG=FOC move_seawards PROX
+The English translation of this sentence is:`Nyong's father comes towards sea here.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As soon as someone becomes a parent, that person can be referred to and addressed with their teknonym\is{names!teknonymy} (the name of their first child) followed by esun `father.\textsc{3poss}' or emun `mother.\textsc{3poss}'. This is exemplified with its gloss ___ esun `its gloss ___'s father' in~(\ref{exe:the morpheme ___}).
+A: word: taikonggo	 gloss: side.LOC
+B: word: ka-hutak	 gloss: 2SG-alone
+C: word: iwan	 gloss: Iwan
+D: word: nyong	 gloss: Nyong
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 32:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Nyong ___ marua yuwa
+Gloss (with missing item): Nyong ___ move_seawards PROX
+The English translation of this sentence is:`Nyong's father comes towards sea here.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As soon as someone becomes a parent, that person can be referred to and addressed with their teknonym\is{names!teknonymy} (the name of their first child) followed by esun `father.\textsc{3poss}' or emun `mother.\textsc{3poss}'. This is exemplified with Nyong esun `Nyong's father' in~(\ref{exe:nyong}).
+A: word: nyong	 gloss: Nyong
+B: word: esun=a	 gloss: father.3SG=FOC
+C: word: esun=at	 gloss: father.3POSS=OBJ
+D: word: esa-an=a	 gloss: uncle-1SG.POSS=FOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+

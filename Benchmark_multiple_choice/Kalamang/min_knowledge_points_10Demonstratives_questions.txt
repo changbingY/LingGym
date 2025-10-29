@@ -1,0 +1,845 @@
+Question 0:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): lempuang temun=a ___ tumun-un=a wa
+Gloss (with missing item): island big=FOC ___ child-3POSS=FOC PROX
+The English translation of this sentence is:`The big island is yonder, the small one is here.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The far distal is typically used on a bigger scale, across landscape. An example is~(\ref{exe:yonder}). The far distal basic form owa is hardly found uninflected. In this example, it carries a demonstrative suffix -ne, which I comment upon below.
+A: word: mendak	 gloss: just_like_that
+B: word: owa-ne	 gloss: FDIST-DEM
+C: word: owandi	 gloss: like_over_there
+D: word: owane	 gloss: FDIST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 1:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): adi sor ___ [...] kabaruap
+Gloss (with missing item): DER fish ___ {\ob}...{\cb} grouper
+The English translation of this sentence is:`That fish up there {\ob}...{\cb} is a grouper.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The elevational demonstratives refer to referents on a vertical axis: the morpheme ___ and yawe are used for referents which are located higher and lower, respectively, than the speaker or another point of reference. (\ref{exe:adisor}) and~(\ref{exe:yawee}) are adnominal uses.
+A: word: mindi	 gloss: like_that
+B: word: osa-t=ko	 gloss: UP-{\gltt}=LOC
+C: word: oke	 gloss: okay
+D: word: osa	 gloss: UP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma tamatko ka bo minggalot-an ___ kome=te
+Gloss (with missing item): 3SG where 2SG go bedroom-1SG.POSS ___ look=IMP
+The English translation of this sentence is:`Where is it? You go look in my bedroom down there!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The elevational demonstratives refer to referents on a vertical axis: osa and the morpheme ___ are used for referents which are located higher and lower, respectively, than the speaker or another point of reference. (\ref{exe:adisor}) and~(\ref{exe:the morpheme ___e}) are adnominal uses.
+A: word: yawe	 gloss: DOWN
+B: word: irul	 gloss: Irul
+C: word: yawetko	 gloss: DOWN.LOC
+D: word: wat	 gloss: coconut
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 3:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): dodon ___ an masa
+Gloss (with missing item): clothing ___ 1SG dry_in_sun
+The English translation of this sentence is:`I dried those clothes [that we talked about] in the sun.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The anaphoric demonstrative the morpheme ___ occurs with referents that in some respect represent knowledge already shared by the speaker and the addressee, typically those that are previously mentioned in discourse. The latter is the case with the referent dodon `clothing' in~(\ref{exe:dodonop}).
+A: word: wanet	 gloss: PROX.OBJ
+B: word: opa	 gloss: ANA
+C: word: kit=ko	 gloss: top=LOC
+D: word: opa_yuwa	 gloss: today
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 4:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma enem ___ tu
+Gloss (with missing item): 3SG woman ___ hit
+The English translation of this sentence is:`He hits this woman.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Proximal demonstrative wa is prototypically used adnominally, pronominally and identificationally to indicate referents that are close to the speaker. (\ref{exe:waratu}) illustrates an adnominal and~(\ref{exe:dempro}) a pronominal use of the proximal demonstrative, both in object position (hence the object form wat). The demonstrative in~(\ref{exe:waratu}) refers to a woman in a picture in front of the speaker, with the speaker pointing at her. The demonstrative in~(\ref{exe:dempro}) stands in for a fishing net the speaker is holding.
+A: word: wat=a	 gloss: PROX.OBJ=FOC
+B: word: wat=at	 gloss: coconut=OBJ
+C: word: yuwa=at=a	 gloss: PROX=OBJ=FOC
+D: word: wane	 gloss: PROX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 5:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ki ___ napaki=kin ye ge
+Gloss (with missing item): 2PL ___ use=VOL or not
+The English translation of this sentence is:`Are you going to use this or not?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Proximal demonstrative wa is prototypically used adnominally, pronominally and identificationally to indicate referents that are close to the speaker. (\ref{exe:waratu}) illustrates an adnominal and~(\ref{exe:dempro}) a pronominal use of the proximal demonstrative, both in object position (hence the object form the morpheme ___). The demonstrative in~(\ref{exe:waratu}) refers to a woman in a picture in front of the speaker, with the speaker pointing at her. The demonstrative in~(\ref{exe:dempro}) stands in for a fishing net the speaker is holding.
+A: word: yuwa=at	 gloss: PROX=OBJ
+B: word: watko	 gloss: PROX.LOC
+C: word: mendak	 gloss: just_like_that
+D: word: wat	 gloss: PROX.OBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 6:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma enem ___ tu
+Gloss (with missing item): 3SG woman ___ hit
+The English translation of this sentence is:`He hits this woman.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Proximal demonstrative wa is prototypically used adnominally, pronominally and identificationally to indicate referents that are close to the speaker. (\ref{exe:waratu}) illustrates an adnominal and~(\ref{exe:dempro}) a pronominal use of the proximal demonstrative, both in object position (hence the object form wat). The demonstrative in~(\ref{exe:waratu}) refers to a woman in a picture in front of the speaker, with the speaker pointing at her. The demonstrative in~(\ref{exe:dempro}) stands in for a fishing net the speaker is holding.
+A: word: yuwa=at=a	 gloss: PROX=OBJ=FOC
+B: word: wat=at	 gloss: coconut=OBJ
+C: word: mindi	 gloss: like_that
+D: word: wat=a	 gloss: PROX.OBJ=FOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 7:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ki ___ napaki=kin ye ge
+Gloss (with missing item): 2PL ___ use=VOL or not
+The English translation of this sentence is:`Are you going to use this or not?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Proximal demonstrative wa is prototypically used adnominally, pronominally and identificationally to indicate referents that are close to the speaker. (\ref{exe:waratu}) illustrates an adnominal and~(\ref{exe:dempro}) a pronominal use of the proximal demonstrative, both in object position (hence the object form the morpheme ___). The demonstrative in~(\ref{exe:waratu}) refers to a woman in a picture in front of the speaker, with the speaker pointing at her. The demonstrative in~(\ref{exe:dempro}) stands in for a fishing net the speaker is holding.
+A: word: watko	 gloss: PROX.LOC
+B: word: osa	 gloss: UP
+C: word: wat	 gloss: PROX.OBJ
+D: word: yuwa=at	 gloss: PROX=OBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 8:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): namun=a ___ kiun=a wa tumun-un=a wa
+Gloss (with missing item): husband.3POSS=FOC ___ wife-3POSS=FOC PROX child-3POSS=FOC PROX
+The English translation of this sentence is:`This is the husband, this is the wife, this is their child.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Two identificational examples are given in~(\ref{exe:namunathe morpheme ___}) and~(\ref{exe:dauanathe morpheme ___}). In~(\ref{exe:namunathe morpheme ___}), the speaker points at a picture with three people and identifies them one by one. (\ref{exe:dauanathe morpheme ___}) is from a story about a wedding, where the names of the bride's and groom's families are called out as a the morpheme ___y of introducing the family members to couple. Note that an identificational demonstrative follows a \is{focus}focused noun, but precedes a \is{topic}topicalised noun.
+A: word: yuwandi	 gloss: like_this
+B: word: wa	 gloss: PROX
+C: word: ewa∼wa=in	 gloss: speak∼PROG=PROH
+D: word: wangga	 gloss: PROX.LAT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 9:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): namun=a wa kiun=a ___ tumun-un=a wa
+Gloss (with missing item): husband.3POSS=FOC PROX wife-3POSS=FOC ___ child-3POSS=FOC PROX
+The English translation of this sentence is:`This is the husband, this is the wife, this is their child.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Two identificational examples are given in~(\ref{exe:namunathe morpheme ___}) and~(\ref{exe:dauanathe morpheme ___}). In~(\ref{exe:namunathe morpheme ___}), the speaker points at a picture with three people and identifies them one by one. (\ref{exe:dauanathe morpheme ___}) is from a story about a wedding, where the names of the bride's and groom's families are called out as a the morpheme ___y of introducing the family members to couple. Note that an identificational demonstrative follows a \is{focus}focused noun, but precedes a \is{topic}topicalised noun.
+A: word: wa	 gloss: PROX
+B: word: wangga	 gloss: PROX.LAT
+C: word: ewa∼wa=in	 gloss: speak∼PROG=PROH
+D: word: osanet	 gloss: UP.OBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 10:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): namun=a wa kiun=a wa tumun-un=a ___
+Gloss (with missing item): husband.3POSS=FOC PROX wife-3POSS=FOC PROX child-3POSS=FOC ___
+The English translation of this sentence is:`This is the husband, this is the wife, this is their child.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Two identificational examples are given in~(\ref{exe:namunathe morpheme ___}) and~(\ref{exe:dauanathe morpheme ___}). In~(\ref{exe:namunathe morpheme ___}), the speaker points at a picture with three people and identifies them one by one. (\ref{exe:dauanathe morpheme ___}) is from a story about a wedding, where the names of the bride's and groom's families are called out as a the morpheme ___y of introducing the family members to couple. Note that an identificational demonstrative follows a \is{focus}focused noun, but precedes a \is{topic}topicalised noun.
+A: word: wangga	 gloss: PROX.LAT
+B: word: ewa∼wa=in	 gloss: speak∼PROG=PROH
+C: word: yuwane	 gloss: PROX
+D: word: wa	 gloss: PROX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 11:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): supaya canam gonggin ma toni o ___ me dauk-an=a wa ketan-an=a wa esa-an=a wa mama-an=a wa
+Gloss (with missing item): so_that man know 3SG say INT ___ TOP sibling_in_law-1SG.POSS=FOC PROX parent_in_law-1SG.POSS=FOC PROX uncle-1SG.POSS=FOC PROX uncle-1SG.POSS=FOC PROX
+The English translation of this sentence is:`So that the man knows, he says: ``O, this is my sibling-in-law, this is my parent-in-law, this is my uncle, this is my uncle.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Two identificational examples are given in~(\ref{exe:namunathe morpheme ___}) and~(\ref{exe:dauanathe morpheme ___}). In~(\ref{exe:namunathe morpheme ___}), the speaker points at a picture with three people and identifies them one by one. (\ref{exe:dauanathe morpheme ___}) is from a story about a wedding, where the names of the bride's and groom's families are called out as a the morpheme ___y of introducing the family members to couple. Note that an identificational demonstrative follows a \is{focus}focused noun, but precedes a \is{topic}topicalised noun.
+A: word: wangga	 gloss: PROX.LAT
+B: word: ewa∼wa=in	 gloss: speak∼PROG=PROH
+C: word: wa	 gloss: PROX
+D: word: owa-ne	 gloss: FDIST-DEM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 12:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): supaya canam gonggin ma toni o wa me dauk-an=a ___ ketan-an=a wa esa-an=a wa mama-an=a wa
+Gloss (with missing item): so_that man know 3SG say INT PROX TOP sibling_in_law-1SG.POSS=FOC ___ parent_in_law-1SG.POSS=FOC PROX uncle-1SG.POSS=FOC PROX uncle-1SG.POSS=FOC PROX
+The English translation of this sentence is:`So that the man knows, he says: ``O, this is my sibling-in-law, this is my parent-in-law, this is my uncle, this is my uncle.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Two identificational examples are given in~(\ref{exe:namunathe morpheme ___}) and~(\ref{exe:dauanathe morpheme ___}). In~(\ref{exe:namunathe morpheme ___}), the speaker points at a picture with three people and identifies them one by one. (\ref{exe:dauanathe morpheme ___}) is from a story about a wedding, where the names of the bride's and groom's families are called out as a the morpheme ___y of introducing the family members to couple. Note that an identificational demonstrative follows a \is{focus}focused noun, but precedes a \is{topic}topicalised noun.
+A: word: wa	 gloss: PROX
+B: word: ewa∼wa=in	 gloss: speak∼PROG=PROH
+C: word: wangga	 gloss: PROX.LAT
+D: word: owangga	 gloss: FDIST.LAT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 13:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): supaya canam gonggin ma toni o wa me dauk-an=a wa ketan-an=a ___ esa-an=a wa mama-an=a wa
+Gloss (with missing item): so_that man know 3SG say INT PROX TOP sibling_in_law-1SG.POSS=FOC PROX parent_in_law-1SG.POSS=FOC ___ uncle-1SG.POSS=FOC PROX uncle-1SG.POSS=FOC PROX
+The English translation of this sentence is:`So that the man knows, he says: ``O, this is my sibling-in-law, this is my parent-in-law, this is my uncle, this is my uncle.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Two identificational examples are given in~(\ref{exe:namunathe morpheme ___}) and~(\ref{exe:dauanathe morpheme ___}). In~(\ref{exe:namunathe morpheme ___}), the speaker points at a picture with three people and identifies them one by one. (\ref{exe:dauanathe morpheme ___}) is from a story about a wedding, where the names of the bride's and groom's families are called out as a the morpheme ___y of introducing the family members to couple. Note that an identificational demonstrative follows a \is{focus}focused noun, but precedes a \is{topic}topicalised noun.
+A: word: owa-ne	 gloss: FDIST-DEM
+B: word: wangga	 gloss: PROX.LAT
+C: word: wa	 gloss: PROX
+D: word: ewa∼wa=in	 gloss: speak∼PROG=PROH
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 14:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): supaya canam gonggin ma toni o wa me dauk-an=a wa ketan-an=a wa esa-an=a ___ mama-an=a wa
+Gloss (with missing item): so_that man know 3SG say INT PROX TOP sibling_in_law-1SG.POSS=FOC PROX parent_in_law-1SG.POSS=FOC PROX uncle-1SG.POSS=FOC ___ uncle-1SG.POSS=FOC PROX
+The English translation of this sentence is:`So that the man knows, he says: ``O, this is my sibling-in-law, this is my parent-in-law, this is my uncle, this is my uncle.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Two identificational examples are given in~(\ref{exe:namunathe morpheme ___}) and~(\ref{exe:dauanathe morpheme ___}). In~(\ref{exe:namunathe morpheme ___}), the speaker points at a picture with three people and identifies them one by one. (\ref{exe:dauanathe morpheme ___}) is from a story about a wedding, where the names of the bride's and groom's families are called out as a the morpheme ___y of introducing the family members to couple. Note that an identificational demonstrative follows a \is{focus}focused noun, but precedes a \is{topic}topicalised noun.
+A: word: wangga	 gloss: PROX.LAT
+B: word: ewa∼wa=in	 gloss: speak∼PROG=PROH
+C: word: owangga	 gloss: FDIST.LAT
+D: word: wa	 gloss: PROX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 15:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): supaya canam gonggin ma toni o wa me dauk-an=a wa ketan-an=a wa esa-an=a wa mama-an=a ___
+Gloss (with missing item): so_that man know 3SG say INT PROX TOP sibling_in_law-1SG.POSS=FOC PROX parent_in_law-1SG.POSS=FOC PROX uncle-1SG.POSS=FOC PROX uncle-1SG.POSS=FOC ___
+The English translation of this sentence is:`So that the man knows, he says: ``O, this is my sibling-in-law, this is my parent-in-law, this is my uncle, this is my uncle.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Two identificational examples are given in~(\ref{exe:namunathe morpheme ___}) and~(\ref{exe:dauanathe morpheme ___}). In~(\ref{exe:namunathe morpheme ___}), the speaker points at a picture with three people and identifies them one by one. (\ref{exe:dauanathe morpheme ___}) is from a story about a wedding, where the names of the bride's and groom's families are called out as a the morpheme ___y of introducing the family members to couple. Note that an identificational demonstrative follows a \is{focus}focused noun, but precedes a \is{topic}topicalised noun.
+A: word: wangga	 gloss: PROX.LAT
+B: word: wat	 gloss: coconut
+C: word: ewa∼wa=in	 gloss: speak∼PROG=PROH
+D: word: wa	 gloss: PROX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 16:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): namun=a ___ kiun=a wa tumun-un=a wa
+Gloss (with missing item): husband.3POSS=FOC ___ wife-3POSS=FOC PROX child-3POSS=FOC PROX
+The English translation of this sentence is:`This is the husband, this is the wife, this is their child.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Two identificational examples are given in~(\ref{exe:namunathe morpheme ___}) and~(\ref{exe:dauanathe morpheme ___}). In~(\ref{exe:namunathe morpheme ___}), the speaker points at a picture with three people and identifies them one by one. (\ref{exe:dauanathe morpheme ___}) is from a story about a wedding, where the names of the bride's and groom's families are called out as a the morpheme ___y of introducing the family members to couple. Note that an identificational demonstrative follows a \is{focus}focused noun, but precedes a \is{topic}topicalised noun.
+A: word: osanet	 gloss: UP.OBJ
+B: word: wa	 gloss: PROX
+C: word: wangga	 gloss: PROX.LAT
+D: word: ewa∼wa=in	 gloss: speak∼PROG=PROH
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 17:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): namun=a wa kiun=a ___ tumun-un=a wa
+Gloss (with missing item): husband.3POSS=FOC PROX wife-3POSS=FOC ___ child-3POSS=FOC PROX
+The English translation of this sentence is:`This is the husband, this is the wife, this is their child.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Two identificational examples are given in~(\ref{exe:namunathe morpheme ___}) and~(\ref{exe:dauanathe morpheme ___}). In~(\ref{exe:namunathe morpheme ___}), the speaker points at a picture with three people and identifies them one by one. (\ref{exe:dauanathe morpheme ___}) is from a story about a wedding, where the names of the bride's and groom's families are called out as a the morpheme ___y of introducing the family members to couple. Note that an identificational demonstrative follows a \is{focus}focused noun, but precedes a \is{topic}topicalised noun.
+A: word: wa	 gloss: PROX
+B: word: ewa∼wa=in	 gloss: speak∼PROG=PROH
+C: word: wandi	 gloss: like_this
+D: word: wangga	 gloss: PROX.LAT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 18:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): namun=a wa kiun=a wa tumun-un=a ___
+Gloss (with missing item): husband.3POSS=FOC PROX wife-3POSS=FOC PROX child-3POSS=FOC ___
+The English translation of this sentence is:`This is the husband, this is the wife, this is their child.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Two identificational examples are given in~(\ref{exe:namunathe morpheme ___}) and~(\ref{exe:dauanathe morpheme ___}). In~(\ref{exe:namunathe morpheme ___}), the speaker points at a picture with three people and identifies them one by one. (\ref{exe:dauanathe morpheme ___}) is from a story about a wedding, where the names of the bride's and groom's families are called out as a the morpheme ___y of introducing the family members to couple. Note that an identificational demonstrative follows a \is{focus}focused noun, but precedes a \is{topic}topicalised noun.
+A: word: wa	 gloss: PROX
+B: word: watko	 gloss: PROX.LOC
+C: word: wangga	 gloss: PROX.LAT
+D: word: ewa∼wa=in	 gloss: speak∼PROG=PROH
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 19:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): supaya canam gonggin ma toni o ___ me dauk-an=a wa ketan-an=a wa esa-an=a wa mama-an=a wa
+Gloss (with missing item): so_that man know 3SG say INT ___ TOP sibling_in_law-1SG.POSS=FOC PROX parent_in_law-1SG.POSS=FOC PROX uncle-1SG.POSS=FOC PROX uncle-1SG.POSS=FOC PROX
+The English translation of this sentence is:`So that the man knows, he says: ``O, this is my sibling-in-law, this is my parent-in-law, this is my uncle, this is my uncle.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Two identificational examples are given in~(\ref{exe:namunathe morpheme ___}) and~(\ref{exe:dauanathe morpheme ___}). In~(\ref{exe:namunathe morpheme ___}), the speaker points at a picture with three people and identifies them one by one. (\ref{exe:dauanathe morpheme ___}) is from a story about a wedding, where the names of the bride's and groom's families are called out as a the morpheme ___y of introducing the family members to couple. Note that an identificational demonstrative follows a \is{focus}focused noun, but precedes a \is{topic}topicalised noun.
+A: word: ewa∼wa=in	 gloss: speak∼PROG=PROH
+B: word: wangga	 gloss: PROX.LAT
+C: word: wat	 gloss: coconut
+D: word: wa	 gloss: PROX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 20:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): supaya canam gonggin ma toni o wa me dauk-an=a ___ ketan-an=a wa esa-an=a wa mama-an=a wa
+Gloss (with missing item): so_that man know 3SG say INT PROX TOP sibling_in_law-1SG.POSS=FOC ___ parent_in_law-1SG.POSS=FOC PROX uncle-1SG.POSS=FOC PROX uncle-1SG.POSS=FOC PROX
+The English translation of this sentence is:`So that the man knows, he says: ``O, this is my sibling-in-law, this is my parent-in-law, this is my uncle, this is my uncle.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Two identificational examples are given in~(\ref{exe:namunathe morpheme ___}) and~(\ref{exe:dauanathe morpheme ___}). In~(\ref{exe:namunathe morpheme ___}), the speaker points at a picture with three people and identifies them one by one. (\ref{exe:dauanathe morpheme ___}) is from a story about a wedding, where the names of the bride's and groom's families are called out as a the morpheme ___y of introducing the family members to couple. Note that an identificational demonstrative follows a \is{focus}focused noun, but precedes a \is{topic}topicalised noun.
+A: word: wangga	 gloss: PROX.LAT
+B: word: ewa∼wa=in	 gloss: speak∼PROG=PROH
+C: word: wa	 gloss: PROX
+D: word: osanet	 gloss: UP.OBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 21:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): supaya canam gonggin ma toni o wa me dauk-an=a wa ketan-an=a ___ esa-an=a wa mama-an=a wa
+Gloss (with missing item): so_that man know 3SG say INT PROX TOP sibling_in_law-1SG.POSS=FOC PROX parent_in_law-1SG.POSS=FOC ___ uncle-1SG.POSS=FOC PROX uncle-1SG.POSS=FOC PROX
+The English translation of this sentence is:`So that the man knows, he says: ``O, this is my sibling-in-law, this is my parent-in-law, this is my uncle, this is my uncle.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Two identificational examples are given in~(\ref{exe:namunathe morpheme ___}) and~(\ref{exe:dauanathe morpheme ___}). In~(\ref{exe:namunathe morpheme ___}), the speaker points at a picture with three people and identifies them one by one. (\ref{exe:dauanathe morpheme ___}) is from a story about a wedding, where the names of the bride's and groom's families are called out as a the morpheme ___y of introducing the family members to couple. Note that an identificational demonstrative follows a \is{focus}focused noun, but precedes a \is{topic}topicalised noun.
+A: word: wa	 gloss: PROX
+B: word: yuwane	 gloss: PROX
+C: word: wangga	 gloss: PROX.LAT
+D: word: ewa∼wa=in	 gloss: speak∼PROG=PROH
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 22:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): supaya canam gonggin ma toni o wa me dauk-an=a wa ketan-an=a wa esa-an=a ___ mama-an=a wa
+Gloss (with missing item): so_that man know 3SG say INT PROX TOP sibling_in_law-1SG.POSS=FOC PROX parent_in_law-1SG.POSS=FOC PROX uncle-1SG.POSS=FOC ___ uncle-1SG.POSS=FOC PROX
+The English translation of this sentence is:`So that the man knows, he says: ``O, this is my sibling-in-law, this is my parent-in-law, this is my uncle, this is my uncle.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Two identificational examples are given in~(\ref{exe:namunathe morpheme ___}) and~(\ref{exe:dauanathe morpheme ___}). In~(\ref{exe:namunathe morpheme ___}), the speaker points at a picture with three people and identifies them one by one. (\ref{exe:dauanathe morpheme ___}) is from a story about a wedding, where the names of the bride's and groom's families are called out as a the morpheme ___y of introducing the family members to couple. Note that an identificational demonstrative follows a \is{focus}focused noun, but precedes a \is{topic}topicalised noun.
+A: word: ewa∼wa=in	 gloss: speak∼PROG=PROH
+B: word: mendak	 gloss: just_like_that
+C: word: wangga	 gloss: PROX.LAT
+D: word: wa	 gloss: PROX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 23:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): supaya canam gonggin ma toni o wa me dauk-an=a wa ketan-an=a wa esa-an=a wa mama-an=a ___
+Gloss (with missing item): so_that man know 3SG say INT PROX TOP sibling_in_law-1SG.POSS=FOC PROX parent_in_law-1SG.POSS=FOC PROX uncle-1SG.POSS=FOC PROX uncle-1SG.POSS=FOC ___
+The English translation of this sentence is:`So that the man knows, he says: ``O, this is my sibling-in-law, this is my parent-in-law, this is my uncle, this is my uncle.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Two identificational examples are given in~(\ref{exe:namunathe morpheme ___}) and~(\ref{exe:dauanathe morpheme ___}). In~(\ref{exe:namunathe morpheme ___}), the speaker points at a picture with three people and identifies them one by one. (\ref{exe:dauanathe morpheme ___}) is from a story about a wedding, where the names of the bride's and groom's families are called out as a the morpheme ___y of introducing the family members to couple. Note that an identificational demonstrative follows a \is{focus}focused noun, but precedes a \is{topic}topicalised noun.
+A: word: ewa∼wa=in	 gloss: speak∼PROG=PROH
+B: word: osa	 gloss: UP
+C: word: wangga	 gloss: PROX.LAT
+D: word: wa	 gloss: PROX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 24:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma ___
+Gloss (with missing item): 3SG ___
+The English translation of this sentence is:`This is it.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The longer forms the morpheme ___ and yuthe morpheme ___ are often used identificationally, typically when identifying the right-hand picture in a picture-matching task\is{picture-matching task} (example~\ref{exe:mathe morpheme ___}). They may also be pronominal (example~\ref{exe:the morpheme ___t}) or adnominal (example~\ref{exe:konyuthe morpheme ___}).
+A: word: wane	 gloss: PROX
+B: word: yuwane	 gloss: PROX
+C: word: wandi	 gloss: like_this
+D: word: wangga	 gloss: PROX.LAT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 25:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mu toni ya ___ me rasa
+Gloss (with missing item): 3PL say yes ___ TOP like
+The English translation of this sentence is:`They said: ``Yes, this is good.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The longer forms wane and yuwane are often used identificationally, typically when identifying the right-hand picture in a picture-matching task\is{picture-matching task} (example~\ref{exe:mawane}). They may also be pronominal (example~\ref{exe:the morpheme ___}) or adnominal (example~\ref{exe:konyuwane}).
+A: word: yuwa=at	 gloss: PROX=OBJ
+B: word: wane	 gloss: PROX
+C: word: yuwane	 gloss: PROX
+D: word: wanet	 gloss: PROX.OBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 26:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): neba kon=a yuwa sor tumun kon ___ sor sair=ten
+Gloss (with missing item): what one=FOC PROX fish small one ___ fish bake=AT
+The English translation of this sentence is:`What is this one here, this one small fish here, baking fish?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The longer forms wane and the morpheme ___ are often used identificationally, typically when identifying the right-hand picture in a picture-matching task\is{picture-matching task} (example~\ref{exe:mawane}). They may also be pronominal (example~\ref{exe:wanet}) or adnominal (example~\ref{exe:konthe morpheme ___}).
+A: word: wangga	 gloss: PROX.LAT
+B: word: yuwane	 gloss: PROX
+C: word: yuwandi	 gloss: like_this
+D: word: yawetko	 gloss: DOWN.LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 27:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ka-mun mindi rami=in mena ma ___
+Gloss (with missing item): 2SG-PROH like_that pull=PROH otherwise 3SG ___
+The English translation of this sentence is:`Don't you pull like that, otherwise it will be here.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The locative and lative proximal forms the morpheme ___ `here' and wangga `to/from here' are used for indicating the \is{location}location of referents close to the speaker. In~(\ref{exe:ramin}), the speaker uses the morpheme ___ to refer to her side of the fishing net, while the addressee is holding the other side a few metres away. In~(\ref{exe:hadiwat}), proximal the morpheme ___ refers to Mas village, which is where the speaker is when she utters the sentence.
+A: word: watko=nin	 gloss: PROX.LOC=NEG
+B: word: osa	 gloss: UP
+C: word: yuwatko	 gloss: PROX.LOC
+D: word: watko	 gloss: PROX.LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 28:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Hadi me ___
+Gloss (with missing item): Hadi TOP ___
+The English translation of this sentence is:`Hadi was here.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The locative and lative proximal forms the morpheme ___ `here' and wangga `to/from here' are used for indicating the \is{location}location of referents close to the speaker. In~(\ref{exe:ramin}), the speaker uses the morpheme ___ to refer to her side of the fishing net, while the addressee is holding the other side a few metres away. In~(\ref{exe:hadiwat}), proximal the morpheme ___ refers to Mas village, which is where the speaker is when she utters the sentence.
+A: word: yuwatko	 gloss: PROX.LOC
+B: word: watko	 gloss: PROX.LOC
+C: word: mengga	 gloss: from_there
+D: word: watko=nin	 gloss: PROX.LOC=NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 29:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): an kona ___ komain=et kanggir-un=ko to
+Gloss (with missing item): 1SG think ___ puncture=IRR eye-3POSS=LOC right
+The English translation of this sentence is:`I think you puncture it here, in its eye, right?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Watko can be used in combination with pointing. (\ref{exe:komana}) is uttered while the speaker points at the eye of a fish lure.
+A: word: watko=a	 gloss: PROX.LOC=FOC
+B: word: osatko=a	 gloss: UP.LOC=FOC
+C: word: tamatko=a	 gloss: where=FOC
+D: word: opa	 gloss: {\glopa}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 30:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): taman-un kodaet me ka=bon an=bon ___
+Gloss (with missing item): friend-3POSS one_more TOP 2SG=COM 1SG=COM ___
+The English translation of this sentence is:`He has a friend like you and me.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Proximal wandi can also be used to refer to states, such as `being friends' in (\ref{exe:friends}) or a colour (in~\ref{exe:black}, the speaker points at the black microphone stand). Both examples use the long form the morpheme ___.
+A: word: mindi	 gloss: like_that
+B: word: yuwandi	 gloss: like_this
+C: word: wanet	 gloss: PROX.OBJ
+D: word: wandi	 gloss: like_this
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 31:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): se bo kuskap=ten ___
+Gloss (with missing item): IAM go black=TEN ___
+The English translation of this sentence is:`[The nutmegs] turn black like this.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Proximal wandi can also be used to refer to states, such as `being friends' in (\ref{exe:friends}) or a colour (in~\ref{exe:black}, the speaker points at the black microphone stand). Both examples use the long form the morpheme ___.
+A: word: wandi	 gloss: like_this
+B: word: yuwandi	 gloss: like_this
+C: word: owatko	 gloss: over_there
+D: word: mindi	 gloss: like_that
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 32:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): an se ___ eh ema kadok-ca=at=a tama
+Gloss (with missing item): 1SG IAM ___ INT aunt cloth-2SG.POSS=OBJ=FOC where
+The English translation of this sentence is:`I went like: ``Hey aunt, where is your cloth?'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Lastly, proximal the morpheme ___ can be used to introduce quoted speech (as in \ref{exe:kadokca}, see also §\ref{sec:speech}) or as a stand-in for quoted speech, as in (\ref{exe:the morpheme ___the morpheme ___}).
+A: word: wandi	 gloss: like_this
+B: word: owa-ne	 gloss: FDIST-DEM
+C: word: owandi	 gloss: like_over_there
+D: word: mindi	 gloss: like_that
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 33:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma toni ___ wandi
+Gloss (with missing item): 3SG say ___ like_this
+The English translation of this sentence is:`He said such-and-such.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Lastly, proximal the morpheme ___ can be used to introduce quoted speech (as in \ref{exe:kadokca}, see also §\ref{sec:speech}) or as a stand-in for quoted speech, as in (\ref{exe:the morpheme ___the morpheme ___}).
+A: word: wanet	 gloss: PROX.OBJ
+B: word: mindi	 gloss: like_that
+C: word: wandi	 gloss: like_this
+D: word: owandi	 gloss: like_over_there
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 34:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma toni wandi ___
+Gloss (with missing item): 3SG say like_this ___
+The English translation of this sentence is:`He said such-and-such.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Lastly, proximal the morpheme ___ can be used to introduce quoted speech (as in \ref{exe:kadokca}, see also §\ref{sec:speech}) or as a stand-in for quoted speech, as in (\ref{exe:the morpheme ___the morpheme ___}).
+A: word: wandi	 gloss: like_this
+B: word: mindi	 gloss: like_that
+C: word: yawetko	 gloss: DOWN.LOC
+D: word: owandi	 gloss: like_over_there
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 35:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): terus ___ koi Ibrahim tanbes=ko mengga koi Arepnengga bara
+Gloss (with missing item): further ___ then Ibrahim right=LOC from_there then Arepner.LAT descend
+The English translation of this sentence is:`Further from there there's Ibrahim on the right, from there down to Arepner.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Metko, like other NPs carrying a locative postposition, can be used predicatively, essentially meaning `to be there'. Mengga, like other NPs carrying the lative postposition, must always be used in combination with other verbs. An example is given in~(\ref{exe:the morpheme ___1}). Complex source, goal and location constructions are described in §\ref{sec:mvcgoal}.
+A: word: mengga	 gloss: DIST.LAT
+B: word: arepnengga	 gloss: Arepner.LAT
+C: word: or=ko=te	 gloss: back=LOC=IMP
+D: word: watko=a	 gloss: PROX.LOC=FOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 36:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): terus mengga koi Ibrahim tanbes=ko ___ koi Arepnengga bara
+Gloss (with missing item): further DIST.LAT then Ibrahim right=LOC ___ then Arepner.LAT descend
+The English translation of this sentence is:`Further from there there's Ibrahim on the right, from there down to Arepner.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Metko, like other NPs carrying a locative postposition, can be used predicatively, essentially meaning `to be there'. Mengga, like other NPs carrying the lative postposition, must always be used in combination with other verbs. An example is given in~(\ref{exe:the morpheme ___1}). Complex source, goal and location constructions are described in §\ref{sec:mvcgoal}.
+A: word: mengga	 gloss: from_there
+B: word: wat=a	 gloss: PROX.OBJ=FOC
+C: word: owatko	 gloss: over_there
+D: word: arepnengga	 gloss: Arepner.LAT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 37:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yuol ___ me ma masin=at istar
+Gloss (with missing item): day ___ TOP 3SG machine=OBJ start
+The English translation of this sentence is:`That day he started the machine.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Temporal use of demonstratives is largely restricted to the distal form modifying the noun yuol `day', illustrated in~(\ref{exe:yuolthe morpheme ___the morpheme ___}) and~(\ref{exe:yuolthe morpheme ___}).
+A: word: me	 gloss: DIST
+B: word: me=bon	 gloss: DIST=COM
+C: word: watko=a	 gloss: PROX.LOC=FOC
+D: word: melelu	 gloss: sit
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 38:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma se mu=bon taruon ma kasian yuol ___ ma se taruo
+Gloss (with missing item): 3SG IAM 3PL=COM say 3SG poor day ___ 3SG IAM say
+The English translation of this sentence is:`She already told them, poor her, that day she already told.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Temporal use of demonstratives is largely restricted to the distal form modifying the noun yuol `day', illustrated in~(\ref{exe:yuolthe morpheme ___the morpheme ___}) and~(\ref{exe:yuolthe morpheme ___}).
+A: word: me=bon	 gloss: DIST=COM
+B: word: mendak	 gloss: just_like_that
+C: word: melelu	 gloss: sit
+D: word: me	 gloss: DIST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 39:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): karuar=i ___ bo kararak koi masan
+Gloss (with missing item): smoke_dry=PLNK ___ go dry then dry_in_sun
+The English translation of this sentence is:`We dry [on a rack above the fire] until it's dry, then we dry in the sun.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Distal the morpheme ___ is also used as `until' in combination with bo `to go' (lit. `go like that', see also §\ref{sec:svcmanneri}). (\ref{exe:karuar}) is about the production of pandanus leaf strips for weaving.
+A: word: yuwane	 gloss: PROX
+B: word: mendak	 gloss: just_like_that
+C: word: mindi=ten	 gloss: like_that={\glten}
+D: word: mindi	 gloss: like_that
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 40:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): pi ___ kuar langsung=et eba bes
+Gloss (with missing item): 1PL.EXCL ___ cook directly=IRR then good
+The English translation of this sentence is:`If we just cook it directly like that, it's good.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The form the morpheme ___ `just like that', which seems derived from distal me and =tak `just', is also used to express manner. Consider~(\ref{exe:the morpheme ___}). There is no corresponding proximal form (see also §\ref{sec:mvcuntil}).
+A: word: mendak=i	 gloss: just_like_that=PLNK
+B: word: osa	 gloss: UP
+C: word: mindi	 gloss: like_that
+D: word: mendak	 gloss: just_like_that
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 41:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): gelompang eba wat santang=bon terus kokok-nar eba nasuena ___ se me
+Gloss (with missing item): batter then coconut coconut_milk=COM then chicken-egg then sugar ___ IAM DIST
+The English translation of this sentence is:`The batter. With coconut milk, eggs, sugar, that's it.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The expression the morpheme ___ he me `that's it', containing distal me, is used to indicate the end of a paragraph, usually one that has a sumthe morpheme ___ry of different things or actions, such as the list of ingredients in~(\ref{exe:gelompang}). It can also close off an entire story, in combination with se koyet `finished' (as in~\ref{exe:theend}, see also §\ref{sec:closing}).
+A: word: mindi	 gloss: like_that
+B: word: kawotman	 gloss: cut
+C: word: kies-eir=tak	 gloss: CLF_LONG-two=only
+D: word: ma	 gloss: 3SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 42:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): gelompang eba wat santang=bon terus kokok-nar eba nasuena ma ___ me
+Gloss (with missing item): batter then coconut coconut_milk=COM then chicken-egg then sugar 3SG ___ DIST
+The English translation of this sentence is:`The batter. With coconut milk, eggs, sugar, that's it.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The expression ma he me `that's it', containing distal me, is uthe morpheme ___d to indicate the end of a paragraph, usually one that has a summary of different things or actions, such as the list of ingredients in~(\ref{exe:gelompang}). It can also clothe morpheme ___ off an entire story, in combination with the morpheme ___ koyet `finished' (as in~\ref{exe:theend}, the morpheme ___e also §\ref{the morpheme ___c:closing}).
+A: word: se	 gloss: IAM
+B: word: sem=ten=at	 gloss: afraid-ADJ=OBJ
+C: word: owangga	 gloss: FDIST.LAT
+D: word: main=at	 gloss: 3POSS=OBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 43:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): gelompang eba wat santang=bon terus kokok-nar eba nasuena ma se ___
+Gloss (with missing item): batter then coconut coconut_milk=COM then chicken-egg then sugar 3SG IAM ___
+The English translation of this sentence is:`The batter. With coconut milk, eggs, sugar, that's it.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The expression ma he the morpheme ___ `that's it', containing distal the morpheme ___, is used to indicate the end of a paragraph, usually one that has a summary of different things or actions, such as the list of ingredients in~(\ref{exe:gelompang}). It can also close off an entire story, in combination with se koyet `finished' (as in~\ref{exe:theend}, see also §\ref{sec:closing}).
+A: word: osa	 gloss: UP
+B: word: melelu	 gloss: sit
+C: word: me=bon	 gloss: DIST=COM
+D: word: me	 gloss: DIST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 44:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ se me se koyet
+Gloss (with missing item): ___ IAM DIST IAM finish
+The English translation of this sentence is:`That's it, finished.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The expression the morpheme ___ he me `that's it', containing distal me, is used to indicate the end of a paragraph, usually one that has a sumthe morpheme ___ry of different things or actions, such as the list of ingredients in~(\ref{exe:gelompang}). It can also close off an entire story, in combination with se koyet `finished' (as in~\ref{exe:theend}, see also §\ref{sec:closing}).
+A: word: wanet	 gloss: PROX.OBJ
+B: word: masikit	 gloss: mosque
+C: word: ma	 gloss: 3SG
+D: word: kawotman	 gloss: cut
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 45:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma ___ me se koyet
+Gloss (with missing item): 3SG ___ DIST IAM finish
+The English translation of this sentence is:`That's it, finished.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The expression ma he me `that's it', containing distal me, is uthe morpheme ___d to indicate the end of a paragraph, usually one that has a summary of different things or actions, such as the list of ingredients in~(\ref{exe:gelompang}). It can also clothe morpheme ___ off an entire story, in combination with the morpheme ___ koyet `finished' (as in~\ref{exe:theend}, the morpheme ___e also §\ref{the morpheme ___c:closing}).
+A: word: owane	 gloss: FDIST
+B: word: se	 gloss: IAM
+C: word: sara	 gloss: ascend
+D: word: sem=ten=at	 gloss: afraid-ADJ=OBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 46:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma se ___ se koyet
+Gloss (with missing item): 3SG IAM ___ IAM finish
+The English translation of this sentence is:`That's it, finished.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The expression ma he the morpheme ___ `that's it', containing distal the morpheme ___, is used to indicate the end of a paragraph, usually one that has a summary of different things or actions, such as the list of ingredients in~(\ref{exe:gelompang}). It can also close off an entire story, in combination with se koyet `finished' (as in~\ref{exe:theend}, see also §\ref{sec:closing}).
+A: word: owatko	 gloss: over_there
+B: word: me	 gloss: DIST
+C: word: me=bon	 gloss: DIST=COM
+D: word: melelu	 gloss: sit
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 47:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): eih ___ se me ma se me an=at kahetmei
+Gloss (with missing item): hey ___ IAM DIST 3SG IAM DIST 1SG=OBJ open.IMP
+The English translation of this sentence is:`Hey, that's enough, that's enough, release me!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ma he me can also mean `that's enough', as in~(\ref{exe:eih}), where a monkey wants to be released from his cage.
+A: word: ma	 gloss: 3SG
+B: word: wane	 gloss: PROX
+C: word: bersi	 gloss: clean
+D: word: kawotman	 gloss: cut
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 48:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): eih ma ___ me ma se me an=at kahetmei
+Gloss (with missing item): hey 3SG ___ DIST 3SG IAM DIST 1SG=OBJ open.IMP
+The English translation of this sentence is:`Hey, that's enough, that's enough, release me!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ma he me can also mean `that's enough', as in~(\ref{exe:eih}), where a monkey wants to be releathe morpheme ___d from his cage.
+A: word: se	 gloss: IAM
+B: word: sem=ten=at	 gloss: afraid-ADJ=OBJ
+C: word: owa-ne	 gloss: FDIST-DEM
+D: word: tanbes=kin=at	 gloss: right=POSS=OBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 49:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): eih ma se ___ ma se me an=at kahetmei
+Gloss (with missing item): hey 3SG IAM ___ 3SG IAM DIST 1SG=OBJ open.IMP
+The English translation of this sentence is:`Hey, that's enough, that's enough, release me!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ma he the morpheme ___ can also the morpheme ___an `that's enough', as in~(\ref{exe:eih}), where a monkey wants to be released from his cage.
+A: word: watko=a	 gloss: PROX.LOC=FOC
+B: word: me=bon	 gloss: DIST=COM
+C: word: melelu	 gloss: sit
+D: word: me	 gloss: DIST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 50:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): eih ma se me ___ se me an=at kahetmei
+Gloss (with missing item): hey 3SG IAM DIST ___ IAM DIST 1SG=OBJ open.IMP
+The English translation of this sentence is:`Hey, that's enough, that's enough, release me!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ma he me can also mean `that's enough', as in~(\ref{exe:eih}), where a monkey wants to be released from his cage.
+A: word: ma	 gloss: 3SG
+B: word: mendak	 gloss: just_like_that
+C: word: kawotman	 gloss: cut
+D: word: pesawat	 gloss: plane
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 51:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): eih ma se me ma ___ me an=at kahetmei
+Gloss (with missing item): hey 3SG IAM DIST 3SG ___ DIST 1SG=OBJ open.IMP
+The English translation of this sentence is:`Hey, that's enough, that's enough, release me!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ma he me can also mean `that's enough', as in~(\ref{exe:eih}), where a monkey wants to be releathe morpheme ___d from his cage.
+A: word: don-nabaca=teba	 gloss: thing-read={\glteba}
+B: word: watko	 gloss: PROX.LOC
+C: word: sem=ten=at	 gloss: afraid-ADJ=OBJ
+D: word: se	 gloss: IAM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 52:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): eih ma se me ma se ___ an=at kahetmei
+Gloss (with missing item): hey 3SG IAM DIST 3SG IAM ___ 1SG=OBJ open.IMP
+The English translation of this sentence is:`Hey, that's enough, that's enough, release me!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ma he the morpheme ___ can also the morpheme ___an `that's enough', as in~(\ref{exe:eih}), where a monkey wants to be released from his cage.
+A: word: me=bon	 gloss: DIST=COM
+B: word: melelu	 gloss: sit
+C: word: yuwane	 gloss: PROX
+D: word: me	 gloss: DIST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 53:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ra Pebis Ruomun ___ in=at nawaruok
+Gloss (with missing item): go Pebis Ruomun ___ 1PL.EXCL=OBJ unload
+The English translation of this sentence is:`[You want to] go to Pebis Ruomun over there and drop us off?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In about half of the corpus instances (23 out of 47), owa carries a lative or locative postposition. This is illustrated in~(\ref{exe:ruomun}) to~(\ref{exe:belada}). The principles are the same: owatko and the morpheme ___ are used to refer across landscape. The referent may be close, as in~(\ref{exe:kol}), where the location referred to is right outside the house, or in another country, as in~(\ref{exe:belada}).
+A: word: nawanggar	 gloss: wait
+B: word: owane	 gloss: FDIST
+C: word: mindi	 gloss: like_that
+D: word: owangga	 gloss: FDIST.LAT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 54:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Beladar-leng ___
+Gloss (with missing item): Netherlands-village ___
+The English translation of this sentence is:`In the Dutch village over there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In about half of the corpus instances (23 out of 47), owa carries a lative or locative postposition. This is illustrated in~(\ref{exe:ruomun}) to~(\ref{exe:belada}). The principles are the same: the morpheme ___ and owangga are used to refer across landscape. The referent may be close, as in~(\ref{exe:kol}), where the location referred to is right outside the house, or in another country, as in~(\ref{exe:belada}).
+A: word: watko	 gloss: PROX.LOC
+B: word: mindi	 gloss: like_that
+C: word: owandi	 gloss: like_over_there
+D: word: owatko	 gloss: over_there
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 55:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bo kol ___ war=te
+Gloss (with missing item): go outside ___ fish=IMP
+The English translation of this sentence is:`Go fish outside over there!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In about half of the corpus instances (23 out of 47), owa carries a lative or locative postposition. This is illustrated in~(\ref{exe:ruomun}) to~(\ref{exe:belada}). The principles are the same: the morpheme ___ and owangga are used to refer across landscape. The referent may be close, as in~(\ref{exe:kol}), where the location referred to is right outside the house, or in another country, as in~(\ref{exe:belada}).
+A: word: watko=a	 gloss: PROX.LOC=FOC
+B: word: watko	 gloss: PROX.LOC
+C: word: owatko	 gloss: over_there
+D: word: owandi	 gloss: like_over_there
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 56:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Beladar-leng ___
+Gloss (with missing item): Netherlands-village ___
+The English translation of this sentence is:`In the Dutch village over there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In about half of the corpus instances (23 out of 47), owa carries a lative or locative postposition. This is illustrated in~(\ref{exe:ruomun}) to~(\ref{exe:belada}). The principles are the same: the morpheme ___ and owangga are used to refer across landscape. The referent may be close, as in~(\ref{exe:kol}), where the location referred to is right outside the house, or in another country, as in~(\ref{exe:belada}).
+A: word: owandi	 gloss: like_over_there
+B: word: owatko	 gloss: over_there
+C: word: watko	 gloss: PROX.LOC
+D: word: yuwane	 gloss: PROX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 57:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): elak-kadok tua elak-kadok siun-kadok ___
+Gloss (with missing item): bottom-side old_man bottom-side edge-side ___
+The English translation of this sentence is:`Down there, Tua, down there, at the edge over there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: One corpus example of owa (in its variant the morpheme ___) is used on a much smaller scale: a table top in a picture-matching task\is{picture-matching task}. During this task, the director could see the matcher's pictures, and directed him to the correct picture by explaining the position of the card with the picture on the tabletop. The director utters~(\ref{exe:elakdok}). Owane is used to indicate that the picture is at the far extreme of the tabletop, far away from the speaker (and the addressee) as compared to the other pictures.
+A: word: owane	 gloss: FDIST
+B: word: owandi	 gloss: like_over_there
+C: word: owangga	 gloss: FDIST.LAT
+D: word: wandi	 gloss: like_this
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 58:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mena ma se koi ___ kinkin=taet reon
+Gloss (with missing item): otherwise 3SG IAM again ___ hold=again maybe
+The English translation of this sentence is:`Otherwise she will maybe hold [the fishing net] again over there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Far distal locative the morpheme ___ `over there', while usually used for invisible \is{location}locations, can also be used when the location is far away from both the speaker and the addressee, and when the speaker wants to create a mental distance to the referent. (\ref{exe:owatkin}) comes from a conversation between two sisters who are fishing with their much younger sister-in-law. They are not satisfied with her skills, and tease her. In the utterance, the speaker and the addressee stand next to each other in the sea, and refer to the sister-in-law who is standing fifty metres away, but is clearly visible.
+A: word: owatko	 gloss: over_there
+B: word: yawe	 gloss: DOWN
+C: word: watko	 gloss: PROX.LOC
+D: word: owandi	 gloss: like_over_there
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 59:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tumun ___ ma kewe-neko
+Gloss (with missing item): child ___ 3SG house-inside
+The English translation of this sentence is:`That child is inside a house.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When narrating a story with help of a stimulus\is{stimulus}, such as a picture book or a video, speakers may start the story by marking the first mention of a referent with the morpheme ___, referring to the picture or video of the referent that they have just seen. (\ref{exe:kewerecg}) is an example of recognitional use.
+A: word: wan-karuok-i	 gloss: time-three-OBJQNT
+B: word: opa	 gloss: ANA
+C: word: opa_yuwa	 gloss: today
+D: word: watko	 gloss: PROX.LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 60:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mu era kewe ___ nawanona
+Gloss (with missing item): 3PL ascend house ___ tidy
+The English translation of this sentence is:`They went up to tidy the house up there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Elevationals are typically used to describe referents and \is{location}locations inside the village, such as the beach (down) and other places in the village (up).\footnote{Karas is spoken on a limestone island that rises out of the sea. Both villages, Mas and Antalisa, are built on a strip of beach and the adjacent slopes.} (\ref{exe:keweosa}) shows the adnominal object form the morpheme ___ \textsc{up.obj}, and~(\ref{exe:yawetko}) contains the locative form yawetko \textsc{down.loc}. Though yawe and osa (and their longer forms) are typically used adnominally, they may also be used as locative and lative forms, as in~(\ref{exe:desi}), where one would expect the locative form yawetko.
+A: word: met	 gloss: DIST.OBJ
+B: word: osanet	 gloss: UP.OBJ
+C: word: wanet	 gloss: PROX.OBJ
+D: word: wat=a	 gloss: PROX.OBJ=FOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 61:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Desi opa me yal∼yal=te ___
+Gloss (with missing item): Desi {\glopa} TOP paddle∼PROG={\glte} ___
+The English translation of this sentence is:`Desi is paddling down there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Elevationals are typically used to describe referents and \is{location}locations inside the village, such as the beach (down) and other places in the village (up).\footnote{Karas is spoken on a limestone island that rises out of the sea. Both villages, Mas and Antalisa, are built on a strip of beach and the adjacent slopes.} (\ref{exe:keweosa}) shows the adnominal object form osanet \textsc{up.obj}, and~(\ref{exe:the morpheme ___tko}) contains the locative form the morpheme ___tko \textsc{down.loc}. Though the morpheme ___ and osa (and their longer forms) are typically used adnominally, they may also be used as locative and lative forms, as in~(\ref{exe:desi}), where one would expect the locative form the morpheme ___tko.
+A: word: wandi	 gloss: like_this
+B: word: yawetko	 gloss: DOWN.LOC
+C: word: kodak	 gloss: only_one
+D: word: yawe	 gloss: DOWN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 62:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma tamatko ka bo minggalot-an ___ kome=te
+Gloss (with missing item): 3SG where 2SG go bedroom-1SG.POSS ___ look=IMP
+The English translation of this sentence is:`Where is it? You go look in my bedroom!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Elevationals may be applied on both a smaller and bigger scale than the village. On a smaller scale, a speaker may use elevationals to refer to the immediate environment such as a house or a tree. In~(\ref{exe:tekya}), the speaker is looking for a knife in her house, and refers to her bedroom as being `down'. Yawe is not used to single out which bedroom, as the speaker has only one bedroom (and has already singled it out anyway by inflecting minggalot `bedroom' with a possessive marker).
+A: word: mendak	 gloss: just_like_that
+B: word: yawe	 gloss: DOWN
+C: word: yawetko	 gloss: DOWN.LOC
+D: word: muap=i	 gloss: eat=PLNK
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 63:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mu ___ in=bon sampaikan=et
+Gloss (with missing item): 3PL ___ 1PL.EXCL=COM let.know=IRR
+The English translation of this sentence is:`They down there let us know.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: On a larger scale, elevationals are used to talk about the wider landscape surrounding Mas, the village where all recordings for the Kalamang corpus were made. The direction of movement from the Karas Islands to Fakfak (the regency capital, NNE of the Karas Islands) is described as bara `move down', and from Fakfak to the Karas Islands as sara `move up'. Consequently, Fakfak is the morpheme ___ `down there'. This is illustrated in~(\ref{exe:muyawe}), which is about moneylenders in Fakfak.
+A: word: taikonggo	 gloss: side.LOC
+B: word: yawetko	 gloss: DOWN.LOC
+C: word: metko	 gloss: DIST.LOC
+D: word: wane	 gloss: PROX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 64:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ki ___ kewe-paruot=kin
+Gloss (with missing item): 2PL ___ house-make=VOL
+The English translation of this sentence is:`Do you up there want to work on the house?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The direction of movement from the Karas Islands to Malakuli (the district capital, east of the Karas Islands) is described as landwards, because it lies on the mainland of New Guinea. Nevertheless, Malakuli is osatko, as illustrated in~(\ref{exe:kiosa}), which refers to a house for schoolchildren from Mas which was being built in Malakuli at the time.
+A: word: watko=a	 gloss: PROX.LOC=FOC
+B: word: wanet	 gloss: PROX.OBJ
+C: word: osatko=a	 gloss: UP.LOC=FOC
+D: word: tamatko=a	 gloss: where=FOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
