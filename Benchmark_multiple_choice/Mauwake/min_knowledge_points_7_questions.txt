@@ -1,0 +1,806 @@
+Question 0:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ naareke koora ku-am-ika-i-ya?
+Gloss (with missing item): ___ who.CF house build-SS.SIM-be-Np-3s
+The English translation of this sentence is: `Who is building a house?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Any argument or peripheral in a clause can be questioned, as well as its constituents \REF{ex:7:x1167}--\REF{ex:7:x1174}.
+A: word: aruf-eya	 gloss: hit-2/3s.DS
+B: word: mu'a	 gloss: man
+C: word: (mua)	 gloss: (man)
+D: word: mua	 gloss: man
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 1:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): (Mua) ___ koora ku-am-ika-i-ya?
+Gloss (with missing item): (man) ___ house build-SS.SIM-be-Np-3s
+The English translation of this sentence is: `Who is building a house?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Any argument or peripheral in a clause can be questioned, as well as its constituents \REF{ex:7:x1167}--\REF{ex:7:x1174}.
+A: word: naareke''	 gloss: who.CF
+B: word: naareke	 gloss: who.CF
+C: word: ama	 gloss: sun
+D: word: naare=ke	 gloss: who=CF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 2:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Wi ___ mua=ke uf-e-mik?
+Gloss (with missing item): 3p.UNM ___ man=CF dance-PA-1/3p
+The English translation of this sentence is: `The men of which village danced?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Any argument or peripheral in a clause can be questioned, as well as its constituents \REF{ex:7:x1167}--\REF{ex:7:x1174}.
+A: word: owow	 gloss: village
+B: word: kaakew	 gloss: which.village
+C: word: uruf-a-man=i	 gloss: see-PA-2p=QM
+D: word: maake-miaw-i-yem	 gloss: tell-wander-NPS-PR.1s
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 3:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ naareke koora ku-am-ika-i-ya?
+Gloss (with missing item): ___ who.CF house build-SS.SIM-be-Np-3s
+The English translation of this sentence is: `Who is building a house?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The kind of ambiguity between a subject and an object that Usan has, which arises from the fronting of a topicalized element\footnote{A \textsc{theme} in my terminology here.} \citep[294]{Reesink1987}, is not possible in Mauwake. This is because the question words take the contrastive focus marker \nobreakdash-\textstyleStyleVernacularWordsItalic{ke} when functioning as a subject. Because of elision, and the merging of the contrastive focus marker with the question word, the word for `who' in Mauwake actually has a contrasted/nominative \REF{ex:7:x1167}, \REF{ex:7:x1171} and an accusative form \REF{ex:7:x1170}. The object is fronted in \REF{ex:7:x1171} as a theme; in \REF{ex:7:x1172} the object is not fronted.
+A: word: mu'a	 gloss: man
+B: word: na-i-n=i	 gloss: say-Np-PR.2s=QM
+C: word: (mua)	 gloss: (man)
+D: word: mua	 gloss: man
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 4:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): (Mua) ___ koora ku-am-ika-i-ya?
+Gloss (with missing item): (man) ___ house build-SS.SIM-be-Np-3s
+The English translation of this sentence is: `Who is building a house?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The kind of ambiguity between a subject and an object that Usan has, which arises from the fronting of a topicalized element\footnote{A \textsc{theme} in my terminology here.} \citep[294]{Reesink1987}, is not possible in Mauwake. This is because the question words take the contrastive focus marker \nobreakdash-\textstyleStyleVernacularWordsItalic{ke} when functioning as a subject. Because of elision, and the merging of the contrastive focus marker with the question word, the word for `who' in Mauwake actually has a contrasted/nominative \REF{ex:7:x1167}, \REF{ex:7:x1171} and an accusative form \REF{ex:7:x1170}. The object is fronted in \REF{ex:7:x1171} as a theme; in \REF{ex:7:x1172} the object is not fronted.
+A: word: naareke	 gloss: who.CF
+B: word: wu-a-man=i	 gloss: put-PA-2p=QM
+C: word: naare=ke	 gloss: who=CF
+D: word: naareke''	 gloss: who.CF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 5:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ naareke\textsubscript{S} mua nain\textsubscript{O} aruf-a-k?
+Gloss (with missing item): ___ who.CF man that1 hit-PA-3s
+The English translation of this sentence is: `Who hit that man?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The kind of ambiguity between a subject and an object that Usan has, which arises from the fronting of a topicalized element\footnote{A \textsc{theme} in my terminology here.} \citep[294]{Reesink1987}, is not possible in Mauwake. This is because the question words take the contrastive focus marker \nobreakdash-\textstyleStyleVernacularWordsItalic{ke} when functioning as a subject. Because of elision, and the merging of the contrastive focus marker with the question word, the word for `who' in Mauwake actually has a contrasted/nominative \REF{ex:7:x1167}, \REF{ex:7:x1171} and an accusative form \REF{ex:7:x1170}. The object is fronted in \REF{ex:7:x1171} as a theme; in \REF{ex:7:x1172} the object is not fronted.
+A: word: mu'a	 gloss: man
+B: word: mua	 gloss: man
+C: word: ma-eya	 gloss: tell-2/3s.DS
+D: word: (mua)	 gloss: (man)
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 6:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ naareke wia aruf-eya baurar-e-mik?
+Gloss (with missing item): ___ who.CF 3p.ACC hit-2/3s.DS run.away-PA-1/3p
+The English translation of this sentence is: `Who hit them (so that) they ran away?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is most common to have the question in a main clause, but medial clauses also easily allow non-polar questions. The scope of the question word only extends to the clause which contains it. In \REF{ex:7:x1168} the fact that the people ran away is not questioned.
+A: word: mua=ko	 gloss: man=NF
+B: word: mua	 gloss: man
+C: word: weetak	 gloss: no
+D: word: (mua)	 gloss: (man)
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 7:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mua ___ wia aruf-eya baurar-e-mik?
+Gloss (with missing item): man ___ 3p.ACC hit-2/3s.DS run.away-PA-1/3p
+The English translation of this sentence is: `Who hit them (so that) they ran away?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is most common to have the question in a main clause, but medial clauses also easily allow non-polar questions. The scope of the question word only extends to the clause which contains it. In \REF{ex:7:x1168} the fact that the people ran away is not questioned.
+A: word: naareke	 gloss: who.CF
+B: word: wia	 gloss: 3p.ACC
+C: word: naareke''	 gloss: who.CF
+D: word: naare=ke	 gloss: who=CF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 8:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mua naareke ___ aruf-eya baurar-e-mik?
+Gloss (with missing item): man who.CF ___ hit-2/3s.DS run.away-PA-1/3p
+The English translation of this sentence is: `Who hit them (so that) they ran away?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is most common to have the question in a main clause, but medial clauses also easily allow non-polar questions. The scope of the question word only extends to the clause which contains it. In \REF{ex:7:x1168} the fact that the people ran away is not questioned.
+A: word: wiar	 gloss: 3.DAT
+B: word: wia	 gloss: 3p.ACC
+C: word: nia	 gloss: 2p.ACC
+D: word: p-ekap-eya	 gloss: BPX-come-2/3s.DS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 9:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mua naareke wia ___ baurar-e-mik?
+Gloss (with missing item): man who.CF 3p.ACC ___ run.away-PA-1/3p
+The English translation of this sentence is: `Who hit them (so that) they ran away?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is most common to have the question in a main clause, but medial clauses also easily allow non-polar questions. The scope of the question word only extends to the clause which contains it. In \REF{ex:7:x1168} the fact that the people ran away is not questioned.
+A: word: kamenap	 gloss: what.like
+B: word: aruf-irapar-emi	 gloss: hit-to.and.fro-SS.SIM
+C: word: mik-iwkin	 gloss: hit-2/3p.DS
+D: word: aruf-eya	 gloss: hit-2/3s.DS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 10:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ kamin ikiw-owa ma-e-mik?
+Gloss (with missing item): ___ how.much go-NMZ say-PA-1/3p
+The English translation of this sentence is: `At what time did they say to go?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A constituent in a complement clause (with a nominalized verb) can be questioned \REF{ex:7:x1175}, but not in a relative clause \REF{ex:7:x1176}.
+A: word: ama	 gloss: sun/time
+B: word: samapora	 gloss: clan
+C: word: pun	 gloss: also
+D: word: naareke	 gloss: who.CF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 11:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ama ___ ikiw-owa ma-e-mik?
+Gloss (with missing item): sun/time ___ go-NMZ say-PA-1/3p
+The English translation of this sentence is: `At what time did they say to go?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A constituent in a complement clause (with a nominalized verb) can be questioned \REF{ex:7:x1175}, but not in a relative clause \REF{ex:7:x1176}.
+A: word: kamin=pa	 gloss: how.much=LOC
+B: word: eliwa=ki	 gloss: good=CF.QM
+C: word: kamin	 gloss: how.much
+D: word: iikamin	 gloss: when
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 12:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ama kamin ___ ma-e-mik?
+Gloss (with missing item): sun/time how.much ___ say-PA-1/3p
+The English translation of this sentence is: `At what time did they say to go?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A constituent in a complement clause (with a nominalized verb) can be questioned \REF{ex:7:x1175}, but not in a relative clause \REF{ex:7:x1176}.
+A: word: aakun-emi	 gloss: speak-SS.SIM
+B: word: ikiw-ep	 gloss: go-SS.SEQ
+C: word: ikiw-owa	 gloss: go-NMZ
+D: word: ikiw-owa=ke	 gloss: go-NMZ=CF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 13:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Emeria ___ ama kamin=pa ekap-o-k?
+Gloss (with missing item): woman ___ sun/time how.much=LOC come-PA-3s
+The English translation of this sentence is: `Who (woman) came at what time?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Multiple constituents in the same clause can be questioned with a question word. This is not common, but the following elicited sentences are considered completely natural \REF{ex:7:x1177}, \REF{ex:7:x1178}.
+A: word: ikiw-i-nan=i	 gloss: go-Np-FU.2s=QM
+B: word: naareke	 gloss: who.CF
+C: word: naare=ke	 gloss: who=CF
+D: word: naareke''	 gloss: who.CF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 14:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Emeria naareke ama ___ ekap-o-k?
+Gloss (with missing item): woman who.CF sun/time ___ come-PA-3s
+The English translation of this sentence is: `Who (woman) came at what time?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Multiple constituents in the same clause can be questioned with a question word. This is not common, but the following elicited sentences are considered completely natural \REF{ex:7:x1177}, \REF{ex:7:x1178}.
+A: word: unowa=pa	 gloss: many=LOC
+B: word: kamenion	 gloss: or.what
+C: word: iikamin	 gloss: when
+D: word: kamin=pa	 gloss: how.much=LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 15:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mua ___ emeria kain aaw-o-k?
+Gloss (with missing item): man ___ woman which take-PA-3s
+The English translation of this sentence is: `Which man took/married which woman?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Multiple constituents in the same clause can be questioned with a question word. This is not common, but the following elicited sentences are considered completely natural \REF{ex:7:x1177}, \REF{ex:7:x1178}.
+A: word: kain=ke	 gloss: which=CF
+B: word: mauwa=ke	 gloss: what=CF
+C: word: weetak	 gloss: no
+D: word: nain=ke	 gloss: that=CF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 16:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mua kain=ke emeria ___ aaw-o-k?
+Gloss (with missing item): man which=CF woman ___ take-PA-3s
+The English translation of this sentence is: `Which man took/married which woman?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Multiple constituents in the same clause can be questioned with a question word. This is not common, but the following elicited sentences are considered completely natural \REF{ex:7:x1177}, \REF{ex:7:x1178}.
+A: word: kain	 gloss: which
+B: word: kainantu	 gloss: Kainantu
+C: word: aruf-eya	 gloss: hit-2/3s.DS
+D: word: mauwa	 gloss: what
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 17:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Auwa efa amukar-e-k nain yo ___ ar-i-nen=i?
+Gloss (with missing item): father 1s.ACC scold-PA-3s that 1s.UNM ___ become-Np-FU.1s=QM
+The English translation of this sentence is: `(I wonder) what will happen to me because father scolded me?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When there is a lot of hesitation in the question, the question clitic -\textstyleStyleVernacularWordsItalic{i}, which normally marks a polar question, is added to the end of the question \REF{ex:7:x1187}. This is the same form that the echo questions have (\sectref{sec:7.2.3}).
+A: word: eema=ke	 gloss: Eema=CF
+B: word: na-i-n=i	 gloss: say-Np-PR.2s=QM
+C: word: kamenap	 gloss: how
+D: word: kamenion	 gloss: or.what
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 18:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Auwa efa amukar-e-k nain yo kamenap ___
+Gloss (with missing item): father 1s.ACC scold-PA-3s that 1s.UNM how ___
+The English translation of this sentence is: `(I wonder) what will happen to me because father scolded me?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When there is a lot of hesitation in the question, the question clitic -\textstyleStyleVernacularWordsItalic{i}, which normally marks a polar question, is added to the end of the question \REF{ex:7:x1187}. This is the same form that the echo questions have (\sectref{sec:7.2.3}).
+A: word: ifakim-i-nen=i	 gloss: kill-NP-FU.1s=QM
+B: word: ar-i-nen=i	 gloss: become-Np-FU.1s=QM
+C: word: beel(a)-al-i-non=i	 gloss: rotten-INCH-Np-FU.3s=QM
+D: word: ika-i-nen=i	 gloss: be-Np-FU.1s=QM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 19:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ni nain me=ko ___
+Gloss (with missing item): 2p.UNM that1 not=NF ___
+The English translation of this sentence is: `Didn't you see that?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Polar questions , also called nexus questions, or yes-no questions, expect either confirmation or negation of the questioned proposition. According to \citet[63]{Wurm1982}, a polar question in \textstyleAcronymallcaps{tng} languages is often marked by an affix which is part of the verb complex. In Mauwake it is coded by the question clitic -\textstyleStyleVernacularWordsItalic{i} (\sectref{sec:3.12.8}) and slightly rising intonation (\sectref{sec:2.1.3.2}), both occurring sentence-finally. Because Mauwake is an \textstyleAcronymallcaps{sov} language, the clitic most often attaches itself to a verb \REF{ex:7:x1179}, but it can attach to another word class as well, when there is no final verb \REF{ex:7:x1180}, \REF{ex:7:x1181}:
+A: word: uruf-a-man=i	 gloss: see-PA-2p=QM
+B: word: naap=i	 gloss: thus=QM
+C: word: uruf-a-m	 gloss: see-PA-1s
+D: word: ekap-e-man=i	 gloss: come-PA-2p=QM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 20:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is: `You?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Polar questions , also called nexus questions, or yes-no questions, expect either confirmation or negation of the questioned proposition. According to \citet[63]{Wurm1982}, a polar question in \textstyleAcronymallcaps{tng} languages is often marked by an affix which is part of the verb complex. In Mauwake it is coded by the question clitic -\textstyleStyleVernacularWordsItalic{i} (\sectref{sec:3.12.8}) and slightly rising intonation (\sectref{sec:2.1.3.2}), both occurring sentence-finally. Because Mauwake is an \textstyleAcronymallcaps{sov} language, the clitic most often attaches itself to a verb \REF{ex:7:x1179}, but it can attach to another word class as well, when there is no final verb \REF{ex:7:x1180}, \REF{ex:7:x1181}:
+A: word: nos=iw	 gloss: 2s.FC=LIM
+B: word: yos=i	 gloss: 1sg.FC=QM
+C: word: nos=i	 gloss: 2s.FC=QM
+D: word: wia	 gloss: 3p.ACC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 21:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Maa nain ___
+Gloss (with missing item): thing that1 ___
+The English translation of this sentence is: `Is that thing good?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Polar questions , also called nexus questions, or yes-no questions, expect either confirmation or negation of the questioned proposition. According to \citet[63]{Wurm1982}, a polar question in \textstyleAcronymallcaps{tng} languages is often marked by an affix which is part of the verb complex. In Mauwake it is coded by the question clitic -\textstyleStyleVernacularWordsItalic{i} (\sectref{sec:3.12.8}) and slightly rising intonation (\sectref{sec:2.1.3.2}), both occurring sentence-finally. Because Mauwake is an \textstyleAcronymallcaps{sov} language, the clitic most often attaches itself to a verb \REF{ex:7:x1179}, but it can attach to another word class as well, when there is no final verb \REF{ex:7:x1180}, \REF{ex:7:x1181}:
+A: word: eliwa=i	 gloss: good=QM
+B: word: eliwa=ko	 gloss: good=NF
+C: word: ar-i-nen=i	 gloss: become-Np-FU.1s=QM
+D: word: eliwa=ki	 gloss: good=CF.QM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 22:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Yo emeria=ko efar ___ e weetak?
+Gloss (with missing item): 1s.UNM woman=NF 1s.DAT ___ or no
+The English translation of this sentence is: `Did you see my wife or not?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The non-final alternatives in a closed question take the question marker -\textstyleStyleVernacularWordsItalic{i}. The final alternative, usually preceded by the disjunctive coordinator \textstyleStyleVernacularWordsItalic{e} `or' (\sectref{sec:3.11.2}), may be just a negation particle \textstyleStyleVernacularWordsItalic{weetak} or \textstyleStyleVernacularWordsItalic{wia} \REF{ex:7:x1182}, a full statement \REF{ex:7:x1183}, or an elliptical clause with only the questioned item \REF{ex:7:x1184}.
+A: word: uruf-a-man=i	 gloss: see-PA-2p=QM
+B: word: uruf-a-m	 gloss: see-PA-1s
+C: word: ekap-e-man=i	 gloss: come-PA-2p=QM
+D: word: maak-eya	 gloss: tell-2/3s.DS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 23:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Yo emeria=ko efar uruf-a-man=i ___ weetak?
+Gloss (with missing item): 1s.UNM woman=NF 1s.DAT see-PA-2p=QM ___ no
+The English translation of this sentence is: `Did you see my wife or not?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ththe mits gloss ___pheme ___ non-final altthe mits gloss ___pheme ___rnativthe mits gloss ___pheme ___s in a closthe mits gloss ___pheme ___d quthe mits gloss ___pheme ___stion takthe mits gloss ___pheme ___ ththe mits gloss ___pheme ___ quthe mits gloss ___pheme ___stion markthe mits gloss ___pheme ___r -\tthe mits gloss ___pheme ___xtstylthe mits gloss ___pheme ___Stylthe mits gloss ___pheme ___Vthe mits gloss ___pheme ___rnacularWits gloss ___dsItalic{i}. Ththe mits gloss ___pheme ___ final altthe mits gloss ___pheme ___rnativthe mits gloss ___pheme ___, usually prthe mits gloss ___pheme ___cthe mits gloss ___pheme ___dthe mits gloss ___pheme ___d by ththe mits gloss ___pheme ___ disjunctivthe mits gloss ___pheme ___ coits gloss ___dinatits gloss ___ \tthe mits gloss ___pheme ___xtstylthe mits gloss ___pheme ___Stylthe mits gloss ___pheme ___Vthe mits gloss ___pheme ___rnacularWits gloss ___dsItalic{the mits gloss ___pheme ___} `its gloss ___' (\sthe mits gloss ___pheme ___ctrthe mits gloss ___pheme ___f{sthe mits gloss ___pheme ___c:3.11.2}), may bthe mits gloss ___pheme ___ just a nthe mits gloss ___pheme ___gation particlthe mits gloss ___pheme ___ \tthe mits gloss ___pheme ___xtstylthe mits gloss ___pheme ___Stylthe mits gloss ___pheme ___Vthe mits gloss ___pheme ___rnacularWits gloss ___dsItalic{wthe mits gloss ___pheme ___the mits gloss ___pheme ___tak} its gloss ___ \tthe mits gloss ___pheme ___xtstylthe mits gloss ___pheme ___Stylthe mits gloss ___pheme ___Vthe mits gloss ___pheme ___rnacularWits gloss ___dsItalic{wia} \REF{the mits gloss ___pheme ___x:7:x1182}, a full statthe mits gloss ___pheme ___mthe mits gloss ___pheme ___nt \REF{the mits gloss ___pheme ___x:7:x1183}, its gloss ___ an the mits gloss ___pheme ___lliptical clausthe mits gloss ___pheme ___ with only ththe mits gloss ___pheme ___ quthe mits gloss ___pheme ___stionthe mits gloss ___pheme ___d itthe mits gloss ___pheme ___m \REF{the mits gloss ___pheme ___x:7:x1184}.
+A: word: fiker(a)	 gloss: kunai.grass
+B: word: e	 gloss: or
+C: word: ikiw-owa	 gloss: go-NMZ
+D: word: maake-miaw-i-yem	 gloss: tell-wander-NPS-PR.1s
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 24:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Nain kema ___ e kema irin-ar-e-man?
+Gloss (with missing item): that1 liver ___ or liver stuck-INCH-PA-2p
+The English translation of this sentence is: `Do you remember (lit: push the liver) that, or have you forgotten (lit: liver is stuck) it?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The non-final alternatives in a closed question take the question marker -\textstyleStyleVernacularWordsItalic{i}. The final alternative, usually preceded by the disjunctive coordinator \textstyleStyleVernacularWordsItalic{e} `or' (\sectref{sec:3.11.2}), may be just a negation particle \textstyleStyleVernacularWordsItalic{weetak} or \textstyleStyleVernacularWordsItalic{wia} \REF{ex:7:x1182}, a full statement \REF{ex:7:x1183}, or an elliptical clause with only the questioned item \REF{ex:7:x1184}.
+A: word: kain=ke	 gloss: which=CF
+B: word: uup-i-man=i	 gloss: cook-Np-2p=QM
+C: word: suuw-i-man=i	 gloss: push-Np-PR.2p=QM
+D: word: wu-i-man=i	 gloss: put-Np-PR.2p=QM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 25:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Nain kema suuw-i-man=i ___ kema irin-ar-e-man?
+Gloss (with missing item): that1 liver push-Np-PR.2p=QM ___ liver stuck-INCH-PA-2p
+The English translation of this sentence is: `Do you remember (lit: push the liver) that, or have you forgotten (lit: liver is stuck) it?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ththe mits gloss ___pheme ___ non-final altthe mits gloss ___pheme ___rnativthe mits gloss ___pheme ___s in a closthe mits gloss ___pheme ___d quthe mits gloss ___pheme ___stion takthe mits gloss ___pheme ___ ththe mits gloss ___pheme ___ quthe mits gloss ___pheme ___stion markthe mits gloss ___pheme ___r -\tthe mits gloss ___pheme ___xtstylthe mits gloss ___pheme ___Stylthe mits gloss ___pheme ___Vthe mits gloss ___pheme ___rnacularWits gloss ___dsItalic{i}. Ththe mits gloss ___pheme ___ final altthe mits gloss ___pheme ___rnativthe mits gloss ___pheme ___, usually prthe mits gloss ___pheme ___cthe mits gloss ___pheme ___dthe mits gloss ___pheme ___d by ththe mits gloss ___pheme ___ disjunctivthe mits gloss ___pheme ___ coits gloss ___dinatits gloss ___ \tthe mits gloss ___pheme ___xtstylthe mits gloss ___pheme ___Stylthe mits gloss ___pheme ___Vthe mits gloss ___pheme ___rnacularWits gloss ___dsItalic{the mits gloss ___pheme ___} `its gloss ___' (\sthe mits gloss ___pheme ___ctrthe mits gloss ___pheme ___f{sthe mits gloss ___pheme ___c:3.11.2}), may bthe mits gloss ___pheme ___ just a nthe mits gloss ___pheme ___gation particlthe mits gloss ___pheme ___ \tthe mits gloss ___pheme ___xtstylthe mits gloss ___pheme ___Stylthe mits gloss ___pheme ___Vthe mits gloss ___pheme ___rnacularWits gloss ___dsItalic{wthe mits gloss ___pheme ___the mits gloss ___pheme ___tak} its gloss ___ \tthe mits gloss ___pheme ___xtstylthe mits gloss ___pheme ___Stylthe mits gloss ___pheme ___Vthe mits gloss ___pheme ___rnacularWits gloss ___dsItalic{wia} \REF{the mits gloss ___pheme ___x:7:x1182}, a full statthe mits gloss ___pheme ___mthe mits gloss ___pheme ___nt \REF{the mits gloss ___pheme ___x:7:x1183}, its gloss ___ an the mits gloss ___pheme ___lliptical clausthe mits gloss ___pheme ___ with only ththe mits gloss ___pheme ___ quthe mits gloss ___pheme ___stionthe mits gloss ___pheme ___d itthe mits gloss ___pheme ___m \REF{the mits gloss ___pheme ___x:7:x1184}.
+A: word: piipu-eka	 gloss: leave-IMP.2p
+B: word: e	 gloss: or
+C: word: maake-miaw-i-yem	 gloss: tell-wander-NPS-PR.1s
+D: word: eliwa=i	 gloss: good=QM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 26:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): No Matukar ___ Dylup=i e Sarang?
+Gloss (with missing item): 2s.UNM Matukar ___ Dylup=QM or Sarang
+The English translation of this sentence is: `Will you go to Matukar, Dylup, or Sarang?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The non-final alternatives in a closed question take the question marker -\textstyleStyleVernacularWordsItalic{i}. The final alternative, usually preceded by the disjunctive coordinator \textstyleStyleVernacularWordsItalic{e} `or' (\sectref{sec:3.11.2}), may be just a negation particle \textstyleStyleVernacularWordsItalic{weetak} or \textstyleStyleVernacularWordsItalic{wia} \REF{ex:7:x1182}, a full statement \REF{ex:7:x1183}, or an elliptical clause with only the questioned item \REF{ex:7:x1184}.
+A: word: ikiw-i-non=i	 gloss: go-Np-FU.3p=QM
+B: word: wu-a-man=i	 gloss: put-PA-2p=QM
+C: word: ikiw-i-nan=i	 gloss: go-Np-FU.2s=QM
+D: word: ikiw-i-nan=na	 gloss: go-Np-FU.2s=TP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 27:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): No Matukar ikiw-i-nan=i ___ e Sarang?
+Gloss (with missing item): 2s.UNM Matukar go-Np-FU.2s=QM ___ or Sarang
+The English translation of this sentence is: `Will you go to Matukar, Dylup, or Sarang?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The non-final alternatives in a closed question take the question marker -\textstyleStyleVernacularWordsItalic{i}. The final alternative, usually preceded by the disjunctive coordinator \textstyleStyleVernacularWordsItalic{e} `or' (\sectref{sec:3.11.2}), may be just a negation particle \textstyleStyleVernacularWordsItalic{weetak} or \textstyleStyleVernacularWordsItalic{wia} \REF{ex:7:x1182}, a full statement \REF{ex:7:x1183}, or an elliptical clause with only the questioned item \REF{ex:7:x1184}.
+A: word: dylup	 gloss: Dylup
+B: word: maak-eya	 gloss: tell-2/3s.DS
+C: word: dylup=i	 gloss: Dylup=QM
+D: word: ik-omak-iwkin	 gloss: be-DISTR/PL-2/3p.DS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 28:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): No Matukar ikiw-i-nan=i Dylup=i ___ Sarang?
+Gloss (with missing item): 2s.UNM Matukar go-Np-FU.2s=QM Dylup=QM ___ Sarang
+The English translation of this sentence is: `Will you go to Matukar, Dylup, or Sarang?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ththe mits gloss ___pheme ___ non-final altthe mits gloss ___pheme ___rnativthe mits gloss ___pheme ___s in a closthe mits gloss ___pheme ___d quthe mits gloss ___pheme ___stion takthe mits gloss ___pheme ___ ththe mits gloss ___pheme ___ quthe mits gloss ___pheme ___stion markthe mits gloss ___pheme ___r -\tthe mits gloss ___pheme ___xtstylthe mits gloss ___pheme ___Stylthe mits gloss ___pheme ___Vthe mits gloss ___pheme ___rnacularWits gloss ___dsItalic{i}. Ththe mits gloss ___pheme ___ final altthe mits gloss ___pheme ___rnativthe mits gloss ___pheme ___, usually prthe mits gloss ___pheme ___cthe mits gloss ___pheme ___dthe mits gloss ___pheme ___d by ththe mits gloss ___pheme ___ disjunctivthe mits gloss ___pheme ___ coits gloss ___dinatits gloss ___ \tthe mits gloss ___pheme ___xtstylthe mits gloss ___pheme ___Stylthe mits gloss ___pheme ___Vthe mits gloss ___pheme ___rnacularWits gloss ___dsItalic{the mits gloss ___pheme ___} `its gloss ___' (\sthe mits gloss ___pheme ___ctrthe mits gloss ___pheme ___f{sthe mits gloss ___pheme ___c:3.11.2}), may bthe mits gloss ___pheme ___ just a nthe mits gloss ___pheme ___gation particlthe mits gloss ___pheme ___ \tthe mits gloss ___pheme ___xtstylthe mits gloss ___pheme ___Stylthe mits gloss ___pheme ___Vthe mits gloss ___pheme ___rnacularWits gloss ___dsItalic{wthe mits gloss ___pheme ___the mits gloss ___pheme ___tak} its gloss ___ \tthe mits gloss ___pheme ___xtstylthe mits gloss ___pheme ___Stylthe mits gloss ___pheme ___Vthe mits gloss ___pheme ___rnacularWits gloss ___dsItalic{wia} \REF{the mits gloss ___pheme ___x:7:x1182}, a full statthe mits gloss ___pheme ___mthe mits gloss ___pheme ___nt \REF{the mits gloss ___pheme ___x:7:x1183}, its gloss ___ an the mits gloss ___pheme ___lliptical clausthe mits gloss ___pheme ___ with only ththe mits gloss ___pheme ___ quthe mits gloss ___pheme ___stionthe mits gloss ___pheme ___d itthe mits gloss ___pheme ___m \REF{the mits gloss ___pheme ___x:7:x1184}.
+A: word: e	 gloss: or
+B: word: ook-owa	 gloss: follow-NMZ
+C: word: kamenion	 gloss: or.what
+D: word: maake-miaw-i-yem	 gloss: tell-wander-NPS-PR.1s
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 29:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Matukar ___ e Dylup ikiw-i-nan=i?
+Gloss (with missing item): Matukar ___ or Dylup go-Np-FU.2s=QM
+The English translation of this sentence is: `Will you go to Matukar or Dylup (or perhaps neither)?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the alternative question is open, the question marker -\textstyleStyleVernacularWordsItalic{i} marks not only the non-final alternatives but also the final one \REF{ex:7:x1185}, \REF{ex:7:x1186}.
+A: word: ikiw-i-nan=i	 gloss: go-Np-FU.2s=QM
+B: word: ikiw-i-non=i	 gloss: go-Np-FU.3p=QM
+C: word: dylup=i	 gloss: Dylup=QM
+D: word: ikiw-i-nan=na	 gloss: go-Np-FU.2s=TP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 30:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Matukar ikiw-i-nan=i ___ Dylup ikiw-i-nan=i?
+Gloss (with missing item): Matukar go-Np-FU.2s=QM ___ Dylup go-Np-FU.2s=QM
+The English translation of this sentence is: `Will you go to Matukar or Dylup (or perhaps neither)?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Whthe mits gloss ___pheme ___n ththe mits gloss ___pheme ___ altthe mits gloss ___pheme ___rnativthe mits gloss ___pheme ___ quthe mits gloss ___pheme ___stion is opthe mits gloss ___pheme ___n, ththe mits gloss ___pheme ___ quthe mits gloss ___pheme ___stion markthe mits gloss ___pheme ___r -\tthe mits gloss ___pheme ___xtstylthe mits gloss ___pheme ___Stylthe mits gloss ___pheme ___Vthe mits gloss ___pheme ___rnacularWits gloss ___dsItalic{i} marks not only ththe mits gloss ___pheme ___ non-final altthe mits gloss ___pheme ___rnativthe mits gloss ___pheme ___s but also ththe mits gloss ___pheme ___ final onthe mits gloss ___pheme ___ \REF{the mits gloss ___pheme ___x:7:x1185}, \REF{the mits gloss ___pheme ___x:7:x1186}.
+A: word: popor(a)	 gloss: quiet
+B: word: e	 gloss: or
+C: word: maake-miaw-i-yem	 gloss: tell-wander-NPS-PR.1s
+D: word: om-em-ika-i-nan	 gloss: cry-SS.SIM-be-Np-FU.2s
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 31:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Matukar ikiw-i-nan=i e Dylup ___
+Gloss (with missing item): Matukar go-Np-FU.2s=QM or Dylup ___
+The English translation of this sentence is: `Will you go to Matukar or Dylup (or perhaps neither)?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the alternative question is open, the question marker -\textstyleStyleVernacularWordsItalic{i} marks not only the non-final alternatives but also the final one \REF{ex:7:x1185}, \REF{ex:7:x1186}.
+A: word: ikiw-i-nan=na	 gloss: go-Np-FU.2s=TP
+B: word: ikiw-i-non=i	 gloss: go-Np-FU.3p=QM
+C: word: sail-i-nan	 gloss: lie-Np-FU.2s
+D: word: ikiw-i-nan=i	 gloss: go-Np-FU.2s=QM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 32:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mukuna=ko ___ e mua=ko wia uruf-a-man=i?
+Gloss (with missing item): fire=NF ___ or man=NF 3.ACC see-PA-2p=QM
+The English translation of this sentence is: `Did you light a fire or did you feel (that there was) a man?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the alternative question is open, the question marker -\textstyleStyleVernacularWordsItalic{i} marks not only the non-final alternatives but also the final one \REF{ex:7:x1185}, \REF{ex:7:x1186}.
+A: word: uruf-a-man=i	 gloss: see-PA-2p=QM
+B: word: wu-a-man=i	 gloss: put-PA-2p=QM
+C: word: karu-eya	 gloss: run-2/3s.DS
+D: word: kamin=pa	 gloss: how.much=LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 33:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mukuna=ko wu-a-man=i ___ mua=ko wia uruf-a-man=i?
+Gloss (with missing item): fire=NF put-PA-2p=QM ___ man=NF 3.ACC see-PA-2p=QM
+The English translation of this sentence is: `Did you light a fire or did you feel (that there was) a man?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Whthe mits gloss ___pheme ___n ththe mits gloss ___pheme ___ altthe mits gloss ___pheme ___rnativthe mits gloss ___pheme ___ quthe mits gloss ___pheme ___stion is opthe mits gloss ___pheme ___n, ththe mits gloss ___pheme ___ quthe mits gloss ___pheme ___stion markthe mits gloss ___pheme ___r -\tthe mits gloss ___pheme ___xtstylthe mits gloss ___pheme ___Stylthe mits gloss ___pheme ___Vthe mits gloss ___pheme ___rnacularWits gloss ___dsItalic{i} marks not only ththe mits gloss ___pheme ___ non-final altthe mits gloss ___pheme ___rnativthe mits gloss ___pheme ___s but also ththe mits gloss ___pheme ___ final onthe mits gloss ___pheme ___ \REF{the mits gloss ___pheme ___x:7:x1185}, \REF{the mits gloss ___pheme ___x:7:x1186}.
+A: word: e	 gloss: or
+B: word: maake-miaw-i-yem	 gloss: tell-wander-NPS-PR.1s
+C: word: ma-e-n=i	 gloss: say-PA-2s=QM
+D: word: oko	 gloss: other
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 34:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mukuna=ko wu-a-man=i e mua=ko wia ___
+Gloss (with missing item): fire=NF put-PA-2p=QM or man=NF 3.ACC ___
+The English translation of this sentence is: `Did you light a fire or did you feel (that there was) a man?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the alternative question is open, the question marker -\textstyleStyleVernacularWordsItalic{i} marks not only the non-final alternatives but also the final one \REF{ex:7:x1185}, \REF{ex:7:x1186}.
+A: word: uruf-a-man=i	 gloss: see-PA-2p=QM
+B: word: (mua)	 gloss: (man)
+C: word: ekap-e-man=i	 gloss: come-PA-2p=QM
+D: word: uruf-a-m	 gloss: see-PA-1s
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 35:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Maa en-owa=ko ___ kamenion?
+Gloss (with missing item): food eat-NMZ=NF ___ or.what
+The English translation of this sentence is: `Did they bring food, or what?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: An alternative question is left open also when the last alternative is replaced with the question word \textstyleStyleVernacularWordsItalic{kamenion} '(or) what?'/ `(or) how is it?' \REF{ex:7:x1350}, \REF{ex:7:x1351}.
+A: word: ekap-e-mik	 gloss: come-PA-1/3p
+B: word: p-ekap-e-mik=i	 gloss: BPX-come-PA-1/3p=QM
+C: word: ekap-e-man=i	 gloss: come-PA-2p=QM
+D: word: nop-ap	 gloss: search-SS.SEQ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 36:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Maa en-owa=ko p-ekap-e-mik=i ___
+Gloss (with missing item): food eat-NMZ=NF BPX-come-PA-1/3p=QM ___
+The English translation of this sentence is: `Did they bring food, or what?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: An alternative question is left open also when the last alternative is replaced with the question word \textstyleStyleVernacularWordsItalic{the morpheme ___} '(or) what?'/ `(or) how is it?' \REF{ex:7:x1350}, \REF{ex:7:x1351}.
+A: word: sail-i-nan	 gloss: lie-Np-FU.2s
+B: word: kamenion	 gloss: or.what
+C: word: (e)	 gloss: (or)
+D: word: kamenap	 gloss: what.like
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 37:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ kamenion, naap uruf-am-ik-ua.
+Gloss (with missing item): ___ or.what thus see-SS.SIM-be-PA.3s
+The English translation of this sentence is: `He was watching whether it would rot or what would happen.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: An alternative question is left open also when the last alternative is replaced with the question word \textstyleStyleVernacularWordsItalic{kamenion} '(or) what?'/ `(or) how is it?' \REF{ex:7:x1350}, \REF{ex:7:x1351}.
+A: word: beel(a)-al-i-non=i	 gloss: rotten-INCH-Np-FU.3s=QM
+B: word: beel-al-i-non=i	 gloss: rotten-INCH-NP-FU.3s=QM
+C: word: muuka=ki	 gloss: son=CF.QM
+D: word: weetak	 gloss: no
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 38:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Beel(a)-al-i-non=i ___ naap uruf-am-ik-ua.
+Gloss (with missing item): rotten-INCH-Np-FU.3s=QM ___ thus see-SS.SIM-be-PA.3s
+The English translation of this sentence is: `He was watching whether it would rot or what would happen.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: An alternative question is left open also when the last alternative is replaced with the question word \textstyleStyleVernacularWordsItalic{the morpheme ___} '(or) what?'/ `(or) how is it?' \REF{ex:7:x1350}, \REF{ex:7:x1351}.
+A: word: kamenion	 gloss: or.what
+B: word: kamenap	 gloss: what.like
+C: word: ma-eya	 gloss: tell-2/3s.DS
+D: word: (e)	 gloss: (or)
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 39:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Me ___
+Gloss (with missing item): not ___
+The English translation of this sentence is: `He didn't go, did he?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Leading questions are another subtype of polar questions. The person asking wants to guide the answer in a certain direction. This is done in Mauwake by adding the epistemic modal adverb clitic -\textstyleStyleVernacularWordsItalic{yon} `perhaps' to the predicate of the question clause. The slightly rising intonation in the question distinguishes it from a statement \REF{ex:7:x1349}.
+A: word: p-ikiw-o-k	 gloss: BPX-go-PA-3s
+B: word: (na-e-k)	 gloss: say-PA-3s
+C: word: kain=ke	 gloss: which=CF
+D: word: ikiw-o-k=yon	 gloss: go-PA-3s-perhaps
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 40:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): B: Mua naarew wia ___
+Gloss (with missing item): B: man who 3.ACC ___
+The English translation of this sentence is: `Who did he tell???'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the validity of a \textstyleEmphasizedWords{{non-polar question}} \REF{ex:7:x1190} is questioned, the question clitic is attached directly to the end of the question already containing a question word \REF{ex:7:x1191}.
+A: word: aaw-o-k=i	 gloss: get-PA-3s=QM
+B: word: maak-e-k=i	 gloss: tell-PA-3s=QM
+C: word: maak-e-k	 gloss: tell-PA-3s
+D: word: suuw-i-man=i	 gloss: push-Np-PR.2p=QM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 41:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): B: Mua naarew wia maak-e-k ___
+Gloss (with missing item): B: man who 3.ACC tell-PA-3s ___
+The English translation of this sentence is: `Are you asking who he told?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: But if the addressee wants to check if (s)he heard correctly, the echoed question is made into a complement of a sentence-final utterance verb, to which a question clitic is attached \REF{ex:7:x1192}.
+A: word: maak-eya	 gloss: tell-2/3s.DS
+B: word: na-i-n=i	 gloss: say-Np-PR.2s=QM
+C: word: wu-i-man=i	 gloss: put-Np-PR.2p=QM
+D: word: ma-i-n=i	 gloss: say-Np-PR.2s=QM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 42:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): A: Nain eliwa=ki? B: Nain eliwa-ki ___
+Gloss (with missing item): A: that1 good=CF.QM B: that1 good=CF.QM ___
+The English translation of this sentence is: `A: Is that good? B: Did you ask if that is good?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since \textstyleEmphasizedWords{{polar questions}} already have a clause-final question clitic, an echo question cannot be formed by adding the same clitic a second time. Instead, the original question is made into a complement of the utterance verb \textstyleStyleVernacularWordsItalic{ma}- `say' or \textstyleStyleVernacularWordsItalic{na}- `say/think' \REF{ex:7:x1193}.
+A: word: ekap-e-man=i	 gloss: come-PA-2p=QM
+B: word: ma-e-n=yon	 gloss: say-PA-2s-perhaps
+C: word: -weetak	 gloss: -no
+D: word: ma-e-n=i	 gloss: say-PA-2s=QM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 43:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ni kema maneka naap efa wu-i-man=i, yo eliw nia saliw-i-nen, ___
+Gloss (with missing item): 2p.UNM liver big thus 1s.ACC put-Np-PR.2p=QM 1s.UNM well 2p.ACC heal-Np-FU.1s ___
+The English translation of this sentence is: `Do you believe about me that I can heal you, is that so?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Confirmation questions are mainly used in argumentation. The question word \textstyleStyleVernacularWordsItalic{naap}\textstyleStyleVernacularWordsItalic{-i} `(is it) like that?' is tagged to a statement, which may be preceded by another question \REF{ex:7:x1188}.
+A: word: erup-i	 gloss: two=QM
+B: word: ikiw-owa	 gloss: go-NMZ
+C: word: naap=iw	 gloss: thus=INST
+D: word: naap=i	 gloss: thus=QM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 44:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ yo mauw-a-m ne o me efa uruf-a-k.
+Gloss (with missing item): ___ 1s.UNM work-PA-1s ADD 3s.UNM not 1s.ACC see-PA-3s
+The English translation of this sentence is: `I worked but he did not even look at me.' (Implying: Your presupposition is wrong; he did not do anything indecent to me.)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If the speaker wants to negate the presupposition in the question \REF{ex:7:x1223}, (s)he begins with a negator, and then goes on to answer the question itself \REF{ex:7:x1224}.
+A: word: (mua)	 gloss: (man)
+B: word: weetak-eya	 gloss: no-2/3s.DS
+C: word: weetak	 gloss: no
+D: word: -weetak/wia	 gloss: -no
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 45:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): O aakun-owa marew=yon. ___ aakun-owa wiar ik-ua.
+Gloss (with missing item): 3s.UNM talk-NMZ no(ne)-perhaps ___ talk-NMZ 3.DAT be-PA.3s
+The English translation of this sentence is: `Perhaps he doesn't have anything to say. --No, he \textstyleEmphasizedWords{{does}} have something to say.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If the question or statement itself is negative, a one-word answer is ambiguous in present-day usage, and a full clause is needed to disambiguate it \REF{ex:7:x1151}. Traditionally an answer to a question affirmed or negated the affirmative or negative \textstyleEmphasizedWords{{polarity}} of the question or statement \REF{ex:7:x1117}.
+A: word: weetak	 gloss: no
+B: word: om-em-ika-i-nan	 gloss: cry-SS.SIM-be-Np-FU.2s
+C: word: mufe-wiaw-ik-ok	 gloss: pull-move.around-be-SS
+D: word: -wia	 gloss: -no
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 46:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Auwa me ekap-o-k=i? ___ (ekap-o-k).
+Gloss (with missing item): 1s/p.father not come-PA-3s=QM ___ (come-PA-3s)
+The English translation of this sentence is: `Didn't father come? --Yes (he \textstyleEmphasizedWords{{did}}).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If the question or statement itself is negative, a one-word answer is ambiguous in present-day usage, and a full clause is needed to disambiguate it \REF{ex:7:x1151}. Traditionally an answer to a question affirmed or negated the affirmative or negative \textstyleEmphasizedWords{{polarity}} of the question or statement \REF{ex:7:x1117}.
+A: word: weetak	 gloss: no
+B: word: ik-ok	 gloss: be-SS
+C: word: -weetak/wia	 gloss: -no
+D: word: -weetak	 gloss: -no
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 47:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Auwa me ekap-o-k=i? ___ (me ekap-o-k).
+Gloss (with missing item): 1s/p.father not come-PA-3s=QM ___ (not come-PA-3s)
+The English translation of this sentence is: `Didn't father come? --No (he didn't).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: But Mauwake is changing to become more like English in that the negative answer stands for a negative statement regardless of the polarity of the question or statement that it is a reply to \REF{ex:7:x1118}:\footnote{A similar change is taking place in Tok Pisin, and it is likely that this is causing the development in Mauwake too.}
+A: word: weetak	 gloss: no
+B: word: -weetak/wia	 gloss: -no
+C: word: maak-e-k=i	 gloss: tell-PA-3s=QM
+D: word: -weetak	 gloss: -no
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 48:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ni Medebur ___ baurar-eka.
+Gloss (with missing item): 2p.UNM Medebur ___ flee-IMP.2p
+The English translation of this sentence is: `Run(pl.) to Medebur, flee.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The simple imperative is the default way of expressing a command in Mauwake. It shows in the verb inflection \REF{ex:7:x1072} (\sectref{sec:3.8.3.3.2}). In a prohibition the verbal negator \textstyleStyleVernacularWordsItalic{me} `not' precedes the simple imperative \REF{ex:7:x1075}.
+A: word: ikiw-eka	 gloss: go-IMP.2p
+B: word: karu-eka	 gloss: run-IMP.2p
+C: word: ikiw-ep	 gloss: go-SS.SEQ
+D: word: karu-emi	 gloss: run-SS.SIM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 49:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Momora, no naap ___ ma-e.
+Gloss (with missing item): fool 2s.UNM thus ___ say-IMP.2s
+The English translation of this sentence is: `Fool, don't say like that.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The simple imperative is the default way of expressing a command in Mauwake. It shows in the verb inflection \REF{ex:7:x1072} (\sectref{sec:3.8.3.3.2}). In a prohibition the verbal negator \textstyleStyleVernacularWordsItalic{the morpheme ___} `its gloss ___' precedes the simple imperative \REF{ex:7:x1075}.
+A: word: me	 gloss: not
+B: word: emeria	 gloss: woman
+C: word: ma-eya	 gloss: tell-2/3s.DS
+D: word: (me	 gloss: (not
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 50:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ni sira samora ___ akena}.
+Gloss (with missing item): 2p.UNM habit bad ___ truly
+The English translation of this sentence is: `Really get rid of your bad habits.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The simple imperative can be strengthened with the intensity adverb \textstyleStyleVernacularWordsItalic{akena} `very, truly' following the verb \REF{ex:7:x1073}.
+A: word: piipu-eka	 gloss: leave-IMP.2p
+B: word: perek-eka	 gloss: pull.out-IMP.2p
+C: word: kaakew	 gloss: which.village
+D: word: piipua-i-nan=i	 gloss: leave-Np-FU.2s=QM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 51:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nom!
+Gloss (with missing item): ___ please
+The English translation of this sentence is: `Stop crying, \textstyleEmphasizedWords{{please}}!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another way to intensify it is with the clause-final interjection \textstyleStyleVernacularWordsItalic{nom} `\textstyleEmphasizedWords{{please}}!', which is only used when a person has already been told to do something at least once and has not complied \REF{ex:7:x1074}.
+A: word: niir-e	 gloss: laugh-IMP.2s
+B: word: naareke	 gloss: who.CF
+C: word: pootin-e	 gloss: stop.crying-IMP.2s
+D: word: in-em-ik-e-mik	 gloss: sleep-SS.SIM-be-PA-1/3p
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 52:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pootin-e, ___
+Gloss (with missing item): stop.crying-IMP.2s ___
+The English translation of this sentence is: `Stop crying, \textstyleEmphasizedWords{{please}}!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another way to intensify it is with the clause-final interjection \textstyleStyleVernacularWordsItalic{the morpheme ___} `\textstyleEmphasizedWords{{its gloss ___}}!', which is only used when a person has already been told to do something at least once and has not complied \REF{ex:7:x1074}.
+A: word: nomak-ep	 gloss: surpass-SS.SEQ
+B: word: na-i-n=i	 gloss: say-Np-PR.2s=QM
+C: word: fan	 gloss: here
+D: word: nom	 gloss: please
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 53:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): No opaimika pon aaw-o-n nain ___ i miim-i-yen.
+Gloss (with missing item): 2s.UNM talk turtle get-PA-3s that1 ___ 1p.UNM hear-Np-FU.1p
+The English translation of this sentence is: `Tell us about your catching a turtle, and we'll listen.' (Or: `You will tell us about your catching a turtle and we'll listen.')
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The imperative marking on verbs shows only in the finite forms. When a command or request is in a medial clause, and the final clause verb is in the indicative mood and future tense, there is nothing in the medial verb to indicate the mood \REF{ex:7:x1076}.
+A: word: ma-eya	 gloss: tell-2/3s.DS
+B: word: maak-iwkin	 gloss: tell-2/3p.DS
+C: word: kamin	 gloss: how.much
+D: word: ika-eya	 gloss: be-2/3s.DS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 54:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is: `Bring it!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: This type of clause combination has given rise to a softer, less direct command, which is given with a medial different-subject form of a verb; the final clause is left out altogether \REF{ex:7:x1084}.\footnote{This fairly common use of a medial verb form in Papuan languages is probably the origin of the use of pastaim `first' in Tok Pisin commands, e.g. Kam pastaim `Come!'} This form is particularly common when commands are given to children.
+A: word: ekap-eya	 gloss: come-2/3s.DS
+B: word: p-ekap-eya	 gloss: BPX-come-2/3s.DS
+C: word: p-er-iwkin	 gloss: BPX-go-2/3p.DS
+D: word: -weetak	 gloss: -no
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 55:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Emeria manina ___ en-owa nop-ap or-eka.
+Gloss (with missing item): woman garden ___ eat-NMZ search-SS.SEQ descend-IMP.2p
+The English translation of this sentence is: `Women, go to the garden, look for food and come down.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The imperative of the final clause may have an influence on the medial clause(s) so that they are also interpreted as belonging within the scope of the command. This happens very easily with same-subject medial verbs \REF{ex:7:x1082}; it is also possible but much less likely when the subject changes \REF{ex:7:x1364}.\footnote{This example may also be interpreted to have two commands: a ``soft'' one, expressed with a medial verb, and a regular one.} Example \REF{ex:7:x1846} is ambiguous: in the situation where it was said, the medial clause was not in the scope of the final clause imperative; in some other situation it could be. When the medial verb has a first person form, imperative interpretation is not possible \REF{ex:7:x1083}.
+A: word: ir-ap	 gloss: come/go-SS.SEQ
+B: word: karu-eka	 gloss: run-IMP.2p
+C: word: p-ikiw-ep	 gloss: BPX-go-SS.SEQ
+D: word: ikiw-ep	 gloss: go-SS.SEQ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 56:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Emeria manina ikiw-ep en-owa ___ or-eka.
+Gloss (with missing item): woman garden go-SS.SEQ eat-NMZ ___ descend-IMP.2p
+The English translation of this sentence is: `Women, go to the garden, look for food and come down.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The imperative of the final clause may have an influence on the medial clause(s) so that they are also interpreted as belonging within the scope of the command. This happens very easily with same-subject medial verbs \REF{ex:7:x1082}; it is also possible but much less likely when the subject changes \REF{ex:7:x1364}.\footnote{This example may also be interpreted to have two commands: a ``soft'' one, expressed with a medial verb, and a regular one.} Example \REF{ex:7:x1846} is ambiguous: in the situation where it was said, the medial clause was not in the scope of the final clause imperative; in some other situation it could be. When the medial verb has a first person form, imperative interpretation is not possible \REF{ex:7:x1083}.
+A: word: nop-ap-pu-ap	 gloss: clear-SS.SEQ-CMPL-SS.SEQ
+B: word: ma-e-n=i	 gloss: say-PA-2s=QM
+C: word: nop-ap	 gloss: search-SS.SEQ
+D: word: imen-ap	 gloss: find-SS.SEQ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 57:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mua emeria wia ___ me efa enim-uk.
+Gloss (with missing item): man woman 3p.ACC ___ not 2s.ACC eat-IMP.3p
+The English translation of this sentence is: `Tell the people and let them not eat me.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The imperative of the final clause may have an influence on the medial clause(s) so that they are also interpreted as belonging within the scope of the command. This happens very easily with same-subject medial verbs \REF{ex:7:x1082}; it is also possible but much less likely when the subject changes \REF{ex:7:x1364}.\footnote{This example may also be interpreted to have two commands: a ``soft'' one, expressed with a medial verb, and a regular one.} Example \REF{ex:7:x1846} is ambiguous: in the situation where it was said, the medial clause was not in the scope of the final clause imperative; in some other situation it could be. When the medial verb has a first person form, imperative interpretation is not possible \REF{ex:7:x1083}.
+A: word: weetak-eya	 gloss: no-2/3s.DS
+B: word: maak-eya	 gloss: tell-2/3s.DS
+C: word: naap=i	 gloss: thus=QM
+D: word: maak-iwkin	 gloss: tell-2/3p.DS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 58:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Feeke wiar ___ kiiriw mua wiar urup-e.
+Gloss (with missing item): here.CF 3.DAT ___ again man 3.DAT ascend-IMP.2s
+The English translation of this sentence is: `Having been here with him (=your brother), go up to your husband again.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The imperative of the final clause may have an influence on the medial clause(s) so that they are also interpreted as belonging within the scope of the command. This happens very easily with same-subject medial verbs \REF{ex:7:x1082}; it is also possible but much less likely when the subject changes \REF{ex:7:x1364}.\footnote{This example may also be interpreted to have two commands: a ``soft'' one, expressed with a medial verb, and a regular one.} Example \REF{ex:7:x1846} is ambiguous: in the situation where it was said, the medial clause was not in the scope of the final clause imperative; in some other situation it could be. When the medial verb has a first person form, imperative interpretation is not possible \REF{ex:7:x1083}.
+A: word: ik-ok	 gloss: be-SS
+B: word: mauw-am-ik-ok	 gloss: work-SS.SIM-be-SS
+C: word: ikiw-em-ik-ok	 gloss: go-SS.SIM-be-SS
+D: word: wia	 gloss: 3p.ACC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 59:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): No ___ sail-i-nan!
+Gloss (with missing item): 2s.UNM ___ lie-Np-FU.2s
+The English translation of this sentence is: `Don't lie!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The second person future tense form is also used for a command, but this is its gloss ___ very common. It is used in a specific situation, its gloss ___ for giving generic commands or rules. The sentence \REF{ex:7:x1080} was said to a person who was suspected of lying, and in \REF{ex:7:x1081} parents give instructions to their daughter how to mourn.
+A: word: (me	 gloss: (not
+B: word: me	 gloss: not
+C: word: emeria	 gloss: woman
+D: word: kamenap	 gloss: what.like
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 60:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): No me ___
+Gloss (with missing item): 2s.UNM not ___
+The English translation of this sentence is: `Don't lie!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The second person future tense form is also used for a command, but this is not very common. It is used in a specific situation, not for giving generic commands or rules. The sentence \REF{ex:7:x1080} was said to a person who was suspected of lying, and in \REF{ex:7:x1081} parents give instructions to their daughter how to mourn.
+A: word: on-i-nan	 gloss: do-NP-FU.2s
+B: word: yi-i-nan=i	 gloss: give.me-Np-FU.2s=QM
+C: word: sail-i-nan	 gloss: lie-Np-FU.2s
+D: word: kamin	 gloss: how.much
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 61:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Naap ma-emi ___ na.
+Gloss (with missing item): thus say-SS.SIM ___ INTJ
+The English translation of this sentence is: `Say like that and wail.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The second person future tense form is also used for a command, but this is not very common. It is used in a specific situation, not for giving generic commands or rules. The sentence \REF{ex:7:x1080} was said to a person who was suspected of lying, and in \REF{ex:7:x1081} parents give instructions to their daughter how to mourn.
+A: word: eliwa=ki	 gloss: good=CF.QM
+B: word: om-em-ika-i-nan	 gloss: cry-SS.SIM-be-Np-FU.2s
+C: word: mua=iw	 gloss: man=LIM
+D: word: om-em-ika-i-n	 gloss: cry-SS.SIM-be-Np-PR.2s
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
