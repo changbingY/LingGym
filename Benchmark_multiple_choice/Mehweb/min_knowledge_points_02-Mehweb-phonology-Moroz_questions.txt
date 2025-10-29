@@ -1,0 +1,221 @@
+Question 0:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`drink (it)!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: distinguished by the position of the \isi{stress} (cf.\ (\ref{ex:35}–\ref{ex:38})).
+A: word: d-úž-e	 gloss: NPL-drink:IPFV-IMP
+B: word: b-už-uwe	 gloss: N-drink:IPFV-CVB.IPFV
+C: word: úrc-ab	 gloss: fly:IPFV-OPT
+D: word: d-uz-es	 gloss: F1-work:IPFV-INF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 1:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`if only he would read'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: stressed (cf.\ (\ref{ex:44}–\ref{ex:45})):
+A: word: úrc-ab	 gloss: fly:IPFV-OPT
+B: word: luč'-a-k'a	 gloss: read:IPFV-IRR-COND
+C: word: lúč'-ab	 gloss: read:IPFV-OPT
+D: word: ʜaˤ-d-irʡ-aˤn	 gloss: NEG-NPL-freeze:IPFV-HAB
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 2:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`if only he would fly'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: stressed (cf.\ (\ref{ex:44}–\ref{ex:45})):
+A: word: diʔ	 gloss: meat
+B: word: úrc-ab	 gloss: fly:IPFV-OPT
+C: word: ħa-d-irʔ-an	 gloss: NEG-NPL-gather:IPFV-HAB
+D: word: lúč'-ab	 gloss: read:IPFV-OPT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 3:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`(he) didn't throw'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: iC or uC, i becomes j (as in (\ref{ex:52}) and (\ref{ex:53}))
+A: word: ʜaˤ-d-irʡ-aˤn	 gloss: NEG-NPL-freeze:IPFV-HAB
+B: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+C: word: ħawcib~/ħa-uc-ib/	 gloss: NEG-M.catch:PFV-AOR
+D: word: ħajhub~/ħa-ih-ub/	 gloss: NEG-throw:PFV-AOR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 4:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`(it) doesn't burn'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: iC or uC, i becomes j (as in (\ref{ex:52}) and (\ref{ex:53}))
+A: word: úrc-ab	 gloss: fly:IPFV-OPT
+B: word: ħarzʷan~/ħa-urz-an/	 gloss: NEG-M.praise:IPFV-HAB
+C: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+D: word: ʜaˤ-d-irʡ-aˤn	 gloss: NEG-NPL-freeze:IPFV-HAB
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 5:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`(he) didn't catch him'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: and the vowel u (uˤ, oˤ) becomes w (as in (\ref{ex:54})
+A: word: ʜaˤrχʷib~/ħa-uˤrχ-ib/	 gloss: NEG-M.touch:PFV-AOR
+B: word: ħajhub~/ħa-ih-ub/	 gloss: NEG-throw:PFV-AOR
+C: word: belč'unna~/b-elč'-un-ra/	 gloss: M-read:PFV-AOR-EGO
+D: word: ħawcib~/ħa-uc-ib/	 gloss: NEG-M.catch:PFV-AOR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 6:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`he didn't count'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: vowel deletes after the negation marker (as in (\ref{ex:56})).
+A: word: d-elʔ-un-na	 gloss: NPL-tell:PFV-AOR-EGO
+B: word: d-úž-e	 gloss: NPL-drink:IPFV-IMP
+C: word: ħalʔun~/ħa-elʔ-un/	 gloss: NEG-count:PFV-AOR
+D: word: b-aq-ib	 gloss: N-do:PFV-AOR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 7:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`(he) didn't catch him'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: triggers the \isi{labialization} of the final consonant (compare (\ref{ex:54}–\ref{ex:55}) and
+A: word: ʜaˤrχʷib~/ħa-uˤrχ-ib/	 gloss: NEG-M.touch:PFV-AOR
+B: word: ħajhub~/ħa-ih-ub/	 gloss: NEG-throw:PFV-AOR
+C: word: ħawcib~/ħa-uc-ib/	 gloss: NEG-M.catch:PFV-AOR
+D: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 8:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`didn't touch him'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: (\ref{ex:57}–\ref{ex:59})). Most labialized consonants that appear as a result of this
+A: word: w-aˤq'-un	 gloss: M-go:PFV-AOR
+B: word: ħawcib~/ħa-uc-ib/	 gloss: NEG-M.catch:PFV-AOR
+C: word: mu-luč-adi	 gloss: NEGVOL-read:IPFV-PROH
+D: word: ʜaˤrχʷib~/ħa-uˤrχ-ib/	 gloss: NEG-M.touch:PFV-AOR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 9:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`didn't praise him'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: (\ref{ex:57}–\ref{ex:59})). Most labialized consonants that appear as a result of this
+A: word: d-úž-e	 gloss: NPL-drink:IPFV-IMP
+B: word: ħarzʷan~/ħa-urz-an/	 gloss: NEG-M.praise:IPFV-HAB
+C: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+D: word: uk'-an-či	 gloss: M.say:IPFV-HAB-AG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 10:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`don't read'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: (\ref{ex:61}–\ref{ex:63})):
+A: word: luč'-a-k'a	 gloss: read:IPFV-IRR-COND
+B: word: ʜaˤ-d-irʡ-aˤn	 gloss: NEG-NPL-freeze:IPFV-HAB
+C: word: mu-luč-adi	 gloss: NEGVOL-read:IPFV-PROH
+D: word: b-is-mi-m-is-adi	 gloss: \textbf{N-cry-NEGVOL-N-cry-PROH}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 11:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`I've read'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: & (\ref{ex:85}) & /\emph{belč'u\textbf{n-r}a/} & (\ref{ex:67}) &
+A: word: ħa-d-irʔ-an	 gloss: NEG-NPL-gather:IPFV-HAB
+B: word: b-elč'-un-ijadal	 gloss: N-read:PFV-AOR-SMLT
+C: word: belč'unna~/b-elč'-un-ra/	 gloss: M-read:PFV-AOR-EGO
+D: word: gu-b-ra	 gloss: see:PFV-AOR-EGO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 12:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`I've read'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: & (\ref{ex:85}) & /\emph{belč'u\textbf{n-r}a}/ & (\ref{ex:67}) &
+A: word: belč'unna~/b-elč'-un-ra/	 gloss: M-read:PFV-AOR-EGO
+B: word: gu-b-ra	 gloss: see:PFV-AOR-EGO
+C: word: b-elč'-un-ijadal	 gloss: N-read:PFV-AOR-SMLT
+D: word: ħa-d-irʔ-an	 gloss: NEG-NPL-gather:IPFV-HAB
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 13:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`took it away'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: have the initial glottal stop. Examples (\ref{ex:92}–\ref{ex:93}) show that the
+A: word: har-b-uq-uwe	 gloss: PV-N-flee:PFV-AOR.CVB
+B: word: ar-b-uχ-ib	 gloss: away-N-bring:PFV-AOR
+C: word: χ-ib	 gloss: bring:PFV-AOR
+D: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 14:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`does not gather them'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: contexts of the pharyngeal\is{pharyngealization} feature spreading backward (cf.\ (\ref{ex:99}–\ref{ex:100})):
+A: word: ħarzʷan~/ħa-urz-an/	 gloss: NEG-M.praise:IPFV-HAB
+B: word: daˤʜ-la	 gloss: face-GEN
+C: word: d-irʔ-an	 gloss: NPL-gather:IPFV-HAB
+D: word: ħa-d-irʔ-an	 gloss: NEG-NPL-gather:IPFV-HAB
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 15:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`they are not freezing'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: contexts of the pharyngeal\is{pharyngealization} feature spreading backward (cf.\ (\ref{ex:99}–\ref{ex:100})):
+A: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+B: word: ħa-d-irʔ-an	 gloss: NEG-NPL-gather:IPFV-HAB
+C: word: ʜaˤ-d-irʡ-aˤn	 gloss: NEG-NPL-freeze:IPFV-HAB
+D: word: ar-b-uχ-ib	 gloss: away-N-bring:PFV-AOR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 16:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`they are not freezing'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: (as in (\ref{ex:92}), (\ref{ex:94}) and (\ref{ex:100}))
+A: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+B: word: ħa-d-irʔ-an	 gloss: NEG-NPL-gather:IPFV-HAB
+C: word: ħajhub~/ħa-ih-ub/	 gloss: NEG-throw:PFV-AOR
+D: word: ʜaˤ-d-irʡ-aˤn	 gloss: NEG-NPL-freeze:IPFV-HAB
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+

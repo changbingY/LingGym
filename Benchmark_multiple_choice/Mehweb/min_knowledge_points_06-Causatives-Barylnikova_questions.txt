@@ -1,0 +1,13 @@
+Question 0:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): pat'imat-ini urši-li-ze ___ d-ix-es heš-di karawatu-ne caj-li quli.
+Gloss (with missing item): Patimat-ERG boy-OBL-INTER(LAT) ___ NPL-put:PFV-INF \textsc(prox)-PL bed-PL one-OBL room.IN(LAT)
+The English translation of this sentence is:`Patimat let the boy carry these beds to another room.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:6:23}), the causative verb shows plural agreement with the absolutive
+A: word: d-aʔ-ib	 gloss: NPL-begin:PFV-AOR
+B: word: huni	 gloss: road
+C: word: d-aq-ib	 gloss: NPL-leave:PFV-AOR
+D: word: b-aq-ib	 gloss: N-do:PFV-AOR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+

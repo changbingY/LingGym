@@ -1,0 +1,507 @@
+Question 0:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): niʔ ___
+Gloss (with missing item): milk ___
+The English translation of this sentence is:`Pour the milk!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: the suffix -e (\ref{ex:5:1}, \ref{ex:5:2}), unlike the imperative of perfective
+A: word: b-aš-ina	 gloss: \textbf{HPL-go:IPFV-IMP.PL}
+B: word: b-alq-aq-ab	 gloss: \textbf{N-grow:IPFV-CAUS-OPT}
+C: word: urt'-e	 gloss: \textbf{pour:IPFV-IMP}
+D: word: bet'-a	 gloss: \textbf{say:PFV-IMP.TR}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 1:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ħu ___ duc' ulq-e!
+Gloss (with missing item): you.sg(NOM) ___ run M.LV:IPFV-IMP
+The English translation of this sentence is:`Run more often!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: the suffix -e (\ref{ex:5:1}, \ref{ex:5:2}), unlike the imperative of perfective
+A: word: w-aq'-ib-i	 gloss: M-do:PFV-AOR-ATR
+B: word: b-aq'-as	 gloss: \textbf{N-do:PFV-CVB}
+C: word: duc'	 gloss: \textbf{run}
+D: word: w-aqnal	 gloss: \textbf{M-often}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ħu w-aqnal ___ ulq-e!
+Gloss (with missing item): you.sg(NOM) M-often ___ M.LV:IPFV-IMP
+The English translation of this sentence is:`Run more often!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: the suffix -e (\ref{ex:5:1}, \ref{ex:5:2}), unlike the imperative of perfective
+A: word: gʷ-e	 gloss: \textbf{see:PFV-IMP}
+B: word: ħawcib~/ħa-uc-ib/	 gloss: NEG-M.catch:PFV-AOR
+C: word: uˤq'-e	 gloss: \textbf{M.go:PFV-IMP}
+D: word: duc'	 gloss: \textbf{run}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 3:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ħu w-aqnal duc' ___
+Gloss (with missing item): you.sg(NOM) M-often run ___
+The English translation of this sentence is:`Run more often!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: the suffix -e (\ref{ex:5:1}, \ref{ex:5:2}), unlike the imperative of perfective
+A: word: ag-a	 gloss: \textbf{give:PFV-IMP.TR}
+B: word: w-aš-e	 gloss: M-go:IPFV-IMP
+C: word: har-b-ulq-u-leʡur	 gloss: PV-N-flee:IPFV-CVB.IPFV-CONC2
+D: word: ulq-e	 gloss: M.LV:IPFV-IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 4:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ bet'-a!
+Gloss (with missing item): ___ say:PFV-IMP.TR
+The English translation of this sentence is:`Let him see!' (he should make attempts to see)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: imperative in -a. Cf. examples (\ref{ex:5:13}) and (\ref{ex:5:14}):
+A: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+B: word: gʷ-a	 gloss: \textbf{see:PFV-IMP.TR}
+C: word: b-is-mi-m-is-adi	 gloss: \textbf{N-cry-NEGVOL-N-cry-PROH}
+D: word: gʷ-e	 gloss: \textbf{see:PFV-IMP}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 5:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ bet'-a!
+Gloss (with missing item): ___ say:PFV-IMP.TR
+The English translation of this sentence is:`Let him see!' (he should make attempts to see)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: imperative in -a. Cf. examples (\ref{ex:5:13}) and (\ref{ex:5:14}):
+A: word: ag-a-ca	 gloss: \textbf{give:PFV-IMP.TR-PTCL}
+B: word: gʷ-a	 gloss: \textbf{see:PFV-IMP.TR}
+C: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+D: word: bet'-a	 gloss: \textbf{say:PFV-IMP.TR}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 6:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ rasul!
+Gloss (with missing item): ___ Rasul
+The English translation of this sentence is:`Kill Rasul (addressing several people)!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: are triggered by different arguments (\ref{ex:5:19}).
+A: word: b-alq-a-b	 gloss: \textbf{N-grow:IPFV-IRR-OPT}
+B: word: b-aq'-a	 gloss: \textbf{N-do:PFV-IMP.TR}
+C: word: w-aˤbʡ-a-na	 gloss: \textbf{M-kill:PFV-IMP.TR-IMP.PL}
+D: word: q'-aˤbʡ-es	 gloss: PV-close:PFV-INF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 7:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ?Maisarat Magomedovna ___ di-ze kung.
+Gloss (with missing item): Maisarat Magomedovna ___ I.OBL-INTER(LAT) book
+The English translation of this sentence is:`Maisarat Magomedovna, give me the book please.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In example (\ref{ex:5:39}), the imperative with the particle -w would have
+A: word: ag-a-ca	 gloss: \textbf{give:PFV-IMP.TR-PTCL}
+B: word: maħmud-ini	 gloss: Mahmud-ERG
+C: word: ag-a	 gloss: \textbf{give:PFV-IMP.TR}
+D: word: w-aˤbʡ-a-na	 gloss: \textbf{M-kill:PFV-IMP.TR-IMP.PL}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 8:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): gurda b-ik'-uwe le-b sinka-li-ze ___ ħu.
+Gloss (with missing item): fox N-say:IPFV-CVB.IPFV AUX-N bear-OBL-INTER(LAT) ___ you.sg(NOM)
+The English translation of this sentence is:`The fox said [to the bear]: ``Don't cry''.' (Text M. A bear, a wolf
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: involves reduplication, as in (\ref{ex:5:46}) – see the discussion in \citet{daniel2019} [this
+A: word: duc'	 gloss: \textbf{run}
+B: word: d-uh-a-b	 gloss: \textbf{NPL-become:PFV-IRR-OPT}
+C: word: b-is-mi-m-is-adi	 gloss: \textbf{N-cry-NEGVOL-N-cry-PROH}
+D: word: mu-luč-adi	 gloss: NEGVOL-read:IPFV-PROH
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 9:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ qali꞊ra b-aq'-as, q'ʷaˤl꞊ra as-es.
+Gloss (with missing item): ___ house꞊ADD N-do:PFV-INF cow꞊ADD take-INF
+The English translation of this sentence is:`Let's build the house and buy the cow.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: predicates are expressed by infinitives (\ref{ex:5:77}); in the latter case, one
+A: word: b-ik-a-la	 gloss: \textbf{N-happen:PFV-IRR-APPR}
+B: word: urt'-e	 gloss: \textbf{pour:IPFV-IMP}
+C: word: b-aš-ina	 gloss: \textbf{HPL-go:IPFV-IMP.PL}
+D: word: w-aš-e	 gloss: M-go:IPFV-IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 10:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): b-aš-ina qali꞊ra ___ q'ʷaˤl꞊ra as-es.
+Gloss (with missing item): HPL-go:IPFV-IMP.PL house꞊ADD ___ cow꞊ADD take-INF
+The English translation of this sentence is:`Let's build the house and buy the cow.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: predicates are expressed by infinitives (\ref{ex:5:77}); in the latter case, one
+A: word: k'as	 gloss: big.fish
+B: word: b-aq'-a	 gloss: \textbf{N-do:PFV-IMP.TR}
+C: word: w-ik-a-k'a-ra	 gloss: \textbf{M-happen:PFV-IRR-COND-ADD}
+D: word: b-aq'-as	 gloss: \textbf{N-do:PFV-INF}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 11:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ qali b-aq'-as.
+Gloss (with missing item): ___ house N-do:PFV-CVB
+The English translation of this sentence is:`Let's build the house.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: constructions (\ref{ex:5:78}), but its final position is not completely
+A: word: urt'-e	 gloss: \textbf{pour:IPFV-IMP}
+B: word: b-aš-ina	 gloss: \textbf{HPL-go:IPFV-IMP.PL}
+C: word: w-aš-e	 gloss: M-go:IPFV-IMP
+D: word: b-ik-a-la	 gloss: \textbf{N-happen:PFV-IRR-APPR}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 12:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ?qali ___ b-aš-ina.
+Gloss (with missing item): house ___ HPL-go:IPFV-IMP.PL
+The English translation of this sentence is:`Let's build the house.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: ungrammatical (\ref{ex:5:79}).
+A: word: gʷ-e	 gloss: \textbf{see:PFV-IMP}
+B: word: gʷ-a	 gloss: \textbf{see:PFV-IMP.TR}
+C: word: b-aq'-a	 gloss: \textbf{N-do:PFV-IMP.TR}
+D: word: b-aq'-as	 gloss: \textbf{N-do:PFV-CVB}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 13:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): sa‹w›i-jal ___ bet'-a heʔʷan-i ʁiz-be-ču.
+Gloss (with missing item): ‹1›self-EMPH ___ say:PFV-IMP.TR similar-ATR hair-PL-COMIT
+The English translation of this sentence is:`With this kind of hair, let him drive on his own.' (Aspectual test 1,
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: to non-animate subject. Examples (\ref{ex:5:82}–\ref{ex:5:86}) hence cannot be interpreted
+A: word: uˤq'-e	 gloss: \textbf{M.go:PFV-IMP}
+B: word: gʷ-e	 gloss: \textbf{see:PFV-IMP}
+C: word: k-ib-q'alle	 gloss: \textbf{take:PFV-AOR-CTRF}
+D: word: uˤq'-es	 gloss: M.go:PFV-INF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 14:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): sa‹w›i-jal uˤq'-e ___ heʔʷan-i ʁiz-be-ču.
+Gloss (with missing item): ‹1›self-EMPH M.go:PFV-IMP ___ similar-ATR hair-PL-COMIT
+The English translation of this sentence is:`With this kind of hair, let him drive on his own.' (Aspectual test 1,
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: to non-animate subject. Examples (\ref{ex:5:82}–\ref{ex:5:86}) hence cannot be interpreted
+A: word: ag-a-ca	 gloss: \textbf{give:PFV-IMP.TR-PTCL}
+B: word: bet'-a	 gloss: \textbf{say:PFV-IMP.TR}
+C: word: lúč'-ab	 gloss: read:IPFV-OPT
+D: word: ag-a	 gloss: \textbf{give:PFV-IMP.TR}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 15:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): muħammad-ini deč' ___ bet'-a.
+Gloss (with missing item): Muhammad-ERG song ___ say:PFV-IMP.TR
+The English translation of this sentence is:`Let Muhammad sing a song.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: to non-animate subject. Examples (\ref{ex:5:82}–\ref{ex:5:86}) hence cannot be interpreted
+A: word: b-aq'-as	 gloss: \textbf{N-do:PFV-CVB}
+B: word: bet'-a	 gloss: \textbf{say:PFV-IMP.TR}
+C: word: b-ik-a-la	 gloss: \textbf{N-happen:PFV-IRR-APPR}
+D: word: b-aq'-a	 gloss: \textbf{N-do:PFV-IMP.TR}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 16:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ?aradeš ___ bet'-a.
+Gloss (with missing item): health ___ tell:IPFV-IMP.TR
+The English translation of this sentence is:`\textsuperscript{?}Let [Allah] make [you] healthy.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Accordingly, example (\ref{ex:5:100}) is acknowledged to be grammatical, but
+A: word: ag-a	 gloss: \textbf{give:PFV-IMP.TR}
+B: word: w-ebk'-aq-ab	 gloss: \textbf{M-die:PFV-CAUS-IRR-OPT}
+C: word: bet'-a	 gloss: \textbf{say:PFV-IMP.TR}
+D: word: ag-a-ca	 gloss: \textbf{give:PFV-IMP.TR-PTCL}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 17:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): aradeš ___
+Gloss (with missing item): health ___
+The English translation of this sentence is:`May [Allah] make [you] healthy!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: to perform an action. The correct choice would be to use the optative (\ref{ex:5:101}).
+A: word: d-uh-a-b	 gloss: \textbf{NPL-become:PFV-IRR-OPT}
+B: word: g-a-b	 gloss: \textbf{give:PFV-IRR-OPT}
+C: word: d-ik-ul-q'alle	 gloss: \textbf{F1-bring:IPFV-PTCP-CTRF}
+D: word: ag-a-ca	 gloss: \textbf{give:PFV-IMP.TR-PTCL}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 18:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): qu ___
+Gloss (with missing item): field ___
+The English translation of this sentence is:`May the field grow!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: semantically. Cf.\ examples (\ref{ex:5:111}), (\ref{ex:5:112}), (\ref{ex:5:114}), (\ref{ex:5:115}), (\ref{ex:5:116}) and (\ref{ex:5:117}).
+A: word: b-alq-aq-ab	 gloss: \textbf{N-grow:IPFV-CAUS-OPT}
+B: word: gʷ-e	 gloss: \textbf{see:PFV-IMP}
+C: word: b-alq-aq-a-b	 gloss: \textbf{N-grow:IPFV-CAUS-IRR-OPT}
+D: word: uz-be-ni	 gloss: brother-PL-ERG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 19:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): qu ___
+Gloss (with missing item): field ___
+The English translation of this sentence is:`May the field grow!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: semantically. Cf.\ examples (\ref{ex:5:111}), (\ref{ex:5:112}), (\ref{ex:5:114}), (\ref{ex:5:115}), (\ref{ex:5:116}) and (\ref{ex:5:117}).
+A: word: b-alq-aq-ab	 gloss: \textbf{N-grow:IPFV-CAUS-OPT}
+B: word: b-alq-a-b	 gloss: \textbf{N-grow:IPFV-IRR-OPT}
+C: word: b-alq-aq-a-b	 gloss: \textbf{N-grow:IPFV-CAUS-IRR-OPT}
+D: word: d-ik-ul-q'alle	 gloss: \textbf{F1-bring:IPFV-PTCP-CTRF}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 20:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): qu ___
+Gloss (with missing item): field ___
+The English translation of this sentence is:`May the field grow [with the help of Allah]!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: semantically. Cf.\ examples (\ref{ex:5:111}), (\ref{ex:5:112}), (\ref{ex:5:114}), (\ref{ex:5:115}), (\ref{ex:5:116}) and (\ref{ex:5:117}).
+A: word: b-alq-aq-ab	 gloss: \textbf{N-grow:IPFV-CAUS-OPT}
+B: word: b-alq-aq-a-b	 gloss: \textbf{N-grow:IPFV-CAUS-IRR-OPT}
+C: word: sa‹w›i	 gloss: ‹M›self
+D: word: b-is-mi-m-is-adi	 gloss: \textbf{N-cry-NEGVOL-N-cry-PROH}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 21:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): hum-be ʡaˤχ ___
+Gloss (with missing item): road-PL good ___
+The English translation of this sentence is:`May you have a good trip!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: semantically. Cf.\ examples (\ref{ex:5:111}), (\ref{ex:5:112}), (\ref{ex:5:114}), (\ref{ex:5:115}), (\ref{ex:5:116}) and (\ref{ex:5:117}).
+A: word: d-uh-a-la	 gloss: \textbf{F1-become:PFV-IRR-APPR}
+B: word: d-uh-a-b	 gloss: \textbf{NPL-become:PFV-IRR-OPT}
+C: word: d-uh-aq-a-b	 gloss: \textbf{NPL-become:PFV-CAUS-IRR-OPT}
+D: word: duc'	 gloss: \textbf{run}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 22:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): hum-be ʡaˤχ ___
+Gloss (with missing item): way-PL good ___
+The English translation of this sentence is:`May Allah give you a good trip!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: semantically. Cf.\ examples (\ref{ex:5:111}), (\ref{ex:5:112}), (\ref{ex:5:114}), (\ref{ex:5:115}), (\ref{ex:5:116}) and (\ref{ex:5:117}).
+A: word: zab	 gloss: rain
+B: word: d-uh-aq-ab	 gloss: \textbf{NPL-become:PFV-CAUS-OPT}
+C: word: duc'	 gloss: \textbf{run}
+D: word: d-uh-aq-a-b	 gloss: \textbf{NPL-become:PFV-CAUS-IRR-OPT}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 23:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): allah-li-ni hum-be ʡaˤχ ___
+Gloss (with missing item): Allah-OBL-ERG way-PL good ___
+The English translation of this sentence is:`May Allah give you a good trip!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: the ergative of Allah (\ref{ex:5:118}, \ref{ex:5:119}). If the participant is not overtly
+A: word: b-ik-a-la	 gloss: \textbf{N-happen:PFV-IRR-APPR}
+B: word: mažar	 gloss: gun
+C: word: d-uh-aq-ab	 gloss: \textbf{NPL-become:PFV-CAUS-OPT}
+D: word: d-uh-aq-a-b	 gloss: \textbf{NPL-become:PFV-CAUS-IRR-OPT}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 24:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): allah-li-ni qu ___
+Gloss (with missing item): Allah-OBL-ERG field ___
+The English translation of this sentence is:`May the field grow with the help of Allah!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: the ergative of Allah (\ref{ex:5:118}, \ref{ex:5:119}). If the participant is not overtly
+A: word: uz-be	 gloss: brother-PL
+B: word: b-alq-aq-ab	 gloss: \textbf{N-grow:IPFV-CAUS-OPT}
+C: word: b-alq-aq-a-b	 gloss: \textbf{N-grow:IPFV-CAUS-IRR-OPT}
+D: word: w-aq'-a-la	 gloss: \textbf{M-do:PFV-IRR-APPR}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 25:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): pat'imat-ini rasul ___
+Gloss (with missing item): Patimat-ERG Rasul ___
+The English translation of this sentence is:`May Patimat make Rasul die!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: clause is interpreted as an ordinary causative construction; cf.\ (\ref{ex:5:124}):
+A: word: w-ebk'-ib-q'alle	 gloss: M-die:PFV-AOR-CTRF
+B: word: b-is-mi-m-is-adi	 gloss: \textbf{N-cry-NEGVOL-N-cry-PROH}
+C: word: w-ebk'-aq-ab	 gloss: \textbf{M-die:PFV-CAUS-IRR-OPT}
+D: word: d-uh-aq-a-b	 gloss: \textbf{NPL-become:PFV-CAUS-IRR-OPT}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 26:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): qu ___
+Gloss (with missing item): field ___
+The English translation of this sentence is:`May the field grow!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: participants are often left implicit. Cf.\ examples (\ref{ex:5:108}), (\ref{ex:5:114}), (\ref{ex:5:116})
+A: word: b-alq-aq-a-b	 gloss: \textbf{N-grow:IPFV-CAUS-IRR-OPT}
+B: word: b-alq-a-b	 gloss: \textbf{N-grow:IPFV-IRR-OPT}
+C: word: duc'	 gloss: \textbf{run}
+D: word: b-alq-aq-ab	 gloss: \textbf{N-grow:IPFV-CAUS-OPT}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 27:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): hum-be ʡaˤχ ___
+Gloss (with missing item): road-PL good ___
+The English translation of this sentence is:`May you have a good trip!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: participants are often left implicit. Cf.\ examples (\ref{ex:5:108}), (\ref{ex:5:114}), (\ref{ex:5:116})
+A: word: d-uh-a-la	 gloss: \textbf{F1-become:PFV-IRR-APPR}
+B: word: d-uh-a-b	 gloss: \textbf{NPL-become:PFV-IRR-OPT}
+C: word: w-aqnal	 gloss: \textbf{M-often}
+D: word: d-uh-aq-a-b	 gloss: \textbf{NPL-become:PFV-CAUS-IRR-OPT}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 28:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): sinka-la ___ abzul-le ʁʷaˤn-ne d-elʔ-un-na wahaj-le꞊l ʁʷaˤn-ne~ luʔ-es w-aʔ-i-ra.
+Gloss (with missing item): bear-GEN ___ all-ADVZ lie-PL NPL-tell:PFV-AOR-EGO very-ADVZ꞊EMPH lie-PL tell:IPFV-INF M-begin:PFV-AOR-EGO
+The English translation of this sentence is:`As for the bear, I did actually tell fibs.' (Aspectual test 1, 1.89)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: classes. In example (\ref{ex:5:151}), it attaches to the noun sinkala, in
+A: word: d-arg-k'a	 gloss: \textbf{NPL-find:PFV-PTCL}
+B: word: k'a	 gloss: \textbf{PTCL}
+C: word: ag-a-ca	 gloss: \textbf{give:PFV-IMP.TR-PTCL}
+D: word: b-aq'-as	 gloss: \textbf{N-do:PFV-CVB}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 29:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ il-di qulle di-ze d-arg-i-ra huni꞊ra b-arg-i-ra.
+Gloss (with missing item): ___ this-PL house.PL I.OBL-INTER(LAT) NPL-find:PFV-AOR-EGO road꞊ADD N-find:PFV-AOR-EGO
+The English translation of this sentence is:`As for getting there, I did reach those houses and found the street.' (Aspectual test 1, 1.164)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: example (\ref{ex:5:152}) – to the perfective stem of the verb. In the latter
+A: word: ag-a-ca	 gloss: \textbf{give:PFV-IMP.TR-PTCL}
+B: word: d-arg-i-ra	 gloss: NPL-find:PFV-AOR-EGO
+C: word: b-ik-a-la	 gloss: \textbf{N-happen:PFV-IRR-APPR}
+D: word: d-arg-k'a	 gloss: \textbf{NPL-find:PFV-PTCL}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 30:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): iti-s rasul hune-če ___ it-ini beʁi-če waˤb-ʜaˤ-baˤt-ur.
+Gloss (with missing item): this.OBL-DAT Rasul way-SUPER(LAT) ___ this-ERG wedding.OBL-SUPER(LAT) call-NEG-LV:PFV-AOR
+The English translation of this sentence is:`Although she met Rasul, she did not call him to the wedding.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: converbs are used in concessive clauses (\ref{ex:5:160}). This pattern of marking
+A: word: k-a-k'a	 gloss: bring:PFV-IRR-COND
+B: word: bet'-a	 gloss: \textbf{say:PFV-IMP.TR}
+C: word: w-ik-a-k'a-ra	 gloss: \textbf{M-happen:PFV-IRR-COND-ADD}
+D: word: b-ik-a-la	 gloss: \textbf{N-happen:PFV-IRR-APPR}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 31:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ca di-la urši-li-ni xunul ___
+Gloss (with missing item): PTCL I.OBL-GEN boy-OBL-ERG wife ___
+The English translation of this sentence is:`If only my son got married!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \sectref{counterfactual-conditional-clauses}), and in independent clauses with the meaning of wish (example (\ref{ex:5:163}),
+A: word: b-alq-aq-a-b	 gloss: \textbf{N-grow:IPFV-CAUS-IRR-OPT}
+B: word: ʡaˤš-w-irk-ul-q'alle	 gloss: PV-M-come.back:IPFV-PTCP-CTRF
+C: word: d-ik-ul-q'alle	 gloss: \textbf{F1-bring:IPFV-PTCP-CTRF}
+D: word: k-ib-q'alle	 gloss: \textbf{take:PFV-AOR-CTRF}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 32:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): rasuj-ni qu ___ dag, amma ʜaˤ-q'-un.
+Gloss (with missing item): Rasul-ERG field ___ yesterday but NEG-M.go:PFV-AOR
+The English translation of this sentence is:`Rasul could have mowed the field yesterday, but he didn't go.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: conditional constructions (\ref{ex:5:168}):
+A: word: d-išq-aˤ	 gloss: NPL-peel:PFV-IMP
+B: word: urt'-e	 gloss: \textbf{pour:IPFV-IMP}
+C: word: ulq-e	 gloss: M.LV:IPFV-IMP
+D: word: išq-aˤ-re	 gloss: \textbf{mow:IPFV-IRR-PST}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 33:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): urši-li-ni xunul ___ nu iχ-di-li-šu-r d-uʔ-a-re.
+Gloss (with missing item): boy-OBL-ERG wife ___ I that-PL-OBL-AD-HPL(ESS) F1-become:PFV-IRR-PST
+The English translation of this sentence is:`If my son had got married, I would have lived at their place.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: situations which did not take place in the past (\ref{ex:5:169}), and most likely
+A: word: išq-aˤ-re	 gloss: \textbf{mow:IPFV-IRR-PST}
+B: word: k-ib-q'alle	 gloss: \textbf{take:PFV-AOR-CTRF}
+C: word: w-ebk'-ib-q'alle	 gloss: M-die:PFV-AOR-CTRF
+D: word: d-ik-ul-q'alle	 gloss: \textbf{F1-bring:IPFV-PTCP-CTRF}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 34:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): c'able ___ nu꞊ra d-ubk'-a-re.
+Gloss (with missing item): tomorrow ___ I꞊ADD F1-die:IPFV-IRR-PST
+The English translation of this sentence is:`If you should die tomorrow, I would also die.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: will not take place in the future (\ref{ex:5:170}).
+A: word: w-ebk'-ib-q'alle	 gloss: \textbf{M-die:PFV-AOR-CTRF}
+B: word: išq-aˤ-re	 gloss: \textbf{mow:IPFV-IRR-PST}
+C: word: armi-li-ze	 gloss: army-OBL-INTER(LAT)
+D: word: k-ib-q'alle	 gloss: \textbf{take:PFV-AOR-CTRF}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 35:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): anwar w-ak'-i-le ___ abaj-šu uˤq'-es.
+Gloss (with missing item): Anwar M-come:PFV-CVB ___ mother-AD(LAT) M.go:PFV-FUT
+The English translation of this sentence is:`As [it turned out that] Anwar came, he will go to his mother.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: examples (\ref{ex:5:180}) and (\ref{ex:5:181}) it belongs to the future:
+A: word: ħa-g-a-k'ara	 gloss: NEG-give:PFV-IRR-CONC
+B: word: w-arg-a-k'a	 gloss: \textbf{M-find:PFV-IRR-COND}
+C: word: d-uh-aq-a-b	 gloss: \textbf{NPL-become:PFV-CAUS-IRR-OPT}
+D: word: arc	 gloss: money(ABS)
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 36:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): urši ___ ħu-ni d-aq'-a dursi!
+Gloss (with missing item): boy ___ you.sg-ERG F1-do:PFV-IMP.TR girl
+The English translation of this sentence is:`[I am afraid that] you give birth to a boy, [better] give birth to a girl!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: situation changes its value from positive to negative. Example (\ref{ex:5:190})
+A: word: w-aq'-a-la	 gloss: \textbf{M-do:PFV-IRR-APPR}
+B: word: w-aq'-ib-i	 gloss: M-do:PFV-AOR-ATR
+C: word: d-ik-ul-q'alle	 gloss: \textbf{F1-bring:IPFV-PTCP-CTRF}
+D: word: d-uh-a-la	 gloss: \textbf{F1-become:PFV-IRR-APPR}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 37:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ara ___
+Gloss (with missing item): healthy ___
+The English translation of this sentence is:`[I am afraid that] I become healthy!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: son (which is unusual for Daghestan). Example (\ref{ex:5:191}) is only grammatical if the
+A: word: bet'-a	 gloss: \textbf{say:PFV-IMP.TR}
+B: word: d-uh-a-b	 gloss: \textbf{NPL-become:PFV-IRR-OPT}
+C: word: w-aq'-a-la	 gloss: \textbf{M-do:PFV-IRR-APPR}
+D: word: d-uh-a-la	 gloss: \textbf{F1-become:PFV-IRR-APPR}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 38:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nu uruχ k'-as dag-ʔʷanal anwal-li-če χʷe q'ac' ___ ile.
+Gloss (with missing item): I be.afraid LV:IPFV-HAB.EGO yesterday-like Anwar-OBL-SUPER(LAT) dog bite ___ COMP
+The English translation of this sentence is:`I am afraid that the dog might bite Anwar as it happened yesterday.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: is ungrammatical (\ref{ex:5:196}), and has to be modified as in (\ref{ex:5:197}).
+A: word: b-ik-a-la	 gloss: \textbf{N-happen:PFV-IRR-APPR}
+B: word: w-aq'-a-la	 gloss: \textbf{M-do:PFV-IRR-APPR}
+C: word: w-ik-a-k'a-ra	 gloss: \textbf{M-happen:PFV-IRR-COND-ADD}
+D: word: b-aq'-a	 gloss: \textbf{N-do:PFV-IMP.TR}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+

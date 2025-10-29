@@ -1,0 +1,364 @@
+Question 0:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ʔudidi-li ħark'ʷ-li ar-χ-uwe ___
+Gloss (with missing item): under.EL-ATR river-ERG away-bring:IPFV-CVB.IPFV ___
+The English translation of this sentence is:`The river carries away the one who is downstream!' (Molla Rasbaddin
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: clause (\ref{ex:12:1}) and in an equative clause (\ref{ex:12:2}):
+A: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+B: word: gʷa	 gloss: ASRT
+C: word: le-b-re	 gloss: {be}-N-PST
+D: word: heʔʷan-i	 gloss: similar-ATR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 1:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): hel čudu ___ di-la.
+Gloss (with missing item): this chudu ___ I.OBL-GEN
+The English translation of this sentence is:`This chudu (a kind of pie) is mine.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: clause (\ref{ex:12:1}) and in an equative clause (\ref{ex:12:2}):
+A: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+B: word: dirij-a꞊jan	 gloss: vegetable.garden-DAT꞊1PL
+C: word: gʷa	 gloss: ASRT
+D: word: heʔʷan-i	 gloss: similar-ATR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 2:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): pajiz-e ___ kašˤ-e.
+Gloss (with missing item): autumn-DAT ___ dig-LV:PRS
+The English translation of this sentence is:`In autumn, we dig in the vegetable garden.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: (\ref{ex:12:4}–\ref{ex:12:5}):\footnote{The Udi examples are from the corpus of text in the
+A: word: direktur	 gloss: principal
+B: word: dirij-a꞊jan	 gloss: vegetable.garden-DAT꞊1PL
+C: word: kaltuška	 gloss: potato
+D: word: le-b	 gloss: AUX-N
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 3:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): pajiz-e ___ kašˤ-e.
+Gloss (with missing item): autumn-DAT ___ dig-LV:PRS
+The English translation of this sentence is:`In autumn, we dig in the vegetable garden.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: but also to the focused\is{focus} element (\ref{ex:12:5}). This can be viewed as a kind of
+A: word: kaltuška	 gloss: potato
+B: word: dirij-a꞊jan	 gloss: vegetable.garden-DAT꞊1PL
+C: word: le-b-re	 gloss: {be}-N-PST
+D: word: direktur	 gloss: principal
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 4:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): arci-ze-b ___ ħa-la daˤʜ-la surat.
+Gloss (with missing item): money-INTER-N(ESS) ___ you.sg.OBL-GEN face-GEN picture
+The English translation of this sentence is:`On the coin (lit., money), there was a picture of your face.' (The
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: predications is shown in (\ref{ex:12:6}–\ref{ex:12:7}), while its use in verbal predications
+A: word: dirij-a꞊jan	 gloss: vegetable.garden-DAT꞊1PL
+B: word: le-b-i	 gloss: {be}-N-ATR
+C: word: le-b-le	 gloss: AUX-N-CVB
+D: word: le-b-re	 gloss: {be}-N-PST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 5:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wallahi, k'as ___ q'-oˤwe
+Gloss (with missing item): Allah big.fish ___ go:IPFV-CVB.IPFV
+The English translation of this sentence is:`My God, a whale is going (here).' (Two sons: 1.65)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: is illustrated in (\ref{ex:12:8}–\ref{ex:12:9}).
+A: word: le-b-le	 gloss: AUX-N-CVB
+B: word: le-b	 gloss: AUX-N
+C: word: le-r	 gloss: AUX-F
+D: word: gʷa	 gloss: ASRT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 6:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): qʷe b-iq'-uwe ___ ħu ħa-k-i-le ħa-wʔ-iša.
+Gloss (with missing item): vow N-do:IPFV-CVB.IPFV:IPFV ___ you.sg NEG-bring:PFV-AOR-CVB NEG-M.be-FUT.EGO
+The English translation of this sentence is:`I swear I will take you (as a wife).' (Widow)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: the morpheme ___ is found with the {neutral converb}\is{converb, neutral} (\ref{ex:12:13}) and with the
+A: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+B: word: heʔʷan-i	 gloss: similar-ATR
+C: word: le-b-re	 gloss: {be}-N-PST
+D: word: gʷa	 gloss: ASRT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 7:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): musa-ni ___ poˤroˤm b-oˤrʡ-aq-ib-i.
+Gloss (with missing item): Musa-ERG ___ glass N-break:PFV-CAUS-AOR-ATR
+The English translation of this sentence is:`It was Musa who broke the glass.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: infelicitous (\ref{ex:12:16}) with (\ref{ex:12:19}) below):\footnote{Presumably, the assertive marker should
+A: word: heʔʷan-i	 gloss: similar-ATR
+B: word: le-b	 gloss: AUX-N
+C: word: gʷa	 gloss: ASRT
+D: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 8:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): maħmud-ini ___ b-ilt'-uwe heš surat.
+Gloss (with missing item): Mahmud-ERG ___ N-take.out:IPFV-CVB.IPFV that picture
+The English translation of this sentence is:`It was Mahmud who is drawing that picture.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: only a converbal\is{converb, neutral} form (\ref{ex:12:17}) and an infinitive (\ref{ex:12:18}) but also a participial\is{participle}
+A: word: gʷa	 gloss: ASRT
+B: word: le-b	 gloss: AUX-N
+C: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+D: word: heʔʷan-i	 gloss: similar-ATR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 9:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): rasuj-ni ___ nu k-es.
+Gloss (with missing item): Rasul.OBL-ERG ___ I bring:PFV-INF
+The English translation of this sentence is:`It is Rasul who will bring me here.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: only a converbal\is{converb, neutral} form (\ref{ex:12:17}) and an infinitive (\ref{ex:12:18}) but also a participial\is{participle}
+A: word: gʷa	 gloss: ASRT
+B: word: heʔʷan-i	 gloss: similar-ATR
+C: word: le-b-re	 gloss: {be}-N-PST
+D: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 10:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): musa-ni ___ poˤroˤm b-oˤrʡ-aq-ib-i.
+Gloss (with missing item): Musa-ERG ___ glass N-break:PFV-CAUS-AOR-ATR
+The English translation of this sentence is:`It was Musa who broke the glass.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: form (\ref{ex:12:19}) is allowed:\footnote{These combinations stand in parallel with
+A: word: heʔʷan-i	 gloss: similar-ATR
+B: word: dirij-a꞊jan	 gloss: vegetable.garden-DAT꞊1PL
+C: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+D: word: gʷa	 gloss: ASRT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 11:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): maħmud-ini ___ b-ilt'-uwe heš surat.
+Gloss (with missing item): Mahmud-ERG ___ N-take.out:IPFV-CVB.IPFV that picture
+The English translation of this sentence is:`It was Mahmud who is drawing that picture.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In examples (\ref{ex:12:17}–\ref{ex:12:19}) we observe the assertive copula following focused\is{focus}
+A: word: heʔʷan-i	 gloss: similar-ATR
+B: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+C: word: le-b-re	 gloss: {be}-N-PST
+D: word: gʷa	 gloss: ASRT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 12:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): musa-ni ___ poˤroˤm b-oˤrʡ-aq-ib-i.
+Gloss (with missing item): Musa-ERG ___ glass N-break:PFV-CAUS-AOR-ATR
+The English translation of this sentence is:`It was Musa who broke the glass.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In examples (\ref{ex:12:17}–\ref{ex:12:19}) we observe the assertive copula following focused\is{focus}
+A: word: heʔʷan-i	 gloss: similar-ATR
+B: word: gʷa	 gloss: ASRT
+C: word: le-b	 gloss: AUX-N
+D: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 13:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): išbari ___ nuni praznik b-aq'-ib-i \textup/ b-aq'-i-le.
+Gloss (with missing item): today ___ I.ERG feast N-do:PFV-AOR-ATR / N-do:PFV-AOR-CVB
+The English translation of this sentence is:`It was today that I organized the feast.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: NPs. (\ref{ex:12:20}–\ref{ex:12:22}) demonstrate that the morpheme ___ can follow other kinds of
+A: word: dirij-a꞊jan	 gloss: vegetable.garden-DAT꞊1PL
+B: word: gʷa	 gloss: ASRT
+C: word: heʔʷan-i	 gloss: similar-ATR
+D: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 14:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): musa rasuj-šu quli w-ak'-ib-i-jaʁe ___ χamis g-ub-le.
+Gloss (with missing item): Musa Rasul.OBL-AD(LAT) house.ESS(LAT) M-come:PFV-AOR-ATR-ANTE ___ Khamis see:PFV-AOR-CVB
+The English translation of this sentence is:`After MUSA'S COMING TO RASUL, he saw Khamis.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: NPs. (\ref{ex:12:20}–\ref{ex:12:22}) demonstrate that the morpheme ___ can follow other kinds of
+A: word: gʷa	 gloss: ASRT
+B: word: le-b-re	 gloss: {be}-N-PST
+C: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+D: word: heʔʷan-i	 gloss: similar-ATR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 15:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ħunt'aj-če-r ___ burχa-li-če-r ʁarʁ-ube.
+Gloss (with missing item): red.OBL-SUPER-NPL(ESS) ___ roof-OBL-SUPER-NPL(ESS) stone-PL
+The English translation of this sentence is:`There are stones on the RED roof.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: place the morpheme ___ immediately after it (\ref{ex:12:27}). Notably, for absolutive NPs
+A: word: heʔʷan-i	 gloss: similar-ATR
+B: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+C: word: dirij-a꞊jan	 gloss: vegetable.garden-DAT꞊1PL
+D: word: gʷa	 gloss: ASRT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 16:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): b-urq'-il ___ bartbisu iχ-ini ħa-s-i-le.
+Gloss (with missing item): N-old-ATR ___ carpet that-ERG NEG-take:PFV-AOR-CVB
+The English translation of this sentence is:`He did not buy the OLD carpet.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: an NP (\ref{ex:12:28}), but this is likely to be a consequence of the fact that
+A: word: heʔʷan-i	 gloss: similar-ATR
+B: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+C: word: gʷa	 gloss: ASRT
+D: word: le-b-re	 gloss: {be}-N-PST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 17:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): %it kaltuška ___ d-elʡʷ-eˤs d-aʔ-i-le.
+Gloss (with missing item): that potato ___ NPL-seed:IPFV-INF NPL-start:PFV-AOR-CVB
+The English translation of this sentence is:`She started to plant potatoes.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: complement (\ref{ex:12:32}–\ref{ex:12:33}).\footnote{The superscripted % in these
+A: word: dirij-a꞊jan	 gloss: vegetable.garden-DAT꞊1PL
+B: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+C: word: gʷa	 gloss: ASRT
+D: word: heʔʷan-i	 gloss: similar-ATR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 18:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): %heš kʷiha ___ b-eqʷ-es aħmad-ini di-ze hari b-aq'-i-le.
+Gloss (with missing item): that ram ___ N-cut:PFV-INF Ahmad-ERG I.OBL-INTER(LAT) request N-do:PFV-AOR-CVB
+The English translation of this sentence is:`Ahmed asked me to cut this ram.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: complement (\ref{ex:12:32}–\ref{ex:12:33}).\footnote{The superscripted % in these
+A: word: le-b-re	 gloss: {be}-N-PST
+B: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+C: word: heʔʷan-i	 gloss: similar-ATR
+D: word: gʷa	 gloss: ASRT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 19:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ʁuni-b ___ muzej!
+Gloss (with missing item): in.Gunib-N(ESS) ___ museum
+The English translation of this sentence is:`There is a museum in Gunib!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: (\ref{ex:12:35}–\ref{ex:12:36}) show examples of the use of the morpheme ___ in \isi{existential predication} that assert the existence of entities or events described
+A: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+B: word: heʔʷan-i	 gloss: similar-ATR
+C: word: le-b	 gloss: AUX-N
+D: word: gʷa	 gloss: ASRT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 20:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): išbari meħʷe-b beʁ ___
+Gloss (with missing item): today in.Mehweb-N(ESS) wedding ___
+The English translation of this sentence is:`There is wedding in Mehweb today!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: (\ref{ex:12:35}–\ref{ex:12:36}) show examples of the use of the morpheme ___ in \isi{existential predication} that assert the existence of entities or events described
+A: word: heʔʷan-i	 gloss: similar-ATR
+B: word: dirij-a꞊jan	 gloss: vegetable.garden-DAT꞊1PL
+C: word: gʷa	 gloss: ASRT
+D: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 21:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): pat'imat-la q'ʷaˤl ___
+Gloss (with missing item): Patimat-GEN cow ___
+The English translation of this sentence is:`Patimat has a cow!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: predication} (\ref{ex:12:37}).
+A: word: heʔʷan-i	 gloss: similar-ATR
+B: word: gʷa	 gloss: ASRT
+C: word: le-b-re	 gloss: {be}-N-PST
+D: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 22:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): meħʷe (le-b-le) ___
+Gloss (with missing item): in.Mehweb {be}-N-CVB ___
+The English translation of this sentence is:`Mehweb does exist!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: converbal form of the copula; cf.\ (\ref{ex:12:38})) or describing the location of
+A: word: gʷa	 gloss: ASRT
+B: word: heʔʷan-i	 gloss: similar-ATR
+C: word: le-b	 gloss: AUX-N
+D: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 23:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): heš-di hum-be ___ ʜaˤb dek'ar-i.
+Gloss (with missing item): that-PL road-PL ___ three different-ATR
+The English translation of this sentence is:`These roads are three different (roads).' (Two sons)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: (\ref{ex:12:40}–\ref{ex:12:41}) show examples of the use of the morpheme ___ in clearly
+A: word: le-b-re	 gloss: {be}-N-PST
+B: word: gʷa	 gloss: ASRT
+C: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+D: word: heʔʷan-i	 gloss: similar-ATR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 24:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): rasuj-ni [heš ___ b-aq'-ib-i qali.
+Gloss (with missing item): Rasul.OBL-ERG that ___ N-do:PFV-AOR-ATR house
+The English translation of this sentence is:`The house that Rasul built is that one.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: combination can be embedded within the alleged subject phrase. In (\ref{ex:12:42})
+A: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+B: word: gʷa	 gloss: ASRT
+C: word: heʔʷan-i	 gloss: similar-ATR
+D: word: le-b	 gloss: AUX-N
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 25:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): šamil učitel. – aħin! šamil ___ dalaj uk'-an-či!
+Gloss (with missing item): Shamil teacher {} {be}:NEG Shamil ___ song M.say:IPFV-HAB-AG
+The English translation of this sentence is:`Shamil is a teacher. – No! Shamil is a singer!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: instance, in the elicited dialog (\ref{ex:12:47}), the morpheme ___ is attached to the
+A: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+B: word: heʔʷan-i	 gloss: similar-ATR
+C: word: dirij-a꞊jan	 gloss: vegetable.garden-DAT꞊1PL
+D: word: gʷa	 gloss: ASRT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 26:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): meħʷe-la χʷalajli či-ja? – meħʷe-la χʷalajli ___ israpil.
+Gloss (with missing item): in.Mehweb-GEN chief who-Q {} in.Mehweb-GEN chief ___ Israpil
+The English translation of this sentence is:`Who is the head of Mehweb? – The head of Mehweb is Israpil.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: does not contain new information, as in (\ref{ex:12:48}) and (\ref{ex:12:49}).
+A: word: dirij-a꞊jan	 gloss: vegetable.garden-DAT꞊1PL
+B: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+C: word: heʔʷan-i	 gloss: similar-ATR
+D: word: gʷa	 gloss: ASRT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 27:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): israpil či-ja? – israpil ___ meħʷe-la χʷalajli.
+Gloss (with missing item): Israpil who-Q {} Israpil ___ in.Mehweb-GEN chief
+The English translation of this sentence is:`Who is Israpil? – Israpil is the head of Mehweb.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: does not contain new information, as in (\ref{ex:12:48}) and (\ref{ex:12:49}).
+A: word: gʷa	 gloss: ASRT
+B: word: le-b-re	 gloss: {be}-N-PST
+C: word: ħajgʷan~/ħa-igʷ-an/	 gloss: NEG-burn:IPFV-HAB
+D: word: heʔʷan-i	 gloss: similar-ATR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
