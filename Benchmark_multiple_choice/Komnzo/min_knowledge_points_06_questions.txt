@@ -1,0 +1,1339 @@
+Question 0:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nzun etha nzüthamöwä ___ wath.
+Gloss (with missing item): FSG.DAT three times ___ dance.
+The English translation of this sentence is:`They danced three times for me.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \Alph{} prefixes combine only with the extended stem. They are used to encode \isi{non-past} (\ref{ex276}), \isi{recent past} \isi{durative} (\ref{ex275}) and \isi{past} \isi{imperfective} (\ref{ex277}). Example (\ref{ex276}) comes from a hunting story, where the narrator meets a spiritual being in the forest. In (\ref{ex275}), the speaker reports an incident from a neighbouring village involving a young boy who was attacked by a sorcerer in his yam garden. Example (\ref{ex277}), is from an interview about the customs around the sister-exchange marriage system.
+A: word: wo-a-rnzür-wr-a-th	 gloss: FSG.ALPH-VC.-dance.EXT-NDU-PST-STNSG
+B: word: th-ä-kwr-a-th	 gloss: STNSG.GAM-VC.textbarNDU-hit.RS-PST-STNSG
+C: word: kayé	 gloss: yesterday
+D: word: wo-a-m-nz-a	 gloss: FSG.ALPH-VC.-sit.EXT-NDU-PST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 1:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nzun etha nzüthamöwä ___ wath.
+Gloss (with missing item): FSG.DAT three times ___ dance.
+The English translation of this sentence is:`They danced three times for me.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \Alph{} prefixes combine only with the extended stem. They are used to encode \isi{non-past} (\ref{ex276}), \isi{recent past} \isi{durative} (\ref{ex275}) and \isi{past} \isi{imperfective} (\ref{ex277}). Example (\ref{ex276}) comes from a hunting story, where the narrator meets a spiritual being in the forest. In (\ref{ex275}), the speaker reports an incident from a neighbouring village involving a young boy who was attacked by a sorcerer in his yam garden. Example (\ref{ex277}), is from an interview about the customs around the sister-exchange marriage system.
+A: word: th-ä-kwr-a-th	 gloss: STNSG.GAM-VC.textbarNDU-hit.RS-PST-STNSG
+B: word: gn-a-m-nz-é	 gloss: SSG.BET-VC.-sit.EXT-NDU-IMP
+C: word: wo-a-m-nz-a	 gloss: FSG.ALPH-VC.-sit.EXT-NDU-PST
+D: word: wo-a-rnzür-wr-a-th	 gloss: FSG.ALPH-VC.-dance.EXT-NDU-PST-STNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): trik-si mane ___ fof ... ŋafe=nm ... bada=fa ane fof ŋ-a-n-ritak-w-a-∅ fof.
+Gloss (with missing item): tell-NMLZ which ___ EMPH ... father=DAT.NSG ... ancestor=ABL DEM EMPH M.ALPH-VC.-VENIT-pass.EXT-NDU-PST-SG EMPH.
+The English translation of this sentence is:`The story which I have just told passed from the ancestors to (our) fathers.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If the \isi{proclitic} n= is attached to a \isi{verb} employing the \Alph{} prefixes, the resulting inflection is either \isi{immediate past} imperfective (\ref{ex273}) or \isi{immediate past} \isi{durative} (\ref{ex274}) depending on the suffixal material. In other words, the \isi{immediate past} is built from verbs inflected for \isi{non-past}. This is preserved in the integrated glossing style, because the n= is analysed as a \isi{clitic}. The n= is related to the \isi{imminent} \isi{particle} n ({\S}\ref{imminentm}). Example (\ref{ex273}) sums up a story about the origin of the Morehead people. In (\ref{ex274}), the speaker talks about competitive yam cultivation and how older people assess a young man's status by the number and size of his crop.
+A: word: n-a-trik-w-é	 gloss: SSG.ALPH-VC.-tell.EXT-NDU-FSG
+B: word: n=ŋ-a-trik-w-é	 gloss: IMMpst=M.ALPH-VC.-tell.EXT-NDU-FSG
+C: word: nzu-a-sämi-nzr-m-∅	 gloss: FNSG.BETaone-VC.-whisper.EXT-NDU-DUR-STSG
+D: word: nz=y-brüz-∅-é	 gloss: IMMpst=TSG.MASC.ALPH-submerge.EXT-NDU-FSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 3:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): fthé bone kafar=wä ___ eh yabun zane wtri=karä=sü we gn-rä-r-m.
+Gloss (with missing item): when SSG.POSS big=EMPH ___ eh big DEM:PROX fear=PROP=ETC also SSG.BET-COP-NDU-DUR.
+The English translation of this sentence is:`When they have just held your big (yam tubers) and say: ``Hey, that (is) a big one!'' then you have to be afraid!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If the \isi{proclitic} n= is attached to a \isi{verb} employing the \Alph{} prefixes, the resulting inflection is either \isi{immediate past} imperfective (\ref{ex273}) or \isi{immediate past} \isi{durative} (\ref{ex274}) depending on the suffixal material. In other words, the \isi{immediate past} is built from verbs inflected for \isi{non-past}. This is preserved in the integrated glossing style, because the n= is analysed as a \isi{clitic}. The n= is related to the \isi{imminent} \isi{particle} n ({\S}\ref{imminentm}). Example (\ref{ex273}) sums up a story about the origin of the Morehead people. In (\ref{ex274}), the speaker talks about competitive yam cultivation and how older people assess a young man's status by the number and size of his crop.
+A: word: nz-a-sämir-é	 gloss: SSG.BET-VC..NDU-whisper.RS-FSG
+B: word: n=y-a-m-nzr-m	 gloss: IMMpst=TSG.MASC.ALPH-VC.-sit.EXT-NDU-DUR
+C: word: n=e-fath-wr-m-th	 gloss: IMMpst=STNSG.ALPH-hold.EXT-NDU-DUR-STNSG
+D: word: thu-zirak-wr-m-th	 gloss: STNSG.BETaone-tie.EXT-NDU-DUR-STNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 4:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): trik-si mane ___ fof ... ŋafe=nm ... bada=fa ane fof ŋ-a-n-ritak-w-a-∅ fof.
+Gloss (with missing item): tell-NMLZ which ___ EMPH ... father=DAT.NSG ... ancestor=ABL DEM EMPH M.ALPH-VC.-VENIT-pass.EXT-NDU-PST-SG EMPH.
+The English translation of this sentence is:`The story which I have just told passed from the ancestors to (our) fathers.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If the \isi{proclitic} n= is attached to a \isi{verb} employing the \Alph{} prefixes, the resulting inflection is either \isi{immediate past} imperfective (\ref{ex273}) or \isi{immediate past} \isi{durative} (\ref{ex274}) depending on the suffixal material. In other words, the \isi{immediate past} is built from verbs inflected for \isi{non-past}. This is preserved in the integrated glossing style, because the n= is analysed as a \isi{clitic}. The n= is related to the \isi{imminent} \isi{particle} n ({\S}\ref{imminentm}). Example (\ref{ex273}) sums up a story about the origin of the Morehead people. In (\ref{ex274}), the speaker talks about competitive yam cultivation and how older people assess a young man's status by the number and size of his crop.
+A: word: n-a-trik-w-é	 gloss: SSG.ALPH-VC.-tell.EXT-NDU-FSG
+B: word: z-a-ms-e	 gloss: M.GAM-VC..DU-sit.RS-FNSG
+C: word: n=ŋ-a-trik-w-é	 gloss: IMMpst=M.ALPH-VC.-tell.EXT-NDU-FSG
+D: word: nz=y-brüz-∅-é	 gloss: IMMpst=TSG.MASC.ALPH-submerge.EXT-NDU-FSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 5:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): fthé bone kafar=wä ___ eh yabun zane wtri=karä=sü we gn-rä-r-m.
+Gloss (with missing item): when SSG.POSS big=EMPH ___ eh big DEM:PROX fear=PROP=ETC also SSG.BET-COP-NDU-DUR.
+The English translation of this sentence is:`When they have just held your big (yam tubers) and say: ``Hey, that (is) a big one!'' then you have to be afraid!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If the \isi{proclitic} n= is attached to a \isi{verb} employing the \Alph{} prefixes, the resulting inflection is either \isi{immediate past} imperfective (\ref{ex273}) or \isi{immediate past} \isi{durative} (\ref{ex274}) depending on the suffixal material. In other words, the \isi{immediate past} is built from verbs inflected for \isi{non-past}. This is preserved in the integrated glossing style, because the n= is analysed as a \isi{clitic}. The n= is related to the \isi{imminent} \isi{particle} n ({\S}\ref{imminentm}). Example (\ref{ex273}) sums up a story about the origin of the Morehead people. In (\ref{ex274}), the speaker talks about competitive yam cultivation and how older people assess a young man's status by the number and size of his crop.
+A: word: m=z-ä-rfusir-∅	 gloss: Appr=M.GAM-VC..NDU-light.up.RS-STSG
+B: word: thu-zirak-wr-m-th	 gloss: STNSG.BETaone-tie.EXT-NDU-DUR-STNSG
+C: word: n=e-fath-wr-m-th	 gloss: IMMpst=STNSG.ALPH-hold.EXT-NDU-DUR-STNSG
+D: word: n=y-a-m-nzr-m	 gloss: IMMpst=TSG.MASC.ALPH-VC.-sit.EXT-NDU-DUR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 6:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): watik fthé ___ keke kwa zba we k-rä-mätr-o-th.
+Gloss (with missing item): then when ___ NEG FUT PROX.ABL also M.BET-IRR.VC..NDU-exit.RS-ANDAT-NSG.
+The English translation of this sentence is:`Well, when they turn around, they will not escape from here.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \Bet{} series is split into a basic series \Bet{} and two related series \Betaone{} and \Betatwo. The basic \Bet{} series is used for all the non-tensed categories like the \isi{irrealis} (\ref{ex330}) and the imperatives (\ref{ex278}). Example (\ref{ex330}) comes from a procedural text about fish baskets and the speaker explains how the fish gets trapped inside. In (\ref{ex278}), the narrator took over the role of a character in a stimulus picture task.
+A: word: z-a-ms-e	 gloss: M.GAM-VC..DU-sit.RS-FNSG
+B: word: ŋ-a-mig-wr-th	 gloss: M.ALPH-VC.-hang.EXT-NDU-STNSG
+C: word: z-rä-rä-r-th	 gloss: TSG.F.BET-IRR.VC.-do.EXT-NDU-STNSG
+D: word: k-ra-n-brig-wr-th	 gloss: M.BET-IRR.VC.-VENIT-return.EXT-NDU-STNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 7:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bné ___ nzä keke miyo wo-rä.
+Gloss (with missing item): SNSG.ERG ___ FSG.ABS NEG desire FSG.ALPH-COP.NDU.
+The English translation of this sentence is:```You drink! I don't want to.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \Bet{} series is split into a basic series \Bet{} and two related series \Betaone{} and \Betatwo. The basic \Bet{} series is used for all the non-tensed categories like the \isi{irrealis} (\ref{ex330}) and the imperatives (\ref{ex278}). Example (\ref{ex330}) comes from a procedural text about fish baskets and the speaker explains how the fish gets trapped inside. In (\ref{ex278}), the narrator took over the role of a character in a stimulus picture task.
+A: word: znsä-znsä=r	 gloss: REDUP-work=PURP
+B: word: k-ä-tharuf-∅	 gloss: M.BET-VC..NDU-enter.RS-SSG.IMP
+C: word: k-ä-znob-e	 gloss: M.BET-NDU.VC.-drink.RS-SNSG.IMP
+D: word: kw-ä-n-kor-m-∅	 gloss: M.BETaone-VC.NDU-VENIT-become.RS-DUR-STSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 8:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): watik fthé ___ keke kwa zba we k-rä-mätr-o-th.
+Gloss (with missing item): then when ___ NEG FUT PROX.ABL also M.BET-IRR.VC..NDU-exit.RS-ANDAT-NSG.
+The English translation of this sentence is:`Well, when they turn around, they will not escape from here.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \Bet{} series is split into a basic series \Bet{} and two related series \Betaone{} and \Betatwo. The basic \Bet{} series is used for all the non-tensed categories like the \isi{irrealis} (\ref{ex330}) and the imperatives (\ref{ex278}). Example (\ref{ex330}) comes from a procedural text about fish baskets and the speaker explains how the fish gets trapped inside. In (\ref{ex278}), the narrator took over the role of a character in a stimulus picture task.
+A: word: z-rä-rä-r-th	 gloss: TSG.F.BET-IRR.VC.-do.EXT-NDU-STNSG
+B: word: ŋ-a-mig-wr-th	 gloss: M.ALPH-VC.-hang.EXT-NDU-STNSG
+C: word: kwa	 gloss: FUT
+D: word: k-ra-n-brig-wr-th	 gloss: M.BET-IRR.VC.-VENIT-return.EXT-NDU-STNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 9:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bné ___ nzä keke miyo wo-rä.
+Gloss (with missing item): SNSG.ERG ___ FSG.ABS NEG desire FSG.ALPH-COP.NDU.
+The English translation of this sentence is:```You drink! I don't want to.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \Bet{} series is split into a basic series \Bet{} and two related series \Betaone{} and \Betatwo. The basic \Bet{} series is used for all the non-tensed categories like the \isi{irrealis} (\ref{ex330}) and the imperatives (\ref{ex278}). Example (\ref{ex330}) comes from a procedural text about fish baskets and the speaker explains how the fish gets trapped inside. In (\ref{ex278}), the narrator took over the role of a character in a stimulus picture task.
+A: word: znsä-znsä=r	 gloss: REDUP-work=PURP
+B: word: kayé	 gloss: yesterday
+C: word: k-ä-tharuf-∅	 gloss: M.BET-VC..NDU-enter.RS-SSG.IMP
+D: word: k-ä-znob-e	 gloss: M.BET-NDU.VC.-drink.RS-SNSG.IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 10:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): fiyaf=r ___ tauri woku thorak-si=r.
+Gloss (with missing item): hunting=PURP ___ wallaby skin search-NMLZ=PURP.
+The English translation of this sentence is:`We will go hunting and search for wallaby skin.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \tabref{perspref2} shows that there are two formatives for the first person \isi{non-singular} (nz- and nzn-) as well as the second \isi{singular} (nz- and gn-) of the \Bet{} series. For the first \isi{person} \isi{non-singular}, nz- is used for \isi{irrealis} (\ref{ex283}) and nzn- for the imperatives (\ref{ex284}). In example (\ref{ex283}), the speaker explains how a kundu drum is carved and prepared. Example (\ref{ex284}) is taken from a conversation by the fire that involved a lot of hearsay information. In conclusion, the speaker tells the two addressees to go to Morehead and clarify the rumours.
+A: word: nz-ra-kor-th	 gloss: FNSG.BET-IRR.DU-speak.RS-STNSG
+B: word: kwof-rugr-m	 gloss: FSG.Betatwo-sleep.EXT.NDU-DUR
+C: word: kwof-yak	 gloss: FSG.Betatwo-walk.EXT.NDU
+D: word: nz-ra-yak	 gloss: FNSG.BET-IRR-walk.EXT.NDU
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 11:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): fiyaf=r ___ tauri woku thorak-si=r.
+Gloss (with missing item): hunting=PURP ___ wallaby skin search-NMLZ=PURP.
+The English translation of this sentence is:`We will go hunting and search for wallaby skin.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \tabref{perspref2} shows that there are two formatives for the first person \isi{non-singular} (nz- and nzn-) as well as the second \isi{singular} (nz- and gn-) of the \Bet{} series. For the first \isi{person} \isi{non-singular}, nz- is used for \isi{irrealis} (\ref{ex283}) and nzn- for the imperatives (\ref{ex284}). In example (\ref{ex283}), the speaker explains how a kundu drum is carved and prepared. Example (\ref{ex284}) is taken from a conversation by the fire that involved a lot of hearsay information. In conclusion, the speaker tells the two addressees to go to Morehead and clarify the rumours.
+A: word: nz-ra-kor-th	 gloss: FNSG.BET-IRR.DU-speak.RS-STNSG
+B: word: kw-ä-n-kor-m-∅	 gloss: M.BETaone-VC.NDU-VENIT-become.RS-DUR-STSG
+C: word: nz-ra-yak	 gloss: FNSG.BET-IRR-walk.EXT.NDU
+D: word: kwof-yak	 gloss: FSG.Betatwo-walk.EXT.NDU
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 12:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): grä-thé znsä rä ... thrma ___ bun.
+Gloss (with missing item): slow-Adlzr work TSG.F.COP.NDU ... later ___ SSG.DAT.
+The English translation of this sentence is:`It is easy work ... I will teach you later.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The second formative for the second singular in \tabref{perspref2} (nz-) is used for \isi{irrealis} inflection of prefixing and ambifixing verbs. Interestingly, only the second \isi{person} singular of ambifixing verbs does not employ the \isi{irrealis} prefix ra- in the \isi{irrealis} inflection (\ref{ex286}). If it is a prefixing verb, the \isi{irrealis} prefix ra- is employed (\ref{ex287}).\footnote{Both verbs in this example are deponent employing, the valency change prefix a- without a change in valency. The second verb yak `walk' is only deponent when it employs the venitive marker, meaning `come', not when it is neutral or andative `walk', `go away'.} Example (\ref{ex286}) is taken from a procedural text in which the speaker shows me how to manufacture two children's toys. In (\ref{ex287}), the malignant protagonist invites a stranger to stay with her.
+A: word: nzu-a-sämi-nzr-m-∅	 gloss: FNSG.BETaone-VC.-whisper.EXT-NDU-DUR-STSG
+B: word: k-ä-tharuf-∅	 gloss: M.BET-VC..NDU-enter.RS-SSG.IMP
+C: word: nz-a-sämir-é	 gloss: SSG.BET-VC..NDU-whisper.RS-FSG
+D: word: z-ä-n-far-é	 gloss: M.GAM-VC..NDU-VENIT-set.off.EXT-FSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 13:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): grä-thé znsä rä ... thrma ___ bun.
+Gloss (with missing item): slow-Adlzr work TSG.F.COP.NDU ... later ___ SSG.DAT.
+The English translation of this sentence is:`It is easy work ... I will teach you later.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The second formative for the second singular in \tabref{perspref2} (nz-) is used for \isi{irrealis} inflection of prefixing and ambifixing verbs. Interestingly, only the second \isi{person} singular of ambifixing verbs does not employ the \isi{irrealis} prefix ra- in the \isi{irrealis} inflection (\ref{ex286}). If it is a prefixing verb, the \isi{irrealis} prefix ra- is employed (\ref{ex287}).\footnote{Both verbs in this example are deponent employing, the valency change prefix a- without a change in valency. The second verb yak `walk' is only deponent when it employs the venitive marker, meaning `come', not when it is neutral or andative `walk', `go away'.} Example (\ref{ex286}) is taken from a procedural text in which the speaker shows me how to manufacture two children's toys. In (\ref{ex287}), the malignant protagonist invites a stranger to stay with her.
+A: word: nzu-a-sämi-nzr-m-∅	 gloss: FNSG.BETaone-VC.-whisper.EXT-NDU-DUR-STSG
+B: word: k-ä-tharuf-∅	 gloss: M.BET-VC..NDU-enter.RS-SSG.IMP
+C: word: nz-a-sämir-é	 gloss: SSG.BET-VC..NDU-whisper.RS-FSG
+D: word: nomai	 gloss: Hab
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 14:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): teste ___ bobomr {kwarikwari} efoth ... sokoro kf-ä-bth-∅.
+Gloss (with missing item): thursday ___ until midday sun ... school M.Betatwo-VC..NDU-finish.RS-STSG.
+The English translation of this sentence is:`On Thursday, he was teaching us until midday and then school always ended (for the week).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \Betaone{} and \Betatwo{} series are used for \isi{recent past} \isi{imperfective} (\ref{ex280}), \isi{past} \isi{durative} (first verb in \ref{ex279}) and \isi{past} \isi{iterative} (second verb in \ref{ex279}). In example (\ref{ex279}), the speaker talks about his experiences at the Rouku mission school in the 1960s.
+A: word: zu-∅-kor-a-th	 gloss: FSG.GAM-DU-speak.RS-PST-STNSG
+B: word: nzu-a-m-nzr-m	 gloss: FNSG.Betatwo-VC.-sit.EXT-NDU-DUR
+C: word: zu-a-fsi-nzr-m-∅	 gloss: TSG.F.Betatwo-VC-count.EXT-NDU-DUR-STSG
+D: word: nzu-a-sämi-nzr-m-∅	 gloss: FNSG.BETaone-VC.-whisper.EXT-NDU-DUR-STSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 15:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): teste ___ bobomr {kwarikwari} efoth ... sokoro kf-ä-bth-∅.
+Gloss (with missing item): thursday ___ until midday sun ... school M.Betatwo-VC..NDU-finish.RS-STSG.
+The English translation of this sentence is:`On Thursday, he was teaching us until midday and then school always ended (for the week).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \Betaone{} and \Betatwo{} series are used for \isi{recent past} \isi{imperfective} (\ref{ex280}), \isi{past} \isi{durative} (first verb in \ref{ex279}) and \isi{past} \isi{iterative} (second verb in \ref{ex279}). In example (\ref{ex279}), the speaker talks about his experiences at the Rouku mission school in the 1960s.
+A: word: zu-a-fsi-nzr-m-∅	 gloss: TSG.F.Betatwo-VC-count.EXT-NDU-DUR-STSG
+B: word: nzu-a-m-nzr-m	 gloss: FNSG.Betatwo-VC.-sit.EXT-NDU-DUR
+C: word: nzu-a-sämi-nzr-m-∅	 gloss: FNSG.BETaone-VC.-whisper.EXT-NDU-DUR-STSG
+D: word: z-a-ms-e	 gloss: M.GAM-VC..DU-sit.RS-FNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 16:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): teste ___ bobomr {kwarikwari} efoth ... sokoro kf-ä-bth-∅.
+Gloss (with missing item): thursday ___ until midday sun ... school M.Betatwo-VC..NDU-finish.RS-STSG.
+The English translation of this sentence is:`On Thursday, he was teaching us until midday and then school always ended (for the week).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \Betaone{} and \Betatwo{} series are used for \isi{recent past} \isi{imperfective} (\ref{ex280}), \isi{past} \isi{durative} (first verb in \ref{ex279}) and \isi{past} \isi{iterative} (second verb in \ref{ex279}). In example (\ref{ex279}), the speaker talks about his experiences at the Rouku mission school in the 1960s.
+A: word: nzu-a-sämi-nzr-m-∅	 gloss: FNSG.BETaone-VC.-whisper.EXT-NDU-DUR-STSG
+B: word: zu-a-fsi-nzr-m-∅	 gloss: TSG.F.Betatwo-VC-count.EXT-NDU-DUR-STSG
+C: word: nzu-a-m-nzr-m	 gloss: FNSG.Betatwo-VC.-sit.EXT-NDU-DUR
+D: word: k-ra-kwi-n-m-th	 gloss: M.BET-IRR.VC.-argue.EXT-DU-DUR-STNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 17:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): watik zä zf ___ bä nzn-ä-thor.
+Gloss (with missing item): then PROX IMM ___ SSG SSG.GAM-NDU-arrive.RS.
+The English translation of this sentence is:`Then, we two sat down and you arrived.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \Gam{} prefixes are used for the perfectives: the \isi{recent past} \isi{perfective} (\ref{ex281}) and the \isi{past} \isi{perfective} (\ref{ex282}). Example (\ref{ex281}) comes from a spontaneous conversation in the yam garden when a friend happened to pass by on his bicycle. Example (\ref{ex282}) describes a dance that took place in the nearby settlement of Forzitho.
+A: word: z-a-ms-e	 gloss: M.GAM-VC..DU-sit.RS-FNSG
+B: word: m=e-rn	 gloss: where=STNSG.ALPH-COP.DU
+C: word: k-ra-ms-e	 gloss: M.BET-IRR.VC.DU-sit.RS-FNSG
+D: word: th-ra-nor	 gloss: STNSG.BET-IRR-shout.EXT.NDU
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 18:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): watik zä zf ___ bä nzn-ä-thor.
+Gloss (with missing item): then PROX IMM ___ SSG SSG.GAM-NDU-arrive.RS.
+The English translation of this sentence is:`Then, we two sat down and you arrived.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \Gam{} prefixes are used for the perfectives: the \isi{recent past} \isi{perfective} (\ref{ex281}) and the \isi{past} \isi{perfective} (\ref{ex282}). Example (\ref{ex281}) comes from a spontaneous conversation in the yam garden when a friend happened to pass by on his bicycle. Example (\ref{ex282}) describes a dance that took place in the nearby settlement of Forzitho.
+A: word: nafane=ma=wä	 gloss: TSG.POSS=CHAR=EMPH
+B: word: k-ra-ms-e	 gloss: M.BET-IRR.VC.DU-sit.RS-FNSG
+C: word: z-a-ms-e	 gloss: M.GAM-VC..DU-sit.RS-FNSG
+D: word: e-a-na-n-e	 gloss: STNSG.ALPH-VC.-eat.EXT-DU-FNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 19:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): grä-thé znsä rä ... thrma ___ bun.
+Gloss (with missing item): slow-Adlzr work TSG.F.COP.NDU ... later ___ SSG.DAT.
+The English translation of this sentence is:`It is easy work ... I will teach you later.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{irrealis} prefix ra- is used for the \isi{imperfective}, \isi{perfective} and \isi{durative} \isi{irrealis} inflections. We have seen examples of all three \isi{aspect} values in (\ref{ex286}) and (\ref{ex287}). Example (\ref{ex286}) showed that the only place in the paradigm where the \isi{irrealis} prefix ra- is not used is the second \isi{person} singular of an ambifixing \isi{verb}.
+A: word: nzu-a-sämi-nzr-m-∅	 gloss: FNSG.BETaone-VC.-whisper.EXT-NDU-DUR-STSG
+B: word: k-ä-tharuf-∅	 gloss: M.BET-VC..NDU-enter.RS-SSG.IMP
+C: word: nz-a-sämir-é	 gloss: SSG.BET-VC..NDU-whisper.RS-FSG
+D: word: k-rä-bth-m-o-∅	 gloss: M.BET-IRR.VC..NDU-finish.RS-DUR-ANDAT-SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 20:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): grä-thé znsä rä ... thrma ___ bun.
+Gloss (with missing item): slow-Adlzr work TSG.F.COP.NDU ... later ___ SSG.DAT.
+The English translation of this sentence is:`It is easy work ... I will teach you later.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{irrealis} prefix ra- is used for the \isi{imperfective}, \isi{perfective} and \isi{durative} \isi{irrealis} inflections. We have seen examples of all three \isi{aspect} values in (\ref{ex286}) and (\ref{ex287}). Example (\ref{ex286}) showed that the only place in the paradigm where the \isi{irrealis} prefix ra- is not used is the second \isi{person} singular of an ambifixing \isi{verb}.
+A: word: k-ä-tharuf-∅	 gloss: M.BET-VC..NDU-enter.RS-SSG.IMP
+B: word: nzu-a-sämi-nzr-m-∅	 gloss: FNSG.BETaone-VC.-whisper.EXT-NDU-DUR-STSG
+C: word: nz-a-sämir-é	 gloss: SSG.BET-VC..NDU-whisper.RS-FSG
+D: word: z-a-ms-e	 gloss: M.GAM-VC..DU-sit.RS-FNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 21:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ŋatha=r foba ___ th-rä-thkäf-é.
+Gloss (with missing item): dog=PURP DIST.ABL ___ STNSG.BET-IRR.NDU-start.RS-FSG.
+The English translation of this sentence is:`From there, I started calling out for the dogs.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The interaction of the \isi{irrealis} prefix with the \isi{valency} changing prefix a- and pre-stem dual marking is explained in {\S}\ref{prerootdual}. In that section, I pointed out that the \isi{irrealis} prefix ra- overrides the \isi{valency} changing prefix a- to the effect that the absence versus presence of the \isi{valency} changing prefix is neutralised. For verb forms which employ the extended stem, this \isi{neutralisation} is complete. For verb forms which employ the restricted stem, there are small changes in the pre-stem duality marking pattern ({\S}\ref{prerootdual}). In these cases, only the \isi{case} frame indicates whether the \isi{undergoer} argument is a direct \isi{object}, such as the absolutive \isi{case} on szsi `calling' in (\ref{ex288}), or an indirect object, such as the dative \isi{case} on ŋatha in (\ref{ex289}). Both examples are taken from the same hunting story in which the narrator talks about his usual routines when going on a hunting expedition.
+A: word: rku-si	 gloss: knock.down-NMLZ
+B: word: nz-ä-n-mes-é	 gloss: SSG.BET-NDU-VENIT-fetch.RS-FSG
+C: word: sz-si	 gloss: call.out-NMLZ
+D: word: rifthz-si=me	 gloss: hide-NMLZ=INS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 22:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): watik wo-a-m-nz-a ___ biskar mni th-rä-thkäf-é.
+Gloss (with missing item): then FSG.ALPH-VC.-sit.EXT-NDU-PST ___ cassawa fire STNSG.BET-IRR.NDU-start.RS-FSG.
+The English translation of this sentence is:`Then I sat and started to cook the cassava for the dogs.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The interaction of the \isi{irrealis} prefix with the \isi{valency} changing prefix a- and pre-stem dual marking is explained in {\S}\ref{prerootdual}. In that section, I pointed out that the \isi{irrealis} prefix ra- overrides the \isi{valency} changing prefix a- to the effect that the absence versus presence of the \isi{valency} changing prefix is neutralised. For verb forms which employ the extended stem, this \isi{neutralisation} is complete. For verb forms which employ the restricted stem, there are small changes in the pre-stem duality marking pattern ({\S}\ref{prerootdual}). In these cases, only the \isi{case} frame indicates whether the \isi{undergoer} argument is a direct \isi{object}, such as the absolutive \isi{case} on szsi `calling' in (\ref{ex288}), or an indirect object, such as the dative \isi{case} on ŋatha in (\ref{ex289}). Both examples are taken from the same hunting story in which the narrator talks about his usual routines when going on a hunting expedition.
+A: word: zokwasi=mär	 gloss: word=PRIV
+B: word: ŋatha=nm	 gloss: dog=DAT.NSG
+C: word: ŋatha=yé	 gloss: dog=ERG.NSG
+D: word: nz=y-brüz-∅-é	 gloss: IMMpst=TSG.MASC.ALPH-submerge.EXT-NDU-FSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 23:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ mama bä bana k-ä-tharuf-∅ zuzi k-ä-zir-\Zero.
+Gloss (with missing item): ___ mother SSG poor M.BET-VC..NDU-enter.RS-SSG.IMP fishing.line M.BET-VC..NDU-throw.RS-SSG.IMP.
+The English translation of this sentence is:`They said to me: ``Mama, get on (the canoe) and throw the fishing line!'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The position of the \isi{past} suffix -a within the suffixing subsystem is described in {\S}\ref{personsuffsection}. The \isi{past} suffix -a is employed for two TAM categories: the \isi{past} \isi{imperfective} (\ref{ex290}) and the \isi{past} \isi{perfective} (\ref{ex291}). Example (\ref{ex290}) is taken from a text on oral history of the Morehead district. The narrator talks about conficts caused by an alleged sorcerer in the 1940s. The second example (\ref{ex291}) comes from a much more recent event, where aa woman is talking about camping at the Morehead river and going fishing only a week before the recording was made.
+A: word: kwa	 gloss: FUT
+B: word: zu-ä-r-a-th	 gloss: FSG.GAM-VC..NDU-give.RS-PST-STNSG
+C: word: zu-∅-kor-a-th	 gloss: FSG.GAM-DU-speak.RS-PST-STNSG
+D: word: zu-ä-kor-∅	 gloss: FSG.GAM-NDU-speak.RS-STSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 24:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ mama bä bana k-ä-tharuf-∅ zuzi k-ä-zir-\Zero.
+Gloss (with missing item): ___ mother SSG poor M.BET-VC..NDU-enter.RS-SSG.IMP fishing.line M.BET-VC..NDU-throw.RS-SSG.IMP.
+The English translation of this sentence is:`They said to me: ``Mama, get on (the canoe) and throw the fishing line!'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The position of the \isi{past} suffix -a within the suffixing subsystem is described in {\S}\ref{personsuffsection}. The \isi{past} suffix -a is employed for two TAM categories: the \isi{past} \isi{imperfective} (\ref{ex290}) and the \isi{past} \isi{perfective} (\ref{ex291}). Example (\ref{ex290}) is taken from a text on oral history of the Morehead district. The narrator talks about conficts caused by an alleged sorcerer in the 1940s. The second example (\ref{ex291}) comes from a much more recent event, where aa woman is talking about camping at the Morehead river and going fishing only a week before the recording was made.
+A: word: k-ra-n-brig-wr-th	 gloss: M.BET-IRR.VC.-VENIT-return.EXT-NDU-STNSG
+B: word: zu-∅-kor-a-th	 gloss: FSG.GAM-DU-speak.RS-PST-STNSG
+C: word: zu-ä-kor-∅	 gloss: FSG.GAM-NDU-speak.RS-STSG
+D: word: zu-ä-r-a-th	 gloss: FSG.GAM-VC..NDU-give.RS-PST-STNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 25:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): fthé bone kafar=wä ___ eh yabun zane wtri=karä=sü we gn-rä-r-m.
+Gloss (with missing item): when SSG.POSS big=EMPH ___ eh big DEM:PROX fear=PROP=ETC also SSG.BET-COP-NDU-DUR.
+The English translation of this sentence is:`When they have just held your big (yam tubers) and say: ``Hey, that (is) a big one!'' then you have to be afraid!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{durative} suffix -m is described in {\S}\ref{personsuffsection} with regard to its position in the suffixing subsystem. It is employed for \isi{durative} \isi{aspect}, which expresses an ongoing event in the \isi{immediate past}\footnote{The immediate past occurs with a low frequency in the text corpus and, consequently, there is only a handful of examples in the immediate past durative.\footnotesize Example (\ref{ex274}) on page \pageref{ex274} is one of these.}, \isi{recent past} (\ref{ex293}), \isi{past} (\ref{ex292}) and \isi{irrealis} (\ref{ex294}). In example (\ref{ex293}), the speaker reports on how he fought a bushfire in his garden the preceding day. Example (\ref{ex292}) is taken from a story about rain-making magic which the narrator acquired and practiced in his youth. The \isi{irrealis} example (\ref{ex294}) is taken from a conversation about local customs surrounding the sister-exchange system.
+A: word: n=y-a-m-nzr-m	 gloss: IMMpst=TSG.MASC.ALPH-VC.-sit.EXT-NDU-DUR
+B: word: sz-si	 gloss: call.out-NMLZ
+C: word: n=e-fath-wr-m-th	 gloss: IMMpst=STNSG.ALPH-hold.EXT-NDU-DUR-STNSG
+D: word: thu-zirak-wr-m-th	 gloss: STNSG.BETaone-tie.EXT-NDU-DUR-STNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 26:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): fäms fthé ___ ... fäms fäms=nzo ....
+Gloss (with missing item): exchange.man when ___ ... exchange.man exchange.man=ONLY ....
+The English translation of this sentence is:`When exchange men are fighting ... exchange man (against) exchange man ...'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{durative} suffix -m is described in {\S}\ref{personsuffsection} with regard to its position in the suffixing subsystem. It is employed for \isi{durative} \isi{aspect}, which expresses an ongoing event in the \isi{immediate past}\footnote{The immediate past occurs with a low frequency in the text corpus and, consequently, there is only a handful of examples in the immediate past durative.\footnotesize Example (\ref{ex274}) on page \pageref{ex274} is one of these.}, \isi{recent past} (\ref{ex293}), \isi{past} (\ref{ex292}) and \isi{irrealis} (\ref{ex294}). In example (\ref{ex293}), the speaker reports on how he fought a bushfire in his garden the preceding day. Example (\ref{ex292}) is taken from a story about rain-making magic which the narrator acquired and practiced in his youth. The \isi{irrealis} example (\ref{ex294}) is taken from a conversation about local customs surrounding the sister-exchange system.
+A: word: k-ra-kwi-n-m-th	 gloss: M.BET-IRR.VC.-argue.EXT-DU-DUR-STNSG
+B: word: ŋ-a-kwi-n-th	 gloss: M.ALPH-VC.-run.EXT-DU-STNSG
+C: word: k-ra-ms-e	 gloss: M.BET-IRR.VC.DU-sit.RS-FNSG
+D: word: nama	 gloss: two.days.ago
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 27:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): fäms fthé ___ ... fäms fäms=nzo ....
+Gloss (with missing item): exchange.man when ___ ... exchange.man exchange.man=ONLY ....
+The English translation of this sentence is:`When exchange men are fighting ... exchange man (against) exchange man ...'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{durative} suffix -m is described in {\S}\ref{personsuffsection} with regard to its position in the suffixing subsystem. It is employed for \isi{durative} \isi{aspect}, which expresses an ongoing event in the \isi{immediate past}\footnote{The immediate past occurs with a low frequency in the text corpus and, consequently, there is only a handful of examples in the immediate past durative.\footnotesize Example (\ref{ex274}) on page \pageref{ex274} is one of these.}, \isi{recent past} (\ref{ex293}), \isi{past} (\ref{ex292}) and \isi{irrealis} (\ref{ex294}). In example (\ref{ex293}), the speaker reports on how he fought a bushfire in his garden the preceding day. Example (\ref{ex292}) is taken from a story about rain-making magic which the narrator acquired and practiced in his youth. The \isi{irrealis} example (\ref{ex294}) is taken from a conversation about local customs surrounding the sister-exchange system.
+A: word: k-ra-ms-e	 gloss: M.BET-IRR.VC.DU-sit.RS-FNSG
+B: word: k-ra-kwi-n-m-th	 gloss: M.BET-IRR.VC.-argue.EXT-DU-DUR-STNSG
+C: word: ŋ-a-kwi-n-th	 gloss: M.ALPH-VC.-run.EXT-DU-STNSG
+D: word: m=e-rn	 gloss: where=STNSG.ALPH-COP.DU
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 28:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zfth mni nä kayé ___ kidn.
+Gloss (with missing item): base fire some yesterday ___ kidn.
+The English translation of this sentence is:`They always used to call the eternal fire Kidn.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{durative} suffix can also attach to an \isi{iterative} inflection, in which case the iteration of the event is streched over a longer duration, as in (\ref{ex295}) and (\ref{ex296}). In (\ref{ex295}), the speaker talks about the first fire which destroyed the world inhabited by humans. In (\ref{ex296}), the speaker describes how the people used to avoid a particular place during the early and late hours of the day because it was inhabited by a story man.
+A: word: nz=y-brüz-∅-é	 gloss: IMMpst=TSG.MASC.ALPH-submerge.EXT-NDU-FSG
+B: word: zu-ä-r-a-th	 gloss: FSG.GAM-VC..NDU-give.RS-PST-STNSG
+C: word: zu-ä-s-m-th	 gloss: TSG.F.BETaone-NDU-call.RS-DUR-STNSG
+D: word: thu-zirak-wr-m-th	 gloss: STNSG.BETaone-tie.EXT-NDU-DUR-STNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 29:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kw-a-moneg-wr-m-th e efoth fthé zbo warfo ___ fthé kw-a-rafi-nzr-m-th zä z=e-rä
+Gloss (with missing item): M.Betaone-VC-wait.EXT-NDU-DUR-STNSG until sun when PROX.All above ___ when M.BETaone-VC.-paddle.EXT-NDU-DUR-STNSG. PROX PROX=STNSG.ALPH-COP.NDU.
+The English translation of this sentence is:`They were waiting until the sun always reached highest point and then they paddled here.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{durative} suffix can also attach to an \isi{iterative} inflection, in which case the iteration of the event is streched over a longer duration, as in (\ref{ex295}) and (\ref{ex296}). In (\ref{ex295}), the speaker talks about the first fire which destroyed the world inhabited by humans. In (\ref{ex296}), the speaker describes how the people used to avoid a particular place during the early and late hours of the day because it was inhabited by a story man.
+A: word: zu-a-fsi-nzr-m-∅	 gloss: TSG.F.Betatwo-VC-count.EXT-NDU-DUR-STSG
+B: word: nama	 gloss: two.days.ago
+C: word: thu-a-m-nzr-m	 gloss: STNSG.BETaone-VC.-sit.EXT-NDU-DUR
+D: word: kw-ä-n-kor-m-∅	 gloss: M.BETaone-VC.NDU-VENIT-become.RS-DUR-STSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 30:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zfth mni nä kayé ___ kidn.
+Gloss (with missing item): base fire some yesterday ___ kidn.
+The English translation of this sentence is:`They always used to call the eternal fire Kidn.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{durative} suffix can also attach to an \isi{iterative} inflection, in which case the iteration of the event is streched over a longer duration, as in (\ref{ex295}) and (\ref{ex296}). In (\ref{ex295}), the speaker talks about the first fire which destroyed the world inhabited by humans. In (\ref{ex296}), the speaker describes how the people used to avoid a particular place during the early and late hours of the day because it was inhabited by a story man.
+A: word: zu-ä-r-a-th	 gloss: FSG.GAM-VC..NDU-give.RS-PST-STNSG
+B: word: zu-ä-s-m-th	 gloss: TSG.F.BETaone-NDU-call.RS-DUR-STNSG
+C: word: m=z-ä-rfusir-∅	 gloss: Appr=M.GAM-VC..NDU-light.up.RS-STSG
+D: word: thu-zirak-wr-m-th	 gloss: STNSG.BETaone-tie.EXT-NDU-DUR-STNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 31:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kw-a-moneg-wr-m-th e efoth fthé zbo warfo ___ fthé kw-a-rafi-nzr-m-th zä z=e-rä
+Gloss (with missing item): M.Betaone-VC-wait.EXT-NDU-DUR-STNSG until sun when PROX.All above ___ when M.BETaone-VC.-paddle.EXT-NDU-DUR-STNSG. PROX PROX=STNSG.ALPH-COP.NDU.
+The English translation of this sentence is:`They were waiting until the sun always reached highest point and then they paddled here.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{durative} suffix can also attach to an \isi{iterative} inflection, in which case the iteration of the event is streched over a longer duration, as in (\ref{ex295}) and (\ref{ex296}). In (\ref{ex295}), the speaker talks about the first fire which destroyed the world inhabited by humans. In (\ref{ex296}), the speaker describes how the people used to avoid a particular place during the early and late hours of the day because it was inhabited by a story man.
+A: word: zu-ä-s-m-th	 gloss: TSG.F.BETaone-NDU-call.RS-DUR-STNSG
+B: word: zu-a-fsi-nzr-m-∅	 gloss: TSG.F.Betatwo-VC-count.EXT-NDU-DUR-STSG
+C: word: thu-a-m-nzr-m	 gloss: STNSG.BETaone-VC.-sit.EXT-NDU-DUR
+D: word: kw-ä-n-kor-m-∅	 gloss: M.BETaone-VC.NDU-VENIT-become.RS-DUR-STSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 32:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nasi=me ___ ebar=en ah miyatha k-ä-kor-∅ bä mon=wä z-brig-w-é.
+Gloss (with missing item): long.yam=INS ___ head=LOC ah knowledge M.BET-NDU-become.RS-SSG.IMP Second.ABS how=EMPH TSG.F.BET-return.EXT-NDU-SSG.IMP.
+The English translation of this sentence is:`They would hit him on the head with the long yam (and say) ``Now you come up with a plan to pay this back!'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{durative} suffix -m can be suffixed to perfective verbs in the \isi{recent past}, \isi{past} and \isi{irrealis}. In this case, the event is only \isi{backgrounded} without encoding a longer duration. However, these inflections are so rare that, at least for the \isi{recent past} and \isi{past} tenses, they are not attested in the corpus. For the \isi{irrealis} \isi{perfective} with the \isi{durative} suffix, there are a handful of examples. In (\ref{ex297}), the speaker talks about an old procedure for punishment which involved striking the culprit with a yam tuber over the head.\footnote{I will show the backgrounded status of the perfective verb in the unified gloss line with \Bg{}, as in the examples below. In the maximally segmented gloss line, I will continue to use the durative label \Dur{}.}
+A: word: wo-a-rnzür-wr-a-th	 gloss: FSG.ALPH-VC.-dance.EXT-NDU-PST-STNSG
+B: word: s-ra-a-kor-∅	 gloss: TSG.MASC.BET-IRR-NDU-say.RS-STSG
+C: word: s-rä-kwr-m-th	 gloss: TSG.MASC.BET-IRR.NDU-hit.RS-DUR-STNSG
+D: word: thu-zirak-wr-m-th	 gloss: STNSG.BETaone-tie.EXT-NDU-DUR-STNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 33:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ni miyamr mä kwa k-rä-bth-∅ mane ... mrn-en ___ frthé.
+Gloss (with missing item): FNSG ignorance where FUT M.BET-IRR.VC..NDU-finish.RS-STSG which ... clan-LOC ___ when.
+The English translation of this sentence is:`We do not know where it will finish ... in which generation it will finish.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Irrespective of perfectivity, the \isi{durative} suffix on any \isi{irrealis} inflection can have a far \isi{future} interpretation. In examples (\ref{ex298}) and (\ref{ex299}), it is clear from the context that the event is set in the \isi{future} and the -m on the verb indicates that the event is further in the \isi{future} (as opposed to an \isi{irrealis} form without the -m suffix). In (\ref{ex298}), the speaker showed me an old method of tying a bowstring. He then speculates whether and when these old practices will vanish. Example (\ref{ex299}) is taken from a conversation about yam cultivation during which the speaker complains about young people's lack of interest in gardening.
+A: word: paitua=f	 gloss: old.man=ERG.SG
+B: word: k-rä-bth-m-o-∅	 gloss: M.BET-IRR.VC..NDU-finish.RS-DUR-ANDAT-SG
+C: word: n=ŋ-a-trik-w-é	 gloss: IMMpst=M.ALPH-VC.-tell.EXT-NDU-FSG
+D: word: k-rä-bth-∅	 gloss: M.BET-IRR.VC..NDU-finish.RS-STSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 34:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nzä miyamr thrma ra ___ ... nagayé.
+Gloss (with missing item): FSG.ABS ignorance later what ___ ... children.
+The English translation of this sentence is:`I do not know what the children will eat later.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Irrespective of perfectivity, the \isi{durative} suffix on any \isi{irrealis} inflection can have a far \isi{future} interpretation. In examples (\ref{ex298}) and (\ref{ex299}), it is clear from the context that the event is set in the \isi{future} and the -m on the verb indicates that the event is further in the \isi{future} (as opposed to an \isi{irrealis} form without the -m suffix). In (\ref{ex298}), the speaker showed me an old method of tying a bowstring. He then speculates whether and when these old practices will vanish. Example (\ref{ex299}) is taken from a conversation about yam cultivation during which the speaker complains about young people's lack of interest in gardening.
+A: word: b=kw-a-ru-thr-m-th	 gloss: MED=M.BETaone-VC.-bark.EXT-NDU-DUR-STNSG
+B: word: s-ra-na-thr-m-th	 gloss: TSG.MASC.BET-IRR-eat.EXT-NDU-DUR-STNSG
+C: word: s-rä-kwr-m-th	 gloss: TSG.MASC.BET-IRR.NDU-hit.RS-DUR-STNSG
+D: word: keke	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 35:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ni miyamr mä kwa k-rä-bth-∅ mane ... mrn-en ___ frthé.
+Gloss (with missing item): FNSG ignorance where FUT M.BET-IRR.VC..NDU-finish.RS-STSG which ... clan-LOC ___ when.
+The English translation of this sentence is:`We do not know where it will finish ... in which generation it will finish.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Irrespective of perfectivity, the \isi{durative} suffix on any \isi{irrealis} inflection can have a far \isi{future} interpretation. In examples (\ref{ex298}) and (\ref{ex299}), it is clear from the context that the event is set in the \isi{future} and the -m on the verb indicates that the event is further in the \isi{future} (as opposed to an \isi{irrealis} form without the -m suffix). In (\ref{ex298}), the speaker showed me an old method of tying a bowstring. He then speculates whether and when these old practices will vanish. Example (\ref{ex299}) is taken from a conversation about yam cultivation during which the speaker complains about young people's lack of interest in gardening.
+A: word: k-rä-bth-∅	 gloss: M.BET-IRR.VC..NDU-finish.RS-STSG
+B: word: bundbo=nzo	 gloss: SSG.All=ONLY
+C: word: k-rä-bth-m-o-∅	 gloss: M.BET-IRR.VC..NDU-finish.RS-DUR-ANDAT-SG
+D: word: keke	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 36:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nzä miyamr thrma ra ___ ... nagayé.
+Gloss (with missing item): FSG.ABS ignorance later what ___ ... children.
+The English translation of this sentence is:`I do not know what the children will eat later.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Irrespective of perfectivity, the \isi{durative} suffix on any \isi{irrealis} inflection can have a far \isi{future} interpretation. In examples (\ref{ex298}) and (\ref{ex299}), it is clear from the context that the event is set in the \isi{future} and the -m on the verb indicates that the event is further in the \isi{future} (as opposed to an \isi{irrealis} form without the -m suffix). In (\ref{ex298}), the speaker showed me an old method of tying a bowstring. He then speculates whether and when these old practices will vanish. Example (\ref{ex299}) is taken from a conversation about yam cultivation during which the speaker complains about young people's lack of interest in gardening.
+A: word: b=kw-a-ru-thr-m-th	 gloss: MED=M.BETaone-VC.-bark.EXT-NDU-DUR-STNSG
+B: word: s-rä-kwr-m-th	 gloss: TSG.MASC.BET-IRR.NDU-hit.RS-DUR-STNSG
+C: word: zu-∅-kor-a-th	 gloss: FSG.GAM-DU-speak.RS-PST-STNSG
+D: word: s-ra-na-thr-m-th	 gloss: TSG.MASC.BET-IRR-eat.EXT-NDU-DUR-STNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 37:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): fthé bone kafar=wä ___ eh yabun zane wtri=karä=sü we gn-rä-r-m.
+Gloss (with missing item): when SSG.POSS big=EMPH ___ eh big DEM:PROX fear=PROP=ETC also SSG.BET-COP-NDU-DUR.
+The English translation of this sentence is:`When they have just held your big (yam tubers) and say: ``Hey, that (is) a big one!'' then you have to be afraid!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If the \isi{durative} suffix is attached to a \isi{verb} in the \isi{imperative} mood, it encodes a delayed or \isi{future} \isi{imperative} (`do X a little later!').\footnote{I gloss the future imperative with \Futimp{} in the unified gloss line.} The \isi{future} \isi{imperative} is also a rare inflection, and we have seen one text example in (\ref{ex274}) on page \pageref{ex274}. In example (\ref{ex300}), the speaker describes how competitive yam harvesting took place in the old days. After harvesting and sorting, a piece of rattan was used to measure the size of the largest tubers. This measurement was then sent to the competitors as a sign of one's superior gardening skills.
+A: word: n=e-fath-wr-m-th	 gloss: IMMpst=STNSG.ALPH-hold.EXT-NDU-DUR-STNSG
+B: word: s-rä-kwr-m-th	 gloss: TSG.MASC.BET-IRR.NDU-hit.RS-DUR-STNSG
+C: word: thu-zirak-wr-m-th	 gloss: STNSG.BETaone-tie.EXT-NDU-DUR-STNSG
+D: word: n=y-a-m-nzr-m	 gloss: IMMpst=TSG.MASC.ALPH-VC.-sit.EXT-NDU-DUR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 38:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wati ŋatr ___ nafanme=dbo.
+Gloss (with missing item): then rattan ___ TNSG=All.SG.
+The English translation of this sentence is:`Then, you send the measure string to them!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If the \isi{durative} suffix is attached to a \isi{verb} in the \isi{imperative} mood, it encodes a delayed or \isi{future} \isi{imperative} (`do X a little later!').\footnote{I gloss the future imperative with \Futimp{} in the unified gloss line.} The \isi{future} \isi{imperative} is also a rare inflection, and we have seen one text example in (\ref{ex274}) on page \pageref{ex274}. In example (\ref{ex300}), the speaker describes how competitive yam harvesting took place in the old days. After harvesting and sorting, a piece of rattan was used to measure the size of the largest tubers. This measurement was then sent to the competitors as a sign of one's superior gardening skills.
+A: word: s-∅-ritüth-e	 gloss: TSG.MASC.BET-DU-grab.RS-STNSG.IMP
+B: word: rifthz-si=me	 gloss: hide-NMLZ=INS
+C: word: kayé	 gloss: yesterday
+D: word: th-ä-rifth-m-∅	 gloss: STNSG.BET-NDU-send.RS-DUR-SSG.IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 39:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bä z=n-rä zä ___ kwot e nzä k-rä-n-brim-é.
+Gloss (with missing item): Second.ABS PROX=SSG.ALPH-COP.NDU PROX ___ properly until FSG.ABS. M.BET-IRR.VC..NDU-VENIT:return.RS-FSG.
+The English translation of this sentence is:`Now you are here. You stay here until I return.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Here I describe the morphology of imperatives for the prefixing template. Prefixing verbs as defined here encode their single \isi{participant} in the prefix. We saw in \tabref{perspref2} on page \pageref{perspref2} that imperatives are formed with the \Bet{} \isi{prefix series}. For prefixing verbs, the formatives are gn- (\Ssg.\Imp) and th- (\Snsg.\Imp). A further suffix is added to prefixing verbs only. Consider example (\ref{ex301}) in which the speaker quotes himself talking to his wife. The \isi{imperative} inflected \isi{verb} is marked with an -é suffix which resembles the actor suffix of an ambifixing \isi{imperfective} \isi{imperative} (\Ssg.\Imp) or of an ambifixing indicative of any \isi{aspect} class (\Fsg). In the morphological context of prefixing imperatives, this -é does not encode a \isi{person} value, as can be seen in example (\ref{ex302}) where the number of the addressee argument is \isi{plural}. In other words, the -é suffix looks like a \isi{person}/\isi{number} suffix, but with prefixing verbs it is inert to those categories and it only encodes \isi{imperative} mood.
+A: word: gn-a-m-nz-é	 gloss: SSG.BET-VC.-sit.EXT-NDU-IMP
+B: word: nzu-a-m-nz-r-m	 gloss: FNSG.BETaone-VC.-dwell.EXT-NDU-LK-DUR
+C: word: k-ä-tharuf-∅	 gloss: M.BET-VC..NDU-enter.RS-SSG.IMP
+D: word: nz-ra-yak	 gloss: FNSG.BET-IRR-walk.EXT.NDU
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 40:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ thrma nz-ä-n-mes-é ... fthé z-rä-bth-é zane kafar.
+Gloss (with missing item): ___ later SSG.BET-NDU-VENIT-fetch.RS-FSG ... when TSG.F.BET-IRR.NDU-finish.RS-FSG DEM:PROX big.
+The English translation of this sentence is:`Later I will try and fetch you, when I have finished that big (basket).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{immithe morpheme ___ethe morpheme ___t} \isi{particle} the morpheme ___ expresses the poithe morpheme ___t ithe morpheme ___ time just before the evethe morpheme ___t takes place, usually without implyithe morpheme ___g that it actually happethe morpheme ___ed. This oftethe morpheme ___ gets trathe morpheme ___slated by ithe morpheme ___formathe morpheme ___ts as `try to do X' or `be about to do X'. Both ithe morpheme ___terpretatiothe morpheme ___s, the ithe morpheme ___tethe morpheme ___tiothe morpheme ___al athe morpheme ___d the immithe morpheme ___ethe morpheme ___t othe morpheme ___e, are possible athe morpheme ___d difficult to separate. Ithe morpheme ___ example (\ref{ex307}), the speaker showed me how to weave a fish basket. He says that he will try athe morpheme ___d fetch me whethe morpheme ___ the work is fithe morpheme ___ished because he does the morpheme ___ot kthe morpheme ___ow whether or the morpheme ___ot it will be successful.\footthe morpheme ___ote{Ithe morpheme ___deed, he the morpheme ___ever came athe morpheme ___d showed me the fithe morpheme ___ished fish basket because I had already left the village. But he proudly presethe morpheme ___ted it to me ithe morpheme ___ the followithe morpheme ___g year.}
+A: word: n	 gloss: IMN
+B: word: komnzo	 gloss: only
+C: word: k-rä-mnzer-é	 gloss: M.BET-IRR.VC..NDU-fall.asleep.RS-FSG
+D: word: yf=karä	 gloss: name=PROP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 41:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n thrma ___ ... fthé z-rä-bth-é zane kafar.
+Gloss (with missing item): IMN later ___ ... when TSG.F.BET-IRR.NDU-finish.RS-FSG DEM:PROX big.
+The English translation of this sentence is:`Later I will try and fetch you, when I have finished that big (basket).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{imminent} \isi{particle} n expresses the point in time just before the event takes place, usually without implying that it actually happened. This often gets translated by informants as `try to do X' or `be about to do X'. Both interpretations, the intentional and the imminent one, are possible and difficult to separate. In example (\ref{ex307}), the speaker showed me how to weave a fish basket. He says that he will try and fetch me when the work is finished because he does not know whether or not it will be successful.\footnote{Indeed, he never came and showed me the finished fish basket because I had already left the village. But he proudly presented it to me in the following year.}
+A: word: nz-ä-n-mes-é	 gloss: SSG.BET-NDU-VENIT-fetch.RS-FSG
+B: word: nz-a-sämir-é	 gloss: SSG.BET-VC..NDU-whisper.RS-FSG
+C: word: zf-r-n-m-th	 gloss: TSG.F.Betatwo-do.EXT-DU-DUR-STNSG
+D: word: z-ä-n-far-é	 gloss: M.GAM-VC..NDU-VENIT-set.off.EXT-FSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 42:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ zf-r-n-m-th di kam gar-si=r awkwot ngemäku kabe matak e-rä.
+Gloss (with missing item): ___ TSG.F.Betatwo-do.EXT-DU-DUR-STNSG back.of.head bone break-NMLZ=PURP interjection foster.parent man nothing STNSG.ALPH-COP.NDU.
+The English translation of this sentence is:`They were about to break her neck. (He said:) ``Oh no, my friend, all the people have left!'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{immithe morpheme ___ethe morpheme ___t} \isi{particle} cathe morpheme ___ occur with ithe morpheme ___flectiothe morpheme ___s of differethe morpheme ___t TAM categories. The importathe morpheme ___t part of its semathe morpheme ___tic cothe morpheme ___tributiothe morpheme ___ is twofold: (i) the poithe morpheme ___t ithe morpheme ___ time before the evethe morpheme ___t athe morpheme ___d (ii) the fact that the actiothe morpheme ___ has the morpheme ___ot yet beethe morpheme ___ carried out or \textethe morpheme ___dash{} ithe morpheme ___ most cases \textethe morpheme ___dash{} is the morpheme ___ot or was the morpheme ___ot carried out. Example (\ref{ex308}) is takethe morpheme ___ from a headhuthe morpheme ___tithe morpheme ___g story ithe morpheme ___ which two methe morpheme ___ are about to kill a youthe morpheme ___g womathe morpheme ___ whethe morpheme ___ they realise that the rest of their headhuthe morpheme ___tithe morpheme ___g party has left already.\footthe morpheme ___ote{The word the morpheme ___gemäku ithe morpheme ___ the example is athe morpheme ___ address term betweethe morpheme ___ two people where othe morpheme ___e has adopted the child of the other.}
+A: word: kabe=yé	 gloss: man=ERG.NSG
+B: word: z-a-ms-e	 gloss: M.GAM-VC..DU-sit.RS-FNSG
+C: word: komnzo	 gloss: only
+D: word: n	 gloss: IMN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 43:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n ___ di kam gar-si=r awkwot ngemäku kabe matak e-rä.
+Gloss (with missing item): IMN ___ back.of.head bone break-NMLZ=PURP interjection foster.parent man nothing STNSG.ALPH-COP.NDU.
+The English translation of this sentence is:`They were about to break her neck. (He said:) ``Oh no, my friend, all the people have left!'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{imminent} \isi{particle} can occur with inflections of different TAM categories. The important part of its semantic contribution is twofold: (i) the point in time before the event and (ii) the fact that the action has not yet been carried out or \textendash{} in most cases \textendash{} is not or was not carried out. Example (\ref{ex308}) is taken from a headhunting story in which two men are about to kill a young woman when they realise that the rest of their headhunting party has left already.\footnote{The word ngemäku in the example is an address term between two people where one has adopted the child of the other.}
+A: word: k-ra-kwi-n-m-th	 gloss: M.BET-IRR.VC.-argue.EXT-DU-DUR-STNSG
+B: word: thf-rä-rm	 gloss: STNSG.Betatwo-COP.NDU-DUR
+C: word: nomai	 gloss: Hab
+D: word: zf-r-n-m-th	 gloss: TSG.F.Betatwo-do.EXT-DU-DUR-STNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 44:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ thrma nz-ä-n-mes-é ... fthé z-rä-bth-é zane kafar.
+Gloss (with missing item): ___ later SSG.BET-NDU-VENIT-fetch.RS-FSG ... when TSG.F.BET-IRR.NDU-finish.RS-FSG DEM:PROX big.
+The English translation of this sentence is:`Later I will try and fetch you, when I have finished that big (basket).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There is athe morpheme ___ overlap ithe morpheme ___ the semathe morpheme ___tics of the \isi{proclitic} the morpheme ___= which ethe morpheme ___codes \isi{immediate past} athe morpheme ___d the \isi{immithe morpheme ___ethe morpheme ___t} \isi{particle} the morpheme ___. I poithe morpheme ___ted out earlier that the \isi{immediate past} \isi{clitic} attaches to a verb which is otherwise ithe morpheme ___flected for \isi{the morpheme ___othe morpheme ___-past}. Thus, it marks a poithe morpheme ___t ithe morpheme ___ time immediately before the presethe morpheme ___t. The \isi{particle} the morpheme ___ occurs ithe morpheme ___ frothe morpheme ___t of verb forms of differethe morpheme ___t TAM categories, markithe morpheme ___g a poithe morpheme ___t ithe morpheme ___ time immediately before the evethe morpheme ___t. The semathe morpheme ___tic differethe morpheme ___ce is ithe morpheme ___ the implicatiothe morpheme ___ as to whether or the morpheme ___ot the evethe morpheme ___t was actually carried out. Ithe morpheme ___ the case of the \isi{immediate} \isi{clitic}, the evethe morpheme ___t has happethe morpheme ___ed, but with the \isi{particle} the morpheme ___ this is the morpheme ___ot the case. The differethe morpheme ___ce betweethe morpheme ___ the two also lies ithe morpheme ___ formal criteria. The \isi{particle} the morpheme ___ is sythe morpheme ___tactically ithe morpheme ___depethe morpheme ___dethe morpheme ___t ithe morpheme ___ that it occurs free (\ref{ex307}), or occur directly ithe morpheme ___ frothe morpheme ___t of the verb, where it is hard to say whether it is a \isi{proclitic} or athe morpheme ___ ithe morpheme ___depethe morpheme ___dethe morpheme ___t elemethe morpheme ___t (\ref{ex308}). Othe morpheme ___ the other hathe morpheme ___d, the \isi{immediate} \isi{clitic} the morpheme ___= is always bouthe morpheme ___d to the verb.
+A: word: komnzo	 gloss: only
+B: word: n=ŋ-a-trik-w-é	 gloss: IMMpst=M.ALPH-VC.-tell.EXT-NDU-FSG
+C: word: mobo	 gloss: where.All
+D: word: n	 gloss: IMN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 45:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n thrma ___ ... fthé z-rä-bth-é zane kafar.
+Gloss (with missing item): IMN later ___ ... when TSG.F.BET-IRR.NDU-finish.RS-FSG DEM:PROX big.
+The English translation of this sentence is:`Later I will try and fetch you, when I have finished that big (basket).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There is an overlap in the semantics of the \isi{proclitic} n= which encodes \isi{immediate past} and the \isi{imminent} \isi{particle} n. I pointed out earlier that the \isi{immediate past} \isi{clitic} attaches to a verb which is otherwise inflected for \isi{non-past}. Thus, it marks a point in time immediately before the present. The \isi{particle} n occurs in front of verb forms of different TAM categories, marking a point in time immediately before the event. The semantic difference is in the implication as to whether or not the event was actually carried out. In the case of the \isi{immediate} \isi{clitic}, the event has happened, but with the \isi{particle} n this is not the case. The difference between the two also lies in formal criteria. The \isi{particle} n is syntactically independent in that it occurs free (\ref{ex307}), or occur directly in front of the verb, where it is hard to say whether it is a \isi{proclitic} or an independent element (\ref{ex308}). On the other hand, the \isi{immediate} \isi{clitic} n= is always bound to the verb.
+A: word: nz-ä-n-mes-é	 gloss: SSG.BET-NDU-VENIT-fetch.RS-FSG
+B: word: n=e-fath-wr-m-th	 gloss: IMMpst=STNSG.ALPH-hold.EXT-NDU-DUR-STNSG
+C: word: z-ä-n-far-é	 gloss: M.GAM-VC..NDU-VENIT-set.off.EXT-FSG
+D: word: nz-a-sämir-é	 gloss: SSG.BET-VC..NDU-whisper.RS-FSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 46:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ zf-r-n-m-th di kam gar-si=r awkwot ngemäku kabe matak e-rä.
+Gloss (with missing item): ___ TSG.F.Betatwo-do.EXT-DU-DUR-STNSG back.of.head bone break-NMLZ=PURP interjection foster.parent man nothing STNSG.ALPH-COP.NDU.
+The English translation of this sentence is:`They were about to break her neck. (He said:) ``Oh no, my friend, all the people have left!'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There is athe morpheme ___ overlap ithe morpheme ___ the semathe morpheme ___tics of the \isi{proclitic} the morpheme ___= which ethe morpheme ___codes \isi{immediate past} athe morpheme ___d the \isi{immithe morpheme ___ethe morpheme ___t} \isi{particle} the morpheme ___. I poithe morpheme ___ted out earlier that the \isi{immediate past} \isi{clitic} attaches to a verb which is otherwise ithe morpheme ___flected for \isi{the morpheme ___othe morpheme ___-past}. Thus, it marks a poithe morpheme ___t ithe morpheme ___ time immediately before the presethe morpheme ___t. The \isi{particle} the morpheme ___ occurs ithe morpheme ___ frothe morpheme ___t of verb forms of differethe morpheme ___t TAM categories, markithe morpheme ___g a poithe morpheme ___t ithe morpheme ___ time immediately before the evethe morpheme ___t. The semathe morpheme ___tic differethe morpheme ___ce is ithe morpheme ___ the implicatiothe morpheme ___ as to whether or the morpheme ___ot the evethe morpheme ___t was actually carried out. Ithe morpheme ___ the case of the \isi{immediate} \isi{clitic}, the evethe morpheme ___t has happethe morpheme ___ed, but with the \isi{particle} the morpheme ___ this is the morpheme ___ot the case. The differethe morpheme ___ce betweethe morpheme ___ the two also lies ithe morpheme ___ formal criteria. The \isi{particle} the morpheme ___ is sythe morpheme ___tactically ithe morpheme ___depethe morpheme ___dethe morpheme ___t ithe morpheme ___ that it occurs free (\ref{ex307}), or occur directly ithe morpheme ___ frothe morpheme ___t of the verb, where it is hard to say whether it is a \isi{proclitic} or athe morpheme ___ ithe morpheme ___depethe morpheme ___dethe morpheme ___t elemethe morpheme ___t (\ref{ex308}). Othe morpheme ___ the other hathe morpheme ___d, the \isi{immediate} \isi{clitic} the morpheme ___= is always bouthe morpheme ___d to the verb.
+A: word: ngthé	 gloss: brother
+B: word: wo-a-rnzür-wr-a-th	 gloss: FSG.ALPH-VC.-dance.EXT-NDU-PST-STNSG
+C: word: n	 gloss: IMN
+D: word: komnzo	 gloss: only
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 47:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n ___ di kam gar-si=r awkwot ngemäku kabe matak e-rä.
+Gloss (with missing item): IMN ___ back.of.head bone break-NMLZ=PURP interjection foster.parent man nothing STNSG.ALPH-COP.NDU.
+The English translation of this sentence is:`They were about to break her neck. (He said:) ``Oh no, my friend, all the people have left!'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There is an overlap in the semantics of the \isi{proclitic} n= which encodes \isi{immediate past} and the \isi{imminent} \isi{particle} n. I pointed out earlier that the \isi{immediate past} \isi{clitic} attaches to a verb which is otherwise inflected for \isi{non-past}. Thus, it marks a point in time immediately before the present. The \isi{particle} n occurs in front of verb forms of different TAM categories, marking a point in time immediately before the event. The semantic difference is in the implication as to whether or not the event was actually carried out. In the case of the \isi{immediate} \isi{clitic}, the event has happened, but with the \isi{particle} n this is not the case. The difference between the two also lies in formal criteria. The \isi{particle} n is syntactically independent in that it occurs free (\ref{ex307}), or occur directly in front of the verb, where it is hard to say whether it is a \isi{proclitic} or an independent element (\ref{ex308}). On the other hand, the \isi{immediate} \isi{clitic} n= is always bound to the verb.
+A: word: k-rä-mnzer-é	 gloss: M.BET-IRR.VC..NDU-fall.asleep.RS-FSG
+B: word: zf-r-n-m-th	 gloss: TSG.F.Betatwo-do.EXT-DU-DUR-STNSG
+C: word: thf-rä-rm	 gloss: STNSG.Betatwo-COP.NDU-DUR
+D: word: k-ra-kwi-n-m-th	 gloss: M.BET-IRR.VC.-argue.EXT-DU-DUR-STNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 48:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ni w-mäg-n-e zöbthé.
+Gloss (with missing item): ___ FNSG TSG.F.ALPH-lead.EXT-DU-FNSG first.
+The English translation of this sentence is:`Where are they? We will lead (the path) first.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: I point out in {\S}\ref{deicticcliticssection} that among the \isi{deictic} proclitics there is one with a limited distribution. The m= \isi{proclitic} can only attach to the copula, in which case it turns the clause into a \isi{question} (`where is X?').\footnote{I will gloss m as interrogative (where=) when it attaches to the copula. I will gloss it as apprehensive (\Appr) in all other cases, including the cases where m and the potential particle kma express a prohibitive.} See example (\ref{ex271}) on page \pageref{ex271}. The m \isi{particle} shows more syntactic flexibility as it can procliticise to the \isi{verb} as m=, encliticise to the \isi{potential} \isi{particle} in the combination kma=m or occur by itself. The latter is only attested through elicitation and there are no corpus examples of independent m. Nevertheless, it can be classified as a \isi{particle} and a \isi{clitic}.
+A: word: z=e-rä	 gloss: PROX=STNSG.ALPH-COP.NDU.
+B: word: m=e-rn	 gloss: where=STNSG.ALPH-COP.DU
+C: word: e-rä	 gloss: STNSG.Alph-COP.NDU
+D: word: m=gn-a-n-yak-é	 gloss: Appr=SSG.BET-VC.-VENIT-walk.EXT.NDU-IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 49:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): k-rä-nafth-th s-∅-ritüth-e s-∅-faf-e kidn mni ___ ... frthe bramöwä ŋ-a-rsir-wr-e.
+Gloss (with missing item): M.BET-IRR.Vc.NDU-say.RS-STNSG TSG.MASC.BET-DU-grab.RS-STNSG.IMP TSG.MASC.BET-DU-hold.RS-STNSG.IMP kidn fire ___ ... when all M.ALPH-VC.-burn.EXT-NDU-FNSG.
+The English translation of this sentence is:`They said: ``Grab him! Hold him! He might ignite the Kidn fire. (That is) when we will all burn.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{particle} m functions as an \isi{apprehensive} marker. It is attested in the corpus with irrealis, imperative and perfective forms. Example (\ref{ex303}) is from a story about a man who mocked a crowd of dancers by threatening them with a matchbox. They were afraid, as they did not know about matches and lighters.
+A: word: m=k-rä-rit-∅	 gloss: Appr=M.BET-IRR.VC..NDU-pass.RS-STSG
+B: word: m=z-ä-rfusir-∅	 gloss: Appr=M.GAM-VC..NDU-light.up.RS-STSG
+C: word: zu-ä-r-a-th	 gloss: FSG.GAM-VC..NDU-give.RS-PST-STNSG
+D: word: s-rä-fiyoth-é	 gloss: TSG.MASC.BET-VC..NDU-make.RS-FSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 50:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): k-rä-nafth-th s-∅-ritüth-e s-∅-faf-e kidn mni ___ ... frthe bramöwä ŋ-a-rsir-wr-e.
+Gloss (with missing item): M.BET-IRR.Vc.NDU-say.RS-STNSG TSG.MASC.BET-DU-grab.RS-STNSG.IMP TSG.MASC.BET-DU-hold.RS-STNSG.IMP kidn fire ___ ... when all M.ALPH-VC.-burn.EXT-NDU-FNSG.
+The English translation of this sentence is:`They said: ``Grab him! Hold him! He might ignite the Kidn fire. (That is) when we will all burn.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In these cases, the \isi{particle} m seems to override the TAM value of the verb. In (\ref{ex303}), the verb is in the \isi{recent past} but lacks a the\isi{recent past} reading. Likewise, I often heard the warning mkätr\footnote{\parbox{0.02cm}{\hfill}\parbox{6cm}{mkätr}\\ \parbox{0.05cm}{\hfill}\parbox{6cm}{m=k-ä-tr-\Zero}\\ \parbox{0.05cm}{\hfill}\parbox{6cm}{\Appr=\M.\Bet-\Vc.\Ndu-fall.\Rs-\Ssg.{\Imp}}} `(watch out) you might fall!', where m is attached to an \isi{imperative} form, but lacks an \isi{imperative} reading. Naturally, if m occurs with an irrealis form, there is no such conflict. Example (\ref{ex304}) is taken from a story about a bushfire. The speaker explains how he set a small controlled fire in order to stop the wild bushfire from spreading.
+A: word: m=k-rä-rit-∅	 gloss: Appr=M.BET-IRR.VC..NDU-pass.RS-STSG
+B: word: gn-a-m-nz-é	 gloss: SSG.BET-VC.-sit.EXT-NDU-IMP
+C: word: zu-ä-r-a-th	 gloss: FSG.GAM-VC..NDU-give.RS-PST-STNSG
+D: word: m=z-ä-rfusir-∅	 gloss: Appr=M.GAM-VC..NDU-light.up.RS-STSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 51:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): we ane nzefé z-a-föf-é ... we ___ we fafä.
+Gloss (with missing item): also DEM FSG.ERG.EMPH TSG.F.GAM-VC..NDU-burn.down.RS-FSG ... also. ___ also after.that.
+The English translation of this sentence is:`I also burned down this (grass) ... (the fire) might cross over later.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In these cases, the \isi{particle} m seems to override the TAM value of the verb. In (\ref{ex303}), the verb is in the \isi{recent past} but lacks a the\isi{recent past} reading. Likewise, I often heard the warning mkätr\footnote{\parbox{0.02cm}{\hfill}\parbox{6cm}{mkätr}\\ \parbox{0.05cm}{\hfill}\parbox{6cm}{m=k-ä-tr-\Zero}\\ \parbox{0.05cm}{\hfill}\parbox{6cm}{\Appr=\M.\Bet-\Vc.\Ndu-fall.\Rs-\Ssg.{\Imp}}} `(watch out) you might fall!', where m is attached to an \isi{imperative} form, but lacks an \isi{imperative} reading. Naturally, if m occurs with an irrealis form, there is no such conflict. Example (\ref{ex304}) is taken from a story about a bushfire. The speaker explains how he set a small controlled fire in order to stop the wild bushfire from spreading.
+A: word: k-ä-n-rit-∅	 gloss: M.BET-NDU-VENIT-cross.over.RS-SSG.IMP
+B: word: k-rä-bth-m-o-∅	 gloss: M.BET-IRR.VC..NDU-finish.RS-DUR-ANDAT-SG
+C: word: m=k-rä-rit-∅	 gloss: Appr=M.BET-IRR.VC..NDU-pass.RS-STSG
+D: word: m=z-ä-rfusir-∅	 gloss: Appr=M.GAM-VC..NDU-light.up.RS-STSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 52:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zokwasi w-zä-nzr-∅ ... daddy=f ___ k-a-naf-r-é.
+Gloss (with missing item): words TSG.F.ALPH-carry.EXT-NDU-STSG ... father=ERG.SG ___ M.BET-VC.-speak.EXT-NDU-SSG.IMP.
+The English translation of this sentence is:`Daddy is recording the words. You must not talk!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If m occurs with an \isi{imperative} inflected verb and the \isi{potential} kma, it functions as a prohibitive. Example (\ref{ex305}) is from the very beginning of a hunting story. The speaker tells his son to be quiet during the recording, while I am setting up the microphone.
+A: word: nomai	 gloss: Hab
+B: word: kma	 gloss: Pot
+C: word: kma=m	 gloss: Pot=Appr
+D: word: nima=me	 gloss: like.this=INS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 53:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ wäri=r bä m=gn-a-n-yak-é zena zbär zbo.
+Gloss (with missing item): ___ sex=PURP Second.ABS Appr=SSG.BET-VC.-VENIT-walk.EXT.NDU-IMP today night PROX.All.
+The English translation of this sentence is:`You must not come here for sex tonight!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In the prohibitive construction, the \isi{particle} m is rather flexible. It can attach to the verb as a \isi{proclitic} (\ref{ex306}) or to the \isi{potential} \isi{particle} the morpheme ___ as an \isi{enclitic} (\ref{ex305} and \ref{ex383}). What is important for the prohibitive reading is the co-occurence of m and the morpheme ___ in the clause, not the fact that they are conjoined. Example (\ref{ex306})\footnote{The verb yak ‘walk’ is deponent and employs the valency change prefix a- without a change in the valency of the verb. It is only deponent when it employs the venitive marker, meaning ‘come’, not when it is neutral or andative, meaning ‘walk’, ‘go away’.} comes from a public speech at a dance in which the speaker tells the audience the rules for the night. Example (\ref{ex383}) is taken from a text about food taboos.
+A: word: m=e-rn	 gloss: where=STNSG.ALPH-COP.DU
+B: word: fthé~~~~~~~~~~~~~	 gloss: when
+C: word: kma	 gloss: Pot
+D: word: kma=m	 gloss: Pot=Appr
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 54:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kma wäri=r bä ___ zena zbär zbo.
+Gloss (with missing item): Pot sex=PURP Second.ABS ___ today night PROX.All.
+The English translation of this sentence is:`You must not come here for sex tonight!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In the prohibitive construction, the \isi{particle} m is rather flexible. It can attach to the verb as a \isi{proclitic} (\ref{ex306}) or to the \isi{potential} \isi{particle} kma as an \isi{enclitic} (\ref{ex305} and \ref{ex383}). What is important for the prohibitive reading is the co-occurence of m and kma in the clause, not the fact that they are conjoined. Example (\ref{ex306})\footnote{The verb yak ‘walk’ is deponent and employs the valency change prefix a- without a change in the valency of the verb. It is only deponent when it employs the venitive marker, meaning ‘come’, not when it is neutral or andative, meaning ‘walk’, ‘go away’.} comes from a public speech at a dance in which the speaker tells the audience the rules for the night. Example (\ref{ex383}) is taken from a text about food taboos.
+A: word: m=gn-a-n-yak-é	 gloss: Appr=SSG.BET-VC.-VENIT-walk.EXT.NDU-IMP
+B: word: e-a-n-yak-a	 gloss: STNSG.ALPH-VC.-VENIT-walk.EXT.NDU-PST
+C: word: k-ra-n-brig-wr-th	 gloss: M.BET-IRR.VC.-VENIT-return.EXT-NDU-STNSG
+D: word: m=k-rä-rit-∅	 gloss: Appr=M.BET-IRR.VC..NDU-pass.RS-STSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 55:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zokwasi w-zä-nzr-∅ ... daddy=f ___ k-a-naf-r-é.
+Gloss (with missing item): words TSG.F.ALPH-carry.EXT-NDU-STSG ... father=ERG.SG ___ M.BET-VC.-speak.EXT-NDU-SSG.IMP.
+The English translation of this sentence is:`Daddy is recording the words. You must not talk!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In the prohibitive construction, the \isi{particle} m is rather flexible. It can attach to the verb as a \isi{proclitic} (\ref{ex306}) or to the \isi{potential} \isi{particle} kma as an \isi{enclitic} (\ref{ex305} and \ref{ex383}). What is important for the prohibitive reading is the co-occurence of m and kma in the clause, not the fact that they are conjoined. Example (\ref{ex306})\footnote{The verb yak ‘walk’ is deponent and employs the valency change prefix a- without a change in the valency of the verb. It is only deponent when it employs the venitive marker, meaning ‘come’, not when it is neutral or andative, meaning ‘walk’, ‘go away’.} comes from a public speech at a dance in which the speaker tells the audience the rules for the night. Example (\ref{ex383}) is taken from a text about food taboos.
+A: word: kma=m	 gloss: Pot=Appr
+B: word: nima=me	 gloss: like.this=INS
+C: word: kma	 gloss: Pot
+D: word: s-ra-na-thr-m-th	 gloss: TSG.MASC.BET-IRR-eat.EXT-NDU-DUR-STNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 56:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): be ___ ŋazi=karä k-a-thafrak-w-é.
+Gloss (with missing item): SSG.ERG ___ coconut=PROP M.BET-VC.-mix.EXT-NDU-SSG.IMP.
+The English translation of this sentence is:`You must not mix it with coconut'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In the prohibitive construction, the \isi{particle} m is rather flexible. It can attach to the verb as a \isi{proclitic} (\ref{ex306}) or to the \isi{potential} \isi{particle} kma as an \isi{enclitic} (\ref{ex305} and \ref{ex383}). What is important for the prohibitive reading is the co-occurence of m and kma in the clause, not the fact that they are conjoined. Example (\ref{ex306})\footnote{The verb yak ‘walk’ is deponent and employs the valency change prefix a- without a change in the valency of the verb. It is only deponent when it employs the venitive marker, meaning ‘come’, not when it is neutral or andative, meaning ‘walk’, ‘go away’.} comes from a public speech at a dance in which the speaker tells the audience the rules for the night. Example (\ref{ex383}) is taken from a text about food taboos.
+A: word: kma	 gloss: Pot
+B: word: kma=m	 gloss: Pot=Appr
+C: word: nima=me	 gloss: like.this=INS
+D: word: k-rä-bth-m-o-∅	 gloss: M.BET-IRR.VC..NDU-finish.RS-DUR-ANDAT-SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 57:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ wäri=r bä m=gn-a-n-yak-é zena zbär zbo.
+Gloss (with missing item): ___ sex=PURP Second.ABS Appr=SSG.BET-VC.-VENIT-walk.EXT.NDU-IMP today night PROX.All.
+The English translation of this sentence is:`You must not come here for sex tonight!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In the prohibitive construction, the \isi{particle} m is rather flexible. It can attach to the verb as a \isi{proclitic} (\ref{ex306}) or to the \isi{potential} \isi{particle} the morpheme ___ as an \isi{enclitic} (\ref{ex305} and \ref{ex383}). What is important for the prohibitive reading is the co-occurence of m and the morpheme ___ in the clause, not the fact that they are conjoined. Example (\ref{ex306})\footnote{The verb yak ‘walk’ is deponent and employs the valency change prefix a- without a change in the valency of the verb. It is only deponent when it employs the venitive marker, meaning ‘come’, not when it is neutral or andative, meaning ‘walk’, ‘go away’.} comes from a public speech at a dance in which the speaker tells the audience the rules for the night. Example (\ref{ex383}) is taken from a text about food taboos.
+A: word: kma	 gloss: Pot
+B: word: kma=m	 gloss: Pot=Appr
+C: word: n-a-trik-w-é	 gloss: SSG.ALPH-VC.-tell.EXT-NDU-FSG
+D: word: ŋad	 gloss: rope
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 58:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kma wäri=r bä ___ zena zbär zbo.
+Gloss (with missing item): Pot sex=PURP Second.ABS ___ today night PROX.All.
+The English translation of this sentence is:`You must not come here for sex tonight!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In the prohibitive construction, the \isi{particle} m is rather flexible. It can attach to the verb as a \isi{proclitic} (\ref{ex306}) or to the \isi{potential} \isi{particle} kma as an \isi{enclitic} (\ref{ex305} and \ref{ex383}). What is important for the prohibitive reading is the co-occurence of m and kma in the clause, not the fact that they are conjoined. Example (\ref{ex306})\footnote{The verb yak ‘walk’ is deponent and employs the valency change prefix a- without a change in the valency of the verb. It is only deponent when it employs the venitive marker, meaning ‘come’, not when it is neutral or andative, meaning ‘walk’, ‘go away’.} comes from a public speech at a dance in which the speaker tells the audience the rules for the night. Example (\ref{ex383}) is taken from a text about food taboos.
+A: word: m=gn-a-n-yak-é	 gloss: Appr=SSG.BET-VC.-VENIT-walk.EXT.NDU-IMP
+B: word: m=k-rä-rit-∅	 gloss: Appr=M.BET-IRR.VC..NDU-pass.RS-STSG
+C: word: keke	 gloss: NEG
+D: word: e-a-n-yak-a	 gloss: STNSG.ALPH-VC.-VENIT-walk.EXT.NDU-PST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 59:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): be ___ ŋazi=karä k-a-thafrak-w-é.
+Gloss (with missing item): SSG.ERG ___ coconut=PROP M.BET-VC.-mix.EXT-NDU-SSG.IMP.
+The English translation of this sentence is:`You must not mix it with coconut'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In the prohibitive construction, the \isi{particle} m is rather flexible. It can attach to the verb as a \isi{proclitic} (\ref{ex306}) or to the \isi{potential} \isi{particle} kma as an \isi{enclitic} (\ref{ex305} and \ref{ex383}). What is important for the prohibitive reading is the co-occurence of m and kma in the clause, not the fact that they are conjoined. Example (\ref{ex306})\footnote{The verb yak ‘walk’ is deponent and employs the valency change prefix a- without a change in the valency of the verb. It is only deponent when it employs the venitive marker, meaning ‘come’, not when it is neutral or andative, meaning ‘walk’, ‘go away’.} comes from a public speech at a dance in which the speaker tells the audience the rules for the night. Example (\ref{ex383}) is taken from a text about food taboos.
+A: word: nima=me	 gloss: like.this=INS
+B: word: kma=m	 gloss: Pot=Appr
+C: word: kma	 gloss: Pot
+D: word: k-rä-bth-m-o-∅	 gloss: M.BET-IRR.VC..NDU-finish.RS-DUR-ANDAT-SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 60:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): namä ___ nima=me z-ra-re-nzr-m fof ... fthé namä yam=me n=w-fifthak-wr-m-e.
+Gloss (with missing item): good ___ like.this=INS TSG.F.BET-IRR.VC.-look.EXT-NDU-DUR EMPH ... when good custom=INS IMMpst=TSG.F.ALPH-put.down.straight.EXT-NDU-DUR-FNSG.
+The English translation of this sentence is:`It should have been well today, if we had straightened things out in a good way.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{potential} \isi{particle} the morpheme ___ is used to encode various types of speculation and counterfactuality with deontic or epistemic interpretation. Example (\ref{ex331}) is taken from a public speech at a dance, where the guest side has brought too many people, and consequently the host side found it impossible to meet the needs of so many people. The speaker regrets that no proper arrangement has been made prior to the event. Thus, the clause ``it should have been well'' has a clear deontic reading.
+A: word: kma=m	 gloss: Pot=Appr
+B: word: kma	 gloss: Pot
+C: word: keke	 gloss: NEG
+D: word: nafa-fäms=f	 gloss: Third.POSS-exchange.man=ERG.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 61:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nafa-ngth ___ markai nabi=karä sf-rär-m.
+Gloss (with missing item): Third.POSS-younger.sibling ___ outsider bow=PROP TSG.MASC.Betatwo-COP.NDU-DUR.
+The English translation of this sentence is:`His younger brother must have had a shotgun.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example (\ref{ex334}) is taken from an origin myth in which the speaker speculates that one of the protagonists ``must have had a shotgun'', while his brother only had bow and arrow. This is a clear epistemic use of the morpheme ___.
+A: word: kma	 gloss: Pot
+B: word: gn-a-m-nz-é	 gloss: SSG.BET-VC.-sit.EXT-NDU-IMP
+C: word: yafü-si=karä	 gloss: open-NMLZ=PROP
+D: word: kma=m	 gloss: Pot=Appr
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 62:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zena ___ n-a-trik-w-é bun ... no kzi=ma.
+Gloss (with missing item): today ___ SSG.ALPH-VC.-tell.EXT-NDU-FSG SSG.DAT ... rain barktray=CHAR.
+The English translation of this sentence is:`Today, I will tell you about the rain-making barktray.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Future tense is marked periphrastically in Komnzo with the \isi{particle} the morpheme ___, which combines either with the \isi{non-past} (\ref{ex335}) or irrealis inflections (\ref{ex309}).
+A: word: m=e-rn	 gloss: where=STNSG.ALPH-COP.DU
+B: word: nima	 gloss: Quot
+C: word: zokwasi=me=wä	 gloss: speech=INS=EMPH
+D: word: kwa	 gloss: FUT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 63:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zena kwa ___ bun ... no kzi=ma.
+Gloss (with missing item): today FUT ___ SSG.DAT ... rain barktray=CHAR.
+The English translation of this sentence is:`Today, I will tell you about the rain-making barktray.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Future tense is marked periphrastically in Komnzo with the \isi{particle} kwa, which combines either with the \isi{non-past} (\ref{ex335}) or irrealis inflections (\ref{ex309}).
+A: word: kwan=ma	 gloss: noise=CHAR
+B: word: n=ŋ-a-trik-w-é	 gloss: IMMpst=M.ALPH-VC.-tell.EXT-NDU-FSG
+C: word: n-a-trik-w-é	 gloss: SSG.ALPH-VC.-tell.EXT-NDU-FSG
+D: word: nomai	 gloss: Hab
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 64:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): gb ___ th-ra-rfik-wr zba.
+Gloss (with missing item): sprout ___ STNSG.BET-IRR-grow.EXT-NDU PROX.ABL.
+The English translation of this sentence is:`The sprouts will grow from here.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Future tense is marked periphrastically in Komnzo with the \isi{particle} the morpheme ___, which combines either with the \isi{non-past} (\ref{ex335}) or irrealis inflections (\ref{ex309}).
+A: word: kayé	 gloss: yesterday
+B: word: zokwasi=me=wä	 gloss: speech=INS=EMPH
+C: word: kwa	 gloss: FUT
+D: word: nima	 gloss: Quot
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 65:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): gb kwa ___ zba.
+Gloss (with missing item): sprout FUT ___ PROX.ABL.
+The English translation of this sentence is:`The sprouts will grow from here.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Future tense is marked periphrastically in Komnzo with the \isi{particle} kwa, which combines either with the \isi{non-past} (\ref{ex335}) or irrealis inflections (\ref{ex309}).
+A: word: th-ra-nor	 gloss: STNSG.BET-IRR-shout.EXT.NDU
+B: word: th-ra-a-frms-é	 gloss: STNSG.BET-IRR-VC.textbarNDU-prepare.RS-FSG
+C: word: nomai	 gloss: Hab
+D: word: th-ra-rfik-wr	 gloss: STNSG.BET-IRR-grow.EXT-NDU
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 66:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ yf kwot keke miyatha wo-rä.
+Gloss (with missing item): ___ name properly NEG knowledge FSG.ALPH-COP.NDU.
+The English translation of this sentence is:`Wait! I don't quite know that name.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{future} \isi{particle} can also be used by itself meaning `its gloss ___', as in example (\ref{ex310}), where the name of a particular plant has slipped from the speaker's mind.
+A: word: kwa	 gloss: wait
+B: word: zokwasi=me=wä	 gloss: speech=INS=EMPH
+C: word: yam=me	 gloss: custom=INS
+D: word: kma=m	 gloss: Pot=Appr
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 67:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ni miyamr mane z-ra-rä ane kar yf fof ___ kwa kar yf nä z-a-mar-e fof
+Gloss (with missing item): FNSG ignorance which TSG.F.BET-IRR-COP.NDU DEM village name EMPH ___ FUT village name some TSG.F.GAM-NDU-see-FNSG EMPH.
+The English translation of this sentence is:`We do not know which local name it will be. We have not heard the name yet.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When negated, the \isi{future} \isi{particle} kwa can express `not yet', as in example (\ref{ex367}), where the speaker points out that he has not yet heard the name that will be given to a particular person at an upcoming namesake celebration.
+A: word: s-a-kwr-∅	 gloss: TSG.MASC.ALPH-NDU-hit.RS-SSG.IMP
+B: word: naf	 gloss: TSG.ERG
+C: word: ŋarake=r	 gloss: fence=PURP
+D: word: keke	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 68:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ fof.
+Gloss (with missing item): ___ EMPH.
+The English translation of this sentence is:`Yes, (I have) already.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: I adopt the term ``\isi{iamitive}'' from Olsson's (\citeyear{Olsson:2013vn}) comparative study of particles that express a perfect. Reesink (\citeyear[184]{Reesink:2009bird}) uses the term ``perspectival \isi{aspect}'', which he adopts from Dik (\citeyear{Dik:1997uj}). Komnthe morpheme ___o speakers often translate the \isi{iamitive} \isi{particle} the morpheme ___ as `already', hence the \isi{gloss} label {\Iam}. An introductory example is given in (\ref{ex311}). This is taken from a recording where two women took me on a plant walk. Example (\ref{ex313}) is the answer to the question in (\ref{ex312}).
+A: word: z-ä-n-far-é	 gloss: M.GAM-VC..NDU-VENIT-set.off.EXT-FSG
+B: word: komnzo	 gloss: only
+C: word: z	 gloss: IAM
+D: word: nagay=f	 gloss: child=ERG.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 69:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zuyak ___ s-a-fäs-∅.
+Gloss (with missing item): zuyak ___ TSG.MASC.GAM-NDU-show.RS-STSG.
+The English translation of this sentence is:`Have you shown him zuyak (Rhodania sp) already?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: I adopt the term ``\isi{iamitive}'' from Olsson's (\citeyear{Olsson:2013vn}) comparative study of particles that express a perfect. Reesink (\citeyear[184]{Reesink:2009bird}) uses the term ``perspectival \isi{aspect}'', which he adopts from Dik (\citeyear{Dik:1997uj}). Komnthe morpheme ___o speakers often translate the \isi{iamitive} \isi{particle} the morpheme ___ as `already', hence the \isi{gloss} label {\Iam}. An introductory example is given in (\ref{ex311}). This is taken from a recording where two women took me on a plant walk. Example (\ref{ex313}) is the answer to the question in (\ref{ex312}).
+A: word: komnzo	 gloss: only
+B: word: ŋad=me	 gloss: rope=INS
+C: word: z	 gloss: IAM
+D: word: z-ä-n-far-é	 gloss: M.GAM-VC..NDU-VENIT-set.off.EXT-FSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 70:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): fi fobo thu-a-m-nzr-m nima ... ni masu=n ___ nzu-a-m-nzr-m.
+Gloss (with missing item): Third.ABS DIST.All STNSG.BETaone-VC.-sit.EXT-NDU-DUR like.this ... FNSG masu=LOC ___ FNSG.BETaone-VC.-sit.EXT-NDU-DUR.
+The English translation of this sentence is:`They lived over there, this way ... and we had already been living in Masu.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example (\ref{ex311}) shows that the function of the \isi{iamitive} is to express ``current relevance'' of some past event. Consequently, the \isi{particle} may combine with verbs inflected for different TAM categories. Example (\ref{ex311}) shows a verb in \isi{recent past} \isi{perfective}. In (\ref{ex332}), the \isi{iamitive} \isi{particle} is used with a \isi{past} \isi{durative} inflected verb. This combination is rarer, but well-attested in the corpus. In the example, the speaker is explaining which clans settled at which locations. He points out that his clan had already been living in Masu for a while.
+A: word: z	 gloss: IAM
+B: word: s-rä-fiyoth-é	 gloss: TSG.MASC.BET-VC..NDU-make.RS-FSG
+C: word: komnzo	 gloss: only
+D: word: gwargwar=fa	 gloss: mud=ABL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 71:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zbär bä zagr=wä e-a-m-nzr-o ___ w-a-n-riz-r-th.
+Gloss (with missing item): night MED far=EMPH STNSG.ALPH-VC.-sit.EXT-NDU-ANDAT ___ FSG.ALPH-VC.-VENIT-hear.EXT-NDU-STNSG.
+The English translation of this sentence is:`Tonight you are sitting too far away. Can you hear me?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{iamitive} \isi{particle} can also be used with a \isi{non-past} inflection. This is often restricted to interrogatives, as in (\ref{ex314}), where the speaker is asking a crowd of people whether they can hear him speaking.
+A: word: z	 gloss: IAM
+B: word: m=k-rä-rit-∅	 gloss: Appr=M.BET-IRR.VC..NDU-pass.RS-STSG
+C: word: komnzo	 gloss: only
+D: word: mäbri	 gloss: mäbri
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 72:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bä komnzo zu-ä-zik ... ksi kar=en ___ ku-a-n-yak e zbo zu-ä-n-thor tümgo=n.
+Gloss (with missing item): MED only FSG.GAM-NDU-turn.off.RS ... bush place=LOC ___ FSG.BETaone-VC.-walk.EXT.NDU until PROX.All FSG.GAM-NDU-VENIT-arrive.RS tümgo=LOC.
+The English translation of this sentence is:`It turned off (the path) there ... I walked in the bushy place until I arrived here in Tümgo.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{iamitive} \isi{particle} additionally expresses the completion of an event. Evidence for this come from different observations. First, it can express a current relevance meaning. Secondly, it never combines with \isi{iterative} verbs, which express an ongoing repetition of some event in the past. Thirdly, it marks sequentiality of events in some narratives where the verb form which combines with it seems to be almost a prerequisite to the following verb. Example (\ref{ex333})\footnote{The verb yak ‘walk’ is deponent and employs the valency changing prefix a- without a change in the valency of the verb. Note that this occurs only with the venitive marker, in which case the verb means ‘come’, not when it is neutral (‘walk’) or marked with the andative (‘go away’).} is a description of a path, which the speaker had taken the previous day. He describes the sequenced stages of his path to the location called Tümgo.
+A: word: z	 gloss: IAM
+B: word: komnzo	 gloss: only
+C: word: sz-si	 gloss: call.out-NMLZ
+D: word: ŋatha=r	 gloss: dog=PURP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 73:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): krara ymd su-wägr-m maf su-a-trik-wr-m-∅ ___ nima oh kabe y-a-n-yak.
+Gloss (with missing item): cockatoo bird TSG.MASC.BETaone-be.on.top.NDU-DUR who.ERG TSG.MASC.BETaone-VC.-tell.EXT-NDU-DUR-STSG ___ Quot oh man TSG.MASC.ALPH-VENIT-walk.EXT.NDU.
+The English translation of this sentence is:`The cockatoo bird used to sit on top (of the tree), and told him always: ``Oh, a man is coming.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{habitual} \isi{particle} the morpheme ___ typically combines with \isi{durative} inflections. In example (\ref{ex315}), the cockatoo always warns the protagonist of another man who comes and visits him.
+A: word: nomair	 gloss: Hab
+B: word: kw-ä-n-kor-m-∅	 gloss: M.BETaone-VC.NDU-VENIT-become.RS-DUR-STSG
+C: word: nomai	 gloss: Hab
+D: word: kwa	 gloss: FUT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 74:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): keke ___ z-ä-ms-a-th.
+Gloss (with missing item): NEG ___ M.GAM-VC..NDU-sit.EXT-PST-STNSG.
+The English translation of this sentence is:`They did not stay (there) for long.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{habitual} can also combine with verb forms inflected for other TAM categories, such as imperfectives (\ref{ex316}). It only occasionally occurs with perfectives, as in (\ref{ex317}), where the event is negated. In both examples, the morpheme ___ expresses an extended period of time rather that a repeated habit.
+A: word: kwa	 gloss: FUT
+B: word: e-kn-n-e	 gloss: STNSG.Alph-roll.EXT-DU-FNSG
+C: word: nomair	 gloss: Hab
+D: word: nomai	 gloss: Hab
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 75:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nzefe nima ane ŋatha bä ___ ... watik ane=ma nz=y-brüz-∅-é bobo ... watik ane wtri=me fi ŋatha z-a-n-math-\Zero.
+Gloss (with missing item): FSG.ERG.EMPH Quot DEM dog MED ___ ... then DEM=CHAR IMMpst=TSG.MASC.ALPH-submerge.EXT-NDU-FSG MED.All ... then DEM fear=INS Third.ABS dog M.GAM-VENIT-run.RS-STSG.
+The English translation of this sentence is:`I said: ``That dog disturbed me there and therefore I pushed him into the water. Well, full of fear he ran back here.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{temporal} reference of the \isi{immediate past} and the \isi{recent past} overlaps. The \isi{immediate past} is used for events that took place a short while prior to the time of speaking, and it may be used to put extra emphasis on that fact. The \isi{recent past} covers the same period of time, but it reaches further back, usually to the preceding day. Example (\ref{ex374}) is taken from a hunting story, at the end of which the speaker returns home to find one of his dogs. He tells his wife that this is the dog which had disturbed him at the outset of the trip when he was about to cross the Morehead river. He had pushed the dog into the water, whereupon the poor dog ran back to the house. The whole episode in (\ref{ex374}) is set in the same time frame with respect to the moment of speech. Only the `pushing in the water' is expressed in the \isi{immediate past}, while the other two verb forms are in the \isi{recent past}.\footnote{The speaker uses the nz= formative of the immediate past clitic. As pointed out in {\S}\ref{imminentm}, this formative is a borrowing from \ili{Wära}. The Komnzo formative is n=.}
+A: word: nzu-a-m-nz-r-m	 gloss: FNSG.BETaone-VC.-dwell.EXT-NDU-LK-DUR
+B: word: th-ra-rfik-wr	 gloss: STNSG.BET-IRR-grow.EXT-NDU
+C: word: nzu-a-thofik-wr-∅	 gloss: FSG.Betaone-VC-disturb.EXT-NDU-STSGS
+D: word: nzu-a-sämi-nzr-m-∅	 gloss: FNSG.BETaone-VC.-whisper.EXT-NDU-DUR-STSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 76:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nzefe nima ane ŋatha bä nzu-a-thofik-wr-∅ ... watik ane=ma ___ bobo ... watik ane wtri=me fi ŋatha z-a-n-math-\Zero.
+Gloss (with missing item): FSG.ERG.EMPH Quot DEM dog MED FSG.Betaone-VC-disturb.EXT-NDU-STSGS ... then DEM=CHAR ___ MED.All ... then DEM fear=INS Third.ABS dog M.GAM-VENIT-run.RS-STSG.
+The English translation of this sentence is:`I said: ``That dog disturbed me there and therefore I pushed him into the water. Well, full of fear he ran back here.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{temporal} reference of the \isi{immediate past} and the \isi{recent past} overlaps. The \isi{immediate past} is used for events that took place a short while prior to the time of speaking, and it may be used to put extra emphasis on that fact. The \isi{recent past} covers the same period of time, but it reaches further back, usually to the preceding day. Example (\ref{ex374}) is taken from a hunting story, at the end of which the speaker returns home to find one of his dogs. He tells his wife that this is the dog which had disturbed him at the outset of the trip when he was about to cross the Morehead river. He had pushed the dog into the water, whereupon the poor dog ran back to the house. The whole episode in (\ref{ex374}) is set in the same time frame with respect to the moment of speech. Only the `pushing in the water' is expressed in the \isi{immediate past}, while the other two verb forms are in the \isi{recent past}.\footnote{The speaker uses the nz= formative of the immediate past clitic. As pointed out in {\S}\ref{imminentm}, this formative is a borrowing from \ili{Wära}. The Komnzo formative is n=.}
+A: word: n=e-fath-wr-m-th	 gloss: IMMpst=STNSG.ALPH-hold.EXT-NDU-DUR-STNSG
+B: word: nz=ybrüzé	 gloss: IMMpst=FSG:SBJ>STSG.MASC:OBJ:NONPAST:IPFV/submerge
+C: word: nz=y-brüz-∅-é	 gloss: IMMpst=TSG.MASC.ALPH-submerge.EXT-NDU-FSG
+D: word: n=y-a-m-nzr-m	 gloss: IMMpst=TSG.MASC.ALPH-VC.-sit.EXT-NDU-DUR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 77:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nzefe nima ane ŋatha bä ___ ... watik ane=ma nz=y-brüz-∅-é bobo ... watik ane wtri=me fi ŋatha z-a-n-math-\Zero.
+Gloss (with missing item): FSG.ERG.EMPH Quot DEM dog MED ___ ... then DEM=CHAR IMMpst=TSG.MASC.ALPH-submerge.EXT-NDU-FSG MED.All ... then DEM fear=INS Third.ABS dog M.GAM-VENIT-run.RS-STSG.
+The English translation of this sentence is:`I said: ``That dog disturbed me there and therefore I pushed him into the water. Well, full of fear he ran back here.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{temporal} reference of the \isi{immediate past} and the \isi{recent past} overlaps. The \isi{immediate past} is used for events that took place a short while prior to the time of speaking, and it may be used to put extra emphasis on that fact. The \isi{recent past} covers the same period of time, but it reaches further back, usually to the preceding day. Example (\ref{ex374}) is taken from a hunting story, at the end of which the speaker returns home to find one of his dogs. He tells his wife that this is the dog which had disturbed him at the outset of the trip when he was about to cross the Morehead river. He had pushed the dog into the water, whereupon the poor dog ran back to the house. The whole episode in (\ref{ex374}) is set in the same time frame with respect to the moment of speech. Only the `pushing in the water' is expressed in the \isi{immediate past}, while the other two verb forms are in the \isi{recent past}.\footnote{The speaker uses the nz= formative of the immediate past clitic. As pointed out in {\S}\ref{imminentm}, this formative is a borrowing from \ili{Wära}. The Komnzo formative is n=.}
+A: word: nzu-a-sämi-nzr-m-∅	 gloss: FNSG.BETaone-VC.-whisper.EXT-NDU-DUR-STSG
+B: word: nzu-a-m-nz-r-m	 gloss: FNSG.BETaone-VC.-dwell.EXT-NDU-LK-DUR
+C: word: k-rä-mnzer-é	 gloss: M.BET-IRR.VC..NDU-fall.asleep.RS-FSG
+D: word: nzu-a-thofik-wr-∅	 gloss: FSG.Betaone-VC-disturb.EXT-NDU-STSGS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 78:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nzefe nima ane ŋatha bä nzu-a-thofik-wr-∅ ... watik ane=ma ___ bobo ... watik ane wtri=me fi ŋatha z-a-n-math-\Zero.
+Gloss (with missing item): FSG.ERG.EMPH Quot DEM dog MED FSG.Betaone-VC-disturb.EXT-NDU-STSGS ... then DEM=CHAR ___ MED.All ... then DEM fear=INS Third.ABS dog M.GAM-VENIT-run.RS-STSG.
+The English translation of this sentence is:`I said: ``That dog disturbed me there and therefore I pushed him into the water. Well, full of fear he ran back here.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{temporal} reference of the \isi{immediate past} and the \isi{recent past} overlaps. The \isi{immediate past} is used for events that took place a short while prior to the time of speaking, and it may be used to put extra emphasis on that fact. The \isi{recent past} covers the same period of time, but it reaches further back, usually to the preceding day. Example (\ref{ex374}) is taken from a hunting story, at the end of which the speaker returns home to find one of his dogs. He tells his wife that this is the dog which had disturbed him at the outset of the trip when he was about to cross the Morehead river. He had pushed the dog into the water, whereupon the poor dog ran back to the house. The whole episode in (\ref{ex374}) is set in the same time frame with respect to the moment of speech. Only the `pushing in the water' is expressed in the \isi{immediate past}, while the other two verb forms are in the \isi{recent past}.\footnote{The speaker uses the nz= formative of the immediate past clitic. As pointed out in {\S}\ref{imminentm}, this formative is a borrowing from \ili{Wära}. The Komnzo formative is n=.}
+A: word: kwa	 gloss: FUT
+B: word: nz=ybrüzé	 gloss: IMMpst=FSG:SBJ>STSG.MASC:OBJ:NONPAST:IPFV/submerge
+C: word: nz=y-brüz-∅-é	 gloss: IMMpst=TSG.MASC.ALPH-submerge.EXT-NDU-FSG
+D: word: n=y-a-m-nzr-m	 gloss: IMMpst=TSG.MASC.ALPH-VC.-sit.EXT-NDU-DUR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 79:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nzä boba z-ä-n-far-é ... kanathr.
+Gloss (with missing item): ___ FSG.ABS MED.ABL M.GAM-VC..NDU-VENIT-set.off.EXT-FSG ... kanathr.
+The English translation of this sentence is:`Yesterday, I set off from there towards here ... to Kanathr.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The bidirectional time adverbials discussed in {\S}\ref{temporals-sec} help to identify the appropriate time frames for each \isi{tense} value. The term the morpheme ___ expresses a moment in time which is removed by one day from the present time. Thus, the morpheme ___ can mean `tomorrow', when used with a non-past inflection, or it can mean `its gloss ___', when used with a \isi{recent past}. Events further back in time have to be expressed by the \isi{past} \isi{tense}. Likewise, one cannot use a \isi{recent past} with the time adverbial nama, which indicates a point in time that is removed two days from the present time (`day before its gloss ___' or `day after tomorrow'). In short, the \isi{recent past} reaches back one day, whereas the \isi{past} \isi{tense} covers everything before its gloss ___, irrespective of whether it happened a week ago or in ancestral time. Example (\ref{ex375}) shows the use of the morpheme ___ and the \isi{recent past}. Example (\ref{ex376}) shows the use of nama and the \isi{past} \isi{tense}.\footnote{Nama can also be used metaphorically to mean `recently'.}
+A: word: kayé	 gloss: yesterday
+B: word: w-a-n-yak-a	 gloss: TSG.F.ALPH-VC.-VENIT-go.EXT.NDU-PST
+C: word: kayé=thamar	 gloss: tomorrow=TEMP.PURP
+D: word: zena	 gloss: today
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 80:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kayé nzä boba ___ ... kanathr.
+Gloss (with missing item): yesterday FSG.ABS MED.ABL ___ ... kanathr.
+The English translation of this sentence is:`Yesterday, I set off from there towards here ... to Kanathr.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The bidirectional time adverbials discussed in {\S}\ref{temporals-sec} help to identify the appropriate time frames for each \isi{tense} value. The term kayé expresses a moment in time which is removed by one day from the present time. Thus, kayé can mean `tomorrow', when used with a non-past inflection, or it can mean `yesterday', when used with a \isi{recent past}. Events further back in time have to be expressed by the \isi{past} \isi{tense}. Likewise, one cannot use a \isi{recent past} with the time adverbial nama, which indicates a point in time that is removed two days from the present time (`day before yesterday' or `day after tomorrow'). In short, the \isi{recent past} reaches back one day, whereas the \isi{past} \isi{tense} covers everything before yesterday, irrespective of whether it happened a week ago or in ancestral time. Example (\ref{ex375}) shows the use of kayé and the \isi{recent past}. Example (\ref{ex376}) shows the use of nama and the \isi{past} \isi{tense}.\footnote{Nama can also be used metaphorically to mean `recently'.}
+A: word: kayé	 gloss: yesterday
+B: word: nz-ä-n-mes-é	 gloss: SSG.BET-NDU-VENIT-fetch.RS-FSG
+C: word: z-ä-n-far-é	 gloss: M.GAM-VC..NDU-VENIT-set.off.EXT-FSG
+D: word: zu-ä-r-a-th	 gloss: FSG.GAM-VC..NDU-give.RS-PST-STNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 81:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zane nane dayr zbo ___ mane w-a-n-yak-a ....
+Gloss (with missing item): DEM:PROX elder.sibling dayr PROX.All ___ which TSG.F.ALPH-VC.-VENIT-go.EXT.NDU-PST ....
+The English translation of this sentence is:`The older sister Dayr who came here two days ago ...'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The bidirectional time adverbials discussed in {\S}\ref{temporals-sec} help to identify the appropriate time frames for each \isi{tense} value. The term kayé expresses a moment in time which is removed by one day from the present time. Thus, kayé can mean `tomorrow', when used with a non-past inflection, or it can mean `yesterday', when used with a \isi{recent past}. Events further back in time have to be expressed by the \isi{past} \isi{tense}. Likewise, one cannot use a \isi{recent past} with the time adverbial the morpheme ___, which indicates a point in time that is removed two days from the present time (`day before yesterday' or `day after tomorrow'). In short, the \isi{recent past} reaches back one day, whereas the \isi{past} \isi{tense} covers everything before yesterday, irrespective of whether it happened a week ago or in ancestral time. Example (\ref{ex375}) shows the use of kayé and the \isi{recent past}. Example (\ref{ex376}) shows the use of the morpheme ___ and the \isi{past} \isi{tense}.\footnote{Nama can also be used metaphorically to mean `recently'.}
+A: word: namä=me	 gloss: good=INS
+B: word: nzüthamöwä	 gloss: times
+C: word: ŋatha=nm	 gloss: dog=DAT.NSG
+D: word: nama	 gloss: two.days.ago
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 82:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zane nane dayr zbo nama mane ___ ....
+Gloss (with missing item): DEM:PROX elder.sibling dayr PROX.All two.days.ago which ___ ....
+The English translation of this sentence is:`The older sister Dayr who came here two days ago ...'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The bidirectional time adverbials discussed in {\S}\ref{temporals-sec} help to identify the appropriate time frames for each \isi{tense} value. The term kayé expresses a moment in time which is removed by one day from the present time. Thus, kayé can mean `tomorrow', when used with a non-past inflection, or it can mean `yesterday', when used with a \isi{recent past}. Events further back in time have to be expressed by the \isi{past} \isi{tense}. Likewise, one cannot use a \isi{recent past} with the time adverbial nama, which indicates a point in time that is removed two days from the present time (`day before yesterday' or `day after tomorrow'). In short, the \isi{recent past} reaches back one day, whereas the \isi{past} \isi{tense} covers everything before yesterday, irrespective of whether it happened a week ago or in ancestral time. Example (\ref{ex375}) shows the use of kayé and the \isi{recent past}. Example (\ref{ex376}) shows the use of nama and the \isi{past} \isi{tense}.\footnote{Nama can also be used metaphorically to mean `recently'.}
+A: word: w-a-n-brag-wr-e	 gloss: TSG.F.ALPH-VC.-VENIT-follow.EXT-NDU-FNSG
+B: word: m=k-rä-rit-∅	 gloss: Appr=M.BET-IRR.VC..NDU-pass.RS-STSG
+C: word: e-a-n-yak-a	 gloss: STNSG.ALPH-VC.-VENIT-walk.EXT.NDU-PST
+D: word: w-a-n-yak-a	 gloss: TSG.F.ALPH-VC.-VENIT-go.EXT.NDU-PST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 83:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n-yan-a ttfö bä rä ... bäne ... sazäthi fä k-ra-ms-e sukufa ___ e-a-na-n-e boba k-ra-far-e ... zbär nzf-yan-m.
+Gloss (with missing item): FNSG.Alph-walk.EXT.DU-PST creek MED TSG.F.COP.NDU ... Recog.ABS ... sazäthi DIST M.BET-IRR.VC.DU-sit.RS-FNSG tobacco ___ STNSG.ALPH-VC.-eat.EXT-DU-FNSG MED.ABL M.ALPH-IRR.VC..DU-set.off.RS-FNSG ... night FNSG.Betatwo-walk.EXT.DU-DUR.
+The English translation of this sentence is:`We walked. There is a creek there (called) Sazäthi. We sat down there, rolled the cigarettes and smoked. We set off from there. We were walking in the night.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Tense values can be used with a pragmatic motivation. It is quite common to foreground events in a narrative by putting them into the \isi{non-past}, even though the story is set in the \isi{recent past} or the \isi{past}. Example (\ref{ex668}) comes from a story that took place in the speaker's youth. In the example clauses, he describes walking with a friend during night time. The two boys rested along the way and smoked tobacco. Although the story is set in the past, only the first and the last verbs in (\ref{ex668}) are inflected in the past \isi{tense} (`walk' in both cases). The `sitting down' and the `setting off' are inflected for irrealis, and are thus tenseless. The rolling of the cigarettes and their smoking is told in the \isi{non-past}, which moves this part to the foreground.
+A: word: w-mäg-n-e	 gloss: TSG.F.ALPH-lead.EXT-DU-FNSG
+B: word: e-kn-n-e	 gloss: STNSG.Alph-roll.EXT-DU-FNSG
+C: word: e-nak-w-r-e	 gloss: STNSG.Alph-put.down.EXT-NDU-LK-FNSG
+D: word: m=z-ä-rfusir-∅	 gloss: Appr=M.GAM-VC..NDU-light.up.RS-STSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 84:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n-yan-a ttfö bä rä ... bäne ... sazäthi fä k-ra-ms-e sukufa e-kn-n-e ___ boba k-ra-far-e ... zbär nzf-yan-m.
+Gloss (with missing item): FNSG.Alph-walk.EXT.DU-PST creek MED TSG.F.COP.NDU ... Recog.ABS ... sazäthi DIST M.BET-IRR.VC.DU-sit.RS-FNSG tobacco STNSG.Alph-roll.EXT-DU-FNSG ___ MED.ABL M.ALPH-IRR.VC..DU-set.off.RS-FNSG ... night FNSG.Betatwo-walk.EXT.DU-DUR.
+The English translation of this sentence is:`We walked. There is a creek there (called) Sazäthi. We sat down there, rolled the cigarettes and smoked. We set off from there. We were walking in the night.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Tense values can be used with a pragmatic motivation. It is quite common to foreground events in a narrative by putting them into the \isi{non-past}, even though the story is set in the \isi{recent past} or the \isi{past}. Example (\ref{ex668}) comes from a story that took place in the speaker's youth. In the example clauses, he describes walking with a friend during night time. The two boys rested along the way and smoked tobacco. Although the story is set in the past, only the first and the last verbs in (\ref{ex668}) are inflected in the past \isi{tense} (`walk' in both cases). The `sitting down' and the `setting off' are inflected for irrealis, and are thus tenseless. The rolling of the cigarettes and their smoking is told in the \isi{non-past}, which moves this part to the foreground.
+A: word: kwof-rugr-m	 gloss: FSG.Betatwo-sleep.EXT.NDU-DUR
+B: word: ŋ-a-na-f-r-∅	 gloss: M-VC.-speak.RS-NDU-LK-STSG
+C: word: e-a-na-n-e	 gloss: STNSG.ALPH-VC.-eat.EXT-DU-FNSG
+D: word: e-kn-n-e	 gloss: STNSG.Alph-roll.EXT-DU-FNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 85:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n-yan-a ttfö bä rä ... bäne ... sazäthi fä k-ra-ms-e sukufa ___ e-a-na-n-e boba k-ra-far-e ... zbär nzf-yan-m.
+Gloss (with missing item): FNSG.Alph-walk.EXT.DU-PST creek MED TSG.F.COP.NDU ... Recog.ABS ... sazäthi DIST M.BET-IRR.VC.DU-sit.RS-FNSG tobacco ___ STNSG.ALPH-VC.-eat.EXT-DU-FNSG MED.ABL M.ALPH-IRR.VC..DU-set.off.RS-FNSG ... night FNSG.Betatwo-walk.EXT.DU-DUR.
+The English translation of this sentence is:`We walked. There is a creek there (called) Sazäthi. We sat down there, rolled the cigarettes and smoked. We set off from there. We were walking in the night.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Tense values can be used with a pragmatic motivation. It is quite common to foreground events in a narrative by putting them into the \isi{non-past}, even though the story is set in the \isi{recent past} or the \isi{past}. Example (\ref{ex668}) comes from a story that took place in the speaker's youth. In the example clauses, he describes walking with a friend during night time. The two boys rested along the way and smoked tobacco. Although the story is set in the past, only the first and the last verbs in (\ref{ex668}) are inflected in the past \isi{tense} (`walk' in both cases). The `sitting down' and the `setting off' are inflected for irrealis, and are thus tenseless. The rolling of the cigarettes and their smoking is told in the \isi{non-past}, which moves this part to the foreground.
+A: word: e-kn-n-e	 gloss: STNSG.Alph-roll.EXT-DU-FNSG
+B: word: w-mäg-n-e	 gloss: TSG.F.ALPH-lead.EXT-DU-FNSG
+C: word: zf-r-n-m-th	 gloss: TSG.F.Betatwo-do.EXT-DU-DUR-STNSG
+D: word: e-nak-w-r-e	 gloss: STNSG.Alph-put.down.EXT-NDU-LK-FNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 86:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n-yan-a ttfö bä rä ... bäne ... sazäthi fä k-ra-ms-e sukufa e-kn-n-e ___ boba k-ra-far-e ... zbär nzf-yan-m.
+Gloss (with missing item): FNSG.Alph-walk.EXT.DU-PST creek MED TSG.F.COP.NDU ... Recog.ABS ... sazäthi DIST M.BET-IRR.VC.DU-sit.RS-FNSG tobacco STNSG.Alph-roll.EXT-DU-FNSG ___ MED.ABL M.ALPH-IRR.VC..DU-set.off.RS-FNSG ... night FNSG.Betatwo-walk.EXT.DU-DUR.
+The English translation of this sentence is:`We walked. There is a creek there (called) Sazäthi. We sat down there, rolled the cigarettes and smoked. We set off from there. We were walking in the night.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Tense values can be used with a pragmatic motivation. It is quite common to foreground events in a narrative by putting them into the \isi{non-past}, even though the story is set in the \isi{recent past} or the \isi{past}. Example (\ref{ex668}) comes from a story that took place in the speaker's youth. In the example clauses, he describes walking with a friend during night time. The two boys rested along the way and smoked tobacco. Although the story is set in the past, only the first and the last verbs in (\ref{ex668}) are inflected in the past \isi{tense} (`walk' in both cases). The `sitting down' and the `setting off' are inflected for irrealis, and are thus tenseless. The rolling of the cigarettes and their smoking is told in the \isi{non-past}, which moves this part to the foreground.
+A: word: s-rä-kwr-m-th	 gloss: TSG.MASC.BET-IRR.NDU-hit.RS-DUR-STNSG
+B: word: e-a-na-n-e	 gloss: STNSG.ALPH-VC.-eat.EXT-DU-FNSG
+C: word: e-kn-n-e	 gloss: STNSG.Alph-roll.EXT-DU-FNSG
+D: word: ŋ-a-na-f-r-∅	 gloss: M-VC.-speak.RS-NDU-LK-STSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 87:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): brbr=nzo fof ___ z-ä-thb-a-∅ baf=en ... ymd=en fof.
+Gloss (with missing item): spirit=ONLY EMPH ___ M.GAM-NDU-enter.RS-PST-STSG Recog=LOC ... bird=LOC EMPH.
+The English translation of this sentence is:`Only the spirit was about to go inside that one ... inside the bird.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Likewise, perfectives do the morpheme ___ot ethe morpheme ___tail that athe morpheme ___ evethe morpheme ___t is fithe morpheme ___ished, but rather that it has started or that its duratiothe morpheme ___ was of a puthe morpheme ___ctual quality. The latter is showthe morpheme ___ ithe morpheme ___ the first verb `arrive' ithe morpheme ___ example (\ref{ex370}). The former is showthe morpheme ___ ithe morpheme ___ example (\ref{ex361}), which is takethe morpheme ___ from a story about a maligthe morpheme ___athe morpheme ___t beithe morpheme ___g. At the ethe morpheme ___d of the story this beithe morpheme ___g tries to escape by ethe morpheme ___terithe morpheme ___g a bird, but the villagers are quick to shoot dowthe morpheme ___ the bird. The ethe morpheme ___terithe morpheme ___g evethe morpheme ___t ithe morpheme ___ (\ref{ex361}) is expressed ithe morpheme ___ the \isi{perfective}, but the \isi{immithe morpheme ___ethe morpheme ___t} \isi{particle} the morpheme ___ shows that the evethe morpheme ___t has the morpheme ___ot started yet. Hethe morpheme ___ce, completiothe morpheme ___ of the ethe morpheme ___terithe morpheme ___g evethe morpheme ___t is the morpheme ___ot ethe morpheme ___tailed, but excluded. Thus, a literal trathe morpheme ___slatiothe morpheme ___ of the morpheme ___ zäthba would be: `s/he was about to start to ethe morpheme ___ter'.
+A: word: nomai	 gloss: Hab
+B: word: n	 gloss: IMN
+C: word: th-ra-rfik-wr	 gloss: STNSG.BET-IRR-grow.EXT-NDU
+D: word: komnzo	 gloss: only
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 88:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): brbr=nzo fof ___ z-ä-thb-a-∅ baf=en ... ymd=en fof.
+Gloss (with missing item): spirit=ONLY EMPH ___ M.GAM-NDU-enter.RS-PST-STSG Recog=LOC ... bird=LOC EMPH.
+The English translation of this sentence is:`Only the spirit was about to go inside that one ... inside the bird.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Likewise, perfectives do the morpheme ___ot ethe morpheme ___tail that athe morpheme ___ evethe morpheme ___t is fithe morpheme ___ished, but rather that it has started or that its duratiothe morpheme ___ was of a puthe morpheme ___ctual quality. The latter is showthe morpheme ___ ithe morpheme ___ the first verb `arrive' ithe morpheme ___ example (\ref{ex370}). The former is showthe morpheme ___ ithe morpheme ___ example (\ref{ex361}), which is takethe morpheme ___ from a story about a maligthe morpheme ___athe morpheme ___t beithe morpheme ___g. At the ethe morpheme ___d of the story this beithe morpheme ___g tries to escape by ethe morpheme ___terithe morpheme ___g a bird, but the villagers are quick to shoot dowthe morpheme ___ the bird. The ethe morpheme ___terithe morpheme ___g evethe morpheme ___t ithe morpheme ___ (\ref{ex361}) is expressed ithe morpheme ___ the \isi{perfective}, but the \isi{immithe morpheme ___ethe morpheme ___t} \isi{particle} the morpheme ___ shows that the evethe morpheme ___t has the morpheme ___ot started yet. Hethe morpheme ___ce, completiothe morpheme ___ of the ethe morpheme ___terithe morpheme ___g evethe morpheme ___t is the morpheme ___ot ethe morpheme ___tailed, but excluded. Thus, a literal trathe morpheme ___slatiothe morpheme ___ of the morpheme ___ zäthba would be: `s/he was about to start to ethe morpheme ___ter'.
+A: word: okay	 gloss: okay
+B: word: n	 gloss: IMN
+C: word: komnzo	 gloss: only
+D: word: m=e-rn	 gloss: where=STNSG.ALPH-COP.DU
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 89:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): fthé ___ gwonyame=n o festh=en o wämne=n ... keke kwa s-ra-nor.
+Gloss (with missing item): when ___ clothes=LOC or body=LOC or tree=LOC ... NEG FUT TSG.MASC.BET-IRR.VC.-shout.EXT.
+The English translation of this sentence is:`If you hit it on clothes, body or a tree, it will not make a sound.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Aspect in Komnzo seems to concentrate more on a punctual/inceptive versus ongoing/{\linebreak}stretched-out distinction. I adopt the traditional labels \isi{perfective} for the former and \isi{imperfective} for the latter. The degree to which an event is ``stretched out'' would then decide whether the speaker chooses the \isi{imperfective} or \isi{durative} \isi{aspect}. The basic binary distinction is clearest in the \isi{imperative} forms. The \isi{imperfective} imperatives often encode an ongoing action and, depending on the context, they can be translated as ``keep on X-ing'' or ``do X for some time''. Perfective imperatives, on the other hand, express inception ``start X-ing'' or punctuality ``do X once/quickly''. In example (\ref{ex373}), the speaker has just produced a toy bullroarer from a coconut leaf and shows me how to hold it properly. In (\ref{ex372}), she tells me not to hit anything while swinging, and the \isi{imperative} of `hit' is in the \isi{perfective}.\footnote{This is a conditional construction which frequently employs imperative inflections together with fthé `when/if' ({\S}\ref{TAMsemmood} and \S\ref{condiclauses}).} In (\ref{ex371}), she is already swinging the bullroarer, telling me to hold it away from the body. Consequently, all the \isi{imperative} verb forms (`hold', `blow', and `swing') are in the \isi{imperfective}.
+A: word: th-ä-kwr-a-th	 gloss: STNSG.GAM-VC.textbarNDU-hit.RS-PST-STNSG
+B: word: nz-ra-yak	 gloss: FNSG.BET-IRR-walk.EXT.NDU
+C: word: s-a-kwr-∅	 gloss: TSG.MASC.ALPH-NDU-hit.RS-SSG.IMP
+D: word: y-msak-wr-th	 gloss: TSG.MASC.ALPH-sit.EXT-NDU-STNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 90:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yame=märe fthé ___ ... etfth=r.
+Gloss (with missing item): mat=PRIV when ___ ... sleep=PURP.
+The English translation of this sentence is:`If you go without a mat, (this one is) for sleeping.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Imperatives can be used in a number of ways that fall outside the definition of `giving an order'. In example (\ref{ex318}), the speaker showed me the leaves of a pandanus plant pointing out that I can use the leaves to sleep on. The \isi{imperative} form gnyaké `you go' is thus not a command `go without a mat', but more like a conditional `if you go without a mat'. The conditional interpretation also comes from the word fthé which means `when' or `at the time when'. This type of conditional construction is an extended use of the \isi{imperative} inflection. Most imperatives are used as commands, and there are conditional constructions without \isi{imperative} inflections.
+A: word: m=gn-a-n-yak-é	 gloss: Appr=SSG.BET-VC.-VENIT-walk.EXT.NDU-IMP
+B: word: nz-ra-yak	 gloss: FNSG.BET-IRR-walk.EXT.NDU
+C: word: e-a-na-n-e	 gloss: STNSG.ALPH-VC.-eat.EXT-DU-FNSG
+D: word: gn-yak-é	 gloss: STSG.BET-walk.EXT.NDU-IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 91:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): katan kwa ___ ... kafar minzü yé.
+Gloss (with missing item): small FUT ___ ... big very TSG.MASC.COP.NDU.
+The English translation of this sentence is:`I will make it smaller. This is too big.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As we have seen in {\S}\ref{irrealisra}, the irrealis is marked by the prefix ra-. There is no \isi{realis} marker, hence no realis inflection. Beyond counterfactuality and futurity, the \isi{irrealis} \isi{mood} has a number of semantic extensions in Komnzo. Cross-linguistically \isi{irrealis} \isi{mood} is employed for a wide range of functions, which has led some authors to challenge its validity as a comparative category (\citealt{Bybee:irrealis}). Others have suggested a prototype approach to \isi{irrealis} \isi{mood}, for example Givon (\citeyear[327]{Givon:1994ko}). I will adopt the latter here. Example (\ref{ex381}) and (\ref{ex382}) show the \isi{irrealis} \isi{mood} in its more central functions, counterfactuality and futurity, respectively. Examples (\ref{ex381}) is taken from a headhunting story which involved the speaker's father.\footnote{The example also shows the `relative use' of the immediate past. Although the events in the story happened a long time ago, the speaker uses the immediate past (niyamnzrm `He was staying just before') to emphasise that the headhunt took place just after his father had left the village.} Example (\ref{ex382}) is taken from a procedural in which the speaker shows me how to make a toy from a coconut leaf.
+A: word: w-a-fiyok-w-a-∅	 gloss: TSG.F.ALPH-VC.-make.EXT-NDU-PST-STSG
+B: word: s-a-brim-∅	 gloss: TSG.MASC.BET-VC..NDU-return.RS-SSG.IMP
+C: word: keke	 gloss: NEG
+D: word: s-rä-fiyoth-é	 gloss: TSG.MASC.BET-VC..NDU-make.RS-FSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 92:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): katan kwa ___ ... kafar minzü yé.
+Gloss (with missing item): small FUT ___ ... big very TSG.MASC.COP.NDU.
+The English translation of this sentence is:`I will make it smaller. This is too big.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As we have seen in {\S}\ref{irrealisra}, the irrealis is marked by the prefix ra-. There is no \isi{realis} marker, hence no realis inflection. Beyond counterfactuality and futurity, the \isi{irrealis} \isi{mood} has a number of semantic extensions in Komnzo. Cross-linguistically \isi{irrealis} \isi{mood} is employed for a wide range of functions, which has led some authors to challenge its validity as a comparative category (\citealt{Bybee:irrealis}). Others have suggested a prototype approach to \isi{irrealis} \isi{mood}, for example Givon (\citeyear[327]{Givon:1994ko}). I will adopt the latter here. Example (\ref{ex381}) and (\ref{ex382}) show the \isi{irrealis} \isi{mood} in its more central functions, counterfactuality and futurity, respectively. Examples (\ref{ex381}) is taken from a headhunting story which involved the speaker's father.\footnote{The example also shows the `relative use' of the immediate past. Although the events in the story happened a long time ago, the speaker uses the immediate past (niyamnzrm `He was staying just before') to emphasise that the headhunt took place just after his father had left the village.} Example (\ref{ex382}) is taken from a procedural in which the speaker shows me how to make a toy from a coconut leaf.
+A: word: w-a-fiyok-w-a-∅	 gloss: TSG.F.ALPH-VC.-make.EXT-NDU-PST-STSG
+B: word: s-ra-na-thr-m-th	 gloss: TSG.MASC.BET-IRR-eat.EXT-NDU-DUR-STNSG
+C: word: s-rä-fiyoth-é	 gloss: TSG.MASC.BET-VC..NDU-make.RS-FSG
+D: word: s-a-brim-∅	 gloss: TSG.MASC.BET-VC..NDU-return.RS-SSG.IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 93:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ efoth etfth kwof-rugr-m e zizi ... k-rä-bnaf-é.
+Gloss (with missing item): ___ sun sleep FSG.Betatwo-sleep.EXT.NDU-DUR until afternoon ... M.BET-IRR.VC..NDU-wake.up.RS-FSG.
+The English translation of this sentence is:`I fell asleep (for) a daytime nap. I was sleeping until the late afternoon ... and I woke up.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ir\isi{realis} \isi{mood} is frequently used in narratives which report factual truths. Foley (\citeyear[389]{Foley:2000uh}) points out that Papuan languages often employ the realis-irrealis distinction for pragmatic purposes. In Komnzo, the pragmatic use comes from the alternation between \isi{irrealis} and \isi{realis} inflections especially in event sequencing. In this pattern, the \isi{irrealis} is used for backgrounding. Example (\ref{ex377}) is taken from a hunting story that occured many years ago. The story is told from a first-person perspective, thus, there is no reason to question the factual truth of what is being told. The clauses in (\ref{ex377}) describe a sequence of events: fall asleep > be sleeping > wake up. Only the foregrounded clause (`sleep') is expressed in \isi{realis} (\isi{past} \isi{durative}), whereas the \isi{backgrounded} clauses (`fall asleep' and `wake up') are expressed in \isi{irrealis} (\isi{perfective}). In that sense, the \isi{irrealis} verb forms act as a backgrounding bracket around the foregrounded clause.\footnote{Note that example (\ref{ex668}) on page \pageref{ex668} employs the same bracket-like use of the irrealis inflected verb forms. The only difference is that in (\ref{ex668}), the foregrounded event is in the non-past, whereas in (\ref{ex377}) the foregrounded event is in past durative.}
+A: word: k-rä-mnzer-é	 gloss: M.BET-IRR.VC..NDU-fall.asleep.RS-FSG
+B: word: k-rä-bth-∅	 gloss: M.BET-IRR.VC..NDU-finish.RS-STSG
+C: word: k-ra-ms-e	 gloss: M.BET-IRR.VC.DU-sit.RS-FNSG
+D: word: n-a-trik-w-é	 gloss: SSG.ALPH-VC.-tell.EXT-NDU-FSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 94:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): k-rä-mnzer-é efoth etfth ___ e zizi ... k-rä-bnaf-é.
+Gloss (with missing item): M.BET-IRR.VC..NDU-fall.asleep.RS-FSG sun sleep ___ until afternoon ... M.BET-IRR.VC..NDU-wake.up.RS-FSG.
+The English translation of this sentence is:`I fell asleep (for) a daytime nap. I was sleeping until the late afternoon ... and I woke up.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ir\isi{realis} \isi{mood} is frequently used in narratives which report factual truths. Foley (\citeyear[389]{Foley:2000uh}) points out that Papuan languages often employ the realis-irrealis distinction for pragmatic purposes. In Komnzo, the pragmatic use comes from the alternation between \isi{irrealis} and \isi{realis} inflections especially in event sequencing. In this pattern, the \isi{irrealis} is used for backgrounding. Example (\ref{ex377}) is taken from a hunting story that occured many years ago. The story is told from a first-person perspective, thus, there is no reason to question the factual truth of what is being told. The clauses in (\ref{ex377}) describe a sequence of events: fall asleep > be sleeping > wake up. Only the foregrounded clause (`sleep') is expressed in \isi{realis} (\isi{past} \isi{durative}), whereas the \isi{backgrounded} clauses (`fall asleep' and `wake up') are expressed in \isi{irrealis} (\isi{perfective}). In that sense, the \isi{irrealis} verb forms act as a backgrounding bracket around the foregrounded clause.\footnote{Note that example (\ref{ex668}) on page \pageref{ex668} employs the same bracket-like use of the irrealis inflected verb forms. The only difference is that in (\ref{ex668}), the foregrounded event is in the non-past, whereas in (\ref{ex377}) the foregrounded event is in past durative.}
+A: word: kwof-rugr-m	 gloss: FSG.Betatwo-sleep.EXT.NDU-DUR
+B: word: rku-si	 gloss: knock.down-NMLZ
+C: word: sf-rug-rm	 gloss: TSG.M.Betatwo-sleep.EXT.NDU-DUR
+D: word: k-ra-kwi-n-m-th	 gloss: M.BET-IRR.VC.-argue.EXT-DU-DUR-STNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 95:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ efoth etfth kwof-rugr-m e zizi ... k-rä-bnaf-é.
+Gloss (with missing item): ___ sun sleep FSG.Betatwo-sleep.EXT.NDU-DUR until afternoon ... M.BET-IRR.VC..NDU-wake.up.RS-FSG.
+The English translation of this sentence is:`I fell asleep (for) a daytime nap. I was sleeping until the late afternoon ... and I woke up.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ir\isi{realis} \isi{mood} is frequently used in narratives which report factual truths. Foley (\citeyear[389]{Foley:2000uh}) points out that Papuan languages often employ the realis-irrealis distinction for pragmatic purposes. In Komnzo, the pragmatic use comes from the alternation between \isi{irrealis} and \isi{realis} inflections especially in event sequencing. In this pattern, the \isi{irrealis} is used for backgrounding. Example (\ref{ex377}) is taken from a hunting story that occured many years ago. The story is told from a first-person perspective, thus, there is no reason to question the factual truth of what is being told. The clauses in (\ref{ex377}) describe a sequence of events: fall asleep > be sleeping > wake up. Only the foregrounded clause (`sleep') is expressed in \isi{realis} (\isi{past} \isi{durative}), whereas the \isi{backgrounded} clauses (`fall asleep' and `wake up') are expressed in \isi{irrealis} (\isi{perfective}). In that sense, the \isi{irrealis} verb forms act as a backgrounding bracket around the foregrounded clause.\footnote{Note that example (\ref{ex668}) on page \pageref{ex668} employs the same bracket-like use of the irrealis inflected verb forms. The only difference is that in (\ref{ex668}), the foregrounded event is in the non-past, whereas in (\ref{ex377}) the foregrounded event is in past durative.}
+A: word: zf-r-n-m-th	 gloss: TSG.F.Betatwo-do.EXT-DU-DUR-STNSG
+B: word: k-ra-ms-e	 gloss: M.BET-IRR.VC.DU-sit.RS-FNSG
+C: word: k-rä-bth-∅	 gloss: M.BET-IRR.VC..NDU-finish.RS-STSG
+D: word: k-rä-mnzer-é	 gloss: M.BET-IRR.VC..NDU-fall.asleep.RS-FSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 96:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): k-rä-mnzer-é efoth etfth ___ e zizi ... k-rä-bnaf-é.
+Gloss (with missing item): M.BET-IRR.VC..NDU-fall.asleep.RS-FSG sun sleep ___ until afternoon ... M.BET-IRR.VC..NDU-wake.up.RS-FSG.
+The English translation of this sentence is:`I fell asleep (for) a daytime nap. I was sleeping until the late afternoon ... and I woke up.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ir\isi{realis} \isi{mood} is frequently used in narratives which report factual truths. Foley (\citeyear[389]{Foley:2000uh}) points out that Papuan languages often employ the realis-irrealis distinction for pragmatic purposes. In Komnzo, the pragmatic use comes from the alternation between \isi{irrealis} and \isi{realis} inflections especially in event sequencing. In this pattern, the \isi{irrealis} is used for backgrounding. Example (\ref{ex377}) is taken from a hunting story that occured many years ago. The story is told from a first-person perspective, thus, there is no reason to question the factual truth of what is being told. The clauses in (\ref{ex377}) describe a sequence of events: fall asleep > be sleeping > wake up. Only the foregrounded clause (`sleep') is expressed in \isi{realis} (\isi{past} \isi{durative}), whereas the \isi{backgrounded} clauses (`fall asleep' and `wake up') are expressed in \isi{irrealis} (\isi{perfective}). In that sense, the \isi{irrealis} verb forms act as a backgrounding bracket around the foregrounded clause.\footnote{Note that example (\ref{ex668}) on page \pageref{ex668} employs the same bracket-like use of the irrealis inflected verb forms. The only difference is that in (\ref{ex668}), the foregrounded event is in the non-past, whereas in (\ref{ex377}) the foregrounded event is in past durative.}
+A: word: sf-rug-rm	 gloss: TSG.M.Betatwo-sleep.EXT.NDU-DUR
+B: word: bi=karä=sü	 gloss: sago=PROP=ETC
+C: word: kayé	 gloss: yesterday
+D: word: kwof-rugr-m	 gloss: FSG.Betatwo-sleep.EXT.NDU-DUR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 97:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n-yan-a ttfö bä rä ... bäne ... sazäthi fä k-ra-ms-e sukufa ___ e-a-na-n-e boba k-ra-far-e ... zbär nzf-yan-m.
+Gloss (with missing item): FNSG.Alph-walk.EXT.DU-PST creek MED TSG.F.COP.NDU ... Recog.ABS ... sazäthi DIST M.BET-IRR.VC.DU-sit.RS-FNSG tobacco ___ STNSG.ALPH-VC.-eat.EXT-DU-FNSG MED.ABL M.ALPH-IRR.VC..DU-set.off.RS-FNSG ... night FNSG.Betatwo-walk.EXT.DU-DUR.
+The English translation of this sentence is:`We walked. There is a creek there (called) Sazäthi. We sat down there, rolled the cigarettes and smoked. We set off from there. We were walking in the night.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ir\isi{realis} \isi{mood} is frequently used in narratives which report factual truths. Foley (\citeyear[389]{Foley:2000uh}) points out that Papuan languages often employ the realis-irrealis distinction for pragmatic purposes. In Komnzo, the pragmatic use comes from the alternation between \isi{irrealis} and \isi{realis} inflections especially in event sequencing. In this pattern, the \isi{irrealis} is used for backgrounding. Example (\ref{ex377}) is taken from a hunting story that occured many years ago. The story is told from a first-person perspective, thus, there is no reason to question the factual truth of what is being told. The clauses in (\ref{ex377}) describe a sequence of events: fall asleep > be sleeping > wake up. Only the foregrounded clause (`sleep') is expressed in \isi{realis} (\isi{past} \isi{durative}), whereas the \isi{backgrounded} clauses (`fall asleep' and `wake up') are expressed in \isi{irrealis} (\isi{perfective}). In that sense, the \isi{irrealis} verb forms act as a backgrounding bracket around the foregrounded clause.\footnote{Note that example (\ref{ex668}) on page \pageref{ex668} employs the same bracket-like use of the irrealis inflected verb forms. The only difference is that in (\ref{ex668}), the foregrounded event is in the non-past, whereas in (\ref{ex377}) the foregrounded event is in past durative.}
+A: word: m=gn-a-n-yak-é	 gloss: Appr=SSG.BET-VC.-VENIT-walk.EXT.NDU-IMP
+B: word: e-nak-w-r-e	 gloss: STNSG.Alph-put.down.EXT-NDU-LK-FNSG
+C: word: w-mäg-n-e	 gloss: TSG.F.ALPH-lead.EXT-DU-FNSG
+D: word: e-kn-n-e	 gloss: STNSG.Alph-roll.EXT-DU-FNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 98:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n-yan-a ttfö bä rä ... bäne ... sazäthi fä k-ra-ms-e sukufa e-kn-n-e ___ boba k-ra-far-e ... zbär nzf-yan-m.
+Gloss (with missing item): FNSG.Alph-walk.EXT.DU-PST creek MED TSG.F.COP.NDU ... Recog.ABS ... sazäthi DIST M.BET-IRR.VC.DU-sit.RS-FNSG tobacco STNSG.Alph-roll.EXT-DU-FNSG ___ MED.ABL M.ALPH-IRR.VC..DU-set.off.RS-FNSG ... night FNSG.Betatwo-walk.EXT.DU-DUR.
+The English translation of this sentence is:`We walked. There is a creek there (called) Sazäthi. We sat down there, rolled the cigarettes and smoked. We set off from there. We were walking in the night.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ir\isi{realis} \isi{mood} is frequently used in narratives which report factual truths. Foley (\citeyear[389]{Foley:2000uh}) points out that Papuan languages often employ the realis-irrealis distinction for pragmatic purposes. In Komnzo, the pragmatic use comes from the alternation between \isi{irrealis} and \isi{realis} inflections especially in event sequencing. In this pattern, the \isi{irrealis} is used for backgrounding. Example (\ref{ex377}) is taken from a hunting story that occured many years ago. The story is told from a first-person perspective, thus, there is no reason to question the factual truth of what is being told. The clauses in (\ref{ex377}) describe a sequence of events: fall asleep > be sleeping > wake up. Only the foregrounded clause (`sleep') is expressed in \isi{realis} (\isi{past} \isi{durative}), whereas the \isi{backgrounded} clauses (`fall asleep' and `wake up') are expressed in \isi{irrealis} (\isi{perfective}). In that sense, the \isi{irrealis} verb forms act as a backgrounding bracket around the foregrounded clause.\footnote{Note that example (\ref{ex668}) on page \pageref{ex668} employs the same bracket-like use of the irrealis inflected verb forms. The only difference is that in (\ref{ex668}), the foregrounded event is in the non-past, whereas in (\ref{ex377}) the foregrounded event is in past durative.}
+A: word: th-ä-rifth-m-∅	 gloss: STNSG.BET-NDU-send.RS-DUR-SSG.IMP
+B: word: e-a-na-n-e	 gloss: STNSG.ALPH-VC.-eat.EXT-DU-FNSG
+C: word: ŋ-a-na-f-r-∅	 gloss: M-VC.-speak.RS-NDU-LK-STSG
+D: word: e-kn-n-e	 gloss: STNSG.Alph-roll.EXT-DU-FNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 99:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n-yan-a ttfö bä rä ... bäne ... sazäthi fä k-ra-ms-e sukufa ___ e-a-na-n-e boba k-ra-far-e ... zbär nzf-yan-m.
+Gloss (with missing item): FNSG.Alph-walk.EXT.DU-PST creek MED TSG.F.COP.NDU ... Recog.ABS ... sazäthi DIST M.BET-IRR.VC.DU-sit.RS-FNSG tobacco ___ STNSG.ALPH-VC.-eat.EXT-DU-FNSG MED.ABL M.ALPH-IRR.VC..DU-set.off.RS-FNSG ... night FNSG.Betatwo-walk.EXT.DU-DUR.
+The English translation of this sentence is:`We walked. There is a creek there (called) Sazäthi. We sat down there, rolled the cigarettes and smoked. We set off from there. We were walking in the night.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ir\isi{realis} \isi{mood} is frequently used in narratives which report factual truths. Foley (\citeyear[389]{Foley:2000uh}) points out that Papuan languages often employ the realis-irrealis distinction for pragmatic purposes. In Komnzo, the pragmatic use comes from the alternation between \isi{irrealis} and \isi{realis} inflections especially in event sequencing. In this pattern, the \isi{irrealis} is used for backgrounding. Example (\ref{ex377}) is taken from a hunting story that occured many years ago. The story is told from a first-person perspective, thus, there is no reason to question the factual truth of what is being told. The clauses in (\ref{ex377}) describe a sequence of events: fall asleep > be sleeping > wake up. Only the foregrounded clause (`sleep') is expressed in \isi{realis} (\isi{past} \isi{durative}), whereas the \isi{backgrounded} clauses (`fall asleep' and `wake up') are expressed in \isi{irrealis} (\isi{perfective}). In that sense, the \isi{irrealis} verb forms act as a backgrounding bracket around the foregrounded clause.\footnote{Note that example (\ref{ex668}) on page \pageref{ex668} employs the same bracket-like use of the irrealis inflected verb forms. The only difference is that in (\ref{ex668}), the foregrounded event is in the non-past, whereas in (\ref{ex377}) the foregrounded event is in past durative.}
+A: word: e-kn-n-e	 gloss: STNSG.Alph-roll.EXT-DU-FNSG
+B: word: e-nak-w-r-e	 gloss: STNSG.Alph-put.down.EXT-NDU-LK-FNSG
+C: word: ŋatha=nm	 gloss: dog=DAT.NSG
+D: word: w-mäg-n-e	 gloss: TSG.F.ALPH-lead.EXT-DU-FNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 100:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n-yan-a ttfö bä rä ... bäne ... sazäthi fä k-ra-ms-e sukufa e-kn-n-e ___ boba k-ra-far-e ... zbär nzf-yan-m.
+Gloss (with missing item): FNSG.Alph-walk.EXT.DU-PST creek MED TSG.F.COP.NDU ... Recog.ABS ... sazäthi DIST M.BET-IRR.VC.DU-sit.RS-FNSG tobacco STNSG.Alph-roll.EXT-DU-FNSG ___ MED.ABL M.ALPH-IRR.VC..DU-set.off.RS-FNSG ... night FNSG.Betatwo-walk.EXT.DU-DUR.
+The English translation of this sentence is:`We walked. There is a creek there (called) Sazäthi. We sat down there, rolled the cigarettes and smoked. We set off from there. We were walking in the night.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ir\isi{realis} \isi{mood} is frequently used in narratives which report factual truths. Foley (\citeyear[389]{Foley:2000uh}) points out that Papuan languages often employ the realis-irrealis distinction for pragmatic purposes. In Komnzo, the pragmatic use comes from the alternation between \isi{irrealis} and \isi{realis} inflections especially in event sequencing. In this pattern, the \isi{irrealis} is used for backgrounding. Example (\ref{ex377}) is taken from a hunting story that occured many years ago. The story is told from a first-person perspective, thus, there is no reason to question the factual truth of what is being told. The clauses in (\ref{ex377}) describe a sequence of events: fall asleep > be sleeping > wake up. Only the foregrounded clause (`sleep') is expressed in \isi{realis} (\isi{past} \isi{durative}), whereas the \isi{backgrounded} clauses (`fall asleep' and `wake up') are expressed in \isi{irrealis} (\isi{perfective}). In that sense, the \isi{irrealis} verb forms act as a backgrounding bracket around the foregrounded clause.\footnote{Note that example (\ref{ex668}) on page \pageref{ex668} employs the same bracket-like use of the irrealis inflected verb forms. The only difference is that in (\ref{ex668}), the foregrounded event is in the non-past, whereas in (\ref{ex377}) the foregrounded event is in past durative.}
+A: word: e-a-na-n-e	 gloss: STNSG.ALPH-VC.-eat.EXT-DU-FNSG
+B: word: ŋ-a-na-f-r-∅	 gloss: M-VC.-speak.RS-NDU-LK-STSG
+C: word: e-kn-n-e	 gloss: STNSG.Alph-roll.EXT-DU-FNSG
+D: word: s-a-kwr-∅	 gloss: TSG.MASC.ALPH-NDU-hit.RS-SSG.IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 101:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ efoth etfth kwof-rugr-m e zizi ... k-rä-bnaf-é.
+Gloss (with missing item): ___ sun sleep FSG.Betatwo-sleep.EXT.NDU-DUR until afternoon ... M.BET-IRR.VC..NDU-wake.up.RS-FSG.
+The English translation of this sentence is:`I fell asleep (for) a daytime nap. I was sleeping until the late afternoon ... and I woke up.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ir\isi{realis} \isi{mood} is frequently used in narratives which report factual truths. Foley (\citeyear[389]{Foley:2000uh}) points out that Papuan languages often employ the realis-irrealis distinction for pragmatic purposes. In Komnzo, the pragmatic use comes from the alternation between \isi{irrealis} and \isi{realis} inflections especially in event sequencing. In this pattern, the \isi{irrealis} is used for backgrounding. Example (\ref{ex377}) is taken from a hunting story that occured many years ago. The story is told from a first-person perspective, thus, there is no reason to question the factual truth of what is being told. The clauses in (\ref{ex377}) describe a sequence of events: fall asleep > be sleeping > wake up. Only the foregrounded clause (`sleep') is expressed in \isi{realis} (\isi{past} \isi{durative}), whereas the \isi{backgrounded} clauses (`fall asleep' and `wake up') are expressed in \isi{irrealis} (\isi{perfective}). In that sense, the \isi{irrealis} verb forms act as a backgrounding bracket around the foregrounded clause.\footnote{Note that example (\ref{ex668}) on page \pageref{ex668} employs the same bracket-like use of the irrealis inflected verb forms. The only difference is that in (\ref{ex668}), the foregrounded event is in the non-past, whereas in (\ref{ex377}) the foregrounded event is in past durative.}
+A: word: k-rä-mnzer-é	 gloss: M.BET-IRR.VC..NDU-fall.asleep.RS-FSG
+B: word: zu-∅-kor-a-th	 gloss: FSG.GAM-DU-speak.RS-PST-STNSG
+C: word: k-ra-ms-e	 gloss: M.BET-IRR.VC.DU-sit.RS-FNSG
+D: word: k-rä-bth-∅	 gloss: M.BET-IRR.VC..NDU-finish.RS-STSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 102:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): k-rä-mnzer-é efoth etfth ___ e zizi ... k-rä-bnaf-é.
+Gloss (with missing item): M.BET-IRR.VC..NDU-fall.asleep.RS-FSG sun sleep ___ until afternoon ... M.BET-IRR.VC..NDU-wake.up.RS-FSG.
+The English translation of this sentence is:`I fell asleep (for) a daytime nap. I was sleeping until the late afternoon ... and I woke up.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Ir\isi{realis} \isi{mood} is frequently used in narratives which report factual truths. Foley (\citeyear[389]{Foley:2000uh}) points out that Papuan languages often employ the realis-irrealis distinction for pragmatic purposes. In Komnzo, the pragmatic use comes from the alternation between \isi{irrealis} and \isi{realis} inflections especially in event sequencing. In this pattern, the \isi{irrealis} is used for backgrounding. Example (\ref{ex377}) is taken from a hunting story that occured many years ago. The story is told from a first-person perspective, thus, there is no reason to question the factual truth of what is being told. The clauses in (\ref{ex377}) describe a sequence of events: fall asleep > be sleeping > wake up. Only the foregrounded clause (`sleep') is expressed in \isi{realis} (\isi{past} \isi{durative}), whereas the \isi{backgrounded} clauses (`fall asleep' and `wake up') are expressed in \isi{irrealis} (\isi{perfective}). In that sense, the \isi{irrealis} verb forms act as a backgrounding bracket around the foregrounded clause.\footnote{Note that example (\ref{ex668}) on page \pageref{ex668} employs the same bracket-like use of the irrealis inflected verb forms. The only difference is that in (\ref{ex668}), the foregrounded event is in the non-past, whereas in (\ref{ex377}) the foregrounded event is in past durative.}
+A: word: s-ra-na-thr-m-th	 gloss: TSG.MASC.BET-IRR-eat.EXT-NDU-DUR-STNSG
+B: word: kwof-rugr-m	 gloss: FSG.Betatwo-sleep.EXT.NDU-DUR
+C: word: su-a-trik-wr-m-∅	 gloss: TSG.MASC.BETaone-VC.-tell.EXT-NDU-DUR-STSG
+D: word: sf-rug-rm	 gloss: TSG.M.Betatwo-sleep.EXT.NDU-DUR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+

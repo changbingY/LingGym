@@ -1,0 +1,585 @@
+Question 0:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): fi keke zä w\stem{rugr} ___ gwth=en.
+Gloss (with missing item): Third.ABS NEG PROX TSG.F:SBJ:NONPAST:IPFV/sleep ___ nest=LOC.
+The English translation of this sentence is:`She does not sleep in this nest here.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \textsc{determiner} slot can be filled with demonstratives (\ref{ex512}), interrogatives (\ref{ex513}), \isi{possessive} pronouns (\ref{ex514}) and whole \isi{noun phrase}s inflected for one of the adnominal cases. These include the \isi{possessive} (\ref{ex515}), \isi{temporal} \isi{possessive} (\ref{ex516}) and \isi{characteristic} \isi{case} (\ref{ex517}). In the following examples, \isi{noun phrase}s are marked by square brackets.
+A: word: zane=me	 gloss: DEM:PROX=INS
+B: word: tabuthui	 gloss: five
+C: word: safs=ma	 gloss: safs=CHAR
+D: word: zane	 gloss: DEM:PROX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 1:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ trik-si fobo fof zwa\stem{ythk}.
+Gloss (with missing item): ___ tell-NMLZ DIST.All EMPH TSG.F:SBJ:Rpst:IPFV/come.to.end.
+The English translation of this sentence is:`My story has come to an end there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \textsc{determiner} slot can be filled with demonstratives (\ref{ex512}), interrogatives (\ref{ex513}), \isi{possessive} pronouns (\ref{ex514}) and whole \isi{noun phrase}s inflected for one of the adnominal cases. These include the \isi{possessive} (\ref{ex515}), \isi{temporal} \isi{possessive} (\ref{ex516}) and \isi{characteristic} \isi{case} (\ref{ex517}). In the following examples, \isi{noun phrase}s are marked by square brackets.
+A: word: nzone=wä	 gloss: FSG.POSS=EMPH
+B: word: nafa-ŋafe	 gloss: Third.POSS-father
+C: word: nzone	 gloss: FSG.POSS
+D: word: nzun-gath	 gloss: FSG.POSS-friend
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 2:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wth fobo fof thä\stem{mir}a ... ___ kabe=ane wth.
+Gloss (with missing item): intestines DIST.All EMPH STSG:SBJ>STPL:OBJ:PST:PFV/hang ... ___ man=POSS intestines.
+The English translation of this sentence is:`She hung the intestines there ... that man's intestines.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \textsc{determiner} slot can be filled with demonstratives (\ref{ex512}), interrogatives (\ref{ex513}), \isi{possessive} pronouns (\ref{ex514}) and whole \isi{noun phrase}s inflected for one of the adnominal cases. These include the \isi{possessive} (\ref{ex515}), \isi{temporal} \isi{possessive} (\ref{ex516}) and \isi{characteristic} \isi{case} (\ref{ex517}). In the following examples, \isi{noun phrase}s are marked by square brackets.
+A: word: ane=me	 gloss: DEM=INS
+B: word: baf	 gloss: Recog.ERG.SG
+C: word: ŋare=ane	 gloss: woman=POSS.SG
+D: word: ane	 gloss: DEM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 3:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ karo \stem{rä}.
+Gloss (with missing item): ___ ground.oven TSG.F:SBJ:NONPAST:IPFV/be.
+The English translation of this sentence is:`It is yesterday's oven.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \textsc{determiner} slot can be filled with demonstratives (\ref{ex512}), interrogatives (\ref{ex513}), \isi{possessive} pronouns (\ref{ex514}) and whole \isi{noun phrase}s inflected for one of the adnominal cases. These include the \isi{possessive} (\ref{ex515}), \isi{temporal} \isi{possessive} (\ref{ex516}) and \isi{characteristic} \isi{case} (\ref{ex517}). In the following examples, \isi{noun phrase}s are marked by square brackets.
+A: word: kayé=thamane	 gloss: yesterday=TEMP.POSS
+B: word: kayé=thamar	 gloss: tomorrow=TEMP.PURP
+C: word: zena=thamane	 gloss: today=TEMP.POSS
+D: word: katan=f	 gloss: small=ERG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 4:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ kabe ... foba ... zena mifne=n z=ä\stem{m}nzr.
+Gloss (with missing item): ___ man ... DIST.ABL ... now mifne=LOC PROX=STPL:SBJ:NONPAST:IPFV/dwell.
+The English translation of this sentence is:`The Bagu people ... from over there ... live here in Mifne (or: Mibini) today.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \textsc{determiner} slot can be filled with demonstratives (\ref{ex512}), interrogatives (\ref{ex513}), \isi{possessive} pronouns (\ref{ex514}) and whole \isi{noun phrase}s inflected for one of the adnominal cases. These include the \isi{possessive} (\ref{ex515}), \isi{temporal} \isi{possessive} (\ref{ex516}) and \isi{characteristic} \isi{case} (\ref{ex517}). In the following examples, \isi{noun phrase}s are marked by square brackets.
+A: word: ruga	 gloss: pig
+B: word: sagu-sagu=ma	 gloss: REDUP-yam.type=CHAR
+C: word: bagu=ma	 gloss: bagu=CHAR
+D: word: bagi	 gloss: bagi
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 5:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ kar=ma kabe mane ya\stem{na}tha ... mogarkam=ma.
+Gloss (with missing item): ___ village=CHAR man which STSG:SBJ>TSG.MASC:OBJ:PST:IPFV/eat ... mogarkam=CHAR.
+The English translation of this sentence is:`It was a man from another village who she ate ... from Mogarkam.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These different fillers cannot co-occur. Consider example (\ref{ex518}), which is taken from a nzürna trikasi, a local equivalent to European witch stories. The example contains the complex \isi{noun phrase} the morpheme ___ karma kabe, in which the \isi{indefinite} the morpheme ___ `some, another' and kar=ma `from the village' are both candidates for the \textsc{determiner} slot. However, the \isi{indefinite} does not refer to kabe `man', but to kar `village'. In other words, the \isi{indefinite} fills the \textsc{determiner} slot of the embedded \isi{noun phrase}, and the embedded \isi{noun phrase} fills the \textsc{determiner} slot of the matrix \isi{noun phrase}. This is shown with square brackets in the example. Note that (\ref{ex515}) shows the same structure.
+A: word: safak	 gloss: saratoga
+B: word: nä	 gloss: INDF
+C: word: näbi-kak=me	 gloss: one-DISTR=INS
+D: word: yfö	 gloss: hole
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 6:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nä kar=ma ___ mane ya\stem{na}tha ... mogarkam=ma.
+Gloss (with missing item): INDF village=CHAR ___ which STSG:SBJ>TSG.MASC:OBJ:PST:IPFV/eat ... mogarkam=CHAR.
+The English translation of this sentence is:`It was a man from another village who she ate ... from Mogarkam.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These different fillers cannot co-occur. Consider example (\ref{ex518}), which is taken from a nzürna trikasi, a local equivalent to European witch stories. The example contains the complex \isi{noun phrase} nä karma the morpheme ___, in which the \isi{indefinite} nä `some, another' and kar=ma `from the village' are both candidates for the \textsc{determiner} slot. However, the \isi{indefinite} does not refer to the morpheme ___ `its gloss ___', but to kar `village'. In other words, the \isi{indefinite} fills the \textsc{determiner} slot of the embedded \isi{noun phrase}, and the embedded \isi{noun phrase} fills the \textsc{determiner} slot of the matrix \isi{noun phrase}. This is shown with square brackets in the example. Note that (\ref{ex515}) shows the same structure.
+A: word: tüfr	 gloss: plenty
+B: word: oroman	 gloss: old.man
+C: word: kabe=é	 gloss: people=ERG.NSG
+D: word: kabe	 gloss: man
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 7:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wth fobo fof thä\stem{mir}a ... ___ kabe=ane wth.
+Gloss (with missing item): intestines DIST.All EMPH STSG:SBJ>STPL:OBJ:PST:PFV/hang ... ___ man=POSS intestines.
+The English translation of this sentence is:`She hung the intestines there ... that man's intestines.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These different fillers cannot co-occur. Consider example (\ref{ex518}), which is taken from a nzürna trikasi, a local equivalent to European witch stories. The example contains the complex \isi{noun phrase} nä karma kabe, in which the \isi{indefinite} nä `some, another' and kar=ma `from the village' are both candidates for the \textsc{determiner} slot. However, the \isi{indefinite} does not refer to kabe `man', but to kar `village'. In other words, the \isi{indefinite} fills the \textsc{determiner} slot of the embedded \isi{noun phrase}, and the embedded \isi{noun phrase} fills the \textsc{determiner} slot of the matrix \isi{noun phrase}. This is shown with square brackets in the example. Note that (\ref{ex515}) shows the same structure.
+A: word: ŋare=ane	 gloss: woman=POSS.SG
+B: word: kabe	 gloss: man
+C: word: ane=me	 gloss: DEM=INS
+D: word: ane	 gloss: DEM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 8:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ yam nä fefe thwa\stem{fiyok}wrm ... fi fath=fa ane fof wä\stem{fiyok}wa.
+Gloss (with missing item): ___ event INDF really SG:SBJ>STPL:OBJ:PST:DUR/make ... but clear.place=ABL DEM EMPH SG:SBJ>TSG.F:OBJ:PST:IPFV/make.
+The English translation of this sentence is:`She really did many other things ... but she did this in public.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{determiner} can appear in postposed position, which I analyse as non-prototypical order. The rest of this section describes this postposed position of the \isi{determiner}. Example (\ref{ex524}) is taken from the same story as the previous example. The \isi{noun phrase} the morpheme ___ yam nä `many other things' contains the \isi{quantifier} the morpheme ___ in the \textsc{premodifier} slot, the noun yam `event' in the \textsc{head} slot, and the \isi{indefinite} nä in postposed position. This \isi{noun phrase} can be arranged in different orders, for example: nä the morpheme ___ yam, nä yam the morpheme ___. However, the \textsc{determiner} and \textsc{premodifier} slots cannot be exchanged. This order of elements, for example the morpheme ___ nä yam, would be split into two co-referential \isi{noun phrase}s, which is signalled by a break in the intonation contour and case marking on both \isi{noun phrase}s. Case markers would attach to the morpheme ___ as well as nä yam.
+A: word: tüfr-kak	 gloss: plenty-DISTR
+B: word: tüfr	 gloss: plenty
+C: word: nafa-ŋame=é	 gloss: Third.POSS-mother=ERG.NSG
+D: word: katan=f	 gloss: small=ERG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 9:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ kar=ma kabe mane ya\stem{na}tha ... mogarkam=ma.
+Gloss (with missing item): ___ village=CHAR man which STSG:SBJ>TSG.MASC:OBJ:PST:IPFV/eat ... mogarkam=CHAR.
+The English translation of this sentence is:`It was a man from another village who she ate ... from Mogarkam.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: We saw in (\ref{ex518}) that the \isi{determiner} belongs to the \isi{head} of the embedded \isi{noun phrase} and not to the \isi{head} of the matrix \isi{noun phrase}. In such cases, the embedded \isi{noun phrase} `blocks' the \textsc{determiner} slot, and postposing a \isi{determiner} is the only option for it to refer to the \isi{head} of the matrix \isi{noun phrase}. This is shown in (\ref{ex519}), where the postposed \isi{indefinite} the morpheme ___ refers to the \isi{head} of the matrix \isi{noun phrase}. The embedded \isi{noun phrase} safsma is marked with the \isi{characteristic} \isi{case} in adnominal function. It specifies the \isi{head} of the matrix \isi{noun phrase}: safsma kabe `man from Safs'. Note that the same could be expressed by a \isi{nominal} compound safs kabe `Safs man'. The semantic difference between an embedded \isi{noun phrase} marked with the \isi{characteristic} \isi{case} and a \isi{nominal} compound lies in the reference of the \isi{determiner}: ane safs kabe `that Safs man' versus ane safsma kabe `man from that Safs' (i.e. not from some other place called Safs). It follows that the two elements in (\ref{ex519}) restrict the reference of the \isi{head} simultaneously: the embedded \isi{noun phrase} safma and the postposed \isi{determiner} the morpheme ___. A postposed \isi{determiner} usually occurs only if the \isi{noun phrase} is not flagged with a \isi{case} marker. But there are exceptions to this. See (\ref{ex523}) discussed below.
+A: word: tüfr	 gloss: plenty
+B: word: näbi-kak=me	 gloss: one-DISTR=INS
+C: word: nä	 gloss: INDF
+D: word: sokoro	 gloss: school
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 10:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nä kar=ma ___ mane ya\stem{na}tha ... mogarkam=ma.
+Gloss (with missing item): INDF village=CHAR ___ which STSG:SBJ>TSG.MASC:OBJ:PST:IPFV/eat ... mogarkam=CHAR.
+The English translation of this sentence is:`It was a man from another village who she ate ... from Mogarkam.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: We saw in (\ref{ex518}) that the \isi{determiner} belongs to the \isi{head} of the embedded \isi{noun phrase} and not to the \isi{head} of the matrix \isi{noun phrase}. In such cases, the embedded \isi{noun phrase} `blocks' the \textsc{determiner} slot, and postposing a \isi{determiner} is the only option for it to refer to the \isi{head} of the matrix \isi{noun phrase}. This is shown in (\ref{ex519}), where the postposed \isi{indefinite} nä refers to the \isi{head} of the matrix \isi{noun phrase}. The embedded \isi{noun phrase} safsma is marked with the \isi{characteristic} \isi{case} in adnominal function. It specifies the \isi{head} of the matrix \isi{noun phrase}: safsma the morpheme ___ `its gloss ___ from Safs'. Note that the same could be expressed by a \isi{nominal} compound safs the morpheme ___ `Safs its gloss ___'. The seits gloss ___tic difference between an embedded \isi{noun phrase} marked with the \isi{characteristic} \isi{case} and a \isi{nominal} compound lies in the reference of the \isi{determiner}: ane safs the morpheme ___ `that Safs its gloss ___' versus ane safsma the morpheme ___ `its gloss ___ from that Safs' (i.e. not from some other place called Safs). It follows that the two elements in (\ref{ex519}) restrict the reference of the \isi{head} simultaneously: the embedded \isi{noun phrase} safma and the postposed \isi{determiner} nä. A postposed \isi{determiner} usually occurs only if the \isi{noun phrase} is not flagged with a \isi{case} marker. But there are exceptions to this. See (\ref{ex523}) discussed below.
+A: word: oroman	 gloss: old.man
+B: word: kabe=é	 gloss: people=ERG.NSG
+C: word: kabe	 gloss: man
+D: word: katan=f	 gloss: small=ERG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 11:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ woga nä fobo swa\stem{m}nzrm ... gfi yf.
+Gloss (with missing item): ___ man INDF DIST.All TSG.MASC:SBJ:NONPAST:IPFV/dwell ... gfi name.
+The English translation of this sentence is:`Another man from Safs lived there ... by the name of Gfi.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: We saw in (\ref{ex518}) that the \isi{determiner} belongs to the \isi{head} of the embedded \isi{noun phrase} and not to the \isi{head} of the matrix \isi{noun phrase}. In such cases, the embedded \isi{noun phrase} `blocks' the \textsc{determiner} slot, and postposing a \isi{determiner} is the only option for it to refer to the \isi{head} of the matrix \isi{noun phrase}. This is shown in (\ref{ex519}), where the postposed \isi{indefinite} nä refers to the \isi{head} of the matrix \isi{noun phrase}. The embedded \isi{noun phrase} safsma is marked with the \isi{characteristic} \isi{case} in adnominal function. It specifies the \isi{head} of the matrix \isi{noun phrase}: safsma kabe `man from Safs'. Note that the same could be expressed by a \isi{nominal} compound safs kabe `Safs man'. The semantic difference between an embedded \isi{noun phrase} marked with the \isi{characteristic} \isi{case} and a \isi{nominal} compound lies in the reference of the \isi{determiner}: ane safs kabe `that Safs man' versus ane safsma kabe `man from that Safs' (i.e. not from some other place called Safs). It follows that the two elements in (\ref{ex519}) restrict the reference of the \isi{head} simultaneously: the embedded \isi{noun phrase} safma and the postposed \isi{determiner} nä. A postposed \isi{determiner} usually occurs only if the \isi{noun phrase} is not flagged with a \isi{case} marker. But there are exceptions to this. See (\ref{ex523}) discussed below.
+A: word: safs=ma	 gloss: safs=CHAR
+B: word: safs=en	 gloss: safs=LOC
+C: word: mgthk-si	 gloss: feed-NMLZ
+D: word: w-wtri	 gloss: REDUP-fear
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 12:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): safs=ma ___ nä fobo swa\stem{m}nzrm ... gfi yf.
+Gloss (with missing item): safs=CHAR ___ INDF DIST.All TSG.MASC:SBJ:NONPAST:IPFV/dwell ... gfi name.
+The English translation of this sentence is:`Another man from Safs lived there ... by the name of Gfi.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: We saw in (\ref{ex518}) that the \isi{determiner} belongs to the \isi{head} of the embedded \isi{noun phrase} and not to the \isi{head} of the matrix \isi{noun phrase}. In such cases, the embedded \isi{noun phrase} `blocks' the \textsc{determiner} slot, and postposing a \isi{determiner} is the only option for it to refer to the \isi{head} of the matrix \isi{noun phrase}. This is shown in (\ref{ex519}), where the postposed \isi{indefinite} nä refers to the \isi{head} of the matrix \isi{noun phrase}. The embedded \isi{noun phrase} safsma is marked with the \isi{characteristic} \isi{case} in adnominal function. It specifies the \isi{head} of the matrix \isi{noun phrase}: safsma kabe `its gloss ___ from Safs'. Note that the same could be expressed by a \isi{nominal} compound safs kabe `Safs its gloss ___'. The seits gloss ___tic difference between an embedded \isi{noun phrase} marked with the \isi{characteristic} \isi{case} and a \isi{nominal} compound lies in the reference of the \isi{determiner}: ane safs kabe `that Safs its gloss ___' versus ane safsma kabe `its gloss ___ from that Safs' (i.e. not from some other place called Safs). It follows that the two elements in (\ref{ex519}) restrict the reference of the \isi{head} simultaneously: the embedded \isi{noun phrase} safma and the postposed \isi{determiner} nä. A postposed \isi{determiner} usually occurs only if the \isi{noun phrase} is not flagged with a \isi{case} marker. But there are exceptions to this. See (\ref{ex523}) discussed below.
+A: word: oroman	 gloss: old.man
+B: word: woga	 gloss: man
+C: word: yfö	 gloss: hole
+D: word: yoganai	 gloss: tiredness
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 13:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ woga nä fobo swa\stem{m}nzrm ... gfi yf.
+Gloss (with missing item): ___ man INDF DIST.All TSG.MASC:SBJ:NONPAST:IPFV/dwell ... gfi name.
+The English translation of this sentence is:`Another man from Safs lived there ... by the name of Gfi.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: We saw in (\ref{ex518}) that the \isi{determiner} belongs to the \isi{head} of the embedded \isi{noun phrase} and not to the \isi{head} of the matrix \isi{noun phrase}. In such cases, the embedded \isi{noun phrase} `blocks' the \textsc{determiner} slot, and postposing a \isi{determiner} is the only option for it to refer to the \isi{head} of the matrix \isi{noun phrase}. This is shown in (\ref{ex519}), where the postposed \isi{indefinite} nä refers to the \isi{head} of the matrix \isi{noun phrase}. The embedded \isi{noun phrase} safsma is marked with the \isi{characteristic} \isi{case} in adnominal function. It specifies the \isi{head} of the matrix \isi{noun phrase}: safsma kabe `man from Safs'. Note that the same could be expressed by a \isi{nominal} compound safs kabe `Safs man'. The semantic difference between an embedded \isi{noun phrase} marked with the \isi{characteristic} \isi{case} and a \isi{nominal} compound lies in the reference of the \isi{determiner}: ane safs kabe `that Safs man' versus ane safsma kabe `man from that Safs' (i.e. not from some other place called Safs). It follows that the two elements in (\ref{ex519}) restrict the reference of the \isi{head} simultaneously: the embedded \isi{noun phrase} safma and the postposed \isi{determiner} nä. A postposed \isi{determiner} usually occurs only if the \isi{noun phrase} is not flagged with a \isi{case} marker. But there are exceptions to this. See (\ref{ex523}) discussed below.
+A: word: kayé=thamane	 gloss: yesterday=TEMP.POSS
+B: word: safs=en	 gloss: safs=LOC
+C: word: safs=ma	 gloss: safs=CHAR
+D: word: thzé	 gloss: ever
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 14:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): safs=ma ___ nä fobo swa\stem{m}nzrm ... gfi yf.
+Gloss (with missing item): safs=CHAR ___ INDF DIST.All TSG.MASC:SBJ:NONPAST:IPFV/dwell ... gfi name.
+The English translation of this sentence is:`Another man from Safs lived there ... by the name of Gfi.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: We saw in (\ref{ex518}) that the \isi{determiner} belongs to the \isi{head} of the embedded \isi{noun phrase} and not to the \isi{head} of the matrix \isi{noun phrase}. In such cases, the embedded \isi{noun phrase} `blocks' the \textsc{determiner} slot, and postposing a \isi{determiner} is the only option for it to refer to the \isi{head} of the matrix \isi{noun phrase}. This is shown in (\ref{ex519}), where the postposed \isi{indefinite} nä refers to the \isi{head} of the matrix \isi{noun phrase}. The embedded \isi{noun phrase} safsma is marked with the \isi{characteristic} \isi{case} in adnominal function. It specifies the \isi{head} of the matrix \isi{noun phrase}: safsma kabe `its gloss ___ from Safs'. Note that the same could be expressed by a \isi{nominal} compound safs kabe `Safs its gloss ___'. The seits gloss ___tic difference between an embedded \isi{noun phrase} marked with the \isi{characteristic} \isi{case} and a \isi{nominal} compound lies in the reference of the \isi{determiner}: ane safs kabe `that Safs its gloss ___' versus ane safsma kabe `its gloss ___ from that Safs' (i.e. not from some other place called Safs). It follows that the two elements in (\ref{ex519}) restrict the reference of the \isi{head} simultaneously: the embedded \isi{noun phrase} safma and the postposed \isi{determiner} nä. A postposed \isi{determiner} usually occurs only if the \isi{noun phrase} is not flagged with a \isi{case} marker. But there are exceptions to this. See (\ref{ex523}) discussed below.
+A: word: woga	 gloss: man
+B: word: yoganai	 gloss: tiredness
+C: word: nzone	 gloss: FSG.POSS
+D: word: oroman	 gloss: old.man
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 15:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wati ___ ane fof ezi ŋatha thä\stem{s}a thgathg=en.
+Gloss (with missing item): then ___ DEM EMPH morning dog STSG:SBJ>TSG.MASC:OBJ:PST:PFV/call burned.place=LOC.
+The English translation of this sentence is:`Well, that Gwam called the dogs to the burned place in the morning.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: We saw in (\ref{ex518}) that the \isi{determiner} belongs to the \isi{head} of the embedded \isi{noun phrase} and not to the \isi{head} of the matrix \isi{noun phrase}. In such cases, the embedded \isi{noun phrase} `blocks' the \textsc{determiner} slot, and postposing a \isi{determiner} is the only option for it to refer to the \isi{head} of the matrix \isi{noun phrase}. This is shown in (\ref{ex519}), where the postposed \isi{indefinite} nä refers to the \isi{head} of the matrix \isi{noun phrase}. The embedded \isi{noun phrase} safsma is marked with the \isi{characteristic} \isi{case} in adnominal function. It specifies the \isi{head} of the matrix \isi{noun phrase}: safsma kabe `man from Safs'. Note that the same could be expressed by a \isi{nominal} compound safs kabe `Safs man'. The semantic difference between an embedded \isi{noun phrase} marked with the \isi{characteristic} \isi{case} and a \isi{nominal} compound lies in the reference of the \isi{determiner}: ane safs kabe `that Safs man' versus ane safsma kabe `man from that Safs' (i.e. not from some other place called Safs). It follows that the two elements in (\ref{ex519}) restrict the reference of the \isi{head} simultaneously: the embedded \isi{noun phrase} safma and the postposed \isi{determiner} nä. A postposed \isi{determiner} usually occurs only if the \isi{noun phrase} is not flagged with a \isi{case} marker. But there are exceptions to this. See (\ref{ex523}) discussed below.
+A: word: nzram=ma	 gloss: flower=CHAR
+B: word: nzenme	 gloss: FNSG.POSS
+C: word: kabe=f	 gloss: man=ERG.SG
+D: word: gwam=f	 gloss: gwam=ERG.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 16:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ mayawa=ma kabe nä fä thägathizath.
+Gloss (with missing item): ___ mayawa=CHAR man INDF DIST STPL:SBJ>STPL:OBJ:PST:IPFV/leave.
+The English translation of this sentence is:`They left some of our Mayawa people there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Although very rare, both \textsc{determiner} slots \textendash{} that of the embedded \isi{noun phrase} and that of the matrix \isi{noun phrase} \textendash{} can be filled. In (\ref{ex553}), the first \isi{non-singular} \isi{possessive} the morpheme ___ refers to mayawa, the \isi{head} of the embedded \isi{noun phrase}, and the \isi{indefinite} \isi{determiner} nä refers to kabe, the \isi{head} of the matrix \isi{noun phrase}.
+A: word: nzone	 gloss: FSG.POSS
+B: word: kayé=thamane	 gloss: yesterday=TEMP.POSS
+C: word: nzenme	 gloss: FNSG.POSS
+D: word: nzenme=ma	 gloss: FNSG.POSS=CHAR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 17:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nzenme mayawa=ma ___ nä fä thägathizath.
+Gloss (with missing item): FNSG.POSS mayawa=CHAR ___ INDF DIST STPL:SBJ>STPL:OBJ:PST:IPFV/leave.
+The English translation of this sentence is:`They left some of our Mayawa people there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Although very rare, both \textsc{determiner} slots \textendash{} that of the embedded \isi{noun phrase} and that of the matrix \isi{noun phrase} \textendash{} can be filled. In (\ref{ex553}), the first \isi{non-singular} \isi{possessive} nzenme refers to mayawa, the \isi{head} of the embedded \isi{noun phrase}, and the \isi{indefinite} \isi{determiner} nä refers to the morpheme ___, the \isi{head} of the matrix \isi{noun phrase}.
+A: word: oroman	 gloss: old.man
+B: word: kabe	 gloss: man
+C: word: kabe=é	 gloss: people=ERG.NSG
+D: word: safs=ma	 gloss: safs=CHAR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 18:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nä yawi \stem{yé}.
+Gloss (with missing item): ___ INDF round.object TSG.MASC:SBJ:NONPAST:IPFV/be.
+The English translation of this sentence is:`This is another fruit.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It follows from the discussion above that two determiners must belong to different \isi{noun phrase}s if they occur next to each other, like the morpheme ___ and nä in example (\ref{ex521}). In this example, I analyse the morpheme ___ as a \isi{noun phrase} with an omitted \isi{head}.
+A: word: zane	 gloss: DEM:PROX
+B: word: kr-si	 gloss: block-NMLZ
+C: word: safs=ma	 gloss: safs=CHAR
+D: word: zane=me	 gloss: DEM:PROX=INS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 19:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zane ___ yawi \stem{yé}.
+Gloss (with missing item): DEM:PROX ___ round.object TSG.MASC:SBJ:NONPAST:IPFV/be.
+The English translation of this sentence is:`This is another fruit.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It follows from the discussion above that two determiners must belong to different \isi{noun phrase}s if they occur next to each other, like zane and the morpheme ___ in example (\ref{ex521}). In this example, I analyse zane as a \isi{noun phrase} with an omitted \isi{head}.
+A: word: mane=ma	 gloss: which=CHAR
+B: word: nzone	 gloss: FSG.POSS
+C: word: näbi-kak=me	 gloss: one-DISTR=INS
+D: word: nä	 gloss: INDF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 20:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): no=f ___ nima thä\stem{kothm}ako.
+Gloss (with missing item): water=ERG ___ like.this SG:SBJ>STPL:OBJ:PST:PFV:ANDAT/chase.
+The English translation of this sentence is:`The flood chased away others like this.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The elements in the \textsc{determiner} slot cannot be inflected for the full range of cases. For example, demonstratives cannot be inflected for \isi{ergative}, dative, \isi{possessive} and the three spatial cases. In (\ref{ex522}), the \isi{indefinite} the morpheme ___ is interpreted as referring to the \isi{object} argument, rather than the \isi{ergative} marked argument.
+A: word: bagu=ma	 gloss: bagu=CHAR
+B: word: frk=nzo	 gloss: blood=ONLY
+C: word: nä	 gloss: INDF
+D: word: näbi-kak=me	 gloss: one-DISTR=INS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 21:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wati ___ ane fof ezi ŋatha thä\stem{s}a thgathg=en.
+Gloss (with missing item): then ___ DEM EMPH morning dog STSG:SBJ>TSG.MASC:OBJ:PST:PFV/call burned.place=LOC.
+The English translation of this sentence is:`Well, that Gwam called the dogs to the burned place in the morning.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: However, elicitation has shown that even this is possible, but such a structure is very rare. A textual example is shown in (\ref{ex523}), where ane refers to the preceding noun, which is flagged with an \isi{ergative}. Note that in this example, ane is followed by the \isi{emphatic} \isi{particle} fof, which has always scope over the preceding phrase ({\S}\ref{discourse-particles}). Thus, fof may `help' to mark the right edge of the \isi{noun phrase} gwamf ane. This is, however, not the main function of fof.
+A: word: gwam=f	 gloss: gwam=ERG.SG
+B: word: nzenme	 gloss: FNSG.POSS
+C: word: kabe=f	 gloss: man=ERG.SG
+D: word: nzram=ma	 gloss: flower=CHAR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 22:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): fi ___ ŋatha nä mane e\stem{rä}ra fi ane bä b=kwa\stem{ru}thrmth büdisn=en mnz zn=en.
+Gloss (with missing item): but ___ dog INDF which STPL:SBJ:PST:IPFV/be Third.ABS DEM MED MED=STPL:SBJ:PST:DUR/bark Pl=LOC house place=LOC.
+The English translation of this sentence is:`But, as for the other big dogs, they were barking there in Büdisn at the house.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Syntactic evidence for the possibility of postposing the \isi{determiner} comes from fronted relative clauses which are commonly used for topicalisation ({\S}\ref{info-cleft}). Fronted relative clauses of this type have the following structure: NP mane \textsc{copula}. They only allow a full \isi{noun phrase} before the relative \isi{pronoun} mane `which, who'. In (\ref{ex528}), the \isi{noun phrase} includes the postposed \isi{indefinite} \isi{determiner} nä following its \isi{head} ŋatha `dog'. The fronted \isi{relative clause} is marked by square brackets.
+A: word: kafar	 gloss: big
+B: word: kafar=nzo	 gloss: big=ONLY
+C: word: zane	 gloss: DEM:PROX
+D: word: k-kafar	 gloss: REDUP-big
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 23:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): fi=nzo fä fof ___ kafar emoth=f thwa\stem{thofik}nm.
+Gloss (with missing item): Third.ABS=ONLY DIST EMPH ___ big girl=ERG.SG SG:SBJ>STDU:OBJ:PST:DUR/disturb.
+The English translation of this sentence is:`Only they (were) there. That big girl was disturbing them.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The elements in the \textsc{modifier} slots are different from those in the \textsc{determiner} slot. They can all be inflected for \isi{case} if they happen to occur as the last element of the \isi{noun phrase}. This is shown in (\ref{ex525}) and (\ref{ex526}). In example (\ref{ex525}), the \isi{modifier} is an \isi{adjective} in the \textsc{premodifier} slot. In example (\ref{ex526}), the adjective follows the \isi{head} in the \textsc{postmodifier} slot, and consequently the \isi{adjective} receives the \isi{case} marker.
+A: word: ŋare=ane	 gloss: woman=POSS.SG
+B: word: ane	 gloss: DEM
+C: word: kayé=thamane	 gloss: yesterday=TEMP.POSS
+D: word: ane=me	 gloss: DEM=INS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 24:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): watik ___ katan=r kwa ya\stem{re}nzr.
+Gloss (with missing item): then ___ small=PURP FUT TSG.MASC:SBJ:NONPAST:IPFV/look.
+The English translation of this sentence is:`Then, he will look around for a small hole.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The elements in the \textsc{modifier} slots are different from those in the \textsc{determiner} slot. They can all be inflected for \isi{case} if they happen to occur as the last element of the \isi{noun phrase}. This is shown in (\ref{ex525}) and (\ref{ex526}). In example (\ref{ex525}), the \isi{modifier} is an \isi{adjective} in the \textsc{premodifier} slot. In example (\ref{ex526}), the adjective follows the \isi{head} in the \textsc{postmodifier} slot, and consequently the \isi{adjective} receives the \isi{case} marker.
+A: word: yfö=me	 gloss: hole=INS
+B: word: yfö	 gloss: hole
+C: word: ruga	 gloss: pig
+D: word: yfö=n	 gloss: hole=LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 25:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): fi=nzo fä fof ___ kafar emoth=f thwa\stem{thofik}nm.
+Gloss (with missing item): Third.ABS=ONLY DIST EMPH ___ big girl=ERG.SG SG:SBJ>STDU:OBJ:PST:DUR/disturb.
+The English translation of this sentence is:`Only they (were) there. That big girl was disturbing them.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The elements in the \textsc{modifier} slots are different from those in the \textsc{determiner} slot. They can all be inflected for \isi{case} if they happen to occur as the last element of the \isi{noun phrase}. This is shown in (\ref{ex525}) and (\ref{ex526}). In example (\ref{ex525}), the \isi{modifier} is an \isi{adjective} in the \textsc{premodifier} slot. In example (\ref{ex526}), the adjective follows the \isi{head} in the \textsc{postmodifier} slot, and consequently the \isi{adjective} receives the \isi{case} marker.
+A: word: ane	 gloss: DEM
+B: word: ane=me	 gloss: DEM=INS
+C: word: ŋare=ane	 gloss: woman=POSS.SG
+D: word: gwam=f	 gloss: gwam=ERG.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 26:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): watik ___ katan=r kwa ya\stem{re}nzr.
+Gloss (with missing item): then ___ small=PURP FUT TSG.MASC:SBJ:NONPAST:IPFV/look.
+The English translation of this sentence is:`Then, he will look around for a small hole.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The elements in the \textsc{modifier} slots are different from those in the \textsc{determiner} slot. They can all be inflected for \isi{case} if they happen to occur as the last element of the \isi{noun phrase}. This is shown in (\ref{ex525}) and (\ref{ex526}). In example (\ref{ex525}), the \isi{modifier} is an \isi{adjective} in the \textsc{premodifier} slot. In example (\ref{ex526}), the adjective follows the \isi{head} in the \textsc{postmodifier} slot, and consequently the \isi{adjective} receives the \isi{case} marker.
+A: word: yfö=me	 gloss: hole=INS
+B: word: yfö=n	 gloss: hole=LOC
+C: word: ane	 gloss: DEM
+D: word: yfö	 gloss: hole
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 27:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wati ... ___ kwark=f ... wäni=f kre\stem{karis}o.
+Gloss (with missing item): then ... ___ deceased=ERG.SG ... wäni=ERG.SG SG:SBJ:IRR:PFV:ANDAT/hear.
+The English translation of this sentence is:`Then, his late father, Wäni, heard (about it).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are some restrictions for specific elements, for example the locationals can only inflect for spatial cases. Furthermore, all locationals ({\S}\ref{locationals-sec}) and a few adjectives ({\S}\ref{adjectives-sec}) only occur in the \textsc{postmodifier} slot, not in the \textsc{premodifier} slot. One such adjective is kwark `late, deceased' in (\ref{ex527}). It occurs in the \textsc{postmodifier} slot, and therefore it is flagged with the \isi{ergative} \isi{case}. Note that the proper name Wäni is also inflected with the \isi{ergative} and forms a \isi{noun phrase} co-referential to nafaŋafe kwark `his late father'.
+A: word: nafa-ŋafe	 gloss: Third.POSS-father
+B: word: kayé=thamane	 gloss: yesterday=TEMP.POSS
+C: word: nafa-ŋafe=ane	 gloss: Third.POSS-father=POSS.SG
+D: word: nafa-ŋafe-ane	 gloss: Third.POSS-father=POSS.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 28:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wati ... ___ kwark=f ... wäni=f kre\stem{karis}o.
+Gloss (with missing item): then ... ___ deceased=ERG.SG ... wäni=ERG.SG SG:SBJ:IRR:PFV:ANDAT/hear.
+The English translation of this sentence is:`Then, his late father, Wäni, heard (about it).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The lack of textual examples which display all possible fillers at once is best explained by a strong tendency to distribute information over several co-referential \isi{noun phrase}s, either in the same clause or over a series of clauses. This can be seen in examples like (\ref{ex527}), (\ref{ex528}) or (\ref{ex529}). I will address this topic in the following section.
+A: word: baf	 gloss: Recog.ERG.SG
+B: word: nafa-ŋafe=ane	 gloss: Third.POSS-father=POSS.SG
+C: word: nafa-ŋafe	 gloss: Third.POSS-father
+D: word: nafa-ŋafe-ane	 gloss: Third.POSS-father=POSS.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 29:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): fi ___ ŋatha nä mane e\stem{rä}ra fi ane bä b=kwa\stem{ru}thrmth büdisn=en mnz zn=en.
+Gloss (with missing item): but ___ dog INDF which STPL:SBJ:PST:IPFV/be Third.ABS DEM MED MED=STPL:SBJ:PST:DUR/bark Pl=LOC house place=LOC.
+The English translation of this sentence is:`But, as for the other big dogs, they were barking there in Büdisn at the house.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The lack of textual examples which display all possible fillers at once is best explained by a strong tendency to distribute information over several co-referential \isi{noun phrase}s, either in the same clause or over a series of clauses. This can be seen in examples like (\ref{ex527}), (\ref{ex528}) or (\ref{ex529}). I will address this topic in the following section.
+A: word: kafar	 gloss: big
+B: word: kafar=nzo	 gloss: big=ONLY
+C: word: zane	 gloss: DEM:PROX
+D: word: k-kafar	 gloss: REDUP-big
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 30:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ eda=wä ka-katan ... fosam daisy fi za\stem{r}ath dd e\stem{thari}nath.
+Gloss (with missing item): ___ two=EMPH REDUP-small ... fosam daisy Third.ABS STDU:SBJ:PST:PFV/do worm STDU:SBJ>STPL:OBJ:PST:IPFV/dig.
+The English translation of this sentence is:`These two small (ones), Fosam and Daisy, they did that. They dug the worms.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{head} of a \isi{noun phrase} is often omitted. Consider example (\ref{ex535}), where a mother tells me that she had sent two small children to dig for worms. The example starts out with the \isi{noun phrase} the morpheme ___ edawä kakatan `these two small (ones)'. Ellipsis of the \isi{head} only occurs when the \isi{head} is recoverable from previous context, or if it is common ground between speaker and hearer.
+A: word: zane	 gloss: DEM:PROX
+B: word: zane=me	 gloss: DEM:PROX=INS
+C: word: kma	 gloss: Pot
+D: word: woga	 gloss: man
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 31:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zuzi the\stem{thkäf}ath mig-si ... ___ zba wazi ... nä boba wazi.
+Gloss (with missing item): fishing.line STPL:SBJ>STPL:OBJ:PST:PFV/start hang-NMLZ ... ___ PROX.ABL side ... INDF MED.ABL side.
+The English translation of this sentence is:`They started hanging the fishing lines ... some on this side and some on the other side.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example (\ref{ex536}) shows the \isi{indefinite} \isi{demonstrative} the morpheme ___ used twice without a \isi{head}. This is possible because the appropriate filler for the \textsc{head} slot zuzi `fishing line' was already mentioned.
+A: word: näbi-kak=me	 gloss: one-DISTR=INS
+B: word: baf	 gloss: Recog.ERG.SG
+C: word: nä	 gloss: INDF
+D: word: mnz=en	 gloss: house=LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 32:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zuzi the\stem{thkäf}ath mig-si ... nä zba wazi ... ___ boba wazi.
+Gloss (with missing item): fishing.line STPL:SBJ>STPL:OBJ:PST:PFV/start hang-NMLZ ... INDF PROX.ABL side ... ___ MED.ABL side.
+The English translation of this sentence is:`They started hanging the fishing lines ... some on this side and some on the other side.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example (\ref{ex536}) shows the \isi{indefinite} \isi{demonstrative} the morpheme ___ used twice without a \isi{head}. This is possible because the appropriate filler for the \textsc{head} slot zuzi `fishing line' was already mentioned.
+A: word: zane	 gloss: DEM:PROX
+B: word: nä	 gloss: INDF
+C: word: näbi-kak=me	 gloss: one-DISTR=INS
+D: word: mane=me	 gloss: which=INS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 33:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nafane nge ... wati kofä fthé brig-si=r n krä\stem{r} ... ___ kwa yn\stem{brig}wr zbo ... keke kwa krän\stem{mätr}.
+Gloss (with missing item): TSG.POSS child ... then fish when return-NMLZ=PURP IMN STSG:SBJ:IRR:PFV/do ... ___ FUT STSG:SBJ>TSG.MASC:OBJ:NONPAST:IPFV:VENIT/return PROX.All ... NEG FUT STSG:SBJ:IRR:PFV:VENIT/exit.
+The English translation of this sentence is:`Its child ... well, when the fish tries to return, the small (one) will bring it back here ... it will not get out.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example (\ref{ex537}) is a description of a fish trap. These long bamboo baskets always consist of a larger basket and a smaller basket which is placed inside the bigger one. In the example, the speaker refers to the smaller basket as nafane nge `its child' and later only with an adjective katan `small' which is flagged with an \isi{ergative} \isi{case} marker.
+A: word: yfö	 gloss: hole
+B: word: katan=r	 gloss: small=PURP
+C: word: katan=me	 gloss: small=INS
+D: word: katan=f	 gloss: small=ERG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 34:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ane ___ kar emoth thwa\stem{nor}m.
+Gloss (with missing item): DEM ___ place girl STPL:SBJ:PST:DUR/shout.
+The English translation of this sentence is:`These bush girls were shouting.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Compounds can be embedded within one another, which can lead to combinations of usually up to three elements. A rare example of a compound with four elements was coined by one of my informants to describe the botanist on our team: wämne taga yf kabe (lit. `tree leaf name man'). Embedded compounds are always left-branching, and thus we can represent long compounds in this way: [[[wämne taga]\textsubscript{3} yf]\textsubscript{2} kabe]\textsubscript{1}. Two corpus examples of longer compounds are given in (\ref{ex510}) and (\ref{ex511}).
+A: word: katan=f	 gloss: small=ERG
+B: word: ane	 gloss: DEM
+C: word: t-trika-si	 gloss: REDUP-tell-NMLZ
+D: word: ksi	 gloss: bush
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 35:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ fthé srä\stem{bth} nima ... kabe zan miyo=f.
+Gloss (with missing item): ___ when STSG:SBJ>TSG.MASC:OBJ:IRR:PFV/finish like.this ... man hitting desire=ERG.
+The English translation of this sentence is:`That is when it overcomes him ... that bloodlust for people.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Compounds can be embedded within one another, which can lead to combinations of usually up to three elements. A rare example of a compound with four elements was coined by one of my informants to describe the botanist on our team: wämne taga yf kabe (lit. `tree leaf name man'). Embedded compounds are always left-branching, and thus we can represent long compounds in this way: [[[wämne taga]\textsubscript{3} yf]\textsubscript{2} kabe]\textsubscript{1}. Two corpus examples of longer compounds are given in (\ref{ex510}) and (\ref{ex511}).
+A: word: baf	 gloss: Recog.ERG.SG
+B: word: bafane	 gloss: Recog.POSS.SG
+C: word: bi=karä=sü	 gloss: sago=PROP=ETC
+D: word: tüfr	 gloss: plenty
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 36:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): baf fthé srä\stem{bth} nima ... ___ zan miyo=f.
+Gloss (with missing item): Recog.ERG.SG when STSG:SBJ>TSG.MASC:OBJ:IRR:PFV/finish like.this ... ___ hitting desire=ERG.
+The English translation of this sentence is:`That is when it overcomes him ... that bloodlust for people.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Compounds can be embedded within one another, which can lead to combinations of usually up to three elements. A rare example of a compound with four elements was coined by one of my inforits gloss ___ts to describe the botanist on our team: wämne taga yf the morpheme ___ (lit. `tree leaf name its gloss ___'). Embedded compounds are always left-branching, and thus we can represent long compounds in this way: [[[wämne taga]\textsubscript{3} yf]\textsubscript{2} the morpheme ___]\textsubscript{1}. Two corpus examples of longer compounds are given in (\ref{ex510}) and (\ref{ex511}).
+A: word: nzenme	 gloss: FNSG.POSS
+B: word: oroman	 gloss: old.man
+C: word: kabe	 gloss: man
+D: word: kabe=é	 gloss: people=ERG.NSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 37:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ane ___ kar emoth thwa\stem{nor}m.
+Gloss (with missing item): DEM ___ place girl STPL:SBJ:PST:DUR/shout.
+The English translation of this sentence is:`These bush girls were shouting.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Complex heads are different from complex \isi{noun phrase}s, that is, compounds in the \textsc{head} slot are distinct from embedded \isi{noun phrase}s. The latter must be marked with adnominal \isi{case}. Let us take the compound from example (\ref{ex510}): ane the morpheme ___ kar emoth `those its gloss ___ girls' (lit. `its gloss ___ place girls'). We can embed the \isi{noun phrase} the morpheme ___ kar `its gloss ___ place' into the matrix \isi{noun phrase} by adding the \isi{characteristic} \isi{case} (=ma): the morpheme ___ karma emoth `girls from the its gloss ___'. In addition to \isi{case} marking, the reference of the \isi{demonstrative} ane in initial position depends on whether a \isi{noun phrase} is embedded or the \isi{head} contains a compound. In the former \isi{case}, ane refers to the \isi{head} of the embedded \isi{noun phrase}: ane the morpheme ___ karma emoth `girls from that its gloss ___ place'. If the \isi{head} slot contains a compound, and no embedding takes place, the \isi{demonstrative} refers to the compound, as in (\ref{ex510}). The reference of the \textsc{determiner} slot is described above in {\S}\ref{npsyntaxdeterminer}.
+A: word: ksi	 gloss: bush
+B: word: baf	 gloss: Recog.ERG.SG
+C: word: t-trika-si	 gloss: REDUP-tell-NMLZ
+D: word: ane	 gloss: DEM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 38:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ane ___ kar emoth thwa\stem{nor}m.
+Gloss (with missing item): DEM ___ place girl STPL:SBJ:PST:DUR/shout.
+The English translation of this sentence is:`These bush girls were shouting.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Complex heads are different from complex \isi{noun phrase}s, that is, compounds in the \textsc{head} slot are distinct from embedded \isi{noun phrase}s. The latter must be marked with adnominal \isi{case}. Let us take the compound from example (\ref{ex510}): ane the morpheme ___ kar emoth `those its gloss ___ girls' (lit. `its gloss ___ place girls'). We can embed the \isi{noun phrase} the morpheme ___ kar `its gloss ___ place' into the matrix \isi{noun phrase} by adding the \isi{characteristic} \isi{case} (=ma): the morpheme ___ karma emoth `girls from the its gloss ___'. In addition to \isi{case} marking, the reference of the \isi{demonstrative} ane in initial position depends on whether a \isi{noun phrase} is embedded or the \isi{head} contains a compound. In the former \isi{case}, ane refers to the \isi{head} of the embedded \isi{noun phrase}: ane the morpheme ___ karma emoth `girls from that its gloss ___ place'. If the \isi{head} slot contains a compound, and no embedding takes place, the \isi{demonstrative} refers to the compound, as in (\ref{ex510}). The reference of the \textsc{determiner} slot is described above in {\S}\ref{npsyntaxdeterminer}.
+A: word: ksi	 gloss: bush
+B: word: ane	 gloss: DEM
+C: word: t-trika-si	 gloss: REDUP-tell-NMLZ
+D: word: ruga	 gloss: pig
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 39:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ruga tabru=nzo e\stem{rä}ra nima b=e\stem{rä} ... ___ ruga.
+Gloss (with missing item): pig five=ONLY STPL:SBJ:PST:IPFV/be like.this MED=STPL:SBJ:NONPAST:IPFV/be ... ___ pig.
+The English translation of this sentence is:`There were only five pigs like these ... raised pigs.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Lastly, I want to address compounds which involve nominalised verbs. Consider the compounds in (\ref{ex539}) and (\ref{ex540}). In (\ref{ex539}), the speaker points out that these were mgthksi ruga `raised pigs' as opposed to wild pigs. In (\ref{ex540}), the speaker stresses that he has raised enough pigs in his life, and that ruga mgthksi `pig feeding' is too much work.
+A: word: fukthk-si=me	 gloss: mix-NMLZ=INS
+B: word: mgthk-si	 gloss: feed-NMLZ
+C: word: trik-si	 gloss: tell-NMLZ
+D: word: kafar	 gloss: big
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 40:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zena keke miyo wo\stem{rä} ___ mgthk-si ... znsä t-tüfr.
+Gloss (with missing item): today NEG desire FSG:SBJ:NONPAST:IPFV/be ___ feed-NMLZ ... work REDUP-plenty.
+The English translation of this sentence is:`Today, I do not want to feed pigs ... too much work.' (lit. `I do not desire pig feeding.')
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Lastly, I want to address compounds which involve nominalised verbs. Consider the compounds in (\ref{ex539}) and (\ref{ex540}). In (\ref{ex539}), the speaker points out that these were mgthksi the morpheme ___ `raised its gloss ___s' as opposed to wild its gloss ___s. In (\ref{ex540}), the speaker stresses that he has raised enough its gloss ___s in his life, and that the morpheme ___ mgthksi `its gloss ___ feeding' is too much work.
+A: word: ruga	 gloss: pig
+B: word: duga	 gloss: taro
+C: word: faso	 gloss: meat
+D: word: tüfr	 gloss: plenty
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 41:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ruga tabru=nzo e\stem{rä}ra nima b=e\stem{rä} ... ___ ruga.
+Gloss (with missing item): pig five=ONLY STPL:SBJ:PST:IPFV/be like.this MED=STPL:SBJ:NONPAST:IPFV/be ... ___ pig.
+The English translation of this sentence is:`There were only five pigs like these ... raised pigs.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Lastly, I want to address compounds which involve nominalised verbs. Consider the compounds in (\ref{ex539}) and (\ref{ex540}). In (\ref{ex539}), the speaker points out that these were mgthksi ruga `raised pigs' as opposed to wild pigs. In (\ref{ex540}), the speaker stresses that he has raised enough pigs in his life, and that ruga mgthksi `pig feeding' is too much work.
+A: word: trik-si	 gloss: tell-NMLZ
+B: word: mgthk-si	 gloss: feed-NMLZ
+C: word: fukthk-si=me	 gloss: mix-NMLZ=INS
+D: word: nzenme	 gloss: FNSG.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 42:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zena keke miyo wo\stem{rä} ___ mgthk-si ... znsä t-tüfr.
+Gloss (with missing item): today NEG desire FSG:SBJ:NONPAST:IPFV/be ___ feed-NMLZ ... work REDUP-plenty.
+The English translation of this sentence is:`Today, I do not want to feed pigs ... too much work.' (lit. `I do not desire pig feeding.')
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Lastly, I want to address compounds which involve nominalised verbs. Consider the compounds in (\ref{ex539}) and (\ref{ex540}). In (\ref{ex539}), the speaker points out that these were mgthksi the morpheme ___ `raised its gloss ___s' as opposed to wild its gloss ___s. In (\ref{ex540}), the speaker stresses that he has raised enough its gloss ___s in his life, and that the morpheme ___ mgthksi `its gloss ___ feeding' is too much work.
+A: word: ruga	 gloss: pig
+B: word: faso	 gloss: meat
+C: word: nzone	 gloss: FSG.POSS
+D: word: duga	 gloss: taro
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 43:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ruga tabru=nzo e\stem{rä}ra nima b=e\stem{rä} ... ___ ruga.
+Gloss (with missing item): pig five=ONLY STPL:SBJ:PST:IPFV/be like.this MED=STPL:SBJ:NONPAST:IPFV/be ... ___ pig.
+The English translation of this sentence is:`There were only five pigs like these ... raised pigs.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In noun-headed compounds, the argument role of the noun with respect to the verb is less determined than in verb-headed compounds. The following argument roles are found: actor (zan kabe `killer'), \isi{patient} (mgthksi ruga `feeding pig' in (\ref{ex539}) above), instrument (bi näbüsi wämne `sago beating stick'), location (yonasi faf `drinking place'), or time (tharisi efoth `harvesting time'). This variability contrasts with verb-headed compounds, where the noun is always a \isi{patient} or \isi{theme}, as in kabe zan `war' (lit. `people hitting'), ruga mgthksi `pig feeding' in (\ref{ex540}) above, or wawa yarisi `yam exchange' (lit. `yam giving'). Note that there is an implied \isi{agent} in most of these examples. It follows that (nominalised) \isi{intransitive} verbs do not participate in verb-headed compounds. For example, there can be a mthizsi kabe `resting person' or a yathizsi kabe `dying person'. But the reverse order is ungrammatical: \textsuperscript{\ast}kabe mthizsi or \textsuperscript{\ast}kabe yathizsi.
+A: word: safs=ma	 gloss: safs=CHAR
+B: word: trik-si	 gloss: tell-NMLZ
+C: word: fukthk-si=me	 gloss: mix-NMLZ=INS
+D: word: mgthk-si	 gloss: feed-NMLZ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 44:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zena keke miyo wo\stem{rä} ___ mgthk-si ... znsä t-tüfr.
+Gloss (with missing item): today NEG desire FSG:SBJ:NONPAST:IPFV/be ___ feed-NMLZ ... work REDUP-plenty.
+The English translation of this sentence is:`Today, I do not want to feed pigs ... too much work.' (lit. `I do not desire pig feeding.')
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In noun-headed compounds, the argument role of the noun with respect to the verb is less determined than in verb-headed compounds. The following argument roles are found: actor (zan kabe `killer'), \isi{patient} (mgthksi the morpheme ___ `feeding its gloss ___' in (\ref{ex539}) above), instrument (bi näbüsi wämne `sago beating stick'), location (yonasi faf `drinking place'), or time (tharisi efoth `harvesting time'). This variability contrasts with verb-headed compounds, where the noun is always a \isi{patient} or \isi{theme}, as in kabe zan `war' (lit. `people hitting'), the morpheme ___ mgthksi `its gloss ___ feeding' in (\ref{ex540}) above, or wawa yarisi `yam exchange' (lit. `yam giving'). Note that there is an implied \isi{agent} in most of these examples. It follows that (nominalised) \isi{intransitive} verbs do not participate in verb-headed compounds. For example, there can be a mthizsi kabe `resting person' or a yathizsi kabe `dying person'. But the reverse order is ungrammatical: \textsuperscript{\ast}kabe mthizsi or \textsuperscript{\ast}kabe yathizsi.
+A: word: duga	 gloss: taro
+B: word: ruga	 gloss: pig
+C: word: kabe	 gloss: man
+D: word: faso	 gloss: meat
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+

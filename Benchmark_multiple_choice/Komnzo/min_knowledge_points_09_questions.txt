@@ -1,0 +1,793 @@
+Question 0:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bäne thu\stem{wä}nzrm fof ... zarfa su\stem{rmän}wrm ___ wä-si=f=nzo.
+Gloss (with missing item): DEM:MED STSG:SBJ>STPL:OBJ:PST:DUR/crack fof ... ear STSG:SBJ>TSG.MASC:OBJ:PST:DUR/close ___ crack-NMLZ=ERG=ONLY.
+The English translation of this sentence is:`He was cracking those (coconut shells) ... This cracking was blocking his ears.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: I want to give a few examples, to show that there is a cline of syntactic integration between two clauses. Givón provides a functional explanation to the various degrees of syntactic integration: ``the stronger the semantic bond between two events, the more extensive will be the syntactic integration of the two clauses into a single though complex clause'' (\citeyear[41]{Givon:2001syntax}). As we will see, Komnzo supports this observation to some extent. I choose the domain of `cause' to illustrate this below. The clearest way to mark a causer is by putting the element in the \isi{ergative} case. In Komnzo nominalised verbs can be used in this way (\ref{ex662}). In the example, a \ili{Marind} headhunter tries to distract his victims by imitating the sound that dogs make when chewing bones, but he ends up only distracting himself. The phrase the morpheme ___ wäsifnzo `only that cracking' functions as a clausal \isi{subject}. The event `crack' and the event `close' are tightly integrated. They occur simultthe morpheme ___ously and they stand in direct causal relation.
+A: word: ŋare=ane	 gloss: woman=POSS.SG
+B: word: yfö	 gloss: hole
+C: word: ane	 gloss: DEM
+D: word: ane=me	 gloss: DEM=INS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 1:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): komnzo tayo z=wo\stem{rä} ___ fraz-si=ma.
+Gloss (with missing item): only weak PROX=FSG:SBJ:NONPAST:IPFV/be ___ extinguish-NMLZ=CHAR.
+The English translation of this sentence is:`I am just weak here from extinguishing the fire.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{characteristic} \isi{case} is used for adverbial adjuncts marking origin and cause. In example (\ref{ex663}), the morpheme ___ frazsi functions as an adverbial \isi{clause}. The predicate `be weak' and the event `extinguish' occurred at different times, but they stand in a causal relation.
+A: word: rirk-si=ma	 gloss: respect-NMLZ=CHAR
+B: word: s-ra-na-thr-m-th	 gloss: TSG.MASC.BET-IRR-eat.EXT-NDU-DUR-STNSG
+C: word: mni	 gloss: fire
+D: word: mni=ma	 gloss: fire=CHAR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 2:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): watik fi komnzo za\stem{thfär} ___ fof ... nima rirk-si=ma b=\stem{rä}.
+Gloss (with missing item): then Third.ABS only TSG.F:SBJ:Rpst:PFV/junp ___ EMPH ... like.this respect-NMLZ=CHAR MED=TSG.F:SBJ:NONPAST:IPFV/be.
+The English translation of this sentence is:`Well, she just lived on because of that ... because respected (the taboos). There she is.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Komnzo has a \isi{recognitional} \isi{demonstrative} \isi{pronoun}, which can function in a number of ways ({\S}\ref{recognitional-pronoun-subsec}). It is frequently used in `tip-of-the-tongue' situations. Example (\ref{ex664}) explains why a particular woman in Rouku grew very old, while her friends and some of her children have passed away already. The structure is the same as (\ref{ex663}). The only difference is that the speaker uses the \isi{recognitional} inflected with the \isi{characteristic} \isi{case} (`because of that one'). After a short pause, he fills in the referent rirksima `because she respected'. The event `survive' (lit. `jump') and the event `respect' occurred in different times, but they stand in a causal relation.
+A: word: komnzo	 gloss: only
+B: word: bäne=me	 gloss: Recog=INS
+C: word: rirk-si=ma	 gloss: respect-NMLZ=CHAR
+D: word: bäne=ma	 gloss: Recog=CHAR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 3:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): watik fi komnzo za\stem{thfär} bäne=ma fof ... nima ___ b=\stem{rä}.
+Gloss (with missing item): then Third.ABS only TSG.F:SBJ:Rpst:PFV/junp Recog=CHAR EMPH ... like.this ___ MED=TSG.F:SBJ:NONPAST:IPFV/be.
+The English translation of this sentence is:`Well, she just lived on because of that ... because respected (the taboos). There she is.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Komnzo has a \isi{recognitional} \isi{demonstrative} \isi{pronoun}, which can function in a number of ways ({\S}\ref{recognitional-pronoun-subsec}). It is frequently used in `tip-of-the-tongue' situations. Example (\ref{ex664}) explains why a particular woman in Rouku grew very old, while her friends and some of her children have passed away already. The structure is the same as (\ref{ex663}). The only difference is that the speaker uses the \isi{recognitional} inflected with the \isi{characteristic} \isi{case} (`because of that one'). After a short pause, he fills in the referent rirksima `because she respected'. The event `survive' (lit. `jump') and the event `respect' occurred in different times, but they stand in a causal relation.
+A: word: ane	 gloss: DEM
+B: word: yr-si=ma	 gloss: weave-NMLZ=CHAR
+C: word: kn-si=ma	 gloss: roll-NMLZ=CHAR
+D: word: rirk-si=ma	 gloss: respect-NMLZ=CHAR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 4:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): komnzo tayo z=wo\stem{rä} ___ fraz-si=ma.
+Gloss (with missing item): only weak PROX=FSG:SBJ:NONPAST:IPFV/be ___ extinguish-NMLZ=CHAR.
+The English translation of this sentence is:`I am just weak here from extinguishing the fire.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Komnzo has a \isi{recognitional} \isi{demonstrative} \isi{pronoun}, which can function in a number of ways ({\S}\ref{recognitional-pronoun-subsec}). It is frequently used in `tip-of-the-tongue' situations. Example (\ref{ex664}) explains why a particular woman in Rouku grew very old, while her friends and some of her children have passed away already. The structure is the same as (\ref{ex663}). The only difference is that the speaker uses the \isi{recognitional} inflected with the \isi{characteristic} \isi{case} (`because of that one'). After a short pause, he fills in the referent rirksima `because she respected'. The event `survive' (lit. `jump') and the event `respect' occurred in different times, but they stand in a causal relation.
+A: word: bänemr	 gloss: Recog.PURP
+B: word: mni=ma	 gloss: fire=CHAR
+C: word: mni	 gloss: fire
+D: word: sitau=ane	 gloss: sitau=POSS.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 5:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): watik fi komnzo za\stem{thfär} ___ fof ... nima rirk-si=ma b=\stem{rä}.
+Gloss (with missing item): then Third.ABS only TSG.F:SBJ:Rpst:PFV/junp ___ EMPH ... like.this respect-NMLZ=CHAR MED=TSG.F:SBJ:NONPAST:IPFV/be.
+The English translation of this sentence is:`Well, she just lived on because of that ... because respected (the taboos). There she is.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In discourse, the use of the \isi{recognitional} creates some kind of expectation that something should follow. This something can remain empty, for example when the referent is common ground between the speaker and the addressee, but it can also be `filled in' (\ref{ex664}). This latent expectation explains why the \isi{recognitional} is employed to introduce another clause (\ref{ex665}). The function of that clause is determined by the \isi{case} marker on the \isi{recognitional}. In (\ref{ex665}) it is the \isi{characteristic} \isi{case}, and consequently the function of the following \isi{clause} is to mark a reason, in other words bänema can be translated with `because'. The event in the first clause `exit' and the event in the second clause `close' stand in a causal relationship. However, the causal chain of events involves a number of steps.
+A: word: mon=wä	 gloss: how=EMPH
+B: word: bäne=me	 gloss: Recog=INS
+C: word: bäne=ma	 gloss: Recog=CHAR
+D: word: zöbthé	 gloss: first
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 6:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): watik fi komnzo za\stem{thfär} bäne=ma fof ... nima ___ b=\stem{rä}.
+Gloss (with missing item): then Third.ABS only TSG.F:SBJ:Rpst:PFV/junp Recog=CHAR EMPH ... like.this ___ MED=TSG.F:SBJ:NONPAST:IPFV/be.
+The English translation of this sentence is:`Well, she just lived on because of that ... because respected (the taboos). There she is.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In discourse, the use of the \isi{recognitional} creates some kind of expectation that something should follow. This something can remain empty, for example when the referent is common ground between the speaker and the addressee, but it can also be `filled in' (\ref{ex664}). This latent expectation explains why the \isi{recognitional} is employed to introduce another clause (\ref{ex665}). The function of that clause is determined by the \isi{case} marker on the \isi{recognitional}. In (\ref{ex665}) it is the \isi{characteristic} \isi{case}, and consequently the function of the following \isi{clause} is to mark a reason, in other words bänema can be translated with `because'. The event in the first clause `exit' and the event in the second clause `close' stand in a causal relationship. However, the causal chain of events involves a number of steps.
+A: word: mane	 gloss: which
+B: word: rirk-si=ma	 gloss: respect-NMLZ=CHAR
+C: word: kn-si=ma	 gloss: roll-NMLZ=CHAR
+D: word: yr-si=ma	 gloss: weave-NMLZ=CHAR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 7:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): keke kwa\stem{mätrak}wrm ___ ... fam z zwä\stem{rmän}th.
+Gloss (with missing item): NEG SG:SBJ:PST:DUR/exit ___ ... thought IAM STSG:SBJ>TSG:.F:OBJ:Rpst:PFV/close.
+The English translation of this sentence is:`She did not come outside because they had already closed her thoughts (with magic).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In discourse, the use of the \isi{recognitional} creates some kind of expectation that something should follow. This something can remain empty, for example when the referent is common ground between the speaker and the addressee, but it can also be `filled in' (\ref{ex664}). This latent expectation explains why the \isi{recognitional} is employed to introduce another clause (\ref{ex665}). The function of that clause is determined by the \isi{case} marker on the \isi{recognitional}. In (\ref{ex665}) it is the \isi{characteristic} \isi{case}, and consequently the function of the following \isi{clause} is to mark a reason, in other words bänema can be translated with `because'. The event in the first clause `exit' and the event in the second clause `close' stand in a causal relationship. However, the causal chain of events involves a number of steps.
+A: word: ŋad=me	 gloss: rope=INS
+B: word: rirk-si=ma	 gloss: respect-NMLZ=CHAR
+C: word: bäne=ma	 gloss: Recog=CHAR
+D: word: bäne=me	 gloss: Recog=INS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 8:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): keke kwa\stem{mätrak}wrm bäne=ma ... ___ z zwä\stem{rmän}th.
+Gloss (with missing item): NEG SG:SBJ:PST:DUR/exit Recog=CHAR ... ___ IAM STSG:SBJ>TSG:.F:OBJ:Rpst:PFV/close.
+The English translation of this sentence is:`She did not come outside because they had already closed her thoughts (with magic).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In discourse, the use of the \isi{recognitional} creates some kind of expectation that something should follow. This something can remain empty, for example when the referent is common ground between the speaker and the addressee, but it can also be `filled in' (\ref{ex664}). This latent expectation explains why the \isi{recognitional} is employed to introduce another clause (\ref{ex665}). The function of that clause is determined by the \isi{case} marker on the \isi{recognitional}. In (\ref{ex665}) it is the \isi{characteristic} \isi{case}, and consequently the function of the following \isi{clause} is to mark a reason, in other words bänema can be translated with `because'. The event in the first clause `exit' and the event in the second clause `close' stand in a causal relationship. However, the causal chain of events involves a number of steps.
+A: word: nima	 gloss: Quot
+B: word: bäne=me	 gloss: Recog=INS
+C: word: fam	 gloss: thought
+D: word: fam=ä	 gloss: thought=ASSOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 9:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): keke kwa\stem{mätrak}wrm ___ ... fam z zwä\stem{rmän}th.
+Gloss (with missing item): NEG SG:SBJ:PST:DUR/exit ___ ... thought IAM STSG:SBJ>TSG:.F:OBJ:Rpst:PFV/close.
+The English translation of this sentence is:`She did not come outside because they had already closed her thoughts (with magic).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In discourse, the use of the \isi{recognitional} creates some kind of expectation that something should follow. This something can remain empty, for example when the referent is common ground between the speaker and the addressee, but it can also be `filled in' (\ref{ex664}). This latent expectation explains why the \isi{recognitional} is employed to introduce another clause (\ref{ex665}). The function of that clause is determined by the \isi{case} marker on the \isi{recognitional}. In (\ref{ex665}) it is the \isi{characteristic} \isi{case}, and consequently the function of the following \isi{clause} is to mark a reason, in other words bänema can be translated with `because'. The event in the first clause `exit' and the event in the second clause `close' stand in a causal relationship. However, the causal chain of events involves a number of steps.
+A: word: oroman=ä	 gloss: old.man=ASSOC.Pl
+B: word: nzenme	 gloss: FNSG.POSS
+C: word: bäne=me	 gloss: Recog=INS
+D: word: bäne=ma	 gloss: Recog=CHAR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 10:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): keke kwa\stem{mätrak}wrm bäne=ma ... ___ z zwä\stem{rmän}th.
+Gloss (with missing item): NEG SG:SBJ:PST:DUR/exit Recog=CHAR ... ___ IAM STSG:SBJ>TSG:.F:OBJ:Rpst:PFV/close.
+The English translation of this sentence is:`She did not come outside because they had already closed her thoughts (with magic).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In discourse, the use of the \isi{recognitional} creates some kind of expectation that something should follow. This something can remain empty, for example when the referent is common ground between the speaker and the addressee, but it can also be `filled in' (\ref{ex664}). This latent expectation explains why the \isi{recognitional} is employed to introduce another clause (\ref{ex665}). The function of that clause is determined by the \isi{case} marker on the \isi{recognitional}. In (\ref{ex665}) it is the \isi{characteristic} \isi{case}, and consequently the function of the following \isi{clause} is to mark a reason, in other words bänema can be translated with `because'. The event in the first clause `exit' and the event in the second clause `close' stand in a causal relationship. However, the causal chain of events involves a number of steps.
+A: word: mni	 gloss: fire
+B: word: camp	 gloss: camp
+C: word: fam=ä	 gloss: thought=ASSOC
+D: word: fam	 gloss: thought
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 11:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ane ŋatha bä nzwa\stem{thofik}wr ... watik ___ nz=ybrüzé bobo.
+Gloss (with missing item): DEM dog MED STSG:SBJ>FSG:OBJ:Rpst:IPFV/disturb ... then ___ IMMpst=FSG:SBJ>STSG.MASC:OBJ:NONPAST:IPFV/submerge MED.All.
+The English translation of this sentence is:`That dog disturbed me there. Well, that's why I pushed him into the water.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Lastly, I want to contrast the use of the \isi{recognitional} from other demonstratives. Consider example (\ref{ex666}), which includes the general \isi{demonstrative} ane in the \isi{characteristic} \isi{case} in the second clause. The \isi{demonstrative} ane functions anaphorically, and in that sense it is the mirror image of the \isi{recognitional}. The events `disturb' and `submerge' stand in a causal relationship, but the components are reversed. We can translate it to \ili{English} with `therefore' or `that's why'. The two clauses are otherwise independent. This is also supported by the paragraph marker watik `well, then' which occurs at the beginning of the second clause, but this is optional.
+A: word: bäne=ma	 gloss: DEM:MED=CHAR
+B: word: ane=ma	 gloss: DEM=CHAR
+C: word: kowi-a-fis=ane=ma=nzo	 gloss: kowi-POSS-husband=POSS.SG=CHAR=ONLY
+D: word: rirk-si=ma	 gloss: respect-NMLZ=CHAR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 12:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ane ŋatha bä nzwa\stem{thofik}wr ... watik ___ nz=ybrüzé bobo.
+Gloss (with missing item): DEM dog MED STSG:SBJ>FSG:OBJ:Rpst:IPFV/disturb ... then ___ IMMpst=FSG:SBJ>STSG.MASC:OBJ:NONPAST:IPFV/submerge MED.All.
+The English translation of this sentence is:`That dog disturbed me there. Well, that's why I pushed him into the water.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The examples illustrate, that there is a cline between syntactically integrated clauses, i.e. subordinated clauses, and independent clauses. While both ends of the cline are relatively easy to identify, the middle is a grey zone. It is clear that examples like (\ref{ex666}) consists of two independent clauses. Likewise, the nominalised predicates in (\ref{ex662} - \ref{ex664}) are clear cases of \isi{subordination}. But examples like (\ref{ex665}) are somewhat indeterminate. On the one hand, the \isi{recognitional} \isi{pronoun} creates a gap that needs to be filled. In other words, semantically, the second \isi{clause} is subordinated to the first \isi{clause}. On the other hand, the second clause is syntactically independent. Therefore, I refrain from analysing the \isi{recognitional} as a subordinator, but rather as having a connecting function.\footnote{Note that the recognitional demonstrative can be inflected for following cases: characteristic =ma `because', instrumental =me `thereby' and purposive =mr `in order to, until'.}
+A: word: ane=ma	 gloss: DEM=CHAR
+B: word: bäne=ma	 gloss: DEM:MED=CHAR
+C: word: kowi-a-fis=ane=ma=nzo	 gloss: kowi-POSS-husband=POSS.SG=CHAR=ONLY
+D: word: zra	 gloss: swamp
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 13:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bäne thu\stem{wä}nzrm fof ... zarfa su\stem{rmän}wrm ___ wä-si=f=nzo.
+Gloss (with missing item): DEM:MED STSG:SBJ>STPL:OBJ:PST:DUR/crack fof ... ear STSG:SBJ>TSG.MASC:OBJ:PST:DUR/close ___ crack-NMLZ=ERG=ONLY.
+The English translation of this sentence is:`He was cracking those (coconut shells) ... This cracking was blocking his ears.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The examples illustrate, that there is a cline between syntactically integrated clauses, i.e. subordinated clauses, and independent clauses. While both ends of the cline are relatively easy to identify, the middle is a grey zone. It is clear that examples like (\ref{ex666}) consists of two independent clauses. Likewise, the nominalised predicates in (\ref{ex662} - \ref{ex664}) are clear cases of \isi{subordination}. But examples like (\ref{ex665}) are somewhat indeterminate. On the one hand, the \isi{recognitional} \isi{pronoun} creates a gap that needs to be filled. In other words, semantically, the second \isi{clause} is subordinated to the first \isi{clause}. On the other hand, the second clause is syntactically independent. Therefore, I refrain from analysing the \isi{recognitional} as a subordinator, but rather as having a connecting function.\footnote{Note that the recognitional demonstrative can be inflected for following cases: characteristic =ma `because', instrumental =me `thereby' and purposive =mr `in order to, until'.}
+A: word: ane=me	 gloss: DEM=INS
+B: word: trik-si	 gloss: tell-NMLZ
+C: word: ŋare=ane	 gloss: woman=POSS.SG
+D: word: ane	 gloss: DEM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 14:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): watik fi komnzo za\stem{thfär} ___ fof ... nima rirk-si=ma b=\stem{rä}.
+Gloss (with missing item): then Third.ABS only TSG.F:SBJ:Rpst:PFV/junp ___ EMPH ... like.this respect-NMLZ=CHAR MED=TSG.F:SBJ:NONPAST:IPFV/be.
+The English translation of this sentence is:`Well, she just lived on because of that ... because respected (the taboos). There she is.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The examples illustrate, that there is a cline between syntactically integrated clauses, i.e. subordinated clauses, and independent clauses. While both ends of the cline are relatively easy to identify, the middle is a grey zone. It is clear that examples like (\ref{ex666}) consists of two independent clauses. Likewise, the nominalised predicates in (\ref{ex662} - \ref{ex664}) are clear cases of \isi{subordination}. But examples like (\ref{ex665}) are somewhat indeterminate. On the one hand, the \isi{recognitional} \isi{pronoun} creates a gap that needs to be filled. In other words, semantically, the second \isi{clause} is subordinated to the first \isi{clause}. On the other hand, the second clause is syntactically independent. Therefore, I refrain from analysing the \isi{recognitional} as a subordinator, but rather as having a connecting function.\footnote{Note that the recognitional demonstrative can be inflected for following cases: characteristic =ma `because', instrumental =me `thereby' and purposive =mr `in order to, until'.}
+A: word: bäne=ma	 gloss: Recog=CHAR
+B: word: fam=ä	 gloss: thought=ASSOC
+C: word: mafane=ma=wä	 gloss: who.SG.POSS=CHAR=EMPH
+D: word: bäne=me	 gloss: Recog=INS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 15:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): watik fi komnzo za\stem{thfär} bäne=ma fof ... nima ___ b=\stem{rä}.
+Gloss (with missing item): then Third.ABS only TSG.F:SBJ:Rpst:PFV/junp Recog=CHAR EMPH ... like.this ___ MED=TSG.F:SBJ:NONPAST:IPFV/be.
+The English translation of this sentence is:`Well, she just lived on because of that ... because respected (the taboos). There she is.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The examples illustrate, that there is a cline between syntactically integrated clauses, i.e. subordinated clauses, and independent clauses. While both ends of the cline are relatively easy to identify, the middle is a grey zone. It is clear that examples like (\ref{ex666}) consists of two independent clauses. Likewise, the nominalised predicates in (\ref{ex662} - \ref{ex664}) are clear cases of \isi{subordination}. But examples like (\ref{ex665}) are somewhat indeterminate. On the one hand, the \isi{recognitional} \isi{pronoun} creates a gap that needs to be filled. In other words, semantically, the second \isi{clause} is subordinated to the first \isi{clause}. On the other hand, the second clause is syntactically independent. Therefore, I refrain from analysing the \isi{recognitional} as a subordinator, but rather as having a connecting function.\footnote{Note that the recognitional demonstrative can be inflected for following cases: characteristic =ma `because', instrumental =me `thereby' and purposive =mr `in order to, until'.}
+A: word: kn-si=ma	 gloss: roll-NMLZ=CHAR
+B: word: rirk-si=ma	 gloss: respect-NMLZ=CHAR
+C: word: yr-si=ma	 gloss: weave-NMLZ=CHAR
+D: word: yfö	 gloss: hole
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 16:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): keke kwa\stem{mätrak}wrm ___ ... fam z zwä\stem{rmän}th.
+Gloss (with missing item): NEG SG:SBJ:PST:DUR/exit ___ ... thought IAM STSG:SBJ>TSG:.F:OBJ:Rpst:PFV/close.
+The English translation of this sentence is:`She did not come outside because they had already closed her thoughts (with magic).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The examples illustrate, that there is a cline between syntactically integrated clauses, i.e. subordinated clauses, and independent clauses. While both ends of the cline are relatively easy to identify, the middle is a grey zone. It is clear that examples like (\ref{ex666}) consists of two independent clauses. Likewise, the nominalised predicates in (\ref{ex662} - \ref{ex664}) are clear cases of \isi{subordination}. But examples like (\ref{ex665}) are somewhat indeterminate. On the one hand, the \isi{recognitional} \isi{pronoun} creates a gap that needs to be filled. In other words, semantically, the second \isi{clause} is subordinated to the first \isi{clause}. On the other hand, the second clause is syntactically independent. Therefore, I refrain from analysing the \isi{recognitional} as a subordinator, but rather as having a connecting function.\footnote{Note that the recognitional demonstrative can be inflected for following cases: characteristic =ma `because', instrumental =me `thereby' and purposive =mr `in order to, until'.}
+A: word: bäne=me	 gloss: Recog=INS
+B: word: msar	 gloss: ant
+C: word: zöbthé	 gloss: first
+D: word: bäne=ma	 gloss: Recog=CHAR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 17:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): keke kwa\stem{mätrak}wrm bäne=ma ... ___ z zwä\stem{rmän}th.
+Gloss (with missing item): NEG SG:SBJ:PST:DUR/exit Recog=CHAR ... ___ IAM STSG:SBJ>TSG:.F:OBJ:Rpst:PFV/close.
+The English translation of this sentence is:`She did not come outside because they had already closed her thoughts (with magic).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The examples illustrate, that there is a cline between syntactically integrated clauses, i.e. subordinated clauses, and independent clauses. While both ends of the cline are relatively easy to identify, the middle is a grey zone. It is clear that examples like (\ref{ex666}) consists of two independent clauses. Likewise, the nominalised predicates in (\ref{ex662} - \ref{ex664}) are clear cases of \isi{subordination}. But examples like (\ref{ex665}) are somewhat indeterminate. On the one hand, the \isi{recognitional} \isi{pronoun} creates a gap that needs to be filled. In other words, semantically, the second \isi{clause} is subordinated to the first \isi{clause}. On the other hand, the second clause is syntactically independent. Therefore, I refrain from analysing the \isi{recognitional} as a subordinator, but rather as having a connecting function.\footnote{Note that the recognitional demonstrative can be inflected for following cases: characteristic =ma `because', instrumental =me `thereby' and purposive =mr `in order to, until'.}
+A: word: bäne=me	 gloss: Recog=INS
+B: word: fam=ä	 gloss: thought=ASSOC
+C: word: fam	 gloss: thought
+D: word: mayawa=ma	 gloss: mayawa=CHAR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 18:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mni w\stem{thomon}wath ___ zrä\stem{föf}th.
+Gloss (with missing item): fire STPL:SBJ>TSG.F:PST:PST:IPFV/prepare.fire ___ STPL:SBJ>TSG.F:IRR:PFV/burn.
+The English translation of this sentence is:`They piled the fire and burn it.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Coordinthe morpheme ___tion refers to syntthe morpheme ___ctic constructions where two or more elements of equthe morpheme ___l stthe morpheme ___tus the morpheme ___re connected \citep{Hthe morpheme ___spelmthe morpheme ___th:2007coordinthe morpheme ___tion}. Komnzo employs the sthe morpheme ___me mechthe morpheme ___nisms for coordinthe morpheme ___ting \isi{noun phrthe morpheme ___se}s the morpheme ___s it does for coordinthe morpheme ___ting clthe morpheme ___uses. The word the morpheme ___ `the morpheme ___nd' cthe morpheme ___n be used for conjunctive \isi{coordinthe morpheme ___tion} (\ref{ex667}) the morpheme ___nd the word o `or' cthe morpheme ___n be used for disjunctive \isi{coordinthe morpheme ___tion} (\ref{ex714}).
+A: word: nima	 gloss: Quot
+B: word: nar-si=r	 gloss: press.down-NMLZ=PURP
+C: word: yafsinzake	 gloss: FPL:SBJ>TSG.MASC:IO:PST:IPFV/count
+D: word: a	 gloss: and
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 19:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nafa-ŋame=f wn\stem{fath}wr ___ yn\stem{fath}wr.
+Gloss (with missing item): Third.POSS-mother=ERG.SG STSG:SBJ>TSG.F:OBJ:NONPAST:VENIT/hold ___ STSG:SBJ>TSG.MASC:OBJ:NONPAST:VENIT/hold.
+The English translation of this sentence is:`(The child's) mother holds her or holds him.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Cthe mits gloss ___pheme ___the mits gloss ___pheme ___rdinatithe mits gloss ___pheme ___n refers tthe mits gloss ___pheme ___ syntactic cthe mits gloss ___pheme ___nstructithe mits gloss ___pheme ___ns where twthe mits gloss ___pheme ___ the mits gloss ___pheme ___r mthe mits gloss ___pheme ___re elements the mits gloss ___pheme ___f equal status are cthe mits gloss ___pheme ___nnected \citep{Haspelmath:2007cthe mits gloss ___pheme ___the mits gloss ___pheme ___rdinatithe mits gloss ___pheme ___n}. Kthe mits gloss ___pheme ___mnzthe mits gloss ___pheme ___ emplthe mits gloss ___pheme ___ys the same mechanisms fthe mits gloss ___pheme ___r cthe mits gloss ___pheme ___the mits gloss ___pheme ___rdinating \isi{nthe mits gloss ___pheme ___un phrase}s as it dthe mits gloss ___pheme ___es fthe mits gloss ___pheme ___r cthe mits gloss ___pheme ___the mits gloss ___pheme ___rdinating clauses. The wthe mits gloss ___pheme ___rd a `and' can be used fthe mits gloss ___pheme ___r cthe mits gloss ___pheme ___njunctive \isi{cthe mits gloss ___pheme ___the mits gloss ___pheme ___rdinatithe mits gloss ___pheme ___n} (\ref{ex667}) and the wthe mits gloss ___pheme ___rd the mits gloss ___pheme ___ `the mits gloss ___pheme ___r' can be used fthe mits gloss ___pheme ___r disjunctive \isi{cthe mits gloss ___pheme ___the mits gloss ___pheme ___rdinatithe mits gloss ___pheme ___n} (\ref{ex714}).
+A: word: komnzo	 gloss: only
+B: word: baf=en	 gloss: Recog=LOC
+C: word: grigri	 gloss: maggot
+D: word: o	 gloss: or
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 20:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nabi riwariwa kwa wä\stem{fiyok}wre ... ___ fof.
+Gloss (with missing item): bamboo ring FUT FPL:SBJ>TSG.F:NONPAST:IPFV/make ... ___ EMPH.
+The English translation of this sentence is:`We make a bamboo ring ... for pressing down (the membrane).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Purposive adverbials are found in different construction. Example (\ref{ex698}) is from a procedural about making a drum. The speaker explains how a bamboo ring will hold the membrane in place after it is glued to the drum.
+A: word: yfö	 gloss: hole
+B: word: nar-si=r	 gloss: press.down-NMLZ=PURP
+C: word: fumak-si=r	 gloss: pull.out-NMLZ=PURP
+D: word: gar-si=r	 gloss: break-NMLZ=PURP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 21:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nä kayé zane zf y\stem{r}wre ___ ... zra rsr-si=r.
+Gloss (with missing item): INDF day DEM:PROX IMM FPL:SBJ>TSG.MASC:OBJ:NONPAST:IPFV/scrape ___ ... swamp poison.fishing-NMLZ=PURP.
+The English translation of this sentence is:`Sometimes, we scrape (the root of) this one here for poisoning the waterholes.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In example (\ref{ex699}), the speaker shows me a particular tree used for poison-root fishing. The example shows that the \isi{purposive} \isi{clause} can take an \isi{object} by forming a compound `for swamp poisoning' > `to poison the swamp'. Note that the \isi{recognitional} \isi{pronoun} is used just before the nominalised verb.
+A: word: nima	 gloss: Quot
+B: word: bänemr=nzo	 gloss: Recog.PURP=ONLY
+C: word: ŋ-a-kwi-n-th	 gloss: M.ALPH-VC.-run.EXT-DU-STNSG
+D: word: bänemr	 gloss: Recog.PURP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 22:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nä kayé zane zf y\stem{r}wre bänemr ... ___ rsr-si=r.
+Gloss (with missing item): INDF day DEM:PROX IMM FPL:SBJ>TSG.MASC:OBJ:NONPAST:IPFV/scrape Recog.PURP ... ___ poison.fishing-NMLZ=PURP.
+The English translation of this sentence is:`Sometimes, we scrape (the root of) this one here for poisoning the waterholes.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In example (\ref{ex699}), the speaker shows me a particular tree used for poison-root fishing. The example shows that the \isi{purposive} \isi{clause} can take an \isi{object} by forming a compound `for its gloss ___ poisoning' > `to poison the its gloss ___'. Note that the \isi{recognitional} \isi{pronoun} is used just before the nominalised verb.
+A: word: nzenme	 gloss: FNSG.POSS
+B: word: zra	 gloss: swamp
+C: word: nzram=ma	 gloss: flower=CHAR
+D: word: ttfö	 gloss: creek
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 23:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wati far ane thd=en sf\stem{räz}rmth ___ kwim ŋad=me sf\stem{mthzg}wrmth.
+Gloss (with missing item): then post DEM middle=LOC STPL:SBJ>TSG.MASC:OBJ:PST:DUR/erect ___ kwim rope=INS STPL:SBJ>TSG.MASC:OBJ:PST:DUR/encircle.
+The English translation of this sentence is:`Then, they were erecting a post in the middle in order to wrap around the kwim (Acacia mangium) rope.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Purposive clauses can also be less syntactically integrated and form an independent \isi{clause}. In this case, they are usually introduced by the \isi{recognitional} flagged with \isi{purposive} \isi{case} the morpheme ___, which I translate with `in order to'. Example (\ref{ex700}) describes a tall structure used to show off the amount of a group's yams harvest. This structure involved a long post around which many layers of yam tubers were tied with thick rope.
+A: word: bänemr=nzo	 gloss: Recog.PURP=ONLY
+B: word: wati	 gloss: then
+C: word: ane=ma	 gloss: DEM=CHAR
+D: word: bänemr	 gloss: Recog.PURP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 24:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ŋafe fthémäsü kwosi ya\stem{r}a ... watik foba ni miyamr n\stem{rä} mafa=dben zena e\stem{thn}.
+Gloss (with missing item): ___ father meanwhile dead TSG.MASC:SBJ:PST:IPFV/be ... then DIST.ABL FNSG ignorance FPL:SBJ:NONPAST:IPFV/be who=LOC.ANIM.SG today STPL:SBJ:NONPAST:IPFV/lie.down.
+The English translation of this sentence is:`In the meantime our father died ... and from then one we don't know with whom (the rain stones) are today.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Fthémäsü is not a subordinator because it can be used on independent clauses with the translation `in the meantime'. In example (\ref{ex692}), the speaker explains that after his father's death, the stones for rain-making were lost.
+A: word: nzenme=ma	 gloss: FNSG.POSS=CHAR
+B: word: nzone	 gloss: FSG.POSS
+C: word: nima	 gloss: Quot
+D: word: nzenme	 gloss: FNSG.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 25:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): fthé nima baf=en ka\stem{brig}rnoth holiday=en ___ fefe ka\stem{trif}e fi bobo \stem{yé}.
+Gloss (with missing item): when like.this Recog=LOC DU:SBJ:IMP:IPFV:ANDAT/return holiday=LOC ___ really Sdu:SBJ:IMP:PFV/tell Third.ABS MED.All TSG.MASC:SBJ:NONPAST:IPFV/be.
+The English translation of this sentence is:`When you return in the holidays, then you have say: ``He is there!'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A third strategy to connect a \isi{clause} temporally is by using the \isi{recognitional} inflected with the \isi{locative} case bafen. But this is an infrequent strategy because (i) the \isi{temporal} function is an extension of the \isi{locative} case and (ii) connecting clauses is only one function of the \isi{recognitional}. Example (\ref{ex693}) is about two men from Rouku who used to work on the Fly River. They run into another man from Rouku, who has been away for a long time. The \isi{recognitional} occurs twice. First, is it coreferential with holiday: `in that time ... during the holidays'. The second use is difficult to analyse because this is also a \isi{temporal}/\isi{conditional} construction, but one can assume that bafen introduces the second clause.
+A: word: nzenme	 gloss: FNSG.POSS
+B: word: baf=ane	 gloss: Recog=POSS.SG
+C: word: bäne=fo	 gloss: Recog=All
+D: word: baf=en	 gloss: Recog=LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 26:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ gon z ze\stem{faf}.
+Gloss (with missing item): ___ hip IAM STSG:SBJ:Rpst:PFV/hold.
+The English translation of this sentence is:`He held hips while rejoicing' or `He held hips rejoicingly.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{proprietive} and \isi{instrumental} case on a nominalised verb can be used to express a manner adverbial \isi{clause}. In the functional extension, the two case markers can also express a relation of association and \isi{temporal} overlaps respectively. Hence, the nominalised verb flagged with the \isi{proprietive} case in example (\ref{ex694}) can be translated as `He held hips while rejoicing' or `He held hips rejoicingly.'
+A: word: yafü-si=karä	 gloss: open-NMLZ=PROP
+B: word: thwek-si=karä	 gloss: rejoice-NMLZ=PROP
+C: word: nzenme	 gloss: FNSG.POSS
+D: word: trik-si=karä	 gloss: tell-NMLZ=PROP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 27:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nä station kabe fä zä\stem{mosir}ath ___ thf\stem{kogr}m ... fam kwa\stem{rä}rmth kwa y\stem{wokrak}wr o kwa ŋa\stem{brüz}r.
+Gloss (with missing item): INDF station man DIST STPL:SBJ:PST:PFV/gather ___ STPL:SBJ:PST:DUR/stand ... thought STPL:SBJ:PST:DUR/do FUT TSG.MASC:SBJ:NONPAST:IPFV/float or FUT STSG:SBJ:NONPAST:IPFV/submerge.
+The English translation of this sentence is:`Some station people gathered there. They were standing thinking: ``Will it float or will it sink?'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{recognitional} \isi{case} also serves to introduce a clause which expresses a manner (or \isi{temporal} association). In example (\ref{ex695}), the speaker explains how he and his friends were loading a heavy sago stem on a canoe. Some people from Morehead Station were sceptical about this plan. Thus, bäneme thfkogrm `They were standing with/like this' connects to the following clause which expresses `They stood thinking ...'.
+A: word: bäne=me	 gloss: Recog=INS
+B: word: bäne=fo	 gloss: Recog=All
+C: word: bäne=ma	 gloss: DEM:MED=CHAR
+D: word: mafa	 gloss: who.ERG.NSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 28:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nä station kabe fä zä\stem{mosir}ath bäne=me thf\stem{kogr}m ... ___ kwa\stem{rä}rmth kwa y\stem{wokrak}wr o kwa ŋa\stem{brüz}r.
+Gloss (with missing item): INDF station man DIST STPL:SBJ:PST:PFV/gather Recog=INS STPL:SBJ:PST:DUR/stand ... ___ STPL:SBJ:PST:DUR/do FUT TSG.MASC:SBJ:NONPAST:IPFV/float or FUT STSG:SBJ:NONPAST:IPFV/submerge.
+The English translation of this sentence is:`Some station people gathered there. They were standing thinking: ``Will it float or will it sink?'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{recognitional} \isi{case} also serves to introduce a clause which expresses a manner (or \isi{temporal} association). In example (\ref{ex695}), the speaker explains how he and his friends were loading a heavy sago stem on a canoe. Some people from Morehead Station were sceptical about this plan. Thus, bäneme thfkogrm `They were standing with/like this' connects to the following clause which expresses `They stood thinking ...'.
+A: word: fam	 gloss: thought
+B: word: bänemr=nzo	 gloss: Recog.PURP=ONLY
+C: word: fam=ä	 gloss: thought=ASSOC
+D: word: ane=ma	 gloss: DEM=CHAR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 29:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zena ane bäne=me nz=e\stem{zinak}wre ___ bäne w\stem{yak} b=\stem{rä} ... trik-si mon=me kma zra\stem{rä}.
+Gloss (with missing item): now DEM Recog=INS IMMpst=FPL:SBJ>STPL:OBJ:NONPAST:IPFV/put.down ___ Recog.ABS TSG.F:SBJ:NONPAST:IPFV/walk MED=TSG.F:SBJ:NONPAST:IPFV/be ... tell-NMLZ how=INS Pot TSG.F:SBJ:IRR:IPFV/be.
+The English translation of this sentence is:`Now we are putting (the pictures) down how it goes there ... how the story should be.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The most common way to encode a manner adverbial is by a \isi{relative clause} with mon or monme `how' ({\S}\ref{relclauses}). Example (\ref{ex696}) is taken from a picture task, where the participants were asked to arrange picture cards into a story. In the example, the speaker explains the task to a bystander. Note that the \isi{recognitional} bäneme `with this, in this way' also appears in the first clause. The second \isi{recognitional} bäne refers to trikasi `story' as we can see in the last clause.
+A: word: mane=me	 gloss: which=INS
+B: word: mon=me	 gloss: how=INS
+C: word: drdr	 gloss: old.garden
+D: word: katan=me	 gloss: small=INS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 30:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zena ane bäne=me nz=e\stem{zinak}wre mon=me bäne w\stem{yak} b=\stem{rä} ... ___ mon=me kma zra\stem{rä}.
+Gloss (with missing item): now DEM Recog=INS IMMpst=FPL:SBJ>STPL:OBJ:NONPAST:IPFV/put.down how=INS Recog.ABS TSG.F:SBJ:NONPAST:IPFV/walk MED=TSG.F:SBJ:NONPAST:IPFV/be ... ___ how=INS Pot TSG.F:SBJ:IRR:IPFV/be.
+The English translation of this sentence is:`Now we are putting (the pictures) down how it goes there ... how the story should be.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The most common way to encode a manner adverbial is by a \isi{relative clause} with mon or monme `how' ({\S}\ref{relclauses}). Example (\ref{ex696}) is taken from a picture task, where the participants were asked to arrange picture cards into a story. In the example, the speaker explains the task to a bystander. Note that the \isi{recognitional} bäneme `with this, in this way' also appears in the first clause. The second \isi{recognitional} bäne refers to trikasi `story' as we can see in the last clause.
+A: word: ane=ma	 gloss: DEM=CHAR
+B: word: trik-si=karä	 gloss: tell-NMLZ=PROP
+C: word: t-trika-si	 gloss: REDUP-tell-NMLZ
+D: word: trik-si	 gloss: tell-NMLZ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 31:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nze nima b=yan\stem{nor} ane kabe fof ___ maf won\stem{rsokn}wr.
+Gloss (with missing item): FSG.ERG Quot MED=TSG.MASC:SBJ:NONPAST:IPFV:VENIT/shout DEM man EMPH ___ who.SG.ERG STSG:SBJ>FSG:OBJ:NONPAST:IPFV:VENIT/bother.
+The English translation of this sentence is:`I said: ``He is shouting out there. This man who bothers me.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: I begin by describing the formal structure of relative clauses. Formally, they are similar to content questions because the relative pronouns are identical to the interrogative pronouns.\footnote{I refer the reader to {\S}\ref{interrogatives-sec} for a description of interrogative pronouns. See especially \tabref{interrogatives-table}, but also the interrogatives in \tabref{demonstratives-table}.} We could say that interrogatives function as relative pronouns, which is why I do not \isi{gloss} them as \textsc{rel} in the following examples. Instead, I \isi{gloss} them in the same manner, in which pronouns in interrogative function are glossed. However, relative clauses are semantically distinct from content questions because the answer to the question is already given in the form of the NP\textsubscript{\textsc{mat}}. Relative clauses are also syntactically different from content questions in that the relative \isi{pronoun} has to occur as the second element (\figref{relclause}). Such a restriction does not apply to content questions. This is illustrated in (\ref{ex541}-\ref{ex543}), where the \isi{relative clause} in each example is printed in bold face.
+A: word: nafa-fäms=f	 gloss: Third.POSS-exchange.man=ERG.SG
+B: word: nzä	 gloss: FSG.ABS
+C: word: fam	 gloss: thoughts
+D: word: nzä=nzo	 gloss: FSG.ABS=ONLY
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 32:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kma wämne ane fof kwa\stem{kark}wé ane fof ___ mane thä\stem{narf}a ... keke watik-thé=märe.
+Gloss (with missing item): Pot tree DEM EMPH FSG:SBJ:Rpst:IPFV/pull DEM EMPH ___ which(ABS) SG:SBJ>STPL:OBJ:PST:IPFV/press.down ... NEG enough-Adlzr=PRIV.
+The English translation of this sentence is:`I should have pulled that tree (from the fence), which the tree was pushing down. No, (I was) not (strong) enough!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: I begin by describing the formal structure of relative clauses. Formally, they are similar to content questions because the relative pronouns are identical to the interrogative pronouns.\footnote{I refer the reader to {\S}\ref{interrogatives-sec} for a description of interrogative pronouns. See especially \tabref{interrogatives-table}, but also the interrogatives in \tabref{demonstratives-table}.} We could say that interrogatives function as relative pronouns, which is why I do not \isi{gloss} them as \textsc{rel} in the following examples. Instead, I \isi{gloss} them in the same manner, in which pronouns in interrogative function are glossed. However, relative clauses are semantically distinct from content questions because the answer to the question is already given in the form of the NP\textsubscript{\textsc{mat}}. Relative clauses are also syntactically different from content questions in that the relative \isi{pronoun} has to occur as the second element (\figref{relclause}). Such a restriction does not apply to content questions. This is illustrated in (\ref{ex541}-\ref{ex543}), where the \isi{relative clause} in each example is printed in bold face.
+A: word: wämne=n	 gloss: tree=LOC
+B: word: wämne	 gloss: tree
+C: word: drdr	 gloss: old.garden
+D: word: wämne=f	 gloss: tree=ERG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 33:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nze nima b=yan\stem{nor} ane kabe fof ___ maf won\stem{rsokn}wr.
+Gloss (with missing item): FSG.ERG Quot MED=TSG.MASC:SBJ:NONPAST:IPFV:VENIT/shout DEM man EMPH ___ who.SG.ERG STSG:SBJ>FSG:OBJ:NONPAST:IPFV:VENIT/bother.
+The English translation of this sentence is:`I said: ``He is shouting out there. This man who bothers me.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example (\ref{ex541}) comes from a hunting story where the narrator had encountered a spirit which began chasing him. In the example, the relative \isi{pronoun} maf follows the \isi{pronoun} the morpheme ___. The \isi{relative clause} follows the NP\textsubscript{\textsc{mat}} ane kabe `that man'.
+A: word: nzä=nzo	 gloss: FSG.ABS=ONLY
+B: word: nzä	 gloss: FSG.ABS
+C: word: mafa	 gloss: who.ERG.NSG
+D: word: nafan	 gloss: TSG.DAT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 34:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ni fi ane zu\stem{mar}wrme ___ tharthar=en mane zf\stem{rä}rm.
+Gloss (with missing item): FNSG but DEM FPL:SBJ>TSG.F:OBJ:PST:DUR/look ___ side=LOC which(ABS) TSG.F:SBJ:PST:DUR/be.
+The English translation of this sentence is:`But we were looking at that (fire), which was on the side of the house.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In example (\ref{ex542}), the speaker describes why he did not pay attention to a fire that almost burned his garden. In the example, the relative \isi{pronoun} mane is preceded by the \isi{noun phrase} the morpheme ___ tharthar `side of the its gloss ___'. This is an adjoined \isi{relative clause} because it is outside the NP\textsubscript{\textsc{mat}}, which in this case is mni `fire', whose antecedent is understood from the context.
+A: word: komnzo	 gloss: only
+B: word: mnz=fa	 gloss: house=ABL
+C: word: mni	 gloss: fire
+D: word: mnz	 gloss: house
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 35:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kma wämne ane fof kwa\stem{kark}wé ane fof ___ mane thä\stem{narf}a ... keke watik-thé=märe.
+Gloss (with missing item): Pot tree DEM EMPH FSG:SBJ:Rpst:IPFV/pull DEM EMPH ___ which(ABS) SG:SBJ>STPL:OBJ:PST:IPFV/press.down ... NEG enough-Adlzr=PRIV.
+The English translation of this sentence is:`I should have pulled that tree (from the fence), which the tree was pushing down. No, (I was) not (strong) enough!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Finally, in (\ref{ex543}) the speaker describes how he was trying to remove a burning tree from his garden fence. The relative \isi{pronoun} mane follows the \isi{ergative} marked wämne `tree'. This is an adjoined \isi{relative clause} because it is outside the matrix NP, which in this case is ŋarake `garden fence', whose antecedent is understood from the context.
+A: word: mafa	 gloss: who.ERG.NSG
+B: word: wämne	 gloss: tree
+C: word: wämne=n	 gloss: tree=LOC
+D: word: wämne=f	 gloss: tree=ERG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 36:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): sukawi nima keke \stem{rä} zane fthé=thamane \stem{yé} ... ane kabe fof ___ waniwani zöbthé nz=wn\stem{mar}wre.
+Gloss (with missing item): sukawi like.this NEG TSG.F:SBJ:NONPAST:IPFV/be DEM:PROX when=TEMP.POSS TSG.MASC:SBJ:NONPAST:IPFV/be ... DEM man EMPH ___ picture first IMMpst=FPL:SBJ>TSG.F:OBJ:NONPAST:IPFV:VENIT/see.
+The English translation of this sentence is:`Sukawi, it is not like that. This is from that time ... really this man whose picture we just saw before.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A second rule is needed for examples where the relative \isi{pronoun} occurs in initial position of the \isi{relative clause}. Although this is possible, such examples are much less frequent than the second position. The relative \isi{pronoun} can occur in first position only (i) if it is preceded by the NP\textsubscript{\textsc{mat}} (\ref{ex544} and \ref{ex545}), or (ii) if the only other element in the \isi{relative clause} is the verb (\ref{ex546}).
+A: word: zra	 gloss: swamp
+B: word: segeru	 gloss: palm.wine
+C: word: nafane=ma=wä	 gloss: TSG.POSS=CHAR=EMPH
+D: word: mafane=ma=wä	 gloss: who.SG.POSS=CHAR=EMPH
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 37:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ane fath=nzo zf\stem{rä}rm wämne keke ... dödö=nzo ... dödö ___ ŋa\stem{ren}wre fath.
+Gloss (with missing item): DEM clearing=ONLY TSG.F:SBJ:PST:DUR/be tree NEG ... dödö=ONLY ... dödö ___ FPL:SBJ:NONPAST:IPFV/sweep clearing.
+The English translation of this sentence is:`This was a clearing, no trees ... only dödö (Sida acuta) ... dödö, with which we sweep the clear places.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A second rule is needed for examples where the relative \isi{pronoun} occurs in initial position of the \isi{relative clause}. Although this is possible, such examples are much less frequent than the second position. The relative \isi{pronoun} can occur in first position only (i) if it is preceded by the NP\textsubscript{\textsc{mat}} (\ref{ex544} and \ref{ex545}), or (ii) if the only other element in the \isi{relative clause} is the verb (\ref{ex546}).
+A: word: mon=me	 gloss: how=INS
+B: word: mane=me	 gloss: which=INS
+C: word: mafa	 gloss: who.ERG.NSG
+D: word: ane=me	 gloss: DEM=INS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 38:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bundbo=nzo \stem{rä} ___ za\stem{wokth}.
+Gloss (with missing item): SSG.All=ONLY TSG.F:NONPAST:IPFV/be ___ SSG:SBJ:IMP:PFV/choose.
+The English translation of this sentence is:`It is up to you which one you choose!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A second rule is needed for examples where the relative \isi{pronoun} occurs in initial position of the \isi{relative clause}. Although this is possible, such examples are much less frequent than the second position. The relative \isi{pronoun} can occur in first position only (i) if it is preceded by the NP\textsubscript{\textsc{mat}} (\ref{ex544} and \ref{ex545}), or (ii) if the only other element in the \isi{relative clause} is the verb (\ref{ex546}).
+A: word: zena=thamane	 gloss: today=TEMP.POSS
+B: word: nzenme	 gloss: FNSG.POSS
+C: word: fothr	 gloss: fothr
+D: word: mane	 gloss: which(ABS)
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 39:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): sukawi nima keke \stem{rä} zane fthé=thamane \stem{yé} ... ane kabe fof ___ waniwani zöbthé nz=wn\stem{mar}wre.
+Gloss (with missing item): sukawi like.this NEG TSG.F:SBJ:NONPAST:IPFV/be DEM:PROX when=TEMP.POSS TSG.MASC:SBJ:NONPAST:IPFV/be ... DEM man EMPH ___ picture first IMMpst=FPL:SBJ>TSG.F:OBJ:NONPAST:IPFV:VENIT/see.
+The English translation of this sentence is:`Sukawi, it is not like that. This is from that time ... really this man whose picture we just saw before.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example (\ref{ex544}) is taken from a picture stimulus task. One of the participants is correcting the other. Note that the \ili{English} translation is misleading. The noun phrase mafanemäwä waniwani is a complex noun phrase and the relative \isi{pronoun} mafanema is marked flagged with the \isi{characteristic} \isi{case} in adnominal function. Thus, mafanemäwä waniwani should be translated not as \isi{genitive} `whose picture', but as origin `picture of/about who'.
+A: word: mafane=ma=wä	 gloss: who.SG.POSS=CHAR=EMPH
+B: word: rirk-si=ma	 gloss: respect-NMLZ=CHAR
+C: word: wämne=f	 gloss: tree=ERG
+D: word: nafane=ma=wä	 gloss: TSG.POSS=CHAR=EMPH
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 40:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ane fath=nzo zf\stem{rä}rm wämne keke ... dödö=nzo ... dödö ___ ŋa\stem{ren}wre fath.
+Gloss (with missing item): DEM clearing=ONLY TSG.F:SBJ:PST:DUR/be tree NEG ... dödö=ONLY ... dödö ___ FPL:SBJ:NONPAST:IPFV/sweep clearing.
+The English translation of this sentence is:`This was a clearing, no trees ... only dödö (Sida acuta) ... dödö, with which we sweep the clear places.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In example (\ref{ex545}), the relative \isi{pronoun} occurs initially following the NP\textsubscript{\textsc{mat}} dödö.
+A: word: ane=me	 gloss: DEM=INS
+B: word: mon=me	 gloss: how=INS
+C: word: mane=me	 gloss: which=INS
+D: word: mni	 gloss: fire
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 41:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nze nima b=yan\stem{nor} ane kabe fof ___ maf won\stem{rsokn}wr.
+Gloss (with missing item): FSG.ERG Quot MED=TSG.MASC:SBJ:NONPAST:IPFV:VENIT/shout DEM man EMPH ___ who.SG.ERG STSG:SBJ>FSG:OBJ:NONPAST:IPFV:VENIT/bother.
+The English translation of this sentence is:`I said: ``He is shouting out there. This man who bothers me.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Next, I describe which kinds of argument roles can be relativised in the \isi{matrix clause} (NP\textsubscript{\textsc{mat}}), and which can occur in the \isi{relative clause} (NP\textsubscript{\textsc{rel}}). As the examples in this section show, there is virtually no restriction on the possible argument roles. NP\textsubscript{\textsc{rel}} is expressed by the relative \isi{pronoun}, which can inflect for all cases ({\S}\ref{interrogatives-sec}). The examples given in this section include the following cases: \isi{ergative} (\ref{ex541}), \isi{absolutive} (\ref{ex542}, \ref{ex543}, \ref{ex546}), \isi{characteristic} (\ref{ex544}), \isi{dative} (\ref{ex551}), \isi{locative} (\ref{ex547}), and \isi{instrumental} (\ref{ex545}).
+A: word: nzä	 gloss: FSG.ABS
+B: word: nzä=nzo	 gloss: FSG.ABS=ONLY
+C: word: drdr	 gloss: old.garden
+D: word: th-ä-kwr-a-th	 gloss: STNSG.GAM-VC.textbarNDU-hit.RS-PST-STNSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 42:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ni fi ane zu\stem{mar}wrme ___ tharthar=en mane zf\stem{rä}rm.
+Gloss (with missing item): FNSG but DEM FPL:SBJ>TSG.F:OBJ:PST:DUR/look ___ side=LOC which(ABS) TSG.F:SBJ:PST:DUR/be.
+The English translation of this sentence is:`But we were looking at that (fire), which was on the side of the house.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Next, I describe which kinds of argument roles can be relativised in the \isi{matrix clause} (NP\textsubscript{\textsc{mat}}), and which can occur in the \isi{relative clause} (NP\textsubscript{\textsc{rel}}). As the examples in this section show, there is virtually no restriction on the possible argument roles. NP\textsubscript{\textsc{rel}} is expressed by the relative \isi{pronoun}, which can inflect for all cases ({\S}\ref{interrogatives-sec}). The examples given in this section include the following cases: \isi{ergative} (\ref{ex541}), \isi{absolutive} (\ref{ex542}, \ref{ex543}, \ref{ex546}), \isi{characteristic} (\ref{ex544}), \isi{dative} (\ref{ex551}), \isi{locative} (\ref{ex547}), and \isi{instrumental} (\ref{ex545}).
+A: word: mnz	 gloss: house
+B: word: mnz=fa	 gloss: house=ABL
+C: word: komnzo	 gloss: only
+D: word: ane	 gloss: DEM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 43:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kma wämne ane fof kwa\stem{kark}wé ane fof ___ mane thä\stem{narf}a ... keke watik-thé=märe.
+Gloss (with missing item): Pot tree DEM EMPH FSG:SBJ:Rpst:IPFV/pull DEM EMPH ___ which(ABS) SG:SBJ>STPL:OBJ:PST:IPFV/press.down ... NEG enough-Adlzr=PRIV.
+The English translation of this sentence is:`I should have pulled that tree (from the fence), which the tree was pushing down. No, (I was) not (strong) enough!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Next, I describe which kinds of argument roles can be relativised in the \isi{matrix clause} (NP\textsubscript{\textsc{mat}}), and which can occur in the \isi{relative clause} (NP\textsubscript{\textsc{rel}}). As the examples in this section show, there is virtually no restriction on the possible argument roles. NP\textsubscript{\textsc{rel}} is expressed by the relative \isi{pronoun}, which can inflect for all cases ({\S}\ref{interrogatives-sec}). The examples given in this section include the following cases: \isi{ergative} (\ref{ex541}), \isi{absolutive} (\ref{ex542}, \ref{ex543}, \ref{ex546}), \isi{characteristic} (\ref{ex544}), \isi{dative} (\ref{ex551}), \isi{locative} (\ref{ex547}), and \isi{instrumental} (\ref{ex545}).
+A: word: wämne=n	 gloss: tree=LOC
+B: word: wämne	 gloss: tree
+C: word: mane	 gloss: which
+D: word: wämne=f	 gloss: tree=ERG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 44:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bundbo=nzo \stem{rä} ___ za\stem{wokth}.
+Gloss (with missing item): SSG.All=ONLY TSG.F:NONPAST:IPFV/be ___ SSG:SBJ:IMP:PFV/choose.
+The English translation of this sentence is:`It is up to you which one you choose!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Next, I describe which kinds of argument roles can be relativised in the \isi{matrix clause} (NP\textsubscript{\textsc{mat}}), and which can occur in the \isi{relative clause} (NP\textsubscript{\textsc{rel}}). As the examples in this section show, there is virtually no restriction on the possible argument roles. NP\textsubscript{\textsc{rel}} is expressed by the relative \isi{pronoun}, which can inflect for all cases ({\S}\ref{interrogatives-sec}). The examples given in this section include the following cases: \isi{ergative} (\ref{ex541}), \isi{absolutive} (\ref{ex542}, \ref{ex543}, \ref{ex546}), \isi{characteristic} (\ref{ex544}), \isi{dative} (\ref{ex551}), \isi{locative} (\ref{ex547}), and \isi{instrumental} (\ref{ex545}).
+A: word: zena=thamane	 gloss: today=TEMP.POSS
+B: word: su-rmän-wr-m-∅	 gloss: TSG.MASC.Betatwo-close.EXT-NDU-DUR-STNSG
+C: word: mane	 gloss: which(ABS)
+D: word: zra	 gloss: swamp
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 45:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): sukawi nima keke \stem{rä} zane fthé=thamane \stem{yé} ... ane kabe fof ___ waniwani zöbthé nz=wn\stem{mar}wre.
+Gloss (with missing item): sukawi like.this NEG TSG.F:SBJ:NONPAST:IPFV/be DEM:PROX when=TEMP.POSS TSG.MASC:SBJ:NONPAST:IPFV/be ... DEM man EMPH ___ picture first IMMpst=FPL:SBJ>TSG.F:OBJ:NONPAST:IPFV:VENIT/see.
+The English translation of this sentence is:`Sukawi, it is not like that. This is from that time ... really this man whose picture we just saw before.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Next, I describe which kinds of argument roles can be relativised in the \isi{matrix clause} (NP\textsubscript{\textsc{mat}}), and which can occur in the \isi{relative clause} (NP\textsubscript{\textsc{rel}}). As the examples in this section show, there is virtually no restriction on the possible argument roles. NP\textsubscript{\textsc{rel}} is expressed by the relative \isi{pronoun}, which can inflect for all cases ({\S}\ref{interrogatives-sec}). The examples given in this section include the following cases: \isi{ergative} (\ref{ex541}), \isi{absolutive} (\ref{ex542}, \ref{ex543}, \ref{ex546}), \isi{characteristic} (\ref{ex544}), \isi{dative} (\ref{ex551}), \isi{locative} (\ref{ex547}), and \isi{instrumental} (\ref{ex545}).
+A: word: monme	 gloss: how
+B: word: nafane=ma=wä	 gloss: TSG.POSS=CHAR=EMPH
+C: word: mafane=ma=wä	 gloss: who.SG.POSS=CHAR=EMPH
+D: word: baf=en	 gloss: Recog=LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 46:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mni w\stem{thomon}wrth ___ mä zf\stem{rä}rm.
+Gloss (with missing item): fire STPL:SBJ>TSG.F:OBJ:NONPAST:IPFV/pile.up.fire ___ where TSG.F:SBJ:PST:DUR.
+The English translation of this sentence is:`They prepare the fire where the hole was.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Next, I describe which kinds of argument roles can be relativised in the \isi{matrix clause} (NP\textsubscript{\textsc{mat}}), and which can occur in the \isi{relative clause} (NP\textsubscript{\textsc{rel}}). As the examples in this section show, there is virtually no restriction on the possible argument roles. NP\textsubscript{\textsc{rel}} is expressed by the relative \isi{pronoun}, which can inflect for all cases ({\S}\ref{interrogatives-sec}). The examples given in this section include the following cases: \isi{ergative} (\ref{ex541}), \isi{absolutive} (\ref{ex542}, \ref{ex543}, \ref{ex546}), \isi{characteristic} (\ref{ex544}), \isi{dative} (\ref{ex551}), \isi{locative} (\ref{ex547}), and \isi{instrumental} (\ref{ex545}).
+A: word: fam	 gloss: thoughts
+B: word: yfö=n	 gloss: hole=LOC
+C: word: yfö=me	 gloss: hole=INS
+D: word: yfö	 gloss: hole
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 47:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ane fath=nzo zf\stem{rä}rm wämne keke ... dödö=nzo ... dödö ___ ŋa\stem{ren}wre fath.
+Gloss (with missing item): DEM clearing=ONLY TSG.F:SBJ:PST:DUR/be tree NEG ... dödö=ONLY ... dödö ___ FPL:SBJ:NONPAST:IPFV/sweep clearing.
+The English translation of this sentence is:`This was a clearing, no trees ... only dödö (Sida acuta) ... dödö, with which we sweep the clear places.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Next, I describe which kinds of argument roles can be relativised in the \isi{matrix clause} (NP\textsubscript{\textsc{mat}}), and which can occur in the \isi{relative clause} (NP\textsubscript{\textsc{rel}}). As the examples in this section show, there is virtually no restriction on the possible argument roles. NP\textsubscript{\textsc{rel}} is expressed by the relative \isi{pronoun}, which can inflect for all cases ({\S}\ref{interrogatives-sec}). The examples given in this section include the following cases: \isi{ergative} (\ref{ex541}), \isi{absolutive} (\ref{ex542}, \ref{ex543}, \ref{ex546}), \isi{characteristic} (\ref{ex544}), \isi{dative} (\ref{ex551}), \isi{locative} (\ref{ex547}), and \isi{instrumental} (\ref{ex545}).
+A: word: mon=me	 gloss: how=INS
+B: word: yfö	 gloss: hole
+C: word: ane=me	 gloss: DEM=INS
+D: word: mane=me	 gloss: which=INS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 48:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kma wämne ane fof kwa\stem{kark}wé ane fof ___ mane thä\stem{narf}a ... keke watik-thé=märe.
+Gloss (with missing item): Pot tree DEM EMPH FSG:SBJ:Rpst:IPFV/pull DEM EMPH ___ which(ABS) SG:SBJ>STPL:OBJ:PST:IPFV/press.down ... NEG enough-Adlzr=PRIV.
+The English translation of this sentence is:`I should have pulled that tree (from the fence), which the tree was pushing down. No, (I was) not (strong) enough!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is harder to determine the argument role of NP\textsubscript{\textsc{mat}} because its presence is optional. We saw in (\ref{ex543}) that the relative \isi{pronoun} mane referred to the fence, which the burning tree had pushed down. But this is not expressed by a noun phrase, nor is the fence indexed in the verb of the \isi{matrix clause}. We only know about it from the preceding context of the story, and the \isi{plural} prefix in the verb of the \isi{relative clause}.\footnote{The word ŋarake `fence' is frequently used in the plural.} In (\ref{ex542}), the fire is not expressed as a noun phrase, but the prefix of the verbs zumarwrme `we were seeing it' and zfrärm `it was', both indexing mni `fire' (3\Sg.\F). However, we can always determine the argument role of NP\textsubscript{\textsc{mat}} from the context. The following argument roles are found in the examples given in this section: the single argument of an intransitive verb (\ref{ex541}), \isi{patient} (\ref{ex542}), location (\ref{ex547}), discourse \isi{topic} (\ref{ex548}), actor (\ref{ex549}), and \isi{recipient} (\ref{ex550}).
+A: word: wämne=n	 gloss: tree=LOC
+B: word: wämne	 gloss: tree
+C: word: zöbthé	 gloss: first
+D: word: wämne=f	 gloss: tree=ERG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 49:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ni fi ane zu\stem{mar}wrme ___ tharthar=en mane zf\stem{rä}rm.
+Gloss (with missing item): FNSG but DEM FPL:SBJ>TSG.F:OBJ:PST:DUR/look ___ side=LOC which(ABS) TSG.F:SBJ:PST:DUR/be.
+The English translation of this sentence is:`But we were looking at that (fire), which was on the side of the house.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is harder to determine the argument role of NP\textsubscript{\textsc{mat}} because its presence is optional. We saw in (\ref{ex543}) that the relative \isi{pronoun} mane referred to the fence, which the burning tree had pushed down. But this is not expressed by a noun phrase, nor is the fence indexed in the verb of the \isi{matrix clause}. We only know about it from the preceding context of the story, and the \isi{plural} prefix in the verb of the \isi{relative clause}.\footnote{The word ŋarake `fence' is frequently used in the plural.} In (\ref{ex542}), the fire is not expressed as a noun phrase, but the prefix of the verbs zumarwrme `we were seeing it' and zfrärm `it was', both indexing mni `fire' (3\Sg.\F). However, we can always determine the argument role of NP\textsubscript{\textsc{mat}} from the context. The following argument roles are found in the examples given in this section: the single argument of an intransitive verb (\ref{ex541}), \isi{patient} (\ref{ex542}), location (\ref{ex547}), discourse \isi{topic} (\ref{ex548}), actor (\ref{ex549}), and \isi{recipient} (\ref{ex550}).
+A: word: mnz	 gloss: house
+B: word: baf=en	 gloss: Recog=LOC
+C: word: komnzo	 gloss: only
+D: word: mnz=fa	 gloss: house=ABL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 50:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nze nima b=yan\stem{nor} ane kabe fof ___ maf won\stem{rsokn}wr.
+Gloss (with missing item): FSG.ERG Quot MED=TSG.MASC:SBJ:NONPAST:IPFV:VENIT/shout DEM man EMPH ___ who.SG.ERG STSG:SBJ>FSG:OBJ:NONPAST:IPFV:VENIT/bother.
+The English translation of this sentence is:`I said: ``He is shouting out there. This man who bothers me.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is harder to determine the argument role of NP\textsubscript{\textsc{mat}} because its presence is optional. We saw in (\ref{ex543}) that the relative \isi{pronoun} mane referred to the fence, which the burning tree had pushed down. But this is not expressed by a noun phrase, nor is the fence indexed in the verb of the \isi{matrix clause}. We only know about it from the preceding context of the story, and the \isi{plural} prefix in the verb of the \isi{relative clause}.\footnote{The word ŋarake `fence' is frequently used in the plural.} In (\ref{ex542}), the fire is not expressed as a noun phrase, but the prefix of the verbs zumarwrme `we were seeing it' and zfrärm `it was', both indexing mni `fire' (3\Sg.\F). However, we can always determine the argument role of NP\textsubscript{\textsc{mat}} from the context. The following argument roles are found in the examples given in this section: the single argument of an intransitive verb (\ref{ex541}), \isi{patient} (\ref{ex542}), location (\ref{ex547}), discourse \isi{topic} (\ref{ex548}), actor (\ref{ex549}), and \isi{recipient} (\ref{ex550}).
+A: word: nzun=wä	 gloss: FSG.DAT=EMPH
+B: word: bäne=me	 gloss: Recog=INS
+C: word: nzä=nzo	 gloss: FSG.ABS=ONLY
+D: word: nzä	 gloss: FSG.ABS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 51:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ni fi ane zu\stem{mar}wrme ___ tharthar=en mane zf\stem{rä}rm.
+Gloss (with missing item): FNSG but DEM FPL:SBJ>TSG.F:OBJ:PST:DUR/look ___ side=LOC which(ABS) TSG.F:SBJ:PST:DUR/be.
+The English translation of this sentence is:`But we were looking at that (fire), which was on the side of the house.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is harder to determine the argument role of NP\textsubscript{\textsc{mat}} because its presence is optional. We saw in (\ref{ex543}) that the relative \isi{pronoun} mane referred to the fence, which the burning tree had pushed down. But this is not expressed by a noun phrase, nor is the fence indexed in the verb of the \isi{matrix clause}. We only know about it from the preceding context of the story, and the \isi{plural} prefix in the verb of the \isi{relative clause}.\footnote{The word ŋarake `fence' is frequently used in the plural.} In (\ref{ex542}), the fire is not expressed as a noun phrase, but the prefix of the verbs zumarwrme `we were seeing it' and zfrärm `it was', both indexing mni `fire' (3\Sg.\F). However, we can always determine the argument role of NP\textsubscript{\textsc{mat}} from the context. The following argument roles are found in the examples given in this section: the single argument of an intransitive verb (\ref{ex541}), \isi{patient} (\ref{ex542}), location (\ref{ex547}), discourse \isi{topic} (\ref{ex548}), actor (\ref{ex549}), and \isi{recipient} (\ref{ex550}).
+A: word: mnz	 gloss: house
+B: word: komnzo	 gloss: only
+C: word: mnz=fa	 gloss: house=ABL
+D: word: baf=en	 gloss: Recog=LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 52:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mni w\stem{thomon}wrth ___ mä zf\stem{rä}rm.
+Gloss (with missing item): fire STPL:SBJ>TSG.F:OBJ:NONPAST:IPFV/pile.up.fire ___ where TSG.F:SBJ:PST:DUR.
+The English translation of this sentence is:`They prepare the fire where the hole was.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is harder to determine the argument role of NP\textsubscript{\textsc{mat}} because its presence is optional. We saw in (\ref{ex543}) that the relative \isi{pronoun} mane referred to the fence, which the burning tree had pushed down. But this is not expressed by a noun phrase, nor is the fence indexed in the verb of the \isi{matrix clause}. We only know about it from the preceding context of the story, and the \isi{plural} prefix in the verb of the \isi{relative clause}.\footnote{The word ŋarake `fence' is frequently used in the plural.} In (\ref{ex542}), the fire is not expressed as a noun phrase, but the prefix of the verbs zumarwrme `we were seeing it' and zfrärm `it was', both indexing mni `fire' (3\Sg.\F). However, we can always determine the argument role of NP\textsubscript{\textsc{mat}} from the context. The following argument roles are found in the examples given in this section: the single argument of an intransitive verb (\ref{ex541}), \isi{patient} (\ref{ex542}), location (\ref{ex547}), discourse \isi{topic} (\ref{ex548}), actor (\ref{ex549}), and \isi{recipient} (\ref{ex550}).
+A: word: mon=me	 gloss: how=INS
+B: word: yfö	 gloss: hole
+C: word: yfö=me	 gloss: hole=INS
+D: word: yfö=n	 gloss: hole=LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 53:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ane=ma nä katan zokwasi nima=me=nzo fof zf\stem{rä} ... nzone katan masis=ma ... ane mni=ma ___ mane zu\stem{ko}nzrmth kidn o zfth mni.
+Gloss (with missing item): DEM=CHAR INDF small words like.this=INS=ONLY EMPH TSG.F:Rpst:IPFV/be ... FSG.POSS small matches=CHAR ... DEM fire=CHAR ___ which(ABS) STPL:SBJ>TSG.F:OBJ:PST:DUR/speak kidn or base fire.
+The English translation of this sentence is:`This was another small story like this ... about my small matches ... about the fire, which they were calling Kidn or base fire before.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is harder to determine the argument role of NP\textsubscript{\textsc{mat}} because its presence is optional. We saw in (\ref{ex543}) that the relative \isi{pronoun} mane referred to the fence, which the burning tree had pushed down. But this is not expressed by a noun phrase, nor is the fence indexed in the verb of the \isi{matrix clause}. We only know about it from the preceding context of the story, and the \isi{plural} prefix in the verb of the \isi{relative clause}.\footnote{The word ŋarake `fence' is frequently used in the plural.} In (\ref{ex542}), the fire is not expressed as a noun phrase, but the prefix of the verbs zumarwrme `we were seeing it' and zfrärm `it was', both indexing mni `fire' (3\Sg.\F). However, we can always determine the argument role of NP\textsubscript{\textsc{mat}} from the context. The following argument roles are found in the examples given in this section: the single argument of an intransitive verb (\ref{ex541}), \isi{patient} (\ref{ex542}), location (\ref{ex547}), discourse \isi{topic} (\ref{ex548}), actor (\ref{ex549}), and \isi{recipient} (\ref{ex550}).
+A: word: fthé	 gloss: when
+B: word: zöbthé	 gloss: before
+C: word: mafa	 gloss: who.ERG.NSG
+D: word: tnäg-si	 gloss: lose-NMLZ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 54:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bundbo=nzo \stem{rä} ___ za\stem{wokth}.
+Gloss (with missing item): SSG.All=ONLY TSG.F:NONPAST:IPFV/be ___ SSG:SBJ:IMP:PFV/choose.
+The English translation of this sentence is:`It is up to you which one you choose!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is also possible that the \isi{relative clause} is free in the sense that it refers to the whole \isi{matrix clause} and not to a particular \isi{nominal} (\citealt[213]{Andrews:2007relclauses}). Examples are given in (\ref{ex546}) and (\ref{ex551}).
+A: word: zena=thamane	 gloss: today=TEMP.POSS
+B: word: twof	 gloss: heat
+C: word: mane	 gloss: which(ABS)
+D: word: nar-si=r	 gloss: press.down-NMLZ=PURP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 55:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wati net ___ mane e\stem{rä} markai=aneme e\stem{rä} ane.
+Gloss (with missing item): then fishing.net ___ which STPL:SBJ:NONPAST:IPFV/be outsider=POSS.NSG STPL:SBJ:NONPAST:IPFV/be DEM.
+The English translation of this sentence is:`Okay, as for the fishing nets, they are the white man's (things).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The NP\textsubscript{\textsc{mat}} can be fronted together with the \isi{relative clause}, as in (\ref{ex556}). This is commonly used for topicalisation. After showing me a traditional fishing basket, the speaker shifts the topic to more modern methods of fishing. The NP\textsubscript{\textsc{mat}} is net in (\ref{ex556}).
+A: word: ŋare=ane	 gloss: woman=POSS.SG
+B: word: drdr	 gloss: old.garden
+C: word: ane	 gloss: DEM
+D: word: ane=me	 gloss: DEM=INS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 56:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wati net ___ mane e\stem{rä} markai=aneme e\stem{rä} ane.
+Gloss (with missing item): then fishing.net ___ which STPL:SBJ:NONPAST:IPFV/be outsider=POSS.NSG STPL:SBJ:NONPAST:IPFV/be DEM.
+The English translation of this sentence is:`Okay, as for the fishing nets, they are the white man's (things).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The NP\textsubscript{\textsc{mat}} can be fronted together with the \isi{relative clause}, as in (\ref{ex556}). This is commonly used for topicalisation. After showing me a traditional fishing basket, the speaker shifts the topic to more modern methods of fishing. The NP\textsubscript{\textsc{mat}} is net in (\ref{ex556}).
+A: word: ŋare=ane	 gloss: woman=POSS.SG
+B: word: ane	 gloss: DEM
+C: word: thwek-si=karä	 gloss: rejoice-NMLZ=PROP
+D: word: ane=me	 gloss: DEM=INS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 57:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): watik fi komnzo za\stem{thfär} ... bäne=ma fof nima rirk-si=ma b=\stem{rä} ... nima kwa\stem{rirk}wrm ... fi ___ keke kwa\stem{rirk}wrmth ... watik tek=mär e\stem{sufak}wa kwik-kwik=f thu\stem{fath}wrm.
+Gloss (with missing item): then Third.ABS only TSG.F:SBJ:Rpst:PFV/jump ... DEM:MED=CHAR EMPH like.this respect-NMLZ=CHAR MED=TSG.F:SBJ:NONPAST:IPFV/be ... like.this STSG:SBJ:PST:DUR/respect ... but ___ NEG STPL:SBJ:PST:DUR/respect ... then duration=PRIV STPL:SBJ:PST:IPFV/grow.old REDUP-sickness=ERG STSG:SBJ>STPL:OBJ:PST:DUR/hold.
+The English translation of this sentence is:`She just lives on ... because of her respect ... she was respecting (the law) ... but those who did not respect (the law) ... well, they grew old quickly and they got sick.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In example (\ref{ex555}), the speaker talks about food taboos. He makes the point that a particular woman in the village has grown very old because she has always respected those food taboos. The \isi{relative clause} (in bold) marks a shift in topic to all those people who did not respect the food taboos. The antecedent of the \isi{relative clause} is omitted, since it is understood from context. It is different from the old woman, as can been seen by that fact that all following verbs index a plural argument, e.g. kwarirkwrmth `they respected' and thufathwrm `it grabbed them'.
+A: word: baf	 gloss: Recog.ERG.SG
+B: word: mafa=dben	 gloss: who=LOC.ANIM.SG
+C: word: rirk-si=ma	 gloss: respect-NMLZ=CHAR
+D: word: mafa	 gloss: who.NSG.ERG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 58:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): naf ___ nakre wimäs=en mni b=ŋa\stem{sog}.
+Gloss (with missing item): TSG.ERG ___ nakre mango.tree=LOC fire MED=STSG:SBJ:NONPAST:IPFV/climb.
+The English translation of this sentence is:`He said: ``Nakre! The fire is climbing up the mango tree.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The manner \isi{demonstrative} functions as a \isi{quotative} marker. It can introduce \isi{direct speech} without a speech verb, as in example (\ref{ex651}).
+A: word: kwa	 gloss: FUT
+B: word: nima=thatha	 gloss: like.this=Simil
+C: word: nima	 gloss: Quot
+D: word: ane=ma	 gloss: DEM=CHAR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 59:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): naf ŋa\stem{na}fr ___ mäyog-si=r.
+Gloss (with missing item): TSG.ERG STSG:SBJ:NONPAST:IPFV/speak ___ repeat-NMLZ=PURP.
+The English translation of this sentence is:`She said to continue the old garden.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There is no dedicated construction for \isi{indirect speech}. Indirect speech equivalents can be expressed by a speech verb with an adverbial adjunct (\ref{ex652}) or a clause connected with mon `how' (\ref{ex653}).
+A: word: garda=karä	 gloss: canoe=PROP
+B: word: mon=me	 gloss: how=INS
+C: word: daw	 gloss: garden
+D: word: drdr	 gloss: old.garden
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 60:
+You are a linguist specializing in Komnzo. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): emoth=f ŋa\stem{trik}wr ___ z\stem{fn}nzr.
+Gloss (with missing item): girl=ERG.SG STSG:SBJ:NONPAST:IPFV/tell ___ STSG:SBJ>TSG.F:OBJ:PST:IPFV/hit.
+The English translation of this sentence is:`The girl reports how he hit her.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There is no dedicated construction for \isi{indirect speech}. Indirect speech equivalents can be expressed by a speech verb with an adverbial adjunct (\ref{ex652}) or a clause connected with mon `how' (\ref{ex653}).
+A: word: mon=me	 gloss: how=INS
+B: word: bänemr	 gloss: Recog.PURP
+C: word: mane=me	 gloss: which=INS
+D: word: katan=me	 gloss: small=INS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
