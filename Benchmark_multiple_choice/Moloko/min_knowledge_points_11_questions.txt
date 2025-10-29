@@ -1,0 +1,260 @@
+Question 0:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ á-sak=aka]
+Gloss (with missing item): ___ 3S+IFV-multiply=on
+The English translation of this sentence is:‘It is multiplying.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another tail-head link can be seen a little further in the same narrative in \REF{ex:11:22}.
+A: word: á-var	 gloss: 3S+IFV-give
+B: word: a-ndaj	 gloss: 3S-be
+C: word: á-ndaj	 gloss: 3S+IFV-PROG
+D: word: aŋga	 gloss: POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 1:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [á-ndaj ___
+Gloss (with missing item): 3S+IFV-PROG ___
+The English translation of this sentence is:‘It is multiplying.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another tail-head link can be seen a little further in the same narrative in \REF{ex:11:22}.
+A: word: á-sak	 gloss: \SSS+IFV-multiply
+B: word: á-sək=ala	 gloss: 3S+IFV-multiply=to
+C: word: á-sak=aka	 gloss: 3S+IFV-multiply=on
+D: word: dzijga	 gloss: all
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 2:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): \ulp{ndɛ}{~~~~~~} \ule{na} \ulp{lɪmɛ}{~~~~~~} \ule{ɗuw} \ulp{n\`ə-ɮʊg-ɔm}{~~~~~~~~~~~~~~~} \ulp{va}{~~~~~~} \ule{na} ___
+Gloss (with missing item): so PSP 1PEX also oneS+PFV-plant-1PEX body PSP ___
+The English translation of this sentence is:‘So, we also, we fought (lit. planted body), all of us.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Although the presupposition-assertion construction is structurits gloss ___y a clause level phenomenon, it can function in information structuring at the proposition level both to mark a boundary in a discourse, to set topic, and in participant tracking\is{Cohesion!Participant tracking}. When a discourse conjunction or temporal adverb is marked as presupposed (\ref{ex:11:33}--\ref{ex:11:35}, see also \ref{ex:11:49} from \sectref{sec:11.5}), the clause as a whole marks a boundary in the discourse. Such a clause often indicates a time change or an episode boundary. Most of the episodes in the Disobedient Girl story (see \sectref{sec:1.5}) begin with a conjuction marked with na \REF{ex:11:34} or a na-marked temporal phrase (\ref{ex:11:33}, \ref{ex:11:35}). All na-marked elements are underlined in the examples.
+A: word: ndɛ	 gloss: so
+B: word: lɪmɛ	 gloss: 1PEX
+C: word: dʒijga	 gloss: all
+D: word: dzijga	 gloss: all
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 3:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): waja \ulp{ɬa}{~~~~~}\ulp{=ahaj}{~~~~~} \ule{na} \ulp{t\`{ɔ}-zɔm}{~~~~~~~~~~~} \ulp{gəvax}{~~~~~} \ule{na} ___ aŋga lɪmɛ ɮɔm
+Gloss (with missing item): because cow=Pl PSP 3P+PFV-eat field PSP ___ POSS 1PEX five
+The English translation of this sentence is:‘Because those cows, they ate all of that field that belonged to the five of us.’ (lit. because the cows, they ate the field, all of it, belonging to us five)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In both \REF{ex:11:48} and \REF{ex:11:49}, the final prominent element is jəyga ‘its gloss ___.’ The effect is to emphasise the totality of the events. In \REF{ex:11:48}, the fact that its gloss ___ of the field was destroyed by the cows is important to the story. In \REF{ex:11:49}, the story teller is emphasising that it was important that everyone fought against the Mbuko. In fact, people who did not fight were beaten after the skirmish with the Mbuko ended.
+A: word: dzijga	 gloss: all
+B: word: ndɛ	 gloss: so
+C: word: aŋga	 gloss: POSS
+D: word: dʒijga	 gloss: all
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 4:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): waja \ulp{ɬa}{~~~~~}\ulp{=ahaj}{~~~~~} \ule{na} \ulp{t\`{ɔ}-zɔm}{~~~~~~~~~~~} \ulp{gəvax}{~~~~~} \ule{na} {dzijga} ___ lɪmɛ ɮɔm
+Gloss (with missing item): because cow=Pl PSP 3P+PFV-eat field PSP all ___ 1PEX five
+The English translation of this sentence is:‘Because those cows, they ate all of that field that belonged to the five of us.’ (lit. because the cows, they ate the field, all of it, belonging to us five)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In both \REF{ex:11:48} and \REF{ex:11:49}, the final prominent element is jəyga ‘all.’ The effect is to emphasise the totality of the events. In \REF{ex:11:48}, the fact that all of the field was destroyed by the cows is important to the story. In \REF{ex:11:49}, the story teller is emphasising that it was important that everyone fought against the Mbuko. In fact, people who did not fight were beaten after the skirmish with the Mbuko ended.
+A: word: aŋga	 gloss: POSS
+B: word: dzijga	 gloss: all
+C: word: aŋga=uwla	 gloss: POSS=oneS.POSS
+D: word: ɗuw	 gloss: also
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 5:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): waja \ulp{ɬa}{~~~~~}\ulp{=ahaj}{~~~~~} \ule{na} \ulp{t\`{ɔ}-zɔm}{~~~~~~~~~~~} \ulp{gəvax}{~~~~~} \ule{na} {dzijga} aŋga ___ ɮɔm
+Gloss (with missing item): because cow=Pl PSP 3P+PFV-eat field PSP all POSS ___ five
+The English translation of this sentence is:‘Because those cows, they ate all of that field that belonged to the five of us.’ (lit. because the cows, they ate the field, all of it, belonging to us five)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In both \REF{ex:11:48} and \REF{ex:11:49}, the final prominent element is jəyga ‘all.’ The effect is to emphasise the totality of the events. In \REF{ex:11:48}, the fact that all of the field was destroyed by the cows is important to the story. In \REF{ex:11:49}, the story teller is emphasising that it was important that everyone fought against the Mbuko. In fact, people who did not fight were beaten after the skirmish with the Mbuko ended.
+A: word: alɪmɛ	 gloss: 1PEX.POSS
+B: word: ŋgɪndijɛ	 gloss: DEM
+C: word: baj	 gloss: NEG
+D: word: lɪmɛ	 gloss: 1PEX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 6:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): waja \ulp{ɬa}{~~~~~}\ulp{=ahaj}{~~~~~} \ule{na} \ulp{t\`{ɔ}-zɔm}{~~~~~~~~~~~} \ulp{gəvax}{~~~~~} \ule{na} {dzijga} aŋga lɪmɛ ___
+Gloss (with missing item): because cow=Pl PSP 3P+PFV-eat field PSP all POSS 1PEX ___
+The English translation of this sentence is:‘Because those cows, they ate all of that field that belonged to the five of us.’ (lit. because the cows, they ate the field, all of it, belonging to us five)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In both \REF{ex:11:48} and \REF{ex:11:49}, the final prominent element is jəyga ‘all.’ The effect is to emphasise the totality of the events. In \REF{ex:11:48}, the fact that all of the field was destroyed by the cows is important to the story. In \REF{ex:11:49}, the story teller is emphasising that it was important that everyone fought against the Mbuko. In fact, people who did not fight were beaten after the skirmish with the Mbuko ended.
+A: word: dzijga	 gloss: all
+B: word: mʊfaɗ	 gloss: four
+C: word: ɮɔm	 gloss: five
+D: word: mà-zɔm	 gloss: 3S+HOR-eat
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 7:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): \ulp{ndɛ}{~~~~~~} \ule{na} \ulp{lɪmɛ}{~~~~~~} \ule{ɗuw} \ulp{n\`ə-ɮʊg-ɔm}{~~~~~~~~~~~~~~~} \ulp{va}{~~~~~~} \ule{na} ___
+Gloss (with missing item): so PSP 1PEX also oneS+PFV-plant-1PEX body PSP ___
+The English translation of this sentence is:‘So, we also, we fought (lit. planted body), all of us.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In both \REF{ex:11:48} and \REF{ex:11:49}, the final prominent element is jəyga ‘its gloss ___.’ The effect is to emphasise the totality of the events. In \REF{ex:11:48}, the fact that its gloss ___ of the field was destroyed by the cows is important to the story. In \REF{ex:11:49}, the story teller is emphasising that it was important that everyone fought against the Mbuko. In fact, people who did not fight were beaten after the skirmish with the Mbuko ended.
+A: word: dʒijga	 gloss: all
+B: word: dzijga	 gloss: all
+C: word: á-ndaj	 gloss: 3S+IFV-PROG
+D: word: ndɛ	 gloss: so
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 8:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): waja \ulp{ɬa}{~~~~~}\ulp{=ahaj}{~~~~~} \ule{na} \ulp{t\`{ɔ}-zɔm}{~~~~~~~~~~~} \ulp{gəvax}{~~~~~} \ule{na} ___ aŋga lɪmɛ ɮɔm
+Gloss (with missing item): because cow=Pl PSP 3P+PFV-eat field PSP ___ POSS 1PEX five
+The English translation of this sentence is:‘Because those cows, they ate all of that field that belonged to the five of us.’ (lit. because the cows, they ate the field, all of it, belonging to us five)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In both \REF{ex:11:48} and \REF{ex:11:49}, the final prominent element is jəyga ‘its gloss ___.’ The effect is to emphasise the totality of the events. In \REF{ex:11:48}, the fact that its gloss ___ of the field was destroyed by the cows is important to the story. In \REF{ex:11:49}, the story teller is emphasising that it was important that everyone fought against the Mbuko. In fact, people who did not fight were beaten after the skirmish with the Mbuko ended.
+A: word: dʒijga	 gloss: all
+B: word: dzijga	 gloss: all
+C: word: lɪmɛ	 gloss: 1PEX
+D: word: ndɛ	 gloss: so
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 9:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): waja \ulp{ɬa}{~~~~~}\ulp{=ahaj}{~~~~~} \ule{na} \ulp{t\`{ɔ}-zɔm}{~~~~~~~~~~~} \ulp{gəvax}{~~~~~} \ule{na} {dzijga} ___ lɪmɛ ɮɔm
+Gloss (with missing item): because cow=Pl PSP 3P+PFV-eat field PSP all ___ 1PEX five
+The English translation of this sentence is:‘Because those cows, they ate all of that field that belonged to the five of us.’ (lit. because the cows, they ate the field, all of it, belonging to us five)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In both \REF{ex:11:48} and \REF{ex:11:49}, the final prominent element is jəyga ‘all.’ The effect is to emphasise the totality of the events. In \REF{ex:11:48}, the fact that all of the field was destroyed by the cows is important to the story. In \REF{ex:11:49}, the story teller is emphasising that it was important that everyone fought against the Mbuko. In fact, people who did not fight were beaten after the skirmish with the Mbuko ended.
+A: word: mɔgʷɔm	 gloss: home
+B: word: aŋga=uwla	 gloss: POSS=oneS.POSS
+C: word: ɮɔm	 gloss: five
+D: word: aŋga	 gloss: POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 10:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): waja \ulp{ɬa}{~~~~~}\ulp{=ahaj}{~~~~~} \ule{na} \ulp{t\`{ɔ}-zɔm}{~~~~~~~~~~~} \ulp{gəvax}{~~~~~} \ule{na} {dzijga} aŋga ___ ɮɔm
+Gloss (with missing item): because cow=Pl PSP 3P+PFV-eat field PSP all POSS ___ five
+The English translation of this sentence is:‘Because those cows, they ate all of that field that belonged to the five of us.’ (lit. because the cows, they ate the field, all of it, belonging to us five)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In both \REF{ex:11:48} and \REF{ex:11:49}, the final prominent element is jəyga ‘all.’ The effect is to emphasise the totality of the events. In \REF{ex:11:48}, the fact that all of the field was destroyed by the cows is important to the story. In \REF{ex:11:49}, the story teller is emphasising that it was important that everyone fought against the Mbuko. In fact, people who did not fight were beaten after the skirmish with the Mbuko ended.
+A: word: alɪmɛ	 gloss: 1PEX.POSS
+B: word: dzijga	 gloss: all
+C: word: aŋga	 gloss: POSS
+D: word: lɪmɛ	 gloss: 1PEX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 11:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): waja \ulp{ɬa}{~~~~~}\ulp{=ahaj}{~~~~~} \ule{na} \ulp{t\`{ɔ}-zɔm}{~~~~~~~~~~~} \ulp{gəvax}{~~~~~} \ule{na} {dzijga} aŋga lɪmɛ ___
+Gloss (with missing item): because cow=Pl PSP 3P+PFV-eat field PSP all POSS 1PEX ___
+The English translation of this sentence is:‘Because those cows, they ate all of that field that belonged to the five of us.’ (lit. because the cows, they ate the field, all of it, belonging to us five)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In both \REF{ex:11:48} and \REF{ex:11:49}, the final prominent element is jəyga ‘all.’ The effect is to emphasise the totality of the events. In \REF{ex:11:48}, the fact that all of the field was destroyed by the cows is important to the story. In \REF{ex:11:49}, the story teller is emphasising that it was important that everyone fought against the Mbuko. In fact, people who did not fight were beaten after the skirmish with the Mbuko ended.
+A: word: aŋga	 gloss: POSS
+B: word: mʊfaɗ	 gloss: four
+C: word: mà-zɔm	 gloss: 3S+HOR-eat
+D: word: ɮɔm	 gloss: five
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 12:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): \ulp{ndɛ}{~~~~~~} \ule{na} \ulp{lɪmɛ}{~~~~~~} \ule{ɗuw} \ulp{n\`ə-ɮʊg-ɔm}{~~~~~~~~~~~~~~~} \ulp{va}{~~~~~~} \ule{na} ___
+Gloss (with missing item): so PSP 1PEX also oneS+PFV-plant-1PEX body PSP ___
+The English translation of this sentence is:‘So, we also, we fought (lit. planted body), all of us.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In both \REF{ex:11:48} and \REF{ex:11:49}, the final prominent element is jəyga ‘its gloss ___.’ The effect is to emphasise the totality of the events. In \REF{ex:11:48}, the fact that its gloss ___ of the field was destroyed by the cows is important to the story. In \REF{ex:11:49}, the story teller is emphasising that it was important that everyone fought against the Mbuko. In fact, people who did not fight were beaten after the skirmish with the Mbuko ended.
+A: word: dzijga	 gloss: all
+B: word: ndɛ	 gloss: so
+C: word: dʒijga	 gloss: all
+D: word: á-ndaj	 gloss: 3S+IFV-PROG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 13:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndɛ \ulp{kij}{~~~~~~~~~~~~~~~} \ulp{ɛlɛ}{~~~~~~} \ule{na} \ulp{n\`ə-zʊm-ɔm}{~~~~~~~~~~~} \ulp{ɛlɛ}{~~~~~~}\ulp{=atəta}{~~~~~~~~~} \ule{na} ___
+Gloss (with missing item): so ID:looking eye PSP oneS+PFV-eat-1PEX thing=3P.POSS PSP ___
+The English translation of this sentence is:‘So, one could see that we had not eaten their food.’ (lit. looking, we ate their thing, not)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:11:50}, two na{}-marked elements leave a negative particle highlighted at the end of the clause. The fact that the storytellers did not eat the people’s food was important since they would have been expected to eat.
+A: word: lɪmɛ	 gloss: 1PEX
+B: word: amɛ-ʒ-ɛ	 gloss: DEP-take-CL
+C: word: baj	 gloss: NEG
+D: word: asa-baj	 gloss: again-NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 14:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndɛ asa bahaj a ɬa ___ ndahaŋ aka baj na asa ɬa=ahaj na
+Gloss (with missing item): so if chief GEN cow ___ 3S on NEG PSP if cow=Pl PSP
+The English translation of this sentence is:‘So, if the owner of the cows wasn’t there, [and] that the cows’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \oldstylenums{3}\textsc{s} \DO pronomithe morpheme ___l the morpheme ___ (see \sectref{sec:7.3.2}) is identical to the presupposition marker the morpheme ___ and some ambiguity can be encountered in contexts where the morpheme ___ immediately follows a verb that has no locatiothe morpheme ___l or directiothe morpheme ___l extensions (which follow the DO pronomithe morpheme ___l but would precede a its gloss ___ marker). Two examples showing the ambiguity are (\ref{ex:11:52}--\ref{ex:11:53}). In \REF{ex:11:52}, the underlined the morpheme ___ could be interpreted as the presupposition marker since there are multiple the morpheme ___{}-marked elements in the clause and this fithe morpheme ___l underlined the morpheme ___ appears immediately before the fithe morpheme ___l (presumably) focussed element mənjəye ata ‘their habits.’ On the other hand, the morpheme ___ could be the \oldstylenums{3}\textsc{s} \DO pronomithe morpheme ___l for the verb mədakan ‘instructing to him,’ since the verb is in a construction which marks significant events (see stem plus ideophone auxiliary \sectref{sec:8.2.3}), so it is the event of the husband instructing his wife that is highlighted by the preceding the morpheme ___-marked elements.
+A: word: á-ndaj	 gloss: 3S+IFV-PROG
+B: word: a-sak	 gloss: 3S-multiply
+C: word: na-faɗ	 gloss: oneS-place
+D: word: na	 gloss: PSP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 15:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndɛ asa bahaj a ɬa na ndahaŋ aka baj ___ asa ɬa=ahaj na
+Gloss (with missing item): so if chief GEN cow PSP 3S on NEG ___ if cow=Pl PSP
+The English translation of this sentence is:‘So, if the owner of the cows wasn’t there, [and] that the cows’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \oldstylenums{3}\textsc{s} \DO pronomithe morpheme ___l the morpheme ___ (see \sectref{sec:7.3.2}) is identical to the presupposition marker the morpheme ___ and some ambiguity can be encountered in contexts where the morpheme ___ immediately follows a verb that has no locatiothe morpheme ___l or directiothe morpheme ___l extensions (which follow the DO pronomithe morpheme ___l but would precede a its gloss ___ marker). Two examples showing the ambiguity are (\ref{ex:11:52}--\ref{ex:11:53}). In \REF{ex:11:52}, the underlined the morpheme ___ could be interpreted as the presupposition marker since there are multiple the morpheme ___{}-marked elements in the clause and this fithe morpheme ___l underlined the morpheme ___ appears immediately before the fithe morpheme ___l (presumably) focussed element mənjəye ata ‘their habits.’ On the other hand, the morpheme ___ could be the \oldstylenums{3}\textsc{s} \DO pronomithe morpheme ___l for the verb mədakan ‘instructing to him,’ since the verb is in a construction which marks significant events (see stem plus ideophone auxiliary \sectref{sec:8.2.3}), so it is the event of the husband instructing his wife that is highlighted by the preceding the morpheme ___-marked elements.
+A: word: na-faɗ	 gloss: oneS-place
+B: word: a-h=aja	 gloss: 3S-grind=PLU
+C: word: na	 gloss: PSP
+D: word: á-sak=aka	 gloss: 3S+IFV-multiply=on
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 16:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndɛ asa bahaj a ɬa na ndahaŋ aka baj na asa ɬa=ahaj ___
+Gloss (with missing item): so if chief GEN cow PSP 3S on NEG PSP if cow=Pl ___
+The English translation of this sentence is:‘So, if the owner of the cows wasn’t there, [and] that the cows’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \oldstylenums{3}\textsc{s} \DO pronomithe morpheme ___l the morpheme ___ (see \sectref{sec:7.3.2}) is identical to the presupposition marker the morpheme ___ and some ambiguity can be encountered in contexts where the morpheme ___ immediately follows a verb that has no locatiothe morpheme ___l or directiothe morpheme ___l extensions (which follow the DO pronomithe morpheme ___l but would precede a its gloss ___ marker). Two examples showing the ambiguity are (\ref{ex:11:52}--\ref{ex:11:53}). In \REF{ex:11:52}, the underlined the morpheme ___ could be interpreted as the presupposition marker since there are multiple the morpheme ___{}-marked elements in the clause and this fithe morpheme ___l underlined the morpheme ___ appears immediately before the fithe morpheme ___l (presumably) focussed element mənjəye ata ‘their habits.’ On the other hand, the morpheme ___ could be the \oldstylenums{3}\textsc{s} \DO pronomithe morpheme ___l for the verb mədakan ‘instructing to him,’ since the verb is in a construction which marks significant events (see stem plus ideophone auxiliary \sectref{sec:8.2.3}), so it is the event of the husband instructing his wife that is highlighted by the preceding the morpheme ___-marked elements.
+A: word: akar=ahaj	 gloss: theft=Pl
+B: word: na-faɗ	 gloss: oneS-place
+C: word: lɪmɛ	 gloss: 1PEX
+D: word: na	 gloss: PSP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 17:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndɛ asa bahaj a ɬa ___ ndahaŋ aka baj na asa ɬa=ahaj na
+Gloss (with missing item): so if chief GEN cow ___ 3S on NEG PSP if cow=Pl PSP
+The English translation of this sentence is:‘So, if the owner of the cows wasn’t there, [and] that the cows’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:11:53} the situation is more clear. We consider the two underlined the morpheme ___ markers to be the \oldstylenums{3}\textsc{s} DO pronomithe morpheme ___l since even though there are multiple the morpheme ___{}-marked elements in the clause, these underlined markers are neither at the end of the noun phrase (as they would be if they were the definite marker), nor are they immediately before the fithe morpheme ___l focussed element (as they would be if this was a presupposition-focus construction). The verb and noun phrases in question are each delimited by square brackets in the example. We found no uthe morpheme ___mbiguous instance of the presupposition marker the morpheme ___ breaking up a verb phrase except for the purpose of isolating the fithe morpheme ___l focussed element in a verb phrase (cf. integrity of the \VP, \sectref{sec:8.1}). Thus the first underlined the morpheme ___ is \oldstylenums{3}\textsc{s} \DO for the verb tozom ‘they eat.’ It is doubling the direct object noun phrase gəvax ‘field.' Likewise, we found no uthe morpheme ___mbiguous instance of the presupposition marker breaking up a noun phrase in any context and so consider the second underlined the morpheme ___ as \oldstylenums{3}\textsc{s} \DO pronomithe morpheme ___l for the nomithe morpheme ___lised verb məgəye ‘doing’ within the noun phrase məgəye the morpheme ___ ahan ‘his doings.’
+A: word: na	 gloss: PSP
+B: word: á-sak=aka	 gloss: 3S+IFV-multiply=on
+C: word: na-faɗ	 gloss: oneS-place
+D: word: a-ndaɗ-aj	 gloss: 3S-love-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 18:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndɛ asa bahaj a ɬa na ndahaŋ aka baj ___ asa ɬa=ahaj na
+Gloss (with missing item): so if chief GEN cow PSP 3S on NEG ___ if cow=Pl PSP
+The English translation of this sentence is:‘So, if the owner of the cows wasn’t there, [and] that the cows’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:11:53} the situation is more clear. We consider the two underlined the morpheme ___ markers to be the \oldstylenums{3}\textsc{s} DO pronomithe morpheme ___l since even though there are multiple the morpheme ___{}-marked elements in the clause, these underlined markers are neither at the end of the noun phrase (as they would be if they were the definite marker), nor are they immediately before the fithe morpheme ___l focussed element (as they would be if this was a presupposition-focus construction). The verb and noun phrases in question are each delimited by square brackets in the example. We found no uthe morpheme ___mbiguous instance of the presupposition marker the morpheme ___ breaking up a verb phrase except for the purpose of isolating the fithe morpheme ___l focussed element in a verb phrase (cf. integrity of the \VP, \sectref{sec:8.1}). Thus the first underlined the morpheme ___ is \oldstylenums{3}\textsc{s} \DO for the verb tozom ‘they eat.’ It is doubling the direct object noun phrase gəvax ‘field.' Likewise, we found no uthe morpheme ___mbiguous instance of the presupposition marker breaking up a noun phrase in any context and so consider the second underlined the morpheme ___ as \oldstylenums{3}\textsc{s} \DO pronomithe morpheme ___l for the nomithe morpheme ___lised verb məgəye ‘doing’ within the noun phrase məgəye the morpheme ___ ahan ‘his doings.’
+A: word: dzijga	 gloss: all
+B: word: tɔ-zɔm	 gloss: 3P-eat
+C: word: na	 gloss: PSP
+D: word: na-faɗ	 gloss: oneS-place
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 19:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndɛ asa bahaj a ɬa na ndahaŋ aka baj na asa ɬa=ahaj ___
+Gloss (with missing item): so if chief GEN cow PSP 3S on NEG PSP if cow=Pl ___
+The English translation of this sentence is:‘So, if the owner of the cows wasn’t there, [and] that the cows’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:11:53} the situation is more clear. We consider the two underlined the morpheme ___ markers to be the \oldstylenums{3}\textsc{s} DO pronomithe morpheme ___l since even though there are multiple the morpheme ___{}-marked elements in the clause, these underlined markers are neither at the end of the noun phrase (as they would be if they were the definite marker), nor are they immediately before the fithe morpheme ___l focussed element (as they would be if this was a presupposition-focus construction). The verb and noun phrases in question are each delimited by square brackets in the example. We found no uthe morpheme ___mbiguous instance of the presupposition marker the morpheme ___ breaking up a verb phrase except for the purpose of isolating the fithe morpheme ___l focussed element in a verb phrase (cf. integrity of the \VP, \sectref{sec:8.1}). Thus the first underlined the morpheme ___ is \oldstylenums{3}\textsc{s} \DO for the verb tozom ‘they eat.’ It is doubling the direct object noun phrase gəvax ‘field.' Likewise, we found no uthe morpheme ___mbiguous instance of the presupposition marker breaking up a noun phrase in any context and so consider the second underlined the morpheme ___ as \oldstylenums{3}\textsc{s} \DO pronomithe morpheme ___l for the nomithe morpheme ___lised verb məgəye ‘doing’ within the noun phrase məgəye the morpheme ___ ahan ‘his doings.’
+A: word: ʃɛʃɛ	 gloss: meat
+B: word: na-faɗ	 gloss: oneS-place
+C: word: na	 gloss: PSP
+D: word: baj	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+

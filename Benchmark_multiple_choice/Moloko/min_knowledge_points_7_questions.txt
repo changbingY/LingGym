@@ -1,0 +1,1040 @@
+Question 0:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘I did.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \largerpage \citet{Bow1997c} found that a prosody on the verb stem will spread leftwards from the verb stem over the singular subject prefixes. The fact that palatalisation and labialisation spread over the subject prefixes indicates that the subject markers are fully bound to the verb stem and are not separate words. \REF{ex:7:11} presents the palatalised verb /g\textsuperscript{ e}/ ‘do,’ and \REF{ex:7:12} presents the labialised verb /l\textsuperscript{o}/ ‘go.’
+A: word: tɛ-g-ɛ	 gloss: 3P-do-CL
+B: word: nɔkʷ=va	 gloss: twoS=PRF
+C: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+D: word: nɛ-g-ɛ	 gloss: oneS-do-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 1:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘he/she went.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \largerpage \citet{Bow1997c} found that a prosody on the verb stem will spread leftwards from the verb stem over the singular subject prefixes. The fact that palatalisation and labialisation spread over the subject prefixes indicates that the subject markers are fully bound to the verb stem and are not separate words. \REF{ex:7:11} presents the palatalised verb /g\textsuperscript{ e}/ ‘do,’ and \REF{ex:7:12} presents the labialised verb /l\textsuperscript{o}/ ‘go.’
+A: word: tɔ-lɔ	 gloss: 3P+PFV-go
+B: word: amɪ-g-ijɛ	 gloss: DEP-do-CL
+C: word: ɔ-lɔ	 gloss: 3S-go
+D: word: a-gə	 gloss: 3S-do
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 2:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘I stand.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \citet{Bow1997c} also discovered that labialisation on the {\oneP} and {\twoP} subject suffixes will spread leftwards from the suffix onto the entire verb word. This fact indicates that these morphemes are fully bound to the verb stem and are not separate words. The verb /ts k-j\textsuperscript{e}/ ‘stand’, shown in example \REF{ex:7:13} in its {\oneS} form, loses its palatalisation and becomes labialised when the (labialised) plural\is{Plurality!Verb plurals|)} suffixes are added \REF{ex:7:14}:
+A: word: tʃɪk-ɛ	 gloss: stand[twoS.IMP]-CL
+B: word: amɪ-g-ijɛ	 gloss: DEP-do-CL
+C: word: nɛ-g-ɛ	 gloss: oneS-do-CL
+D: word: nɛ-tʃɪk-ɛ	 gloss: oneS-stand-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 3:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘He/she helped him.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The indirect object pronominal enclitic can also stand in the place of the prepositional phrase \REF{ex:7:17}.
+A: word: áà-mak-aj	 gloss: twoS+PBL-leave-CL
+B: word: a-dzən=aŋ	 gloss: 3S-help=3S.IO
+C: word: a-dzən=aw	 gloss: 3S-help=oneS.IO
+D: word: a-mənzar=aŋ	 gloss: 3S-see=3S.IO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 4:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ awak
+Gloss (with missing item): ___ goat
+The English translation of this sentence is:‘You slay the goat for him.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The fact that the indirect object pronominal can attach to verb stems as well as other particles confirms that it is in fact a clitic pronoun. Normally, the indirect object pronominal enclitic attaches directly to the verb stem \REF{ex:7:24}. However, if the plural subject pronominal suffix is required on the verb \REF{ex:7:25}, the indirect object pronominal can no longer attach to the verb, because the verb stem can take only one suffix (see \sectref{sec:7.1}). Instead, the indirect object pronominal cliticises to the particle an. This particle may be related to ana, the dative preposition ‘to.’
+A: word: a-dzən=aŋ	 gloss: 3S-help=3S.IO
+B: word: a-ɬ-aj	 gloss: 3S-slay-CL
+C: word: ta-ɬ=aw	 gloss: 3P-kill=oneS.IO
+D: word: ka-ɬ=aŋ	 gloss: twoS-slay=3S.IO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 5:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kə-ɬ-ɔm ___ awak
+Gloss (with missing item): 2-slay-twoP ___ goat
+The English translation of this sentence is:‘You (plural) slay the goat for him.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The fact that the indirect object pronominal can attach to verb stems as well as other particles confirms that it is in fact a clitic pronoun. Normally, the indirect object pronominal enclitic attaches directly to the verb stem \REF{ex:7:24}. However, if the plural subject pronominal suffix is required on the verb \REF{ex:7:25}, the indirect object pronominal can no longer attach to the verb, because the verb stem can take only one suffix (see \sectref{sec:7.1}). Instead, the indirect object pronominal cliticises to the particle an. This particle may be related to ana, the dative preposition ‘to.’
+A: word: a-dzən=aŋ	 gloss: 3S-help=3S.IO
+B: word: ká-kaɗ	 gloss: twoS+IFV-kill(club)
+C: word: a-vəl=aŋ	 gloss: 3S-give=3S.IO
+D: word: an=aŋ	 gloss: to=3S.IO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 6:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kà-ɬ-aj ___
+Gloss (with missing item): twoS+PFV-slay-CL ___
+The English translation of this sentence is:‘You slew it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \tabref{tab:55} (from \citealt{FriesenMamalis2008}) shows the direct object (\DO) pronomithe morpheme ___ls. The third person \DO pronomithe morpheme ___ls replace or double a full noun phrase in a discourse -- the the morpheme ___ (\oldstylenums{3}\textsc{s}.{\DO}) or ta (\oldstylenums{3}\textsc{p}.{\DO}) refer back to something in the immediately preceding context. Examples \REF{ex:7:29} and \REF{ex:7:30} show two clauses that might occur in a discourse. In \REF{ex:7:30} the the morpheme ___ refers back to sla ‘cow’ in \REF{ex:7:29}.
+A: word: na-faɗ	 gloss: oneS-place
+B: word: =aka=ala	 gloss: =on=to
+C: word: na	 gloss: 3S.DO
+D: word: dəraj	 gloss: head
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 7:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kà-ɬ-aj ___
+Gloss (with missing item): twoS+PFV-slay-CL ___
+The English translation of this sentence is:‘You slew it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \tabref{tab:55} (from \citealt{FriesenMamalis2008}) shows the direct object (\DO) pronomithe morpheme ___ls. The third person \DO pronomithe morpheme ___ls replace or double a full noun phrase in a discourse -- the the morpheme ___ (\oldstylenums{3}\textsc{s}.{\DO}) or ta (\oldstylenums{3}\textsc{p}.{\DO}) refer back to something in the immediately preceding context. Examples \REF{ex:7:29} and \REF{ex:7:30} show two clauses that might occur in a discourse. In \REF{ex:7:30} the the morpheme ___ refers back to sla ‘cow’ in \REF{ex:7:29}.
+A: word: na-faɗ	 gloss: oneS-place
+B: word: káá-z=ala	 gloss: twoS+POT-take=to
+C: word: aɮa	 gloss: now
+D: word: na	 gloss: 3S.DO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 8:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kà-ɬ-aj ___
+Gloss (with missing item): twoS+PFV-slay-CL ___
+The English translation of this sentence is:‘You slew it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A third person \DO pronomithe morpheme ___l can be the only expression of direct object in a clause if its identity is known in the discourse (\ref{ex:7:30}, \ref{ex:7:32}, and \ref{ex:7:36}). The only time that a clause will contain both a third person \DO pronomithe morpheme ___l and a noun phrase that co-refer to the direct object in the clause is when a special focus on the direct object is required (‘all his brothers’ in \ref{ex:7:31}, ‘that fruit-bearing tree’ in \ref{ex:7:38}).
+A: word: na-faɗ	 gloss: oneS-place
+B: word: a-dzən=aŋ	 gloss: 3S-help=3S.IO
+C: word: na	 gloss: 3S.DO
+D: word: ɔ-lɔ	 gloss: 3S-go
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 9:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [ka-z=alaj] ___ a kɔsɔkʷɔ ava ɗaw
+Gloss (with missing item): twoS-take=away ___ at market in {Q
+The English translation of this sentence is:‘Will you take me to the market?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The first and second person direct objects are expressed by free pronouns (see \sectref{sec:3.1.1.1}) or noun phrases. The free pronouns are distributionally and phonologically distinct from the third person direct object pronominals. The free pronouns occur after the verb complex. Note that they occur after the directional extensions in \REF{ex:7:39} and \REF{ex:7:40}. In each example, the verb complex is delineated by square brackets and the first or second person independent pronoun is bolded.
+A: word: ava	 gloss: in
+B: word: ɛgɪnɛ	 gloss: today
+C: word: məlama=aŋgʷɔ=ahaj	 gloss: sibling=twoS.POSS=Pl
+D: word: nɛ	 gloss: oneS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 10:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): baba=aŋgʷɔ [à-vəl=ata] ___ a ahar=atəta ava
+Gloss (with missing item): father=twoS.POSS 3S-give=3P.IO ___ at hand=3P.POSS in
+The English translation of this sentence is:‘Your father gave you to them’ (lit. your father gave you into their hands)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The first and second person direct objects are expressed by free pronouns (see \sectref{sec:3.1.1.1}) or noun phrases. The free pronouns are distributionally and phonologically distinct from the third person direct object pronominals. The free pronouns occur after the verb complex. Note that they occur after the directional extensions in \REF{ex:7:39} and \REF{ex:7:40}. In each example, the verb complex is delineated by square brackets and the first or second person independent pronoun is bolded.
+A: word: =va	 gloss: =PRF
+B: word: nɔkʷ=va	 gloss: twoS=PRF
+C: word: nɔkʷ	 gloss: twoS
+D: word: áà-l=ala	 gloss: 3S+PBL-go=to
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 11:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ bɪrɛk tʃɪtʃɪŋgɛhɛ
+Gloss (with missing item): ___ brick now
+The English translation of this sentence is:‘I am making bricks (now).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \REF{ex:7:51} and \REF{ex:7:52} illustrate another Imperfective/Perfective pair. The Imperfective in this case refers to an event in process.
+A: word: war	 gloss: child
+B: word: ná-kàɗ	 gloss: oneS+IFV-kill
+C: word: nà-kàɗ	 gloss: oneS+PFV-kill
+D: word: mɪ-hɪm-ɛ=alɔkʷɔ	 gloss: NOM-run-CL=1PIN.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 12:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɬɪrɛlɛ ___ mɪʒɛ
+Gloss (with missing item): work ___ person
+The English translation of this sentence is:‘Work tires people out.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In texts, the Imperfective is used whenever the (ongoing) normal state of affairs is being expressed, i.e., the way the world is. All the main verbs are Imperfective in (\ref{ex:7:57}--\ref{ex:7:60}). They are general statements and not speaking of a particular situation.
+A: word: á-jəɗ-aj	 gloss: 3S+IFV-tire-CL
+B: word: mà-paɗ-aj	 gloss: 3S+HOR-crunch-CL
+C: word: mɪ-nʒ-ijɛ	 gloss: NOM-sit-CL
+D: word: á-ndaj	 gloss: 3S+IFV-PROG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 13:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ɔkʷfɔm nə mɪ-kɪɗ-ɛ ká-ɬ-aj baj
+Gloss (with missing item): ___ mouse with NOM-kill(club)-CL twoS+IFV-slay-CL NEG
+The English translation of this sentence is:‘You kill mice by smashing their head; you don’t cut their throats.’ (lit. you kill a mouse with killing; you don’t slay it)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In texts, the Imperfective is used whenever the (ongoing) normal state of affairs is being expressed, i.e., the way the world is. All the main verbs are Imperfective in (\ref{ex:7:57}--\ref{ex:7:60}). They are general statements and not speaking of a particular situation.
+A: word: ná-kàɗ	 gloss: oneS+IFV-kill
+B: word: nə-kaɗ	 gloss: oneS-kill
+C: word: ka-ɬ=aŋ	 gloss: twoS-slay=3S.IO
+D: word: ká-kaɗ	 gloss: twoS+IFV-kill(club)
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 14:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ká-kaɗ ɔkʷfɔm nə mɪ-kɪɗ-ɛ ___ baj
+Gloss (with missing item): twoS+IFV-kill(club) mouse with NOM-kill(club)-CL ___ NEG
+The English translation of this sentence is:‘You kill mice by smashing their head; you don’t cut their throats.’ (lit. you kill a mouse with killing; you don’t slay it)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In texts, the Imperfective is used whenever the (ongoing) normal state of affairs is being expressed, i.e., the way the world is. All the main verbs are Imperfective in (\ref{ex:7:57}--\ref{ex:7:60}). They are general statements and not speaking of a particular situation.
+A: word: káá-ɬ-aj	 gloss: twoS+POT-slay-CL
+B: word: kà-ɬ-aj	 gloss: twoS+PFV-slay-CL
+C: word: a-fəɗ=aka	 gloss: 3S-place=on
+D: word: ká-ɬ-aj	 gloss: twoS+IFV-slay-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 15:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘It is full.’ (it had filled)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the Imperfective co-occurs with the Perfect, the verb describes the current state or result of an event (\ref{ex:7:62}, see \sectref{sec:7.5.3}).
+A: word: gəvah=va	 gloss: field=PRF
+B: word: à-rah=va	 gloss: 3S+PFV-fill=PRF
+C: word: á-ráh=va	 gloss: 3S+IFV-fill=PRF
+D: word: dər=aka=alaj	 gloss: move=on=away
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 16:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-s=aw bahaj mə-l=ala azana ___ ɛtɛ ɗaw
+Gloss (with missing item): 3S-please=oneS.IO chief 3S+HOR-go=to maybe ___ polite {Q
+The English translation of this sentence is:‘I would like the chief to come; maybe he will come (if he wants to).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The difference between the moods is illustrated in the following narrative situations. The first (\ref{ex:7:63} and \ref{ex:7:64}) illustrates a situation where someone says that he wants the chief to come to him, but he is not sure if the chief will actually come. The fact that the chief’s coming is desired by the speaker but dependent on the will of the chief is expressed by the Possible mood in \REF{ex:7:63}, with falling tone on the lengthened subject prefix (bolded). Compare with the response given in \REF{ex:7:64}, where the speaker is sure that the chief will come. The surety is expressed by the Potential mood, with high tone on the lengthened subject prefix (bolded).
+A: word: à-l=ala	 gloss: 3S+PFV-go=to
+B: word: áà-l=ala	 gloss: 3S+PBL-go=to
+C: word: mɪ-nʒ-ijɛ	 gloss: NOM-sit-CL
+D: word: a-nz=ala	 gloss: 3S-go=to
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 17:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘He will come (I am sure).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The difference between the moods is illustrated in the following narrative situations. The first (\ref{ex:7:63} and \ref{ex:7:64}) illustrates a situation where someone says that he wants the chief to come to him, but he is not sure if the chief will actually come. The fact that the chief’s coming is desired by the speaker but dependent on the will of the chief is expressed by the Possible mood in \REF{ex:7:63}, with falling tone on the lengthened subject prefix (bolded). Compare with the response given in \REF{ex:7:64}, where the speaker is sure that the chief will come. The surety is expressed by the Potential mood, with high tone on the lengthened subject prefix (bolded).
+A: word: á-l=ala	 gloss: 3S+IFV-go=to
+B: word: mɪ-hɪm-ɛ=alɔkʷɔ	 gloss: NOM-run-CL=1PIN.POSS
+C: word: áá-l=ala	 gloss: 3S+POT-go=to
+D: word: káá-z=ala	 gloss: twoS+POT-take=to
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 18:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-s=aw bahaj mə-l=ala azana ___ ɛtɛ ɗaw
+Gloss (with missing item): 3S-please=oneS.IO chief 3S+HOR-go=to maybe ___ polite {Q
+The English translation of this sentence is:‘I would like the chief to come; maybe he will come (if he wants to).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The difference between the moods is illustrated in the following narrative situations. The first (\ref{ex:7:63} and \ref{ex:7:64}) illustrates a situation where someone says that he wants the chief to come to him, but he is not sure if the chief will actually come. The fact that the chief’s coming is desired by the speaker but dependent on the will of the chief is expressed by the Possible mood in \REF{ex:7:63}, with falling tone on the lengthened subject prefix (bolded). Compare with the response given in \REF{ex:7:64}, where the speaker is sure that the chief will come. The surety is expressed by the Potential mood, with high tone on the lengthened subject prefix (bolded).
+A: word: áà-l=ala	 gloss: 3S+PBL-go=to
+B: word: à-rah=va	 gloss: 3S+PFV-fill=PRF
+C: word: a-nz=ala	 gloss: 3S-go=to
+D: word: à-l=ala	 gloss: 3S+PFV-go=to
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 19:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘He will come (I am sure).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The difference between the moods is illustrated in the following narrative situations. The first (\ref{ex:7:63} and \ref{ex:7:64}) illustrates a situation where someone says that he wants the chief to come to him, but he is not sure if the chief will actually come. The fact that the chief’s coming is desired by the speaker but dependent on the will of the chief is expressed by the Possible mood in \REF{ex:7:63}, with falling tone on the lengthened subject prefix (bolded). Compare with the response given in \REF{ex:7:64}, where the speaker is sure that the chief will come. The surety is expressed by the Potential mood, with high tone on the lengthened subject prefix (bolded).
+A: word: áá-l=ala	 gloss: 3S+POT-go=to
+B: word: káá-z=ala	 gloss: twoS+POT-take=to
+C: word: ta-g=aka	 gloss: 3P-do=on
+D: word: á-l=ala	 gloss: 3S+IFV-go=to
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 20:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): adaŋ baj ___ lɔkʷɔ ɛ-mbɪʒɛŋ lɔkʷɔ asa-baj
+Gloss (with missing item): perhaps NEG ___ 1PIN 3S+IFV-ruin 1PIN again-NEG
+The English translation of this sentence is:‘Perhaps he will leave us alone; he will not ruin us anymore.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Likewise, in \REF{ex:7:65}, the speaker is expressing his wish that a potential attacker will leave him and his family alone. The falling tone on the lengthened subject prefix (bolded) indicates that the speaker is not sure that the person will leave them alone, but it depends on the will of that person (Possible mood).
+A: word: áà-mak-aj	 gloss: twoS+PBL-leave-CL
+B: word: à-mak-aj	 gloss: 3S+PFV-leave-CL
+C: word: à-ndʒ-ɛ	 gloss: 3S+PFV-leave-CL
+D: word: mɪ-hɪm-ɛ=alɔkʷɔ	 gloss: NOM-run-CL=1PIN.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 21:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ təta baj
+Gloss (with missing item): ___ ability NEG
+The English translation of this sentence is:‘You cannot bring it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: High tone on the lengthened subject prefix indicates Potential mood (an action desired by the speaker that is under his or her influence to perform, \ref{ex:7:66} and \ref{ex:7:68}). In the examples, the subject prefix is bolded.
+A: word: káá-z=ala	 gloss: twoS+POT-take=to
+B: word: tá-z=ala	 gloss: 3P+IFV-take=to
+C: word: áá-l=ala	 gloss: 3S+POT-go=to
+D: word: ká-ɬ-aj	 gloss: twoS+IFV-slay-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 22:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ asa-baj baj waj
+Gloss (with missing item): ___ again-NEG NEG who
+The English translation of this sentence is:‘Maybe we won’t be destroyed after all.’\footnote{Note that this ‘passive’ idea (to be destroyed) is accomplished through the flexible transitivity system in Moloko\is{Transitivity!Clauses with zero transitivity}. The verb means ‘destroy’ but with the Theme as subject of the verb, the whole clause here expresses a passive idea (\chapref{chap:9}). }
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: High tone followed by low tone on the lengthened subject prefix indicates Possible mood (an action is desired by the speaker but dependent on the will of another, \ref{ex:7:71}--\ref{ex:7:74}).
+A: word: nɔkʷ=va	 gloss: twoS=PRF
+B: word: nà-h=ɔkʷ	 gloss: oneS+PFV-tell=twoS.IO
+C: word: lɔkʷɔ	 gloss: 1PIN
+D: word: máà-hʷʊɮ-ɔk	 gloss: 1PIN+PBL-destroy-1PIN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 23:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tətərak=aŋgʷɔ nɛhɛ na ___ ɛlɛ=aŋgʷɔ a mɔgʷɔm
+Gloss (with missing item): shoes=twoS.POSS here PSP ___ thing=twoS.POSS at home
+The English translation of this sentence is:‘Your shoes there, you should put them on (habitually, repeatedly, day after day) at home,’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In a CC root with no suffix, the first C of the stem is doubled (\ref{ex:7:85}--\ref{ex:7:86}).
+A: word: á-var	 gloss: 3S+IFV-give
+B: word: ná-kàɗ	 gloss: oneS+IFV-kill
+C: word: ká-ffəɗ	 gloss: twoS+IFV-put+ITR
+D: word: a-fəɗ=aka	 gloss: 3S-place=on
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 24:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ war ɛlɛ haj na kə vɛr aka
+Gloss (with missing item): ___ child eye millet PSP on stone on
+The English translation of this sentence is:‘She put the grain of millet on the grinding stone.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are two adpositional enclitics:\footnote{\citet{FriesenMamalis2008} called these ``locationals.''} =aka ‘on, on top of’ and =ava ‘in.’ These extensions give the verb an added sense of the location of the action in the discourse. The extension =aka ‘on, on top of’ \REF{ex:7:92} resembles the second element of the adposition kə…aka ‘on.’ In like manner, =ava ‘in’ \REF{ex:7:93} resembles the adposition a…ava ‘in’ (see \sectref{sec:5.6.2}).\footnote{Even though the verb in this example has verbal extensions, it is not conjugated for subject since it is a climactic point in the story where nominalised forms are often found (\sectref{sec:7.6}).} The corresponding adpositional phrases often co-occur with the adpositionals. In the examples, the adpositions and adpositionals are bolded.
+A: word: a-faɗ	 gloss: 3S-put
+B: word: ká-kaɗ	 gloss: twoS+IFV-kill(club)
+C: word: a-paɗ=aka	 gloss: 3S-crunch=on
+D: word: a-fəɗ=aka	 gloss: 3S-place=on
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 25:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-fəɗ=aka war ɛlɛ haj na ___ vɛr aka
+Gloss (with missing item): 3S-place=on child eye millet PSP ___ stone on
+The English translation of this sentence is:‘She put the grain of millet on the grinding stone.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are two adpositiits gloss ___al enclitics:\footnote{\citet{FriesenMamalis2008} called these ``locatiits gloss ___als.''} =aka ‘its gloss ___, its gloss ___ top of’ and =ava ‘in.’ These extensiits gloss ___s give the verb an added sense of the locatiits gloss ___ of the actiits gloss ___ in the discourse. The extensiits gloss ___ =aka ‘its gloss ___, its gloss ___ top of’ \REF{ex:7:92} resembles the secits gloss ___d element of the adpositiits gloss ___ the morpheme ___…aka ‘its gloss ___.’ In like manner, =ava ‘in’ \REF{ex:7:93} resembles the adpositiits gloss ___ a…ava ‘in’ (see \sectref{sec:5.6.2}).\footnote{Even though the verb in this example has verbal extensiits gloss ___s, it is not cits gloss ___jugated for subject since it is a climactic point in the story where nominalised forms are often found (\sectref{sec:7.6}).} The correspits gloss ___ding adpositiits gloss ___al phrases often co-occur with the adpositiits gloss ___als. In the examples, the adpositiits gloss ___s and adpositiits gloss ___als are bolded.
+A: word: kə	 gloss: on
+B: word: a-tʃəkəɮ=aw	 gloss: 3S-forget=oneS.IO
+C: word: áà-mak-aj	 gloss: twoS+PBL-leave-CL
+D: word: =aka	 gloss: =on
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 26:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-fəɗ=aka war ɛlɛ haj na kə vɛr ___
+Gloss (with missing item): 3S-place=on child eye millet PSP on stone ___
+The English translation of this sentence is:‘She put the grain of millet on the grinding stone.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are two adpositiits gloss ___al enclitics:\footnote{\citet{FriesenMamalis2008} called these ``locatiits gloss ___als.''} =the morpheme ___ ‘its gloss ___, its gloss ___ top of’ and =ava ‘in.’ These extensiits gloss ___s give the verb an added sense of the locatiits gloss ___ of the actiits gloss ___ in the discourse. The extensiits gloss ___ =the morpheme ___ ‘its gloss ___, its gloss ___ top of’ \REF{ex:7:92} resembles the secits gloss ___d element of the adpositiits gloss ___ kə…the morpheme ___ ‘its gloss ___.’ In like manner, =ava ‘in’ \REF{ex:7:93} resembles the adpositiits gloss ___ a…ava ‘in’ (see \sectref{sec:5.6.2}).\footnote{Even though the verb in this example has verbal extensiits gloss ___s, it is not cits gloss ___jugated for subject since it is a climactic point in the story where nominalised forms are often found (\sectref{sec:7.6}).} The correspits gloss ___ding adpositiits gloss ___al phrases often co-occur with the adpositiits gloss ___als. In the examples, the adpositiits gloss ___s and adpositiits gloss ___als are bolded.
+A: word: à-rah=va	 gloss: 3S+PFV-fill=PRF
+B: word: akar	 gloss: theft
+C: word: =aka	 gloss: =on
+D: word: aka	 gloss: on
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 27:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ a vɛr ava
+Gloss (with missing item): ___ at room in
+The English translation of this sentence is:‘She died in the room.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are two adpositional enclitics:\footnote{\citet{FriesenMamalis2008} called these ``locationals.''} =aka ‘on, on top of’ and =ava ‘in.’ These extensions give the verb an added sense of the location of the action in the discourse. The extension =aka ‘on, on top of’ \REF{ex:7:92} resembles the second element of the adposition kə…aka ‘on.’ In like manner, =ava ‘in’ \REF{ex:7:93} resembles the adposition a…ava ‘in’ (see \sectref{sec:5.6.2}).\footnote{Even though the verb in this example has verbal extensions, it is not conjugated for subject since it is a climactic point in the story where nominalised forms are often found (\sectref{sec:7.6}).} The corresponding adpositional phrases often co-occur with the adpositionals. In the examples, the adpositions and adpositionals are bolded.
+A: word: mə-kəɗ	 gloss: NOM-kill
+B: word: ava=alaj	 gloss: EXT+in=away
+C: word: dər=alaj	 gloss: move[twoS.IMP]=away
+D: word: mə-mət=ava=alaj	 gloss: NOM-die=in=away
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 28:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mə-mət=ava=alaj ___ vɛr ava
+Gloss (with missing item): NOM-die=in=away ___ room in
+The English translation of this sentence is:‘She died in the room.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There the morpheme ___re two the morpheme ___dpositionthe morpheme ___l enclitics:\footnote{\citet{FriesenMthe morpheme ___mthe morpheme ___lis2008} cthe morpheme ___lled these ``locthe morpheme ___tionthe morpheme ___ls.''} =the morpheme ___kthe morpheme ___ ‘on, on top of’ the morpheme ___nd =the morpheme ___vthe morpheme ___ ‘in.’ These extensions give the verb the morpheme ___n the morpheme ___dded sense of the locthe morpheme ___tion of the the morpheme ___ction in the discourse. The extension =the morpheme ___kthe morpheme ___ ‘on, on top of’ \REF{ex:7:92} resembles the second element of the the morpheme ___dposition kə…the morpheme ___kthe morpheme ___ ‘on.’ In like mthe morpheme ___nner, =the morpheme ___vthe morpheme ___ ‘in’ \REF{ex:7:93} resembles the the morpheme ___dposition the morpheme ___…the morpheme ___vthe morpheme ___ ‘in’ (see \sectref{sec:5.6.2}).\footnote{Even though the verb in this exthe morpheme ___mple hthe morpheme ___s verbthe morpheme ___l extensions, it is not conjugthe morpheme ___ted for subject since it is the morpheme ___ climthe morpheme ___ctic point in the story where nominthe morpheme ___lised forms the morpheme ___re often found (\sectref{sec:7.6}).} The corresponding the morpheme ___dpositionthe morpheme ___l phrthe morpheme ___ses often co-occur with the the morpheme ___dpositionthe morpheme ___ls. In the exthe morpheme ___mples, the the morpheme ___dpositions the morpheme ___nd the morpheme ___dpositionthe morpheme ___ls the morpheme ___re bolded.
+A: word: ɔ-lɔ	 gloss: 3S-go
+B: word: nə-ndav=alaj	 gloss: oneS-finish=away
+C: word: a	 gloss: at
+D: word: à-mak-aj	 gloss: 3S+PFV-leave-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 29:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mə-mət=ava=alaj a vɛr ___
+Gloss (with missing item): NOM-die=in=away at room ___
+The English translation of this sentence is:‘She died in the room.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are two adpositional enclitics:\footnote{\citet{FriesenMamalis2008} called these ``locationals.''} =aka ‘on, on top of’ and =the morpheme ___ ‘its gloss ___.’ These extensions give the verb an added sense of the location of the action its gloss ___ the discourse. The extension =aka ‘on, on top of’ \REF{ex:7:92} resembles the second element of the adposition kə…aka ‘on.’ In like manner, =the morpheme ___ ‘its gloss ___’ \REF{ex:7:93} resembles the adposition a…the morpheme ___ ‘its gloss ___’ (see \sectref{sec:5.6.2}).\footnote{Even though the verb its gloss ___ this example has verbal extensions, it is not conjugated for subject sits gloss ___ce it is a climactic poits gloss ___t its gloss ___ the story where nomits gloss ___alised forms are often found (\sectref{sec:7.6}).} The correspondits gloss ___g adpositional phrases often co-occur with the adpositionals. In the examples, the adpositions and adpositionals are bolded.
+A: word: mə-mət=ava=alaj	 gloss: NOM-die=in=away
+B: word: ava	 gloss: in
+C: word: ɗuw	 gloss: also
+D: word: káá-z=ala	 gloss: twoS+POT-take=to
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 30:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ tsʊɗɔj
+Gloss (with missing item): ___ trick
+The English translation of this sentence is:‘They played another trick.’ (lit. they did trick ‘on top’ [of when they did it before])
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Adpositional extensions are phonological enclitics at the right edge of the verb. \citet{FriesenMamalis2008} showed them to be phonologically bound to the verb stem because the /-j/ suffix drops off when the clitic attaches \REF{ex:7:95} (see also \sectref{sec:6.3}). Compare \REF{ex:7:94} and \REF{ex:7:95} which illustrate the verb /g -j \textsuperscript{e}/ ‘do.’ Note that the /-j/ suffix in the stem drops off when the extension =aka is attached \REF{ex:7:95}. Another piece of evidence that the extension is phonologically bound to the verb stem is that the palatisation of the verb stem is neutralised by the extension. There is no adpositional extension and the verb word is palatalised in \REF{ex:7:94}, whereas in \REF{ex:7:95} the locational extension =aka has neutralised the prosody of the entire verb complex.
+A: word: ta=alaj	 gloss: 3P.DO=away
+B: word: ta-g=aka	 gloss: 3P-do=on
+C: word: ta-g=aw	 gloss: 3P-do=oneS.IO
+D: word: dər=aka=alaj	 gloss: move=on=away
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 31:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ tsʊɗɔj
+Gloss (with missing item): ___ trick
+The English translation of this sentence is:‘They played another trick.’ (lit. they did trick ‘on top’ [of when they did it before])
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Adpositional extensions are phonological enclitics at the right edge of the verb. \citet{FriesenMamalis2008} showed them to be phonologically bound to the verb stem because the /-j/ suffix drops off when the clitic attaches \REF{ex:7:95} (see also \sectref{sec:6.3}). Compare \REF{ex:7:94} and \REF{ex:7:95} which illustrate the verb /g -j \textsuperscript{e}/ ‘do.’ Note that the /-j/ suffix in the stem drops off when the extension =aka is attached \REF{ex:7:95}. Another piece of evidence that the extension is phonologically bound to the verb stem is that the palatisation of the verb stem is neutralised by the extension. There is no adpositional extension and the verb word is palatalised in \REF{ex:7:94}, whereas in \REF{ex:7:95} the locational extension =aka has neutralised the prosody of the entire verb complex.
+A: word: ta=alaj	 gloss: 3P.DO=away
+B: word: ta-g=aka	 gloss: 3P-do=on
+C: word: ta-g=aw	 gloss: 3P-do=oneS.IO
+D: word: mɛ-dɪr-ɛ	 gloss: NOM-plant-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 32:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ tsʊɗɔj
+Gloss (with missing item): ___ trick
+The English translation of this sentence is:‘They played another trick.’ (lit. they did trick ‘on top’ [of when they did it before])
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Adpositional extensions are phonological enclitics at the right edge of the verb. \citet{FriesenMamalis2008} showed them to be phonologically bound to the verb stem because the /-j/ suffix drops off when the clitic attaches \REF{ex:7:95} (see also \sectref{sec:6.3}). Compare \REF{ex:7:94} and \REF{ex:7:95} which illustrate the verb /g -j \textsuperscript{e}/ ‘do.’ Note that the /-j/ suffix in the stem drops off when the extension =aka is attached \REF{ex:7:95}. Another piece of evidence that the extension is phonologically bound to the verb stem is that the palatisation of the verb stem is neutralised by the extension. There is no adpositional extension and the verb word is palatalised in \REF{ex:7:94}, whereas in \REF{ex:7:95} the locational extension =aka has neutralised the prosody of the entire verb complex.
+A: word: ta=alaj	 gloss: 3P.DO=away
+B: word: mɪ-hɪm-ɛ=alɔkʷɔ	 gloss: NOM-run-CL=1PIN.POSS
+C: word: ta-g=aka	 gloss: 3P-do=on
+D: word: ta-g=aw	 gloss: 3P-do=oneS.IO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 33:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ tsʊɗɔj
+Gloss (with missing item): ___ trick
+The English translation of this sentence is:‘They played another trick.’ (lit. they did trick ‘on top’ [of when they did it before])
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Adpositional extensions are phonological enclitics at the right edge of the verb. \citet{FriesenMamalis2008} showed them to be phonologically bound to the verb stem because the /-j/ suffix drops off when the clitic attaches \REF{ex:7:95} (see also \sectref{sec:6.3}). Compare \REF{ex:7:94} and \REF{ex:7:95} which illustrate the verb /g -j \textsuperscript{e}/ ‘do.’ Note that the /-j/ suffix in the stem drops off when the extension =aka is attached \REF{ex:7:95}. Another piece of evidence that the extension is phonologically bound to the verb stem is that the palatisation of the verb stem is neutralised by the extension. There is no adpositional extension and the verb word is palatalised in \REF{ex:7:94}, whereas in \REF{ex:7:95} the locational extension =aka has neutralised the prosody of the entire verb complex.
+A: word: ta-g=aw	 gloss: 3P-do=oneS.IO
+B: word: ta=alaj	 gloss: 3P.DO=away
+C: word: ta-g=aka	 gloss: 3P-do=on
+D: word: dər=aka=alaj	 gloss: move=on=away
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 34:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ pɛɗɛɗɛ
+Gloss (with missing item): ___ ID:full
+The English translation of this sentence is:‘It had filled right to the rim.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another piece of evidence that the extensions are phonologically attached to the verb stem is that the word-final allophones of /n/ and /h/, that is [ŋ] and [x], respectively, do not occur in the word-final position in the verb word when the locational is attached. When the extension =va cliticises to the verb /r h/ ‘fill,’ word-final alterations of /h/ do not occur \REF{ex:7:96}. These allophones would be expected if the verb stem and Perfect extension were separate words.
+A: word: dər=aka=ala	 gloss: move[twoS.IMP]=on=to
+B: word: gəvah=va	 gloss: field=PRF
+C: word: à-rah=va	 gloss: 3S+PFV-fill=PRF
+D: word: á-ráh=va	 gloss: 3S+IFV-fill=PRF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 35:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [ka-nz=aw] ___
+Gloss (with missing item): twoS-sit=oneS.IO ___
+The English translation of this sentence is:‘You are better than me.’ (lit. you sit on me)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The adpositional does not cliticise to the verb in \REF{ex:7:97} and \REF{ex:7:98} since the indirect object pronominal enclitic and plural subject suffix both trigger a word-final boundary (see \sectref{sec:7.1}), rendering the adpositional in a separate phonological word. In the examples, the boundaries of the phonological words are indicated by square brackets.
+A: word: =aka	 gloss: \hspaceThis{[=on
+B: word: məlama=ahaŋ	 gloss: sibling=3S.POSS
+C: word: ta-g=aka	 gloss: 3P-do=on
+D: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 36:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [n\`ə-dɔɮ-ɔm] ___ a tʃɪvɛɗ ava nə mɪʒɛ
+Gloss (with missing item): oneS+PFV-intersect-1PEX ___ in road in with person
+The English translation of this sentence is:‘We met a person on the road.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The adpositional does not cliticise to the verb in \REF{ex:7:97} and \REF{ex:7:98} since the indirect object pronominal enclitic and plural subject suffix both trigger a word-final boundary (see \sectref{sec:7.1}), rendering the adpositional in a separate phonological word. In the examples, the boundaries of the phonological words are indicated by square brackets.
+A: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+B: word: haj=atəta	 gloss: house\hspaceThis{[=3P.POSS
+C: word: =ava	 gloss: \hspaceThis{[=in
+D: word: mə-mət=ava=alaj	 gloss: NOM-die=in=away
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 37:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘Come even still closer.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The extension =aka ‘on’ or ‘on top of’ also has the metaphorical meaning of ‘in addition to,’ ‘again,’ or ‘even still’ when the action of the verb occurs ‘on top of’ something that occurred previously; compare the following pair of examples, and note how the =aka in \REF{ex:7:100} looks backward to another instance of the same action in \REF{ex:7:99}.
+A: word: dər=ala	 gloss: move[twoS.IMP]=to
+B: word: mɪ-ŋgɪlɗ-ɛ	 gloss: NOM-grind-CL
+C: word: dər=aka=alaj	 gloss: move=on=away
+D: word: dər=aka=ala	 gloss: move[twoS.IMP]=on=to
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 38:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-s=ɔkʷ ___ ɗaw
+Gloss (with missing item): 3S-please=twoS.IO ___ {Q
+The English translation of this sentence is:‘Do you want any more?’ (lit. is it pleasing to you on?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Using the morpheme ___ in a context where the addressee is eating renders the meaning ‘do you want any more ‘on top of’ what you have already eaten?’ \REF{ex:7:101}.
+A: word: ká-ffəɗ	 gloss: twoS+IFV-put+ITR
+B: word: =aka	 gloss: =on
+C: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+D: word: =aka=ala	 gloss: =on=to
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 39:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ hʷɔr ɛʃɛ
+Gloss (with missing item): ___ woman again
+The English translation of this sentence is:‘You take another wife’ (on top of the one you already have).\footnote{The root-final ɗ of the verb zaɗ ‘take’ drops off when affixes and clitics are added (\sectref{sec:6.2}).} (lit. you take a wife on again)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \citet{FriesenMamalis2008} found three directional extensions =ala ‘towards’ (\ref{ex:7:103}, \ref{ex:7:104}), =alay ‘away from’ \REF{ex:7:105}, and =aya/=əya ‘back and forth repeated movement’ \REF{ex:7:106}. These directionals occur after the verb word and, if present, after the adpositional extensions as seen in \REF{ex:7:103} and \REF{ex:7:104}. The directionals precede the Perfect (see \sectref{sec:7.5.3}), as seen in \REF{ex:7:106}.
+A: word: nɔkʷ=va	 gloss: twoS=PRF
+B: word: a-dəkʷ=aka=alaj	 gloss: 3S-arrive=on=away
+C: word: ka-zaɗ=aka=ala	 gloss: twoS-take=on=to
+D: word: =aka=ala	 gloss: =on=to
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 40:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tə-dzap=ata ___ ana Mʊlɔkʷɔ ɛnɛŋ=ahaj
+Gloss (with missing item): 3P-group=3S.IO ___ DAT Moloko another=Pl
+The English translation of this sentence is:‘They grouped together again against some of the Molokos.’ (point of reference is the Molokos)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \citet{FriesenMamalis2008} found three directional extensions =ala ‘towards’ (\ref{ex:7:103}, \ref{ex:7:104}), =alay ‘away from’ \REF{ex:7:105}, and =aya/=əya ‘back and forth repeated movement’ \REF{ex:7:106}. These directionals occur after the verb word and, if present, after the adpositional extensions as seen in \REF{ex:7:103} and \REF{ex:7:104}. The directionals precede the Perfect (see \sectref{sec:7.5.3}), as seen in \REF{ex:7:106}.
+A: word: =aka=ala	 gloss: =on=to
+B: word: ká-ffəɗ	 gloss: twoS+IFV-put+ITR
+C: word: a-dəkʷ=aka=alaj	 gloss: 3S-arrive=on=away
+D: word: =aka	 gloss: =on
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 41:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘Move further away~(from me).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \citet{FriesenMamalis2008} found three directional extensions =ala ‘towards’ (\ref{ex:7:103}, \ref{ex:7:104}), =alay ‘away from’ \REF{ex:7:105}, and =aya/=əya ‘back and forth repeated movement’ \REF{ex:7:106}. These directionals occur after the verb word and, if present, after the adpositional extensions as seen in \REF{ex:7:103} and \REF{ex:7:104}. The directionals precede the Perfect (see \sectref{sec:7.5.3}), as seen in \REF{ex:7:106}.
+A: word: dər=aka=ala	 gloss: move[twoS.IMP]=on=to
+B: word: ta-zaɗ	 gloss: 3P-take
+C: word: dər=aka=alaj	 gloss: move[twoS.IMP]=on=away
+D: word: ta-g=aka	 gloss: 3P-do=on
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 42:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ hʷɔr ɛʃɛ
+Gloss (with missing item): ___ woman again
+The English translation of this sentence is:‘You take another wife’ (on top of the one you already have).\footnote{The root-final ɗ of the verb zaɗ ‘take’ drops off when affixes and clitics are added (\sectref{sec:6.2}).} (lit. you take a wife on again)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \citet{FriesenMamalis2008} found three directional extensions =ala ‘towards’ (\ref{ex:7:103}, \ref{ex:7:104}), =alay ‘away from’ \REF{ex:7:105}, and =aya/=əya ‘back and forth repeated movement’ \REF{ex:7:106}. These directionals occur after the verb word and, if present, after the adpositional extensions as seen in \REF{ex:7:103} and \REF{ex:7:104}. The directionals precede the Perfect (see \sectref{sec:7.5.3}), as seen in \REF{ex:7:106}.
+A: word: ka-zaɗ=aka=ala	 gloss: twoS-take=on=to
+B: word: =aka=ala	 gloss: =on=to
+C: word: a-dəkʷ=aka=alaj	 gloss: 3S-arrive=on=away
+D: word: a-dzən=aŋ	 gloss: 3S-help=3S.IO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 43:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tə-dzap=ata ___ ana Mʊlɔkʷɔ ɛnɛŋ=ahaj
+Gloss (with missing item): 3P-group=3S.IO ___ DAT Moloko another=Pl
+The English translation of this sentence is:‘They grouped together again against some of the Molokos.’ (point of reference is the Molokos)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \citet{FriesenMamalis2008} found three directional extensions =ala ‘towards’ (\ref{ex:7:103}, \ref{ex:7:104}), =alay ‘away from’ \REF{ex:7:105}, and =aya/=əya ‘back and forth repeated movement’ \REF{ex:7:106}. These directionals occur after the verb word and, if present, after the adpositional extensions as seen in \REF{ex:7:103} and \REF{ex:7:104}. The directionals precede the Perfect (see \sectref{sec:7.5.3}), as seen in \REF{ex:7:106}.
+A: word: a-dəkʷ=aka=alaj	 gloss: 3S-arrive=on=away
+B: word: amɪ-ɮɪg-ɛ	 gloss: DEP-plant-CL
+C: word: =aka	 gloss: =on
+D: word: =aka=ala	 gloss: =on=to
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 44:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tə-dzap=ata ___ ana Mʊlɔkʷɔ ɛnɛŋ=ahaj
+Gloss (with missing item): 3P-group=3S.IO ___ DAT Moloko another=Pl
+The English translation of this sentence is:‘They grouped together again against some of the Molokos.’ (point of reference is the Molokos)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Like the adpositionals, the directionals are phonological clitics at the right edge of the verbal complex. The presence of the enclitics requires that the /-j/ suffix be dropped off (the verb stem in example \REF{ex:7:104} is /dzap -j/ ‘mix’). The neutral prosody of these extensions causes the palatalisation on the verb stem to neutralise. In \REF{ex:7:107} the verb stem is / nz -j \textsuperscript{e}/ ‘go’ with a \oldstylenums{3}\textsc{s} surface form of [ɛnʒɛ].
+A: word: nɛ-tʃɪk-ɛ	 gloss: oneS-stand-CL
+B: word: =aka	 gloss: =on
+C: word: a-dəkʷ=aka=alaj	 gloss: 3S-arrive=on=away
+D: word: =aka=ala	 gloss: =on=to
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 45:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘He/she is coming.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Like the adpositionals, the directionals are phonological clitics at the right edge of the verbal complex. The presence of the enclitics requires that the /-j/ suffix be dropped off (the verb stem in example \REF{ex:7:104} is /dzap -j/ ‘mix’). The neutral prosody of these extensions causes the palatalisation on the verb stem to neutralise. In \REF{ex:7:107} the verb stem is / nz -j \textsuperscript{e}/ ‘go’ with a \oldstylenums{3}\textsc{s} surface form of [ɛnʒɛ].
+A: word: ka-nz=aw	 gloss: twoS-sit=oneS.IO
+B: word: ta-l=ala	 gloss: 3P-go=to
+C: word: a-nz=ala	 gloss: 3S-go=to
+D: word: a-fəɗ=aka	 gloss: 3S-place=on
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 46:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘Move away (from me).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The directional =ala ‘toward’ indicates an action that moves toward the centre of reference (see \ref{ex:7:110} and \ref{ex:7:112}). The directional =alay ‘away’ indicates an action that moves away from that centre (see \ref{ex:7:111} and \ref{ex:7:113}). Compare the example pairs for /d r/ ‘move’ (\ref{ex:7:110} and \ref{ex:7:111}) and for /z ɗ/ ‘take’ (\ref{ex:7:112} and \ref{ex:7:113}). In each example pair, the first shows an action towards the speaker and the second shows an action away from the speaker.
+A: word: dər=ala	 gloss: move[twoS.IMP]=to
+B: word: ləbara	 gloss: news
+C: word: dər=alaj	 gloss: move[twoS.IMP]=away
+D: word: mɪ-ndɪʒ-ɛ	 gloss: NOM-kill(pierce)-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 47:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘Move away (from me).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The directional =ala ‘toward’ indicates an action that moves toward the centre of reference (see \ref{ex:7:110} and \ref{ex:7:112}). The directional =alay ‘away’ indicates an action that moves away from that centre (see \ref{ex:7:111} and \ref{ex:7:113}). Compare the example pairs for /d r/ ‘move’ (\ref{ex:7:110} and \ref{ex:7:111}) and for /z ɗ/ ‘take’ (\ref{ex:7:112} and \ref{ex:7:113}). In each example pair, the first shows an action towards the speaker and the second shows an action away from the speaker.
+A: word: akar=ahaj	 gloss: theft=Pl
+B: word: mə-mət=ava=alaj	 gloss: NOM-die=in=away
+C: word: dər=alaj	 gloss: move[twoS.IMP]=away
+D: word: dər=ala	 gloss: move[twoS.IMP]=to
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 48:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tawij ___ aŋga lɪmɛ
+Gloss (with missing item): 3P+said ___ POSS 1PEX
+The English translation of this sentence is:‘They said, “It has become ours!”’ (lit. it has changed; belonging to us)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Unlike the other extensions, the Perfect enclitic has two possible positions in the verb phrase. It can either be phonologically bound to the right edge of the verbal complex (see \sectref{sec:7.1}) or to the right edge of the clause (\chapref{chap:8}) after the direct object and adpositionals. In (\ref{ex:7:124}--\ref{ex:7:127}, \ref{ex:7:131}), =va follows the adpositional and directional extensions in the verb complex and precedes other elements in the verb phrase. In \REF{ex:7:129} and \REF{ex:7:132}, =va occurs at the end of the clause, a rarer construction that presumably occurs to underscore the idea that the event is already finished.
+A: word: à-mbəɗ=va	 gloss: 3S+PFV-change=PRF
+B: word: à-ndaj	 gloss: 3S+PFV-PRG
+C: word: babəɗ=ahaj	 gloss: white=Pl
+D: word: amɪ-ɮɪg-ɛ	 gloss: DEP-plant-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 49:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ pɛɗɛɗɛ
+Gloss (with missing item): ___ ID:full
+The English translation of this sentence is:‘It had filled right to the rim.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Unlike the other extensions, the Perfect enclitic has two possible positions in the verb phrase. It can either be phonologically bound to the right edge of the verbal complex (see \sectref{sec:7.1}) or to the right edge of the clause (\chapref{chap:8}) after the direct object and adpositionals. In (\ref{ex:7:124}--\ref{ex:7:127}, \ref{ex:7:131}), =va follows the adpositional and directional extensions in the verb complex and precedes other elements in the verb phrase. In \REF{ex:7:129} and \REF{ex:7:132}, =va occurs at the end of the clause, a rarer construction that presumably occurs to underscore the idea that the event is already finished.
+A: word: á-ráh=va	 gloss: 3S+IFV-fill=PRF
+B: word: gəvah=va	 gloss: field=PRF
+C: word: amɪ-ɮɪg-ɛ	 gloss: DEP-plant-CL
+D: word: à-rah=va	 gloss: 3S+PFV-fill=PRF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 50:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): war ɛlɛ haj ŋgɪndijɛ [nɔkʷ amɛ-ʒɛɗ-ɛ ___ bɪlɛŋ ŋgɪndijɛ na
+Gloss (with missing item): child eye millet DEM twoS DEP-take-CL ___ one DEM PSP
+The English translation of this sentence is:‘That grain that you have taken, that one [grain],’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The Perfect extension can mark information in a relative clause (\sectref{sec:5.4.3}) as having been accomplished before the information in the main clause, with relevance to the point of reference in the main clause \REF{ex:7:138}.
+A: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+B: word: a-dzən=aŋ	 gloss: 3S-help=3S.IO
+C: word: =va	 gloss: =PRF
+D: word: na=va	 gloss: 3S.DO=PRF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 51:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tawij ___ aŋga lɪmɛ
+Gloss (with missing item): 3P+said ___ POSS 1PEX
+The English translation of this sentence is:‘They said, “It has become ours!”’ (lit. it has changed; belonging to us)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the Perfect co-occurs with Perfective aspect\is{Tense, mood, and aspect!Perfective aspect}\is{Tense, mood, and aspect!Imperfective aspect} (\ref{ex:7:124}--\ref{ex:7:129}, \ref{ex:7:135}, \ref{ex:7:137}), it indicates that the event expressed by the verb took place before the point of reference established in the discourse. When the Perfect co-occurs with Imperfective aspect (\ref{ex:7:139}--\ref{ex:7:142}), the verb is resultative, referring to an ongoing state that is the result of a previous completed event (filling, becoming tired, ripening, or becoming angry).
+A: word: babəɗ=ahaj	 gloss: white=Pl
+B: word: máà-hʷʊɮ-ɔk	 gloss: 1PIN+PBL-destroy-1PIN
+C: word: à-mbəɗ=va	 gloss: 3S+PFV-change=PRF
+D: word: à-ndaj	 gloss: 3S+PFV-PRG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 52:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘It is full.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the Perfect co-occurs with Perfective aspect\is{Tense, mood, and aspect!Perfective aspect}\is{Tense, mood, and aspect!Imperfective aspect} (\ref{ex:7:124}--\ref{ex:7:129}, \ref{ex:7:135}, \ref{ex:7:137}), it indicates that the event expressed by the verb took place before the point of reference established in the discourse. When the Perfect co-occurs with Imperfective aspect (\ref{ex:7:139}--\ref{ex:7:142}), the verb is resultative, referring to an ongoing state that is the result of a previous completed event (filling, becoming tired, ripening, or becoming angry).
+A: word: á-ráh=va	 gloss: 3S+IFV-fill=PRF
+B: word: ta-l	 gloss: 3P-go
+C: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+D: word: à-rah=va	 gloss: 3S+PFV-fill=PRF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 53:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ na] ɛpɛlɛj~
+Gloss (with missing item): ___ PSP when
+The English translation of this sentence is:‘When is our race?’ (lit. our running [is] when)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As a noun, the nominalised form takes modifiers the same as any abstract noun, i.e., quantifier \REF{ex:7:155} , numeral \REF{ex:7:156}, possessive pronoun \REF{ex:7:154}, demonstrative \REF{ex:7:157}, adjectiviser (\ref{ex:7:158}--\ref{ex:7:160}) but not plural (see \sectref{sec:4.2.5}). Any argument of the clause can be realised with a nominalisation. The noun phrase is marked off by square brackets and the nominalised form is bolded in the examples.
+A: word: ava	 gloss: in
+B: word: mɪ-hɪm-ɛ	 gloss: NOM-run-CL
+C: word: mɪ-g-ijɛ=aŋgʷɔ	 gloss: NOM-do-CL=twoS.POSS
+D: word: mɪ-hɪm-ɛ=alɔkʷɔ	 gloss: NOM-run-CL=1PIN.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 54:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nɛhɛ na] sʊlɔm ga
+Gloss (with missing item): ___ DEM PSP goodness ADJ
+The English translation of this sentence is:‘This planting is good.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As a noun, the nominalised form takes modifiers the same as any abstract noun, i.e., quantifier \REF{ex:7:155} , numeral \REF{ex:7:156}, possessive pronoun \REF{ex:7:154}, demonstrative \REF{ex:7:157}, adjectiviser (\ref{ex:7:158}--\ref{ex:7:160}) but not plural (see \sectref{sec:4.2.5}). Any argument of the clause can be realised with a nominalisation. The noun phrase is marked off by square brackets and the nominalised form is bolded in the examples.
+A: word: mɪ-bɛʒ-ɛ	 gloss: NOM-harvest-CL
+B: word: mɛ-dɪr-ɛ	 gloss: NOM-plant-CL
+C: word: nɔkʷ=va	 gloss: twoS=PRF
+D: word: dɪrɛffɛfɛ	 gloss: ID:movement
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 55:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): na-d=ɔkʷ [andəra ___ ga]
+Gloss (with missing item): oneS-prepare=twoS.IO peanut ___ ADJ
+The English translation of this sentence is:‘I made peanut butter (lit. ground peanuts) for you.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As a noun, the nominalised form takes modifiers the same as any abstract noun, i.e., quantifier \REF{ex:7:155} , numeral \REF{ex:7:156}, possessive pronoun \REF{ex:7:154}, demonstrative \REF{ex:7:157}, adjectiviser (\ref{ex:7:158}--\ref{ex:7:160}) but not plural (see \sectref{sec:4.2.5}). Any argument of the clause can be realised with a nominalisation. The noun phrase is marked off by square brackets and the nominalised form is bolded in the examples.
+A: word: mɪ-ŋgɪlɗ-ɛ	 gloss: NOM-grind-CL
+B: word: amɪ-g-ijɛ	 gloss: DEP-do-CL
+C: word: mɪ-mbɪɗ-ɛ=ahaŋ	 gloss: NOM-remain-CL=3S.POSS
+D: word: mɪ-hɪm-ɛ	 gloss: NOM-run-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 56:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): na-d=ɔkʷ [andəra mɪ-ŋgɪlɗ-ɛ ___
+Gloss (with missing item): oneS-prepare=twoS.IO peanut NOM-grind-CL ___
+The English translation of this sentence is:‘I made peanut butter (lit. ground peanuts) for you.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As a noun, the nominalised form takes modifiers the same as any abstract noun, i.e., quantifier \REF{ex:7:155} , numeral \REF{ex:7:156}, possessive pronoun \REF{ex:7:154}, demonstrative \REF{ex:7:157}, adjectiviser (\ref{ex:7:158}--\ref{ex:7:160}) but not plural (see \sectref{sec:4.2.5}). Any argument of the clause can be realised with a nominalisation. The noun phrase is marked off by square brackets and the nominalised form is bolded in the examples.
+A: word: ga	 gloss: ADJ
+B: word: á-sək=ala	 gloss: 3S+IFV-multiply=to
+C: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+D: word: ká-ffəɗ	 gloss: twoS+IFV-put+ITR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 57:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndahaŋ ___ ga]
+Gloss (with missing item): 3S ___ ADJ
+The English translation of this sentence is:‘He/she [is] seated.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As a noun, the nominalised form takes modifiers the same as any abstract noun, i.e., quantifier \REF{ex:7:155} , numeral \REF{ex:7:156}, possessive pronoun \REF{ex:7:154}, demonstrative \REF{ex:7:157}, adjectiviser (\ref{ex:7:158}--\ref{ex:7:160}) but not plural (see \sectref{sec:4.2.5}). Any argument of the clause can be realised with a nominalisation. The noun phrase is marked off by square brackets and the nominalised form is bolded in the examples.
+A: word: mɪ-hɪm-ɛ	 gloss: NOM-run-CL
+B: word: amɪ-g-ijɛ	 gloss: DEP-do-CL
+C: word: mɪ-nʒ-ijɛ	 gloss: NOM-sit-CL
+D: word: =aka=ala	 gloss: =on=to
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 58:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): na-d=ɔkʷ [andəra ___ ga]
+Gloss (with missing item): oneS-prepare=twoS.IO peanut ___ ADJ
+The English translation of this sentence is:‘I made peanut butter (lit. ground peanuts) for you.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Adjectives can be further derived from a nominalised verb form by adding ga, as is true of any noun (\sectref{sec:4.3}). Adjectives that are derived from nominalised verbs express resultant states. For example, the peanuts in \REF{ex:7:158} are already ground, the woman in \REF{ex:7:159} is already beautiful, the man is already seated in \REF{ex:7:160}. The nominalised forms are bolded in the examples.
+A: word: mɪ-mbɪɗ-ɛ=ahaŋ	 gloss: NOM-remain-CL=3S.POSS
+B: word: mɪ-hɪm-ɛ	 gloss: NOM-run-CL
+C: word: mɪ-ŋgɪlɗ-ɛ	 gloss: NOM-grind-CL
+D: word: áà-l=ala	 gloss: 3S+PBL-go=to
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 59:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): na-d=ɔkʷ [andəra mɪ-ŋgɪlɗ-ɛ ___
+Gloss (with missing item): oneS-prepare=twoS.IO peanut NOM-grind-CL ___
+The English translation of this sentence is:‘I made peanut butter (lit. ground peanuts) for you.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Adjectives can be further derived from a nominalised verb form by adding the morpheme ___, as is true of any noun (\sectref{sec:4.3}). Adjectives that are derived from nominalised verbs express resultant states. For example, the peanuts in \REF{ex:7:158} are already ground, the woman in \REF{ex:7:159} is already beautiful, the man is already seated in \REF{ex:7:160}. The nominalised forms are bolded in the examples.
+A: word: ga	 gloss: ADJ
+B: word: bɪrɛk	 gloss: brick
+C: word: ava	 gloss: in
+D: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 60:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndahaŋ ___ ga]
+Gloss (with missing item): 3S ___ ADJ
+The English translation of this sentence is:‘He/she [is] seated.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Adjectives can be further derived from a nominalised verb form by adding ga, as is true of any noun (\sectref{sec:4.3}). Adjectives that are derived from nominalised verbs express resultant states. For example, the peanuts in \REF{ex:7:158} are already ground, the woman in \REF{ex:7:159} is already beautiful, the man is already seated in \REF{ex:7:160}. The nominalised forms are bolded in the examples.
+A: word: amɪ-g-ijɛ	 gloss: DEP-do-CL
+B: word: mɪ-hɪm-ɛ	 gloss: NOM-run-CL
+C: word: áà-mak-aj	 gloss: twoS+PBL-leave-CL
+D: word: mɪ-nʒ-ijɛ	 gloss: NOM-sit-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 61:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ na] ɛpɛlɛj~
+Gloss (with missing item): ___ PSP when
+The English translation of this sentence is:‘When is our race?’ (lit. our running [is] when)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is interesting that noun phrases where the head noun is a nominalised verb behave like a clause when there is a noun modifier. The nominalised verb can be the head of a genitive construction (see \sectref{sec:5.4.1}), a permanent attribution construction (see \sectref{sec:5.4.2}), or an argument in another clause (see \sectref{sec:12.1.1}). In the genitive construction (\ref{ex:7:154} and \ref{ex:7:164}), the second noun represents the subject of the verb stem. In the other constructions (\ref{ex:7:161}--\ref{ex:7:162}), the second noun represents the direct object of the nominalised verb.
+A: word: mə-mət=ava=alaj	 gloss: NOM-die=in=away
+B: word: mɪ-hɪm-ɛ	 gloss: NOM-run-CL
+C: word: mɪ-hɪm-ɛ=alɔkʷɔ	 gloss: NOM-run-CL=1PIN.POSS
+D: word: mɪ-g-ijɛ=aŋgʷɔ	 gloss: NOM-do-CL=twoS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 62:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘our race’ (lit. the running of us)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is interesting that noun phrases where the head noun is a nominalised verb behave like a clause when there is a noun modifier. The nominalised verb can be the head of a genitive construction (see \sectref{sec:5.4.1}), a permanent attribution construction (see \sectref{sec:5.4.2}), or an argument in another clause (see \sectref{sec:12.1.1}). In the genitive construction (\ref{ex:7:154} and \ref{ex:7:164}), the second noun represents the subject of the verb stem. In the other constructions (\ref{ex:7:161}--\ref{ex:7:162}), the second noun represents the direct object of the nominalised verb.
+A: word: =ava	 gloss: \hspaceThis{[=in
+B: word: mɪ-hɪm-ɛ=alɔkʷɔ	 gloss: NOM-run-CL=1PIN.POSS
+C: word: mɪ-hɪm-ɛ	 gloss: NOM-run-CL
+D: word: mɪ-g-ijɛ=aŋgʷɔ	 gloss: NOM-do-CL=twoS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 63:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndahaŋ ŋgah ___ jam a vɛr=ahaŋ ava
+Gloss (with missing item): 3S hide ___ water in room=3S.POSS in
+The English translation of this sentence is:‘He had hidden the water in his room’ (lit. he hide-hiding water in his room)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The nominalised form can fill the verb slot in a clause (discussed further in \sectref{sec:8.2.3} and \sectref{sec:9.4}). Examples \REF{ex:7:165} and \REF{ex:7:166} are full (complete) clauses on the main event line where the verb is in nominalised form. Such clauses are found at the inciting moment and peak of a narrative.\is{Focus and prominence!Discourse peak} The nominalised form is not conjugated for subject or direct object, but the clause may have a subject (the \oldstylenums{3}\textsc{s} pronoun ndahan in \ref{ex:7:165}) or direct object (yam ‘water’ in \ref{ex:7:165}) and other clausal elements. The nominalised form can take verbal extensions (\oldstylenums{3}\textsc{p} indirect object =ata, adpositional =aka and Perfect =va in \ref{ex:7:165}; the adpositional =ava and the directional =alay in \ref{ex:7:166}).
+A: word: ká-ras-aj	 gloss: twoS+IFV-minimise-CL
+B: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+C: word: ɔ-lɔ	 gloss: 3S-go
+D: word: ma-p=ata=aka=va	 gloss: NOM-open=3P.IO=on=PRF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 64:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndahaŋ ŋgah ___ jam a vɛr=ahaŋ ava
+Gloss (with missing item): 3S hide ___ water in room=3S.POSS in
+The English translation of this sentence is:‘He had hidden the water in his room’ (lit. he hide-hiding water in his room)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The nominalised form can fill the verb slot in a clause (discussed further in \sectref{sec:8.2.3} and \sectref{sec:9.4}). Examples \REF{ex:7:165} and \REF{ex:7:166} are full (complete) clauses on the main event line where the verb is in nominalised form. Such clauses are found at the inciting moment and peak of a narrative.\is{Focus and prominence!Discourse peak} The nominalised form is not conjugated for subject or direct object, but the clause may have a subject (the \oldstylenums{3}\textsc{s} pronoun ndahan in \ref{ex:7:165}) or direct object (yam ‘water’ in \ref{ex:7:165}) and other clausal elements. The nominalised form can take verbal extensions (\oldstylenums{3}\textsc{p} indirect object =ata, adpositional =aka and Perfect =va in \ref{ex:7:165}; the adpositional =ava and the directional =alay in \ref{ex:7:166}).
+A: word: nà-sar	 gloss: oneS+PFV-know
+B: word: ma-p=ata=aka=va	 gloss: NOM-open=3P.IO=on=PRF
+C: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+D: word: mɪ-nʒ-ijɛ	 gloss: NOM-sit-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 65:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndahaŋ ŋgah ___ jam a vɛr=ahaŋ ava
+Gloss (with missing item): 3S hide ___ water in room=3S.POSS in
+The English translation of this sentence is:‘He had hidden the water in his room’ (lit. he hide-hiding water in his room)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The nominalised form can fill the verb slot in a clause (discussed further in \sectref{sec:8.2.3} and \sectref{sec:9.4}). Examples \REF{ex:7:165} and \REF{ex:7:166} are full (complete) clauses on the main event line where the verb is in nominalised form. Such clauses are found at the inciting moment and peak of a narrative.\is{Focus and prominence!Discourse peak} The nominalised form is not conjugated for subject or direct object, but the clause may have a subject (the \oldstylenums{3}\textsc{s} pronoun ndahan in \ref{ex:7:165}) or direct object (yam ‘water’ in \ref{ex:7:165}) and other clausal elements. The nominalised form can take verbal extensions (\oldstylenums{3}\textsc{p} indirect object =ata, adpositional =aka and Perfect =va in \ref{ex:7:165}; the adpositional =ava and the directional =alay in \ref{ex:7:166}).
+A: word: áà-l=ala	 gloss: 3S+PBL-go=to
+B: word: zazaj	 gloss: peace
+C: word: ma-p=ata=aka=va	 gloss: NOM-open=3P.IO=on=PRF
+D: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 66:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndahaŋ ŋgah ___ jam a vɛr=ahaŋ ava
+Gloss (with missing item): 3S hide ___ water in room=3S.POSS in
+The English translation of this sentence is:‘He had hidden the water in his room’ (lit. he hide-hiding water in his room)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The nominalised form can fill the verb slot in a clause (discussed further in \sectref{sec:8.2.3} and \sectref{sec:9.4}). Examples \REF{ex:7:165} and \REF{ex:7:166} are full (complete) clauses on the main event line where the verb is in nominalised form. Such clauses are found at the inciting moment and peak of a narrative.\is{Focus and prominence!Discourse peak} The nominalised form is not conjugated for subject or direct object, but the clause may have a subject (the \oldstylenums{3}\textsc{s} pronoun ndahan in \ref{ex:7:165}) or direct object (yam ‘water’ in \ref{ex:7:165}) and other clausal elements. The nominalised form can take verbal extensions (\oldstylenums{3}\textsc{p} indirect object =ata, adpositional =aka and Perfect =va in \ref{ex:7:165}; the adpositional =ava and the directional =alay in \ref{ex:7:166}).
+A: word: ɬəmaj	 gloss: ear
+B: word: ma-p=ata=aka=va	 gloss: NOM-open=3P.IO=on=PRF
+C: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+D: word: dər=aka=ala	 gloss: move[twoS.IMP]=on=to
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 67:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): awij nʊ-sʊkʷɔm ___ mɪ-søkʷøm-ɛ
+Gloss (with missing item): said oneS-buy ___ NOM-buy-CL
+The English translation of this sentence is:‘He said, “I actually bought it.”’ (lit. I bought it with buying)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The nominalised form of a verb is used in an idiomatic construction that functions to bring focus on the verb. The verb focus construction is composed of an inflected verb followed by an adpositional phrase (see \sectref{sec:5.6.1}) containing the same verb in nominalised form. \REF{ex:7:167} shows the construction the morpheme ___skom the morpheme ___ məskwəme ‘I really did buy it’ (lit. I bought [it] its gloss ___ buying). This construction specifies that the action is done ‘by means of’ or ‘by actually’ doing something (to the exclusion of all other possibilities). It is used by the speaker to contest a real or implied challenge of the validity of what has been said. In \REF{ex:7:167}, the speaker is saying that he actually bought a particular item, i.e. he didn’t steal it and nobody gave it to him. Likewise, (\ref{ex:7:168}--\ref{ex:7:170}) illustrate other verbs in this construction.
+A: word: nə	 gloss: with
+B: word: nə-ndav=alaj	 gloss: oneS-finish=away
+C: word: nɛ-tʃɪk-ɛ	 gloss: oneS-stand-CL
+D: word: g=aw	 gloss: do=oneS.IO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 68:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): awij nʊ-sʊkʷɔm nə ___
+Gloss (with missing item): said oneS-buy with ___
+The English translation of this sentence is:‘He said, “I actually bought it.”’ (lit. I bought it with buying)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The nominalised form of a verb is used in an idiomatic construction that functions to bring focus on the verb. The verb focus construction is composed of an inflected verb followed by an adpositional phrase (see \sectref{sec:5.6.1}) containing the same verb in nominalised form. \REF{ex:7:167} shows the construction nəskom nə məskwəme ‘I really did buy it’ (lit. I bought [it] with buying). This construction specifies that the action is done ‘by means of’ or ‘by actually’ doing something (to the exclusion of all other possibilities). It is used by the speaker to contest a real or implied challenge of the validity of what has been said. In \REF{ex:7:167}, the speaker is saying that he actually bought a particular item, i.e. he didn’t steal it and nobody gave it to him. Likewise, (\ref{ex:7:168}--\ref{ex:7:170}) illustrate other verbs in this construction.
+A: word: mɪ-søkʷøm-ɛ	 gloss: NOM-buy-CL
+B: word: mɛmɛj	 gloss: how
+C: word: ka-ɬ=aŋ	 gloss: twoS-slay=3S.IO
+D: word: mɪ-skʷøm-ɛ	 gloss: NOM-buy/sell-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 69:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): awij nʊ-sʊkʷɔm ___ mɪ-søkʷøm-ɛ
+Gloss (with missing item): said oneS-buy ___ NOM-buy-CL
+The English translation of this sentence is:‘He said, “I actually bought it.”’ (lit. I bought it with buying)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The nominalised form of a verb is used in an idiomatic construction that functions to bring focus on the verb. The verb focus construction is composed of an inflected verb followed by an adpositional phrase (see \sectref{sec:5.6.1}) containing the same verb in nominalised form. \REF{ex:7:167} shows the construction the morpheme ___skom the morpheme ___ məskwəme ‘I really did buy it’ (lit. I bought [it] its gloss ___ buying). This construction specifies that the action is done ‘by means of’ or ‘by actually’ doing something (to the exclusion of all other possibilities). It is used by the speaker to contest a real or implied challenge of the validity of what has been said. In \REF{ex:7:167}, the speaker is saying that he actually bought a particular item, i.e. he didn’t steal it and nobody gave it to him. Likewise, (\ref{ex:7:168}--\ref{ex:7:170}) illustrate other verbs in this construction.
+A: word: nə-ndav=alaj	 gloss: oneS-finish=away
+B: word: nə	 gloss: with
+C: word: mɛ-dɪr-ɛ	 gloss: NOM-plant-CL
+D: word: ɛnɛŋ=ahaj	 gloss: another=Pl
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 70:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): awij nʊ-sʊkʷɔm nə ___
+Gloss (with missing item): said oneS-buy with ___
+The English translation of this sentence is:‘He said, “I actually bought it.”’ (lit. I bought it with buying)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The nominalised form of a verb is used in an idiomatic construction that functions to bring focus on the verb. The verb focus construction is composed of an inflected verb followed by an adpositional phrase (see \sectref{sec:5.6.1}) containing the same verb in nominalised form. \REF{ex:7:167} shows the construction nəskom nə məskwəme ‘I really did buy it’ (lit. I bought [it] with buying). This construction specifies that the action is done ‘by means of’ or ‘by actually’ doing something (to the exclusion of all other possibilities). It is used by the speaker to contest a real or implied challenge of the validity of what has been said. In \REF{ex:7:167}, the speaker is saying that he actually bought a particular item, i.e. he didn’t steal it and nobody gave it to him. Likewise, (\ref{ex:7:168}--\ref{ex:7:170}) illustrate other verbs in this construction.
+A: word: mɪ-skʷøm-ɛ	 gloss: NOM-buy/sell-CL
+B: word: mɪ-søkʷøm-ɛ	 gloss: NOM-buy-CL
+C: word: ta-ndaj	 gloss: 3P-PROG
+D: word: mɪ-nʒ-ijɛ	 gloss: NOM-sit-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 71:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ká-ɬ-aj awak ___ mɪ-ɬ-ijɛ
+Gloss (with missing item): twoS+IFV-slay-CL goat ___ NOM-slay-CL
+The English translation of this sentence is:‘You kill goats by cutting their throat and not by any other way’ (lit. you slay a goat with slaying)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The nominalised form of a verb is used in an idiomatic construction that functions to bring focus on the verb. The verb focus construction is composed of an inflected verb followed by an adpositional phrase (see \sectref{sec:5.6.1}) containing the same verb in nominalised form. \REF{ex:7:167} shows the construction the morpheme ___skom the morpheme ___ məskwəme ‘I really did buy it’ (lit. I bought [it] its gloss ___ buying). This construction specifies that the action is done ‘by means of’ or ‘by actually’ doing something (to the exclusion of all other possibilities). It is used by the speaker to contest a real or implied challenge of the validity of what has been said. In \REF{ex:7:167}, the speaker is saying that he actually bought a particular item, i.e. he didn’t steal it and nobody gave it to him. Likewise, (\ref{ex:7:168}--\ref{ex:7:170}) illustrate other verbs in this construction.
+A: word: ká-kaɗ	 gloss: twoS+IFV-kill(club)
+B: word: nə-ndav=alaj	 gloss: oneS-finish=away
+C: word: təmak	 gloss: sheep
+D: word: nə	 gloss: with
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 72:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ká-ɬ-aj awak nə ___
+Gloss (with missing item): twoS+IFV-slay-CL goat with ___
+The English translation of this sentence is:‘You kill goats by cutting their throat and not by any other way’ (lit. you slay a goat with slaying)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The nominalised form of a verb is used in an idiomatic construction that functions to bring focus on the verb. The verb focus construction is composed of an inflected verb followed by an adpositional phrase (see \sectref{sec:5.6.1}) containing the same verb in nominalised form. \REF{ex:7:167} shows the construction nəskom nə məskwəme ‘I really did buy it’ (lit. I bought [it] with buying). This construction specifies that the action is done ‘by means of’ or ‘by actually’ doing something (to the exclusion of all other possibilities). It is used by the speaker to contest a real or implied challenge of the validity of what has been said. In \REF{ex:7:167}, the speaker is saying that he actually bought a particular item, i.e. he didn’t steal it and nobody gave it to him. Likewise, (\ref{ex:7:168}--\ref{ex:7:170}) illustrate other verbs in this construction.
+A: word: áá-l=ala	 gloss: 3S+POT-go=to
+B: word: mɪ-ɬ-ijɛ	 gloss: NOM-slay-CL
+C: word: amɪ-g-ijɛ	 gloss: DEP-do-CL
+D: word: a-ɬ-aj	 gloss: 3S-slay-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 73:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ká-ndaz ___ mɪ-ndɪʒ-ɛ awak aŋga pəra
+Gloss (with missing item): twoS+IFV-kill(pierce) ___ NOM-kill(pierce)-CL goat POSS idol
+The English translation of this sentence is:‘You kill a goat for the idols by piercing it (you don’t cut its throat).’ (lit. you kill with killing a goat that belongs to an idol)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The nominalised form of a verb is used in an idiomatic construction that functions to bring focus on the verb. The verb focus construction is composed of an inflected verb followed by an adpositional phrase (see \sectref{sec:5.6.1}) containing the same verb in nominalised form. \REF{ex:7:167} shows the construction the morpheme ___skom the morpheme ___ məskwəme ‘I really did buy it’ (lit. I bought [it] its gloss ___ buying). This construction specifies that the action is done ‘by means of’ or ‘by actually’ doing something (to the exclusion of all other possibilities). It is used by the speaker to contest a real or implied challenge of the validity of what has been said. In \REF{ex:7:167}, the speaker is saying that he actually bought a particular item, i.e. he didn’t steal it and nobody gave it to him. Likewise, (\ref{ex:7:168}--\ref{ex:7:170}) illustrate other verbs in this construction.
+A: word: nə	 gloss: with
+B: word: =aka	 gloss: =on
+C: word: nə-ndav=alaj	 gloss: oneS-finish=away
+D: word: nà-kàɗ	 gloss: oneS+PFV-kill
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 74:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ká-ndaz nə ___ awak aŋga pəra
+Gloss (with missing item): twoS+IFV-kill(pierce) with ___ goat POSS idol
+The English translation of this sentence is:‘You kill a goat for the idols by piercing it (you don’t cut its throat).’ (lit. you kill with killing a goat that belongs to an idol)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The nominalised form of a verb is used in an idiomatic construction that functions to bring focus on the verb. The verb focus construction is composed of an inflected verb followed by an adpositional phrase (see \sectref{sec:5.6.1}) containing the same verb in nominalised form. \REF{ex:7:167} shows the construction nəskom nə məskwəme ‘I really did buy it’ (lit. I bought [it] with buying). This construction specifies that the action is done ‘by means of’ or ‘by actually’ doing something (to the exclusion of all other possibilities). It is used by the speaker to contest a real or implied challenge of the validity of what has been said. In \REF{ex:7:167}, the speaker is saying that he actually bought a particular item, i.e. he didn’t steal it and nobody gave it to him. Likewise, (\ref{ex:7:168}--\ref{ex:7:170}) illustrate other verbs in this construction.
+A: word: mɪ-kɪɗ-ɛ	 gloss: NOM-kill-CL
+B: word: dər=alaj	 gloss: move[twoS.IMP]=away
+C: word: mɪ-ndɪʒ-ɛ	 gloss: NOM-kill(pierce)-CL
+D: word: mɪ-ndɛw-ɛ	 gloss: NOM-swallow-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 75:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ta-s-aŋ ɔkʷɔ ana haj[=atəta ___ na=va]
+Gloss (with missing item): 3P-cut=3S.DO fire DAT house\hspaceThis{[=3P.POSS ___ 3S.DO=PRF
+The English translation of this sentence is:‘They (the attackers) set fire to the house that the others had built (lit. their house to prepare).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are no subject inflections on the dependent verb form; the subject is determined either by the subject of the matrix clause (a gap for subject is marked as Ø in \ref{ex:7:171}, \ref{ex:7:173}, and \ref{ex:7:174}) or a pronoun within the dependent clause indicating subject (\ref{ex:7:172}--\ref{ex:7:176}). The dependent form of the verb may receive object suffixes and extensions. The dependent verb form is used when clauses that carry an imperfective or unfinished idea are embedded in other constructions. The clause structure is illustrated in \figref{fig:14}.
+A: word: ava	 gloss: in
+B: word: amɪ-g-ijɛ	 gloss: DEP-do-CL
+C: word: mɪ-g-ijɛ=aŋgʷɔ	 gloss: NOM-do-CL=twoS.POSS
+D: word: amɪ-mɪnzɛr-ɛ	 gloss: DEP-see-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 76:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ta-s-aŋ ɔkʷɔ ana haj[=atəta amɪ-g-ijɛ ___
+Gloss (with missing item): 3P-cut=3S.DO fire DAT house\hspaceThis{[=3P.POSS DEP-do-CL ___
+The English translation of this sentence is:‘They (the attackers) set fire to the house that the others had built (lit. their house to prepare).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are no subject inflections on the dependent verb form; the subject is determined either by the subject of the matrix clause (a gap for subject is marked as Ø in \ref{ex:7:171}, \ref{ex:7:173}, and \ref{ex:7:174}) or a pronoun within the dependent clause indicating subject (\ref{ex:7:172}--\ref{ex:7:176}). The dependent form of the verb may receive object suffixes and extensions. The dependent verb form is used when clauses that carry an imperfective or unfinished idea are embedded in other constructions. The clause structure is illustrated in \figref{fig:14}.
+A: word: na=va	 gloss: 3S.DO=PRF
+B: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+C: word: nɔkʷ=va	 gloss: twoS=PRF
+D: word: =va	 gloss: =PRF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 77:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mə-kəɗ va aɮa ta-ɮ=aŋ [alɪmɛ ___ va]
+Gloss (with missing item): NOM-kill body now 3P-begin=3S.IO 1PEX.POSS ___ body
+The English translation of this sentence is:‘Combat now, they began to fight with us.’ (lit. killing body now, they started it, our planting bodies)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are no subject inflections on the dependent verb form; the subject is determined either by the subject of the matrix clause (a gap for subject is marked as Ø in \ref{ex:7:171}, \ref{ex:7:173}, and \ref{ex:7:174}) or a pronoun within the dependent clause indicating subject (\ref{ex:7:172}--\ref{ex:7:176}). The dependent form of the verb may receive object suffixes and extensions. The dependent verb form is used when clauses that carry an imperfective or unfinished idea are embedded in other constructions. The clause structure is illustrated in \figref{fig:14}.
+A: word: amɪ-ɮɪg-ɛ	 gloss: DEP-plant-CL
+B: word: tɪ-ɮɪg-ɛ	 gloss: 3P-throw-CL
+C: word: =aka=ala	 gloss: =on=to
+D: word: mɛ-dɪr-ɛ	 gloss: NOM-plant-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 78:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mə-kəɗ va aɮa ta-ɮ=aŋ [alɪmɛ ___ va]
+Gloss (with missing item): NOM-kill body now 3P-begin=3S.IO 1PEX.POSS ___ body
+The English translation of this sentence is:‘Combat now, they began to fight with us.’ (lit. killing body now, they started it, our planting bodies)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The relative clause is a noun phrase modifier (\ref{ex:7:171}--\ref{ex:7:176}). In the examples in this section, the dependent verb is bolded and the dependent clause is marked with square brackets.
+A: word: káá-z=ala	 gloss: twoS+POT-take=to
+B: word: mɛ-dɪr-ɛ	 gloss: NOM-plant-CL
+C: word: tɪ-ɮɪg-ɛ	 gloss: 3P-throw-CL
+D: word: amɪ-ɮɪg-ɛ	 gloss: DEP-plant-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 79:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mə-kəɗ va aɮa ta-ɮ=aŋ [alɪmɛ ___ va]
+Gloss (with missing item): NOM-kill body now 3P-begin=3S.IO 1PEX.POSS ___ body
+The English translation of this sentence is:‘Combat now, they began to fight with us.’ (lit. killing body now, they started it, our planting bodies)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The complement clause can function as the subject \REF{ex:7:175} or the direct object \REF{ex:7:176} of the matrix verb.
+A: word: tɪ-ɮɪg-ɛ	 gloss: 3P-throw-CL
+B: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+C: word: amɪ-ɮɪg-ɛ	 gloss: DEP-plant-CL
+D: word: mɛ-dɪr-ɛ	 gloss: NOM-plant-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+

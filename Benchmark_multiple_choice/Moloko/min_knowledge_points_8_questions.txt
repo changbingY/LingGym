@@ -1,0 +1,338 @@
+Question 0:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): hʊmbɔ ga [a-ndaj a-sak ___ wuʃɛkɛkɛ]
+Gloss (with missing item): flour ADJ 3S-PRG 3S-multiply ___ ID:multiply
+The English translation of this sentence is:‘The flour was multiplying all by itself (lit. its things), wəshekeke.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Direct objects follow immediately after the verb complex and are expressed as noun phrases (bolded in \ref{ex:8:1} and \ref{ex:8:5}) or ‘body-part’ incorporated nouns (bolded in \ref{ex:8:2}; see \sectref{sec:9.2.5}). Adpositional phrases (underlined in \ref{ex:8:2}--\ref{ex:8:6}, see \sectref{sec:5.6}) and then adverbs (italicised in \ref{ex:8:4} and \ref{ex:8:5}; see \sectref{sec:3.5}) or ideophone (italicised in \ref{ex:8:1} and \ref{ex:8:6}; see \sectref{sec:3.6}) follow after the direct object. The verb phrase is delimited by square brackets in the examples below.
+A: word: ɬɪrɛlɛ=ahaŋ=ahaj	 gloss: work=3S.POSS=Pl
+B: word: ɛlɛ=ahaŋ	 gloss: thing=3S.POSS
+C: word: nɛ=ahaŋ	 gloss: oneS=3S.POSS
+D: word: nɔ-ndɔj	 gloss: oneS-PRG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 1:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): \textup{[}n\'{ə}-vəl=aŋ ___ \ulp{ana}{~~~} \ule{Mana} zajəx=xa\textup{]}
+Gloss (with missing item): oneS+PFV-give=3S.IO ___ DAT Mana care=ADV
+The English translation of this sentence is:‘I gave water to Mana carefully.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Direct objects follow immediately after the verb complex and are expressed as noun phrases (bolded in \ref{ex:8:1} and \ref{ex:8:5}) or ‘body-part’ incorporated nouns (bolded in \ref{ex:8:2}; see \sectref{sec:9.2.5}). Adpositional phrases (underlined in \ref{ex:8:2}--\ref{ex:8:6}, see \sectref{sec:5.6}) and then adverbs (italicised in \ref{ex:8:4} and \ref{ex:8:5}; see \sectref{sec:3.5}) or ideophone (italicised in \ref{ex:8:1} and \ref{ex:8:6}; see \sectref{sec:3.6}) follow after the direct object. The verb phrase is delimited by square brackets in the examples below.
+A: word: jam	 gloss: water
+B: word: bax	 gloss: pour
+C: word: ŋgax	 gloss: hide
+D: word: waja	 gloss: because
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 2:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [ta-nd=alaj ta-l=ala tə-ɮəg-ə ___ \ulp{ana}{~~~~~~} \ulp{Mʊlɔkʷɔ}{~~~~~}\uline{=ahaj}]
+Gloss (with missing item): 3P-PRG=away 3P-go=to 3P-throw-CL ___ DAT Moloko=Pl
+The English translation of this sentence is:‘They were coming and fighting with the Molokos.’ (lit. they were coming they threw body to Molokos)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Direct objects follow immediately after the verb complex and are expressed as noun phrases (bolded in \ref{ex:8:1} and \ref{ex:8:5}) or ‘its gloss ___-part’ incorporated nouns (bolded in \ref{ex:8:2}; see \sectref{sec:9.2.5}). Adpositional phrases (underlined in \ref{ex:8:2}--\ref{ex:8:6}, see \sectref{sec:5.6}) and then adverbs (italicised in \ref{ex:8:4} and \ref{ex:8:5}; see \sectref{sec:3.5}) or ideophone (italicised in \ref{ex:8:1} and \ref{ex:8:6}; see \sectref{sec:3.6}) follow after the direct object. The verb phrase is delimited by square brackets in the examples below.
+A: word: va	 gloss: body
+B: word: à-paɗə=va	 gloss: 3S+PFV-crunch=PRF
+C: word: hərva=ahaŋ	 gloss: body=3S.POSS
+D: word: lɔh-ɔm	 gloss: go[IMP]-twoP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 3:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [ta-nd=alaj ta-l=ala tə-ɮəg-ə ___ \ulp{ana}{~~~~~~} \ulp{Mʊlɔkʷɔ}{~~~~~}\uline{=ahaj}]
+Gloss (with missing item): 3P-PRG=away 3P-go=to 3P-throw-CL ___ DAT Moloko=Pl
+The English translation of this sentence is:‘They were coming and fighting with the Molokos.’ (lit. they were coming they threw body to Molokos)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Direct objects follow immediately after the verb complex and are expressed as noun phrases (bolded in \ref{ex:8:1} and \ref{ex:8:5}) or ‘its gloss ___-part’ incorporated nouns (bolded in \ref{ex:8:2}; see \sectref{sec:9.2.5}). Adpositional phrases (underlined in \ref{ex:8:2}--\ref{ex:8:6}, see \sectref{sec:5.6}) and then adverbs (italicised in \ref{ex:8:4} and \ref{ex:8:5}; see \sectref{sec:3.5}) or ideophone (italicised in \ref{ex:8:1} and \ref{ex:8:6}; see \sectref{sec:3.6}) follow after the direct object. The verb phrase is delimited by square brackets in the examples below.
+A: word: va	 gloss: body
+B: word: ɛgɪnɛ	 gloss: today
+C: word: hərva=ahaŋ	 gloss: body=3S.POSS
+D: word: à-paɗə=va	 gloss: 3S+PFV-crunch=PRF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 4:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): \textup{[}n\'{ə}-vəl=aŋ ___ \ulp{ana}{~~~} \ule{Mana} zajəx=xa\textup{]}
+Gloss (with missing item): oneS+PFV-give=3S.IO ___ DAT Mana care=ADV
+The English translation of this sentence is:‘I gave water to Mana carefully.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Direct objects follow immediately after the verb complex and are expressed as noun phrases (bolded in \ref{ex:8:1} and \ref{ex:8:5}) or ‘body-part’ incorporated nouns (bolded in \ref{ex:8:2}; see \sectref{sec:9.2.5}). Adpositional phrases (underlined in \ref{ex:8:2}--\ref{ex:8:6}, see \sectref{sec:5.6}) and then adverbs (italicised in \ref{ex:8:4} and \ref{ex:8:5}; see \sectref{sec:3.5}) or ideophone (italicised in \ref{ex:8:1} and \ref{ex:8:6}; see \sectref{sec:3.6}) follow after the direct object. The verb phrase is delimited by square brackets in the examples below.
+A: word: waja	 gloss: because
+B: word: bax	 gloss: pour
+C: word: jam	 gloss: water
+D: word: ka-ndaj	 gloss: twoS-PRG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 5:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): hʊmbɔ ga [a-ndaj a-sak ___ wuʃɛkɛkɛ]
+Gloss (with missing item): flour ADJ 3S-PRG 3S-multiply ___ ID:multiply
+The English translation of this sentence is:‘The flour was multiplying all by itself (lit. its things), wəshekeke.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Direct objects follow immediately after the verb complex and are expressed as noun phrases (bolded in \ref{ex:8:1} and \ref{ex:8:5}) or ‘body-part’ incorporated nouns (bolded in \ref{ex:8:2}; see \sectref{sec:9.2.5}). Adpositional phrases (underlined in \ref{ex:8:2}--\ref{ex:8:6}, see \sectref{sec:5.6}) and then adverbs (italicised in \ref{ex:8:4} and \ref{ex:8:5}; see \sectref{sec:3.5}) or ideophone (italicised in \ref{ex:8:1} and \ref{ex:8:6}; see \sectref{sec:3.6}) follow after the direct object. The verb phrase is delimited by square brackets in the examples below.
+A: word: lɔh-ɔm	 gloss: go[IMP]-twoP
+B: word: ɛlɛ=ahaŋ	 gloss: thing=3S.POSS
+C: word: ɬɪrɛlɛ=ahaŋ=ahaj	 gloss: work=3S.POSS=Pl
+D: word: nɛ=ahaŋ	 gloss: oneS=3S.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 6:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ [n\'{ɔ}-lɔ a kɔsɔkʷɔ ava]
+Gloss (with missing item): ___ oneS+IFV-go at market in
+The English translation of this sentence is:‘Today I will go to the market.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Some temporal adverbs (bolded in \ref{ex:8:7}--\ref{ex:8:8}) can occur first in the clause or last in the verb phrase , but not in the interior of the verb phrase. Likewise, emphatic interrogative pronouns (bolded in \ref{ex:8:9}) occur first or last in the clause (see \sectref{sec:10.3.5}).
+A: word: ŋgɪndijɛ	 gloss: DEM
+B: word: apazaŋ	 gloss: yesterday
+C: word: ka-ndaj	 gloss: twoS-PRG
+D: word: ɛgɪnɛ	 gloss: today
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 7:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [n\'ɔ-lɔ a kɔsɔkʷɔ ava ___
+Gloss (with missing item): oneS+IFV-go at market in ___
+The English translation of this sentence is:‘I will go to the market today.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Some temporal adverbs (bolded in \ref{ex:8:7}--\ref{ex:8:8}) can occur first in the clause or last in the verb phrase , but not in the interior of the verb phrase. Likewise, emphatic interrogative pronouns (bolded in \ref{ex:8:9}) occur first or last in the clause (see \sectref{sec:10.3.5}).
+A: word: apazaŋ	 gloss: yesterday
+B: word: ɛgɪnɛ	 gloss: today
+C: word: ŋgɪndijɛ	 gloss: DEM
+D: word: mɪ-bɛh-ɛ	 gloss: NOM-pour-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 8:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mala ___ \'{ɛ}-g-ɛ ɬɪrɛlɛ]
+Gloss (with missing item): Mala ___ 3S+IFV-do-CL work
+The English translation of this sentence is:‘Mala is working (in the process of doing work).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \citet{FriesenMamalis2008} found that the progressive\is{Tense, mood, and aspect!Progressive|(} expresses the idea of an action in progress, an event that doesn’t take place all at once.\footnote{Note that the verb nday can occur alone as the main verb of a clause \sectref{sec:9.2.1}. When it does, the complement expresses the location of the subject. For example, Hawa anday a mogom ‘Hawa is at home’.} It is formed with nday ‘to be’ (see \sectref{sec:9.2.1}) plus the main verb (\ref{ex:8:23}--\ref{ex:8:25}). The auxiliary nday occurs as the first of two verbs in a verb phrase. The main verb takes all subject affixes and also any inflections or obliques. In the examples, the progressive is bolded and the verb phrase is delimited by square brackets.
+A: word: ta-ndaj	 gloss: 3P-PROG
+B: word: a-ndaj	 gloss: 3S-PRG
+C: word: ɛlɛ=ahaŋ	 gloss: thing=3S.POSS
+D: word: a-s=ɔkʷ	 gloss: 3S-please=twoS.IO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 9:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): apazaŋ nà-nzak-aj nɔkʷ ___ k\`{ə}-h=aja haj]
+Gloss (with missing item): yesterday oneS+PFV-find-CL twoS ___ twoS+PFV-grind=PLU millet
+The English translation of this sentence is:‘Yesterday when I found you, you were grinding millet.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \citet{FriesenMamalis2008} found that the progressive\is{Tense, mood, and aspect!Progressive|(} expresses the idea of an action in progress, an event that doesn’t take place all at once.\footnote{Note that the verb nday can occur alone as the main verb of a clause \sectref{sec:9.2.1}. When it does, the complement expresses the location of the subject. For example, Hawa anday a mogom ‘Hawa is at home’.} It is formed with nday ‘to be’ (see \sectref{sec:9.2.1}) plus the main verb (\ref{ex:8:23}--\ref{ex:8:25}). The auxiliary nday occurs as the first of two verbs in a verb phrase. The main verb takes all subject affixes and also any inflections or obliques. In the examples, the progressive is bolded and the verb phrase is delimited by square brackets.
+A: word: lɔh-ɔm	 gloss: go[IMP]-twoP
+B: word: a-ndaj	 gloss: 3S-be
+C: word: nɔ-ndɔj	 gloss: oneS-PRG
+D: word: ka-ndaj	 gloss: twoS-PRG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 10:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nɔ-mbɔs-ɔm va]
+Gloss (with missing item): ___ \oneP-rest-1PEX body
+The English translation of this sentence is:‘We are resting.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Both of the verbs are marked for subject. In plural forms that take subject prefix and suffix ({\oneP} and {\twoP}, \ref{ex:8:26} and \ref{ex:8:27}), nday takes subject prefixes only.\footnote{Some Moloko say that the plural form is nondomoy, but most use the reduced form. }
+A: word: ka-ndaj	 gloss: twoS-PRG
+B: word: nɔ-ndɔj	 gloss: oneS-PRG
+C: word: ŋgax	 gloss: hide
+D: word: kɔ-ndɔɗ-ɔm	 gloss: twoP-need-twoP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 11:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ kɔ-mʊnzɔr-ɔm na=ala gəvax na]
+Gloss (with missing item): ___ twoP-see-twoP 3S.DO=to field PSP
+The English translation of this sentence is:‘Go [and] you will see that field.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The verb lo ‘go’ is often found together with a second verb within the same verb phrase to express the idea of movement from one place to another, in order to accomplish the event expressed by the main verb \citep{FriesenMamalis2008}. In (\ref{ex:8:31}--\ref{ex:8:34}), both verbs are conjugated, but only the second takes extensions or other verb phrase elements. In the examples, the verb lo is bolded and the verb phrase is delimited by square brackets.
+A: word: nɔ-mbɔs-ɔm	 gloss: \oneP-rest-1PEX
+B: word: lɔhʷ-ɔm	 gloss: go-twoP
+C: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+D: word: lɔh-ɔm	 gloss: go[IMP]-twoP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 12:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ mɪ-bɛh-ɛ kə vɛr aka aɮa]
+Gloss (with missing item): ___ NOM-pour-CL on stone on now
+The English translation of this sentence is:‘[She] poured [the grains of millet] on the grinding stone.’ (lit. pour, pouring on the grinding stone now)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \largerpage \citet{FriesenMamalis2008} discovered that pivotal events at the high points in a narrative\is{Focus and prominence!Discourse peak} may be coded with a particular verb phrase construction in which an ideophone or the uninflected stem form of a verb is followed by the main verb in its nominalised form (\ref{ex:8:35}--\ref{ex:8:37}, see \sectref{sec:7.6.2}). In the stem plus verb construction, the stem and main verb are normally formed from the same verb root. Note that it is the stem that is used in the construction (not the root) since the /-j/ suffix is present \REF{ex:8:37}. Neither the main verb nor the auxiliary is inflected for subject, and the clause often has no noun phrase to indicate subject (\ref{ex:8:35}, \ref{ex:8:38}--\ref{ex:8:40}, \ref{ex:8:44}). When a subject noun phrase is present, it can only be a full free pronoun (\ref{ex:8:36}--\ref{ex:8:37}, \ref{ex:8:41}-- \ref{ex:8:43}, \ref{ex:8:45}). The main verb can have direct and indirect object pronominals and other extensions (\ref{ex:8:36} and \ref{ex:8:37}). In the following examples, the verb phrase is delimited by square brackets and the verb stem plus ideophone are bolded.
+A: word: à-bax	 gloss: 3S+PFV-pour
+B: word: bax	 gloss: pour
+C: word: mɪ-bɛh-ɛ	 gloss: NOM-pour-CL
+D: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 13:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [bax ___ kə vɛr aka aɮa]
+Gloss (with missing item): pour ___ on stone on now
+The English translation of this sentence is:‘[She] poured [the grains of millet] on the grinding stone.’ (lit. pour, pouring on the grinding stone now)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \largerpage \citet{FriesenMamalis2008} discovered that pivotal events at the high points in a narrative\is{Focus and prominence!Discourse peak} may be coded with a particular verb phrase construction in which an ideophone or the uninflected stem form of a verb is followed by the main verb in its nominalised form (\ref{ex:8:35}--\ref{ex:8:37}, see \sectref{sec:7.6.2}). In the stem plus verb construction, the stem and main verb are normally formed from the same verb root. Note that it is the stem that is used in the construction (not the root) since the /-j/ suffix is present \REF{ex:8:37}. Neither the main verb nor the auxiliary is inflected for subject, and the clause often has no noun phrase to indicate subject (\ref{ex:8:35}, \ref{ex:8:38}--\ref{ex:8:40}, \ref{ex:8:44}). When a subject noun phrase is present, it can only be a full free pronoun (\ref{ex:8:36}--\ref{ex:8:37}, \ref{ex:8:41}-- \ref{ex:8:43}, \ref{ex:8:45}). The main verb can have direct and indirect object pronominals and other extensions (\ref{ex:8:36} and \ref{ex:8:37}). In the following examples, the verb phrase is delimited by square brackets and the verb stem plus ideophone are bolded.
+A: word: ɛgɪnɛ	 gloss: today
+B: word: mɪ-bɛh-ɛ	 gloss: NOM-pour-CL
+C: word: mɪ-bɛl-ɛ	 gloss: NOM-move-CL
+D: word: mɛ-hɛr-ɛ	 gloss: NOM-build-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 14:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ mɪ-bɛh-ɛ kə vɛr aka aɮa]
+Gloss (with missing item): ___ NOM-pour-CL on stone on now
+The English translation of this sentence is:‘[She] poured [the grains of millet] on the grinding stone.’ (lit. pour, pouring on the grinding stone now)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \largerpage \citet{FriesenMamalis2008} discovered that pivotal events at the high points in a narrative\is{Focus and prominence!Discourse peak} may be coded with a particular verb phrase construction in which an ideophone or the uninflected stem form of a verb is followed by the main verb in its nominalised form (\ref{ex:8:35}--\ref{ex:8:37}, see \sectref{sec:7.6.2}). In the stem plus verb construction, the stem and main verb are normally formed from the same verb root. Note that it is the stem that is used in the construction (not the root) since the /-j/ suffix is present \REF{ex:8:37}. Neither the main verb nor the auxiliary is inflected for subject, and the clause often has no noun phrase to indicate subject (\ref{ex:8:35}, \ref{ex:8:38}--\ref{ex:8:40}, \ref{ex:8:44}). When a subject noun phrase is present, it can only be a full free pronoun (\ref{ex:8:36}--\ref{ex:8:37}, \ref{ex:8:41}-- \ref{ex:8:43}, \ref{ex:8:45}). The main verb can have direct and indirect object pronominals and other extensions (\ref{ex:8:36} and \ref{ex:8:37}). In the following examples, the verb phrase is delimited by square brackets and the verb stem plus ideophone are bolded.
+A: word: ŋgax	 gloss: hide
+B: word: à-bax	 gloss: 3S+PFV-pour
+C: word: bax	 gloss: pour
+D: word: mɪ-bɛh-ɛ	 gloss: NOM-pour-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 15:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [bax ___ kə vɛr aka aɮa]
+Gloss (with missing item): pour ___ on stone on now
+The English translation of this sentence is:‘[She] poured [the grains of millet] on the grinding stone.’ (lit. pour, pouring on the grinding stone now)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \largerpage \citet{FriesenMamalis2008} discovered that pivotal events at the high points in a narrative\is{Focus and prominence!Discourse peak} may be coded with a particular verb phrase construction in which an ideophone or the uninflected stem form of a verb is followed by the main verb in its nominalised form (\ref{ex:8:35}--\ref{ex:8:37}, see \sectref{sec:7.6.2}). In the stem plus verb construction, the stem and main verb are normally formed from the same verb root. Note that it is the stem that is used in the construction (not the root) since the /-j/ suffix is present \REF{ex:8:37}. Neither the main verb nor the auxiliary is inflected for subject, and the clause often has no noun phrase to indicate subject (\ref{ex:8:35}, \ref{ex:8:38}--\ref{ex:8:40}, \ref{ex:8:44}). When a subject noun phrase is present, it can only be a full free pronoun (\ref{ex:8:36}--\ref{ex:8:37}, \ref{ex:8:41}-- \ref{ex:8:43}, \ref{ex:8:45}). The main verb can have direct and indirect object pronominals and other extensions (\ref{ex:8:36} and \ref{ex:8:37}). In the following examples, the verb phrase is delimited by square brackets and the verb stem plus ideophone are bolded.
+A: word: mɪ-bɛh-ɛ	 gloss: NOM-pour-CL
+B: word: mɪ-bɛl-ɛ	 gloss: NOM-move-CL
+C: word: mɛ-hɛr-ɛ	 gloss: NOM-build-CL
+D: word: ɛlɛ=ahaŋ	 gloss: thing=3S.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 16:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndahaŋ ___ ma-ŋgəh=ata=aka=va jam a vɛr=ahaŋ ava]
+Gloss (with missing item): 3S ___ NOM-hide=3P.IO=on=PRF water at room=3S.POSS in
+The English translation of this sentence is:‘He had hidden the water in his room.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \largerpage \citet{FriesenMamalis2008} discovered that pivotal events at the high points in a narrative\is{Focus and prominence!Discourse peak} may be coded with a particular verb phrase construction in which an ideophone or the uninflected stem form of a verb is followed by the main verb in its nominalised form (\ref{ex:8:35}--\ref{ex:8:37}, see \sectref{sec:7.6.2}). In the stem plus verb construction, the stem and main verb are normally formed from the same verb root. Note that it is the stem that is used in the construction (not the root) since the /-j/ suffix is present \REF{ex:8:37}. Neither the main verb nor the auxiliary is inflected for subject, and the clause often has no noun phrase to indicate subject (\ref{ex:8:35}, \ref{ex:8:38}--\ref{ex:8:40}, \ref{ex:8:44}). When a subject noun phrase is present, it can only be a full free pronoun (\ref{ex:8:36}--\ref{ex:8:37}, \ref{ex:8:41}-- \ref{ex:8:43}, \ref{ex:8:45}). The main verb can have direct and indirect object pronominals and other extensions (\ref{ex:8:36} and \ref{ex:8:37}). In the following examples, the verb phrase is delimited by square brackets and the verb stem plus ideophone are bolded.
+A: word: mɪ-bɛh-ɛ	 gloss: NOM-pour-CL
+B: word: ŋgax	 gloss: hide
+C: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+D: word: aŋga	 gloss: POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 17:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndahaŋ [ŋgax ___ jam a vɛr=ahaŋ ava]
+Gloss (with missing item): 3S hide ___ water at room=3S.POSS in
+The English translation of this sentence is:‘He had hidden the water in his room.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \largerpage \citet{FriesenMamalis2008} discovered that pivotal events at the high points in a narrative\is{Focus and prominence!Discourse peak} may be coded with a particular verb phrase construction in which an ideophone or the uninflected stem form of a verb is followed by the main verb in its nominalised form (\ref{ex:8:35}--\ref{ex:8:37}, see \sectref{sec:7.6.2}). In the stem plus verb construction, the stem and main verb are normally formed from the same verb root. Note that it is the stem that is used in the construction (not the root) since the /-j/ suffix is present \REF{ex:8:37}. Neither the main verb nor the auxiliary is inflected for subject, and the clause often has no noun phrase to indicate subject (\ref{ex:8:35}, \ref{ex:8:38}--\ref{ex:8:40}, \ref{ex:8:44}). When a subject noun phrase is present, it can only be a full free pronoun (\ref{ex:8:36}--\ref{ex:8:37}, \ref{ex:8:41}-- \ref{ex:8:43}, \ref{ex:8:45}). The main verb can have direct and indirect object pronominals and other extensions (\ref{ex:8:36} and \ref{ex:8:37}). In the following examples, the verb phrase is delimited by square brackets and the verb stem plus ideophone are bolded.
+A: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+B: word: ma-p=ata=aka=va	 gloss: NOM-open=3P.IO=on=PRF
+C: word: bax	 gloss: pour
+D: word: mɛj	 gloss: how?
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 18:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndahaŋ ___ mə-ŋgʷul=va a ɗuwɛr=ahaŋ ava]
+Gloss (with missing item): 3S ___ NOM-return=PRF at sleep=3S.POSS in
+The English translation of this sentence is:‘He had already gone back to sleep.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \largerpage \citet{FriesenMamalis2008} discovered that pivotal events at the high points in a narrative\is{Focus and prominence!Discourse peak} may be coded with a particular verb phrase construction in which an ideophone or the uninflected stem form of a verb is followed by the main verb in its nominalised form (\ref{ex:8:35}--\ref{ex:8:37}, see \sectref{sec:7.6.2}). In the stem plus verb construction, the stem and main verb are normally formed from the same verb root. Note that it is the stem that is used in the construction (not the root) since the /-j/ suffix is present \REF{ex:8:37}. Neither the main verb nor the auxiliary is inflected for subject, and the clause often has no noun phrase to indicate subject (\ref{ex:8:35}, \ref{ex:8:38}--\ref{ex:8:40}, \ref{ex:8:44}). When a subject noun phrase is present, it can only be a full free pronoun (\ref{ex:8:36}--\ref{ex:8:37}, \ref{ex:8:41}-- \ref{ex:8:43}, \ref{ex:8:45}). The main verb can have direct and indirect object pronominals and other extensions (\ref{ex:8:36} and \ref{ex:8:37}). In the following examples, the verb phrase is delimited by square brackets and the verb stem plus ideophone are bolded.
+A: word: pək	 gloss: ID:open
+B: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+C: word: vəh	 gloss: ID:return
+D: word: ka-ndaj	 gloss: twoS-PRG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 19:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndahaŋ [vəh ___ a ɗuwɛr=ahaŋ ava]
+Gloss (with missing item): 3S ID:return ___ at sleep=3S.POSS in
+The English translation of this sentence is:‘He had already gone back to sleep.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \largerpage \citet{FriesenMamalis2008} discovered that pivotal events at the high points in a narrative\is{Focus and prominence!Discourse peak} may be coded with a particular verb phrase construction in which an ideophone or the uninflected stem form of a verb is followed by the main verb in its nominalised form (\ref{ex:8:35}--\ref{ex:8:37}, see \sectref{sec:7.6.2}). In the stem plus verb construction, the stem and main verb are normally formed from the same verb root. Note that it is the stem that is used in the construction (not the root) since the /-j/ suffix is present \REF{ex:8:37}. Neither the main verb nor the auxiliary is inflected for subject, and the clause often has no noun phrase to indicate subject (\ref{ex:8:35}, \ref{ex:8:38}--\ref{ex:8:40}, \ref{ex:8:44}). When a subject noun phrase is present, it can only be a full free pronoun (\ref{ex:8:36}--\ref{ex:8:37}, \ref{ex:8:41}-- \ref{ex:8:43}, \ref{ex:8:45}). The main verb can have direct and indirect object pronominals and other extensions (\ref{ex:8:36} and \ref{ex:8:37}). In the following examples, the verb phrase is delimited by square brackets and the verb stem plus ideophone are bolded.
+A: word: mɪ-bɛh-ɛ	 gloss: NOM-pour-CL
+B: word: à-paɗə=va	 gloss: 3S+PFV-crunch=PRF
+C: word: ma-p=ata=aka=va	 gloss: NOM-open=3P.IO=on=PRF
+D: word: mə-ŋgʷul=va	 gloss: NOM-return=PRF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 20:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nata ndahaŋ ___ ma-p=ata=aka=va pʊrgʷɔm=ahaj na]
+Gloss (with missing item): also 3S ___ NOM-open=3P.IO=on=PRF trap=Pl PSP
+The English translation of this sentence is:‘He opened the traps.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In the case that there is an ideophone auxiliary (\ref{ex:8:39}--\ref{ex:8:42}), the ideophone occurs in the same slot as the verb stem auxiliary. Note that these ideophones are from entirely different roots than the verb stems.
+A: word: a-tʃəkəɮ=aw	 gloss: 3S-forget=oneS.IO
+B: word: lɔh-ɔm	 gloss: go[IMP]-twoP
+C: word: pək	 gloss: ID:open
+D: word: pɛɗɛɗɛ	 gloss: ID:full
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 21:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nata ndahaŋ [pək ___ pʊrgʷɔm=ahaj na]
+Gloss (with missing item): also 3S ID:open ___ trap=Pl PSP
+The English translation of this sentence is:‘He opened the traps.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In the case that there is an ideophone auxiliary (\ref{ex:8:39}--\ref{ex:8:42}), the ideophone occurs in the same slot as the verb stem auxiliary. Note that these ideophones are from entirely different roots than the verb stems.
+A: word: wɛlɛj	 gloss: which
+B: word: ka-ndaj	 gloss: twoS-PRG
+C: word: ma-p=ata=aka=va	 gloss: NOM-open=3P.IO=on=PRF
+D: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 22:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ mɪ-bɛh-ɛ kə vɛr aka aɮa]
+Gloss (with missing item): ___ NOM-pour-CL on stone on now
+The English translation of this sentence is:‘[She] poured [the grains of millet] on the grinding stone.’ (lit. pour, pouring on the grinding stone now)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Because the subject, direct object, and indirect object are optional for this construction, the construction can be used in Moloko discourse as a narrative device to reduce the number of explicit grammatical relations in a clause (cf. Sections~\ref{sec:3.6.3} and \ref{sec:9.4}). The participants become indefinite in the construction and must be inferred from the context. The effect is to draw the hearer into the action of the moment. In \REF{ex:8:35}, \REF{ex:8:39}, and \REF{ex:8:40}, \is{Transitivity!Clauses with zero transitivity|(}the construction is completely non-inflected for subject and has zero grammatical relations\is{Transitivity!Clauses with zero transitivity}. The narrative effect is that in \REF{ex:8:35} and \REF{ex:8:39}, the hearer only knows that someone is its gloss ___ing something onto the grinding stone. In \REF{ex:8:40}, it is as if the hearer is with the husband, looking into the house to find the woman. Likewise, in \REF{ex:8:44}, the verb mələye ‘bury’ is non-conjugated for subject, making those who buried the dead woman ‘out of sight’ in the narrative.
+A: word: mɪ-bɛh-ɛ	 gloss: NOM-pour-CL
+B: word: à-bax	 gloss: 3S+PFV-pour
+C: word: bax	 gloss: pour
+D: word: ɛgɪnɛ	 gloss: today
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 23:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [bax ___ kə vɛr aka aɮa]
+Gloss (with missing item): pour ___ on stone on now
+The English translation of this sentence is:‘[She] poured [the grains of millet] on the grinding stone.’ (lit. pour, pouring on the grinding stone now)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Because the subject, direct object, and indirect object are optional for this construction, the construction can be used in Moloko discourse as a narrative device to reduce the number of explicit grammatical relations in a clause (cf. Sections~\ref{sec:3.6.3} and \ref{sec:9.4}). The participants become indefinite in the construction and must be inferred from the context. The effect is to draw the hearer into the action of the moment. In \REF{ex:8:35}, \REF{ex:8:39}, and \REF{ex:8:40}, \is{Transitivity!Clauses with zero transitivity|(}the construction is completely non-inflected for subject and has zero grammatical relations\is{Transitivity!Clauses with zero transitivity}. The narrative effect is that in \REF{ex:8:35} and \REF{ex:8:39}, the hearer only knows that someone is pouring something onto the grinding stone. In \REF{ex:8:40}, it is as if the hearer is with the husband, looking into the house to find the woman. Likewise, in \REF{ex:8:44}, the verb mələye ‘bury’ is non-conjugated for subject, making those who buried the dead woman ‘out of sight’ in the narrative.
+A: word: mɪ-bɛh-ɛ	 gloss: NOM-pour-CL
+B: word: mɛ-hɛr-ɛ	 gloss: NOM-build-CL
+C: word: mɪ-bɛl-ɛ	 gloss: NOM-move-CL
+D: word: pək	 gloss: ID:open
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 24:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ mɪ-bɛh-ɛ kə vɛr aka aɮa]
+Gloss (with missing item): ___ NOM-pour-CL on stone on now
+The English translation of this sentence is:‘[She] poured [the grains of millet] on the grinding stone.’ (lit. pour, pouring on the grinding stone now)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Because the subject, direct object, and indirect object are optional for this construction, the construction can be used in Moloko discourse as a narrative device to reduce the number of explicit grammatical relations in a clause (cf. Sections~\ref{sec:3.6.3} and \ref{sec:9.4}). The participants become indefinite in the construction and must be inferred from the context. The effect is to draw the hearer into the action of the moment. In \REF{ex:8:35}, \REF{ex:8:39}, and \REF{ex:8:40}, \is{Transitivity!Clauses with zero transitivity|(}the construction is completely non-inflected for subject and has zero grammatical relations\is{Transitivity!Clauses with zero transitivity}. The narrative effect is that in \REF{ex:8:35} and \REF{ex:8:39}, the hearer only knows that someone is its gloss ___ing something onto the grinding stone. In \REF{ex:8:40}, it is as if the hearer is with the husband, looking into the house to find the woman. Likewise, in \REF{ex:8:44}, the verb mələye ‘bury’ is non-conjugated for subject, making those who buried the dead woman ‘out of sight’ in the narrative.
+A: word: à-bax	 gloss: 3S+PFV-pour
+B: word: bax	 gloss: pour
+C: word: mɪ-bɛh-ɛ	 gloss: NOM-pour-CL
+D: word: ma-p=ata=aka=va	 gloss: NOM-open=3P.IO=on=PRF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 25:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [bax ___ kə vɛr aka aɮa]
+Gloss (with missing item): pour ___ on stone on now
+The English translation of this sentence is:‘[She] poured [the grains of millet] on the grinding stone.’ (lit. pour, pouring on the grinding stone now)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Because the subject, direct object, and indirect object are optional for this construction, the construction can be used in Moloko discourse as a narrative device to reduce the number of explicit grammatical relations in a clause (cf. Sections~\ref{sec:3.6.3} and \ref{sec:9.4}). The participants become indefinite in the construction and must be inferred from the context. The effect is to draw the hearer into the action of the moment. In \REF{ex:8:35}, \REF{ex:8:39}, and \REF{ex:8:40}, \is{Transitivity!Clauses with zero transitivity|(}the construction is completely non-inflected for subject and has zero grammatical relations\is{Transitivity!Clauses with zero transitivity}. The narrative effect is that in \REF{ex:8:35} and \REF{ex:8:39}, the hearer only knows that someone is pouring something onto the grinding stone. In \REF{ex:8:40}, it is as if the hearer is with the husband, looking into the house to find the woman. Likewise, in \REF{ex:8:44}, the verb mələye ‘bury’ is non-conjugated for subject, making those who buried the dead woman ‘out of sight’ in the narrative.
+A: word: mɪ-bɛh-ɛ	 gloss: NOM-pour-CL
+B: word: vəh	 gloss: ID:return
+C: word: mɛ-hɛr-ɛ	 gloss: NOM-build-CL
+D: word: mɪ-bɛl-ɛ	 gloss: NOM-move-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+

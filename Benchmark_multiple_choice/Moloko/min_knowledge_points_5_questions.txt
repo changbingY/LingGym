@@ -1,0 +1,1417 @@
+Question 0:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n\'{ə}-mənzar ___
+Gloss (with missing item): oneS+IFV-see ___
+The English translation of this sentence is:‘I see goats.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modified by the plural marker (\ref{ex:5:5}--\ref{ex:5:6}) (see \sectref{sec:4.2.2}).
+A: word: mə-mət=ava=alaj	 gloss: NOM-die=in=away
+B: word: awak=ahaj	 gloss: goat=Pl
+C: word: awak	 gloss: goat
+D: word: awak=aŋgʷɔ	 gloss: goat=twoS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 1:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ na] [sʊlɔm=ahaj ga]
+Gloss (with missing item): ___ PSP good=Pl ADJ
+The English translation of this sentence is:‘The goats [are] good.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modified by the plural marker (\ref{ex:5:5}--\ref{ex:5:6}) (see \sectref{sec:4.2.2}).
+A: word: awak=aŋgʷɔ	 gloss: goat=twoS.POSS
+B: word: awak	 gloss: goat
+C: word: awak=ahaj	 gloss: goat=Pl
+D: word: makar	 gloss: three
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 2:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [awak=ahaj na] ___ ga]
+Gloss (with missing item): goat=Pl PSP ___ ADJ
+The English translation of this sentence is:‘The goats [are] good.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modified by the plural marker (\ref{ex:5:5}--\ref{ex:5:6}) (see \sectref{sec:4.2.2}).
+A: word: malaŋ=ahaj	 gloss: great=Pl
+B: word: pʊrgʷɔm=ahaj	 gloss: trap=Pl
+C: word: sʊlɔm=ahaj	 gloss: good=Pl
+D: word: dəraj	 gloss: head
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 3:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ na] [sʊlɔm ga]
+Gloss (with missing item): ___ PSP good ADJ
+The English translation of this sentence is:‘My goat [is] good.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modified by a possessive pronoun (\ref{ex:5:7}--\ref{ex:5:8}) (see \sectref{sec:3.1.2}).
+A: word: gʷɔlɔ	 gloss: HON
+B: word: makar	 gloss: three
+C: word: awak=uwla=ahaj	 gloss: goat=oneS.POSS=Pl
+D: word: awak=uwla	 gloss: goat=oneS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 4:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n\'{ə}-mənzar [awak ___
+Gloss (with missing item): oneS+IFV-see goat ___
+The English translation of this sentence is:‘I see another goat.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modified by an unspecified pronoun (\ref{ex:5:9}--\ref{ex:5:10}) (see \sectref{sec:3.1.5}).
+A: word: ɛnɛŋ	 gloss: another
+B: word: ɛnɛŋ=ahaj	 gloss: another=Pl
+C: word: tʃɛw	 gloss: two
+D: word: amə-vəl=aw	 gloss: DEP-give=oneS.IO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 5:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [awak ___ na] [sʊlɔm=ahaj ga]
+Gloss (with missing item): goat ___ PSP good=Pl ADJ
+The English translation of this sentence is:‘Other goats [are] good.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modified by an unspecified pronoun (\ref{ex:5:9}--\ref{ex:5:10}) (see \sectref{sec:3.1.5}).
+A: word: malaŋ=ahaj	 gloss: great=Pl
+B: word: ɛnɛŋ=ahaj	 gloss: other=Pl
+C: word: à-h=aŋ	 gloss: 3S+PFV-say=3S.IO
+D: word: makar	 gloss: three
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 6:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n\'{ə}-mənzar [awak=uwla=ahaj ___
+Gloss (with missing item): oneS+IFV-see goat=oneS.POSS=Pl ___
+The English translation of this sentence is:‘I see my three goats.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modified by a numeral (\ref{ex:5:11}--\ref{ex:5:12}) (see \sectref{sec:3.3}).
+A: word: ndahaŋ	 gloss: 3S
+B: word: gam	 gloss: much
+C: word: makar=ahaj	 gloss: three=Pl
+D: word: makar	 gloss: three
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 7:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [awak=uwla=ahaj ___ na] [sʊlɔm=ahaj ga]
+Gloss (with missing item): goat=oneS.POSS=Pl ___ PSP good=Pl ADJ
+The English translation of this sentence is:‘My three goats [are] good.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modified by a numeral (\ref{ex:5:11}--\ref{ex:5:12}) (see \sectref{sec:3.3}).
+A: word: akar=ahaj	 gloss: theft=Pl
+B: word: awak=ahaj	 gloss: goat=Pl
+C: word: makar=ahaj	 gloss: three=Pl
+D: word: ɛnɛŋ=ahaj	 gloss: another=Pl
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 8:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n\'{ə}-mənzar [awak=ahaj ___ ga]
+Gloss (with missing item): oneS+IFV-see goat=Pl ___ ADJ
+The English translation of this sentence is:‘I see the big goats.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modified by a derived adjective (\ref{ex:5:13}--\ref{ex:5:14}) (see \sectref{sec:5.3}).
+A: word: malaŋ=ahaj	 gloss: great=Pl
+B: word: sʊlɔm=ahaj	 gloss: good=Pl
+C: word: ɬɪrɛlɛ=ahaŋ=ahaj	 gloss: work=3S.POSS=Pl
+D: word: ndam	 gloss: people
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 9:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n\'{ə}-mənzar [awak=ahaj malaŋ=ahaj ___
+Gloss (with missing item): oneS+IFV-see goat=Pl great=Pl ___
+The English translation of this sentence is:‘I see the big goats.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modified by a derived adjective (\ref{ex:5:13}--\ref{ex:5:14}) (see \sectref{sec:5.3}).
+A: word: ga	 gloss: ADJ
+B: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+C: word: amɪ-g-ijɛ	 gloss: DEP-do-CL
+D: word: lɪmɛ	 gloss: 1PEX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 10:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [awak=ahaj ___ ga na] [sʊlɔm=ahaj ga]
+Gloss (with missing item): goat=Pl ___ ADJ PSP good=Pl ADJ
+The English translation of this sentence is:‘The big goats [are] good.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modified by a derived adjective (\ref{ex:5:13}--\ref{ex:5:14}) (see \sectref{sec:5.3}).
+A: word: mɪ-ʒum-ɛ=uwla	 gloss: NOM-eat-CL=oneS.POSS
+B: word: malaŋ=ahaj	 gloss: great=Pl
+C: word: sʊlɔm=ahaj	 gloss: good=Pl
+D: word: ɬɪrɛlɛ=ahaŋ=ahaj	 gloss: work=3S.POSS=Pl
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 11:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [awak=ahaj malaŋ=ahaj ___ na] [sʊlɔm=ahaj ga]
+Gloss (with missing item): goat=Pl great=Pl ___ PSP good=Pl ADJ
+The English translation of this sentence is:‘The big goats [are] good.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modified by a derived adjective (\ref{ex:5:13}--\ref{ex:5:14}) (see \sectref{sec:5.3}).
+A: word: nɔkʷ=va	 gloss: twoS=PRF
+B: word: ga	 gloss: ADJ
+C: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+D: word: ɛnɛŋ=ahaj	 gloss: another=Pl
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 12:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n\'{ə}-mənzar [awak=ahaj makar ___
+Gloss (with missing item): oneS+IFV-see goat=Pl three ___
+The English translation of this sentence is:‘I see those three goats.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modified by a demonstrative (\ref{ex:5:15}--\ref{ex:5:16}) (see \sectref{sec:3.2}).
+A: word: ŋgɪndijɛ	 gloss: DEM
+B: word: awak=uwla	 gloss: goat=oneS.POSS
+C: word: nɪndijɛ	 gloss: DEM
+D: word: nɛhɛ=ahaj	 gloss: DEM=Pl
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 13:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [awak=ahaj makar ___ na] [sʊlɔm=ahaj ga]
+Gloss (with missing item): goat=Pl three ___ PSP good=Pl ADJ
+The English translation of this sentence is:‘Those three goats [are] good.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modified by a demonstrative (\ref{ex:5:15}--\ref{ex:5:16}) (see \sectref{sec:3.2}).
+A: word: nɪndijɛ	 gloss: DEM
+B: word: ŋgɪndijɛ	 gloss: DEM
+C: word: mɪ-ʒum-ɛ=uwla	 gloss: NOM-eat-CL=oneS.POSS
+D: word: nɛhɛ=ahaj	 gloss: DEM=Pl
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 14:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n\'{ə}-mənzar [awak=uwla=ahaj makar ___ amə-vəl=aw]]
+Gloss (with missing item): oneS+IFV-see goat=oneS.POSS=Pl three ___ DEP-give=oneS.IO
+The English translation of this sentence is:‘I see my three goats that you gave to me.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modified by a relative clause (\ref{ex:5:17}--\ref{ex:5:18}) (see \sectref{sec:5.4.3}).
+A: word: nɔkʷ=va	 gloss: twoS=PRF
+B: word: nɔkʷ	 gloss: twoS
+C: word: ndahaŋ	 gloss: 3S
+D: word: tʃɛw	 gloss: two
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 15:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n\'{ə}-mənzar [awak=uwla=ahaj makar [nɔkʷ ___
+Gloss (with missing item): oneS+IFV-see goat=oneS.POSS=Pl three twoS ___
+The English translation of this sentence is:‘I see my three goats that you gave to me.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modified by a relative clause (\ref{ex:5:17}--\ref{ex:5:18}) (see \sectref{sec:5.4.3}).
+A: word: dəraj	 gloss: head
+B: word: amə-vəl=ɔkʷ	 gloss: DEP-give=twoS.IO
+C: word: amə-vəl=aw	 gloss: DEP-give=oneS.IO
+D: word: amə-vəl=aŋ	 gloss: DEP-give=3S.IO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 16:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [awak=uwla=ahaj makar ___ amə-vəl=aw] na] [sʊlɔm=ahaj ga]
+Gloss (with missing item): goat=oneS.POSS=Pl three ___ DEP-give=oneS.IO PSP good=Pl ADJ
+The English translation of this sentence is:‘My three goats that you gave me [are] good.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modified by a relative clause (\ref{ex:5:17}--\ref{ex:5:18}) (see \sectref{sec:5.4.3}).
+A: word: nɔkʷ=va	 gloss: twoS=PRF
+B: word: nɔkʷ	 gloss: twoS
+C: word: haj=atəta	 gloss: house\hspaceThis{[=3P.POSS
+D: word: tʃɛw	 gloss: two
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 17:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [awak=uwla=ahaj makar [nɔkʷ ___ na] [sʊlɔm=ahaj ga]
+Gloss (with missing item): goat=oneS.POSS=Pl three twoS ___ PSP good=Pl ADJ
+The English translation of this sentence is:‘My three goats that you gave me [are] good.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modified by a relative clause (\ref{ex:5:17}--\ref{ex:5:18}) (see \sectref{sec:5.4.3}).
+A: word: aka	 gloss: on
+B: word: amə-vəl=aw	 gloss: DEP-give=oneS.IO
+C: word: amə-vəl=ɔkʷ	 gloss: DEP-give=twoS.IO
+D: word: amə-vəl=aŋ	 gloss: DEP-give=3S.IO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 18:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n\'{ə}-mənzar [awak=ahaj ___
+Gloss (with missing item): oneS+IFV-see goat=Pl ___
+The English translation of this sentence is:‘I see many goats.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modified by a non-numeral quantifier (\ref{ex:5:19}--\ref{ex:5:20}) (see \sectref{sec:3.3.4}).
+A: word: ava	 gloss: in
+B: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+C: word: gam	 gloss: many
+D: word: ma-p=ata=aka=va	 gloss: NOM-open=3P.IO=on=PRF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 19:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [awak=ahaj ___ na] [sʊlɔm=ahaj ga]
+Gloss (with missing item): goat=Pl ___ PSP good=Pl ADJ
+The English translation of this sentence is:‘Many goats [are] good.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modified by a non-numeral quantifier (\ref{ex:5:19}--\ref{ex:5:20}) (see \sectref{sec:3.3.4}).
+A: word: tʃɛw	 gloss: two
+B: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+C: word: amə-vəl=aw	 gloss: DEP-give=oneS.IO
+D: word: gam	 gloss: many
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 20:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n\'{ə}-mənzar [awak=ahaj mʊfaɗ ___
+Gloss (with missing item): oneS+IFV-see goat=Pl four ___
+The English translation of this sentence is:‘I see the four goats.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modified by a numeral and the adjectiviser the morpheme ___ (\ref{ex:5:21}--\ref{ex:5:22}).
+A: word: dəraj	 gloss: head
+B: word: jam	 gloss: water
+C: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+D: word: ga	 gloss: ADJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 21:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [awak=ahaj mʊfaɗ ___ [sʊlɔm=ahaj ga]
+Gloss (with missing item): goat=Pl four ___ good=Pl ADJ
+The English translation of this sentence is:‘The four goats [are] good.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modified by a numeral and the adjectiviser the morpheme ___ (\ref{ex:5:21}--\ref{ex:5:22}).
+A: word: ɓərav	 gloss: heart
+B: word: ga	 gloss: ADJ
+C: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+D: word: nɔkʷ	 gloss: twoS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 22:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ama-ndaj a-tsəɓ=aŋ ana Mana
+Gloss (with missing item): ___ DEP-PROG 3S-overwhelm=3S.IO DAT Mana
+The English translation of this sentence is:‘[The act of] my eating is irritating Mana.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Noun phrases can have a head that is either a simple noun \REF{ex:5:31}, nominalised verb (\ref{ex:5:32}, \sectref{sec:5.2.1}), or a pronoun (\ref{ex:5:33}, \sectref{sec:5.2.2}). In the examples, the noun phrases are delimited by square brackets and the head is bolded.
+A: word: mɪ-ʒum-ɛ=uwla	 gloss: NOM-eat-CL=oneS.POSS
+B: word: mɪ-ʒʊm-ɛ=uwla	 gloss: NOM-eat-CL=oneS.POSS
+C: word: ava	 gloss: in
+D: word: mɪ-g-ijɛ=uwla	 gloss: NOM-do-CL=oneS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 23:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ga] á-ndaj á-was
+Gloss (with missing item): ___ ADJ 3S+IFV-PROG 3S+IFV-cultivate
+The English translation of this sentence is:‘He himself is cultivating.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Noun phrases can have a head that is either a simple noun \REF{ex:5:31}, nominalised verb (\ref{ex:5:32}, \sectref{sec:5.2.1}), or a pronoun (\ref{ex:5:33}, \sectref{sec:5.2.2}). In the examples, the noun phrases are delimited by square brackets and the head is bolded.
+A: word: mɪ-mbɪɗ-ɛ=ahaŋ	 gloss: NOM-remain-CL=3S.POSS
+B: word: a-ndaj	 gloss: 3S-be
+C: word: ava	 gloss: in
+D: word: ndahaŋ	 gloss: 3S
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 24:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ga] [amɪ-g-ijɛ]
+Gloss (with missing item): ___ ADJ DEP-do-CL
+The English translation of this sentence is:‘He is the one that did it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A free pronoun head is more limited in the number of modifiers that it can take than a lexical noun head. A pronoun head can only be modified by the adjectiviser (\ref{ex:5:37}--\ref{ex:5:38}) or possessive pronoun in emphatic situations (\ref{ex:5:39}--\ref{ex:5:40}) (see \sectref{sec:3.1.1.2}). Noun phrases with pronoun heads can not be modified by plural, number, demonstrative, adjective, or relative clause.\footnote{Pronouns can be the subject of a relative clause, see \REF{ex:5:17} and \sectref{sec:5.4.3}.} The pronoun heads are bolded in the examples.
+A: word: ndahaŋ	 gloss: 3S
+B: word: a-ndaj	 gloss: 3S-be
+C: word: mɪ-mbɪɗ-ɛ=ahaŋ	 gloss: NOM-remain-CL=3S.POSS
+D: word: ɛnɛŋ=ahaj	 gloss: another=Pl
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 25:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [ndahaŋ ___ [amɪ-g-ijɛ]
+Gloss (with missing item): 3S ___ DEP-do-CL
+The English translation of this sentence is:‘He is the one that did it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A free pronoun head is more limited in the number of modifiers that it can take than a lexical noun head. A pronoun head can only be modified by the adjectiviser (\ref{ex:5:37}--\ref{ex:5:38}) or possessive pronoun in emphatic situations (\ref{ex:5:39}--\ref{ex:5:40}) (see \sectref{sec:3.1.1.2}). Noun phrases with pronoun heads can not be modified by plural, number, demonstrative, adjective, or relative clause.\footnote{Pronouns can be the subject of a relative clause, see \REF{ex:5:17} and \sectref{sec:5.4.3}.} The pronoun heads are bolded in the examples.
+A: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+B: word: ɛnɛŋ=ahaj	 gloss: another=Pl
+C: word: ga	 gloss: ADJ
+D: word: ɛ-g-ɛ	 gloss: 3S-do-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 26:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [amɪ-d-ijɛ ɛlɛlɛ nɪndijɛ na] ___ ga]
+Gloss (with missing item): DEP-prepare-CL sauce DEM PSP ___ ADJ
+The English translation of this sentence is:‘The one that prepared the sauce there [was] me.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A free pronoun head is more limited in the number of modifiers that it can take than a lexical noun head. A pronoun head can only be modified by the adjectiviser (\ref{ex:5:37}--\ref{ex:5:38}) or possessive pronoun in emphatic situations (\ref{ex:5:39}--\ref{ex:5:40}) (see \sectref{sec:3.1.1.2}). Noun phrases with pronoun heads can not be modified by plural, number, demonstrative, adjective, or relative clause.\footnote{Pronouns can be the subject of a relative clause, see \REF{ex:5:17} and \sectref{sec:5.4.3}.} The pronoun heads are bolded in the examples.
+A: word: gam	 gloss: much
+B: word: z=aw	 gloss: carry[twoS.IMP]=oneS.IO
+C: word: ɛgɪnɛ	 gloss: today
+D: word: nɛ	 gloss: oneS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 27:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [amɪ-d-ijɛ ɛlɛlɛ nɪndijɛ na] [nɛ ___
+Gloss (with missing item): DEP-prepare-CL sauce DEM PSP oneS ___
+The English translation of this sentence is:‘The one that prepared the sauce there [was] me.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A free pronoun head is more limited in the number of modifiers that it can take than a lexical noun head. A pronoun head can only be modified by the adjectiviser (\ref{ex:5:37}--\ref{ex:5:38}) or possessive pronoun in emphatic situations (\ref{ex:5:39}--\ref{ex:5:40}) (see \sectref{sec:3.1.1.2}). Noun phrases with pronoun heads can not be modified by plural, number, demonstrative, adjective, or relative clause.\footnote{Pronouns can be the subject of a relative clause, see \REF{ex:5:17} and \sectref{sec:5.4.3}.} The pronoun heads are bolded in the examples.
+A: word: ɗɛrijwɛl	 gloss: paper
+B: word: ga	 gloss: ADJ
+C: word: sʊlɔm=ahaj	 gloss: good=Pl
+D: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 28:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ [amɪ-g-ijɛ]
+Gloss (with missing item): ___ DEP-do-CL
+The English translation of this sentence is:‘I myself [am] the one that did it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A free pronoun head is more limited in the number of modifiers that it can take than a lexical noun head. A pronoun head can only be modified by the adjectiviser (\ref{ex:5:37}--\ref{ex:5:38}) or possessive pronoun in emphatic situations (\ref{ex:5:39}--\ref{ex:5:40}) (see \sectref{sec:3.1.1.2}). Noun phrases with pronoun heads can not be modified by plural, number, demonstrative, adjective, or relative clause.\footnote{Pronouns can be the subject of a relative clause, see \REF{ex:5:17} and \sectref{sec:5.4.3}.} The pronoun heads are bolded in the examples.
+A: word: ndahaŋ	 gloss: 3S
+B: word: mɪ-mbɪɗ-ɛ=ahaŋ	 gloss: NOM-remain-CL=3S.POSS
+C: word: ɛlɛ=ahaŋ	 gloss: thing=3S.POSS
+D: word: nɛ=ahaŋ	 gloss: oneS=3S.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 29:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ n\'{ɔ}-lɔ a kɔsɔkʷɔ ava
+Gloss (with missing item): ___ oneS+IFV-go at market in
+The English translation of this sentence is:‘I myself am going to the market.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A free pronoun head is more limited in the number of modifiers that it can take than a lexical noun head. A pronoun head can only be modified by the adjectiviser (\ref{ex:5:37}--\ref{ex:5:38}) or possessive pronoun in emphatic situations (\ref{ex:5:39}--\ref{ex:5:40}) (see \sectref{sec:3.1.1.2}). Noun phrases with pronoun heads can not be modified by plural, number, demonstrative, adjective, or relative clause.\footnote{Pronouns can be the subject of a relative clause, see \REF{ex:5:17} and \sectref{sec:5.4.3}.} The pronoun heads are bolded in the examples.
+A: word: nɛ=ahaŋ	 gloss: oneS=3S.POSS
+B: word: ɛlɛ=ahaŋ	 gloss: thing=3S.POSS
+C: word: mɪ-mbɪɗ-ɛ=ahaŋ	 gloss: NOM-remain-CL=3S.POSS
+D: word: ɛnɛŋ=ahaj	 gloss: another=Pl
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 30:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n\'{ə}-mənzar [awak=uwla=ahaj makar ___ amə-vəl=aw]]
+Gloss (with missing item): oneS+IFV-see goat=oneS.POSS=Pl three ___ DEP-give=oneS.IO
+The English translation of this sentence is:‘I see my three goats that you gave to me.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A free pronoun head is more limited in the number of modifiers that it can take than a lexical noun head. A pronoun head can only be modified by the adjectiviser (\ref{ex:5:37}--\ref{ex:5:38}) or possessive pronoun in emphatic situations (\ref{ex:5:39}--\ref{ex:5:40}) (see \sectref{sec:3.1.1.2}). Noun phrases with pronoun heads can not be modified by plural, number, demonstrative, adjective, or relative clause.\footnote{Pronouns can be the subject of a relative clause, see \REF{ex:5:17} and \sectref{sec:5.4.3}.} The pronoun heads are bolded in the examples.
+A: word: nɔkʷ=va	 gloss: twoS=PRF
+B: word: nɔkʷ	 gloss: twoS
+C: word: awak=uwla	 gloss: goat=oneS.POSS
+D: word: tʃɛw	 gloss: two
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 31:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n\'{ə}-mənzar [awak=uwla=ahaj makar [nɔkʷ ___
+Gloss (with missing item): oneS+IFV-see goat=oneS.POSS=Pl three twoS ___
+The English translation of this sentence is:‘I see my three goats that you gave to me.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A free pronoun head is more limited in the number of modifiers that it can take than a lexical noun head. A pronoun head can only be modified by the adjectiviser (\ref{ex:5:37}--\ref{ex:5:38}) or possessive pronoun in emphatic situations (\ref{ex:5:39}--\ref{ex:5:40}) (see \sectref{sec:3.1.1.2}). Noun phrases with pronoun heads can not be modified by plural, number, demonstrative, adjective, or relative clause.\footnote{Pronouns can be the subject of a relative clause, see \REF{ex:5:17} and \sectref{sec:5.4.3}.} The pronoun heads are bolded in the examples.
+A: word: haj=atəta	 gloss: house\hspaceThis{[=3P.POSS
+B: word: amə-vəl=aw	 gloss: DEP-give=oneS.IO
+C: word: amə-vəl=aŋ	 gloss: DEP-give=3S.IO
+D: word: amə-vəl=ɔkʷ	 gloss: DEP-give=twoS.IO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 32:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tá-kuw=ala [kəra mɪ-tɛtʃ-ɛ ɛlɛ ___
+Gloss (with missing item): 3P+IFV-seek=to dog NOM-close-CL eye ___
+The English translation of this sentence is:‘They look for a puppy that hasn’t opened its eyes yet.’ (lit. a dog closing eyes)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: We consider that the adjectiviser is a separate phonological word with semantic scope over the preceding noun phrase.\footnote{\citet{Bow1997c} called this morpheme a noun affix. Also, for simple adjectivised noun constructions, speakers consider the adjectiviser to be part of the same word as the noun that is modified. However, in the absence of evidence for phonological bondedness, we consider the morpheme ___ to be a separate phonological word.} The adjectiviser maintains its position at the right edge of a noun phrase rethe morpheme ___rdless of the noun phrase components (\ref{ex:5:44}--\ref{ex:5:49}). This fact indicates that it might be a clitic. However, we find no undisputable evidence that it is phonologically bound to the noun. Example \REF{ex:5:42} shows noun-final changes /n/ → [ŋ] before the morpheme ___. These changes might be due to assimilation of /n/ to point of articulation of /g/ within a word (see \sectref{sec:2.2}). However, the same change would occur at a word break, with word-final changes to /n/ (see \sectref{sec:2.2.4} and \sectref{sec:2.6.1.2}).\footnote{We have not no examples of word-final alterations of /h/ before the morpheme ___.} Also, the prosody of the morpheme ___ does not neutralise any prosody on the word to which it is bound.
+A: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+B: word: ga	 gloss: ADJ
+C: word: ɛnɛŋ	 gloss: another
+D: word: a-dəbən=ɔkʷ	 gloss: 3S-learn=twoS.IO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 33:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nà-har=alaj [awak babəɗ ___ a mɔgʷɔm
+Gloss (with missing item): oneS+PFV-carry=away goat white ___ at home
+The English translation of this sentence is:‘I carried the white goat home.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the head noun in a phrase that contains the adjectiviser the morpheme ___ is pluralised, both the head noun and the noun modifier are pluralised as well. Compare the singular noun phrase in \REF{ex:5:46} with the pluralised noun phrase in \REF{ex:5:47} where both the head noun and adjective are pluralised. %%\is{Plurality!Noun phrase plural}
+A: word: kɔsɔkʷɔ	 gloss: market
+B: word: amə-tar=alʊkʷøjɛ	 gloss: DEP-call=twoP.IO
+C: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+D: word: ga	 gloss: ADJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 34:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nà-har=alaj [awak=ahaj babəɗ=ahaj ___ a mɔgʷɔm
+Gloss (with missing item): oneS+PFV-carry=away goat=Pl white=Pl ___ at home
+The English translation of this sentence is:‘I carried the white goats home.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the head noun in a phrase that contains the adjectiviser the morpheme ___ is pluralised, both the head noun and the noun modifier are pluralised as well. Compare the singular noun phrase in \REF{ex:5:46} with the pluralised noun phrase in \REF{ex:5:47} where both the head noun and adjective are pluralised. %%\is{Plurality!Noun phrase plural}
+A: word: a-fəɗ=aka	 gloss: 3S-place=on
+B: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+C: word: ga	 gloss: ADJ
+D: word: gʷɔlɔ	 gloss: HON
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 35:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [mɪʒɛ=ahaj sʊlɔm=ahaj ___ na] tá-z=ala təta baj
+Gloss (with missing item): person=Pl good=Pl ___ PSP 3P+IFV-take=to ability NEG
+The English translation of this sentence is:‘Good people (lit. people with the quality of goodness), they can’t bring [it].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The same pattern of pluralisation is shown in (\ref{ex:5:48}--\ref{ex:5:49}). Note that the plural is not becoming individually ‘adjectivised.’ but rather the entire noun phrase is adjectivised. Note also that the adjectiviser always maintains its position at the right edge of the noun phrase.
+A: word: haj	 gloss: millet
+B: word: nɛ=ahaŋ	 gloss: oneS=3S.POSS
+C: word: ga	 gloss: ADJ
+D: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 36:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): asa lɪmɛ n\'{ə}-gʊs-ɔm na [dəraj ___ na [sʊlɔm ga]
+Gloss (with missing item): if 1PEX oneS+IFV-catch-1PEX 3S.DO head ___ PSP goodness ADJ
+The English translation of this sentence is:‘If we got the head, [it would be] good.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In another story about a reconciliation ceremony between two warring parties (the Moloko and the Mbuko), the ceremony requires the cutting in two of a puppy. Which side received which part was a key element to the outcome of the ceremony. In the text, the first mention of dəray ‘the head’ \REF{ex:5:55} is marked with the morpheme ___ -- it is an expected part of the narrative frame. When the outcome of the ceremony revealed that the Moloko got the head part (and so ‘won’ the contest) and the Mbuko received the hind parts, both are adjectivised: dəray the morpheme ___ ‘the head’ and mətenen the morpheme ___ ‘the hindparts’ \REF{ex:5:56}. Note that \REF{ex:5:56} consists of two predicate possessive verbless clauses (see \sectref{sec:10.1.2}), each with a predicate that is an adjectivised noun.
+A: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+B: word: ga	 gloss: ADJ
+C: word: ka-zaɗ=aka=ala	 gloss: twoS-take=on=to
+D: word: mɪ-ʒum-ɛ=uwla	 gloss: NOM-eat-CL=oneS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 37:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [dəraj ___ aŋga lɪmɛ [mɪtɛnɛŋ ga] aŋga mbɔkʷɔ=ahaj
+Gloss (with missing item): head ___ POSS 1PEX hindparts ADJ POSS Mbuko=Pl
+The English translation of this sentence is:‘The head [is] ours; the hindparts [are] the Mbuko's.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In another story about a reconciliation ceremony between two warring parties (the Moloko and the Mbuko), the ceremony requires the cutting in two of a puppy. Which side received which part was a key element to the outcome of the ceremony. In the text, the first mention of dəray ‘the head’ \REF{ex:5:55} is marked with the morpheme ___ -- it is an expected part of the narrative frame. When the outcome of the ceremony revealed that the Moloko got the head part (and so ‘won’ the contest) and the Mbuko received the hind parts, both are adjectivised: dəray the morpheme ___ ‘the head’ and mətenen the morpheme ___ ‘the hindparts’ \REF{ex:5:56}. Note that \REF{ex:5:56} consists of two predicate possessive verbless clauses (see \sectref{sec:10.1.2}), each with a predicate that is an adjectivised noun.
+A: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+B: word: malaŋ=ahaj	 gloss: great=Pl
+C: word: ga	 gloss: ADJ
+D: word: ta-g=aka	 gloss: 3P-do=on
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 38:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [dəraj ga] aŋga lɪmɛ [mɪtɛnɛŋ ___ aŋga mbɔkʷɔ=ahaj
+Gloss (with missing item): head ADJ POSS 1PEX hindparts ___ POSS Mbuko=Pl
+The English translation of this sentence is:‘The head [is] ours; the hindparts [are] the Mbuko's.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In another story about a reconciliation ceremony between two warring parties (the Moloko and the Mbuko), the ceremony requires the cutting in two of a puppy. Which side received which part was a key element to the outcome of the ceremony. In the text, the first mention of dəray ‘the head’ \REF{ex:5:55} is marked with the morpheme ___ -- it is an expected part of the narrative frame. When the outcome of the ceremony revealed that the Moloko got the head part (and so ‘won’ the contest) and the Mbuko received the hind parts, both are adjectivised: dəray the morpheme ___ ‘the head’ and mətenen the morpheme ___ ‘the hindparts’ \REF{ex:5:56}. Note that \REF{ex:5:56} consists of two predicate possessive verbless clauses (see \sectref{sec:10.1.2}), each with a predicate that is an adjectivised noun.
+A: word: nà-h=ɔkʷ	 gloss: oneS+PFV-tell=twoS.IO
+B: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+C: word: makar=ahaj	 gloss: three=Pl
+D: word: ga	 gloss: ADJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 39:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [dəraj ___ aŋga lɪmɛ [mɪtɛnɛŋ ga] aŋga mbɔkʷɔ=ahaj
+Gloss (with missing item): head ___ POSS 1PEX hindparts ADJ POSS Mbuko=Pl
+The English translation of this sentence is:‘The head [is] ours; the hindparts [are] the Mbuko's.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In another story about a reconciliation ceremony between two warring parties (the Moloko and the Mbuko), the ceremony requires the cutting in two of a puppy. Which side received which part was a key element to the outcome of the ceremony. In the text, the first mention of dəray ‘the head’ \REF{ex:5:55} is marked with the morpheme ___ -- it is an expected part of the narrative frame. When the outcome of the ceremony revealed that the Moloko got the head part (and so ‘won’ the contest) and the Mbuko received the hind parts, both are adjectivised: dəray the morpheme ___ ‘the head’ and mətenen the morpheme ___ ‘the hindparts’ \REF{ex:5:56}. Note that \REF{ex:5:56} consists of two predicate possessive verbless clauses (see \sectref{sec:10.1.2}), each with a predicate that is an adjectivised noun.
+A: word: ga	 gloss: ADJ
+B: word: amə-tar=alʊkʷøjɛ	 gloss: DEP-call=twoP.IO
+C: word: a-dzən=aw	 gloss: 3S-help=oneS.IO
+D: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 40:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [dəraj ga] aŋga lɪmɛ [mɪtɛnɛŋ ___ aŋga mbɔkʷɔ=ahaj
+Gloss (with missing item): head ADJ POSS 1PEX hindparts ___ POSS Mbuko=Pl
+The English translation of this sentence is:‘The head [is] ours; the hindparts [are] the Mbuko's.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In another story about a reconciliation ceremony between two warring parties (the Moloko and the Mbuko), the ceremony requires the cutting in two of a puppy. Which side received which part was a key element to the outcome of the ceremony. In the text, the first mention of dəray ‘the head’ \REF{ex:5:55} is marked with the morpheme ___ -- it is an expected part of the narrative frame. When the outcome of the ceremony revealed that the Moloko got the head part (and so ‘won’ the contest) and the Mbuko received the hind parts, both are adjectivised: dəray the morpheme ___ ‘the head’ and mətenen the morpheme ___ ‘the hindparts’ \REF{ex:5:56}. Note that \REF{ex:5:56} consists of two predicate possessive verbless clauses (see \sectref{sec:10.1.2}), each with a predicate that is an adjectivised noun.
+A: word: ga	 gloss: ADJ
+B: word: haj=atəta	 gloss: house\hspaceThis{[=3P.POSS
+C: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+D: word: hərva=ahaŋ	 gloss: body=3S.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 41:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n\`{ə}-bɔh-ɔm ta=alaj lɪmɛ [ɮɔm ___
+Gloss (with missing item): oneSPEX+PFV-pour-1PEX 3P.DO=away 1PEX five ___
+The English translation of this sentence is:‘We gave them [our identity cards], we [were] the five [whose fields were damaged].’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In the Cows in the Field story (not illustrated in this work) the morpheme ___ is used to mark the five brothers (previously mentioned) whose field was damaged and who had to go to the police to resolve the problem (\ref{ex:5:59} and \ref{ex:5:60}), and the problem (ma the morpheme ___ ‘that word’) that developed when they couldn’t find justice (\ref{ex:5:61} and \ref{ex:5:62}).
+A: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+B: word: faŋ	 gloss: already
+C: word: ga	 gloss: ADJ
+D: word: awak=ahaj	 gloss: goat=Pl
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 42:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ʃɛŋ a ɬam na ava nɛndɪgɛ na n\`{ə}-mʊnzɔr-ɔm [ma ___
+Gloss (with missing item): IDwalk at place PSP in DEM PSP oneS+PFV-see-1PEX word ___
+The English translation of this sentence is:‘Walking (later), at that place, we saw the problem.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In the Cows in the Field story (not illustrated in this work) the morpheme ___ is used to mark the five brothers (previously mentioned) whose field was damaged and who had to go to the police to resolve the problem (\ref{ex:5:59} and \ref{ex:5:60}), and the problem (ma the morpheme ___ ‘that word’) that developed when they couldn’t find justice (\ref{ex:5:61} and \ref{ex:5:62}).
+A: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+B: word: sʊlɔm=ahaj	 gloss: good=Pl
+C: word: ɛlɛ	 gloss: eye
+D: word: ga	 gloss: ADJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 43:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n\`{ə}-bɔh-ɔm [ma ___ a brijgad ava
+Gloss (with missing item): oneSPEX+PFV-pour-1PEX word ___ at Brigade in
+The English translation of this sentence is:‘We took the problem to the Brigade.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In the Cows in the Field story (not illustrated in this work) the morpheme ___ is used to mark the five brothers (previously mentioned) whose field was damaged and who had to go to the police to resolve the problem (\ref{ex:5:59} and \ref{ex:5:60}), and the problem (ma the morpheme ___ ‘that word’) that developed when they couldn’t find justice (\ref{ex:5:61} and \ref{ex:5:62}).
+A: word: awak=uwla	 gloss: goat=oneS.POSS
+B: word: ndahaŋ	 gloss: 3S
+C: word: ga	 gloss: ADJ
+D: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 44:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ɬɪrɛlɛ=ahaŋ=ahaj makar]
+Gloss (with missing item): ___ work=3S.POSS=Pl three
+The English translation of this sentence is:‘his three workmen’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In a noun phrase with the permanent attribution construction as its head noun, other elements in the noun phrase modify the entire head (and not just one of the nouns in the construction, as is the case for the genitive construction, see \sectref{sec:5.4.1}). In \REF{ex:5:92}, the plural and the numeral modify the head noun the morpheme ___ slərele and the sense is ‘his three workmen,’ not ‘the man of his three works.’ In \REF{ex:5:93}, the noun phrase has a triple noun head, war elé háy ‘millet grain.’ In this noun phrase, the derived adjective bəlen ga ‘one,’ the demonstrative nendəye ‘that,’ and the relative clause nok ameze ‘the one that you brought’ all modify the triple noun head war elé háy ‘millet grain.’ They do not just modify the noun war ‘child’ or háy ‘millet.’ In the examples below, the noun phrase is delimited by square brackets and the permanent attribution construction is bolded.
+A: word: amə-tar=alʊkʷøjɛ	 gloss: DEP-call=twoP.IO
+B: word: mɪʒɛ	 gloss: person
+C: word: nə-ndav=alaj	 gloss: oneS-finish=away
+D: word: ndam	 gloss: people
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 45:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [ndam ___ makar]
+Gloss (with missing item): people ___ three
+The English translation of this sentence is:‘his three workmen’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In a noun phrase with the permanent attribution construction as its head noun, other elements in the noun phrase modify the entire head (and not just one of the nouns in the construction, as is the case for the genitive construction, see \sectref{sec:5.4.1}). In \REF{ex:5:92}, the plural and the numeral modify the head noun ndam slərele and the sense is ‘his three workmen,’ not ‘the man of his three works.’ In \REF{ex:5:93}, the noun phrase has a triple noun head, war elé háy ‘millet grain.’ In this noun phrase, the derived adjective bəlen ga ‘one,’ the demonstrative nendəye ‘that,’ and the relative clause nok ameze ‘the one that you brought’ all modify the triple noun head war elé háy ‘millet grain.’ They do not just modify the noun war ‘child’ or háy ‘millet.’ In the examples below, the noun phrase is delimited by square brackets and the permanent attribution construction is bolded.
+A: word: ɬɪrɛlɛ=ahaŋ=ahaj	 gloss: work=3S.POSS=Pl
+B: word: haj=atəta	 gloss: house\hspaceThis{[=3P.POSS
+C: word: ɛlɛ=ahaŋ	 gloss: thing=3S.POSS
+D: word: ɬɪrɛlɛ=aŋgʷɔ	 gloss: work=twoS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 46:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndɛ [ləbara =uwla ga ___ amə-tar=alʊkʷøjɛ ma] nɛhɛ
+Gloss (with missing item): so news =oneS.POSS ADJ ___ DEP-call=twoP.IO mouth DEM
+The English translation of this sentence is:‘So, this is my news that I have called you together (to hear).’ (lit. So, my news which called mouth to you [is] this here)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The head noun of the relative clause can be either the subject or the direct object of the relative clause. When the head noun is the subject of the relative clause (\refits gloss ___ex:5:99}--\refits gloss ___ex:5:102}), there is a gap for subject in the relative clause (marked by Ø in the examples). For example, the understood subject of the relative clause in \REFits gloss ___ex:5:99} is the same as war dalay ‘the girl’ in the noun phrase. In the example, the Ø is a zero marking where the subject of the clause would otherwise be. There is a gap for subject because the subject of the relative clause is the same as the head of the noun phrase that is being modified. The relative clause is bolded and the noun phrase is delimited by square brackets in the examples in this section.
+A: word: ndam	 gloss: people
+B: word: amə-tar=alʊkʷøjɛ	 gloss: DEP-call=twoP.IO
+C: word: ø	 gloss: {
+D: word: nɔkʷ	 gloss: twoS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 47:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndɛ [ləbara =uwla ga Ø ___ ma] nɛhɛ
+Gloss (with missing item): so news =oneS.POSS ADJ { ___ mouth DEM
+The English translation of this sentence is:‘So, this is my news that I have called you together (to hear).’ (lit. So, my news which called mouth to you [is] this here)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The head noun of the relative clause can be either the subject or the direct object of the relative clause. When the head noun is the subject of the relative clause (\ref{ex:5:99}--\ref{ex:5:102}), there is a gap for subject in the relative clause (marked by Ø in the examples). For example, the understood subject of the relative clause in \REF{ex:5:99} is the same as war dalay ‘the girl’ in the noun phrase. In the example, the Ø is a zero marking where the subject of the clause would otherwise be. There is a gap for subject because the subject of the relative clause is the same as the head of the noun phrase that is being modified. The relative clause is bolded and the noun phrase is delimited by square brackets in the examples in this section.
+A: word: ɬala=alʊkʷøjɛ	 gloss: village=twoP.POSS
+B: word: amə-tar=alʊkʷøjɛ	 gloss: DEP-call=twoP.IO
+C: word: malaŋ=ahaj	 gloss: great=Pl
+D: word: amə-g=ɔk	 gloss: DEP-do=twoS.IO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 48:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndɛ [ləbara =uwla ga Ø amə-tar=alʊkʷøjɛ ___ nɛhɛ
+Gloss (with missing item): so news =oneS.POSS ADJ { DEP-call=twoP.IO ___ DEM
+The English translation of this sentence is:‘So, this is my news that I have called you together (to hear).’ (lit. So, my news which called mouth to you [is] this here)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The head noun of the relative clause can be either the subject or the direct object of the relative clause. When the head noun is the subject of the relative clause (\ref{ex:5:99}--\ref{ex:5:102}), there is a gap for subject in the relative clause (the morpheme ___rked by Ø in the examples). For example, the understood subject of the relative clause in \REF{ex:5:99} is the same as war dalay ‘the girl’ in the noun phrase. In the example, the Ø is a zero the morpheme ___rking where the subject of the clause would otherwise be. There is a gap for subject because the subject of the relative clause is the same as the head of the noun phrase that is being modified. The relative clause is bolded and the noun phrase is delimited by square brackets in the examples in this section.
+A: word: amɪ-g-ijɛ	 gloss: DEP-do-CL
+B: word: a-tsəɓ=aŋ	 gloss: 3S-overwhelm=3S.IO
+C: word: à-mak-aj	 gloss: 3S+PFV-leave-CL
+D: word: ma	 gloss: mouth
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 49:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tà-s=aŋ ɔkʷɔ ana ___ amɪ-g-ijɛ na=va]
+Gloss (with missing item): 3P+PFV-cut=3S.IO fire DAT ___ DEP-do-CL 3S.DO=PRF
+The English translation of this sentence is:‘They set fire to the house that the others had made.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the head noun is the direct object of the relative clause, the relative clause must contain a subject pronoun. The pronoun must be inserted before the verb in the relative clause (\ref{ex:5:103}--\ref{ex:5:105}). It is interesting that this subject pronoun of the relative clause is sometimes a free pronoun (\ref{ex:5:104}, \ref{ex:5:105}, \ref{ex:5:109}, see \sectref{sec:3.1.1}) but in other cases is a possessive pronoun (\ref{ex:5:103}, see \sectref{sec:3.1.2}). Two examples from the same narrative\footnote{The entire narrative is not included in this work.} (\ref{ex:5:103} and \ref{ex:5:104}) use different pronouns for the subject of the relative clause. While \REF{ex:5:103} uses the \oldstylenums{3}\textsc{p} possessive pronoun ata, \REF{ex:5:104} uses the free pronoun təta. In some cases, the relative clause will contain the direct object pronominal na following the dependent verb. The \DO pronominal represents the noun phrase head. In the examples below, the direct object pronominal na is underlined. A gap for the direct object in the relative clause (\ref{ex:5:104} and \ref{ex:5:109}) is indicated by {Ø}.
+A: word: haj=atəta	 gloss: house=3P.POSS
+B: word: tə-dəbən-aj	 gloss: 3P-learn-CL
+C: word: amə-vəl=aw	 gloss: DEP-give=oneS.IO
+D: word: ahar=atəta	 gloss: hand=3P.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 50:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tà-s=aŋ ɔkʷɔ ana [haj=atəta ___ na=va]
+Gloss (with missing item): 3P+PFV-cut=3S.IO fire DAT house=3P.POSS ___ 3S.DO=PRF
+The English translation of this sentence is:‘They set fire to the house that the others had made.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the head noun is the direct object of the relative clause, the relative clause must contain a subject pronoun. The pronoun must be inserted before the verb in the relative clause (\ref{ex:5:103}--\ref{ex:5:105}). It is interesting that this subject pronoun of the relative clause is sometimes a free pronoun (\ref{ex:5:104}, \ref{ex:5:105}, \ref{ex:5:109}, see \sectref{sec:3.1.1}) but in other cases is a possessive pronoun (\ref{ex:5:103}, see \sectref{sec:3.1.2}). Two examples from the same narrative\footnote{The entire narrative is not included in this work.} (\ref{ex:5:103} and \ref{ex:5:104}) use different pronouns for the subject of the relative clause. While \REF{ex:5:103} uses the \oldstylenums{3}\textsc{p} possessive pronoun ata, \REF{ex:5:104} uses the free pronoun təta. In some cases, the relative clause will contain the direct object pronominal na following the dependent verb. The \DO pronominal represents the noun phrase head. In the examples below, the direct object pronominal na is underlined. A gap for the direct object in the relative clause (\ref{ex:5:104} and \ref{ex:5:109}) is indicated by {Ø}.
+A: word: amɪ-mɪnzɛr-ɛ	 gloss: DEP-see-CL
+B: word: amɪ-g-ijɛ	 gloss: DEP-do-CL
+C: word: na=va	 gloss: 3S.DO=PRF
+D: word: mɪ-g-ijɛ=aŋgʷɔ	 gloss: NOM-do-CL=twoS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 51:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tà-s=aŋ ɔkʷɔ ana [haj=atəta amɪ-g-ijɛ ___
+Gloss (with missing item): 3P+PFV-cut=3S.IO fire DAT house=3P.POSS DEP-do-CL ___
+The English translation of this sentence is:‘They set fire to the house that the others had made.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the head noun is the direct object of the relative clause, the relative clause must contain a subject pronoun. The pronoun must be inserted before the verb in the relative clause (\ref{ex:5:103}--\ref{ex:5:105}). It is interesting that this subject pronoun of the relative clause is sometimes a free pronoun (\ref{ex:5:104}, \ref{ex:5:105}, \ref{ex:5:109}, see \sectref{sec:3.1.1}) but in other cases is a possessive pronoun (\ref{ex:5:103}, see \sectref{sec:3.1.2}). Two examples from the same narrative\footnote{The entire narrative is not included in this work.} (\ref{ex:5:103} and \ref{ex:5:104}) use different pronouns for the subject of the relative clause. While \REF{ex:5:103} uses the \oldstylenums{3}\textsc{p} possessive pronoun ata, \REF{ex:5:104} uses the free pronoun təta. In some cases, the relative clause will contain the direct object pronominal na following the dependent verb. The \DO pronominal represents the noun phrase head. In the examples below, the direct object pronominal na is underlined. A gap for the direct object in the relative clause (\ref{ex:5:104} and \ref{ex:5:109}) is indicated by {Ø}.
+A: word: =va	 gloss: =PRF
+B: word: haj=atəta	 gloss: house\hspaceThis{[=3P.POSS
+C: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+D: word: na=va	 gloss: 3S.DO=PRF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 52:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [war haj ŋgɪndijɛ ___ amɛ-ʒ-ɛ na=va] bɪlɛŋ ŋgɪndijɛ na
+Gloss (with missing item): child millet DEM ___ DEP-take-CL 3S.DO=PRF one DEM PSP
+The English translation of this sentence is:‘That grain that you have taken, that one [grain],’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the head noun is the direct object of the relative clause, the relative clause must contain a subject pronoun. The pronoun must be inserted before the verb in the relative clause (\ref{ex:5:103}--\ref{ex:5:105}). It is interesting that this subject pronoun of the relative clause is sometimes a free pronoun (\ref{ex:5:104}, \ref{ex:5:105}, \ref{ex:5:109}, see \sectref{sec:3.1.1}) but in other cases is a possessive pronoun (\ref{ex:5:103}, see \sectref{sec:3.1.2}). Two examples from the same narrative\footnote{The entire narrative is not included in this work.} (\ref{ex:5:103} and \ref{ex:5:104}) use different pronouns for the subject of the relative clause. While \REF{ex:5:103} uses the \oldstylenums{3}\textsc{p} possessive pronoun ata, \REF{ex:5:104} uses the free pronoun təta. In some cases, the relative clause will contain the direct object pronominal na following the dependent verb. The \DO pronominal represents the noun phrase head. In the examples below, the direct object pronominal na is underlined. A gap for the direct object in the relative clause (\ref{ex:5:104} and \ref{ex:5:109}) is indicated by {Ø}.
+A: word: nɔkʷ	 gloss: twoS
+B: word: tʃɛw	 gloss: two
+C: word: nɔkʷ=va	 gloss: twoS=PRF
+D: word: awak=uwla	 gloss: goat=oneS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 53:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [war haj ŋgɪndijɛ nɔkʷ ___ na=va] bɪlɛŋ ŋgɪndijɛ na
+Gloss (with missing item): child millet DEM twoS ___ 3S.DO=PRF one DEM PSP
+The English translation of this sentence is:‘That grain that you have taken, that one [grain],’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the head noun is the direct object of the relative clause, the relative clause must contain a subject pronoun. The pronoun must be inserted before the verb in the relative clause (\ref{ex:5:103}--\ref{ex:5:105}). It is interesting that this subject pronoun of the relative clause is sometimes a free pronoun (\ref{ex:5:104}, \ref{ex:5:105}, \ref{ex:5:109}, see \sectref{sec:3.1.1}) but in other cases is a possessive pronoun (\ref{ex:5:103}, see \sectref{sec:3.1.2}). Two examples from the same narrative\footnote{The entire narrative is not included in this work.} (\ref{ex:5:103} and \ref{ex:5:104}) use different pronouns for the subject of the relative clause. While \REF{ex:5:103} uses the \oldstylenums{3}\textsc{p} possessive pronoun ata, \REF{ex:5:104} uses the free pronoun təta. In some cases, the relative clause will contain the direct object pronominal na following the dependent verb. The \DO pronominal represents the noun phrase head. In the examples below, the direct object pronominal na is underlined. A gap for the direct object in the relative clause (\ref{ex:5:104} and \ref{ex:5:109}) is indicated by {Ø}.
+A: word: amɛ-ʒ-ɛ	 gloss: DEP-take-CL
+B: word: amɛ-ʒɛɗ-ɛ	 gloss: DEP-take-CL
+C: word: makar=ahaj	 gloss: three=Pl
+D: word: amɪ-g-ijɛ	 gloss: DEP-do-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 54:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [war haj ŋgɪndijɛ nɔkʷ amɛ-ʒ-ɛ ___ bɪlɛŋ ŋgɪndijɛ na
+Gloss (with missing item): child millet DEM twoS DEP-take-CL ___ one DEM PSP
+The English translation of this sentence is:‘That grain that you have taken, that one [grain],’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the head noun is the direct object of the relative clause, the relative clause must contain a subject pronoun. The pronoun must be inserted before the verb in the relative clause (\ref{ex:5:103}--\ref{ex:5:105}). It is interesting that this subject pronoun of the relative clause is sometimes a free pronoun (\ref{ex:5:104}, \ref{ex:5:105}, \ref{ex:5:109}, see \sectref{sec:3.1.1}) but in other cases is a possessive pronoun (\ref{ex:5:103}, see \sectref{sec:3.1.2}). Two examples from the same narrative\footnote{The entire narrative is not included in this work.} (\ref{ex:5:103} and \ref{ex:5:104}) use different pronouns for the subject of the relative clause. While \REF{ex:5:103} uses the \oldstylenums{3}\textsc{p} possessive pronoun ata, \REF{ex:5:104} uses the free pronoun təta. In some cases, the relative clause will contain the direct object pronominal na following the dependent verb. The \DO pronominal represents the noun phrase head. In the examples below, the direct object pronominal na is underlined. A gap for the direct object in the relative clause (\ref{ex:5:104} and \ref{ex:5:109}) is indicated by {Ø}.
+A: word: =va	 gloss: =PRF
+B: word: nɛ=ahaŋ	 gloss: oneS=3S.POSS
+C: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+D: word: na=va	 gloss: 3S.DO=PRF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 55:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [war haj ŋgɪndijɛ ___ amɛ-ʒ-ɛ na=va] bɪlɛŋ ŋgɪndijɛ na
+Gloss (with missing item): child millet DEM ___ DEP-take-CL 3S.DO=PRF one DEM PSP
+The English translation of this sentence is:‘That grain that you have taken, that one [grain],’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the head noun is the direct object of the relative clause, the relative clause must contain a subject pronoun. The pronoun must be inserted before the verb in the relative clause (\ref{ex:5:103}--\ref{ex:5:105}). It is interesting that this subject pronoun of the relative clause is sometimes a free pronoun (\ref{ex:5:104}, \ref{ex:5:105}, \ref{ex:5:109}, see \sectref{sec:3.1.1}) but in other cases is a possessive pronoun (\ref{ex:5:103}, see \sectref{sec:3.1.2}). Two examples from the same narrative\footnote{The entire narrative is not included in this work.} (\ref{ex:5:103} and \ref{ex:5:104}) use different pronouns for the subject of the relative clause. While \REF{ex:5:103} uses the \oldstylenums{3}\textsc{p} possessive pronoun ata, \REF{ex:5:104} uses the free pronoun təta. In some cases, the relative clause will contain the direct object pronominal na following the dependent verb. The \DO pronominal represents the noun phrase head. In the examples below, the direct object pronominal na is underlined. A gap for the direct object in the relative clause (\ref{ex:5:104} and \ref{ex:5:109}) is indicated by {Ø}.
+A: word: awak=uwla	 gloss: goat=oneS.POSS
+B: word: nɔkʷ=va	 gloss: twoS=PRF
+C: word: nɔkʷ	 gloss: twoS
+D: word: tʃɛw	 gloss: two
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 56:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [war haj ŋgɪndijɛ nɔkʷ ___ na=va] bɪlɛŋ ŋgɪndijɛ na
+Gloss (with missing item): child millet DEM twoS ___ 3S.DO=PRF one DEM PSP
+The English translation of this sentence is:‘That grain that you have taken, that one [grain],’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the head noun is the direct object of the relative clause, the relative clause must contain a subject pronoun. The pronoun must be inserted before the verb in the relative clause (\ref{ex:5:103}--\ref{ex:5:105}). It is interesting that this subject pronoun of the relative clause is sometimes a free pronoun (\ref{ex:5:104}, \ref{ex:5:105}, \ref{ex:5:109}, see \sectref{sec:3.1.1}) but in other cases is a possessive pronoun (\ref{ex:5:103}, see \sectref{sec:3.1.2}). Two examples from the same narrative\footnote{The entire narrative is not included in this work.} (\ref{ex:5:103} and \ref{ex:5:104}) use different pronouns for the subject of the relative clause. While \REF{ex:5:103} uses the \oldstylenums{3}\textsc{p} possessive pronoun ata, \REF{ex:5:104} uses the free pronoun təta. In some cases, the relative clause will contain the direct object pronominal na following the dependent verb. The \DO pronominal represents the noun phrase head. In the examples below, the direct object pronominal na is underlined. A gap for the direct object in the relative clause (\ref{ex:5:104} and \ref{ex:5:109}) is indicated by {Ø}.
+A: word: amɛ-ʒ-ɛ	 gloss: DEP-take-CL
+B: word: amɛ-ʒɛɗ-ɛ	 gloss: DEP-take-CL
+C: word: nɔkʷ	 gloss: twoS
+D: word: amɪ-g-ijɛ	 gloss: DEP-do-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 57:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [war haj ŋgɪndijɛ nɔkʷ amɛ-ʒ-ɛ ___ bɪlɛŋ ŋgɪndijɛ na
+Gloss (with missing item): child millet DEM twoS DEP-take-CL ___ one DEM PSP
+The English translation of this sentence is:‘That grain that you have taken, that one [grain],’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the head noun is the direct object of the relative clause, the relative clause must contain a subject pronoun. The pronoun must be inserted before the verb in the relative clause (\ref{ex:5:103}--\ref{ex:5:105}). It is interesting that this subject pronoun of the relative clause is sometimes a free pronoun (\ref{ex:5:104}, \ref{ex:5:105}, \ref{ex:5:109}, see \sectref{sec:3.1.1}) but in other cases is a possessive pronoun (\ref{ex:5:103}, see \sectref{sec:3.1.2}). Two examples from the same narrative\footnote{The entire narrative is not included in this work.} (\ref{ex:5:103} and \ref{ex:5:104}) use different pronouns for the subject of the relative clause. While \REF{ex:5:103} uses the \oldstylenums{3}\textsc{p} possessive pronoun ata, \REF{ex:5:104} uses the free pronoun təta. In some cases, the relative clause will contain the direct object pronominal na following the dependent verb. The \DO pronominal represents the noun phrase head. In the examples below, the direct object pronominal na is underlined. A gap for the direct object in the relative clause (\ref{ex:5:104} and \ref{ex:5:109}) is indicated by {Ø}.
+A: word: ɛnɛŋ=ahaj	 gloss: another=Pl
+B: word: =va	 gloss: =PRF
+C: word: na=va	 gloss: 3S.DO=PRF
+D: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 58:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tà-s=aŋ ɔkʷɔ ana ___ amɪ-g-ijɛ na=va]
+Gloss (with missing item): 3P+PFV-cut=3S.IO fire DAT ___ DEP-do-CL 3S.DO=PRF
+The English translation of this sentence is:‘They set fire to the house that the others had made.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the head noun is the direct object of the relative clause, the relative clause must contain a subject pronoun. The pronoun must be inserted before the verb in the relative clause (\ref{ex:5:103}--\ref{ex:5:105}). It is interesting that this subject pronoun of the relative clause is sometimes a free pronoun (\ref{ex:5:104}, \ref{ex:5:105}, \ref{ex:5:109}, see \sectref{sec:3.1.1}) but in other cases is a possessive pronoun (\ref{ex:5:103}, see \sectref{sec:3.1.2}). Two examples from the same narrative\footnote{The entire narrative is not included in this work.} (\ref{ex:5:103} and \ref{ex:5:104}) use different pronouns for the subject of the relative clause. While \REF{ex:5:103} uses the \oldstylenums{3}\textsc{p} possessive pronoun ata, \REF{ex:5:104} uses the free pronoun təta. In some cases, the relative clause will contain the direct object pronominal na following the dependent verb. The \DO pronominal represents the noun phrase head. In the examples below, the direct object pronominal na is underlined. A gap for the direct object in the relative clause (\ref{ex:5:104} and \ref{ex:5:109}) is indicated by {Ø}.
+A: word: sʊlɔm=ahaj	 gloss: good=Pl
+B: word: haj=atəta	 gloss: house=3P.POSS
+C: word: ká-z=ala	 gloss: twoS+IFV-carry=to
+D: word: ahar=atəta	 gloss: hand=3P.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 59:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tà-s=aŋ ɔkʷɔ ana [haj=atəta ___ na=va]
+Gloss (with missing item): 3P+PFV-cut=3S.IO fire DAT house=3P.POSS ___ 3S.DO=PRF
+The English translation of this sentence is:‘They set fire to the house that the others had made.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the head noun is the direct object of the relative clause, the relative clause must contain a subject pronoun. The pronoun must be inserted before the verb in the relative clause (\ref{ex:5:103}--\ref{ex:5:105}). It is interesting that this subject pronoun of the relative clause is sometimes a free pronoun (\ref{ex:5:104}, \ref{ex:5:105}, \ref{ex:5:109}, see \sectref{sec:3.1.1}) but in other cases is a possessive pronoun (\ref{ex:5:103}, see \sectref{sec:3.1.2}). Two examples from the same narrative\footnote{The entire narrative is not included in this work.} (\ref{ex:5:103} and \ref{ex:5:104}) use different pronouns for the subject of the relative clause. While \REF{ex:5:103} uses the \oldstylenums{3}\textsc{p} possessive pronoun ata, \REF{ex:5:104} uses the free pronoun təta. In some cases, the relative clause will contain the direct object pronominal na following the dependent verb. The \DO pronominal represents the noun phrase head. In the examples below, the direct object pronominal na is underlined. A gap for the direct object in the relative clause (\ref{ex:5:104} and \ref{ex:5:109}) is indicated by {Ø}.
+A: word: sʊlɔm=ahaj	 gloss: good=Pl
+B: word: amɪ-g-ijɛ	 gloss: DEP-do-CL
+C: word: mɪ-g-ijɛ=aŋgʷɔ	 gloss: NOM-do-CL=twoS.POSS
+D: word: amɪ-mɪnzɛr-ɛ	 gloss: DEP-see-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 60:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tà-s=aŋ ɔkʷɔ ana [haj=atəta amɪ-g-ijɛ ___
+Gloss (with missing item): 3P+PFV-cut=3S.IO fire DAT house=3P.POSS DEP-do-CL ___
+The English translation of this sentence is:‘They set fire to the house that the others had made.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the head noun is the direct object of the relative clause, the relative clause must contain a subject pronoun. The pronoun must be inserted before the verb in the relative clause (\ref{ex:5:103}--\ref{ex:5:105}). It is interesting that this subject pronoun of the relative clause is sometimes a free pronoun (\ref{ex:5:104}, \ref{ex:5:105}, \ref{ex:5:109}, see \sectref{sec:3.1.1}) but in other cases is a possessive pronoun (\ref{ex:5:103}, see \sectref{sec:3.1.2}). Two examples from the same narrative\footnote{The entire narrative is not included in this work.} (\ref{ex:5:103} and \ref{ex:5:104}) use different pronouns for the subject of the relative clause. While \REF{ex:5:103} uses the \oldstylenums{3}\textsc{p} possessive pronoun ata, \REF{ex:5:104} uses the free pronoun təta. In some cases, the relative clause will contain the direct object pronominal na following the dependent verb. The \DO pronominal represents the noun phrase head. In the examples below, the direct object pronominal na is underlined. A gap for the direct object in the relative clause (\ref{ex:5:104} and \ref{ex:5:109}) is indicated by {Ø}.
+A: word: na=va	 gloss: 3S.DO=PRF
+B: word: =va	 gloss: =PRF
+C: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+D: word: ɬɪrɛlɛ=ahaŋ=ahaj	 gloss: work=3S.POSS=Pl
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 61:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tà-s=aŋ ɔkʷɔ ana ___ amɪ-g-ijɛ na=va]
+Gloss (with missing item): 3P+PFV-cut=3S.IO fire DAT ___ DEP-do-CL 3S.DO=PRF
+The English translation of this sentence is:‘They set fire to the house that the others had made.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the head noun is the direct object of the relative clause, the relative clause must contain a subject pronoun. The pronoun must be inserted before the verb in the relative clause (\ref{ex:5:103}--\ref{ex:5:105}). It is interesting that this subject pronoun of the relative clause is sometimes a free pronoun (\ref{ex:5:104}, \ref{ex:5:105}, \ref{ex:5:109}, see \sectref{sec:3.1.1}) but in other cases is a possessive pronoun (\ref{ex:5:103}, see \sectref{sec:3.1.2}). Two examples from the same narrative\footnote{The entire narrative is not included in this work.} (\ref{ex:5:103} and \ref{ex:5:104}) use different pronouns for the subject of the relative clause. While \REF{ex:5:103} uses the \oldstylenums{3}\textsc{p} possessive pronoun ata, \REF{ex:5:104} uses the free pronoun təta. In some cases, the relative clause will contain the direct object pronominal na following the dependent verb. The \DO pronominal represents the noun phrase head. In the examples below, the direct object pronominal na is underlined. A gap for the direct object in the relative clause (\ref{ex:5:104} and \ref{ex:5:109}) is indicated by {Ø}.
+A: word: =aka=va	 gloss: =on=PRF
+B: word: ahar=atəta	 gloss: hand=3P.POSS
+C: word: haj=atəta	 gloss: house=3P.POSS
+D: word: mɪ-ʒum-ɛ=uwla	 gloss: NOM-eat-CL=oneS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 62:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tà-s=aŋ ɔkʷɔ ana [haj=atəta ___ na=va]
+Gloss (with missing item): 3P+PFV-cut=3S.IO fire DAT house=3P.POSS ___ 3S.DO=PRF
+The English translation of this sentence is:‘They set fire to the house that the others had made.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the head noun is the direct object of the relative clause, the relative clause must contain a subject pronoun. The pronoun must be inserted before the verb in the relative clause (\ref{ex:5:103}--\ref{ex:5:105}). It is interesting that this subject pronoun of the relative clause is sometimes a free pronoun (\ref{ex:5:104}, \ref{ex:5:105}, \ref{ex:5:109}, see \sectref{sec:3.1.1}) but in other cases is a possessive pronoun (\ref{ex:5:103}, see \sectref{sec:3.1.2}). Two examples from the same narrative\footnote{The entire narrative is not included in this work.} (\ref{ex:5:103} and \ref{ex:5:104}) use different pronouns for the subject of the relative clause. While \REF{ex:5:103} uses the \oldstylenums{3}\textsc{p} possessive pronoun ata, \REF{ex:5:104} uses the free pronoun təta. In some cases, the relative clause will contain the direct object pronominal na following the dependent verb. The \DO pronominal represents the noun phrase head. In the examples below, the direct object pronominal na is underlined. A gap for the direct object in the relative clause (\ref{ex:5:104} and \ref{ex:5:109}) is indicated by {Ø}.
+A: word: haj=atəta	 gloss: house\hspaceThis{[=3P.POSS
+B: word: amɪ-mɪnzɛr-ɛ	 gloss: DEP-see-CL
+C: word: amɪ-g-ijɛ	 gloss: DEP-do-CL
+D: word: mɪ-g-ijɛ=aŋgʷɔ	 gloss: NOM-do-CL=twoS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 63:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tà-s=aŋ ɔkʷɔ ana [haj=atəta amɪ-g-ijɛ ___
+Gloss (with missing item): 3P+PFV-cut=3S.IO fire DAT house=3P.POSS DEP-do-CL ___
+The English translation of this sentence is:‘They set fire to the house that the others had made.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the head noun is the direct object of the relative clause, the relative clause must contain a subject pronoun. The pronoun must be inserted before the verb in the relative clause (\ref{ex:5:103}--\ref{ex:5:105}). It is interesting that this subject pronoun of the relative clause is sometimes a free pronoun (\ref{ex:5:104}, \ref{ex:5:105}, \ref{ex:5:109}, see \sectref{sec:3.1.1}) but in other cases is a possessive pronoun (\ref{ex:5:103}, see \sectref{sec:3.1.2}). Two examples from the same narrative\footnote{The entire narrative is not included in this work.} (\ref{ex:5:103} and \ref{ex:5:104}) use different pronouns for the subject of the relative clause. While \REF{ex:5:103} uses the \oldstylenums{3}\textsc{p} possessive pronoun ata, \REF{ex:5:104} uses the free pronoun təta. In some cases, the relative clause will contain the direct object pronominal na following the dependent verb. The \DO pronominal represents the noun phrase head. In the examples below, the direct object pronominal na is underlined. A gap for the direct object in the relative clause (\ref{ex:5:104} and \ref{ex:5:109}) is indicated by {Ø}.
+A: word: na=va	 gloss: 3S.DO=PRF
+B: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+C: word: =va	 gloss: =PRF
+D: word: nɔkʷ	 gloss: twoS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 64:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tà-s=aŋ ɔkʷɔ ana ___ amɪ-g-ijɛ na=va]
+Gloss (with missing item): 3P+PFV-cut=3S.IO fire DAT ___ DEP-do-CL 3S.DO=PRF
+The English translation of this sentence is:‘They set fire to the house that the others had made.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the head noun is the direct object of the relative clause, the relative clause must contain a subject pronoun. The pronoun must be inserted before the verb in the relative clause (\ref{ex:5:103}--\ref{ex:5:105}). It is interesting that this subject pronoun of the relative clause is sometimes a free pronoun (\ref{ex:5:104}, \ref{ex:5:105}, \ref{ex:5:109}, see \sectref{sec:3.1.1}) but in other cases is a possessive pronoun (\ref{ex:5:103}, see \sectref{sec:3.1.2}). Two examples from the same narrative\footnote{The entire narrative is not included in this work.} (\ref{ex:5:103} and \ref{ex:5:104}) use different pronouns for the subject of the relative clause. While \REF{ex:5:103} uses the \oldstylenums{3}\textsc{p} possessive pronoun ata, \REF{ex:5:104} uses the free pronoun təta. In some cases, the relative clause will contain the direct object pronominal na following the dependent verb. The \DO pronominal represents the noun phrase head. In the examples below, the direct object pronominal na is underlined. A gap for the direct object in the relative clause (\ref{ex:5:104} and \ref{ex:5:109}) is indicated by {Ø}.
+A: word: na=va	 gloss: 3S.DO=PRF
+B: word: haj=atəta	 gloss: house=3P.POSS
+C: word: nɛhɛ=ahaj	 gloss: DEM=Pl
+D: word: ahar=atəta	 gloss: hand=3P.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 65:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tà-s=aŋ ɔkʷɔ ana [haj=atəta ___ na=va]
+Gloss (with missing item): 3P+PFV-cut=3S.IO fire DAT house=3P.POSS ___ 3S.DO=PRF
+The English translation of this sentence is:‘They set fire to the house that the others had made.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the head noun is the direct object of the relative clause, the relative clause must contain a subject pronoun. The pronoun must be inserted before the verb in the relative clause (\ref{ex:5:103}--\ref{ex:5:105}). It is interesting that this subject pronoun of the relative clause is sometimes a free pronoun (\ref{ex:5:104}, \ref{ex:5:105}, \ref{ex:5:109}, see \sectref{sec:3.1.1}) but in other cases is a possessive pronoun (\ref{ex:5:103}, see \sectref{sec:3.1.2}). Two examples from the same narrative\footnote{The entire narrative is not included in this work.} (\ref{ex:5:103} and \ref{ex:5:104}) use different pronouns for the subject of the relative clause. While \REF{ex:5:103} uses the \oldstylenums{3}\textsc{p} possessive pronoun ata, \REF{ex:5:104} uses the free pronoun təta. In some cases, the relative clause will contain the direct object pronominal na following the dependent verb. The \DO pronominal represents the noun phrase head. In the examples below, the direct object pronominal na is underlined. A gap for the direct object in the relative clause (\ref{ex:5:104} and \ref{ex:5:109}) is indicated by {Ø}.
+A: word: amɪ-mɪnzɛr-ɛ	 gloss: DEP-see-CL
+B: word: makar	 gloss: three
+C: word: mɪ-g-ijɛ=aŋgʷɔ	 gloss: NOM-do-CL=twoS.POSS
+D: word: amɪ-g-ijɛ	 gloss: DEP-do-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 66:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tà-s=aŋ ɔkʷɔ ana [haj=atəta amɪ-g-ijɛ ___
+Gloss (with missing item): 3P+PFV-cut=3S.IO fire DAT house=3P.POSS DEP-do-CL ___
+The English translation of this sentence is:‘They set fire to the house that the others had made.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the head noun is the direct object of the relative clause, the relative clause must contain a subject pronoun. The pronoun must be inserted before the verb in the relative clause (\ref{ex:5:103}--\ref{ex:5:105}). It is interesting that this subject pronoun of the relative clause is sometimes a free pronoun (\ref{ex:5:104}, \ref{ex:5:105}, \ref{ex:5:109}, see \sectref{sec:3.1.1}) but in other cases is a possessive pronoun (\ref{ex:5:103}, see \sectref{sec:3.1.2}). Two examples from the same narrative\footnote{The entire narrative is not included in this work.} (\ref{ex:5:103} and \ref{ex:5:104}) use different pronouns for the subject of the relative clause. While \REF{ex:5:103} uses the \oldstylenums{3}\textsc{p} possessive pronoun ata, \REF{ex:5:104} uses the free pronoun təta. In some cases, the relative clause will contain the direct object pronominal na following the dependent verb. The \DO pronominal represents the noun phrase head. In the examples below, the direct object pronominal na is underlined. A gap for the direct object in the relative clause (\ref{ex:5:104} and \ref{ex:5:109}) is indicated by {Ø}.
+A: word: sʊlɔm=ahaj	 gloss: good=Pl
+B: word: na=va	 gloss: 3S.DO=PRF
+C: word: =va	 gloss: =PRF
+D: word: ma-ŋgəh=ata=aka=va	 gloss: NOM-hide=3P.IO=on=PRF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 67:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ amɪ-ʒɪɗ-ɛ dəraj na] waj
+Gloss (with missing item): ___ DEP-carry-CL head PSP who
+The English translation of this sentence is:‘Who will win?’ (lit. the one to carry the head, who?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In all of the above examples, the head noun can be modified by other modifiers in addition to the relative clause. Sometimes, however, the relative clause itself is the entire noun phrase (\refits gloss ___ex:5:107}--\refits gloss ___ex:5:108}). These noun phrases that consist of relative clauses take no other noun phrase modifiers. Also, they are apparently limited in the type of clause construction in which they can occur. They can only be the predicate of a larger predicate nominal construction (see \sectrefits gloss ___sec:10.1.2}). Examples \REFits gloss ___ex:5:107} and \REFits gloss ___ex:5:108} are interrogative constructions with a predicate nominal structure (see \sectrefits gloss ___sec:10.3.1}). We found no natural examples where a headless relative clause served as a matrix component in a matrix verbal clause. Example \REFits gloss ___ex:5:108} is an emphatic construction (see \sectrefits gloss ___sec:10.3.5}).
+A: word: à-mbəɗ=va	 gloss: 3S+PFV-change=PRF
+B: word: amə-tar=alʊkʷøjɛ	 gloss: DEP-call=twoP.IO
+C: word: aka	 gloss: on
+D: word: ø	 gloss: {
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 68:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [Ø ___ dəraj na] waj
+Gloss (with missing item): { ___ head PSP who
+The English translation of this sentence is:‘Who will win?’ (lit. the one to carry the head, who?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In all of the above examples, the head noun can be modified by other modifiers in addition to the relative clause. Sometimes, however, the relative clause itself is the entire noun phrase (\ref{ex:5:107}--\ref{ex:5:108}). These noun phrases that consist of relative clauses take no other noun phrase modifiers. Also, they are apparently limited in the type of clause construction in which they can occur. They can only be the predicate of a larger predicate nominal construction (see \sectref{sec:10.1.2}). Examples \REF{ex:5:107} and \REF{ex:5:108} are interrogative constructions with a predicate nominal structure (see \sectref{sec:10.3.1}). We found no natural examples where a headless relative clause served as a matrix component in a matrix verbal clause. Example \REF{ex:5:108} is an emphatic construction (see \sectref{sec:10.3.5}).
+A: word: ɛndɛɓ	 gloss: wisdom
+B: word: mɪ-mbɪɗ-ɛ=ahaŋ	 gloss: NOM-remain-CL=3S.POSS
+C: word: amɪ-g-ijɛ	 gloss: DEP-do-CL
+D: word: amɪ-ʒɪɗ-ɛ	 gloss: DEP-carry-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 69:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [Ø amɪ-ʒɪɗ-ɛ ___ na] waj
+Gloss (with missing item): { DEP-carry-CL ___ PSP who
+The English translation of this sentence is:‘Who will win?’ (lit. the one to carry the head, who?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In all of the above examples, the its gloss ___ noun can be modified by other modifiers in addition to the relative clause. Sometimes, however, the relative clause itself is the entire noun phrase (\ref{ex:5:107}--\ref{ex:5:108}). These noun phrases that consist of relative clauses take no other noun phrase modifiers. Also, they are apparently limited in the type of clause construction in which they can occur. They can only be the predicate of a larger predicate nominal construction (see \sectref{sec:10.1.2}). Examples \REF{ex:5:107} and \REF{ex:5:108} are interrogative constructions with a predicate nominal structure (see \sectref{sec:10.3.1}). We found no natural examples where a its gloss ___less relative clause served as a matrix component in a matrix verbal clause. Example \REF{ex:5:108} is an emphatic construction (see \sectref{sec:10.3.5}).
+A: word: andəra	 gloss: peanut
+B: word: mɛhɛr	 gloss: forehead
+C: word: dəraj	 gloss: head
+D: word: mɪ-ʒum-ɛ=uwla	 gloss: NOM-eat-CL=oneS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 70:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [Ø amɪ-ʒɪɗ-ɛ dəraj ___ waj
+Gloss (with missing item): { DEP-carry-CL head ___ who
+The English translation of this sentence is:‘Who will win?’ (lit. the one to carry the head, who?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In all of the above examples, the head noun can be modified by other modifiers in addition to the relative clause. Sometimes, however, the relative clause itself is the entire noun phrase (\ref{ex:5:107}--\ref{ex:5:108}). These noun phrases that consist of relative clauses take no other noun phrase modifiers. Also, they are apparently limited in the type of clause construction in which they can occur. They can only be the predicate of a larger predicate nomithe morpheme ___l construction (see \sectref{sec:10.1.2}). Examples \REF{ex:5:107} and \REF{ex:5:108} are interrogative constructions with a predicate nomithe morpheme ___l structure (see \sectref{sec:10.3.1}). We found no the morpheme ___tural examples where a headless relative clause served as a matrix component in a matrix verbal clause. Example \REF{ex:5:108} is an emphatic construction (see \sectref{sec:10.3.5}).
+A: word: à-vəl=ata	 gloss: 3S-give=3P.IO
+B: word: na	 gloss: PSP
+C: word: mə-mət=ava=alaj	 gloss: NOM-die=in=away
+D: word: na-faɗ	 gloss: oneS-place
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 71:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ amɪ-ʒɪɗ-ɛ dəraj na] waj
+Gloss (with missing item): ___ DEP-carry-CL head PSP who
+The English translation of this sentence is:‘Who will win?’ (lit. the one to carry the head, who?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In all of the above examples, the head noun can be modified by other modifiers in addition to the relative clause. Sometimes, however, the relative clause itself is the entire noun phrase (\refits gloss ___ex:5:107}--\refits gloss ___ex:5:108}). These noun phrases that consist of relative clauses take no other noun phrase modifiers. Also, they are apparently limited in the type of clause construction in which they can occur. They can only be the predicate of a larger predicate nominal construction (see \sectrefits gloss ___sec:10.1.2}). Examples \REFits gloss ___ex:5:107} and \REFits gloss ___ex:5:108} are interrogative constructions with a predicate nominal structure (see \sectrefits gloss ___sec:10.3.1}). We found no natural examples where a headless relative clause served as a matrix component in a matrix verbal clause. Example \REFits gloss ___ex:5:108} is an emphatic construction (see \sectrefits gloss ___sec:10.3.5}).
+A: word: =aka=ala	 gloss: =on=to
+B: word: amə-tar=alʊkʷøjɛ	 gloss: DEP-call=twoP.IO
+C: word: ø	 gloss: {
+D: word: dəraj	 gloss: head
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 72:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [Ø ___ dəraj na] waj
+Gloss (with missing item): { ___ head PSP who
+The English translation of this sentence is:‘Who will win?’ (lit. the one to carry the head, who?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In all of the above examples, the head noun can be modified by other modifiers in addition to the relative clause. Sometimes, however, the relative clause itself is the entire noun phrase (\ref{ex:5:107}--\ref{ex:5:108}). These noun phrases that consist of relative clauses take no other noun phrase modifiers. Also, they are apparently limited in the type of clause construction in which they can occur. They can only be the predicate of a larger predicate nominal construction (see \sectref{sec:10.1.2}). Examples \REF{ex:5:107} and \REF{ex:5:108} are interrogative constructions with a predicate nominal structure (see \sectref{sec:10.3.1}). We found no natural examples where a headless relative clause served as a matrix component in a matrix verbal clause. Example \REF{ex:5:108} is an emphatic construction (see \sectref{sec:10.3.5}).
+A: word: tə-dzap=ata	 gloss: 3P-group=3S.IO
+B: word: amɪ-ʒɪɗ-ɛ	 gloss: DEP-carry-CL
+C: word: mɪ-mbɪɗ-ɛ=ahaŋ	 gloss: NOM-remain-CL=3S.POSS
+D: word: ndahaŋ	 gloss: 3S
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 73:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [Ø amɪ-ʒɪɗ-ɛ ___ na] waj
+Gloss (with missing item): { DEP-carry-CL ___ PSP who
+The English translation of this sentence is:‘Who will win?’ (lit. the one to carry the head, who?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In all of the above examples, the its gloss ___ noun can be modified by other modifiers in addition to the relative clause. Sometimes, however, the relative clause itself is the entire noun phrase (\ref{ex:5:107}--\ref{ex:5:108}). These noun phrases that consist of relative clauses take no other noun phrase modifiers. Also, they are apparently limited in the type of clause construction in which they can occur. They can only be the predicate of a larger predicate nominal construction (see \sectref{sec:10.1.2}). Examples \REF{ex:5:107} and \REF{ex:5:108} are interrogative constructions with a predicate nominal structure (see \sectref{sec:10.3.1}). We found no natural examples where a its gloss ___less relative clause served as a matrix component in a matrix verbal clause. Example \REF{ex:5:108} is an emphatic construction (see \sectref{sec:10.3.5}).
+A: word: andəra	 gloss: peanut
+B: word: mɛhɛr	 gloss: forehead
+C: word: dəraj	 gloss: head
+D: word: malaŋ=ahaj	 gloss: great=Pl
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 74:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [Ø amɪ-ʒɪɗ-ɛ dəraj ___ waj
+Gloss (with missing item): { DEP-carry-CL head ___ who
+The English translation of this sentence is:‘Who will win?’ (lit. the one to carry the head, who?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In all of the above examples, the head noun can be modified by other modifiers in addition to the relative clause. Sometimes, however, the relative clause itself is the entire noun phrase (\ref{ex:5:107}--\ref{ex:5:108}). These noun phrases that consist of relative clauses take no other noun phrase modifiers. Also, they are apparently limited in the type of clause construction in which they can occur. They can only be the predicate of a larger predicate nomithe morpheme ___l construction (see \sectref{sec:10.1.2}). Examples \REF{ex:5:107} and \REF{ex:5:108} are interrogative constructions with a predicate nomithe morpheme ___l structure (see \sectref{sec:10.3.1}). We found no the morpheme ___tural examples where a headless relative clause served as a matrix component in a matrix verbal clause. Example \REF{ex:5:108} is an emphatic construction (see \sectref{sec:10.3.5}).
+A: word: na	 gloss: PSP
+B: word: na-faɗ	 gloss: oneS-place
+C: word: makar=ahaj	 gloss: three=Pl
+D: word: mala	 gloss: Mala
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 75:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [ɛlɛ=ahaj ___ amɪ-ʒɪɗ-ɛ na] aŋga=uwla baj
+Gloss (with missing item): thing=Pl ___ DEP-take-CL PSP POSS=oneS.POSS NEG
+The English translation of this sentence is:‘The things that you brought [are] not belonging to me.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Plural head nouns in noun phrases containing a relative clause have so far only been noted in elicited relative clauses and their interpretation is ambiguous. In these noun phrases, speakers insert the plural =ahay in one of two places: the plural =ahay can occur immediately following the head noun, or in some instances it may follow the relative clause. The plural precedes the relative clause in (\ref{ex:5:110}--\ref{ex:5:111}).
+A: word: tʃɛw	 gloss: two
+B: word: nɔkʷ	 gloss: twoS
+C: word: makar	 gloss: three
+D: word: nɔkʷ=va	 gloss: twoS=PRF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 76:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [ɛlɛ=ahaj nɔkʷ ___ na] aŋga=uwla baj
+Gloss (with missing item): thing=Pl twoS ___ PSP POSS=oneS.POSS NEG
+The English translation of this sentence is:‘The things that you brought [are] not belonging to me.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Plural head nouns in noun phrases containing a relative clause have so far only been noted in elicited relative clauses and their interpretation is ambiguous. In these noun phrases, speakers insert the plural =ahay in one of two places: the plural =ahay can occur immediately following the head noun, or in some instances it may follow the relative clause. The plural precedes the relative clause in (\ref{ex:5:110}--\ref{ex:5:111}).
+A: word: amɪ-g-ijɛ	 gloss: DEP-do-CL
+B: word: mɪ-mbɪɗ-ɛ=ahaŋ	 gloss: NOM-remain-CL=3S.POSS
+C: word: amɪ-ʒɪɗ-ɛ	 gloss: DEP-take-CL
+D: word: malaŋ=ahaj	 gloss: great=Pl
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 77:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [ɛlɛ=ahaj nɔkʷ amɪ-ʒɪɗ-ɛ ___ aŋga=uwla baj
+Gloss (with missing item): thing=Pl twoS DEP-take-CL ___ POSS=oneS.POSS NEG
+The English translation of this sentence is:‘The things that you brought [are] not belonging to me.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Plural head nouns in noun phrases containing a relative clause have so far only been noted in elicited relative clauses and their interpretation is ambiguous. In these noun phrases, speakers insert the plural =ahay in one of two places: the plural =ahay can occur immediately following the head noun, or in some instances it may follow the relative clause. The plural precedes the relative clause in (\ref{ex:5:110}--\ref{ex:5:111}).
+A: word: ɛnɛŋ	 gloss: another
+B: word: na	 gloss: PSP
+C: word: sij	 gloss: only
+D: word: na-faɗ	 gloss: oneS-place
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 78:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [mɪʒɛ=ahaj ___ dəraj na] tɔ-lɔ a mɔgʷɔm nə mɛmlɛ ga
+Gloss (with missing item): person=Pl ___ head PSP 3P-go at home with joy ADJ
+The English translation of this sentence is:‘The people that won went home with joy.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Plural head nouns in noun phrases containing a relative clause have so far only been noted in elicited relative clauses and their interpretation is ambiguous. In these noun phrases, speakers insert the plural =ahay in one of two places: the plural =ahay can occur immediately following the head noun, or in some instances it may follow the relative clause. The plural precedes the relative clause in (\ref{ex:5:110}--\ref{ex:5:111}).
+A: word: amɪ-ʒɪɗ-ɛ	 gloss: DEP-take-CL
+B: word: nɛ=ahaŋ	 gloss: oneS=3S.POSS
+C: word: amɪ-g-ijɛ	 gloss: DEP-do-CL
+D: word: mɪ-mbɪɗ-ɛ=ahaŋ	 gloss: NOM-remain-CL=3S.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 79:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [mɪʒɛ=ahaj amɪ-ʒɪɗ-ɛ ___ na] tɔ-lɔ a mɔgʷɔm nə mɛmlɛ ga
+Gloss (with missing item): person=Pl DEP-take-CL ___ PSP 3P-go at home with joy ADJ
+The English translation of this sentence is:‘The people that won went home with joy.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Plural its gloss ___ nouns in noun phrases containing a relative clause have so far only been noted in elicited relative clauses and their interpretation is ambiguous. In these noun phrases, speakers insert the plural =ahay in one of two places: the plural =ahay can occur immediately following the its gloss ___ noun, or in some instances it may follow the relative clause. The plural precedes the relative clause in (\ref{ex:5:110}--\ref{ex:5:111}).
+A: word: mɛhɛr	 gloss: forehead
+B: word: dəraj	 gloss: head
+C: word: ava	 gloss: in
+D: word: andəra	 gloss: peanut
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 80:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [mɪʒɛ=ahaj amɪ-ʒɪɗ-ɛ dəraj ___ tɔ-lɔ a mɔgʷɔm nə mɛmlɛ ga
+Gloss (with missing item): person=Pl DEP-take-CL head ___ 3P-go at home with joy ADJ
+The English translation of this sentence is:‘The people that won went home with joy.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Plural head nouns in noun phrases containing a relative clause have so far only been noted in elicited relative clauses and their interpretation is ambiguous. In these noun phrases, speakers insert the plural =ahay in one of two places: the plural =ahay can occur immediately following the head noun, or in some instances it may follow the relative clause. The plural precedes the relative clause in (\ref{ex:5:110}--\ref{ex:5:111}).
+A: word: haj=atəta	 gloss: house\hspaceThis{[=3P.POSS
+B: word: na-faɗ	 gloss: oneS-place
+C: word: na	 gloss: PSP
+D: word: ɛnɛŋ	 gloss: another
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 81:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ amɪ-ʒɪɗ-ɛ dəraj na] waj
+Gloss (with missing item): ___ DEP-carry-CL head PSP who
+The English translation of this sentence is:‘Who will win?’ (lit. the one to carry the head, who?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The end of the relative clause is sometimes delimited by the presupposition marker na (see \chaprefits gloss ___chap:11}). \REFits gloss ___ex:5:99} is repeated here as \REFits gloss ___ex:5:114} (see also \refits gloss ___ex:5:104}, \refits gloss ___ex:5:106}, \refits gloss ___ex:5:107}). Na indicates that the relative clause contains previously shared (or presupposed) information. Na also physically delineates the end of the relative clause. In \REFits gloss ___ex:5:114}, the presupposition marker na is underlined.
+A: word: a-s=aw	 gloss: 3S-please=oneS.IO
+B: word: ø	 gloss: {
+C: word: mə-mət=ava=alaj	 gloss: NOM-die=in=away
+D: word: amə-tar=alʊkʷøjɛ	 gloss: DEP-call=twoP.IO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 82:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [Ø ___ dəraj na] waj
+Gloss (with missing item): { ___ head PSP who
+The English translation of this sentence is:‘Who will win?’ (lit. the one to carry the head, who?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The end of the relative clause is sometimes delimited by the presupposition marker na (see \chapref{chap:11}). \REF{ex:5:99} is repeated here as \REF{ex:5:114} (see also \ref{ex:5:104}, \ref{ex:5:106}, \ref{ex:5:107}). Na indicates that the relative clause contains previously shared (or presupposed) information. Na also physically delineates the end of the relative clause. In \REF{ex:5:114}, the presupposition marker na is underlined.
+A: word: amɪ-ʒɪɗ-ɛ	 gloss: DEP-carry-CL
+B: word: mɪ-mbɪɗ-ɛ=ahaŋ	 gloss: NOM-remain-CL=3S.POSS
+C: word: dəraj	 gloss: head
+D: word: nawij	 gloss: oneS+said
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 83:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [Ø amɪ-ʒɪɗ-ɛ ___ na] waj
+Gloss (with missing item): { DEP-carry-CL ___ PSP who
+The English translation of this sentence is:‘Who will win?’ (lit. the one to carry the head, who?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The end of the relative clause is sometimes delimited by the presupposition marker na (see \chapref{chap:11}). \REF{ex:5:99} is repeated here as \REF{ex:5:114} (see also \ref{ex:5:104}, \ref{ex:5:106}, \ref{ex:5:107}). Na indicates that the relative clause contains previously shared (or presupposed) information. Na also physically delineates the end of the relative clause. In \REF{ex:5:114}, the presupposition marker na is underlined.
+A: word: mɛhɛr	 gloss: forehead
+B: word: andəra	 gloss: peanut
+C: word: dəraj	 gloss: head
+D: word: aŋga	 gloss: POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 84:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [Ø amɪ-ʒɪɗ-ɛ dəraj ___ waj
+Gloss (with missing item): { DEP-carry-CL head ___ who
+The English translation of this sentence is:‘Who will win?’ (lit. the one to carry the head, who?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The end of the relative clause is sometimes delimited by the presupposition marker the morpheme ___ (see \chapref{chap:11}). \REF{ex:5:99} is repeated here as \REF{ex:5:114} (see also \ref{ex:5:104}, \ref{ex:5:106}, \ref{ex:5:107}). Na indicates that the relative clause contains previously shared (or presupposed) information. Na also physically delineates the end of the relative clause. In \REF{ex:5:114}, the presupposition marker the morpheme ___ is underlined.
+A: word: a-tar=aŋ	 gloss: 3S-call=3S.IO
+B: word: na-faɗ	 gloss: oneS-place
+C: word: na	 gloss: PSP
+D: word: ɛnɛŋ=ahaj	 gloss: another=Pl
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 85:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [[zar] ___ [hʷɔr=ahaŋ]] tɔ-lɔ a mɛ-hɛl-ɛ ava
+Gloss (with missing item): man ___ woman=3S.POSS 3P-go at NOM-unite-CL in
+The English translation of this sentence is:‘A man and his wife went to the meeting.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The basic way to coordinate two participants in Moloko is to join two noun phrases by the adposition the morpheme ___ ‘its gloss ___’ (see \sectref{sec:5.6.1}). Modifiers will have semantic scope over both of the coordinated elements. In \REF{ex:5:117}--\REF{ex:5:119}, the noun phrases are delimited by square brackets and the adpositions are bolded.
+A: word: nə	 gloss: with
+B: word: nə-ndav=alaj	 gloss: oneS-finish=away
+C: word: sʊlɔm=ahaj	 gloss: good=Pl
+D: word: mɛ-mbɛʃ-ɛ	 gloss: \NOM-rest-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 86:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): t\'{ə}-ndaj t\'{ə}-tal-aj ___ lɪhɛ
+Gloss (with missing item): 3P+IFV-PRG 3P+IFV-walk-CL ___ bush
+The English translation of this sentence is:‘They were walking in the bush.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The preposition the morpheme ___ ‘the morpheme ___t’\footnote{This pthe morpheme ___rticle is the morpheme ___ homophone with the genitive pthe morpheme ___rticle (\sectref{sec:5.4.1}). } mthe morpheme ___rks the relthe morpheme ___tionship of locthe morpheme ___tion\is{Deixis!Locthe morpheme ___tionthe morpheme ___l} of the event (the morpheme ___t, to, in; \ref{ex:5:120}, \ref{ex:5:121}).
+A: word: a	 gloss: at
+B: word: ndahaŋ	 gloss: 3S
+C: word: nə-ndav=alaj	 gloss: oneS-finish=away
+D: word: tɛ-g-ɛ	 gloss: 3P-do-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 87:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): \`{ɔ}-lɔ ___ Marva
+Gloss (with missing item): 3S+PFV-go ___ Maroua
+The English translation of this sentence is:‘He/she went to Maroua.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The preposition the morpheme ___ ‘the morpheme ___t’\footnote{This pthe morpheme ___rticle is the morpheme ___ homophone with the genitive pthe morpheme ___rticle (\sectref{sec:5.4.1}). } mthe morpheme ___rks the relthe morpheme ___tionship of locthe morpheme ___tion\is{Deixis!Locthe morpheme ___tionthe morpheme ___l} of the event (the morpheme ___t, to, in; \ref{ex:5:120}, \ref{ex:5:121}).
+A: word: a	 gloss: at
+B: word: nə-ndav=alaj	 gloss: oneS-finish=away
+C: word: mɪ-ʒʊm-ɛ	 gloss: NOM-eat-CL
+D: word: ɛnɛŋ	 gloss: another
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 88:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tə-lɔ na ta-s=aŋ ɔkʷɔ ___ haj=atəta amɪ-g-ijɛ na=va
+Gloss (with missing item): 3P-go PSP 3P-cut=3S.DO fire ___ house=3P.POSS DEP-do-CL 3S.DO=PRF
+The English translation of this sentence is:‘They went and set fire to the house that they had built.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The adposition the morpheme ___ ‘to’ marks the indirect object which is the place where the action of the verb occurs; the recipient, benefactive, or malefactive (\ref{ex:5:122}, \ref{ex:5:123}, see \sectref{sec:9.2} for a discussion of semantic roles).
+A: word: an=aw	 gloss: DAT=oneS
+B: word: ana	 gloss: DAT
+C: word: azana	 gloss: maybe
+D: word: ɬɪrɛlɛ=ahaŋ=ahaj	 gloss: work=3S.POSS=Pl
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 89:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-dəkʷ=aka=alaj ___ Hʊrmbʊlɔm
+Gloss (with missing item): 3S-arrive=on=away ___ God
+The English translation of this sentence is:‘It reached God.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The adposition the morpheme ___ ‘to’ marks the indirect object which is the place where the action of the verb occurs; the recipient, benefactive, or malefactive (\ref{ex:5:122}, \ref{ex:5:123}, see \sectref{sec:9.2} for a discussion of semantic roles).
+A: word: awak=uwla	 gloss: goat=oneS.POSS
+B: word: ana	 gloss: DAT
+C: word: an=aw	 gloss: DAT=oneS
+D: word: azana	 gloss: maybe
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 90:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): na-ɬ-aj ɬa ___ mɛkɛtʃ
+Gloss (with missing item): oneS-slay-CL cow ___ knife
+The English translation of this sentence is:‘I kill the cow with a knife.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The adposition the morpheme ___ ‘its gloss ___’ marks the instrument \REF{ex:5:124} or comitative (accompaniment) relation (\ref{ex:5:125}, \ref{ex:5:126}; cf. \sectref{sec:5.5}). The adposition is also used to form the verb focus construction (\ref{ex:5:127}, see \sectref{sec:7.6.3}).
+A: word: nə-ndav=alaj	 gloss: oneS-finish=away
+B: word: nə	 gloss: with
+C: word: a-ndaɗ-aj	 gloss: 3S-love-CL
+D: word: nɛ=ahaŋ	 gloss: oneS=3S.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 91:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɔ-lɔ ___ zar=ahaŋ
+Gloss (with missing item): 3S-go ___ man=3S.POSS
+The English translation of this sentence is:‘She went with her husband.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The adposition the morpheme ___ ‘its gloss ___’ marks the instrument \REF{ex:5:124} or comitative (accompaniment) relation (\ref{ex:5:125}, \ref{ex:5:126}; cf. \sectref{sec:5.5}). The adposition is also used to form the verb focus construction (\ref{ex:5:127}, see \sectref{sec:7.6.3}).
+A: word: amə-tar=alʊkʷøjɛ	 gloss: DEP-call=twoP.IO
+B: word: a-mət	 gloss: 3S-die
+C: word: nə-ndav=alaj	 gloss: oneS-finish=away
+D: word: nə	 gloss: with
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 92:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n\`{ə}-sʊkʷɔm awak ___ mɪ-skʷøm-ɛ
+Gloss (with missing item): oneS+PFV-buy/sell goat ___ NOM-buy/sell-CL
+The English translation of this sentence is:‘I really bought the goat.’ (lit. I bought the goat with buying)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The adposition the morpheme ___ ‘its gloss ___’ marks the instrument \REF{ex:5:124} or comitative (accompaniment) relation (\ref{ex:5:125}, \ref{ex:5:126}; cf. \sectref{sec:5.5}). The adposition is also used to form the verb focus construction (\ref{ex:5:127}, see \sectref{sec:7.6.3}).
+A: word: nə-ndav=alaj	 gloss: oneS-finish=away
+B: word: ndahaŋ	 gloss: 3S
+C: word: nə	 gloss: with
+D: word: ŋgax	 gloss: hide
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 93:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Abaŋ ɔ-lɔ ___ jam
+Gloss (with missing item): Aban 3S-go ___ water
+The English translation of this sentence is:‘Aban goes to get water.’ (lit. she goes on water)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The adpositiits gloss ___ the morpheme ___ ‘its gloss ___’ is used with the verb lo ‘go’ to mark the purpose of a trip \REF{ex:5:132}.
+A: word: aka	 gloss: on
+B: word: ava	 gloss: in
+C: word: akar	 gloss: theft
+D: word: =aka	 gloss: =on
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 94:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [dəraj ga] ___ lɪmɛ]
+Gloss (with missing item): head ADJ ___ 1PEX
+The English translation of this sentence is:‘We got the head.’ (lit. the head, belonging to us)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The adposition anga indicates possession. The predicate possessive construction is discussed in \sectref{sec:10.1.2}. In the possessive construction, anga indicates a possessive relationship between the noun in the adpositional phrase and the other noun phrase in the construction. In \REF{ex:5:133}, anga indicates that dəray ‘head’ is possessed by ləme ‘us.’
+A: word: gam	 gloss: much
+B: word: aŋga=uwla	 gloss: POSS=oneS.POSS
+C: word: aŋga	 gloss: POSS
+D: word: a-gəs=aw	 gloss: 3S-catch=oneS.IO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 95:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): à-zaɗ ɔlɔkʷɔ ___ dəraj a muwta aka
+Gloss (with missing item): 3S+PFV-carry wood ___ head GEN truck on
+The English translation of this sentence is:‘He/she carried the wood on top of the truck.’ (lit. on the head of the truck)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are two complex adpositiits gloss ___al phrases, each composed of the combinatiits gloss ___ of a prepositiits gloss ___ and a postpositiits gloss ___ that surround the noun phrase. The adpositiits gloss ___s give locatiits gloss ___al\is{Deixis!Locatiits gloss ___al} informatiits gloss ___. The first, the morpheme ___…aka ‘its gloss ___’ marks the noun phrase as being a locatiits gloss ___ to which the event expressed by the verb is directed. It can be employed in a physical sense (\ref{ex:5:136}--\ref{ex:5:138}) or a figurative sense \REF{ex:5:139}.
+A: word: kə	 gloss: on
+B: word: aka	 gloss: on
+C: word: =aka	 gloss: =on
+D: word: a-tʃəkəɮ=aw	 gloss: 3S-forget=oneS.IO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 96:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): à-zaɗ ɔlɔkʷɔ kə dəraj a muwta ___
+Gloss (with missing item): 3S+PFV-carry wood on head GEN truck ___
+The English translation of this sentence is:‘He/she carried the wood on top of the truck.’ (lit. on the head of the truck)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are two complex adpositiits gloss ___al phrases, each composed of the combinatiits gloss ___ of a prepositiits gloss ___ and a postpositiits gloss ___ that surround the noun phrase. The adpositiits gloss ___s give locatiits gloss ___al\is{Deixis!Locatiits gloss ___al} informatiits gloss ___. The first, kə…the morpheme ___ ‘its gloss ___’ marks the noun phrase as being a locatiits gloss ___ to which the event expressed by the verb is directed. It can be employed in a physical sense (\ref{ex:5:136}--\ref{ex:5:138}) or a figurative sense \REF{ex:5:139}.
+A: word: aka	 gloss: on
+B: word: akar	 gloss: theft
+C: word: =aka	 gloss: =on
+D: word: nɛ=ahaŋ	 gloss: oneS=3S.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 97:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Hʊrmbʊlɔm a-gə ɓərav =va ___ war aŋga mɪʒɛ dɛdɛlɛŋ ga aka
+Gloss (with missing item): God 3S-do heart =PRF ___ child POSS person black ADJ on
+The English translation of this sentence is:‘God was angry with the black man’s child.’ (lit. God did heart on the child that belongs to the black person)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are two complex adpositiits gloss ___al phrases, each composed of the combinatiits gloss ___ of a prepositiits gloss ___ and a postpositiits gloss ___ that surround the noun phrase. The adpositiits gloss ___s give locatiits gloss ___al\is{Deixis!Locatiits gloss ___al} informatiits gloss ___. The first, kə…athe morpheme ___ ‘its gloss ___’ marks the noun phrase as being a locatiits gloss ___ to which the event expressed by the verb is directed. It can be employed in a physical sense (\ref{ex:5:136}--\ref{ex:5:138}) or a figurative sense \REF{ex:5:139}.
+A: word: =aka	 gloss: =on
+B: word: ka	 gloss: on
+C: word: haj=atəta	 gloss: house\hspaceThis{[=3P.POSS
+D: word: nə-kaɗ	 gloss: oneS-kill
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 98:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Hʊrmbʊlɔm a-gə ɓərav =va ka war aŋga mɪʒɛ dɛdɛlɛŋ ga ___
+Gloss (with missing item): God 3S-do heart =PRF on child POSS person black ADJ ___
+The English translation of this sentence is:‘God was angry with the black man’s child.’ (lit. God did heart on the child that belongs to the black person)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are two complex adpositiits gloss ___al phrases, each composed of the combinatiits gloss ___ of a prepositiits gloss ___ and a postpositiits gloss ___ that surround the noun phrase. The adpositiits gloss ___s give locatiits gloss ___al\is{Deixis!Locatiits gloss ___al} informatiits gloss ___. The first, kə…the morpheme ___ ‘its gloss ___’ marks the noun phrase as being a locatiits gloss ___ to which the event expressed by the verb is directed. It can be employed in a physical sense (\ref{ex:5:136}--\ref{ex:5:138}) or a figurative sense \REF{ex:5:139}.
+A: word: amə-tar=alʊkʷøjɛ	 gloss: DEP-call=twoP.IO
+B: word: aka	 gloss: on
+C: word: akar	 gloss: theft
+D: word: =aka	 gloss: =on
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 99:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɔ-lɔ ___ kɔsɔkʷɔ ava
+Gloss (with missing item): 3S-go ___ market in
+The English translation of this sentence is:‘He/she goes to market.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The second complex the morpheme ___dpositionthe morpheme ___l phrthe morpheme ___se, the morpheme ___…the morpheme ___vthe morpheme ___ ‘in,’ the preposition the morpheme ___nd postposition surround the morpheme ___ noun phrthe morpheme ___se to mthe morpheme ___rk ththe morpheme ___t noun phrthe morpheme ___se the morpheme ___s being the morpheme ___ physicthe morpheme ___l locthe morpheme ___tion in which the the morpheme ___ction of the verb is directed (\ref{ex:5:140} the morpheme ___nd \ref{ex:5:141}).
+A: word: makar	 gloss: three
+B: word: nə-ndav=alaj	 gloss: oneS-finish=away
+C: word: aka	 gloss: on
+D: word: a	 gloss: at
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 100:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɔ-lɔ a kɔsɔkʷɔ ___
+Gloss (with missing item): 3S-go at market ___
+The English translation of this sentence is:‘He/she goes to market.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The second complex adpositional phrase, a…the morpheme ___ ‘its gloss ___,’ the preposition and postposition surround a noun phrase to mark that noun phrase as beits gloss ___g a physical location its gloss ___ which the action of the verb is directed (\ref{ex:5:140} and \ref{ex:5:141}).
+A: word: mə-mət=ava=alaj	 gloss: NOM-die=in=away
+B: word: ava	 gloss: in
+C: word: ɗuw	 gloss: also
+D: word: amə-tar=alʊkʷøjɛ	 gloss: DEP-call=twoP.IO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 101:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-faɗ dala ___ ambɔlɔ ava
+Gloss (with missing item): 3S-put money ___ sack in
+The English translation of this sentence is:‘He/she put the money into [his] sack.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The second complex the morpheme ___dpositionthe morpheme ___l phrthe morpheme ___se, the morpheme ___…the morpheme ___vthe morpheme ___ ‘in,’ the preposition the morpheme ___nd postposition surround the morpheme ___ noun phrthe morpheme ___se to mthe morpheme ___rk ththe morpheme ___t noun phrthe morpheme ___se the morpheme ___s being the morpheme ___ physicthe morpheme ___l locthe morpheme ___tion in which the the morpheme ___ction of the verb is directed (\ref{ex:5:140} the morpheme ___nd \ref{ex:5:141}).
+A: word: a	 gloss: at
+B: word: nə-ndav=alaj	 gloss: oneS-finish=away
+C: word: =ala	 gloss: =to
+D: word: haj=atəta	 gloss: house\hspaceThis{[=3P.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 102:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-faɗ dala a ambɔlɔ ___
+Gloss (with missing item): 3S-put money at sack ___
+The English translation of this sentence is:‘He/she put the money into [his] sack.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The second complex adpositional phrase, a…the morpheme ___ ‘its gloss ___,’ the preposition and postposition surround a noun phrase to mark that noun phrase as beits gloss ___g a physical location its gloss ___ which the action of the verb is directed (\ref{ex:5:140} and \ref{ex:5:141}).
+A: word: ava	 gloss: in
+B: word: mə-mət=ava=alaj	 gloss: NOM-die=in=away
+C: word: ɗuw	 gloss: also
+D: word: gam	 gloss: much
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 103:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ war ɛlɛ haj na kə vɛr aka
+Gloss (with missing item): ___ child eye millet PSP on stone on
+The English translation of this sentence is:‘She put the grain of millet on the grinding stone.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The postpositions aka ‘on’ and ava ‘in’ have the same forms as the verb adpositional\is{Adpositionals} extensions =aka ‘on’ and =ava ‘in’ (see \sectref{sec:7.5.1}). The extensions permit the presence of the complex adpositional phrase which gives further precision concerning the location of the event (\ref{ex:5:142} and \ref{ex:5:143}\footnote{Even though the verb in this example has verbal extensions, it is not conjugated for subject since it is a climactic point in the story where nominalised forms are often found. This is discussed further in Sections \ref{sec:7.6} and \ref{sec:8.2.3}.}). In the examples, the postpositions and verbal extensions are both bolded.
+A: word: a-paɗ=aka	 gloss: 3S-crunch=on
+B: word: a-faɗ	 gloss: 3S-put
+C: word: a-fəɗ=aka	 gloss: 3S-place=on
+D: word: amə-tar=alʊkʷøjɛ	 gloss: DEP-call=twoP.IO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 104:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-fəɗ=aka war ɛlɛ haj na ___ vɛr aka
+Gloss (with missing item): 3S-place=on child eye millet PSP ___ stone on
+The English translation of this sentence is:‘She put the grain of millet on the grinding stone.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The postpositiits gloss ___s aka ‘its gloss ___’ and ava ‘in’ have the same forms as the verb adpositiits gloss ___al\is{Adpositiits gloss ___als} extensiits gloss ___s =aka ‘its gloss ___’ and =ava ‘in’ (see \sectref{sec:7.5.1}). The extensiits gloss ___s permit the presence of the complex adpositiits gloss ___al phrase which gives further precisiits gloss ___ cits gloss ___cerning the locatiits gloss ___ of the event (\ref{ex:5:142} and \ref{ex:5:143}\footnote{Even though the verb in this example has verbal extensiits gloss ___s, it is not cits gloss ___jugated for subject since it is a climactic point in the story where nominalised forms are often found. This is discussed further in Sectiits gloss ___s \ref{sec:7.6} and \ref{sec:8.2.3}.}). In the examples, the postpositiits gloss ___s and verbal extensiits gloss ___s are both bolded.
+A: word: =aka	 gloss: =on
+B: word: a-tʃəkəɮ=aw	 gloss: 3S-forget=oneS.IO
+C: word: kə	 gloss: on
+D: word: ndam	 gloss: people
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 105:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-fəɗ=aka war ɛlɛ haj na kə vɛr ___
+Gloss (with missing item): 3S-place=on child eye millet PSP on stone ___
+The English translation of this sentence is:‘She put the grain of millet on the grinding stone.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The postpositiits gloss ___s the morpheme ___ ‘its gloss ___’ and ava ‘in’ have the same forms as the verb adpositiits gloss ___al\is{Adpositiits gloss ___als} extensiits gloss ___s =the morpheme ___ ‘its gloss ___’ and =ava ‘in’ (see \sectref{sec:7.5.1}). The extensiits gloss ___s permit the presence of the complex adpositiits gloss ___al phrase which gives further precisiits gloss ___ cits gloss ___cerning the locatiits gloss ___ of the event (\ref{ex:5:142} and \ref{ex:5:143}\footnote{Even though the verb in this example has verbal extensiits gloss ___s, it is not cits gloss ___jugated for subject since it is a climactic point in the story where nominalised forms are often found. This is discussed further in Sectiits gloss ___s \ref{sec:7.6} and \ref{sec:8.2.3}.}). In the examples, the postpositiits gloss ___s and verbal extensiits gloss ___s are both bolded.
+A: word: akar	 gloss: theft
+B: word: =aka	 gloss: =on
+C: word: aka	 gloss: on
+D: word: amɪ-ʒɪɗ-ɛ	 gloss: DEP-take-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 106:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ a vɛr ava
+Gloss (with missing item): ___ at room in
+The English translation of this sentence is:‘She died in the room.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The postpositions aka ‘on’ and ava ‘in’ have the same forms as the verb adpositional\is{Adpositionals} extensions =aka ‘on’ and =ava ‘in’ (see \sectref{sec:7.5.1}). The extensions permit the presence of the complex adpositional phrase which gives further precision concerning the location of the event (\ref{ex:5:142} and \ref{ex:5:143}\footnote{Even though the verb in this example has verbal extensions, it is not conjugated for subject since it is a climactic point in the story where nominalised forms are often found. This is discussed further in Sections \ref{sec:7.6} and \ref{sec:8.2.3}.}). In the examples, the postpositions and verbal extensions are both bolded.
+A: word: mə-mət=ava=alaj	 gloss: NOM-die=in=away
+B: word: mə-kəɗ	 gloss: NOM-kill
+C: word: a-fəɗ=aka	 gloss: 3S-place=on
+D: word: ava=alaj	 gloss: EXT+in=away
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 107:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mə-mət=ava=alaj ___ vɛr ava
+Gloss (with missing item): NOM-die=in=away ___ room in
+The English translation of this sentence is:‘She died in the room.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The postpositions the morpheme ___kthe morpheme ___ ‘on’ the morpheme ___nd the morpheme ___vthe morpheme ___ ‘in’ hthe morpheme ___ve the sthe morpheme ___me forms the morpheme ___s the verb the morpheme ___dpositionthe morpheme ___l\is{Adpositionthe morpheme ___ls} extensions =the morpheme ___kthe morpheme ___ ‘on’ the morpheme ___nd =the morpheme ___vthe morpheme ___ ‘in’ (see \sectref{sec:7.5.1}). The extensions permit the presence of the complex the morpheme ___dpositionthe morpheme ___l phrthe morpheme ___se which gives further precision concerning the locthe morpheme ___tion of the event (\ref{ex:5:142} the morpheme ___nd \ref{ex:5:143}\footnote{Even though the verb in this exthe morpheme ___mple hthe morpheme ___s verbthe morpheme ___l extensions, it is not conjugthe morpheme ___ted for subject since it is the morpheme ___ climthe morpheme ___ctic point in the story where nominthe morpheme ___lised forms the morpheme ___re often found. This is discussed further in Sections \ref{sec:7.6} the morpheme ___nd \ref{sec:8.2.3}.}). In the exthe morpheme ___mples, the postpositions the morpheme ___nd verbthe morpheme ___l extensions the morpheme ___re both bolded.
+A: word: nə-ndav=alaj	 gloss: oneS-finish=away
+B: word: a	 gloss: at
+C: word: gam	 gloss: much
+D: word: baba=ahaŋ	 gloss: father=3S.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 108:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mə-mət=ava=alaj a vɛr ___
+Gloss (with missing item): NOM-die=in=away at room ___
+The English translation of this sentence is:‘She died in the room.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The postpositions aka ‘on’ and the morpheme ___ ‘its gloss ___’ have the same forms as the verb adpositional\is{Adpositionals} extensions =aka ‘on’ and =the morpheme ___ ‘its gloss ___’ (see \sectref{sec:7.5.1}). The extensions permit the presence of the complex adpositional phrase which gives further precision concernits gloss ___g the location of the event (\ref{ex:5:142} and \ref{ex:5:143}\footnote{Even though the verb its gloss ___ this example has verbal extensions, it is not conjugated for subject sits gloss ___ce it is a climactic poits gloss ___t its gloss ___ the story where nomits gloss ___alised forms are often found. This is discussed further its gloss ___ Sections \ref{sec:7.6} and \ref{sec:8.2.3}.}). In the examples, the postpositions and verbal extensions are both bolded.
+A: word: ava	 gloss: in
+B: word: amɛ-ʒ-ɛ	 gloss: DEP-take-CL
+C: word: ɗuw	 gloss: also
+D: word: mə-mət=ava=alaj	 gloss: NOM-die=in=away
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+

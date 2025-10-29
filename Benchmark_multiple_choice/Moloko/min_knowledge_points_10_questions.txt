@@ -1,0 +1,832 @@
+Question 0:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ albaja=ahaj tɔ-lɔ a lɪhɛ
+Gloss (with missing item): ___ youth=Pl 3P+PFV-go at bush
+The English translation of this sentence is:‘Yesterday the youths went to the bush.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The first element in the clause can be a temporal noun phrase (\ref{ex:10:1}).
+A: word: apazaŋ	 gloss: yesterday
+B: word: ɛgɪnɛ	 gloss: today
+C: word: mɛj	 gloss: how?
+D: word: azana	 gloss: maybe
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 1:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ à-həm-aj
+Gloss (with missing item): ___ 3S+PFV-run-CL
+The English translation of this sentence is:‘Hawa ran.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The subject is expressed by the subject pronominal on the verb (\sectref{sec:7.3.1}). A coreferential noun phrase can be present for discourse functions (\ref{ex:10:2} and \ref{ex:10:3}). The coreferential noun phrase precedes the verb.
+A: word: hawa	 gloss: Hawa
+B: word: ana	 gloss: DAT
+C: word: alma	 gloss: what
+D: word: awak=ahaj	 gloss: goat=Pl
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 2:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ n\'{ɔ}-zɔm na
+Gloss (with missing item): ___ 3S+PFV-eat 3S.DO
+The English translation of this sentence is:‘I myself ate it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The subject is expressed by the subject pronominal on the verb (\sectref{sec:7.3.1}). A coreferential noun phrase can be present for discourse functions (\ref{ex:10:2} and \ref{ex:10:3}). The coreferential noun phrase precedes the verb.
+A: word: maj	 gloss: what
+B: word: ɛlɛ=ahaŋ	 gloss: thing=3S.POSS
+C: word: mɪ-mbɪɗ-ɛ=ahaŋ	 gloss: NOM-remain-CL=3S.POSS
+D: word: nɛ=ahaŋ	 gloss: oneS=3S.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 3:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [babəza=ahaj nɪndijɛ] ___ bahaj]
+Gloss (with missing item): children=Pl DEM ___ chief
+The English translation of this sentence is:‘The children here belong to the chief.’ / ‘The children here[are] belonging to the chief.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Predicate nominal (\ref{ex:10:10}--\ref{ex:10:12}), predicate adjective \REF{ex:10:13}, and predicate possessive (\ref{ex:10:14} and \ref{ex:10:15}) clauses lack any verb and consist of a juxtaposition of two noun phrases, in an order shown in \figref{fig:17}.
+A: word: aŋga=uwla	 gloss: POSS=oneS.POSS
+B: word: ɛtɛ	 gloss: please
+C: word: aŋga	 gloss: POSS
+D: word: mɪ-nʒ-ijɛ	 gloss: NOM-sit-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 4:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [dəraj ga] ___ lɪmɛ]
+Gloss (with missing item): head ADJ ___ 1PEX
+The English translation of this sentence is:‘The head belonged to us.’/ ‘The head [was] belonging to us.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Predicate nominal (\ref{ex:10:10}--\ref{ex:10:12}), predicate adjective \REF{ex:10:13}, and predicate possessive (\ref{ex:10:14} and \ref{ex:10:15}) clauses lack any verb and consist of a juxtaposition of two noun phrases, in an order shown in \figref{fig:17}.
+A: word: haj=va	 gloss: millet=PRF
+B: word: aŋga=uwla	 gloss: POSS=oneS.POSS
+C: word: kaj	 gloss: interj.
+D: word: aŋga	 gloss: POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 5:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [à-l=ala ___
+Gloss (with missing item): 3S+PFV-go=to ___
+The English translation of this sentence is:‘He/she didn’t come.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The all-purpose negative is the particle bay, which follows the verb phrase and occurs (\ref{ex:10:19}--\ref{ex:10:21}) before any interrogative word (see \sectref{sec:10.3}). In the examples in this section, the negative is bolded and the negation construction is in square brackets.
+A: word: ɗaw	 gloss: {Q
+B: word: asa-baj	 gloss: again-NEG
+C: word: dər=aka=ala	 gloss: move[twoS.IMP]=on=to
+D: word: baj	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 6:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [táá-ɮəg=alaj avʊlɔ ___
+Gloss (with missing item): 3P+POT-throw=away above ___
+The English translation of this sentence is:‘They should not throw it too high.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The all-purpose negative is the particle bay, which follows the verb phrase and occurs (\ref{ex:10:19}--\ref{ex:10:21}) before any interrogative word (see \sectref{sec:10.3}). In the examples in this section, the negative is bolded and the negation construction is in square brackets.
+A: word: asa-baj	 gloss: again-NEG
+B: word: baj	 gloss: NEG
+C: word: a-dz=aŋ	 gloss: 3S-speak=3S.IO
+D: word: alma	 gloss: what
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 7:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [ta-g=aw ɛlɛ lala ___
+Gloss (with missing item): 3P-do=oneS.IO thing good ___
+The English translation of this sentence is:‘They do bad things to me.’ / ‘They don’t do good things to me.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:10:22}--\ref{ex:10:24}) the negative is clause-final and may have sematic scope over the entire proposition (c.f. constituent negation, \sectref{sec:10.2.3}). See especially \REF{ex:10:23} where it is clear that the entire proposition is being negated, and not just the information within the constituent closest to the negative. The meaning is ‘don’t insult a small person.’ If the information in only one constituent was being negated, the meaning would have been ‘insult a person who is not small.’
+A: word: asa-baj	 gloss: again-NEG
+B: word: alma	 gloss: what
+C: word: l-ɔm	 gloss: go[IMP]-twoP
+D: word: baj	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 8:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [à-ndaj dɪrɛŋ ___
+Gloss (with missing item): 3S+PFV-PRG far ___
+The English translation of this sentence is:‘He/she was not far.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:10:22}--\ref{ex:10:24}) the negative is clause-final and may have sematic scope over the entire proposition (c.f. constituent negation, \sectref{sec:10.2.3}). See especially \REF{ex:10:23} where it is clear that the entire proposition is being negated, and not just the information within the constituent closest to the negative. The meaning is ‘don’t insult a small person.’ If the information in only one constituent was being negated, the meaning would have been ‘insult a person who is not small.’
+A: word: mɛmɛ	 gloss: how
+B: word: baj	 gloss: NEG
+C: word: asa-baj	 gloss: again-NEG
+D: word: a-həm-aj	 gloss: 3S-run-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 9:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [ká-ras-aj mɪʒɛ tʃɪɗɛw ga ___
+Gloss (with missing item): twoS+IFV-minimise-CL person smallness ADJ ___
+The English translation of this sentence is:‘Don’t insult one of the little people.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:10:22}--\ref{ex:10:24}) the negative is clause-final and may have sematic scope over the entire proposition (c.f. constituent negation, \sectref{sec:10.2.3}). See especially \REF{ex:10:23} where it is clear that the entire proposition is being negated, and not just the information within the constituent closest to the negative. The meaning is ‘don’t insult a small person.’ If the information in only one constituent was being negated, the meaning would have been ‘insult a person who is not small.’
+A: word: hawa	 gloss: Hawa
+B: word: asa-baj	 gloss: again-NEG
+C: word: na-ɬ-aj	 gloss: oneS-slay-CL
+D: word: baj	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 10:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndahaŋ gədaŋ ga ___
+Gloss (with missing item): 3S strength ADJ ___
+The English translation of this sentence is:‘He/she is not strong.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: For clausal negation, there is no change in word order and no change in clause constituents apart from the addition of the clause final negative particle. A negative clause asserts that some event or state does not hold. Various types of clausal negation in Moloko are illustrated in (\ref{ex:10:28}--\ref{ex:10:43}). Each pair of examples represents a positive and a negative assertion for comparison.
+A: word: ava	 gloss: in
+B: word: amɪ-g-ijɛ	 gloss: DEP-do-CL
+C: word: asa-baj	 gloss: again-NEG
+D: word: baj	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 11:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-həm-aj ___
+Gloss (with missing item): 3S-run-CL ___
+The English translation of this sentence is:‘He/she doesn’t run.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The negation of an intransitive clause is illustrated in \REF{ex:10:28} and \REF{ex:10:29}.
+A: word: asa-baj	 gloss: again-NEG
+B: word: ɛtɛj	 gloss: please
+C: word: baj	 gloss: NEG
+D: word: pɛw	 gloss: enough
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 12:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-s=aw ʃɛʃɛ ___
+Gloss (with missing item): 3S-please=oneS.IO meat ___
+The English translation of this sentence is:‘I do not want meat.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: THe negation of a transitive clause is shown in (\ref{ex:10:30}--\ref{ex:10:35}).
+A: word: asa-baj	 gloss: again-NEG
+B: word: a-həm-aj	 gloss: 3S-run-CL
+C: word: kamaj	 gloss: why
+D: word: baj	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 13:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): dala an=aw aka ___
+Gloss (with missing item): money DAT=oneS EXT+on ___
+The English translation of this sentence is:‘I have no money.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The negation of existentials is shown in (\ref{ex:10:36}--\ref{ex:10:39}).
+A: word: asa-baj	 gloss: again-NEG
+B: word: hawa	 gloss: Hawa
+C: word: ta-kaɗ	 gloss: 3P-kill
+D: word: baj	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 14:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndahaŋ gədaŋ ga ___
+Gloss (with missing item): 3S strength ADJ ___
+The English translation of this sentence is:‘He/she is not strong.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The negation of a predicate adjective is illustrated in (\ref{ex:10:40}--\ref{ex:10:43}).
+A: word: asa-baj	 gloss: again-NEG
+B: word: ambɔlɔ	 gloss: sack
+C: word: ɛpɛlɛj	 gloss: when
+D: word: baj	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 15:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɛhɛ, [ɔ-lɔ a kɔsɔkʷɔ ava] ___ ɛ-nʒ-ɛ a mɔgʷɔm
+Gloss (with missing item): no 3S-go at market in ___ 3S-stay-CL at home
+The English translation of this sentence is:‘No, he isn’t going to the market; rather he is staying at home (or going to the chief’s house).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Most frequently, it seems that the element closest to the negative that is under the scope of negation, even though a clause-final negative marker can have scope over the whole verb phrase or even over the entire clause. To negate only one constituent in a clause, the clause is sometimes rearranged so that the constituent that is negated is placed in the clause-final position adjacent to the negation particle. Examples (\ref{ex:10:44}--\ref{ex:10:46}) show a question \REF{ex:10:44} with two responses (\ref{ex:10:45}--\ref{ex:10:46}) where each of the two ambiguous elements is negated. The subject (Mana) is part of the presupposition (marked off by na in the question, see \sectref{sec:11.2}). In \REF{ex:10:45} the oblique is negated and in \REF{ex:10:46} the entire predicate. The clauses were not restructured since the elements in question were already clause-final. In the following examples, the element that is negated is delimited by square brackets and the negative is bolded.
+A: word: baj	 gloss: NEG
+B: word: asa-baj	 gloss: again-NEG
+C: word: ɬɪrɛlɛ=ahaŋ=ahaj	 gloss: work=3S.POSS=Pl
+D: word: wɛlɛj	 gloss: which
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 16:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɛhɛ, [ɔ-lɔ a kɔsɔkʷɔ ava] ___ ɛ-nʒ-ɛ a mɔgʷɔm
+Gloss (with missing item): no 3S-go at market in ___ 3S-stay-CL at home
+The English translation of this sentence is:‘No, he isn’t going to the market; rather he is staying at home (or going to the chief’s house).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Most frequently, it seems that the element closest to the negative that is under the scope of negation, even though a clause-final negative marker can have scope over the whole verb phrase or even over the entire clause. To negate only one constituent in a clause, the clause is sometimes rearranged so that the constituent that is negated is placed in the clause-final position adjacent to the negation particle. Examples (\ref{ex:10:44}--\ref{ex:10:46}) show a question \REF{ex:10:44} with two responses (\ref{ex:10:45}--\ref{ex:10:46}) where each of the two ambiguous elements is negated. The subject (Mana) is part of the presupposition (marked off by na in the question, see \sectref{sec:11.2}). In \REF{ex:10:45} the oblique is negated and in \REF{ex:10:46} the entire predicate. The clauses were not restructured since the elements in question were already clause-final. In the following examples, the element that is negated is delimited by square brackets and the negative is bolded.
+A: word: tawij	 gloss: 3P+said
+B: word: asa-baj	 gloss: again-NEG
+C: word: baj	 gloss: NEG
+D: word: kaj	 gloss: interj.
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 17:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɛhɛ, [ɔ-lɔ a kɔsɔkʷɔ ava] ___ ɛ-nʒ-ɛ a mɔgʷɔm
+Gloss (with missing item): no 3S-go at market in ___ 3S-stay-CL at home
+The English translation of this sentence is:‘No, he isn’t going to the market; rather he is staying at home (or going to the chief’s house).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Most frequently, it seems that the element closest to the negative that is under the scope of negation, even though a clause-final negative marker can have scope over the whole verb phrase or even over the entire clause. To negate only one constituent in a clause, the clause is sometimes rearranged so that the constituent that is negated is placed in the clause-final position adjacent to the negation particle. Examples (\ref{ex:10:44}--\ref{ex:10:46}) show a question \REF{ex:10:44} with two responses (\ref{ex:10:45}--\ref{ex:10:46}) where each of the two ambiguous elements is negated. The subject (Mana) is part of the presupposition (marked off by na in the question, see \sectref{sec:11.2}). In \REF{ex:10:45} the oblique is negated and in \REF{ex:10:46} the entire predicate. The clauses were not restructured since the elements in question were already clause-final. In the following examples, the element that is negated is delimited by square brackets and the negative is bolded.
+A: word: asa-baj	 gloss: again-NEG
+B: word: à-ts=aw	 gloss: 3S+PFV-understand=oneS.IO
+C: word: baj	 gloss: NEG
+D: word: wɛlɛj	 gloss: which
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 18:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɛhɛ à-vəl=aŋ [kɪndɛw] ___ à-vəl=aŋ tʃɛtʃœkʷ
+Gloss (with missing item): no 3S+PFV-give=3S.IO guitar ___ 3S+PFV-give=3S.IO flute
+The English translation of this sentence is:‘No, he didn’t give a guitar to his father, he gave him a flute.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples (\ref{ex:10:47}--\ref{ex:10:50}) show some restructuring when different constituents are negated. Example \REF{ex:10:47} illustrates a question and \REF{ex:10:48} to \REF{ex:10:50} illustrate three possible answers, each negating a different constituent. Normal SVO structure is maintained for all answers. The responses each use two clauses. The first clause expresses the negation of the element in final position, and the second restates the clause giving the corrected information. In each case the first clause is restructured so as to move the element to be negated to the clause-final position. The response in \REF{ex:10:48} indicates that the hearer accepts 'that Mana gave the guitar to someone,' but it was not his father. In this clause, kəndew ‘guitar’ is realised as the \oldstylenums{3}\textsc{s} \DO pronominal. The response in \REF{ex:10:49} indicates 'that Mana gave something to his father,' but not a guitar. In this case, the adpositional phrase ana baba ahan ‘to his father’ is replaced by the indirect object pronominal so that the negated element kəndew ‘guitar’ can be placed next to the negative.
+A: word: ta-nd-aj	 gloss: 3P-PROG-CL
+B: word: baj	 gloss: NEG
+C: word: asa-baj	 gloss: again-NEG
+D: word: mɛj	 gloss: how?
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 19:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zar à-mənzar ___
+Gloss (with missing item): man 3S+PFV-see ___
+The English translation of this sentence is:‘Who did the man see?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The first clause structure that is employed is the verbal clause structure (SVO), but with substitution of a question word. The verbal clause structure is rearranged in the same manner as for constituent negation (see \sectref{sec:10.2.3}) in order to position the questioned element in the clause-final position so that it is replaced by the interrogative pronoun. Information questions in verbal clauses are paired with a response in (\ref{ex:10:53}--\ref{ex:10:65}) so that the structure of the interrogative clause can be compared with that of the declarative. Examples in this section are given in pairs. The first example in the pair shows the interrogative construction. The second example is the clause with the information filled in for comparison.
+A: word: ɗaw	 gloss: {Q
+B: word: waja	 gloss: because
+C: word: mɪʒɛ	 gloss: person
+D: word: waj	 gloss: who
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 20:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n\'{ɔ}-lɔ ___ kɔsɔkʷɔ ava]
+Gloss (with missing item): oneS+PFV-go ___ market in
+The English translation of this sentence is:‘I went to market.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The first clthe morpheme ___use structure ththe morpheme ___t is employed is the verbthe morpheme ___l clthe morpheme ___use structure (SVO), but with substitution of the morpheme ___ question word. The verbthe morpheme ___l clthe morpheme ___use structure is rethe morpheme ___rrthe morpheme ___nged in the sthe morpheme ___me mthe morpheme ___nner the morpheme ___s for constituent negthe morpheme ___tion (see \sectref{sec:10.2.3}) in order to position the questioned element in the clthe morpheme ___use-finthe morpheme ___l position so ththe morpheme ___t it is replthe morpheme ___ced by the interrogthe morpheme ___tive pronoun. Informthe morpheme ___tion questions in verbthe morpheme ___l clthe morpheme ___uses the morpheme ___re pthe morpheme ___ired with the morpheme ___ response in (\ref{ex:10:53}--\ref{ex:10:65}) so ththe morpheme ___t the structure of the interrogthe morpheme ___tive clthe morpheme ___use cthe morpheme ___n be compthe morpheme ___red with ththe morpheme ___t of the declthe morpheme ___rthe morpheme ___tive. Exthe morpheme ___mples in this section the morpheme ___re given in pthe morpheme ___irs. The first exthe morpheme ___mple in the pthe morpheme ___ir shows the interrogthe morpheme ___tive construction. The second exthe morpheme ___mple is the clthe morpheme ___use with the informthe morpheme ___tion filled in for compthe morpheme ___rison.
+A: word: nə-ndav=alaj	 gloss: oneS-finish=away
+B: word: a	 gloss: at
+C: word: nɪŋgɛhɛ	 gloss: DEM
+D: word: nɛ=ahaŋ	 gloss: oneS=3S.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 21:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n\'{ɔ}-lɔ [a kɔsɔkʷɔ ___
+Gloss (with missing item): oneS+PFV-go at market ___
+The English translation of this sentence is:‘I went to market.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The first clause structure that is employed is the verbal clause structure (SVO), but with substitution of a question word. The verbal clause structure is rearranged its gloss ___ the same manner as for constituent negation (see \sectref{sec:10.2.3}) its gloss ___ order to position the questioned element its gloss ___ the clause-fits gloss ___al position so that it is replaced by the its gloss ___terrogative pronoun. Information questions its gloss ___ verbal clauses are paired with a response its gloss ___ (\ref{ex:10:53}--\ref{ex:10:65}) so that the structure of the its gloss ___terrogative clause can be compared with that of the declarative. Examples its gloss ___ this section are given its gloss ___ pairs. The first example its gloss ___ the pair shows the its gloss ___terrogative construction. The second example is the clause with the its gloss ___formation filled its gloss ___ for comparison.
+A: word: ɗuw	 gloss: also
+B: word: mə-mət=ava=alaj	 gloss: NOM-die=in=away
+C: word: ava	 gloss: in
+D: word: alma	 gloss: what
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 22:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zar à-mənzar ___
+Gloss (with missing item): man 3S+PFV-see ___
+The English translation of this sentence is:‘Who did the man see?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \largerpage The direct object is questioned in \REF{ex:10:53}. The presupposed information is that the man saw someone. Note that there are no other elements that follow the direct object in the verb phrase. The interrogative pronoun fills the direct object slot (identified by square brackets).
+A: word: waja	 gloss: because
+B: word: mɪʒɛ	 gloss: person
+C: word: apazaŋ	 gloss: yesterday
+D: word: waj	 gloss: who
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 23:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): hʷɔr ɛ-dɛ [ɛlɛlɛ ___
+Gloss (with missing item): woman 3S-prepare sauce ___
+The English translation of this sentence is:‘The woman is making which kind of sauce?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A noun modifier is questioned in \REF{ex:10:55}. The presupposed information is that the woman made some kind of sauce, and the question seeks to find out what kind of sauce. The interrogative pronoun weley ‘its gloss ___’ is within the noun phrase delimited by square brackets in the example. Even though the interrogative pronoun is inside a noun phrase, that noun phrase is clause-final so the interrogative pronoun is the final word in the clause.
+A: word: wɛlɛj	 gloss: which
+B: word: malmaj	 gloss: what
+C: word: ɛpɛlɛj	 gloss: when
+D: word: maj	 gloss: what
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 24:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): k\`{ə}-l=ala [amɪ-g-ijɛ ___
+Gloss (with missing item): twoS+PFV-go=to DEP-do-CL ___
+The English translation of this sentence is:‘What have you come to do?’ (lit. you have come to do what?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{ex:10:57} questions the direct object of a subordinate clause, in this case a purpose adverbial clause (delimited by square brackets). The presupposed information is that the listener has come to do something. The interrogative pronoun almay ‘its gloss ___’ is clause-final since the adverbial clause has no other elements following the direct object. Two possible responses are shown in \REF{ex:10:58}--\REF{ex:10:59}.
+A: word: baj	 gloss: NEG
+B: word: malmaj	 gloss: what
+C: word: almaj	 gloss: what
+D: word: wɛlɛj	 gloss: which
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 25:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): hʷɔr ɔ-lɔ a kɔsɔkʷɔ ava ___
+Gloss (with missing item): woman 3S-go at market in ___
+The English translation of this sentence is:‘When is the woman going to market?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:10:62} and \REF{ex:10:64}, an oblique is questioned. The presupposed information is that the woman plans to go to market sometime. The interrogative pronoun is the temporal element in the clause in \REF{ex:10:62}. While temporal noun phrases can occur clause-initially, the interrogative pronoun is again found in the clause-final position.
+A: word: ɛpɛlɛj	 gloss: when
+B: word: ɗaw	 gloss: {Q
+C: word: ɛpɛlɛj~	 gloss: when
+D: word: kʊlɔ	 gloss: before
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 26:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): k\'{ɔ}-lɔ ___
+Gloss (with missing item): twoS+PFV-go ___
+The English translation of this sentence is:‘Where did you go?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:10:62} and \REF{ex:10:64}, an oblique is questioned. The presupposed information is that the woman plans to go to market sometime. The interrogative pronoun is the temporal element in the clause in \REF{ex:10:62}. While temporal noun phrases can occur clause-initially, the interrogative pronoun is again found in the clause-final position.
+A: word: amtamaj	 gloss: where
+B: word: kamaj	 gloss: why
+C: word: ɬam	 gloss: place
+D: word: ɛtɛj	 gloss: please
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 27:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): hʷɔr ɔ-lɔ a kɔsɔkʷɔ ava ___
+Gloss (with missing item): woman 3S-go at market in ___
+The English translation of this sentence is:‘When is the woman going to market?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:10:62} and \REF{ex:10:64}, an oblique is questioned. The presupposed information is that the woman plans to go to market sometime. The interrogative pronoun is the temporal element in the clause in \REF{ex:10:62}. While temporal noun phrases can occur clause-initially, the interrogative pronoun is again found in the clause-final position.
+A: word: ɛpɛlɛj	 gloss: when
+B: word: ɗaw	 gloss: {Q
+C: word: ɛpɛlɛj~	 gloss: when
+D: word: kʊlɔ	 gloss: before
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 28:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): k\'{ɔ}-lɔ ___
+Gloss (with missing item): twoS+PFV-go ___
+The English translation of this sentence is:‘Where did you go?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The elements within non-core adpositional phrases are questioned using the generic location question word amtamay ‘its gloss ___’ \REF{ex:10:64}. This generic location question word does not need to be located inside an adpositional phrase, eliminating the possibility that the locational postposition would follow the interrogative pronoun in the clause allowing the interrogative pronoun to be clause-final. The presupposed information is that the hearer is going someits gloss ___.
+A: word: kamaj	 gloss: why
+B: word: amtamaj	 gloss: where
+C: word: aŋga	 gloss: POSS
+D: word: ɬam	 gloss: place
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 29:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɔgʷɔm nɛhɛ [aŋga ___
+Gloss (with missing item): house DEM POSS ___
+The English translation of this sentence is:‘This house here belongs to whom?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The second clause structure that is employed for interrogative constructions is the predicate nominal. The predicate nominal structure is employed for questioning an element of a predicate nominal clause. (\ref{ex:10:66}–\ref{ex:10:71}) are example pairs where the first of each pair is a question and the second is a possible response. In \REF{ex:10:66} an aspect of the nominal is questioned with the interrogative pronoun in a prepositional phrase. The prepositional phrase is delimited by square brackets.
+A: word: mɪʒɛ	 gloss: person
+B: word: waj	 gloss: who
+C: word: almaj	 gloss: what
+D: word: waja	 gloss: because
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 30:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɔgʷɔm nɛhɛ [aŋga ___
+Gloss (with missing item): house DEM POSS ___
+The English translation of this sentence is:‘This house here belongs to whom?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The second clause structure that is employed for interrogative constructions is the predicate nominal. The predicate nominal structure is employed for questioning an element of a predicate nominal clause. (\ref{ex:10:66}–\ref{ex:10:71}) are example pairs where the first of each pair is a question and the second is a possible response. In \REF{ex:10:66} an aspect of the nominal is questioned with the interrogative pronoun in a prepositional phrase. The prepositional phrase is delimited by square brackets.
+A: word: amtamaj	 gloss: where
+B: word: mɪʒɛ	 gloss: person
+C: word: waja	 gloss: because
+D: word: waj	 gloss: who
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 31:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɔgʷɔm=aŋgʷɔ ___
+Gloss (with missing item): home=twoS.POSS ___
+The English translation of this sentence is:‘Where is your home?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:10:68} and \REF{ex:10:70}, the interrogative word itself is the predicate.
+A: word: hawa	 gloss: Hawa
+B: word: amtamaj	 gloss: where
+C: word: kamaj	 gloss: why
+D: word: ɬam	 gloss: place
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 32:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bahaj a ɬala=alʊkʷøjɛ na ___
+Gloss (with missing item): chief GEN village=twoP.POSS PSP ___
+The English translation of this sentence is:‘The chief of your village is who?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:10:68} and \REF{ex:10:70}, the interrogative word itself is the predicate.
+A: word: mɪʒɛ	 gloss: person
+B: word: waja	 gloss: because
+C: word: waj	 gloss: who
+D: word: kamaj	 gloss: why
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 33:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): amɪ-ʒɪɗ-ɛ dəraj na ___
+Gloss (with missing item): DEP-take-CL head PSP ___
+The English translation of this sentence is:‘Who will win?’ (lit. the one that takes the head [is] who?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \REF{ex:10:75} and \REF{ex:10:77} show two other predicate nominal clauses that question what would be the subject of an otherwise verbal clause. \REF{ex:10:76} and \REF{ex:10:78} are possible responses to these questions.
+A: word: amtamaj	 gloss: where
+B: word: waj	 gloss: who
+C: word: mɪʒɛ	 gloss: person
+D: word: waja	 gloss: because
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 34:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mala a-vəl=aŋ ___ \ulp{ana}{~} \ulp{məlama}{~}\ulp{=ahaŋ}{~~~~} \ule{na}
+Gloss (with missing item): Mala 3S-give=3S.IO ___ DAT sibling=3S.POSS PSP
+The English translation of this sentence is:‘Mala gave what to his brother?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The third structure for content information questions uses a right-shifted na{}-marked element (see \sectref{sec:11.3}). This structure is employed in cases where it is impossible for a questioned verb phrase element to be clause-final. In \REF{ex:10:79}, the direct object is questioned. In this case the direct object cannot be clause-final since it is necessary to include the information ana məlama ahan ‘to his brother,’ and the prepositional phrase must follow the direct object in the verb phrase (\chapref{chap:8}). Thus in the interrogative structure, the interrogative pronoun replaces the direct object and the rest of the clause is put into a post-posed na{}-marked phrase (underlined in this example). A possible response is shown in \REF{ex:10:80}.
+A: word: wɛlɛj	 gloss: which
+B: word: almaj	 gloss: what
+C: word: hawa	 gloss: Hawa
+D: word: malmaj	 gloss: what
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 35:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zar na ndahaŋ baba a Mala ___
+Gloss (with missing item): man PSP 3S father GEN Mala ___
+The English translation of this sentence is:‘That man, is he Mala’s father?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Yes/no questions are interrogative clauses which can be answered by a simple ‘yes’ or ‘no’ – they are not asking for content in the reply. Moloko uses the interrogative marker the morpheme ___ at the end of what is otherwise a declarative clause to create yes/no interrogatives. Pure yes-no questions can be answered with either yes or no, but in Moloko there is often a degree of expectation to the question.\footnote{Expectation is a central element in understanding Moloko grammar (see \sectref{sec:7.4.3}), as is what constitutes shared information with the hearer (see \chapref{chap:11}). Questions are constructed in Moloko with that knowledge and expectation in mind, even when seeking new information. Tag questions are discussed in \sectref{sec:10.3.3}.} When a speaker asks a yes/no question (\ref{ex:10:81}–\ref{ex:10:83}), they are usually expecting an affirmative reply.
+A: word: =ava	 gloss: \hspaceThis{[=in
+B: word: mɛmɛ	 gloss: how
+C: word: a-s=aw	 gloss: 3S-please=oneS.IO
+D: word: ɗaw	 gloss: {Q
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 36:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zar=aŋgʷɔ ndahaŋ aba ___
+Gloss (with missing item): man=twoS.POSS 3S EXT ___
+The English translation of this sentence is:‘Is your husband well?’ (part of a greeting; lit. your husband, does he exist?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Yes/no questions are interrogative clauses which can be answered by a simple ‘yes’ or ‘no’ – they are not asking for content in the reply. Moloko uses the interrogative marker the morpheme ___ at the end of what is otherwise a declarative clause to create yes/no interrogatives. Pure yes-no questions can be answered with either yes or no, but in Moloko there is often a degree of expectation to the question.\footnote{Expectation is a central element in understanding Moloko grammar (see \sectref{sec:7.4.3}), as is what constitutes shared information with the hearer (see \chapref{chap:11}). Questions are constructed in Moloko with that knowledge and expectation in mind, even when seeking new information. Tag questions are discussed in \sectref{sec:10.3.3}.} When a speaker asks a yes/no question (\ref{ex:10:81}–\ref{ex:10:83}), they are usually expecting an affirmative reply.
+A: word: a-s=aw	 gloss: 3S-please=oneS.IO
+B: word: =ava	 gloss: \hspaceThis{[=in
+C: word: alma	 gloss: what
+D: word: ɗaw	 gloss: {Q
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 37:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mana na á-l=ala ___
+Gloss (with missing item): Mana PSP 3S+IPV-go=to ___
+The English translation of this sentence is:'Mana, is he coming?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:10:82}, the speaker expects that Mana is on his way; he is asking for confirmation (but a negative response is always possible). Likewise in \REF{ex:10:83}, he expects that the referent zar ango ‘your husband’ is well.
+A: word: a-s=aw	 gloss: 3S-please=oneS.IO
+B: word: alma	 gloss: what
+C: word: =ava	 gloss: \hspaceThis{[=in
+D: word: ɗaw	 gloss: {Q
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 38:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zar=aŋgʷɔ ndahaŋ aba ___
+Gloss (with missing item): man=twoS.POSS 3S EXT ___
+The English translation of this sentence is:‘Is your husband well?’ (part of a greeting; lit. your husband, does he exist?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:10:82}, the speaker expects that Mana is on his way; he is asking for confirmation (but a negative response is always possible). Likewise in \REF{ex:10:83}, he expects that the referent zar ango ‘your husband’ is well.
+A: word: a-s=aw	 gloss: 3S-please=oneS.IO
+B: word: almaj	 gloss: what
+C: word: =ava	 gloss: \hspaceThis{[=in
+D: word: ɗaw	 gloss: {Q
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 39:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): baba=aŋgʷɔ ndahaŋ ava a mɔgʷɔm ___
+Gloss (with missing item): father=twoS.POSS 3S EXT+in at home ___
+The English translation of this sentence is:‘Is your father in?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There is often an even stronger affirmative expectation when the question is negated. Compare the positive and negative pairs of questions (\ref{ex:10:84}–\ref{ex:10:89}). Some of the negated questions can be used rhetorically (see \sectref{sec:10.3.4}), since the speaker already knows that the answer is yes. In the examples, the interrogative markers and the negative particles are bolded.
+A: word: a-s=aw	 gloss: 3S-please=oneS.IO
+B: word: ɗaw	 gloss: {Q
+C: word: =ava	 gloss: \hspaceThis{[=in
+D: word: maj	 gloss: what
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 40:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): məlama=aŋgʷɔ á-l=ala ___ ɗaw
+Gloss (with missing item): sibling=twoS.POSS 3S+IFV-go=to ___ {Q
+The English translation of this sentence is:‘Is your brother not coming?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There is often an even stronger affirmative expectation when the question is negated. Compare the positive and negative pairs of questions (\ref{ex:10:84}–\ref{ex:10:89}). Some of the negated questions can be used rhetorically (see \sectref{sec:10.3.4}), since the speaker already knows that the answer is yes. In the examples, the interrogative markers and the negative particles are bolded.
+A: word: tʃɪɗɛw	 gloss: smallness
+B: word: asa-baj	 gloss: again-NEG
+C: word: ɛtɛ	 gloss: please
+D: word: baj	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 41:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): məlama=aŋgʷɔ á-l=ala baj ___
+Gloss (with missing item): sibling=twoS.POSS 3S+IFV-go=to NEG ___
+The English translation of this sentence is:‘Is your brother not coming?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There is often an even stronger affirmative expectation when the question is negated. Compare the positive and negative pairs of questions (\ref{ex:10:84}–\ref{ex:10:89}). Some of the negated questions can be used rhetorically (see \sectref{sec:10.3.4}), since the speaker already knows that the answer is yes. In the examples, the interrogative markers and the negative particles are bolded.
+A: word: =ava	 gloss: \hspaceThis{[=in
+B: word: ɗaw	 gloss: {Q
+C: word: nɛ=ahaŋ	 gloss: oneS=3S.POSS
+D: word: a-s=aw	 gloss: 3S-please=oneS.IO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 42:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): awak=aŋgʷɔ na káá-ɬ-aj na ___
+Gloss (with missing item): goat=twoS.POSS PSP twoS+POT-slay-CL 3S.DO ___
+The English translation of this sentence is:‘Your goat, are you going to slaughter it?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As is the case for the negation construction (see \sectref{sec:10.2.3}), it could be that the entire proposition in the clause is being questioned. However, it is often the case that only the final constituent is being questioned. Often the clause is restructured when a constituent of the clause is questioned so that the constituent is in final position. In \REF{ex:10:90} the direct object is fronted and marked as presupposed (it is the topic of discussion) so that the other elements in the clause are questioned (see \sectref{sec:10.3.2}). See also \REF{ex:10:82} where the subject is marked as presupposed and it is whether or not he is coming that is being questioned.
+A: word: a-s=aw	 gloss: 3S-please=oneS.IO
+B: word: ɛtɛ	 gloss: please
+C: word: =ava	 gloss: \hspaceThis{[=in
+D: word: ɗaw	 gloss: {Q
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 43:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mana na á-l=ala ___
+Gloss (with missing item): Mana PSP 3S+IPV-go=to ___
+The English translation of this sentence is:'Mana, is he coming?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As is the case for the negation construction (see \sectref{sec:10.2.3}), it could be that the entire proposition in the clause is being questioned. However, it is often the case that only the final constituent is being questioned. Often the clause is restructured when a constituent of the clause is questioned so that the constituent is in final position. In \REF{ex:10:90} the direct object is fronted and marked as presupposed (it is the topic of discussion) so that the other elements in the clause are questioned (see \sectref{sec:10.3.2}). See also \REF{ex:10:82} where the subject is marked as presupposed and it is whether or not he is coming that is being questioned.
+A: word: a-s=aw	 gloss: 3S-please=oneS.IO
+B: word: ɗaw	 gloss: {Q
+C: word: =ava	 gloss: \hspaceThis{[=in
+D: word: almaj	 gloss: what
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 44:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [sʊlɔm ga] ___
+Gloss (with missing item): goodness ADJ ___
+The English translation of this sentence is:‘[Is that] good?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Other question tags are evaluative. Example \REF{ex:10:94} is a question tag asked in a context where the speaker is examining something physically (perhaps at the market as he is considering to buy it) or analysing and evaluating an event.
+A: word: a-s=aw	 gloss: 3S-please=oneS.IO
+B: word: =ava	 gloss: \hspaceThis{[=in
+C: word: ɗaw	 gloss: {Q
+D: word: nɛ=ahaŋ	 gloss: oneS=3S.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 45:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɪʒɛ=ahaj ta-g=aw ɛlɛ lala baj ___
+Gloss (with missing item): person=Pl 3P-do=oneS.IO thing good NEG ___
+The English translation of this sentence is:‘The people had no reason to do this bad thing to me.’ (lit. the people did the bad thing to me why?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In a rhetorical question, the speaker is not pragmatically asking for information. Rather, the questions can be evaluative, may carry an element of reproach, or may be a mild command. The context gives the rhetorical force. Some rhetorical questions have a special emphatic structure (see \sectref{sec:10.3.5}) but many have the normal interrogative structure for a content question (\ref{ex:10:95}–\ref{ex:10:96}, see \sectref{sec:10.3.1}). For example, the speaker is not seeking an explanation when he asks kamay ‘its gloss ___’ in \REF{ex:10:95}. More probably he is making a strong statement, ‘the people had no reason to do this bad thing to me.’ Likewise in \REF{ex:10:96}, the speaker is saying that the listener will listen to no one.
+A: word: kamaj	 gloss: why
+B: word: waj	 gloss: who
+C: word: waja	 gloss: because
+D: word: amtamaj	 gloss: where
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 46:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɪʒɛ=ahaj ta-g=aw ɛlɛ lala baj ___
+Gloss (with missing item): person=Pl 3P-do=oneS.IO thing good NEG ___
+The English translation of this sentence is:‘The people had no reason to do this bad thing to me.’ (lit. the people did the bad thing to me why?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In a rhetorical question, the speaker is not pragmatically asking for information. Rather, the questions can be evaluative, may carry an element of reproach, or may be a mild command. The context gives the rhetorical force. Some rhetorical questions have a special emphatic structure (see \sectref{sec:10.3.5}) but many have the normal interrogative structure for a content question (\ref{ex:10:95}–\ref{ex:10:96}, see \sectref{sec:10.3.1}). For example, the speaker is not seeking an explanation when he asks kamay ‘its gloss ___’ in \REF{ex:10:95}. More probably he is making a strong statement, ‘the people had no reason to do this bad thing to me.’ Likewise in \REF{ex:10:96}, the speaker is saying that the listener will listen to no one.
+A: word: waja	 gloss: because
+B: word: kamaj	 gloss: why
+C: word: mɛj	 gloss: how?
+D: word: amtamaj	 gloss: where
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 47:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): k\'{ɔ}-lɔ ɛlɛ=aŋgʷɔ sʊlɔm ga baj ___
+Gloss (with missing item): twoS+IFV-go thing=twoS.POSS good ADJ NEG ___
+The English translation of this sentence is:‘[If] you mind your own business (lit. go to your things), [is that] not good?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Other rhetorical questions have the same structure as a tag question (\ref{ex:10:97}–\ref{ex:10:98}, see \sectref{sec:10.3.3}). However either there is no expected answer or the expected answer is the opposite of that for a normal yes/no tag question. For example, during the telling of the text from which \REF{ex:10:97} is taken, when the storyteller asked the rhetorical question lala the morpheme ___ ‘[is that] good?’ the people in the audience replied lala bay ‘[it is] not good.’ (even though the answer was obvious from the story). Likewise, in \REF{ex:10:98}, the audience replied səlom ga ‘[it is] good’ to the rhetorical question səlom ga bay the morpheme ___ ‘[is that] not good?’
+A: word: a-s=aw	 gloss: 3S-please=oneS.IO
+B: word: ɗaw	 gloss: {Q
+C: word: =ava	 gloss: \hspaceThis{[=in
+D: word: maj	 gloss: what
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 48:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): k\'{ɔ}-lɔ ɛlɛ=aŋgʷɔ sʊlɔm ga baj ___
+Gloss (with missing item): twoS+IFV-go thing=twoS.POSS good ADJ NEG ___
+The English translation of this sentence is:‘[If] you mind your own business (lit. go to your things), [is that] not good?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Other rhetorical questions have the same structure as a tag question (\ref{ex:10:97}–\ref{ex:10:98}, see \sectref{sec:10.3.3}). However either there is no expected answer or the expected answer is the opposite of that for a normal yes/no tag question. For example, during the telling of the text from which \REF{ex:10:97} is taken, when the storyteller asked the rhetorical question lala the morpheme ___ ‘[is that] good?’ the people in the audience replied lala bay ‘[it is] not good.’ (even though the answer was obvious from the story). Likewise, in \REF{ex:10:98}, the audience replied səlom ga ‘[it is] good’ to the rhetorical question səlom ga bay the morpheme ___ ‘[is that] not good?’
+A: word: =ava	 gloss: \hspaceThis{[=in
+B: word: a-s=aw	 gloss: 3S-please=oneS.IO
+C: word: ɗaw	 gloss: {Q
+D: word: ɛtɛ	 gloss: please
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 49:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): \ \ ___ amə-g=ɔk na waj
+Gloss (with missing item): \ \ ___ DEP-do=twoS.IO 3S.DO who
+The English translation of this sentence is:\ \ ‘What is wrong?’ / ‘Stop crying!’ (lit. who to do it to you, who)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These reduced interrogative pronouns are the morpheme ___ (from the morpheme ___y ‘its gloss ___’) in \REF{ex:10:100}, \REF{ex:10:102}, \REF{ex:10:103}, may and alma (from almay ‘what’) in \REF{ex:10:101} and \REF{ex:10:104}, respectively, malma (from malmay ‘what’) in \REF{ex:10:105}, and meme and mey (from memey ‘how’) in \REF{ex:10:106}.
+A: word: waja	 gloss: because
+B: word: aŋga	 gloss: POSS
+C: word: mɪʒɛ	 gloss: person
+D: word: wa	 gloss: who
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 50:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): \ \ wa amə-g=ɔk na ___
+Gloss (with missing item): \ \ who DEP-do=twoS.IO 3S.DO ___
+The English translation of this sentence is:\ \ ‘What is wrong?’ / ‘Stop crying!’ (lit. who to do it to you, who)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These reduced interrogative pronouns are wa (from way ‘its gloss ___’) in \REF{ex:10:100}, \REF{ex:10:102}, \REF{ex:10:103}, may and alma (from almay ‘what’) in \REF{ex:10:101} and \REF{ex:10:104}, respectively, malma (from malmay ‘what’) in \REF{ex:10:105}, and meme and mey (from memey ‘how’) in \REF{ex:10:106}.
+A: word: waj	 gloss: who
+B: word: ɛtɛ	 gloss: please
+C: word: waja	 gloss: because
+D: word: mɪʒɛ	 gloss: person
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 51:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ a-ndaɗ-aj waj
+Gloss (with missing item): ___ 3S-love-CL who
+The English translation of this sentence is:‘Who loves whom?' / ‘No one loves him.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These reduced interrogative pronouns are the morpheme ___ (from the morpheme ___y ‘its gloss ___’) in \REF{ex:10:100}, \REF{ex:10:102}, \REF{ex:10:103}, may and alma (from almay ‘what’) in \REF{ex:10:101} and \REF{ex:10:104}, respectively, malma (from malmay ‘what’) in \REF{ex:10:105}, and meme and mey (from memey ‘how’) in \REF{ex:10:106}.
+A: word: ɛtɛ	 gloss: please
+B: word: waja	 gloss: because
+C: word: mɪʒɛ	 gloss: person
+D: word: wa	 gloss: who
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 52:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wa a-ndaɗ-aj ___
+Gloss (with missing item): who 3S-love-CL ___
+The English translation of this sentence is:‘Who loves whom?' / ‘No one loves him.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These reduced interrogative pronouns are wa (from way ‘its gloss ___’) in \REF{ex:10:100}, \REF{ex:10:102}, \REF{ex:10:103}, may and alma (from almay ‘what’) in \REF{ex:10:101} and \REF{ex:10:104}, respectively, malma (from malmay ‘what’) in \REF{ex:10:105}, and meme and mey (from memey ‘how’) in \REF{ex:10:106}.
+A: word: waj	 gloss: who
+B: word: mɪʒɛ	 gloss: person
+C: word: waja	 gloss: because
+D: word: alma	 gloss: what
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 53:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ka-gɛ ___ ana war ga maj
+Gloss (with missing item): twoS-do ___ DAT child ADJ what
+The English translation of this sentence is:‘What are you doing to the child, what?’ / ‘Stop doing that!’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These reduced interrogative pronouns are wa (from way ‘who’) in \REF{ex:10:100}, \REF{ex:10:102}, \REF{ex:10:103}, may and alma (from almay ‘its gloss ___’) in \REF{ex:10:101} and \REF{ex:10:104}, respectively, malma (from malmay ‘its gloss ___’) in \REF{ex:10:105}, and meme and mey (from memey ‘how’) in \REF{ex:10:106}.
+A: word: amtamaj	 gloss: where
+B: word: wɛlɛj	 gloss: which
+C: word: maj	 gloss: what
+D: word: aŋga	 gloss: POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 54:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ka-gɛ maj ana war ga ___
+Gloss (with missing item): twoS-do what DAT child ADJ ___
+The English translation of this sentence is:‘What are you doing to the child, what?’ / ‘Stop doing that!’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These reduced interrogative pronouns are wa (from way ‘who’) in \REF{ex:10:100}, \REF{ex:10:102}, \REF{ex:10:103}, may and alma (from almay ‘its gloss ___’) in \REF{ex:10:101} and \REF{ex:10:104}, respectively, malma (from malmay ‘its gloss ___’) in \REF{ex:10:105}, and meme and mey (from memey ‘how’) in \REF{ex:10:106}.
+A: word: aŋga	 gloss: POSS
+B: word: maj	 gloss: what
+C: word: amtamaj	 gloss: where
+D: word: wɛlɛj	 gloss: which
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 55:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ amə-dəv=ala ɔkʷfɔm na maj
+Gloss (with missing item): ___ DEP-trip=to mouse PSP what
+The English translation of this sentence is:‘What was it that made that mouse fall? What?' / ‘What else [but a snake] makes a mouse fall?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These reduced interrogative pronouns are wa (from way ‘who’) in \REF{ex:10:100}, \REF{ex:10:102}, \REF{ex:10:103}, may and the morpheme ___ (from the morpheme ___y ‘its gloss ___’) in \REF{ex:10:101} and \REF{ex:10:104}, respectively, mthe morpheme ___ (from mthe morpheme ___y ‘its gloss ___’) in \REF{ex:10:105}, and meme and mey (from memey ‘how’) in \REF{ex:10:106}.
+A: word: malmaj	 gloss: what
+B: word: alma	 gloss: what
+C: word: apazaŋ	 gloss: yesterday
+D: word: wɛlɛj	 gloss: which
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 56:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): alma amə-dəv=ala ɔkʷfɔm na ___
+Gloss (with missing item): what DEP-trip=to mouse PSP ___
+The English translation of this sentence is:‘What was it that made that mouse fall? What?' / ‘What else [but a snake] makes a mouse fall?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These reduced interrogative pronouns are wa (from way ‘who’) in \REF{ex:10:100}, \REF{ex:10:102}, \REF{ex:10:103}, may and alma (from almay ‘its gloss ___’) in \REF{ex:10:101} and \REF{ex:10:104}, respectively, malma (from malmay ‘its gloss ___’) in \REF{ex:10:105}, and meme and mey (from memey ‘how’) in \REF{ex:10:106}.
+A: word: maj	 gloss: what
+B: word: kaj	 gloss: interj.
+C: word: amtamaj	 gloss: where
+D: word: wɛlɛj	 gloss: which
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 57:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ a-wəl=ɔkʷ maj
+Gloss (with missing item): ___ 3S-hurt=twoS.IO what
+The English translation of this sentence is:‘What is bothering (hurting) you? What?’ / ‘Nothing should be bothering you.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These reduced interrogative pronouns are wa (from way ‘who’) in \REF{ex:10:100}, \REF{ex:10:102}, \REF{ex:10:103}, may and alma (from almay ‘its gloss ___’) in \REF{ex:10:101} and \REF{ex:10:104}, respectively, the morpheme ___ (from the morpheme ___y ‘its gloss ___’) in \REF{ex:10:105}, and meme and mey (from memey ‘how’) in \REF{ex:10:106}.
+A: word: malma	 gloss: what
+B: word: wɛlɛj	 gloss: which
+C: word: apazaŋ	 gloss: yesterday
+D: word: malmaj	 gloss: what
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 58:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): malma a-wəl=ɔkʷ ___
+Gloss (with missing item): what 3S-hurt=twoS.IO ___
+The English translation of this sentence is:‘What is bothering (hurting) you? What?’ / ‘Nothing should be bothering you.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These reduced interrogative pronouns are wa (from way ‘who’) in \REF{ex:10:100}, \REF{ex:10:102}, \REF{ex:10:103}, may and alma (from almay ‘its gloss ___’) in \REF{ex:10:101} and \REF{ex:10:104}, respectively, malma (from malmay ‘its gloss ___’) in \REF{ex:10:105}, and meme and mey (from memey ‘how’) in \REF{ex:10:106}.
+A: word: amtamaj	 gloss: where
+B: word: maj	 gloss: what
+C: word: hawa	 gloss: Hawa
+D: word: wɛlɛj	 gloss: which
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 59:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ɛ-g-ɛ mɛj
+Gloss (with missing item): ___ 3S-do-CL how?
+The English translation of this sentence is:‘What happened?’ / ‘Why did you do that?’ / ‘Stop the foolishness.’ (lit. how did it do?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These reduced interrogative pronouns are wa (from way ‘who’) in \REF{ex:10:100}, \REF{ex:10:102}, \REF{ex:10:103}, may and alma (from almay ‘what’) in \REF{ex:10:101} and \REF{ex:10:104}, respectively, malma (from malmay ‘what’) in \REF{ex:10:105}, and meme and mey (from memey ‘its gloss ___’) in \REF{ex:10:106}.
+A: word: mɛmɛj	 gloss: how
+B: word: waj	 gloss: who
+C: word: mɛj	 gloss: how?
+D: word: mɛmɛ	 gloss: how
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 60:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛmɛ ɛ-g-ɛ ___
+Gloss (with missing item): how 3S-do-CL ___
+The English translation of this sentence is:‘What happened?’ / ‘Why did you do that?’ / ‘Stop the foolishness.’ (lit. how did it do?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These reduced interrogative pronouns are wa (from way ‘who’) in \REF{ex:10:100}, \REF{ex:10:102}, \REF{ex:10:103}, may and alma (from almay ‘what’) in \REF{ex:10:101} and \REF{ex:10:104}, respectively, malma (from malmay ‘what’) in \REF{ex:10:105}, and meme and mey (from memey ‘how’) in \REF{ex:10:106}.
+A: word: mɛmɛj	 gloss: how
+B: word: mɛj	 gloss: how?
+C: word: mɛmɛ	 gloss: how
+D: word: ɛpɛlɛj	 gloss: when
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 61:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndɛ na a-s=aw na g=aw na ___
+Gloss (with missing item): so PSP 3S-please=oneS.IO PSP do=oneS.IO 3S.DO ___
+The English translation of this sentence is:‘So I want that you do that for me, please.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The word etey or ete ‘its gloss ___’ can be added to other clause types (\ref{ex:10:110}--\ref{ex:10:111}, line 5 in \tabref{tab:83}) to achieve a milder pragmatic imperative force than the use of the construction without the polite adverb.
+A: word: ɛtɛj	 gloss: please
+B: word: ɗuw	 gloss: also
+C: word: nɛ=ahaŋ	 gloss: oneS=3S.POSS
+D: word: ɛtɛ	 gloss: please
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 62:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n\'{ə}-nzak-aj jam ___ ɗaw
+Gloss (with missing item): oneS+IFV-find-CL water ___ {Q
+The English translation of this sentence is:‘Could you please get me some water?’ (lit. can I find water please)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The word etey or ete ‘its gloss ___’ can be added to other clause types (\ref{ex:10:110}--\ref{ex:10:111}, line 5 in \tabref{tab:83}) to achieve a milder pragmatic imperative force than the use of the construction without the polite adverb.
+A: word: ɛtɛmɛ	 gloss: onion
+B: word: ɗuw	 gloss: also
+C: word: ava	 gloss: in
+D: word: ɛtɛ	 gloss: please
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 63:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ n\`{ɛ}-g-ɛ na baj
+Gloss (with missing item): ___ oneS+PFV-do-CL 3S.DO NEG
+The English translation of this sentence is:‘No, I didn’t do it!’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Exclamatory sentences have either an interjection at the initial position \REF{ex:10:118} or one of several exclamatory adverbs at the final position (\ref{ex:10:119}–\ref{ex:10:122}). In the examples, the interjections and exclamatory adverbs are bolded.
+A: word: ava	 gloss: in
+B: word: apazaŋ	 gloss: yesterday
+C: word: kaj	 gloss: interj.
+D: word: arsakaj	 gloss: Arsakay
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+

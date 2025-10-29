@@ -1,0 +1,13 @@
+Question 0:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nà-har=alaj [awak=ahaj babəɗ=ahaj ___ a mɔgʷɔm
+Gloss (with missing item): oneS+PFV-carry=away goat=Pl white=Pl ___ at home
+The English translation of this sentence is:‘I carried the white goats home.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Note that in adjectivised noun phrases, other constituents must also be pluralised (Section 5.3 examples \ref{ex:5:47}--\ref{ex:5:49})
+A: word: mbʊkʷɔ=ahaj	 gloss: Mbuko=Pl
+B: word: ga	 gloss: ADJ
+C: word: aba	 gloss: EXT
+D: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+

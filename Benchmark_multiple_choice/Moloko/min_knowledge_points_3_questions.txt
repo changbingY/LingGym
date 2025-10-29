@@ -1,0 +1,1001 @@
+Question 0:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ na à-vəl=aŋ dalaj ana Arsakaj
+Gloss (with missing item): ___ PSP 3S+PFV-give=3S.IO girl DAT Arsakay
+The English translation of this sentence is:‘He [for his part], he gave the girl to Arsakay.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the subject is replaced by a free pronoun \REF{ex:3:2}, the pronoun must be marked as presupposed in the clause (see \sectref{sec:11.2}). Note that since the subject is pronominalised in the verb word a subject noun phrase is not required (see \sectref{sec:7.3.1}); the presence of any noun phrase or free pronoun is for pragmatic purposes.
+A: word: ndahaŋ	 gloss: 3S
+B: word: mɪ-mbɪɗ-ɛ=ahaŋ	 gloss: NOM-remain-CL=3S.POSS
+C: word: tɔhʷɔ	 gloss: DEM
+D: word: a-ndaj	 gloss: 3S-be
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 1:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mala à-vəl=aŋ ___ ana Arsakaj
+Gloss (with missing item): Mala 3S+PFV-give=3S.IO ___ DAT Arsakay
+The English translation of this sentence is:‘Mala gave her to Arsakay.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the direct object is replaced by a free pronoun (compare \ref{ex:3:1} and \ref{ex:3:3}), the pronoun ndahan (replacing dalay) occurs in the normal direct object slot in the clause.\footnote{The dedicated direct object pronominal na is can also replace a direct object noun phrase in the case of an inanimate object, \sectref{sec:7.3.2}.}
+A: word: a-ndaj	 gloss: 3S-be
+B: word: hadʒaŋ	 gloss: tomorrow
+C: word: mɪ-mbɪɗ-ɛ=ahaŋ	 gloss: NOM-remain-CL=3S.POSS
+D: word: ndahaŋ	 gloss: 3S
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mala ___ dalaj [ana ndahaŋ]
+Gloss (with missing item): Mala ___ girl DAT 3S
+The English translation of this sentence is:‘Mala gave the girl to him.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the indirect object is replaced by a free pronoun, the pronoun occurs in a prepositional phrase \REF{ex:3:4}. The prepositional phrase is delimited by square brackets. Note that the indirect object pronominal enclitic =an co-occurs on the verb complex (see \sectref{sec:7.3.1.1}).
+A: word: awak=uwla	 gloss: goat=oneS.POSS
+B: word: à-h=aŋ	 gloss: 3S+PFV-say=3S.IO
+C: word: à-vəl=aŋ	 gloss: 3S+PFV-give=3S.IO
+D: word: à-vəl=ata	 gloss: 3S-give=3P.IO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 3:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mala à-vəl=aŋ dalaj [ana ___
+Gloss (with missing item): Mala 3S+PFV-give=3S.IO girl DAT ___
+The English translation of this sentence is:‘Mala gave the girl to him.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the indirect object is replaced by a free pronoun, the pronoun occurs in a prepositional phrase \REF{ex:3:4}. The prepositional phrase is delimited by square brackets. Note that the indirect object pronominal enclitic =an co-occurs on the verb complex (see \sectref{sec:7.3.1.1}).
+A: word: mɪ-mbɪɗ-ɛ=ahaŋ	 gloss: NOM-remain-CL=3S.POSS
+B: word: a-ndaj	 gloss: 3S-be
+C: word: faŋ	 gloss: already
+D: word: ndahaŋ	 gloss: 3S
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 4:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mala ___ dalaj
+Gloss (with missing item): Mala ___ girl
+The English translation of this sentence is:‘Mala gave the girl to him.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The indirect object pronominal enclitic can entirely stand in the place of the prepositional phrase expressing indirect object (\ref{ex:3:5}, see \sectref{sec:7.3.1.1}).
+A: word: mɛj	 gloss: how?
+B: word: à-h=aŋ	 gloss: 3S+PFV-say=3S.IO
+C: word: à-vəl=aŋ	 gloss: 3S+PFV-give=3S.IO
+D: word: à-vəl=ata	 gloss: 3S-give=3P.IO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 5:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ga n\`{ɛ}-g-ɛ
+Gloss (with missing item): ___ ADJ oneS+PFV-do-CL
+The English translation of this sentence is:‘It was me, I did it.’ (lit. me, I did)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Emphatic pronouns are formed by adding either the adjectiviser ga (\sectref{sec:5.3}) or the third person singular possessive pronoun form =ahan to a free pronoun (\ref{ex:3:6}--\ref{ex:3:8}).
+A: word: ɛgɪnɛ	 gloss: today
+B: word: ŋgɪndijɛ	 gloss: DEM
+C: word: zawər=ahaj	 gloss: men=Pl
+D: word: nɛ	 gloss: oneS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 6:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɛ ___ n\`{ɛ}-g-ɛ
+Gloss (with missing item): oneS ___ oneS+PFV-do-CL
+The English translation of this sentence is:‘It was me, I did it.’ (lit. me, I did)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Emphatic pronouns are formed by adding either the adjectiviser the morpheme ___ (\sectref{sec:5.3}) or the third person singular possessive pronoun form =ahan to a free pronoun (\ref{ex:3:6}--\ref{ex:3:8}).
+A: word: ta-l=ala	 gloss: 3P-go=to
+B: word: ga	 gloss: ADJ
+C: word: nɛ=ahaŋ	 gloss: oneS=3S.POSS
+D: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 7:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ n\`{ɛ}-g-ɛ
+Gloss (with missing item): ___ oneS+PFV-do-CL
+The English translation of this sentence is:‘It was me, I did it.’ (lit. me, I did)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Emphatic pronouns are formed by adding either the adjectiviser ga (\sectref{sec:5.3}) or the third person singular possessive pronoun form =ahan to a free pronoun (\ref{ex:3:6}--\ref{ex:3:8}).
+A: word: nɛ=ahaŋ	 gloss: oneS=3S.POSS
+B: word: gam	 gloss: much
+C: word: mɪ-mbɪɗ-ɛ=ahaŋ	 gloss: NOM-remain-CL=3S.POSS
+D: word: ɛlɛ=ahaŋ	 gloss: thing=3S.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 8:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘his wife’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another set of Moloko pronouns occurs only within noun phrases and among its primary uses, indicates a possessive relationship, i.e. these pronouns relate the possessor referent to the person or thing that is possessed. Possessive pronouns immediately follow the noun or noun phrase they modify (\ref{ex:3:9}--\ref{ex:3:11}) and occur before the plural clitic \REF{ex:3:12}.\footnote{\citet{Bow1997c} postulated that the set of possessive pronouns does not include the plural possessive pronouns. Rather, she proposed that the plural possessive is actually an associative noun phrase formed by the preposition /a/ and the free pronoun (a loko, a ləme, a ləkwəye, and a təta). We found that possessives are viewed as a set in the minds of speakers, and that there is no difference in distribution between singular and plural possessives. Therefore we will treat the possessive pronouns as a set in Moloko (aloko, aləme, aləkwəye, and atəta). }
+A: word: hʷɔr=ahaŋ	 gloss: woman=3S.POSS
+B: word: dalaj=ahaŋ	 gloss: girl=3S.POSS
+C: word: dɛwɛlɛ	 gloss: obligation
+D: word: vɛr=ahaŋ	 gloss: room=3S.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 9:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): war ___
+Gloss (with missing item): child ___
+The English translation of this sentence is:‘his daughter’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another set of Moloko pronouns occurs only within noun phrases and among its primary uses, indicates a possessive relationship, i.e. these pronouns relate the possessor referent to the person or thing that is possessed. Possessive pronouns immediately follow the noun or noun phrase they modify (\ref{ex:3:9}--\ref{ex:3:11}) and occur before the plural clitic \REF{ex:3:12}.\footnote{\citet{Bow1997c} postulated that the set of possessive pronouns does not include the plural possessive pronouns. Rather, she proposed that the plural possessive is actually an associative noun phrase formed by the preposition /a/ and the free pronoun (a loko, a ləme, a ləkwəye, and a təta). We found that possessives are viewed as a set in the minds of speakers, and that there is no difference in distribution between singular and plural possessives. Therefore we will treat the possessive pronouns as a set in Moloko (aloko, aləme, aləkwəye, and atəta). }
+A: word: mɪ-ʒʊm-ɛ=uwla	 gloss: NOM-eat-CL=oneS.POSS
+B: word: mɪ-mbɪɗ-ɛ=ahaŋ	 gloss: NOM-remain-CL=3S.POSS
+C: word: hʷɔr=ahaŋ	 gloss: woman=3S.POSS
+D: word: dalaj=ahaŋ	 gloss: girl=3S.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 10:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`their chickens’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another set of Moloko pronouns occurs only within noun phrases and among its primary uses, indicates a possessive relationship, i.e. these pronouns relate the possessor referent to the person or thing that is possessed. Possessive pronouns immediately follow the noun or noun phrase they modify (\ref{ex:3:9}--\ref{ex:3:11}) and occur before the plural clitic \REF{ex:3:12}.\footnote{\citet{Bow1997c} postulated that the set of possessive pronouns does not include the plural possessive pronouns. Rather, she proposed that the plural possessive is actually an associative noun phrase formed by the preposition /a/ and the free pronoun (a loko, a ləme, a ləkwəye, and a təta). We found that possessives are viewed as a set in the minds of speakers, and that there is no difference in distribution between singular and plural possessives. Therefore we will treat the possessive pronouns as a set in Moloko (aloko, aləme, aləkwəye, and atəta). }
+A: word: ʃɛʃɛ=ahaŋ	 gloss: {meat=3S.POSS
+B: word: nɛndɪgɛ	 gloss: DEM
+C: word: ahar=atəta	 gloss: hand=3P.POSS
+D: word: anzakar=atəta=ahaj	 gloss: chicken=3P.POSS=Pl
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 11:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘his wife’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: We consider the possessive pronouns to be noun clitics. They are phonologically bound to the noun. Even though prosodies on the possessive pronouns do not spread to the noun (\ref{ex:3:9}--\ref{ex:3:10}), \citet{Bow1997c} demonstrated that word-final changes indicating a word break do not occur (\tabref{tab:3.16}). They are clitics, not affixes, since they bind to the right edge of the head of the noun phrase, binding to the final noun where the head is composed of more than one noun, yet modifying the entire structure (\ref{ex:3:11}) (see \sectref{sec:5.4.2}).
+A: word: baba=uwla	 gloss: father=oneS.POSS
+B: word: vɛr=ahaŋ	 gloss: room=3S.POSS
+C: word: hʷɔr=ahaŋ	 gloss: woman=3S.POSS
+D: word: dalaj=ahaŋ	 gloss: girl=3S.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 12:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘your doings’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: We consider the possessive pronouns to be noun clitics. They are phonologically bound to the noun. Even though prosodies on the possessive pronouns do not spread to the noun (\ref{ex:3:9}--\ref{ex:3:10}), \citet{Bow1997c} demonstrated that word-final changes indicating a word break do not occur (\tabref{tab:3.16}). They are clitics, not affixes, since they bind to the right edge of the head of the noun phrase, binding to the final noun where the head is composed of more than one noun, yet modifying the entire structure (\ref{ex:3:11}) (see \sectref{sec:5.4.2}).
+A: word: ɬɪrɛlɛ	 gloss: work
+B: word: dalaj=ahaŋ	 gloss: girl=3S.POSS
+C: word: mɪ-g-ijɛ=aŋgʷɔ	 gloss: NOM-do-CL=twoS.POSS
+D: word: mɪ-g-ijɛ=uwla	 gloss: NOM-do-CL=oneS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 13:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): war ___
+Gloss (with missing item): child ___
+The English translation of this sentence is:‘his daughter’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: We consider the possessive pronouns to be noun clitics. They are phonologically bound to the noun. Even though prosodies on the possessive pronouns do not spread to the noun (\ref{ex:3:9}--\ref{ex:3:10}), \citet{Bow1997c} demonstrated that word-final changes indicating a word break do not occur (\tabref{tab:3.16}). They are clitics, not affixes, since they bind to the right edge of the head of the noun phrase, binding to the final noun where the head is composed of more than one noun, yet modifying the entire structure (\ref{ex:3:11}) (see \sectref{sec:5.4.2}).
+A: word: hʷɔr=ahaŋ	 gloss: woman=3S.POSS
+B: word: malmaj	 gloss: what
+C: word: mɪ-mbɪɗ-ɛ=ahaŋ	 gloss: NOM-remain-CL=3S.POSS
+D: word: dalaj=ahaŋ	 gloss: girl=3S.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 14:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘my goat’ (i.e. the goat I own)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The semantic relation between the possessor and possessed can be flexible and covers the same range of possibilities as the associative construction (see \sectref{sec:5.4.1}). These semantic categories include ownership (\ref{ex:3:13}--\ref{ex:3:15}),\footnote{Examples \ref{ex:3:13}--\ref{ex:3:17} show that alienable and inalienable is not a relevant distinction for Moloko.} kinship relationships \REF{ex:3:16}, part-whole relations \REF{ex:3:17} and other associations (\ref{ex:3:18}--\ref{ex:3:19}).
+A: word: mɪ-skʷøm-ɛ	 gloss: NOM-buy/sell-CL
+B: word: awak=uwla	 gloss: goat=oneS.POSS
+C: word: awak=uwla=ahaj	 gloss: goat=oneS.POSS=Pl
+D: word: gʷɔlɔ	 gloss: HON
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 15:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘my field’ (i.e. the field I own)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The semantic relation between the possessor and possessed can be flexible and covers the same range of possibilities as the associative construction (see \sectref{sec:5.4.1}). These semantic categories include ownership (\ref{ex:3:13}--\ref{ex:3:15}),\footnote{Examples \ref{ex:3:13}--\ref{ex:3:17} show that alienable and inalienable is not a relevant distinction for Moloko.} kinship relationships \REF{ex:3:16}, part-whole relations \REF{ex:3:17} and other associations (\ref{ex:3:18}--\ref{ex:3:19}).
+A: word: aŋga=uwla=ahaj	 gloss: POSS=oneS.POSS=Pl
+B: word: baba=uwla	 gloss: father=oneS.POSS
+C: word: gəvax=uwla	 gloss: field=oneS.POSS
+D: word: hʷɔr=uwla	 gloss: woman=oneS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 16:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘my goat’ (i.e. the goat I own)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The semantic relation between the possessor and possessed can be flexible and covers the same range of possibilities as the associative construction (see \sectref{sec:5.4.1}). These semantic categories include ownership (\ref{ex:3:13}--\ref{ex:3:15}),\footnote{Examples \ref{ex:3:13}--\ref{ex:3:17} show that alienable and inalienable is not a relevant distinction for Moloko.} kinship relationships \REF{ex:3:16}, part-whole relations \REF{ex:3:17} and other associations (\ref{ex:3:18}--\ref{ex:3:19}).
+A: word: hʷɔr=ahaŋ	 gloss: woman=3S.POSS
+B: word: awak=uwla=ahaj	 gloss: goat=oneS.POSS=Pl
+C: word: anzakar=atəta=ahaj	 gloss: chicken=3P.POSS=Pl
+D: word: awak=uwla	 gloss: goat=oneS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 17:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘my foot’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The semantic relation between the possessor and possessed can be flexible and covers the same range of possibilities as the associative construction (see \sectref{sec:5.4.1}). These semantic categories include ownership (\ref{ex:3:13}--\ref{ex:3:15}),\footnote{Examples \ref{ex:3:13}--\ref{ex:3:17} show that alienable and inalienable is not a relevant distinction for Moloko.} kinship relationships \REF{ex:3:16}, part-whole relations \REF{ex:3:17} and other associations (\ref{ex:3:18}--\ref{ex:3:19}).
+A: word: =uwla	 gloss: =oneS.POSS
+B: word: asak=uwla	 gloss: foot=oneS.POSS
+C: word: awak=uwla	 gloss: goat=oneS.POSS
+D: word: baba=uwla	 gloss: father=oneS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 18:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘my father’ (also, an older man in my father’s family)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The semantic relation between the possessor and possessed can be flexible and covers the same range of possibilities as the associative construction (see \sectref{sec:5.4.1}). These semantic categories include ownership (\ref{ex:3:13}--\ref{ex:3:15}),\footnote{Examples \ref{ex:3:13}--\ref{ex:3:17} show that alienable and inalienable is not a relevant distinction for Moloko.} kinship relationships \REF{ex:3:16}, part-whole relations \REF{ex:3:17} and other associations (\ref{ex:3:18}--\ref{ex:3:19}).
+A: word: aŋga=uwla	 gloss: POSS=oneS.POSS
+B: word: baba=uwla	 gloss: father=oneS.POSS
+C: word: ŋgɪndijɛ	 gloss: DEM
+D: word: =uwla	 gloss: =oneS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 19:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘my foot’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The semantic relation between the possessor and possessed can be flexible and covers the same range of possibilities as the associative construction (see \sectref{sec:5.4.1}). These semantic categories include ownership (\ref{ex:3:13}--\ref{ex:3:15}),\footnote{Examples \ref{ex:3:13}--\ref{ex:3:17} show that alienable and inalienable is not a relevant distinction for Moloko.} kinship relationships \REF{ex:3:16}, part-whole relations \REF{ex:3:17} and other associations (\ref{ex:3:18}--\ref{ex:3:19}).
+A: word: anzakar=atəta=ahaj	 gloss: chicken=3P.POSS=Pl
+B: word: awak=uwla	 gloss: goat=oneS.POSS
+C: word: =uwla	 gloss: =oneS.POSS
+D: word: asak=uwla	 gloss: foot=oneS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 20:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘my doings’ (i.e. the things I do)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The semantic relation between the possessor and possessed can be flexible and covers the same range of possibilities as the associative construction (see \sectref{sec:5.4.1}). These semantic categories include ownership (\ref{ex:3:13}--\ref{ex:3:15}),\footnote{Examples \ref{ex:3:13}--\ref{ex:3:17} show that alienable and inalienable is not a relevant distinction for Moloko.} kinship relationships \REF{ex:3:16}, part-whole relations \REF{ex:3:17} and other associations (\ref{ex:3:18}--\ref{ex:3:19}).
+A: word: mɪ-g-ijɛ=uwla	 gloss: NOM-do-CL=oneS.POSS
+B: word: ma=uwla	 gloss: word=oneS.POSS
+C: word: maj	 gloss: what
+D: word: mɪ-g-ijɛ=aŋgʷɔ	 gloss: NOM-do-CL=twoS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 21:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘my food’ (i.e. the food I grew/ the food that I am eating)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The semantic relation between the possessor and possessed can be flexible and covers the same range of possibilities as the associative construction (see \sectref{sec:5.4.1}). These semantic categories include ownership (\ref{ex:3:13}--\ref{ex:3:15}),\footnote{Examples \ref{ex:3:13}--\ref{ex:3:17} show that alienable and inalienable is not a relevant distinction for Moloko.} kinship relationships \REF{ex:3:16}, part-whole relations \REF{ex:3:17} and other associations (\ref{ex:3:18}--\ref{ex:3:19}).
+A: word: mɪ-g-ijɛ=uwla	 gloss: NOM-do-CL=oneS.POSS
+B: word: mɪ-ʒʊm-ɛ	 gloss: NOM-eat-CL
+C: word: aŋga	 gloss: POSS
+D: word: mɪ-ʒʊm-ɛ=uwla	 gloss: NOM-eat-CL=oneS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 22:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zar ___
+Gloss (with missing item): man ___
+The English translation of this sentence is:`my dear husband'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are two special possessive pronouns used within vocative expressions to give honour to the person addressed. The honorific pronouns are grammatically bound to the noun they follow. They are used to honour people both within and outside the family. For men and women, whether married or not, to address one another with honour, golo ‘dear/honourable’ follows the noun (\ref{ex:3:20}--\ref{ex:3:21}); for other relationships (mother, father, grandmother) ya ‘dear/honourable’ follows the noun (\ref{ex:3:22}--\ref{ex:3:24}).
+A: word: pʊrgʷɔm=ahaj	 gloss: trap=Pl
+B: word: gʷɔlɔ	 gloss: HON
+C: word: zar	 gloss: man
+D: word: mɪ-g-ijɛ=aŋgʷɔ	 gloss: NOM-do-CL=twoS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 23:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): amə-vəl=ɔkʷ baskʷɔr na ___
+Gloss (with missing item): DEP-give=twoS.IO bicycle PSP ___
+The English translation of this sentence is:‘Who gave you the bicycle?’ (lit. the one that gave you the bicycle [is] who?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The normal position for interrogative pronouns is clause or noun phrase final (\ref{ex:3:25}--\ref{ex:3:38}).\footnote{See interrogative constructions in Moloko, \sectref{sec:10.3}.} Two of the interrogative pronouns (memey ‘how,’ and malmay ‘what’) question a clause in and of themselves (\ref{ex:3:33}--\ref{ex:3:35}). In each example, the interrogative pronoun is bolded.
+A: word: mɪʒɛ	 gloss: person
+B: word: waja	 gloss: because
+C: word: nɛhɛ	 gloss: DEM
+D: word: waj	 gloss: who
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 24:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘Explain?’ (what do you mean?, lit. how?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The normal position for interrogative pronouns is clause or noun phrase final (\ref{ex:3:25}--\ref{ex:3:38}).\footnote{See interrogative constructions in Moloko, \sectref{sec:10.3}.} Two of the interrogative pronouns (memey ‘its gloss ___,’ and malmay ‘what’) question a clause in and of themselves (\ref{ex:3:33}--\ref{ex:3:35}). In each example, the interrogative pronoun is bolded.
+A: word: mɛmɛj	 gloss: how
+B: word: təta	 gloss: ability
+C: word: mɛj	 gloss: how?
+D: word: mɛmɛ	 gloss: how
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 25:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘What is it?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The normal position for interrogative pronouns is clause or noun phrase final (\ref{ex:3:25}--\ref{ex:3:38}).\footnote{See interrogative constructions in Moloko, \sectref{sec:10.3}.} Two of the interrogative pronouns (memey ‘how,’ and malmay ‘its gloss ___’) question a clause in and of themselves (\ref{ex:3:33}--\ref{ex:3:35}). In each example, the interrogative pronoun is bolded.
+A: word: wɛlɛj	 gloss: which
+B: word: malmaj	 gloss: what
+C: word: malma	 gloss: what
+D: word: nɛndɪgɛ	 gloss: DEM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 26:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ a-ndaɗ-aj waj
+Gloss (with missing item): ___ 3S-love-CL who
+The English translation of this sentence is:‘No one loves him.’ (lit. who loves him?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In an emphatic question, a reduced interrogative pronoun both commences and finishes the clause (\ref{ex:3:39}--\ref{ex:3:42}). The interrogative pronouns the morpheme ___y ‘its gloss ___,’ malmay ‘what is this,’ memey ‘why,’ and almay ‘what’ are reduced, without a change in meaning, to the morpheme ___ \REF{ex:3:39}, malma \REF{ex:3:40}, meme \REF{ex:3:41}, and alma \REF{ex:3:42}, respectively. These reduced forms occur at the beginning of an emphatic question. At the end of the clause, some of these same pronouns are reduced in a different manner. The interrogative pronoun memey becomes mey \REF{ex:3:41} and almay becomes may (\ref{ex:3:40}, \ref{ex:3:42}).
+A: word: mɪʒɛ	 gloss: person
+B: word: wa	 gloss: who
+C: word: waja	 gloss: because
+D: word: gam	 gloss: much
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 27:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wa a-ndaɗ-aj ___
+Gloss (with missing item): who 3S-love-CL ___
+The English translation of this sentence is:‘No one loves him.’ (lit. who loves him?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In an emphatic question, a reduced interrogative pronoun both commences and finishes the clause (\ref{ex:3:39}--\ref{ex:3:42}). The interrogative pronouns way ‘its gloss ___,’ malmay ‘what is this,’ memey ‘why,’ and almay ‘what’ are reduced, without a change in meaning, to wa \REF{ex:3:39}, malma \REF{ex:3:40}, meme \REF{ex:3:41}, and alma \REF{ex:3:42}, respectively. These reduced forms occur at the beginning of an emphatic question. At the end of the clause, some of these same pronouns are reduced in a different manner. The interrogative pronoun memey becomes mey \REF{ex:3:41} and almay becomes may (\ref{ex:3:40}, \ref{ex:3:42}).
+A: word: waja	 gloss: because
+B: word: hadʒaŋ	 gloss: tomorrow
+C: word: waj	 gloss: who
+D: word: mɪʒɛ	 gloss: person
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 28:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ a-ndaɗ-aj waj
+Gloss (with missing item): ___ 3S-love-CL who
+The English translation of this sentence is:‘No one loves him.’ (lit. who loves him?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In an emphatic question, a reduced interrogative pronoun both commences and finishes the clause (\ref{ex:3:39}--\ref{ex:3:42}). The interrogative pronouns the morpheme ___y ‘its gloss ___,’ malmay ‘what is this,’ memey ‘why,’ and almay ‘what’ are reduced, without a change in meaning, to the morpheme ___ \REF{ex:3:39}, malma \REF{ex:3:40}, meme \REF{ex:3:41}, and alma \REF{ex:3:42}, respectively. These reduced forms occur at the beginning of an emphatic question. At the end of the clause, some of these same pronouns are reduced in a different manner. The interrogative pronoun memey becomes mey \REF{ex:3:41} and almay becomes may (\ref{ex:3:40}, \ref{ex:3:42}).
+A: word: wa	 gloss: who
+B: word: waja	 gloss: because
+C: word: mɪʒɛ	 gloss: person
+D: word: ɛnɛŋ	 gloss: another
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 29:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wa a-ndaɗ-aj ___
+Gloss (with missing item): who 3S-love-CL ___
+The English translation of this sentence is:‘No one loves him.’ (lit. who loves him?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In an emphatic question, a reduced interrogative pronoun both commences and finishes the clause (\ref{ex:3:39}--\ref{ex:3:42}). The interrogative pronouns way ‘its gloss ___,’ malmay ‘what is this,’ memey ‘why,’ and almay ‘what’ are reduced, without a change in meaning, to wa \REF{ex:3:39}, malma \REF{ex:3:40}, meme \REF{ex:3:41}, and alma \REF{ex:3:42}, respectively. These reduced forms occur at the beginning of an emphatic question. At the end of the clause, some of these same pronouns are reduced in a different manner. The interrogative pronoun memey becomes mey \REF{ex:3:41} and almay becomes may (\ref{ex:3:40}, \ref{ex:3:42}).
+A: word: waj	 gloss: who
+B: word: mɪʒɛ	 gloss: person
+C: word: mɪ-g-ijɛ=aŋgʷɔ	 gloss: NOM-do-CL=twoS.POSS
+D: word: waja	 gloss: because
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 30:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ a-wəl=ɔkʷ maj
+Gloss (with missing item): ___ 3S-hurt=twoS.IO what
+The English translation of this sentence is:‘What is bothering (hurting) you?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In an emphatic question, a reduced interrogative pronoun both commences and finishes the clause (\ref{ex:3:39}--\ref{ex:3:42}). The interrogative pronouns way ‘who,’ the morpheme ___y ‘its gloss ___ is this,’ memey ‘why,’ and almay ‘its gloss ___’ are reduced, without a change in meaning, to wa \REF{ex:3:39}, the morpheme ___ \REF{ex:3:40}, meme \REF{ex:3:41}, and alma \REF{ex:3:42}, respectively. These reduced forms occur at the beginning of an emphatic question. At the end of the clause, some of these same pronouns are reduced in a different manner. The interrogative pronoun memey becomes mey \REF{ex:3:41} and almay becomes may (\ref{ex:3:40}, \ref{ex:3:42}).
+A: word: malma	 gloss: what
+B: word: aŋga	 gloss: POSS
+C: word: malmaj	 gloss: what
+D: word: wɛlɛj	 gloss: which
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 31:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): malma a-wəl=ɔkʷ ___
+Gloss (with missing item): what 3S-hurt=twoS.IO ___
+The English translation of this sentence is:‘What is bothering (hurting) you?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In an emphatic question, a reduced interrogative pronoun both commences and finishes the clause (\ref{ex:3:39}--\ref{ex:3:42}). The interrogative pronouns way ‘who,’ malmay ‘its gloss ___ is this,’ memey ‘why,’ and almay ‘its gloss ___’ are reduced, without a change in meaning, to wa \REF{ex:3:39}, malma \REF{ex:3:40}, meme \REF{ex:3:41}, and alma \REF{ex:3:42}, respectively. These reduced forms occur at the beginning of an emphatic question. At the end of the clause, some of these same pronouns are reduced in a different manner. The interrogative pronoun memey becomes mey \REF{ex:3:41} and almay becomes may (\ref{ex:3:40}, \ref{ex:3:42}).
+A: word: amtamaj	 gloss: where
+B: word: ndahaŋ	 gloss: 3S
+C: word: maj	 gloss: what
+D: word: wɛlɛj	 gloss: which
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 32:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ɛ-g-ɛ mɛj
+Gloss (with missing item): ___ 3S-do-CL how
+The English translation of this sentence is:‘What is going on here? [when something is wrong]’/ ‘What are you doing?’ (lit. how is it doing?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In an emphatic question, a reduced interrogative pronoun both commences and finishes the clause (\ref{ex:3:39}--\ref{ex:3:42}). The interrogative pronouns way ‘who,’ malmay ‘what is this,’ memey ‘why,’ and almay ‘what’ are reduced, without a change in meaning, to wa \REF{ex:3:39}, malma \REF{ex:3:40}, meme \REF{ex:3:41}, and alma \REF{ex:3:42}, respectively. These reduced forms occur at the beginning of an emphatic question. At the end of the clause, some of these same pronouns are reduced in a different manner. The interrogative pronoun memey becomes mey \REF{ex:3:41} and almay becomes may (\ref{ex:3:40}, \ref{ex:3:42}).
+A: word: mɛmɛ	 gloss: how
+B: word: waj	 gloss: who
+C: word: mɛj	 gloss: how?
+D: word: mɛmɛj	 gloss: how
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 33:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛmɛ ɛ-g-ɛ ___
+Gloss (with missing item): how 3S-do-CL ___
+The English translation of this sentence is:‘What is going on here? [when something is wrong]’/ ‘What are you doing?’ (lit. how is it doing?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In an emphatic question, a reduced interrogative pronoun both commences and finishes the clause (\ref{ex:3:39}--\ref{ex:3:42}). The interrogative pronouns way ‘who,’ malmay ‘what is this,’ memey ‘why,’ and almay ‘what’ are reduced, without a change in meaning, to wa \REF{ex:3:39}, malma \REF{ex:3:40}, meme \REF{ex:3:41}, and alma \REF{ex:3:42}, respectively. These reduced forms occur at the beginning of an emphatic question. At the end of the clause, some of these same pronouns are reduced in a different manner. The interrogative pronoun memey becomes mey \REF{ex:3:41} and almay becomes may (\ref{ex:3:40}, \ref{ex:3:42}).
+A: word: mɛj	 gloss: how
+B: word: ɛʃɛ	 gloss: again
+C: word: mɛmɛj	 gloss: how
+D: word: á-mənzar	 gloss: 3S+IFV-see
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 34:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ɛ-g-ɛ mɛj
+Gloss (with missing item): ___ 3S-do-CL how
+The English translation of this sentence is:‘What is going on here? [when something is wrong]’/ ‘What are you doing?’ (lit. how is it doing?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In an emphatic question, a reduced interrogative pronoun both commences and finishes the clause (\ref{ex:3:39}--\ref{ex:3:42}). The interrogative pronouns way ‘who,’ malmay ‘what is this,’ memey ‘why,’ and almay ‘what’ are reduced, without a change in meaning, to wa \REF{ex:3:39}, malma \REF{ex:3:40}, meme \REF{ex:3:41}, and alma \REF{ex:3:42}, respectively. These reduced forms occur at the beginning of an emphatic question. At the end of the clause, some of these same pronouns are reduced in a different manner. The interrogative pronoun memey becomes mey \REF{ex:3:41} and almay becomes may (\ref{ex:3:40}, \ref{ex:3:42}).
+A: word: mɛj	 gloss: how?
+B: word: mɛmɛj	 gloss: how
+C: word: dɛwɛlɛ	 gloss: obligation
+D: word: mɛmɛ	 gloss: how
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 35:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɛmɛ ɛ-g-ɛ ___
+Gloss (with missing item): how 3S-do-CL ___
+The English translation of this sentence is:‘What is going on here? [when something is wrong]’/ ‘What are you doing?’ (lit. how is it doing?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In an emphatic question, a reduced interrogative pronoun both commences and finishes the clause (\ref{ex:3:39}--\ref{ex:3:42}). The interrogative pronouns way ‘who,’ malmay ‘what is this,’ memey ‘why,’ and almay ‘what’ are reduced, without a change in meaning, to wa \REF{ex:3:39}, malma \REF{ex:3:40}, meme \REF{ex:3:41}, and alma \REF{ex:3:42}, respectively. These reduced forms occur at the beginning of an emphatic question. At the end of the clause, some of these same pronouns are reduced in a different manner. The interrogative pronoun memey becomes mey \REF{ex:3:41} and almay becomes may (\ref{ex:3:40}, \ref{ex:3:42}).
+A: word: mɛmɛj	 gloss: how
+B: word: à-vəl=aŋ	 gloss: 3S+PFV-give=3S.IO
+C: word: mɛj	 gloss: how
+D: word: ɛʃɛ	 gloss: again
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 36:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ a-wəl=ɔkʷ maj
+Gloss (with missing item): ___ 3S-hurt=twoS.IO what
+The English translation of this sentence is:‘What is bothering (hurting) you?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In an emphatic question, a reduced interrogative pronoun both commences and finishes the clause (\ref{ex:3:39}--\ref{ex:3:42}). The interrogative pronouns way ‘who,’ the morpheme ___y ‘its gloss ___ is this,’ memey ‘why,’ and almay ‘its gloss ___’ are reduced, without a change in meaning, to wa \REF{ex:3:39}, the morpheme ___ \REF{ex:3:40}, meme \REF{ex:3:41}, and alma \REF{ex:3:42}, respectively. These reduced forms occur at the beginning of an emphatic question. At the end of the clause, some of these same pronouns are reduced in a different manner. The interrogative pronoun memey becomes mey \REF{ex:3:41} and almay becomes may (\ref{ex:3:40}, \ref{ex:3:42}).
+A: word: hadʒaŋ	 gloss: tomorrow
+B: word: malma	 gloss: what
+C: word: wɛlɛj	 gloss: which
+D: word: malmaj	 gloss: what
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 37:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): malma a-wəl=ɔkʷ ___
+Gloss (with missing item): what 3S-hurt=twoS.IO ___
+The English translation of this sentence is:‘What is bothering (hurting) you?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In an emphatic question, a reduced interrogative pronoun both commences and finishes the clause (\ref{ex:3:39}--\ref{ex:3:42}). The interrogative pronouns way ‘who,’ malmay ‘its gloss ___ is this,’ memey ‘why,’ and almay ‘its gloss ___’ are reduced, without a change in meaning, to wa \REF{ex:3:39}, malma \REF{ex:3:40}, meme \REF{ex:3:41}, and alma \REF{ex:3:42}, respectively. These reduced forms occur at the beginning of an emphatic question. At the end of the clause, some of these same pronouns are reduced in a different manner. The interrogative pronoun memey becomes mey \REF{ex:3:41} and almay becomes may (\ref{ex:3:40}, \ref{ex:3:42}).
+A: word: amtamaj	 gloss: where
+B: word: maj	 gloss: what
+C: word: wɛlɛj	 gloss: which
+D: word: ndahaŋ	 gloss: 3S
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 38:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [nafat ___ aba
+Gloss (with missing item): day ___ EXT
+The English translation of this sentence is:‘One day\ldots’ (a usual way to start a story)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A few pronouns refer to unspecified referents. Meslenen is a negative indefinite ‘no one’ \REF{ex:3:43} and must occur in a clause that is negated (see \sectref{sec:10.3}). Mana is purposefully indefinite, referring to a person ‘who shall remain nameless’ \REF{ex:3:44}. Enen ‘its gloss ___’ \REF{ex:3:45} is an indefinite determiner, used to introduce new participants or things not previously mentioned.
+A: word: ɛnɛŋ=ahaj	 gloss: another=Pl
+B: word: tʃɛw	 gloss: two
+C: word: ɛnɛŋ	 gloss: another
+D: word: ŋgɛhɛ	 gloss: DEM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 39:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ná-sʊkʷɔm [zana ___
+Gloss (with missing item): oneS+IFV-buy cloth ___
+The English translation of this sentence is:‘I will buy this particular cloth here.’ (pointing to or holding a particular cloth among others)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Nominal demonstratives (\ref{ex:3:46}--\ref{ex:3:48}) have a referent that is a person or object. They modify a noun within a noun phrase to specify or point out the referent. Moloko has two nominal demonstratives: proximal (near the speaker) and distal (away from the speaker). There is no nominal demonstrative to indicate a referent that is far away from the speaker. In the examples in this section, the demonstrative is bolded and the noun phrase is marked by square brackets. In \REF{ex:3:55} from \sectref{sec:3.2.2.1}, the demonstrative is head of the noun phrase, suggesting that it can act as a demonstrative pronoun.
+A: word: ŋgɛhɛ	 gloss: DEM
+B: word: nɛhɛ=ahaj	 gloss: DEM=Pl
+C: word: aka	 gloss: on
+D: word: nɪŋgɛhɛ	 gloss: DEM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 40:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [babəza=ahaj ___ aŋga=uwla=ahaj
+Gloss (with missing item): children=Pl ___ POSS=oneS.POSS=Pl
+The English translation of this sentence is:‘These particular children here [are] belonging to me.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Nominal demonstratives (\ref{ex:3:46}--\ref{ex:3:48}) have a referent that is a person or object. They modify a noun within a noun phrase to specify or point out the referent. Moloko has two nominal demonstratives: proximal (near the speaker) and distal (away from the speaker). There is no nominal demonstrative to indicate a referent that is far away from the speaker. In the examples in this section, the demonstrative is bolded and the noun phrase is marked by square brackets. In \REF{ex:3:55} from \sectref{sec:3.2.2.1}, the demonstrative is head of the noun phrase, suggesting that it can act as a demonstrative pronoun.
+A: word: nɪndijɛ	 gloss: DEM
+B: word: nɛhɛ=ahaj	 gloss: DEM=Pl
+C: word: ŋgɪndijɛ	 gloss: DEM
+D: word: mɛj	 gloss: how?
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 41:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndɛ ___ na] ɬa=aŋgʷɔ=ahaj ɗaw
+Gloss (with missing item): so ___ PSP cow=twoS.POSS=Pl {Q
+The English translation of this sentence is:‘So, these [cows] here (in this place), are they your cows?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Nominal demonstratives (\ref{ex:3:46}--\ref{ex:3:48}) have a referent that is a person or object. They modify a noun within a noun phrase to specify or point out the referent. Moloko has two nominal demonstratives: proximal (near the speaker) and distal (away from the speaker). There is no nominal demonstrative to indicate a referent that is far away from the speaker. In the examples in this section, the demonstrative is bolded and the noun phrase is marked by square brackets. In \REF{ex:3:55} from \sectref{sec:3.2.2.1}, the demonstrative is head of the noun phrase, suggesting that it can act as a demonstrative pronoun.
+A: word: mɪʒɛ=ahaj	 gloss: person=Pl
+B: word: nɛhɛ=ahaj	 gloss: DEM=Pl
+C: word: nɪŋgɛhɛ	 gloss: DEM
+D: word: aŋga	 gloss: POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 42:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndɛ ___ na] ɬa=aŋgʷɔ=ahaj ɗaw
+Gloss (with missing item): so ___ PSP cow=twoS.POSS=Pl {Q
+The English translation of this sentence is:‘So, these [cows] here (in this place), are they your cows?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The local adverbial demonstrative can be the head of a noun phrase. In \REF{ex:3:55} the demonstrative is modified by the plural.
+A: word: mɪʒɛ=ahaj	 gloss: person=Pl
+B: word: aba	 gloss: EXT
+C: word: nɪŋgɛhɛ	 gloss: DEM
+D: word: nɛhɛ=ahaj	 gloss: DEM=Pl
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 43:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [haj=uwla ___ tɔhʷɔ na] ɛlɛmɪɮɪɓɛ ta-ndaj tɔ-zɔm na
+Gloss (with missing item): house=oneS.POSS ___ DEM PSP termites 3P-PROG 3P-eat 3S.DO
+The English translation of this sentence is:‘My house way over there (pointing to a particular house among others in the distance), termites are eating it.’ (lit. my house, the one that belongs to over there, termites are eating it)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: For locations far away from the speaker, the locational adverb toho is used in a possessive or genitive construction with the noun it modifies, (anga toho, \REF{ex:3:56} see \sectref{sec:5.6.1}; or a toho, \REF{ex:3:57}, see \sectref{sec:5.4.1}).
+A: word: aŋga=uwla	 gloss: POSS=oneS.POSS
+B: word: tʃɪk-ɛ	 gloss: stand[twoS.IMP]-CL
+C: word: aŋga	 gloss: POSS
+D: word: nɛhɛ	 gloss: DEM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 44:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [haj=uwla aŋga ___ na] ɛlɛmɪɮɪɓɛ ta-ndaj tɔ-zɔm na
+Gloss (with missing item): house=oneS.POSS POSS ___ PSP termites 3P-PROG 3P-eat 3S.DO
+The English translation of this sentence is:‘My house way over there (pointing to a particular house among others in the distance), termites are eating it.’ (lit. my house, the one that belongs to over there, termites are eating it)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: For locations far away from the speaker, the locational adverb toho is used in a possessive or genitive construction with the noun it modifies, (anga toho, \REF{ex:3:56} see \sectref{sec:5.6.1}; or a toho, \REF{ex:3:57}, see \sectref{sec:5.4.1}).
+A: word: tɔhʷɔ	 gloss: DEM
+B: word: malma	 gloss: what
+C: word: nɛhɛ=ahaj	 gloss: DEM=Pl
+D: word: hʷɔr=uwla	 gloss: woman=oneS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 45:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [awak=ahaj ___ tɔhʷɔ] aŋga=uwla
+Gloss (with missing item): goat=Pl ___ DEM POSS=oneS.POSS
+The English translation of this sentence is:‘The goats over there (in that place) belong to me.’ (lit. the goats over there [are] belonging to me)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: For locthe morpheme ___tions fthe morpheme ___r the morpheme ___wthe morpheme ___y from the spethe morpheme ___ker, the locthe morpheme ___tionthe morpheme ___l the morpheme ___dverb toho is used in the morpheme ___ possessive or genitive construction with the noun it modifies, (the morpheme ___ngthe morpheme ___ toho, \REF{ex:3:56} see \sectref{sec:5.6.1}; or the morpheme ___ toho, \REF{ex:3:57}, see \sectref{sec:5.4.1}).
+A: word: ka-gɛ	 gloss: twoS-do
+B: word: a	 gloss: GEN
+C: word: nə-ndav=alaj	 gloss: oneS-finish=away
+D: word: maj	 gloss: what
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 46:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [awak=ahaj a ___ aŋga=uwla
+Gloss (with missing item): goat=Pl GEN ___ POSS=oneS.POSS
+The English translation of this sentence is:‘The goats over there (in that place) belong to me.’ (lit. the goats over there [are] belonging to me)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: For locations far away from the speaker, the locational adverb toho is used in a possessive or genitive construction with the noun it modifies, (anga toho, \REF{ex:3:56} see \sectref{sec:5.6.1}; or a toho, \REF{ex:3:57}, see \sectref{sec:5.4.1}).
+A: word: nɛ=ahaŋ	 gloss: oneS=3S.POSS
+B: word: nɛhɛ=ahaj	 gloss: DEM=Pl
+C: word: tɔhʷɔ	 gloss: DEM
+D: word: hʷɔr=uwla	 gloss: woman=oneS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 47:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-l=ala na ta an =aw [ɗɛrijwɛl ___
+Gloss (with missing item): 3S-go=to PSP 3P DAT =oneS.IO paper ___
+The English translation of this sentence is:‘Later, they [gave] me this here paper.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sometimes local adverbial demonstratives\is{Focus and prominence!Local adverbial demonstratives|(} have a highlighting function for new information in a narrative, drawing attention to their referent.\footnote{\citet{Dixon2003} mentions that demonstratives can function to introduce new information. Note that in Moloko, all new information need not be marked with a demonstrative.} In the ‘Cows in the Field’ story (not illustrated in its entirety in this work), ɗerəywel nendəge ‘this paper here’ \REF{ex:3:60} was not with the speaker when he told the story; neither was it previously mentioned in the discourse. According to the discourse, the paper should have helped to bring justice to the men whose cotton was destroyed, but it didn’t. Its marking with a demonstrative therefore has the function to highlight the paper at that moment of the event line.
+A: word: nɛhɛ=ahaj	 gloss: DEM=Pl
+B: word: nɛndijɛ	 gloss: DEM
+C: word: nɛndɪgɛ	 gloss: DEM
+D: word: dɛwɛlɛ	 gloss: obligation
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 48:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a [ɬam ___ ava na nawij
+Gloss (with missing item): at place ___ in PSP oneS+said
+The English translation of this sentence is:‘At that moment, I said,’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The distal non local demonstrative is employed in a common discourse idiom -- a slam nendəye ava ‘at that time.’ The idiom notifies the reader of an important pivotal moment in a story. Example \REF{ex:3:63} is from the ‘Cows in the Field’ story (not illustrated in its entirety in this work). The narrative concerns dealings with the owners of a herd of cows that had destroyed someone’s field of cotton. A slam nendəye ava marks the transition point in the way that the speaker dealt with the cows.
+A: word: nɛndijɛ	 gloss: DEM
+B: word: ŋgɪndijɛ	 gloss: DEM
+C: word: abaj	 gloss: EXT+NEG
+D: word: nɛhɛ=ahaj	 gloss: DEM=Pl
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 49:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): à-ndʒ-ɛ ɛlɛ=ahaŋ dɪrɛŋ ___ nɛhɛ
+Gloss (with missing item): 3S+PFV-leave-CL thing=3S.POSS far ___ this
+The English translation of this sentence is:‘He went (lit. took his things away) far away like this.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The first type in Moloko is derived from the demonstrative by the addition of the morpheme ___ ‘its gloss ___.’ The adverbial demonstrative the morpheme ___ nehe ‘its gloss ___ this’ \REF{ex:3:69} is used when the speaker indicates with hand or body movements how a particular action is carried out. It is derived from the proximal nominal demonstrative nehe ‘this here’ (see \sectref{sec:3.2.2.1}).
+A: word: =aw	 gloss: =oneS.IO
+B: word: gəvax=uwla	 gloss: field=oneS.POSS
+C: word: ka	 gloss: like
+D: word: nə-kaɗ	 gloss: oneS-kill
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 50:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): à-ndʒ-ɛ ɛlɛ=ahaŋ dɪrɛŋ ka ___
+Gloss (with missing item): 3S+PFV-leave-CL thing=3S.POSS far like ___
+The English translation of this sentence is:‘He went (lit. took his things away) far away like this.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The first type in Moloko is derived from the demonstrative by the addition of ka ‘like.’ The adverbial demonstrative ka nehe ‘like its gloss ___’ \REF{ex:3:69} is used when the speaker indicates with hand or body movements how a particular action is carried out. It is derived from the proximal nominal demonstrative nehe ‘its gloss ___ here’ (see \sectref{sec:3.2.2.1}).
+A: word: nə-mənzar	 gloss: oneS-see
+B: word: hadʒaŋ	 gloss: tomorrow
+C: word: nɛhɛ=ahaj	 gloss: DEM=Pl
+D: word: nɛhɛ	 gloss: this
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 51:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Hawa a-ndaɗ-aj nɔkʷ ___
+Gloss (with missing item): Hawa 3S-love-CL twoS ___
+The English translation of this sentence is:‘Hawa loves you a lot.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Non-numeral quantifiers\footnote{Some of these quantifiers can also pattern as adverbs, e.g., the morpheme ___ ‘its gloss ___’ \REF{ex:3:107}.} include the morpheme ___ ‘its gloss ___' (\ref{ex:3:81}--\ref{ex:3:82}), nekwen ‘little,’ jəyga ‘all,’ dəyday ‘approximately,’ and haɗa ‘enough’ (\ref{ex:3:83}--\ref{ex:3:84}). When they occur in a noun phrase, they are the final element (\ref{ex:3:81}). The noun phrase is delimited by square brackets.
+A: word: mɪ-g-ijɛ=uwla	 gloss: NOM-do-CL=oneS.POSS
+B: word: gam	 gloss: much
+C: word: dala	 gloss: money
+D: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 52:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɬɪrɛlɛ ___
+Gloss (with missing item): work ___
+The English translation of this sentence is:[That is] a lot of work!
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Non-numeral quantifiers\footnote{Some of these quantifiers can also pattern as adverbs, e.g., the morpheme ___ ‘its gloss ___’ \REF{ex:3:107}.} include the morpheme ___ ‘its gloss ___' (\ref{ex:3:81}--\ref{ex:3:82}), nekwen ‘little,’ jəyga ‘all,’ dəyday ‘approximately,’ and haɗa ‘enough’ (\ref{ex:3:83}--\ref{ex:3:84}). When they occur in a noun phrase, they are the final element (\ref{ex:3:81}). The noun phrase is delimited by square brackets.
+A: word: mɛmɛ	 gloss: how
+B: word: gam	 gloss: much
+C: word: dala	 gloss: money
+D: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 53:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɔkʷ ___ baj]
+Gloss (with missing item): twoS ___ NEG
+The English translation of this sentence is:‘You [are] small.’ (lit. not enough)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Non-numeral quantifiers\footnote{Some of these quantifiers can also pattern as adverbs, e.g., gam ‘much’ \REF{ex:3:107}.} include gam ‘much' (\ref{ex:3:81}--\ref{ex:3:82}), nekwen ‘little,’ jəyga ‘all,’ dəyday ‘approximately,’ and the morpheme ___ ‘its gloss ___’ (\ref{ex:3:83}--\ref{ex:3:84}). When they occur in a noun phrase, they are the final element (\ref{ex:3:81}). The noun phrase is delimited by square brackets.
+A: word: baba=uwla	 gloss: father=oneS.POSS
+B: word: mɪ-mbɪɗ-ɛ=ahaŋ	 gloss: NOM-remain-CL=3S.POSS
+C: word: haɗa	 gloss: enough
+D: word: ndɛ	 gloss: so
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 54:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɪʒɛ ___
+Gloss (with missing item): person ___
+The English translation of this sentence is:‘There was a man \ldots' (a common beginning to a story)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Moloko has three positive existentials and one negative existential. The prototypical existential the morpheme ___ ‘there exists’ \REF{ex:3:85}. carries the most basic idea of existence. Its negative is the morpheme ___y ‘there does not exist.’\footnote{Historically, this existential is perhaps a compound of the existential the morpheme ___ and the negative bay.} The locational existential ava ‘there exists in a particular place,’ and the possessive existential aka ‘there exists associated with’ each carry the concept of existence along with their own specific meaning. The possessive existential must be accompanied by a indirect object pronominal.
+A: word: aba	 gloss: EXT
+B: word: baba=ahaj	 gloss: father=Pl
+C: word: abaj	 gloss: EXT+NEG
+D: word: dalaj=ahaŋ	 gloss: girl=3S.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 55:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mɪʒɛ ___
+Gloss (with missing item): person ___
+The English translation of this sentence is:‘There was a man \ldots' (a common beginning to a story)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The prototypical existential is the morpheme ___ ‘there is’ (\ref{ex:3:85}--\ref{ex:3:86}) and its negative is the morpheme ___y ‘there is none’ (\ref{ex:3:87}--\ref{ex:3:88}). A clause with one of these existentials requires a subject but there are no other core participants or obliques. The existential is bolded in the examples.
+A: word: baba=ahaj	 gloss: father=Pl
+B: word: abaj	 gloss: EXT+NEG
+C: word: aba	 gloss: EXT
+D: word: malma	 gloss: what
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 56:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): babəza=uwla=ahaj ___
+Gloss (with missing item): children=oneS.POSS=Pl ___
+The English translation of this sentence is:‘I have children.’ (lit. my children exist)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The prototypical existential is the morpheme ___ ‘there is’ (\ref{ex:3:85}--\ref{ex:3:86}) and its negative is the morpheme ___y ‘there is none’ (\ref{ex:3:87}--\ref{ex:3:88}). A clause with one of these existentials requires a subject but there are no other core participants or obliques. The existential is bolded in the examples.
+A: word: mɪ-g-ijɛ=aŋgʷɔ	 gloss: NOM-do-CL=twoS.POSS
+B: word: aba	 gloss: EXT
+C: word: abaj	 gloss: EXT+NEG
+D: word: baba=ahaj	 gloss: father=Pl
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 57:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): babəza=uwla=ahaj ___
+Gloss (with missing item): children=oneS.POSS=Pl ___
+The English translation of this sentence is:‘I have no children.’ (lit. my children do not exist)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The prototypical existential is aba ‘there is’ (\ref{ex:3:85}--\ref{ex:3:86}) and its negative is abay ‘there is none’ (\ref{ex:3:87}--\ref{ex:3:88}). A clause with one of these existentials requires a subject but there are no other core participants or obliques. The existential is bolded in the examples.
+A: word: baba=ahaj	 gloss: father=Pl
+B: word: awak=uwla	 gloss: goat=oneS.POSS
+C: word: aba	 gloss: EXT
+D: word: abaj	 gloss: EXT+NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 58:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): dala ___
+Gloss (with missing item): money ___
+The English translation of this sentence is:‘I have no money.’ (lit. there is no money)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The prototypical existential is aba ‘there is’ (\ref{ex:3:85}--\ref{ex:3:86}) and its negative is abay ‘there is none’ (\ref{ex:3:87}--\ref{ex:3:88}). A clause with one of these existentials requires a subject but there are no other core participants or obliques. The existential is bolded in the examples.
+A: word: baba=ahaj	 gloss: father=Pl
+B: word: aba	 gloss: EXT
+C: word: abaj	 gloss: EXT+NEG
+D: word: nɛndijɛ	 gloss: DEM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 59:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɔkʷ ___ ɗaw
+Gloss (with missing item): twoS ___ {Q
+The English translation of this sentence is:‘Are you well?’ (lit. ‘Do you exist?’)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The existentials the morpheme ___ and the morpheme ___y can also carry an extended sense to indicate the health of the person. Examples (\ref{ex:3:89}a) and \REF{ex:3:90} are greetings, which are questions that can occur with (\ref{ex:3:89}a) or without \REF{ex:3:90} the word zay ‘peace.’ Examples (\ref{ex:3:89}b) and \REF{ex:3:91} are possible replies to either of these questions. Likewise, (\ref{ex:3:92}--\ref{ex:3:93}) show inquiries and possible replies as to the health of a third person.
+A: word: abaj	 gloss: EXT+NEG
+B: word: maj	 gloss: what
+C: word: baba=ahaj	 gloss: father=Pl
+D: word: aba	 gloss: EXT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 60:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nɔkʷ ___ ɗaw
+Gloss (with missing item): twoS ___ {Q
+The English translation of this sentence is:‘Are you well?’ (lit. ‘Do you exist?’)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The existentials the morpheme ___ and the morpheme ___y can also carry an extended sense to indicate the health of the person. Examples (\ref{ex:3:89}a) and \REF{ex:3:90} are greetings, which are questions that can occur with (\ref{ex:3:89}a) or without \REF{ex:3:90} the word zay ‘peace.’ Examples (\ref{ex:3:89}b) and \REF{ex:3:91} are possible replies to either of these questions. Likewise, (\ref{ex:3:92}--\ref{ex:3:93}) show inquiries and possible replies as to the health of a third person.
+A: word: baba=ahaj	 gloss: father=Pl
+B: word: aba	 gloss: EXT
+C: word: ndahaŋ	 gloss: 3S
+D: word: abaj	 gloss: EXT+NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 61:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): asak=uwla ___
+Gloss (with missing item): foot=oneS.POSS ___
+The English translation of this sentence is:‘My foot hurts.’ (lit. my foot doesn’t exist)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The existentials aba and abay can also carry an extended sense to indicate the health of the person. Examples (\ref{ex:3:89}a) and \REF{ex:3:90} are greetings, which are questions that can occur with (\ref{ex:3:89}a) or without \REF{ex:3:90} the word zay ‘peace.’ Examples (\ref{ex:3:89}b) and \REF{ex:3:91} are possible replies to either of these questions. Likewise, (\ref{ex:3:92}--\ref{ex:3:93}) show inquiries and possible replies as to the health of a third person.
+A: word: aŋga	 gloss: POSS
+B: word: aba	 gloss: EXT
+C: word: baba=ahaj	 gloss: father=Pl
+D: word: abaj	 gloss: EXT+NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 62:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): baba=uwla na hərva=ahaŋ ___
+Gloss (with missing item): father=oneS.POSS PSP body=3S.POSS ___
+The English translation of this sentence is:‘My father is sick.’ (lit. my father, his body doesn’t exist)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The existentials aba and abay can also carry an extended sense to indicate the health of the person. Examples (\ref{ex:3:89}a) and \REF{ex:3:90} are greetings, which are questions that can occur with (\ref{ex:3:89}a) or without \REF{ex:3:90} the word zay ‘peace.’ Examples (\ref{ex:3:89}b) and \REF{ex:3:91} are possible replies to either of these questions. Likewise, (\ref{ex:3:92}--\ref{ex:3:93}) show inquiries and possible replies as to the health of a third person.
+A: word: baba=ahaj	 gloss: father=Pl
+B: word: aba	 gloss: EXT
+C: word: abaj	 gloss: EXT+NEG
+D: word: gəvax=uwla	 gloss: field=oneS.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 63:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndahaŋ ___
+Gloss (with missing item): 3S ___
+The English translation of this sentence is:‘He/she is located at the place of reference.’ (lit. he is in away)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The locational existential ava ‘there is in’ (\ref{ex:3:96}--\ref{ex:3:99}) expresses existence ‘in’ a particular location. This existential is the same as the adpositional verbal extension =ava\is{Adpositionals} ‘in’ (see \sectref{sec:7.5.1}) and the locational postposition ava ‘in’ (see \sectref{sec:5.6.2}), all of which express the location in something, either physically or figuratively. In some of the examples below, a response is included which also employs the same existential. Note that the existential in \REF{ex:3:99} carries the directional ‘away from’ (see \sectref{sec:7.5.2}).
+A: word: mə-mət=ava=alaj	 gloss: NOM-die=in=away
+B: word: maj	 gloss: what
+C: word: ava=alaj	 gloss: EXT+in=away
+D: word: aba	 gloss: EXT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 64:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndahaŋ ___
+Gloss (with missing item): 3S ___
+The English translation of this sentence is:‘He/she is located at the place of reference.’ (lit. he is in away)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The locational existential ava ‘there is in’ (\ref{ex:3:96}--\ref{ex:3:99}) expresses existence ‘in’ a particular location. This existential is the same as the adpositional verbal extension =ava\is{Adpositionals} ‘in’ (see \sectref{sec:7.5.1}) and the locational postposition ava ‘in’ (see \sectref{sec:5.6.2}), all of which express the location in something, either physically or figuratively. In some of the examples below, a response is included which also employs the same existential. Note that the existential in \REF{ex:3:99} carries the directional ‘away from’ (see \sectref{sec:7.5.2}).
+A: word: aba	 gloss: EXT
+B: word: ava=alaj	 gloss: EXT+in=away
+C: word: abaj	 gloss: EXT+NEG
+D: word: mə-mət=ava=alaj	 gloss: NOM-die=in=away
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 65:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bahaj a ɬa=ahaj na ndahaŋ ___ ɗaw
+Gloss (with missing item): chief GEN cow=Pl PSP 3S ___ {Q
+The English translation of this sentence is:‘Was the owner of the cows [located] with [you]?' (lit. the chief of the cows, was he ‘on’?)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The existential the morpheme ___ can also be used to mean accompaniment \REF{ex:3:102}.
+A: word: aka	 gloss: EXT
+B: word: abaj	 gloss: EXT+NEG
+C: word: nɛndɪgɛ	 gloss: DEM
+D: word: akar	 gloss: theft
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 66:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Hawa a-ndaɗ-aj nɔkʷ ___
+Gloss (with missing item): Hawa 3S-love-CL twoS ___
+The English translation of this sentence is:‘Hawa loves you a lot.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Verb phrase adverbs include dəren ‘far distance,’ nekwen ‘a small quantity’ \REF{ex:3:106}, the morpheme ___ ‘a large quantity’ \REF{ex:3:107}, sawan ‘without help’ \REF{ex:3:108} and the modal adverbs təta ‘can,’ an adverb of ability (\ref{ex:3:109} and \ref{ex:3:110}), and dewele ‘ought,’ an adverb of necessity \REF{ex:3:111}.
+A: word: ŋgɛhɛ	 gloss: DEM
+B: word: nə-ɗəgal-aj	 gloss: oneS-think-CL
+C: word: dala	 gloss: money
+D: word: gam	 gloss: much
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 67:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ká-z=ala ___
+Gloss (with missing item): twoS+IFV-carry=to ___
+The English translation of this sentence is:‘You can carry it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Verb phrase adverbs include dəren ‘far distance,’ nekwen ‘a small quantity’ \REF{ex:3:106}, gam ‘a large quantity’ \REF{ex:3:107}, sawan ‘without help’ \REF{ex:3:108} and the modal adverbs the morpheme ___ ‘can,’ an adverb of its gloss ___ (\ref{ex:3:109} and \ref{ex:3:110}), and dewele ‘ought,’ an adverb of necessity \REF{ex:3:111}.
+A: word: gədaŋ	 gloss: strength
+B: word: hʷɔr=ahaŋ	 gloss: woman=3S.POSS
+C: word: haj=atəta	 gloss: house\hspaceThis{[=3P.POSS
+D: word: təta	 gloss: ability
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 68:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bahaj á-zɔm ʃɛʃɛ ___
+Gloss (with missing item): chief 3S+IFV-eat meat ___
+The English translation of this sentence is:‘The chief can eat meat.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Verb phrase adverbs include dəren ‘far distance,’ nekwen ‘a small quantity’ \REF{ex:3:106}, gam ‘a large quantity’ \REF{ex:3:107}, sawan ‘without help’ \REF{ex:3:108} and the modal adverbs the morpheme ___ ‘can,’ an adverb of its gloss ___ (\ref{ex:3:109} and \ref{ex:3:110}), and dewele ‘ought,’ an adverb of necessity \REF{ex:3:111}.
+A: word: gədaŋ	 gloss: strength
+B: word: mɪ-g-ijɛ=uwla	 gloss: NOM-do-CL=oneS.POSS
+C: word: təta	 gloss: ability
+D: word: haj=atəta	 gloss: house\hspaceThis{[=3P.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 69:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bahaj á-zɔm ʃɛʃɛ ___
+Gloss (with missing item): chief 3S+IFV-eat meat ___
+The English translation of this sentence is:‘The chief must eat meat.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Verb phrase adverbs include dəren ‘far distance,’ nekwen ‘a small quantity’ \REF{ex:3:106}, gam ‘a large quantity’ \REF{ex:3:107}, sawan ‘without help’ \REF{ex:3:108} and the modal adverbs təta ‘can,’ an adverb of ability (\ref{ex:3:109} and \ref{ex:3:110}), and dewele ‘ought,’ an adverb of necessity \REF{ex:3:111}.
+A: word: wɛlɛj	 gloss: which
+B: word: dəbɔ	 gloss: 1000
+C: word: dɛwɛlɛ	 gloss: necessary
+D: word: mɛmɛ	 gloss: how
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 70:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ n\'{ɔ}-lɔ a kɔsɔkʷɔ ava
+Gloss (with missing item): ___ oneS+IFV-go at market in
+The English translation of this sentence is:‘Today I will go to the market.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Temporal adverbs modify the clause as a whole and can occur clause initially or verb phrase finally (\ref{ex:3:120} and \ref{ex:3:121},\footnote{Note that a kosoko ava ‘in the market’ is a complex adpositional phrase (see \sectref{sec:5.6.2}).} respectively).\footnote{The order of constituents in the verb phrase is given in \chapref{chap:8}.} These include egəne ‘its gloss ___,’ hajan ‘tomorrow,’ apazan ‘yesterday.’
+A: word: apazaŋ	 gloss: yesterday
+B: word: ŋgɪndijɛ	 gloss: DEM
+C: word: ɛgɪnɛ	 gloss: today
+D: word: abaj	 gloss: EXT+NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 71:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n\'{ɔ}-lɔ a kɔsɔkʷɔ ava ___
+Gloss (with missing item): oneS+IFV-go at market in ___
+The English translation of this sentence is:‘I will go to the market tomorrow.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Temporal adverbs modify the clause as a whole and can occur clause initially or verb phrase finally (\ref{ex:3:120} and \ref{ex:3:121},\footnote{Note that a kosoko ava ‘in the market’ is a complex adpositional phrase (see \sectref{sec:5.6.2}).} respectively).\footnote{The order of constituents in the verb phrase is given in \chapref{chap:8}.} These include egəne ‘today,’ hajan ‘its gloss ___,’ apazan ‘yesterday.’
+A: word: hadʒaŋ	 gloss: tomorrow
+B: word: mɪ-g-ijɛ=uwla	 gloss: NOM-do-CL=oneS.POSS
+C: word: hadzaŋ	 gloss: tomorrow
+D: word: ɛgɪnɛ	 gloss: today
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 72:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n\'{ɔ}\'{ɔ}-lɔ ___
+Gloss (with missing item): oneS+POT-go ___
+The English translation of this sentence is:‘I will go again.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Discourse adverbs function at the clause combining level. Grammatically they are found verb phrase final. Semantically they deonte the relationship between their clause to the previous discourse. Discourse adverbs can neither be negated nor intensified by reduplication. They include ese ‘its gloss ___’ (same actor, same action, \ref{ex:3:122}), ete ‘also’ (same action, different actor, \ref{ex:3:123}), fan ‘already’ (expressing Perfect %%\is{Tense, mood, and aspect!Perfect}
+A: word: ɛnɛŋ	 gloss: another
+B: word: ʃɛʃɛ	 gloss: meat
+C: word: faŋ	 gloss: already
+D: word: ɛʃɛ	 gloss: again
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 73:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n\'{ɔ}\'{ɔ}-lɔ ___
+Gloss (with missing item): oneS+POT-go ___
+The English translation of this sentence is:‘I will go too.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Discourse adverbs function at the clause combining level. Grammatically they are found verb phrase final. Semantically they deonte the relationship between their clause to the previous discourse. Discourse adverbs can neither be negated nor intensified by reduplication. They include ese ‘again’ (same actor, same action, \ref{ex:3:122}), ete ‘its gloss ___’ (same action, different actor, \ref{ex:3:123}), fan ‘already’ (expressing Perfect %%\is{Tense, mood, and aspect!Perfect}
+A: word: ɛnɛŋ	 gloss: another
+B: word: ɛtɛmɛ	 gloss: onion
+C: word: mɪ-ʒʊm-ɛ=uwla	 gloss: NOM-eat-CL=oneS.POSS
+D: word: ɛtɛ	 gloss: also
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 74:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): n\`{ɛ}-g-ɛ na ___
+Gloss (with missing item): oneS+PFV-do-CL 3S.DO ___
+The English translation of this sentence is:‘I did it already.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: aspect in that the action is performed in the past with effects continuing to the present, \ref{ex:3:124}), kəlo ‘its gloss ___’ or ‘before’ (the action was performed at least once before a particular time, \ref{ex:3:125}).
+A: word: mɪ-g-ijɛ=aŋgʷɔ	 gloss: NOM-do-CL=twoS.POSS
+B: word: aɮa	 gloss: now
+C: word: mɪ-mbɪɗ-ɛ=ahaŋ	 gloss: NOM-remain-CL=3S.POSS
+D: word: faŋ	 gloss: already
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 75:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nə-mənzar ndahaŋ ___
+Gloss (with missing item): oneS-see 3S ___
+The English translation of this sentence is:‘I have seen him/her before.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: aspect in that the action is performed in the past with effects continuing to the present, \ref{ex:3:124}), kəlo ‘already’ or ‘its gloss ___’ (the action was performed at least once its gloss ___ a particular time, \ref{ex:3:125}).
+A: word: ɛpɛlɛj	 gloss: when
+B: word: mʊlɔkʷɔ=ahaj	 gloss: Moloko=Pl
+C: word: təta	 gloss: ability
+D: word: kʊlɔ	 gloss: before
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 76:
+You are a linguist specializing in Moloko. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [hʊmbɔ ga a-ndaj a-sak ɛlɛ=ahaŋ] ___
+Gloss (with missing item): flour ADJ 3S-PRG 3S-multiply thing=3S.POSS ___
+The English translation of this sentence is:‘The flour was multiplying all by itself (lit. its things), sound of multiplying.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When they act as adverbs, ideophones can occupy one of two slots in the clause. When the verb they modify is finite, ideophones will occur at the end of the clause following other adverbs (\ref{ex:3:148}--\ref{ex:3:150} and all of the examples in \tabref{tab:3.23}). In a narrative, ideophones that function as adverbs can be found wherever the language is vivid. They occur most often at the inciting moment and the peak\is{Focus and prominence!Discourse peak} section of a narrative. The ideophones in each clause are bolded and the verb phrase is delimited by square brackets.
+A: word: a-sak	 gloss: 3S-multiply
+B: word: nɛndijɛ	 gloss: DEM
+C: word: wuʃɛkɛkɛ	 gloss: ID:multiply
+D: word: mɛkɛtʃ	 gloss: knife
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
