@@ -1,0 +1,117 @@
+Question 0:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma=tï ___ ul ma=na-ta
+Gloss (with missing item): 3SG.OBJ=take ___ with 3SG.OBJ=give-COND
+The English translation of this sentence is:`If [we] bring it first …’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The spatial \isi{metaphor} of ‘its gloss ___’ to mean ‘front’ has been extended to a \isi{temporal} \isi{metaphor} to mean ‘earlier, former’, as in \REF{ex:sem:16}.
+A: word: ip	 gloss: nose
+B: word: ipka	 gloss: before
+C: word: we-lo-nda	 gloss: cut-cut-IRR
+D: word: ndï=wo-p-e	 gloss: 3PL=sleep-PFV-DEP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 1:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): unan wa lolop wa ___ wopa=p-ta unan wa mbï na-p-na
+Gloss (with missing item): 1PL.INCL just just just ___ all=COP-COND 1PL.INCL village here DETR-be-IRR
+The English translation of this sentence is:`If we just have full hearts, then we will stay here [safely] in the village.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Similarly, the more general term the morpheme ___ ‘its gloss ___’ (likely derived from in ‘in, inside’ plus nji ‘thing’), which can refer to the inside of anything, but typically refers to internal organs, can also have a \isi{metaphor}ical sense (cf. \ili{English} guts), as in \REF{ex:sem:21}.
+A: word: ma-nji	 gloss: 3SG.OBJ-POSS
+B: word: kanam	 gloss: beside
+C: word: amun=p-e	 gloss: now=COP-DEP
+D: word: inji	 gloss: innards
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ala ___ ma=nap lo-p
+Gloss (with missing item): PL.DIST ___ 3SG.OBJ=for go-PFV
+The English translation of this sentence is:`They recently went [to Madang] for his sake.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As mentioned, the morpheme ___ ‘its gloss ___’ can mean either ‘its gloss ___’ or ‘today’; within the domain of this former meaning, the morpheme ___ ‘its gloss ___’ can be employed to convey a range of \isi{temporal} meanings, sometimes through the help of the \isi{copular enclitic} (see \sectref{sec:8.2.1} on \isi{temporal adverb}s). For example, it can mean ‘recently’ \REF{ex:sem:27} or ‘still’ \REF{ex:sem:28}, among other things.
+A: word: ndï=wo-p-e	 gloss: 3PL=sleep-PFV-DEP
+B: word: mbï	 gloss: here
+C: word: amun=p-e	 gloss: now=COP-DEP
+D: word: amun	 gloss: now
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 3:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ___ wol ama-e
+Gloss (with missing item): 1SG ___ breast eat-IPFV
+The English translation of this sentence is:`I was still nursing.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As mentioned, amun ‘now’ can mean either ‘now’ or ‘today’; within the domain of this former meaning, amun ‘now’ can be employed to convey a range of \isi{temporal} meanings, sometimes through the help of the \isi{copular enclitic} (see \sectref{sec:8.2.1} on \isi{temporal adverb}s). For example, it can mean ‘recently’ \REF{ex:sem:27} or ‘still’ \REF{ex:sem:28}, among other things.
+A: word: wo-p-e	 gloss: sleep-PFV-DEP
+B: word: amun=p-ta	 gloss: now=COP{-cond}
+C: word: amun=p-e	 gloss: now=COP-DEP
+D: word: anjikaka=p-e	 gloss: how=COP-DEP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 4:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nï ma=n Chris ma=ta
+Gloss (with missing item): ___ 1SG 3SG.OBJ=OBL [name] 3SG.OBJ=say
+The English translation of this sentence is:`The next day, I told Chris.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In Ulwa, the passage of time is generally expressed with verbal constructions. The verb wo- ‘sleep’, usually in the \isi{perfective} form wop ‘sleep [\textsc{pfv}]’, has become almost \isi{fossilized} as an \isi{adverb} meaning ‘the next day’. Examples \REF{ex:sem:29} and \REF{ex:sem:30} illustrate the use of wop ‘sleep [\textsc{pfv]’} to indicate the passage of one day.
+A: word: lo-wo-p-e	 gloss: IRR-sleep-PFV-DEP
+B: word: nï=angani	 gloss: 1SG=behind
+C: word: amun=p-e	 gloss: now=COP-DEP
+D: word: wo-p-e	 gloss: sleep-PFV-DEP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 5:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ndï=wana-p ___ wolka ndï=tï tamndï ndï=n u-p
+Gloss (with missing item): 1SG 3PL=cook-PFV ___ again 3PL=take owner 3PL=OBL put-PFV
+The English translation of this sentence is:`I cooked them, and the next day in turn gave them to the owners.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In Ulwa, the passage of time is generally expressed with verbal constructions. The verb wo- ‘sleep’, usually in the \isi{perfective} form wop ‘sleep [\textsc{pfv}]’, has become almost \isi{fossilized} as an \isi{adverb} meaning ‘the next day’. Examples \REF{ex:sem:29} and \REF{ex:sem:30} illustrate the use of wop ‘sleep [\textsc{pfv]’} to indicate the passage of one day.
+A: word: wo-p-e	 gloss: sleep-PFV-DEP
+B: word: ndï=wo-p-e	 gloss: 3PL=sleep-PFV-DEP
+C: word: wo-p	 gloss: sleep-PFV
+D: word: lo-wo-p-e	 gloss: IRR-sleep-PFV-DEP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 6:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ilom lele ___ atana mï na=n wot yena ma=ta
+Gloss (with missing item): day three ___ older.sister 3SG.SUBJ talk=OBL younger woman 3SG.OBJ=say
+The English translation of this sentence is:`After three nights, the older sister said to the younger sister: …’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The verb form wop ‘sleep [\textsc{pfv]’} can also be used to express longer passages of time. In \REF{ex:sem:32}, this verb is used \isi{transitive}ly, with the amount of time passed as its \isi{direct object}.
+A: word: ndï=wo-p-e	 gloss: 3PL=sleep-PFV-DEP
+B: word: lo-wo-p-e	 gloss: IRR-sleep-PFV-DEP
+C: word: amun	 gloss: now
+D: word: wo-p-e	 gloss: sleep-PFV-DEP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 7:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): iwïl lele ___ yeta nga na=n ma=ta
+Gloss (with missing item): moon three ___ man SG.PROX talk=OBL 3SG.OBJ=say
+The English translation of this sentence is:`After three months, the man told her: …’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:sem:33}, the passage of time is marked with the verb tï- ‘take’, which has as its \isi{direct object} the amount of time passed. Here, as in \REF{ex:sem:32}, the \isi{object marker} is \isi{plural} to agree with the number of units of time (days, months, etc.) that have passed.
+A: word: ndï=na-n-e	 gloss: 3PL=give-PFV-DEP
+B: word: ndï=tï-na	 gloss: 3PL=take-IRR
+C: word: ndï=tï-n-e	 gloss: 3PL=take-PFV-DEP
+D: word: ndï=wo-p-e	 gloss: 3PL=sleep-PFV-DEP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 8:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ilom lele ___ atana mï na=n wot yena ma=ta
+Gloss (with missing item): day three ___ older.sister 3SG.SUBJ talk=OBL younger woman 3SG.OBJ=say
+The English translation of this sentence is:`After three nights, the older sister said to the younger sister: …’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:sem:33}, the passage of time is marked with the verb tï- ‘take’, which has as its \isi{direct object} the amount of time passed. Here, as in \REF{ex:sem:32}, the \isi{object marker} is \isi{plural} to agree with the number of units of time (days, months, etc.) that have passed.
+A: word: wo-p-e	 gloss: sleep-PFV-DEP
+B: word: ndï=wo-p-e	 gloss: 3PL=sleep-PFV-DEP
+C: word: lo-wo-p-e	 gloss: IRR-sleep-PFV-DEP
+D: word: amun=p-e	 gloss: now=COP-DEP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+

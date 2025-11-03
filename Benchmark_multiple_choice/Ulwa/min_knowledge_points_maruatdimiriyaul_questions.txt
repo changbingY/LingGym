@@ -1,0 +1,377 @@
+Question 0:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): itam mï-a apa ___
+Gloss (with missing item): father 3SG.SUBJ-INT house ___
+The English translation of this sentence is:‘Father is building a house.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentences \REF{ex:mdy:3}, \REF{ex:mdy:4}, and \REF{ex:mdy:5} exemplify \isi{imperfective} verb forms in Yaul.
+A: word: sa-la	 gloss: cry-IRR
+B: word: ma=ita-en	 gloss: 3SG.OBJ=build-NMLZ
+C: word: ma=unda-e	 gloss: 3SG.OBJ=go-IPFV
+D: word: ma=ita-e	 gloss: 3SG.OBJ=build-IPFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 1:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): sïmboy mï-a ya ___
+Gloss (with missing item): child 3SG.SUBJ-INT coconut ___
+The English translation of this sentence is:‘The child grinds the coconut.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentences \REF{ex:mdy:3}, \REF{ex:mdy:4}, and \REF{ex:mdy:5} exemplify \isi{imperfective} verb forms in Yaul.
+A: word: ma=n	 gloss: 3SG.OBJ=OBL
+B: word: ndï=uta-e	 gloss: 3PL=grind-IPFV
+C: word: ma=uta-p	 gloss: 3SG.OBJ=grind-PFV
+D: word: ma=uta-e	 gloss: 3SG.OBJ=grind-IPFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yeta wokïn mï tïn samola ___
+Gloss (with missing item): man huge 3SG.SUBJ dog small ___
+The English translation of this sentence is:‘The big man is hitting the small dog.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentences \REF{ex:mdy:3}, \REF{ex:mdy:4}, and \REF{ex:mdy:5} exemplify \isi{imperfective} verb forms in Yaul.
+A: word: ma=asa-p	 gloss: 3SG.OBJ=hit-PFV
+B: word: ma=asa-i	 gloss: 3SG.OBJ=hit-IPFV
+C: word: ma=unda-e	 gloss: 3SG.OBJ=go-IPFV
+D: word: mini=lo-pe	 gloss: 3DU.OBJ=cut-PFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 3:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndï awaw kambïn ___
+Gloss (with missing item): 3PL yesterday child ___
+The English translation of this sentence is:‘Yesterday they hit the child.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentences \REF{ex:mdy:6} and \REF{ex:mdy:7} exemplify \isi{perfective} verb forms in Yaul.
+A: word: n-e	 gloss: want-IPFV
+B: word: ma=asa-pi	 gloss: 3SG.OBJ=hit-PFV
+C: word: ma=asa-p-e	 gloss: 3SG.OBJ=hit-PFV-DEP]
+D: word: ma=asa-p	 gloss: 3SG.OBJ=hit-PFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 4:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): inam ngata mï-a ___
+Gloss (with missing item): mother grand 3SG.SUBJ-INT ___
+The English translation of this sentence is:‘The old woman is dead [= has died].’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentences \REF{ex:mdy:6} and \REF{ex:mdy:7} exemplify \isi{perfective} verb forms in Yaul.
+A: word: li-pe	 gloss: die-PFV
+B: word: sa-la	 gloss: cry-IRR
+C: word: ni-p-op	 gloss: die-PFV-PFV
+D: word: unan=wali-nda	 gloss: 1PL.INCL=hit-IRR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 5:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ___ mï sa-la n-e
+Gloss (with missing item): 1SG ___ 3SG.SUBJ cry-IRR want-IPFV
+The English translation of this sentence is:‘I’ll hit him and he’ll cry.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentences \REF{ex:mdy:8} and \REF{ex:mdy:9} exemplify \isi{irrealis} verb forms in Yaul.
+A: word: ambla=wali-nda	 gloss: PL.REFL=hit-IRR
+B: word: ma=wali-nda	 gloss: 3SG.OBJ=hit-IRR
+C: word: n-e	 gloss: want-IPFV
+D: word: ma=asa	 gloss: 3SG.OBJ=hit
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 6:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ma=wali-nda mï ___ n-e
+Gloss (with missing item): 1SG 3SG.OBJ=hit-IRR 3SG.SUBJ ___ want-IPFV
+The English translation of this sentence is:‘I’ll hit him and he’ll cry.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentences \REF{ex:mdy:8} and \REF{ex:mdy:9} exemplify \isi{irrealis} verb forms in Yaul.
+A: word: anjika-la-ka	 gloss: how.many-IRR-let
+B: word: ango	 gloss: NEG
+C: word: sa-la	 gloss: cry-IRR
+D: word: sa-e	 gloss: cry-DEP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 7:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): asi ___
+Gloss (with missing item): sit ___
+The English translation of this sentence is:‘[We] will sit down.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentences \REF{ex:mdy:8} and \REF{ex:mdy:9} exemplify \isi{irrealis} verb forms in Yaul.
+A: word: ndï=la-nda	 gloss: 3PL=eat{-irr}
+B: word: ka-nda	 gloss: let-IRR
+C: word: ma=asa-i	 gloss: 3SG.OBJ=hit-IPFV
+D: word: la-ka-na	 gloss: IRR-let-IRR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 8:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): itam mï-a num nini ___
+Gloss (with missing item): father 3SG.SUBJ-INT canoe two ___
+The English translation of this sentence is:‘Father carved two canoes.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Thus there is often apparent \isi{homophony} between the forms una(n) \textsc{‘1pl.incl’} and una(wa) \textsc{‘2pl-int’} and between nguna(n) \textsc{‘1du.incl}’ and nguna(wa) \linebreak \textsc{‘2du-int’}. Furthermore, the distinction between subject and non-subject forms, generally only observable in \textsc{3sg} forms, is mostly eroded in Yaul, since the subject form /mï/ is frequently pronounced [ma] (< /mï-a/), thereby becoming \isi{homophonous} with the non-subject form /ma/. However, the distinction seems to be partially maintained in the \textsc{3du}, where the non-subject form has the \isi{allomorph} [mini=] when immediately preceding /n-/. In fact, in Yaul, as opposed to in Manu, /l-/ conditions this \isi{allomorphy} as well as /n-/, as illustrated by \REF{ex:mdy:10}.
+A: word: mini=lo-pe	 gloss: 3DU.OBJ=cut-PFV
+B: word: me-ko	 gloss: NEG-just
+C: word: min=lo-p	 gloss: 3DU=cut-PFV
+D: word: ma=lo-p	 gloss: 3SG.OBJ=cut-PFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 9:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): itam mï-a num nini ___
+Gloss (with missing item): father 3SG.SUBJ-INT canoe two ___
+The English translation of this sentence is:‘Father carved two canoes.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{ex:mdy:10} also exhibits the use of the \isi{intensive} \isi{suffix} -a ‘\textsc{int}’ on \isi{subject marker}s, which is common in Yaul.
+A: word: n-e	 gloss: want-IPFV
+B: word: min=lo-p	 gloss: 3DU=cut-PFV
+C: word: mini=lo-pe	 gloss: 3DU.OBJ=cut-PFV
+D: word: ma=lo-p	 gloss: 3SG.OBJ=cut-PFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 10:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï u=wïl la-ta-nda ___
+Gloss (with missing item): 1SG 2SG=with DETR-say-IRR ___
+The English translation of this sentence is:‘I want to speak with you.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: While \isi{periphrastic} ‘going’ \isi{verb phrase}s are not attested in Yaul, it is very common for \isi{future}-\isi{time} sentences to employ what appears to be a \isi{volitive}/\isi{conative} \isi{auxiliary verb} ne {\textasciitilde} ni ‘want, will, try’, as in examples \REF{ex:mdy:12} through \REF{ex:mdy:15}.
+A: word: ma=tï	 gloss: 3SG.OBJ=take
+B: word: moko-e	 gloss: take-IPFV
+C: word: ma-n-e	 gloss: go-IPFV-DEP
+D: word: n-e	 gloss: want-IPFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 11:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï-a umbe wo ma-na ___
+Gloss (with missing item): 1SG-INT tomorrow village go-IRR ___
+The English translation of this sentence is:‘I want to go to the village tomorrow.’\footnote{It should be observed that the Yaul \isi{irrealis} form of ‘go’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: While \isi{periphrastic} ‘going’ \isi{verb phrase}s are not attested in Yaul, it is very common for \isi{future}-\isi{time} sentences to employ what appears to be a \isi{volitive}/\isi{conative} \isi{auxiliary verb} ne {\textasciitilde} ni ‘want, will, try’, as in examples \REF{ex:mdy:12} through \REF{ex:mdy:15}.
+A: word: moko-e	 gloss: take-IPFV
+B: word: n-e	 gloss: want-IPFV
+C: word: ma=asa-pi	 gloss: 3SG.OBJ=hit-PFV
+D: word: ma-n-e	 gloss: go-IPFV-DEP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 12:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï-a umbe indï u=andï-la ___
+Gloss (with missing item): 1SG-INT tomorrow eye 2SG=see-IRR ___
+The English translation of this sentence is:‘I’ll see you tomorrow.’\footnote{In example \REF{ex:mdy:14} we see a reduction of nïmndï ‘eye’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \glt ‘I’ll see you tomorrow.’\footnote{In example \REF{ex:mdy:14} we see a reduction of nïmndï ‘eye’ to [indï], which seems to occur commonly in Yaul when this word is used as part of a \isi{discontinuous} verb construction.} [elicited]
+A: word: ma-n-e	 gloss: go-IPFV-DEP
+B: word: n-e	 gloss: want-IPFV
+C: word: ma=n	 gloss: 3SG.OBJ=OBL
+D: word: moko-e	 gloss: take-IPFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 13:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ___ mï sa-la n-e
+Gloss (with missing item): 1SG ___ 3SG.SUBJ cry-IRR want-IPFV
+The English translation of this sentence is:‘I’ll hit him and he’ll cry.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In example \REF{ex:mdy:8}, which features the \is{volitionality} non-volitional verb ‘cry’, the \isi{auxiliary} ne ‘want, will, try’ seems to have little or no \isi{volitive} or \isi{conative} force, presumably simply indicating futurity or \isi{potentiality}. Example \REF{ex:mdy:12} additionally shows the use of the \isi{detransitivizing} \isi{prefix} la- ‘\textsc{detr’}, the expected \isi{cognate} of Manu na- ‘\textsc{detr’}.
+A: word: ma=wali-nda	 gloss: 3SG.OBJ=hit-IRR
+B: word: ambla=wali-nda	 gloss: PL.REFL=hit-IRR
+C: word: ka-nda	 gloss: let-IRR
+D: word: ma=asa	 gloss: 3SG.OBJ=hit
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 14:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ma=wali-nda mï ___ n-e
+Gloss (with missing item): 1SG 3SG.OBJ=hit-IRR 3SG.SUBJ ___ want-IPFV
+The English translation of this sentence is:‘I’ll hit him and he’ll cry.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In example \REF{ex:mdy:8}, which features the \is{volitionality} non-volitional verb ‘cry’, the \isi{auxiliary} ne ‘want, will, try’ seems to have little or no \isi{volitive} or \isi{conative} force, presumably simply indicating futurity or \isi{potentiality}. Example \REF{ex:mdy:12} additionally shows the use of the \isi{detransitivizing} \isi{prefix} la- ‘\textsc{detr’}, the expected \isi{cognate} of Manu na- ‘\textsc{detr’}.
+A: word: ma=asa-i	 gloss: 3SG.OBJ=hit-IPFV
+B: word: anjika-la-ka	 gloss: how.many-IRR-let
+C: word: sa-e	 gloss: cry-DEP
+D: word: sa-la	 gloss: cry-IRR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 15:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï u=wïl la-ta-nda ___
+Gloss (with missing item): 1SG 2SG=with DETR-say-IRR ___
+The English translation of this sentence is:‘I want to speak with you.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In example \REF{ex:mdy:8}, which features the \is{volitionality} non-volitional verb ‘cry’, the \isi{auxiliary} ne ‘want, will, try’ seems to have little or no \isi{volitive} or \isi{conative} force, presumably simply indicating futurity or \isi{potentiality}. Example \REF{ex:mdy:12} additionally shows the use of the \isi{detransitivizing} \isi{prefix} la- ‘\textsc{detr’}, the expected \isi{cognate} of Manu na- ‘\textsc{detr’}.
+A: word: n-e	 gloss: want-IPFV
+B: word: moko-e	 gloss: take-IPFV
+C: word: ma-n-e	 gloss: go-IPFV-DEP
+D: word: me-ko	 gloss: NEG-just
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 16:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yana mï ya ___ numon ma=na-ne
+Gloss (with missing item): woman 3SG.SUBJ coconut ___ husband 3SG.OBJ=give-PFV
+The English translation of this sentence is:‘The woman gave the coconut to [her] husband.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As in Manu, ‘giving’ constructions are formed with two clauses, the first containing the verb tï- ‘take’, the second containing the verb na- ‘give’, as in \REF{ex:mdy:15a}.
+A: word: ma=tï	 gloss: 3SG.OBJ=take
+B: word: ma=ala	 gloss: 3SG.OBJ=for
+C: word: ma=asa-i	 gloss: 3SG.OBJ=hit-IPFV
+D: word: ma=tï-n	 gloss: 3SG.OBJ=take-PFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 17:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yana mï ya ma=tï numon ___
+Gloss (with missing item): woman 3SG.SUBJ coconut 3SG.OBJ=take husband ___
+The English translation of this sentence is:‘The woman gave the coconut to [her] husband.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As in Manu, ‘giving’ constructions are formed with two clauses, the first containing the verb tï- ‘take’, the second containing the verb na- ‘give’, as in \REF{ex:mdy:15a}.
+A: word: ma=ta-p	 gloss: 3SG.OBJ=say-PFV
+B: word: ma=na-ne	 gloss: 3SG.OBJ=give-PFV
+C: word: ma=na-na	 gloss: 3SG.OBJ=give-PFV
+D: word: n-e	 gloss: want-IPFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 18:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): itam mala ___ namndï ma=asa-e
+Gloss (with missing item): father spear ___ pig 3SG.OBJ=hit-IPFV
+The English translation of this sentence is:‘Father shoots the pig with the spear.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Oblique marking \is{oblique marker} works the same in Yaul as in Manu (\sectref{sec:11.4}). Moreover, the form of the marker is =n ‘\textsc{obl}’, suggesting that the \ili{Pre-Ulwa} form was *=n, as opposed to \textsuperscript{†}/=l/. An example of \isi{oblique} marking in Yaul is given in \REF{ex:mdy:16}.
+A: word: ma=na-na	 gloss: 3SG.OBJ=give-PFV
+B: word: (ko)	 gloss: (NEG)
+C: word: ma=p	 gloss: 3SG.OBJ=be
+D: word: ma=n	 gloss: 3SG.OBJ=OBL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 19:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mï ___ yana me
+Gloss (with missing item): 3SG.SUBJ ___ woman NEG
+The English translation of this sentence is:‘He is not a woman.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Question}s and \isi{command}s are formulated the same in Yaul as in Manu (\sectref{sec:13.1}, \sectref{sec:13.2}). \isi{Negation} likewise occurs with a \isi{negator} the morpheme ___ ‘\textsc{neg}’, which follows the subject. Discontinuous \isi{negative} constructions are also possible, namely when \is{negation} negating \is{non-verbal predication} non-verbal \isi{predicate}s. The final element is, as in Manu, me ‘\textsc{neg}’, as seen in \REF{ex:mdy:17}.
+A: word: (ko)	 gloss: (NEG)
+B: word: ango	 gloss: NEG
+C: word: angos	 gloss: what
+D: word: ma=wali-nda	 gloss: 3SG.OBJ=hit-IRR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 20:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mï ango yana ___
+Gloss (with missing item): 3SG.SUBJ NEG woman ___
+The English translation of this sentence is:‘He is not a woman.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Question}s and \isi{command}s are formulated the sathe morpheme ___ in Yaul as in Manu (\sectref{sec:13.1}, \sectref{sec:13.2}). \isi{Negation} likewise occurs with a \isi{negator} ango ‘\textsc{neg}’, which follows the subject. Discontinuous \isi{negative} constructions are also possible, nathe morpheme ___ly when \is{negation} negating \is{non-verbal predication} non-verbal \isi{predicate}s. The final elethe morpheme ___nt is, as in Manu, the morpheme ___ ‘\textsc{neg}’, as seen in \REF{ex:mdy:17}.
+A: word: ma=na-ne	 gloss: 3SG.OBJ=give-PFV
+B: word: ame	 gloss: basket
+C: word: (ko)	 gloss: (NEG)
+D: word: me	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 21:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nï-nji me-ko
+Gloss (with missing item): ___ 1SG-POSS NEG-just
+The English translation of this sentence is:‘[It] is not mine.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Interesting, \citet{Laycock1971a} records a \isi{non-verbal negator} <meko>, which reflects the opposite ordering of morphemes as found in the Manu \isi{non-verbal negator} ko-me ‘\textsc{neg}’ (\sectref{sec:13.3.1}) \REF{ex:mdy:18}.
+A: word: angos	 gloss: what
+B: word: (ko)	 gloss: (NEG)
+C: word: ka-nda	 gloss: let-IRR
+D: word: ango	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 22:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ango nï-nji ___
+Gloss (with missing item): NEG 1SG-POSS ___
+The English translation of this sentence is:‘[It] is not mine.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Interesting, \citet{Laycock1971a} records a \isi{non-verbal negator} <meko>, which reflects the opposite ordering of morphemes as found in the Manu \isi{non-verbal negator} ko-me ‘\textsc{neg}’ (\sectref{sec:13.3.1}) \REF{ex:mdy:18}.
+A: word: ma=asa-pi	 gloss: 3SG.OBJ=hit-PFV
+B: word: ango	 gloss: NEG
+C: word: me-ko	 gloss: NEG-just
+D: word: me-p	 gloss: sew-PFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 23:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ___ mundï ama-pe ko
+Gloss (with missing item): 1SG ___ food eat-PFV NEG
+The English translation of this sentence is:‘I have not eaten.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \citet{Laycock1971a} also records <ko> alone as an occasional postverbal element, namely in \isi{negative} \isi{declarative} sentences, such as \REF{ex:mdy:19} and \REF{ex:mdy:20}.
+A: word: ma=asa-pi	 gloss: 3SG.OBJ=hit-PFV
+B: word: (ko)	 gloss: (NEG)
+C: word: angos	 gloss: what
+D: word: ango	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 24:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ango mundï ama-pe ___
+Gloss (with missing item): 1SG NEG food eat-PFV ___
+The English translation of this sentence is:‘I have not eaten.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \citet{Laycock1971a} also records <the morpheme ___> alone as an occasional postverbal element, namely in \isi{negative} \isi{declarative} sentences, such as \REF{ex:mdy:19} and \REF{ex:mdy:20}.
+A: word: ko	 gloss: NEG
+B: word: kowe	 gloss: [name]
+C: word: (ko)	 gloss: (NEG)
+D: word: ma=uta-e	 gloss: 3SG.OBJ=grind-IPFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 25:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ___ kïkal ma=wala-i ko
+Gloss (with missing item): 1SG ___ ear 3SG.OBJ=feel-IPFV NEG
+The English translation of this sentence is:‘I do not hear it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \citet{Laycock1971a} also records <ko> alone as an occasional postverbal element, namely in \isi{negative} \isi{declarative} sentences, such as \REF{ex:mdy:19} and \REF{ex:mdy:20}.
+A: word: ma=ita-e	 gloss: 3SG.OBJ=build-IPFV
+B: word: angos	 gloss: what
+C: word: ango	 gloss: NEG
+D: word: (ko)	 gloss: (NEG)
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 26:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ango kïkal ma=wala-i ___
+Gloss (with missing item): 1SG NEG ear 3SG.OBJ=feel-IPFV ___
+The English translation of this sentence is:‘I do not hear it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \citet{Laycock1971a} also records <the morpheme ___> alone as an occasional postverbal element, namely in \isi{negative} \isi{declarative} sentences, such as \REF{ex:mdy:19} and \REF{ex:mdy:20}.
+A: word: ko	 gloss: NEG
+B: word: me-ko	 gloss: NEG-just
+C: word: (ko)	 gloss: (NEG)
+D: word: kowe	 gloss: [name]
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 27:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): u ___ ma=la-nda n-e (ko)
+Gloss (with missing item): 2SG ___ 3SG=eat-IRR want-IPFV (NEG)
+The English translation of this sentence is:‘Do not eat it!’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In my own notes, I have one example of the \isi{negator} ko ‘\textsc{neg}’ occurring optionally in a \isi{negative command} \REF{ex:mdy:21}. I have not found any equivalent of Manu wana ‘\textsc{proh}’ being used in Yaul.
+A: word: ango	 gloss: NEG
+B: word: n-e	 gloss: want-IPFV
+C: word: angos	 gloss: what
+D: word: (ko)	 gloss: (NEG)
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 28:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): u ango ma=la-nda n-e ___
+Gloss (with missing item): 2SG NEG 3SG=eat-IRR want-IPFV ___
+The English translation of this sentence is:‘Do not eat it!’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In my own notes, I have one example of the \isi{negator} ko ‘\textsc{neg}’ occurring optionally in a \isi{negative command} \REF{ex:mdy:21}. I have not found any equivalent of Manu wana ‘\textsc{proh}’ being used in Yaul.
+A: word: ma=n	 gloss: 3SG.OBJ=OBL
+B: word: (ko)	 gloss: (NEG)
+C: word: kowe	 gloss: [name]
+D: word: ango	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+

@@ -1,0 +1,1040 @@
+Question 0:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Kambok inom ngusuwa ___ asi-ka ndï=ula-e
+Gloss (with missing item): Kambuku mother poor ___ sit-let 3PL=weave-IPFV
+The English translation of this sentence is:`Two poor women from Kambuku [village] used to sit and weave them.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Some speakers have reported an alternative 3\textsc{du} pronominal form /the morpheme ___/. However, it is not well attested in my corpus. The only examples of it seem to reflect an adnominal \isi{demonstrative} rather than a \isi{personal pronoun}. I suspect that it is an abridged form of the \isi{dual} \isi{distal} \isi{demonstrative} athe morpheme ___ (cf. the form [nda] for the \isi{singular} \isi{distal} \isi{demonstrative} anda, \sectref{sec:7.3}). The form [the morpheme ___], for example, occurs at the end of an NP in \REF{ex:pron:1}.
+A: word: min	 gloss: 3DU
+B: word: ndin	 gloss: 3DU?
+C: word: nga-nam	 gloss: SG.PROX{-emph}
+D: word: andin	 gloss: DU.DIST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 1:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wik wopa kwa anda nini ___
+Gloss (with missing item): week all one SG.DIST two ___
+The English translation of this sentence is:`for all of one week, or two’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:pron:2}, the functional similarity between [a]ndin ‘\textsc{du.dist}’ (‘those two’) and anda ‘\textsc{sg.dist}’ (‘that’) is clear, as each form immediately follows a corresponding \isi{numeral}.
+A: word: min=tï	 gloss: 3DU=take
+B: word: ma=tï-na	 gloss: 3SG.OBJ=take-IRR
+C: word: ma-ambi	 gloss: 3SG.OBJ-TOP
+D: word: ndin=tï-na	 gloss: 3DU?=take-IRR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ anapa mï atal-a-p
+Gloss (with missing item): ___ sister 3SG.SUBJ laughter-break-PFV
+The English translation of this sentence is:`My sister laughed.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Possessive forms may refer to first \isi{person} \REF{ex:pron:3}, second \isi{person} \REF{ex:pron:4}, or third \isi{person} \REF{ex:pron:5} \isi{possessor}s.
+A: word: nï-nji	 gloss: 1SG-POSS
+B: word: u-nji	 gloss: 2SG-POSS
+C: word: ndï-nji	 gloss: 3PL-POSS
+D: word: kuma	 gloss: some
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 3:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ aweta mï anma
+Gloss (with missing item): ___ friend 3SG.SUBJ good
+The English translation of this sentence is:`Your friend is nice.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Possessive forms may refer to first \isi{person} \REF{ex:pron:3}, second \isi{person} \REF{ex:pron:4}, or third \isi{person} \REF{ex:pron:5} \isi{possessor}s.
+A: word: mï-nam	 gloss: 3SG.SUBJ-EMPH
+B: word: nï-nji	 gloss: 1SG-POSS
+C: word: ma-nji	 gloss: 3SG.OBJ-POSS
+D: word: u-nji	 gloss: 2SG-POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 4:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ wonmi ndï namli=p
+Gloss (with missing item): ___ hair 3PL soft=COP
+The English translation of this sentence is:`Her hair is soft.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Possessive forms may refer to first \isi{person} \REF{ex:pron:3}, second \isi{person} \REF{ex:pron:4}, or third \isi{person} \REF{ex:pron:5} \isi{possessor}s.
+A: word: ma-nji	 gloss: 3SG.OBJ-POSS
+B: word: ma-awa	 gloss: 3SG.OBJ-INT
+C: word: kuma-nji	 gloss: some{-poss}
+D: word: u-awa	 gloss: 2SG-INT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 5:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndï lïmndï ___ aweta ma=ala
+Gloss (with missing item): 3PL eye ___ friend 3SG.OBJ=see
+The English translation of this sentence is:`They saw their friend.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Possessor}s may be \isi{singular}, \isi{dual}, or \isi{plural}, and may occur in object roles as well as subject roles. In example \REF{ex:pron:6}, the possessive form refers to a third \isi{person} \isi{plural} \isi{possessor}, here part of a \isi{direct object} NP.
+A: word: un-nji	 gloss: 2PL-POSS
+B: word: ambin-nji	 gloss: DU.REFL-POSS
+C: word: nï-nji	 gloss: 1SG-POSS
+D: word: ndï-nji	 gloss: 3PL-POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 6:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï lïmndï ___ aweta ma=ala
+Gloss (with missing item): 1SG eye ___ friend 3SG.OBJ=see
+The English translation of this sentence is:`I saw my own friend.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These forms are similar in function to certain pronouns found in some other languages, such as the \ili{Latin} possessive \isi{reflexive} \isi{pronoun} suus ‘his/her/its/their own’. In addition to their use in clarifying third \isi{person} \isi{antecedent}s, however, the Ulwa forms may also be used with first or second \isi{person} reference in order to convey the sense ‘my own’, ‘our own’, ‘your own’, and so on, as in \REF{ex:pron:9}, \REF{ex:pron:10}, and \REF{ex:pron:11}.
+A: word: ambï-nji	 gloss: SG.REFL-POSS
+B: word: angos	 gloss: what
+C: word: ma=nambï-nïkï-p-e	 gloss: 3SG.OBJ=skin-dig-PFV-DEP
+D: word: ambla-nji	 gloss: PL.REFL-POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 7:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): min lïmndï ___ aweta ma=ala
+Gloss (with missing item): 3DU eye ___ friend 3SG.OBJ=see
+The English translation of this sentence is:`The two of them saw their own friend.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These forms are similar in function to certain pronouns found in some other languages, such as the \ili{Latin} possessive \isi{reflexive} \isi{pronoun} suus ‘his/her/its/their own’. In addition to their use in clarifying third \isi{person} \isi{antecedent}s, however, the Ulwa forms may also be used with first or second \isi{person} reference in order to convey the sense ‘my own’, ‘our own’, ‘your own’, and so on, as in \REF{ex:pron:9}, \REF{ex:pron:10}, and \REF{ex:pron:11}.
+A: word: ndï	 gloss: 3PL
+B: word: ambin-nji	 gloss: DU.REFL-POSS
+C: word: ambla-nji	 gloss: PL.REFL-POSS
+D: word: min-nji	 gloss: 3DU-POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 8:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): un lïmndï ___ aweta ndï=ala
+Gloss (with missing item): 2PL eye ___ friend 3SG.OBJ=see
+The English translation of this sentence is:`You saw your own friends.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These forms are similar in function to certain pronouns found in some other languages, such as the \ili{Latin} possessive \isi{reflexive} \isi{pronoun} suus ‘his/her/its/their own’. In addition to their use in clarifying third \isi{person} \isi{antecedent}s, however, the Ulwa forms may also be used with first or second \isi{person} reference in order to convey the sense ‘my own’, ‘our own’, ‘your own’, and so on, as in \REF{ex:pron:9}, \REF{ex:pron:10}, and \REF{ex:pron:11}.
+A: word: ambla-nji	 gloss: PL.REFL-POSS
+B: word: ambla-na-n-e	 gloss: PL.REFL=give-PFV-DEP
+C: word: ndin=tï-na	 gloss: 3DU?=take-IRR
+D: word: ambï-nji	 gloss: SG.REFL-POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 9:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ anma ndï apa ma=p
+Gloss (with missing item): ___ good 3PL house 3SG.OBJ=be
+The English translation of this sentence is:`His good ones [= daughters] are in the house.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It may here be noted that possessive forms need not necessarily precede nouns. Although they cannot precede verbs (without the verbs having been \isi{nominalize}d), they can precede \isi{adjective}s. This happens, however, only when the \isi{adjective} is functioning substantively (i.e., nominally) (\sectref{sec:5.3}), as in \REF{ex:pron:12} and \REF{ex:pron:13}. This further suggests that there is little if any \isi{morphosyntactic} distinction between property words (i.e., “\isi{adjective}s”) and \isi{semantic}ally more prototypical nouns.
+A: word: kuma-nji	 gloss: some{-poss}
+B: word: ma-awa	 gloss: 3SG.OBJ-INT
+C: word: ambla=ala	 gloss: PL.REFL=see
+D: word: ma-nji	 gloss: 3SG.OBJ-POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 10:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ njukuta mï wandam i
+Gloss (with missing item): ___ small 3SG.SUBJ jungle go.PFV
+The English translation of this sentence is:`My small one [= dog] went into the jungle.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It may here be noted that possessive forms need not necessarily precede nouns. Although they cannot precede verbs (without the verbs having been \isi{nominalize}d), they can precede \isi{adjective}s. This happens, however, only when the \isi{adjective} is functioning substantively (i.e., nominally) (\sectref{sec:5.3}), as in \REF{ex:pron:12} and \REF{ex:pron:13}. This further suggests that there is little if any \isi{morphosyntactic} distinction between property words (i.e., “\isi{adjective}s”) and \isi{semantic}ally more prototypical nouns.
+A: word: ndï-nji	 gloss: 3PL-POSS
+B: word: nï-nji	 gloss: 1SG-POSS
+C: word: u-nji	 gloss: 2SG-POSS
+D: word: kwa	 gloss: one
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 11:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): u-nji apa mï njukuta=p ___ mï ambi=p
+Gloss (with missing item): 2SG-POSS house 3SG.SUBJ small=COP ___ 3SG.SUBJ big=COP
+The English translation of this sentence is:‘Your house is small; mine is big.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Finally, the possessive forms can be used substantively with an implied noun, as in \REF{ex:pron:14} and \REF{ex:pron:15}.
+A: word: nga-nam	 gloss: SG.PROX{-emph}
+B: word: u-nji	 gloss: 2SG-POSS
+C: word: nï-nji	 gloss: 1SG-POSS
+D: word: ndï-nji	 gloss: 3PL-POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 12:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Kayta ma-nji tïn mï ___ asa-p
+Gloss (with missing item): [name] 3SG.OBJ-POSS dog 3SG.SUBJ ___ hit-PFV
+The English translation of this sentence is:`Kayta’s dog attacked mine.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Finally, the possessive forms can be used substantively with an implied noun, as in \REF{ex:pron:14} and \REF{ex:pron:15}.
+A: word: u-nji	 gloss: 2SG-POSS
+B: word: nï-nji	 gloss: 1SG-POSS
+C: word: ndï-nji	 gloss: 3PL-POSS
+D: word: ma-ambi	 gloss: 3SG.OBJ-TOP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 13:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Tambana mï ___
+Gloss (with missing item): [name] 3SG.SUBJ ___
+The English translation of this sentence is:`Tambana will hit herself.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Thus, these pronouns are similar to their \ili{English} translations ending in ‘-self’ or ‘-selves’, in that there is no distinction made among them for \isi{person} -- whether first, second, or third -- but they are distinguished for \isi{number}. These three forms are based on the same root, /amb(ï)-/. The use of \isi{reflexive} pronouns is illustrated by examples \REF{ex:pron:16} through \REF{ex:pron:22}.
+A: word: ndï=wali-nda	 gloss: 3PL=hit-IRR
+B: word: ambla=wali-nda	 gloss: PL.REFL=hit-IRR
+C: word: ambï=wali-nda	 gloss: SG.REFL=hit-IRR
+D: word: ambin-nji	 gloss: DU.REFL-POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 14:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ay ndï=nïkï-p ndï=n ___ u-p
+Gloss (with missing item): sago 3PL=dig-PFV 3PL=OBL ___ put-PFV
+The English translation of this sentence is:`[They] made [packets of] sago and left them for themselves.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Thus, these pronouns are similar to their \ili{English} translations ending in ‘-self’ or ‘-selves’, in that there is no distinction made among them for \isi{person} -- whether first, second, or third -- but they are distinguished for \isi{number}. These three forms are based on the same root, /amb(ï)-/. The use of \isi{reflexive} pronouns is illustrated by examples \REF{ex:pron:16} through \REF{ex:pron:22}.
+A: word: nga-nam	 gloss: SG.PROX{-emph}
+B: word: ambla=ala	 gloss: PL.REFL=see
+C: word: ambla=n	 gloss: PL.REFL=OBL
+D: word: ambla=na-n-e	 gloss: PL.REFL=give-PFV-DEP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 15:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ambï=ul unda-t-e na-kï-p
+Gloss (with missing item): ___ SG.REFL=with go{-spec-dep} DETR-say-PFV
+The English translation of this sentence is:`[He] thought that [the crocodile] might go around with him to kill him.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are indications that the \is{binding} \isi{binding domain} for \isi{anaphor}s (i.e., \isi{reflexive} pronouns) in Ulwa may be something greater than the clause -- that is, unlike in \ili{English}, it is possible for the \isi{antecedent} of a \isi{reflexive} \isi{pronoun} in Ulwa to be located in a so-called higher clause. All known examples of this occur when the \isi{matrix clause} (containing the \isi{antecedent}) introduces the \isi{embedded clause} (containing the \isi{reflexive} \isi{pronoun}) by means of a verb of speaking (or thinking).\footnote{Thus, Ulwa may be said to exhibit a sort \isi{logophoricity}, since these \isi{reflexive}s must be bound by an \isi{antecedent} whose \isi{speech} (or thought) is being reported. It should be noted, however, that there is no special \isi{logophoric pronoun} in Ulwa.} Examples \REF{ex:pron:23} and \REF{ex:pron:24} illustrate the use of \isi{reflexive} pronouns with \isi{antecedent}s in a “higher” clause.
+A: word: ambï=wali-nda	 gloss: SG.REFL=hit-IRR
+B: word: ambla=wali-nda	 gloss: PL.REFL=hit-IRR
+C: word: ndï=wali-nda	 gloss: 3PL=hit-IRR
+D: word: ma-awa	 gloss: 3SG.OBJ-INT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 16:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ambï=wali-nda ___ unda-t-e na-kï-p
+Gloss (with missing item): SG.REFL=hit-IRR ___ go{-spec-dep} DETR-say-PFV
+The English translation of this sentence is:`[He] thought that [the crocodile] might go around with him to kill him.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are indications that the \is{binding} \isi{binding domain} for \isi{anaphor}s (i.e., \isi{reflexive} pronouns) in Ulwa may be something greater than the clause -- that is, unlike in \ili{English}, it is possible for the \isi{antecedent} of a \isi{reflexive} \isi{pronoun} in Ulwa to be located in a so-called higher clause. All known examples of this occur when the \isi{matrix clause} (containing the \isi{antecedent}) introduces the \isi{embedded clause} (containing the \isi{reflexive} \isi{pronoun}) by means of a verb of speaking (or thinking).\footnote{Thus, Ulwa may be said to exhibit a sort \isi{logophoricity}, since these \isi{reflexive}s must be bound by an \isi{antecedent} whose \isi{speech} (or thought) is being reported. It should be noted, however, that there is no special \isi{logophoric pronoun} in Ulwa.} Examples \REF{ex:pron:23} and \REF{ex:pron:24} illustrate the use of \isi{reflexive} pronouns with \isi{antecedent}s in a “higher” clause.
+A: word: kwa-nji	 gloss: one{-poss}
+B: word: ambï=ul	 gloss: SG.REFL=with
+C: word: ambï=n	 gloss: SG.REFL=OBL
+D: word: u-p	 gloss: put-PFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 17:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndï=iya lo-p ndï=iya wa lo-p ndï=ul ___
+Gloss (with missing item): 3PL=toward go-PFV 3PL=toward village go-PFV 3PL=with ___
+The English translation of this sentence is:`[They] went to them, went to them in the village, and fought with them [as enemies].’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Also to be mentioned here is an interesting \isi{idiom}atic use of the \isi{reflexive} pronominal \isi{object marker} ambla= ‘\textsc{pl.refl}’. When used with the verb asa- {\textasciitilde} wali- ‘hit, kill’, this marker does not necessarily have a \isi{reflexive} (or reciprocal) sense, but rather gives the entire verb the \isi{intransitive} meaning ‘fight’ (as in battle). The object of fighting (the enemy) can be marked in a \isi{postpositional phrase} with the \isi{postposition} ul ‘with’. This can cause ambiguity not unlike what often occurs in \ili{English}, since this same \isi{postpositional phrase} can mark either enemies or allies.\footnote{Cf. \ili{English} sentences such as The English fought with the French.} Sentences \REF{ex:pron:26}, \REF{ex:pron:27}, and \REF{ex:pron:28} exemplify this use of the verb asa- {\textasciitilde} wali- ‘hit, kill’ with the \isi{reflexive} pronominal \isi{object marker} ambla= ‘\textsc{pl.refl}’.
+A: word: ambla=asa-p	 gloss: PL.REFL=hit-PFV
+B: word: ambin=asa-p	 gloss: DU.REFL=hit-PFV
+C: word: ma=asa-p	 gloss: 3SG.OBJ=hit-PFV
+D: word: ma-ngusuwa	 gloss: 3SG.OBJ-poor
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 18:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): unan ndï=iya ma ndï=ul ___
+Gloss (with missing item): 1PL.INCL 3PL=toward go 3PL=with ___
+The English translation of this sentence is:`Let’s go to them and fight with them [as allies]!’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Also to be mentioned here is an interesting \isi{idiom}atic use of the \isi{reflexive} pronominal \isi{object marker} ambla= ‘\textsc{pl.refl}’. When used with the verb asa- {\textasciitilde} wali- ‘hit, kill’, this marker does not necessarily have a \isi{reflexive} (or reciprocal) sense, but rather gives the entire verb the \isi{intransitive} meaning ‘fight’ (as in battle). The object of fighting (the enemy) can be marked in a \isi{postpositional phrase} with the \isi{postposition} ul ‘with’. This can cause ambiguity not unlike what often occurs in \ili{English}, since this same \isi{postpositional phrase} can mark either enemies or allies.\footnote{Cf. \ili{English} sentences such as The English fought with the French.} Sentences \REF{ex:pron:26}, \REF{ex:pron:27}, and \REF{ex:pron:28} exemplify this use of the verb asa- {\textasciitilde} wali- ‘hit, kill’ with the \isi{reflexive} pronominal \isi{object marker} ambla= ‘\textsc{pl.refl}’.
+A: word: ango-p	 gloss: pull.out-PFV
+B: word: u-nji	 gloss: 2SG-POSS
+C: word: ambla=wali-nda	 gloss: PL.REFL=hit-IRR
+D: word: ambla=wali-n	 gloss: PL.REFL=hit-IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 19:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndï=ul ndï=ul ___
+Gloss (with missing item): 3PL=with 3PL=with ___
+The English translation of this sentence is:`With them [= our allies] we fought with them [= our enemies].’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Also to be mentioned here is an interesting \isi{idiom}atic use of the \isi{reflexive} pronominal \isi{object marker} ambla= ‘\textsc{pl.refl}’. When used with the verb asa- {\textasciitilde} wali- ‘hit, kill’, this marker does not necessarily have a \isi{reflexive} (or reciprocal) sense, but rather gives the entire verb the \isi{intransitive} meaning ‘fight’ (as in battle). The object of fighting (the enemy) can be marked in a \isi{postpositional phrase} with the \isi{postposition} ul ‘with’. This can cause ambiguity not unlike what often occurs in \ili{English}, since this same \isi{postpositional phrase} can mark either enemies or allies.\footnote{Cf. \ili{English} sentences such as The English fought with the French.} Sentences \REF{ex:pron:26}, \REF{ex:pron:27}, and \REF{ex:pron:28} exemplify this use of the verb asa- {\textasciitilde} wali- ‘hit, kill’ with the \isi{reflexive} pronominal \isi{object marker} ambla= ‘\textsc{pl.refl}’.
+A: word: ambla=asa-p	 gloss: PL.REFL=hit-PFV
+B: word: ambin=asa-p	 gloss: DU.REFL=hit-PFV
+C: word: an=ala	 gloss: 1PL.EXCL=see
+D: word: ma=asa-p	 gloss: 3SG.OBJ=hit-PFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 20:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ngun ___
+Gloss (with missing item): 2DU ___
+The English translation of this sentence is:`You two know yourselves.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{dual} and \isi{plural} \isi{reflexive} pronouns may, alternatively, convey a reciprocal sense (i.e., ‘each other’, ‘one another’). There may thus arise ambiguity in meaning, typically clarified through context. For example, sentence \REF{ex:pron:19} could be interpreted either as having a \isi{reflexive} sense or as having a reciprocal sense (i.e., either ‘you two know each other’ or ‘you two know yourselves’). Examples of reciprocal meaning are given in sentences \REF{ex:pron:29} through \REF{ex:pron:34}.
+A: word: ma-awa	 gloss: 3SG.OBJ-INT
+B: word: nï=wat	 gloss: 1SG=atop
+C: word: ambla=kalam=p-ta	 gloss: PL.REFL=knowledge=COP-COND
+D: word: ambin=kalam=p	 gloss: DU.REFL=knowledge=COP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 21:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Kolpe Womel min ___
+Gloss (with missing item): [name] [name] 3DU ___
+The English translation of this sentence is:`Kolpe and Womel fought each other.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{dual} and \isi{plural} \isi{reflexive} pronouns may, alternatively, convey a reciprocal sense (i.e., ‘each other’, ‘one another’). There may thus arise ambiguity in meaning, typically clarified through context. For example, sentence \REF{ex:pron:19} could be interpreted either as having a \isi{reflexive} sense or as having a reciprocal sense (i.e., either ‘you two know each other’ or ‘you two know yourselves’). Examples of reciprocal meaning are given in sentences \REF{ex:pron:29} through \REF{ex:pron:34}.
+A: word: ambin=asa-p	 gloss: DU.REFL=hit-PFV
+B: word: kwa	 gloss: one
+C: word: ambla=asa-p	 gloss: PL.REFL=hit-PFV
+D: word: min=asa-p	 gloss: 3DU=hit-PFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 22:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): an ambi na-p-e an lïmndï ___
+Gloss (with missing item): 1PL.EXCL big DETR-be{-dep} 1PL.EXCL eye ___
+The English translation of this sentence is:`When we had gotten big, we looked at one another.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{dual} and \isi{plural} \isi{reflexive} pronouns may, alternatively, convey a reciprocal sense (i.e., ‘each other’, ‘one another’). There may thus arise ambiguity in meaning, typically clarified through context. For example, sentence \REF{ex:pron:19} could be interpreted either as having a \isi{reflexive} sense or as having a reciprocal sense (i.e., either ‘you two know each other’ or ‘you two know yourselves’). Examples of reciprocal meaning are given in sentences \REF{ex:pron:29} through \REF{ex:pron:34}.
+A: word: ndin	 gloss: 3DU?
+B: word: ambla=ul	 gloss: PL.REFL=with
+C: word: ambla=asa-p	 gloss: PL.REFL=hit-PFV
+D: word: ambla=ala	 gloss: PL.REFL=see
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 23:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): an lïmndï ___
+Gloss (with missing item): 1PL.EXCL eye ___
+The English translation of this sentence is:`We saw ourselves.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sometimes a \isi{personal pronoun} occurs where a \isi{reflexive}/\isi{reciprocal} \isi{pronoun} may otherwise be expected. It is unclear whether this is a permissible variation in \isi{pronoun} use or an indication of \isi{grammatical attrition}. It is common with the verb ala- ‘see’, as in \REF{ex:pron:35} and \REF{ex:pron:36}.
+A: word: andin=ala	 gloss: DU.DIST=see
+B: word: an=ala	 gloss: 1PL.EXCL=see
+C: word: an=ul	 gloss: 1PL.EXCL=with
+D: word: ma-ambi=la-ka-n	 gloss: 3SG.OBJ-TOP=IRR-let-IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 24:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): olsem nï lïmndï ___
+Gloss (with missing item): thus 1SG eye ___
+The English translation of this sentence is:`I see myself like this.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sometimes a \isi{personal pronoun} occurs where a \isi{reflexive}/\isi{reciprocal} \isi{pronoun} may otherwise be expected. It is unclear whether this is a permissible variation in \isi{pronoun} use or an indication of \isi{grammatical attrition}. It is common with the verb ala- ‘see’, as in \REF{ex:pron:35} and \REF{ex:pron:36}.
+A: word: nï=ala	 gloss: 1SG=see
+B: word: ndï=ala	 gloss: 3PL=for
+C: word: nï=ta	 gloss: 1SG=say
+D: word: ma-ngusuwa	 gloss: 3SG.OBJ-poor
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 25:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ni-p
+Gloss (with missing item): ___ die-PFV
+The English translation of this sentence is:(a) ‘Someone died.’\\’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Indefinite} referents can be denoted by the \isi{numeral}/\isi{interrogative word} the morpheme ___ ‘its gloss ___; who?; someits gloss ___’ when the referent is a human or by the \isi{phrase} nji the morpheme ___ ‘its gloss ___ thing, something’ when the referent is non-human, as illustrated by examples \REF{ex:pron:37} through \REF{ex:pron:40}.
+A: word: kwa-nji	 gloss: one{-poss}
+B: word: kwa	 gloss: one
+C: word: ma-ambi	 gloss: 3SG.OBJ-TOP
+D: word: kekaka	 gloss: one.each
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 26:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï lïmndï ___ kwa ala
+Gloss (with missing item): 1SG eye ___ one see
+The English translation of this sentence is:`I saw something.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Indefinite} referents can be denoted by the \isi{numeral}/\isi{interrogative word} kwa ‘one; who?; someone’ when the referent is a human or by the \isi{phrase} the morpheme ___ kwa ‘one its gloss ___, someits gloss ___’ when the referent is non-human, as illustrated by examples \REF{ex:pron:37} through \REF{ex:pron:40}.
+A: word: angos	 gloss: what
+B: word: nji	 gloss: thing
+C: word: an=ala	 gloss: 1PL.EXCL=see
+D: word: ma-nji	 gloss: 3SG.OBJ-POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 27:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï lïmndï nji ___ ala
+Gloss (with missing item): 1SG eye thing ___ see
+The English translation of this sentence is:`I saw something.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Indefinite} referents can be denoted by the \isi{numeral}/\isi{interrogative word} the morpheme ___ ‘its gloss ___; who?; someits gloss ___’ when the referent is a human or by the \isi{phrase} nji the morpheme ___ ‘its gloss ___ thing, something’ when the referent is non-human, as illustrated by examples \REF{ex:pron:37} through \REF{ex:pron:40}.
+A: word: kwa-nji	 gloss: one{-poss}
+B: word: kekaka	 gloss: one.each
+C: word: kwa	 gloss: one
+D: word: ambla=asa-p	 gloss: PL.REFL=hit-PFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 28:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ni-p
+Gloss (with missing item): ___ die-PFV
+The English translation of this sentence is:(a) ‘Someone died.’\\’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentence \REF{ex:pron:37}, if given the right \isi{intonation}, could be interpreted as a \isi{question}, as suggested by the second translation given. This is because the form [the morpheme ___] is also used as an \isi{interrogative pronoun} meaning ‘who?’ (\sectref{sec:6.5}).
+A: word: kwa	 gloss: one
+B: word: kwa-nji	 gloss: one{-poss}
+C: word: kekaka	 gloss: one.each
+D: word: tïn	 gloss: dog
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 29:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ankam ___ mbï-i-n
+Gloss (with missing item): person ___ here-come-PFV
+The English translation of this sentence is:`Some people came.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Dual} and \isi{plural} forms do not tend to be used for \isi{indefinite} pronominal referents, at least not on their own. For non-\isi{singular} \isi{indefinite} referents, however, the word the morpheme ___ ‘its gloss ___’ may follow an NP, whether human \REF{ex:pron:41} or non-human \REF{ex:pron:42}.
+A: word: moweka	 gloss: also
+B: word: nï=ala	 gloss: 1SG=see
+C: word: kuma=tï	 gloss: some=take
+D: word: kuma	 gloss: some
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 30:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ya ___ ndï li-u
+Gloss (with missing item): coconut ___ 3PL down-put
+The English translation of this sentence is:`Some coconuts fell.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is possible for \isi{subject marker}s (\sectref{sec:7.1}) to follow the morpheme ___ ‘its gloss ___’ \REF{ex:pron:43}. Although \isi{subject marker}s may also follow kwa ‘its gloss ___one’, this is less common. In this way, kwa ‘its gloss ___one’ seems to pattern with what are more likely true pronouns, whereas the morpheme ___ ‘its gloss ___’ seems to pattern more with \isi{adjective}s.
+A: word: moweka	 gloss: also
+B: word: kuma=tï	 gloss: some=take
+C: word: nga-nam	 gloss: SG.PROX{-emph}
+D: word: kuma	 gloss: some
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 31:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ya kuma ___ li-u
+Gloss (with missing item): coconut some ___ down-put
+The English translation of this sentence is:`Some coconuts fell.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is possible for \isi{subject marker}s (\sectref{sec:7.1}) to follow kuma ‘some’ \REF{ex:pron:43}. Although \isi{subject marker}s may also follow kwa ‘someone’, this is less common. In this way, kwa ‘someone’ seems to pattern with what are more likely true pronouns, whereas kuma ‘some’ seems to pattern more with \isi{adjective}s.
+A: word: nga-nam	 gloss: SG.PROX{-emph}
+B: word: ndï=la-nda	 gloss: 3PL=eat{-irr}
+C: word: ndï	 gloss: 3PL
+D: word: (ndï)	 gloss: (3PL)
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 32:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï lïmndï ankam ___ ndï=ala
+Gloss (with missing item): 1SG eye person ___ 3PL=see
+The English translation of this sentence is:`I saw some people.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It should be noted as well that \isi{object marker}s (\sectref{sec:7.2}) can follow object NPs ending with the morpheme ___ ‘its gloss ___’, as in \REF{ex:pron:44} and \REF{ex:pron:45}.
+A: word: kuma=tï	 gloss: some=take
+B: word: ambï-nji	 gloss: SG.REFL-POSS
+C: word: kuma	 gloss: some
+D: word: moweka	 gloss: also
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 33:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï lïmndï ankam kuma ___
+Gloss (with missing item): 1SG eye person some ___
+The English translation of this sentence is:`I saw some people.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It should be noted as well that \isi{object marker}s (\sectref{sec:7.2}) can follow object NPs ending with kuma ‘some’, as in \REF{ex:pron:44} and \REF{ex:pron:45}.
+A: word: ambin=kalam=p	 gloss: DU.REFL=knowledge=COP
+B: word: ndï=ala-e	 gloss: 3PL=see-DEP
+C: word: ndï=ama-p	 gloss: 3PL=eat-PFV
+D: word: ndï=ala	 gloss: 3PL=see
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 34:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ya ___ ndï=ama-p
+Gloss (with missing item): 1SG coconut ___ 3PL=eat-PFV
+The English translation of this sentence is:`I ate some coconuts.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It should be noted as well that \isi{object marker}s (\sectref{sec:7.2}) can follow object NPs ending with the morpheme ___ ‘its gloss ___’, as in \REF{ex:pron:44} and \REF{ex:pron:45}.
+A: word: kuma	 gloss: some
+B: word: nï=ala	 gloss: 1SG=see
+C: word: moweka	 gloss: also
+D: word: kuma=tï	 gloss: some=take
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 35:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ya kuma ___
+Gloss (with missing item): 1SG coconut some ___
+The English translation of this sentence is:`I ate some coconuts.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It should be noted as well that \isi{object marker}s (\sectref{sec:7.2}) can follow object NPs ending with kuma ‘some’, as in \REF{ex:pron:44} and \REF{ex:pron:45}.
+A: word: ndï=ama-p-ap-e	 gloss: 3PL=eat-PFV-PFV-DEP
+B: word: ndï=ama-p	 gloss: 3PL=eat-PFV
+C: word: ndï=ama-p-e	 gloss: 3PL=eat-PFV-DEP
+D: word: nji	 gloss: thing
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 36:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ango ___ na i-e
+Gloss (with missing item): NEG ___ talk go.PFV-DEP
+The English translation of this sentence is:‘[They] came to no thought whatsoever.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{interrogative} form the morpheme ___ ‘its gloss ___?’ can also be used in \isi{negative}-\isi{polarity} sentences (e.g., with the \isi{negator} ango ‘\textsc{neg}’) to mean something along the lines of ‘its gloss ___ever, its gloss ___soever, anything’, as in examples \REF{ex:pron:46} through \REF{ex:pron:49}.
+A: word: angos	 gloss: what
+B: word: ango	 gloss: NEG
+C: word: nji	 gloss: thing
+D: word: ma-nji	 gloss: 3SG.OBJ-POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 37:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ango ___ ama-e
+Gloss (with missing item): 1SG NEG ___ eat-IPFV
+The English translation of this sentence is:`I’m not eating anything.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{interrogative} form the morpheme ___ ‘its gloss ___?’ can also be used in \isi{negative}-\isi{polarity} sentences (e.g., with the \isi{negator} ango ‘\textsc{neg}’) to mean something along the lines of ‘its gloss ___ever, its gloss ___soever, anything’, as in examples \REF{ex:pron:46} through \REF{ex:pron:49}.
+A: word: ambla=ala	 gloss: PL.REFL=see
+B: word: ango	 gloss: NEG
+C: word: nji	 gloss: thing
+D: word: angos	 gloss: what
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 38:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nji i-na-ta unan lïmndï ma=andï ande
+Gloss (with missing item): ___ thing come-IRR-COND 1PL.INCL eye 3SG=see ok
+The English translation of this sentence is:`Whatever may come, we would see it [and say:] “OK”.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When combined with nji ‘thing’, the morpheme ___ ‘its gloss ___?’ can convey the sense ‘its gloss ___ever’ in \isi{positive}-\isi{polarity} sentences \REF{ex:pron:50}.
+A: word: ndï-ngusuwata	 gloss: 3PL-poor
+B: word: ango	 gloss: NEG
+C: word: nji	 gloss: thing
+D: word: angos	 gloss: what
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 39:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): angos ___ i-na-ta unan lïmndï ma=andï ande
+Gloss (with missing item): what ___ come-IRR-COND 1PL.INCL eye 3SG=see ok
+The English translation of this sentence is:`Whatever may come, we would see it [and say:] “OK”.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When combined with the morpheme ___ ‘its gloss ___’, angos ‘what?’ can convey the sense ‘whatever’ in \isi{positive}-\isi{polarity} sentences \REF{ex:pron:50}.
+A: word: angos	 gloss: what
+B: word: ndï-ngusuwata	 gloss: 3PL-poor
+C: word: nji	 gloss: thing
+D: word: ma-nji	 gloss: 3SG.OBJ-POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 40:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ (mï) lamndu ndï=asa-p
+Gloss (with missing item): ___ (3SG.SUBJ) pig 3PL=hit-PFV
+The English translation of this sentence is:`Who killed the pigs?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The forms of the \isi{indefinite pronoun}s the morpheme ___ ‘its gloss ___, someits gloss ___’ and kuma ‘some’ (\sectref{sec:6.4}) are the same as the forms used in asking \isi{content question}s in Ulwa. The \isi{pronoun} the morpheme ___ ‘its gloss ___, someits gloss ___’ thus also means ‘who?’ (for a \isi{singular} human referent), as illustrated by example \REF{ex:pron:51}.
+A: word: kwa	 gloss: one
+B: word: kwa-nji	 gloss: one{-poss}
+C: word: nji	 gloss: thing
+D: word: kekaka	 gloss: one.each
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 41:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ (min) lamndu ndï=asa-p
+Gloss (with missing item): ___ (3DU) pig 3PL=hit-PFV
+The English translation of this sentence is:`Who [= which (two) people] killed the pigs?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: multiple human referents, as in \REF{ex:pron:52} and \REF{ex:pron:53}.
+A: word: ambï=ul	 gloss: SG.REFL=with
+B: word: moweka	 gloss: also
+C: word: kuma	 gloss: some
+D: word: kuma=tï	 gloss: some=take
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 42:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ (ndï) lamndu ndï=asa-p
+Gloss (with missing item): ___ (3DU) pig 3PL=hit-PFV
+The English translation of this sentence is:`Who [= which (three or more) people] killed the pigs?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: multiple human referents, as in \REF{ex:pron:52} and \REF{ex:pron:53}.
+A: word: kuma	 gloss: some
+B: word: kuma=tï	 gloss: some=take
+C: word: kuma-nji	 gloss: some{-poss}
+D: word: moweka	 gloss: also
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 43:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ (mï) lamndu ndï=asa-p
+Gloss (with missing item): ___ (3SG.SUBJ) pig 3PL=hit-PFV
+The English translation of this sentence is:`What killed the pigs?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: For non-human referents, the \isi{question word} the morpheme ___ ‘its gloss ___?’ is used, as in \REF{ex:pron:54}, \REF{ex:pron:55}, and \REF{ex:pron:56}. For all \isi{interrogative} pronouns, \isi{subject marker}s are optional (as are \isi{object marker}s).
+A: word: ambla=wali-nda	 gloss: PL.REFL=hit-IRR
+B: word: angos	 gloss: what
+C: word: ango	 gloss: NEG
+D: word: nji	 gloss: thing
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 44:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ (min) lamndu ndï=asa-p
+Gloss (with missing item): ___ (3DU) pig 3PL=hit-PFV
+The English translation of this sentence is:`What [= which (two) things] killed the pigs?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: For non-human referents, the \isi{question word} the morpheme ___ ‘its gloss ___?’ is used, as in \REF{ex:pron:54}, \REF{ex:pron:55}, and \REF{ex:pron:56}. For all \isi{interrogative} pronouns, \isi{subject marker}s are optional (as are \isi{object marker}s).
+A: word: kuma-nji	 gloss: some{-poss}
+B: word: nji	 gloss: thing
+C: word: ango	 gloss: NEG
+D: word: angos	 gloss: what
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 45:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ (ndï) lamndu ndï=asa-p
+Gloss (with missing item): ___ (3PL) pig 3PL=hit-PFV
+The English translation of this sentence is:`What [= which (three or more) things] killed the pigs?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: For non-human referents, the \isi{question word} the morpheme ___ ‘its gloss ___?’ is used, as in \REF{ex:pron:54}, \REF{ex:pron:55}, and \REF{ex:pron:56}. For all \isi{interrogative} pronouns, \isi{subject marker}s are optional (as are \isi{object marker}s).
+A: word: nï-awa	 gloss: 1SG-INT
+B: word: ango	 gloss: NEG
+C: word: nji	 gloss: thing
+D: word: angos	 gloss: what
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 46:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): u lïmndï ___ ma=ala
+Gloss (with missing item): 2SG eye ___ 3SG.OBJ=see
+The English translation of this sentence is:`Whom did you see?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \isi{content question}s (i.e., wh- questions), the wh- word remains \isi{in situ}; it is not preposed to the front of the clause as in \ili{English}. Accordingly, when the ‘who’ or ‘what’ being asked about is not the grammatical subject, but rather the object of a verb, then the \isi{interrogative} \isi{pronoun} occurs in the typical object position (i.e., immediately before the verb), as in examples \REF{ex:pron:57} through \REF{ex:pron:60}.
+A: word: kwa-nji	 gloss: one{-poss}
+B: word: ambï=wali-nda	 gloss: SG.REFL=hit-IRR
+C: word: kekaka	 gloss: one.each
+D: word: kwa	 gloss: one
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 47:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nungol mï ___ min=angla-lo-p
+Gloss (with missing item): child 3SG.SUBJ ___ 3DU=await-go-PFV
+The English translation of this sentence is:`What [= which two things] did the boy look for?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \isi{content question}s (i.e., wh- questions), the wh- word remains \isi{in situ}; it is not preposed to the front of the clause as in \ili{English}. Accordingly, when the ‘who’ or ‘its gloss ___’ being asked about is not the grammatical subject, but rather the object of a verb, then the \isi{interrogative} \isi{pronoun} occurs in the typical object position (i.e., immediately before the verb), as in examples \REF{ex:pron:57} through \REF{ex:pron:60}.
+A: word: nji	 gloss: thing
+B: word: ango	 gloss: NEG
+C: word: angos	 gloss: what
+D: word: ambla=wali-nda	 gloss: PL.REFL=hit-IRR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 48:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ tïn (mï) mïnda ma=ama-p
+Gloss (with missing item): ___ dog (3SG.SUBJ) banana 3SG.OBJ=eat-PFV
+The English translation of this sentence is:`Which dog ate the banana?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When preceding an NP, the \isi{interrogative word} the morpheme ___ ‘its gloss ___?’ (compare the morpheme ___s ‘what?’) conveys the sense ‘its gloss ___ [NP]?’. There is no distinction made based on \isi{animacy} or \isi{number} or \isi{grammatical relation} (i.e., whether the questioned element is a subject or an object). Significantly, whereas modifiers of NPs such as \isi{adjective}s or \isi{determiner}s follow their associated NPs (\sectref{sec:9.1}), the modifying element the morpheme ___ ‘its gloss ___?’ precedes its NP. This could serve the functional means of differentiating between ‘its gloss ___ [NP]?’ and ‘[NP] \textsc{neg}’.\footnote{Cf. \textbf{the morpheme ___ tïn} mamap ‘its gloss ___ dog ate it?’ vs. \textbf{tïn the morpheme ___} mamap ‘the dog did not eat it’.} Sentences \REF{ex:pron:61} through \REF{ex:pron:64} illustrate the use of the morpheme ___ ‘its gloss ___?’.
+A: word: i-ap	 gloss: go.PFV-PFV
+B: word: angos	 gloss: what
+C: word: ango	 gloss: which
+D: word: kwa-nji	 gloss: one{-poss}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 49:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ango ___ (mï) mïnda ma=ama-p
+Gloss (with missing item): which ___ (3SG.SUBJ) banana 3SG.OBJ=eat-PFV
+The English translation of this sentence is:`Which dog ate the banana?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When preceding an NP, the \isi{interrogative word} ango ‘which?’ (compare angos ‘what?’) conveys the sense ‘which [NP]?’. There is no distinction made based on \isi{animacy} or \isi{number} or \isi{grammatical relation} (i.e., whether the questioned element is a subject or an object). Significantly, whereas modifiers of NPs such as \isi{adjective}s or \isi{determiner}s follow their associated NPs (\sectref{sec:9.1}), the modifying element ango ‘which?’ precedes its NP. This could serve the functional means of differentiating between ‘which [NP]?’ and ‘[NP] \textsc{neg}’.\footnote{Cf. \textbf{ango the morpheme ___} mamap ‘which its gloss ___ ate it?’ vs. \textbf{the morpheme ___ ango} mamap ‘the its gloss ___ did not eat it’.} Sentences \REF{ex:pron:61} through \REF{ex:pron:64} illustrate the use of ango ‘which?’.
+A: word: tïn	 gloss: dog
+B: word: yetani	 gloss: Yamen
+C: word: tïngïn=p-e	 gloss: many=COP-DEP
+D: word: ndï-nji	 gloss: 3PL-POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 50:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): u ___ apa ndï=ita-p
+Gloss (with missing item): 2SG ___ house 3PL=build-PFV
+The English translation of this sentence is:`Which houses did you build?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When preceding an NP, the \isi{interrogative word} the morpheme ___ ‘its gloss ___?’ (compare the morpheme ___s ‘what?’) conveys the sense ‘its gloss ___ [NP]?’. There is no distinction made based on \isi{animacy} or \isi{number} or \isi{grammatical relation} (i.e., whether the questioned element is a subject or an object). Significantly, whereas modifiers of NPs such as \isi{adjective}s or \isi{determiner}s follow their associated NPs (\sectref{sec:9.1}), the modifying element the morpheme ___ ‘its gloss ___?’ precedes its NP. This could serve the functional means of differentiating between ‘its gloss ___ [NP]?’ and ‘[NP] \textsc{neg}’.\footnote{Cf. \textbf{the morpheme ___ tïn} mamap ‘its gloss ___ dog ate it?’ vs. \textbf{tïn the morpheme ___} mamap ‘the dog did not eat it’.} Sentences \REF{ex:pron:61} through \REF{ex:pron:64} illustrate the use of the morpheme ___ ‘its gloss ___?’.
+A: word: angos	 gloss: what
+B: word: ambin-nji	 gloss: DU.REFL-POSS
+C: word: ticha	 gloss: teacher
+D: word: ango	 gloss: which
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 51:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nungol (mï) nï-nji yot tï-n
+Gloss (with missing item): ___ child (3SG.SUBJ) 1SG-POSS machete take-PFV
+The English translation of this sentence is:`Whose child took my machete?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{interrogative} \isi{pronoun} ‘whose?’ takes the form kwanji ‘whose [\textsc{sg]}’ for \isi{singular} \isi{possessor}s and kumanji ‘whose [\textsc{nsg]}’ for \isi{dual} or \isi{plural} \isi{possessor}s (no distinction is made here between the two), as may be seen in examples \REF{ex:pron:65}, \REF{ex:pron:66}, and \REF{ex:pron:67}. These forms are transparently derived from the words kwa ‘one’ or kuma ‘some’ plus nji ‘thing’ (cf. \isi{possessive pronoun}s, \sectref{sec:6.2}).
+A: word: kali	 gloss: send
+B: word: u-nji	 gloss: 2SG-POSS
+C: word: kwa-nji	 gloss: one-POSS
+D: word: ma-nji	 gloss: 3SG.OBJ-POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 52:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): anda ___ mana
+Gloss (with missing item): SG.DIST ___ spear
+The English translation of this sentence is:`Whose spear is that?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{interrogative} \isi{pronoun} ‘whose?’ takes the form kwanji ‘whose [\textsc{sg]}’ for \isi{singular} \isi{possessor}s and kumanji ‘whose [\textsc{nsg]}’ for \isi{dual} or \isi{plural} \isi{possessor}s (no distinction is made here between the two), as may be seen in examples \REF{ex:pron:65}, \REF{ex:pron:66}, and \REF{ex:pron:67}. These forms are transparently derived from the words kwa ‘one’ or kuma ‘some’ plus nji ‘thing’ (cf. \isi{possessive pronoun}s, \sectref{sec:6.2}).
+A: word: kuma-nji	 gloss: some{-poss}
+B: word: kwa-nji	 gloss: one{-poss}
+C: word: awa	 gloss: INT
+D: word: ma-nji	 gloss: 3SG.OBJ-POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 53:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): u ___ apa ma=ita-p
+Gloss (with missing item): 2SG ___ house 3SG.OBJ=build-PFV
+The English translation of this sentence is:`Whose [plural] house did you build?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{interrogative} \isi{pronoun} ‘whose?’ takes the form kwanji ‘whose [\textsc{sg]}’ for \isi{singular} \isi{possessor}s and kumanji ‘whose [\textsc{nsg]}’ for \isi{dual} or \isi{plural} \isi{possessor}s (no distinction is made here between the two), as may be seen in examples \REF{ex:pron:65}, \REF{ex:pron:66}, and \REF{ex:pron:67}. These forms are transparently derived from the words kwa ‘one’ or kuma ‘some’ plus nji ‘thing’ (cf. \isi{possessive pronoun}s, \sectref{sec:6.2}).
+A: word: ndï=ala	 gloss: 3PL=for
+B: word: kwa-nji	 gloss: one{-poss}
+C: word: ma-nji	 gloss: 3SG.OBJ-POSS
+D: word: kuma-nji	 gloss: some{-poss}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 54:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ lamndu ma=asa-p
+Gloss (with missing item): ___ pig 3SG.OBJ=hit-PFV
+The English translation of this sentence is:`I myself killed the pig.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentences \REF{ex:pron:68}, \REF{ex:pron:70}, and \REF{ex:pron:71} illustrate the use of basic \isi{intensive pronoun}s to place emphasis on a subject.
+A: word: ndï-awa	 gloss: 3PL-INT
+B: word: nï-awa	 gloss: 1SG-INT
+C: word: ango	 gloss: NEG
+D: word: u-awa	 gloss: 2SG-INT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 55:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Kayta ___ lamndu ma=asa-p
+Gloss (with missing item): [name] ___ pig 3SG.OBJ=hit-PFV
+The English translation of this sentence is:`Kayta himself killed the pig.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentences \REF{ex:pron:68}, \REF{ex:pron:70}, and \REF{ex:pron:71} illustrate the use of basic \isi{intensive pronoun}s to place emphasis on a subject.
+A: word: ma-we	 gloss: 3SG.OBJ-PART.INT
+B: word: ma-awa	 gloss: 3SG.OBJ-INT
+C: word: anda-awa	 gloss: SG.DIST-INT
+D: word: ambin=kalam=p	 gloss: DU.REFL=knowledge=COP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 56:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ utam ndï=wana-p
+Gloss (with missing item): ___ yam 3PL=cook-PFV
+The English translation of this sentence is:`You yourself cooked the yams.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentences \REF{ex:pron:68}, \REF{ex:pron:70}, and \REF{ex:pron:71} illustrate the use of basic \isi{intensive pronoun}s to place emphasis on a subject.
+A: word: nï-awa	 gloss: 1SG-INT
+B: word: u-awa	 gloss: 2SG-INT
+C: word: anda-awa	 gloss: SG.DIST-INT
+D: word: mï-nam	 gloss: 3SG.SUBJ-EMPH
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 57:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ lamndu ma=asa-p
+Gloss (with missing item): ___ pig 3SG.OBJ=hit-PFV
+The English translation of this sentence is:`I myself [in the group] killed the pig.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentences \REF{ex:pron:72}, \REF{ex:pron:74}, and \REF{ex:pron:75} illustrate the use of \isi{partitive-intensive pronoun}s to emphasize sole participation of a referent (or group of referents).
+A: word: nï-awa	 gloss: 1SG-INT
+B: word: nï-we	 gloss: 1SG-PART.INT
+C: word: ndï-ngusuwata	 gloss: 3PL-poor
+D: word: ndï-we	 gloss: 3PL-PART.INT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 58:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ i
+Gloss (with missing item): ___ go.PFV
+The English translation of this sentence is:`They themselves [out of a group] went.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentences \REF{ex:pron:72}, \REF{ex:pron:74}, and \REF{ex:pron:75} illustrate the use of \isi{partitive-intensive pronoun}s to emphasize sole participation of a referent (or group of referents).
+A: word: ambin-nji	 gloss: DU.REFL-POSS
+B: word: ndï-nji	 gloss: 3PL-POSS
+C: word: ndï-awa	 gloss: 3PL-INT
+D: word: ndï-we	 gloss: 3PL-PART.INT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 59:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Kolpe Kongos ___ lamndu ndï=asa-p-e na-kï-p
+Gloss (with missing item): [name] [name] ___ pig 3PL=hit-PFV-DEP DETR-say-PFV
+The English translation of this sentence is:`Kolpe and Kongos said that they themselves [out of a group] killed the pigs.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentences \REF{ex:pron:72}, \REF{ex:pron:74}, and \REF{ex:pron:75} illustrate the use of \isi{partitive-intensive pronoun}s to emphasize sole participation of a referent (or group of referents).
+A: word: ambla=ul	 gloss: PL.REFL=with
+B: word: ambin-nji	 gloss: DU.REFL-POSS
+C: word: ambin-we	 gloss: DU.REFL-PART.INT
+D: word: ma-ambi	 gloss: 3SG.OBJ-TOP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 60:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ awa nïmal nga=ita-e ma=u li-i-en
+Gloss (with missing item): ___ INT river SG.PROX=build-IPFV 3SG.OBJ=from down-go.PFV-NMLZ
+The English translation of this sentence is:`They themselves alone were the ones who built [along] this river, having come down along it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Although both paradigms of \isi{intensive pronoun}s are written as sets of single lexemes, the composite morphemes of each putative word are quite clear and can, at times, occur separately, as in examples \REF{ex:pron:76}, \REF{ex:pron:77}, and \REF{ex:pron:78}, each of which contains both the \is{partitive-intensive pronoun} partitive-intensive pronominal form (of the 3\textsc{pl} \isi{pronoun}) and the basic \isi{intensive} form (as a separate morpheme, without any \isi{person} or \isi{number} marking).
+A: word: ndï-nji	 gloss: 3PL-POSS
+B: word: angos	 gloss: what
+C: word: ndï-we	 gloss: 3PL-PART.INT
+D: word: ndï-awa	 gloss: 3PL-INT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 61:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndï-we ___ nïmal nga=ita-e ma=u li-i-en
+Gloss (with missing item): 3PL-PART.INT ___ river SG.PROX=build-IPFV 3SG.OBJ=from down-go.PFV-NMLZ
+The English translation of this sentence is:`They themselves alone were the ones who built [along] this river, having come down along it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Although both paradigms of \isi{intensive pronoun}s are written as sets of single lexemes, the composite morphemes of each putative word are quite clear and can, at times, occur separately, as in examples \REF{ex:pron:76}, \REF{ex:pron:77}, and \REF{ex:pron:78}, each of which contains both the \is{partitive-intensive pronoun} partitive-intensive pronominal form (of the 3\textsc{pl} \isi{pronoun}) and the basic \isi{intensive} form (as a separate morpheme, without any \isi{person} or \isi{number} marking).
+A: word: ndï-we	 gloss: 3PL-PART.INT
+B: word: anda-awa	 gloss: SG.DIST-INT
+C: word: nï-awa	 gloss: 1SG-INT
+D: word: awa	 gloss: INT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 62:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma-nji nji ngala ___ awa
+Gloss (with missing item): 3SG.OBJ-POSS thing PL.PROX ___ INT
+The English translation of this sentence is:`These things are his.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Although both paradigms of \isi{intensive pronoun}s are written as sets of single lexemes, the composite morphemes of each putative word are quite clear and can, at times, occur separately, as in examples \REF{ex:pron:76}, \REF{ex:pron:77}, and \REF{ex:pron:78}, each of which contains both the \is{partitive-intensive pronoun} partitive-intensive pronominal form (of the 3\textsc{pl} \isi{pronoun}) and the basic \isi{intensive} form (as a separate morpheme, without any \isi{person} or \isi{number} marking).
+A: word: ndï-we	 gloss: 3PL-PART.INT
+B: word: ndï-awa	 gloss: 3PL-INT
+C: word: ndï-nji	 gloss: 3PL-POSS
+D: word: kwa-nji	 gloss: one{-poss}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 63:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma-nji nji ngala ndï-we ___
+Gloss (with missing item): 3SG.OBJ-POSS thing PL.PROX 3PL-PART.INT ___
+The English translation of this sentence is:`These things are his.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Although both paradigms of \isi{intensive pronoun}s are written as sets of single lexemes, the composite morphemes of each putative word are quite clear and can, at times, occur separately, as in examples \REF{ex:pron:76}, \REF{ex:pron:77}, and \REF{ex:pron:78}, each of which contains both the \is{partitive-intensive pronoun} partitive-intensive pronominal form (of the 3\textsc{pl} \isi{pronoun}) and the basic \isi{intensive} form (as a separate morpheme, without any \isi{person} or \isi{number} marking).
+A: word: nï-awa	 gloss: 1SG-INT
+B: word: awa	 gloss: INT
+C: word: anda-awa	 gloss: SG.DIST-INT
+D: word: ambï=ul	 gloss: SG.REFL=with
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 64:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ awa ma=n ni-e
+Gloss (with missing item): ___ INT 3SG.OBJ=OBL act-IPFV
+The English translation of this sentence is:`They themselves do it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Although both paradigms of \isi{intensive pronoun}s are written as sets of single lexemes, the composite morphemes of each putative word are quite clear and can, at times, occur separately, as in examples \REF{ex:pron:76}, \REF{ex:pron:77}, and \REF{ex:pron:78}, each of which contains both the \is{partitive-intensive pronoun} partitive-intensive pronominal form (of the 3\textsc{pl} \isi{pronoun}) and the basic \isi{intensive} form (as a separate morpheme, without any \isi{person} or \isi{number} marking).
+A: word: ndï-awa	 gloss: 3PL-INT
+B: word: ndï-we	 gloss: 3PL-PART.INT
+C: word: ndï-nji	 gloss: 3PL-POSS
+D: word: ambla-nji	 gloss: PL.REFL-POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 65:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndï-we ___ ma=n ni-e
+Gloss (with missing item): 3PL-PART.INT ___ 3SG.OBJ=OBL act-IPFV
+The English translation of this sentence is:`They themselves do it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Although both paradigms of \isi{intensive pronoun}s are written as sets of single lexemes, the composite morphemes of each putative word are quite clear and can, at times, occur separately, as in examples \REF{ex:pron:76}, \REF{ex:pron:77}, and \REF{ex:pron:78}, each of which contains both the \is{partitive-intensive pronoun} partitive-intensive pronominal form (of the 3\textsc{pl} \isi{pronoun}) and the basic \isi{intensive} form (as a separate morpheme, without any \isi{person} or \isi{number} marking).
+A: word: anda-awa	 gloss: SG.DIST-INT
+B: word: awa	 gloss: INT
+C: word: nï-awa	 gloss: 1SG-INT
+D: word: nï-nji	 gloss: 1SG-POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 66:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma-ngusuwa ___ i
+Gloss (with missing item): 3SG.OBJ{-}poor ___ go.PFV
+The English translation of this sentence is:`The poor thing went alone.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is also possible for the form the morpheme ___ ‘its gloss ___’ to occur as a separate morpheme, \isi{phonological}ly distinct from the preceding word (even if that word is a \isi{pronoun}), as in \REF{ex:pron:79} and \REF{ex:pron:80}.
+A: word: nï=ala	 gloss: 1SG=see
+B: word: wolka	 gloss: again
+C: word: kwe	 gloss: one
+D: word: we	 gloss: alone
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 67:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ___ alum nga=ul mbï-ka lo-wo-nda
+Gloss (with missing item): 1SG ___ child SG.PROX=with here-thus IRR-sleep-IRR
+The English translation of this sentence is:`I alone will sleep here with this child.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is also possible for the form the morpheme ___ ‘its gloss ___’ to occur as a separate morpheme, \isi{phonological}ly distinct from the preceding word (even if that word is a \isi{pronoun}), as in \REF{ex:pron:79} and \REF{ex:pron:80}.
+A: word: lo-wo-nda	 gloss: IRR-sleep-IRR
+B: word: kwe	 gloss: one
+C: word: ma-ngusuwa	 gloss: 3SG.OBJ-poor
+D: word: we	 gloss: alone
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 68:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ amun ma=si-al Dumngul nungol nga=wat-aw-e
+Gloss (with missing item): ___ now 3SG.OBJ=push-PFV [name] child SG.PROX=atop-put.IPFV-DEP
+The English translation of this sentence is:`Now he’s the one -- [they] call Dumngul’s son after him.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Notably, these forms are based on the subject (and not object) forms of the pronouns (e.g., /the morpheme ___/ and not \textsuperscript{†}/ma-nam/). They all appear to contain the \isi{emphatic} \isi{suffix} -nam ‘\textsc{emph}’. The form [ngam] seems to have undergone a \isi{phonological} reduction, assuming that it derives from nga ‘\textsc{sg.prox}’ (‘this’) plus -nam ‘\textsc{emph’}. The \isi{emphatic} pronominal forms are illustrated by examples \REF{ex:pron:81} through \REF{ex:pron:84}.
+A: word: tï-na	 gloss: take-IRR
+B: word: mï-nam	 gloss: 3SG.SUBJ-EMPH
+C: word: ndin	 gloss: 3DU?
+D: word: (mï)	 gloss: (3SG.SUBJ)
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 69:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ u nï=n lïmndï nga=ka nï=asa-e
+Gloss (with missing item): ___ 2SG 1SG=OBL eye SG.PROX=in 1SG=hit-DEP
+The English translation of this sentence is:`This is it -- you shot me in my eye.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Notably, these forms are based on the subject (and not object) forms of the pronouns (e.g., /mï-nam/ and not \textsuperscript{†}/ma-nam/). They all appear to contain the \isi{emphatic} \isi{suffix} -nam ‘\textsc{emph}’. The form [ngam] seems to have undergone a \isi{phonological} reduction, assuming that it derives from nga ‘\textsc{sg.prox}’ (‘this’) plus -nam ‘\textsc{emph’}. The \isi{emphatic} pronominal forms are illustrated by examples \REF{ex:pron:81} through \REF{ex:pron:84}.
+A: word: ndï-we	 gloss: 3PL-PART.INT
+B: word: nga-nam	 gloss: SG.PROX-EMPH
+C: word: inda-en	 gloss: walk-NMLZ
+D: word: tïnanga-na	 gloss: arise-IRR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 70:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ango lïmndï ma-nji pamili ndï=ala-e
+Gloss (with missing item): ___ NEG eye 3SG.OBJ-POSS family 3PL=see-DEP
+The English translation of this sentence is:`As for us, we don’t see his family.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These topic-marking forms can be used to contrast one referent from another or to introduce a new referent after, say, a pause in the discourse. Some of their functions are illustrated by sentences \REF{ex:pron:85} through \REF{ex:pron:90}.
+A: word: unan-ambi	 gloss: 1PL.INCL-TOP
+B: word: ambï=ul	 gloss: SG.REFL=with
+C: word: ngunan	 gloss: 1DU.INCL
+D: word: ngunan-ambi	 gloss: 1DU.INCL-TOP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 71:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Tarambi ___ an-mbï mbï-p-e
+Gloss (with missing item): [name] ___ out-here here-be{-ipfv}
+The English translation of this sentence is:`As for Tarambi, he stays outside.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: These topic-marking forms can be used to contrast one referent from another or to introduce a new referent after, say, a pause in the discourse. Some of their functions are illustrated by sentences \REF{ex:pron:85} through \REF{ex:pron:90}.
+A: word: ango	 gloss: NEG
+B: word: ma-ambi=na-la-ka-n	 gloss: 3SG.OBJ-TOP=DETR-IRR-let-IMP
+C: word: ma-ambi	 gloss: 3SG.OBJ-TOP
+D: word: ma-awa	 gloss: 3SG.OBJ-INT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 72:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nï na-kamb-p
+Gloss (with missing item): ___ 1SG DETR-shun-PFV
+The English translation of this sentence is:`Forget it; I’ve had enough.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The topic-marking pronominal forms are found almost exclusively in subject NPs. However, they appear as \isi{object-marker}s \isi{proclitic}s as part of \isi{irrealis} or \isi{imperative} expressions with the verb ka- ‘let, leave, allow’, thereby creating the \isi{idiom}atic meaning ‘forget (about) it/forget (about) them!’. This use is illustrated in examples \REF{ex:pron:91} through \REF{ex:pron:94}.
+A: word: ndï	 gloss: 3PL
+B: word: ma-ambi=la-ka-na	 gloss: 3SG.OBJ-TOP=IRR-let-IRR
+C: word: ma-ambi=na-la-ka-n	 gloss: 3SG.OBJ-TOP=DETR-IRR-let-IMP
+D: word: ma-ambi=la-ka-n	 gloss: 3SG.OBJ-TOP=IRR-let-IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 73:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`Shocking!’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The topic-marking pronominal forms are found almost exclusively in subject NPs. However, they appear as \isi{object-marker}s \isi{proclitic}s as part of \isi{irrealis} or \isi{imperative} expressions with the verb ka- ‘let, leave, allow’, thereby creating the \isi{idiom}atic meaning ‘forget (about) it/forget (about) them!’. This use is illustrated in examples \REF{ex:pron:91} through \REF{ex:pron:94}.
+A: word: ma=la-ka-na	 gloss: 3SG.OBJ=IRR-let-IRR
+B: word: ndï-nji	 gloss: 3PL-POSS
+C: word: ma-ambi=la-ka-na	 gloss: 3SG.OBJ-TOP=IRR-let-IRR
+D: word: ma-ambi=la-ka-n	 gloss: 3SG.OBJ-TOP=IRR-let-IMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 74:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yawa ___ anda ma u=nap ma=tï i-ap
+Gloss (with missing item): uncle ___ SG.DIST go 2SG=for 3SG.OBJ=take go.PFV-PFV
+The English translation of this sentence is:`That poor uncle went and brought it for you.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As an \isi{adjective}, the morpheme ___ ‘its gloss ___’ has the same distribution to be expected of any \is{attributive adjective} (attributive) \isi{adjective} in Ulwa (\sectref{sec:5.1}): it follows the nominal \isi{head} of the NP and may precede a \isi{determiner}. Its use as an \isi{adjective} is illustrated by sentences \REF{ex:pron:95} through \REF{ex:pron:99}.
+A: word: ngusuwa	 gloss: poor
+B: word: ma-ngusuwa	 gloss: 3SG.OBJ-poor
+C: word: ma-awa	 gloss: 3SG.OBJ-INT
+D: word: un-ngusuwata	 gloss: 2PL-poor
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 75:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ngunan-nji itom ___ min-we ya ndï=n aw-e
+Gloss (with missing item): 1DU.INCL-POSS father ___ 3DU-PART.INT coconut 3PL=OBL put{-ipfv}
+The English translation of this sentence is:`Only our two poor fathers used to plant coconuts.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As an \isi{adjective}, the morpheme ___ ‘its gloss ___’ has the same distribution to be expected of any \is{attributive adjective} (attributive) \isi{adjective} in Ulwa (\sectref{sec:5.1}): it follows the nominal \isi{head} of the NP and may precede a \isi{determiner}. Its use as an \isi{adjective} is illustrated by sentences \REF{ex:pron:95} through \REF{ex:pron:99}.
+A: word: un-ngusuwata	 gloss: 2PL-poor
+B: word: ma-ngusuwa	 gloss: 3SG.OBJ-poor
+C: word: ambï=ul	 gloss: SG.REFL=with
+D: word: ngusuwa	 gloss: poor
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 76:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yawa ___ anda ma u=nap ma=tï i-ap
+Gloss (with missing item): uncle ___ SG.DIST go 2SG=for 3SG.OBJ=take go.PFV-PFV
+The English translation of this sentence is:`That poor uncle went and brought it for you.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{adjective} seen in examples \REF{ex:pron:95} through \REF{ex:pron:99} may be contrasted with the pronominal forms, which never precede \isi{subject marker}s, \isi{object marker}s, or any other \isi{determiner}s belonging to the same \isi{phrase}. The pronominal forms are also capable of being expanded with the ending [-ta], which is never seen in the \isi{adjective} the morpheme ___ ‘its gloss ___’. Sentences \REF{ex:pron:100} through \REF{ex:pron:107} illustrate the use of these affective pronouns.
+A: word: ma-ngusuwa	 gloss: 3SG.OBJ-poor
+B: word: ambla=n	 gloss: PL.REFL=OBL
+C: word: ngusuwa	 gloss: poor
+D: word: un-ngusuwata	 gloss: 2PL-poor
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 77:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ngunan-nji itom ___ min-we ya ndï=n aw-e
+Gloss (with missing item): 1DU.INCL-POSS father ___ 3DU-PART.INT coconut 3PL=OBL put{-ipfv}
+The English translation of this sentence is:`Only our two poor fathers used to plant coconuts.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{adjective} seen in examples \REF{ex:pron:95} through \REF{ex:pron:99} may be contrasted with the pronominal forms, which never precede \isi{subject marker}s, \isi{object marker}s, or any other \isi{determiner}s belonging to the same \isi{phrase}. The pronominal forms are also capable of being expanded with the ending [-ta], which is never seen in the \isi{adjective} the morpheme ___ ‘its gloss ___’. Sentences \REF{ex:pron:100} through \REF{ex:pron:107} illustrate the use of these affective pronouns.
+A: word: un-ngusuwata	 gloss: 2PL-poor
+B: word: ngusuwa	 gloss: poor
+C: word: ambla-nji	 gloss: PL.REFL-POSS
+D: word: ma-ngusuwa	 gloss: 3SG.OBJ-poor
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 78:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ya ndï=n num u-p
+Gloss (with missing item): ___ coconut 3PL=OBL canoe put-PFV
+The English translation of this sentence is:`The poor thing put coconuts in the canoe.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{adjective} seen in examples \REF{ex:pron:95} through \REF{ex:pron:99} may be contrasted with the pronominal forms, which never precede \isi{subject marker}s, \isi{object marker}s, or any other \isi{determiner}s belonging to the same \isi{phrase}. The pronominal forms are also capable of being expanded with the ending [-ta], which is never seen in the \isi{adjective} ngusuwa ‘poor’. Sentences \REF{ex:pron:100} through \REF{ex:pron:107} illustrate the use of these affective pronouns.
+A: word: ma-ngusuwa	 gloss: 3SG.OBJ-poor
+B: word: ma-nji	 gloss: 3SG.OBJ-POSS
+C: word: ma-ngusuwata	 gloss: 3SG.OBJ-poor
+D: word: ma-awa	 gloss: 3SG.OBJ-INT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 79:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ mbï-p-e ma=ta-n-e wap-en
+Gloss (with missing item): ___ here-be{-dep} 3SG.OBJ=say-IPFV-DEP be.PST-NMLZ
+The English translation of this sentence is:`When the poor things were here, [they] used to talk about it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{adjective} seen in examples \REF{ex:pron:95} through \REF{ex:pron:99} may be contrasted with the pronominal forms, which never precede \isi{subject marker}s, \isi{object marker}s, or any other \isi{determiner}s belonging to the same \isi{phrase}. The pronominal forms are also capable of being expanded with the ending [-ta], which is never seen in the \isi{adjective} ngusuwa ‘poor’. Sentences \REF{ex:pron:100} through \REF{ex:pron:107} illustrate the use of these affective pronouns.
+A: word: ndï-ngusuwata	 gloss: 3PL-poor
+B: word: un-ngusuwata	 gloss: 2PL-poor
+C: word: ma-ngusuwata	 gloss: 3SG.OBJ-poor
+D: word: kwa	 gloss: one
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+

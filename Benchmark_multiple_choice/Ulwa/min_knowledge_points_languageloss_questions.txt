@@ -1,0 +1,598 @@
+Question 0:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): iya nï imba p-e ___ wap
+Gloss (with missing item): yes 1SG night be-DEP ___ be.PST
+The English translation of this sentence is:`Yes, I was going at night.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A very common form of ththe morpheme ___s \the morpheme ___sthe morpheme ___{morphosyntactthe morpheme ___c} calquthe morpheme ___ng from \the morpheme ___lthe morpheme ___{Tok Pthe morpheme ___sthe morpheme ___n} the morpheme ___s the use of the \the morpheme ___sthe morpheme ___{locatthe morpheme ___ve verb} form wap ‘be.\textsc{pst}’ as an \the morpheme ___sthe morpheme ___{auxthe morpheme ___lthe morpheme ___ary verb} followthe morpheme ___ng the mathe morpheme ___n verb to sthe morpheme ___gnal \the morpheme ___sthe morpheme ___{contthe morpheme ___nuous}, \the morpheme ___sthe morpheme ___{progressthe morpheme ___ve}, or \the morpheme ___sthe morpheme ___{habthe morpheme ___tual} \the morpheme ___sthe morpheme ___{aspect}. Ththe morpheme ___s may have been derthe morpheme ___ved thanks to the very sthe morpheme ___mthe morpheme ___lar role of stap ‘be’ the morpheme ___n \the morpheme ___lthe morpheme ___{Tok Pthe morpheme ___sthe morpheme ___n}. Not only does the Ulwa \the morpheme ___sthe morpheme ___{suffthe morpheme ___x} parallel the \the morpheme ___lthe morpheme ___{Tok Pthe morpheme ___sthe morpheme ___n} word the morpheme ___n meanthe morpheme ___ng (both are used the morpheme ___n \the morpheme ___sthe morpheme ___{locatthe morpheme ___ve clause}s), but the morpheme ___t also resembles the \the morpheme ___lthe morpheme ___{Tok Pthe morpheme ___sthe morpheme ___n} word \the morpheme ___sthe morpheme ___{phonologthe morpheme ___cal}ly (the two forms rhyme). In example \REF{ex:loss:1}, the \the morpheme ___sthe morpheme ___{perfectthe morpheme ___ve} form of the verb the morpheme ___s used, but wthe morpheme ___th the form wap ‘be.\textsc{pst’} followthe morpheme ___ng the morpheme ___t to sthe morpheme ___gnal \the morpheme ___sthe morpheme ___{contthe morpheme ___nuous} actthe morpheme ___on the morpheme ___n the past.
+A: word: unda	 gloss: go
+B: word: itom	 gloss: father
+C: word: i	 gloss: go.PFV
+D: word: ata-i	 gloss: up-go.PFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 1:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): iya nï imba p-e i ___
+Gloss (with missing item): yes 1SG night be-DEP go.PFV ___
+The English translation of this sentence is:`Yes, I was going at night.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A very common form of this \isi{morphosyntactic} calquing from \ili{Tok Pisin} is the use of the \isi{locative verb} form the morpheme ___ ‘be.\textsc{pst}’ as an \isi{auxiliary verb} following the main verb to signal \isi{continuous}, \isi{progressive}, or \isi{habitual} \isi{aspect}. This may have been derived thanks to the very similar role of stap ‘be’ in \ili{Tok Pisin}. Not only does the Ulwa \isi{suffix} parallel the \ili{Tok Pisin} word in meaning (both are used in \isi{locative clause}s), but it also resembles the \ili{Tok Pisin} word \isi{phonological}ly (the two forms rhyme). In example \REF{ex:loss:1}, the \isi{perfective} form of the verb is used, but with the form the morpheme ___ ‘be.\textsc{pst’} following it to signal \isi{continuous} action in the past.
+A: word: mbï-wap	 gloss: here-be.PST
+B: word: wap	 gloss: be.PST
+C: word: maski	 gloss: although
+D: word: wapata=p-ta	 gloss: dry=COP-COND
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 2:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): imba p-e ___
+Gloss (with missing item): night be-DEP ___
+The English translation of this sentence is:`[I] was going at night and …’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In the immediately following sentence, however, the speaker “corrects” to the more traditional means of expressing \isi{past} \isi{continuous} action, which is an \isi{imperfective} verb form \REF{ex:loss:2}.
+A: word: ma=wap	 gloss: 3SG.OBJ=be.PST
+B: word: ma-n-en	 gloss: go-IPFV-NMLZ
+C: word: na-ma-n-e	 gloss: DETR-go-IPFV-DEP
+D: word: ma-n-e	 gloss: go-IPFV-DEP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 3:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): iya nï imba p-e ___ wap
+Gloss (with missing item): yes 1SG night be-DEP ___ be.PST
+The English translation of this sentence is:`Yes, I was going at night.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentences such as \REF{ex:loss:1} are thus lthe morpheme ___kely the morpheme ___nfluenced by structures the morpheme ___n \the morpheme ___lthe morpheme ___{Tok Pthe morpheme ___sthe morpheme ___n}. To express \the morpheme ___sthe morpheme ___{contthe morpheme ___nuous} actthe morpheme ___on, \the morpheme ___lthe morpheme ___{Tok Pthe morpheme ___sthe morpheme ___n} employs the marker the morpheme ___ stap (the \the morpheme ___sthe morpheme ___{predthe morpheme ___cate marker} the morpheme ___ ‘\textsc{pred’} + stap ‘be’). Moreover, the chance sthe morpheme ___mthe morpheme ___larthe morpheme ___ty between the \the morpheme ___lthe morpheme ___{Tok Pthe morpheme ___sthe morpheme ___n} \the morpheme ___sthe morpheme ___{predthe morpheme ___cate marker} the morpheme ___ ‘\textsc{pred’} and the Ulwa verb the morpheme ___ ‘go.\textsc{pfv}’ has perhaps further the morpheme ___nfluenced the adoptthe morpheme ___on of ththe morpheme ___s constructthe morpheme ___on.
+A: word: i	 gloss: go.PFV
+B: word: itom	 gloss: father
+C: word: iken	 gloss: may
+D: word: supam=o	 gloss: [name]=VOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 4:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): iya nï imba p-e i ___
+Gloss (with missing item): yes 1SG night be-DEP go.PFV ___
+The English translation of this sentence is:`Yes, I was going at night.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentences such as \REF{ex:loss:1} are thus likely influenced by structures in \ili{Tok Pisin}. To express \isi{continuous} action, \ili{Tok Pisin} employs the marker i stap (the \isi{predicate marker} i ‘\textsc{pred’} + stap ‘be’). Moreover, the chance similarity between the \ili{Tok Pisin} \isi{predicate marker} i ‘\textsc{pred’} and the Ulwa verb i ‘go.\textsc{pfv}’ has perhaps further influenced the adoption of this construction.
+A: word: ma-n-e	 gloss: go-IPFV-DEP
+B: word: wapata=p-ta	 gloss: dry=COP-COND
+C: word: wap	 gloss: be.PST
+D: word: mbï-wap	 gloss: here-be.PST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 5:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Kapos wapata anda ma=tï inda-e ___
+Gloss (with missing item): [name] old SG.DIST 3SG.OBJ=take walk-IPFV ___
+The English translation of this sentence is:`That old [man] Kapos used to carry it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:loss:3}, the morpheme ___ ‘be.\textsc{pst’} serves a \isi{habitual} function. Here it follows a verb that is already marked as \isi{imperfective}.
+A: word: wap	 gloss: be.PST
+B: word: mbï-wap	 gloss: here-be.PST
+C: word: wapata=p-ta	 gloss: dry=COP-COND
+D: word: u=alpim	 gloss: 2SG=help
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 6:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ndï=ale-p ndï=ale-p yawt tï ndï=we-[u-]p
+Gloss (with missing item): ___ 3PL=scrape-PFV 3PL=scrape-PFV machete take 3PL=cut-[put-]PFV
+The English translation of this sentence is:`[They] scraped and scraped and scraped them, [and then] got machetes and cut them.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Some speakers of Ulwa also make use of \isi{iconic} repetition of verbs to signal \isi{iterative} (or, occasionally, \isi{durative}) \isi{aspect}. This, too, seems influenced from \ili{Tok Pisin}, in which verbs may be repeated to signal \isi{iterative} action (although this could, of course, also reflect a general tendency in languages towards \isi{iconic} representation of iterated activity). Thus, repeated verbs may be used to signal repetitive \REF{ex:loss:4} or \isi{durative} \REF{ex:loss:5} action.
+A: word: wap	 gloss: be.PST
+B: word: ma=ale-p	 gloss: 3SG.OBJ=scrape-PFV
+C: word: ndï=ale-p	 gloss: 3PL=scrape-PFV
+D: word: ndï=ale-e	 gloss: 3PL=scrape-IPFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 7:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndï=ale-p ___ ndï=ale-p yawt tï ndï=we-[u-]p
+Gloss (with missing item): 3PL=scrape-PFV ___ 3PL=scrape-PFV machete take 3PL=cut-[put-]PFV
+The English translation of this sentence is:`[They] scraped and scraped and scraped them, [and then] got machetes and cut them.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Some speakers of Ulwa also make use of \isi{iconic} repetition of verbs to signal \isi{iterative} (or, occasionally, \isi{durative}) \isi{aspect}. This, too, seems influenced from \ili{Tok Pisin}, in which verbs may be repeated to signal \isi{iterative} action (although this could, of course, also reflect a general tendency in languages towards \isi{iconic} representation of iterated activity). Thus, repeated verbs may be used to signal repetitive \REF{ex:loss:4} or \isi{durative} \REF{ex:loss:5} action.
+A: word: ma-n-e	 gloss: go-IPFV-DEP
+B: word: ndï=ale-p	 gloss: 3PL=scrape-PFV
+C: word: ndï=ale-e	 gloss: 3PL=scrape-IPFV
+D: word: ma=ale-p	 gloss: 3SG.OBJ=scrape-PFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 8:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndï=ale-p ndï=ale-p ___ yawt tï ndï=we-[u-]p
+Gloss (with missing item): 3PL=scrape-PFV 3PL=scrape-PFV ___ machete take 3PL=cut-[put-]PFV
+The English translation of this sentence is:`[They] scraped and scraped and scraped them, [and then] got machetes and cut them.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Some speakers of Ulwa also make use of \isi{iconic} repetition of verbs to signal \isi{iterative} (or, occasionally, \isi{durative}) \isi{aspect}. This, too, seems influenced from \ili{Tok Pisin}, in which verbs may be repeated to signal \isi{iterative} action (although this could, of course, also reflect a general tendency in languages towards \isi{iconic} representation of iterated activity). Thus, repeated verbs may be used to signal repetitive \REF{ex:loss:4} or \isi{durative} \REF{ex:loss:5} action.
+A: word: lï-p-e	 gloss: [put-]PFV-DEP
+B: word: ndï=ale-e	 gloss: 3PL=scrape-IPFV
+C: word: ma=ale-p	 gloss: 3SG.OBJ=scrape-PFV
+D: word: ndï=ale-p	 gloss: 3PL=scrape-PFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 9:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kwa Yalamba wa wap ___ ma=wap ma=wap
+Gloss (with missing item): just Korokopa village be.PST ___ 3SG.OBJ=be.PS 3SG.OBJ=be.PST
+The English translation of this sentence is:`[He] just stayed at Korokopa village for quite some time.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Some speakers of Ulwa also make use of \isi{iconic} repetition of verbs to signal \isi{iterative} (or, occasionally, \isi{durative}) \isi{aspect}. This, too, seems influenced from \ili{Tok Pisin}, in which verbs may be repeated to signal \isi{iterative} action (although this could, of course, also reflect a general tendency in languages towards \isi{iconic} representation of iterated activity). Thus, repeated verbs may be used to signal repetitive \REF{ex:loss:4} or \isi{durative} \REF{ex:loss:5} action.
+A: word: ma=wap-e	 gloss: 3SG.OBJ=be.PST-DEP
+B: word: ma-n-e	 gloss: go-IPFV-DEP
+C: word: i-na-ta	 gloss: come-IRR-COND
+D: word: ma=wap	 gloss: 3SG.OBJ=be.PST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 10:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kwa Yalamba wa wap ma=wap ___ ma=wap
+Gloss (with missing item): just Korokopa village be.PST 3SG.OBJ=be.PST ___ 3SG.OBJ=be.PST
+The English translation of this sentence is:`[He] just stayed at Korokopa village for quite some time.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Some speakers of Ulwa also make use of \isi{iconic} repetition of verbs to signal \isi{iterative} (or, occasionally, \isi{durative}) \isi{aspect}. This, too, seems influenced from \ili{Tok Pisin}, in which verbs may be repeated to signal \isi{iterative} action (although this could, of course, also reflect a general tendency in languages towards \isi{iconic} representation of iterated activity). Thus, repeated verbs may be used to signal repetitive \REF{ex:loss:4} or \isi{durative} \REF{ex:loss:5} action.
+A: word: ma=wap-e	 gloss: 3SG.OBJ=be.PST-DEP
+B: word: utam	 gloss: yam
+C: word: ma=wap	 gloss: 3SG.OBJ=be.PS
+D: word: lukawtim=p-en	 gloss: look.after=COP-NMLZ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 11:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kwa Yalamba wa wap ma=wap ma=wap ___
+Gloss (with missing item): just Korokopa village be.PST 3SG.OBJ=be.PST 3SG.OBJ=be.PS ___
+The English translation of this sentence is:`[He] just stayed at Korokopa village for quite some time.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Some speakers of Ulwa also make use of \isi{iconic} repetition of verbs to signal \isi{iterative} (or, occasionally, \isi{durative}) \isi{aspect}. This, too, seems influenced from \ili{Tok Pisin}, in which verbs may be repeated to signal \isi{iterative} action (although this could, of course, also reflect a general tendency in languages towards \isi{iconic} representation of iterated activity). Thus, repeated verbs may be used to signal repetitive \REF{ex:loss:4} or \isi{durative} \REF{ex:loss:5} action.
+A: word: ma=wap	 gloss: 3SG.OBJ=be.PST
+B: word: ma=wap-e	 gloss: 3SG.OBJ=be.PST-DEP
+C: word: lukawtim=p-en	 gloss: look.after=COP-NMLZ
+D: word: nï=ina-ka-wana	 gloss: 1SG=liver-at-feel
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 12:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mï minyam tï ambï=lï-p ___
+Gloss (with missing item): 3SG.SUBJ feces take SG.REFL=put-PFV ___
+The English translation of this sentence is:`He kept soiling himself.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A form of the verb ‘go’ (often either the root ma- ‘go’ alone or the \isi{suppletive} \isi{perfective} form i ‘go.\textsc{pfv’} with the \isi{detransitivizing} \isi{prefix}, i.e., [nay] or [ne]) may be used to show \isi{iterative} or \isi{durative} \isi{aspect} as well. This, too, parallels some uses of the \ili{Tok Pisin} \isi{progressive} marker i go, and is illustrated in \REF{ex:loss:6} and \REF{ex:loss:7}.
+A: word: na-i-n	 gloss: DETR-come-PFV
+B: word: na-i	 gloss: DETR-go.PFV
+C: word: na-i-e	 gloss: DETR-go.PFV-DEP
+D: word: maski	 gloss: although
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 13:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Wopata ma=p-en maka=p-e wombïn ndï=n ni-e ___
+Gloss (with missing item): [place] 3SG.OBJ=be{-nmlz} thus=be{-dep} work 3PL=OBL act-DEP ___
+The English translation of this sentence is:`Those who lived in Wopata were like this, doing work, for some time.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A form of the verb ‘go’ (often ethe morpheme ___ther the root ma- ‘go’ alone or the \the morpheme ___sthe morpheme ___{suppletthe morpheme ___ve} \the morpheme ___sthe morpheme ___{perfectthe morpheme ___ve} form the morpheme ___ ‘go.\textsc{pfv’} wthe morpheme ___th the \the morpheme ___sthe morpheme ___{detransthe morpheme ___tthe morpheme ___vthe morpheme ___zthe morpheme ___ng} \the morpheme ___sthe morpheme ___{prefthe morpheme ___x}, the morpheme ___.e., [nay] or [ne]) may be used to show \the morpheme ___sthe morpheme ___{the morpheme ___teratthe morpheme ___ve} or \the morpheme ___sthe morpheme ___{duratthe morpheme ___ve} \the morpheme ___sthe morpheme ___{aspect} as well. Ththe morpheme ___s, too, parallels some uses of the \the morpheme ___lthe morpheme ___{Tok Pthe morpheme ___sthe morpheme ___n} \the morpheme ___sthe morpheme ___{progressthe morpheme ___ve} marker the morpheme ___ go, and the morpheme ___s the morpheme ___llustrated the morpheme ___n \REF{ex:loss:6} and \REF{ex:loss:7}.
+A: word: ko=asa-p-e	 gloss: INDF=hit-PFV-DEP
+B: word: itom	 gloss: father
+C: word: lukawtim=p-en	 gloss: look.after=COP-NMLZ
+D: word: i	 gloss: go.PFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 14:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): unan awal ma=ta-n-e ___ na-i na-i na-i
+Gloss (with missing item): 1PL.INCL yesterday 3SG.OBJ=say-IPFV-DEP ___ DETR-go.PFV DETR-go.PFV DETR-go.PFV
+The English translation of this sentence is:`We kept discussing it yesterday, over and over.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As in the \ili{Tok Pisin} \isi{progressive} i go construction, the ‘go’ element in Ulwa may be repeated, even multiple times, as in \REF{ex:loss:8} and \REF{ex:loss:9}.
+A: word: na-na-i	 gloss: DETR-DETR-go.PFV
+B: word: na-i-n	 gloss: DETR-come-PFV
+C: word: na-i	 gloss: DETR-go.PFV
+D: word: laynim	 gloss: teach
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 15:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): unan awal ma=ta-n-e na-i ___ na-i na-i
+Gloss (with missing item): 1PL.INCL yesterday 3SG.OBJ=say-IPFV-DEP DETR-go.PFV ___ DETR-go.PFV DETR-go.PFV
+The English translation of this sentence is:`We kept discussing it yesterday, over and over.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As in the \ili{Tok Pisin} \isi{progressive} i go construction, the ‘go’ element in Ulwa may be repeated, even multiple times, as in \REF{ex:loss:8} and \REF{ex:loss:9}.
+A: word: pilim	 gloss: feel
+B: word: na-i-n	 gloss: DETR-come-PFV
+C: word: na-i	 gloss: DETR-go.PFV
+D: word: na-na-i	 gloss: DETR-DETR-go.PFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 16:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): unan awal ma=ta-n-e na-i na-i ___ na-i
+Gloss (with missing item): 1PL.INCL yesterday 3SG.OBJ=say-IPFV-DEP DETR-go.PFV DETR-go.PFV ___ DETR-go.PFV
+The English translation of this sentence is:`We kept discussing it yesterday, over and over.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As in the \ili{Tok Pisin} \isi{progressive} i go construction, the ‘go’ element in Ulwa may be repeated, even multiple times, as in \REF{ex:loss:8} and \REF{ex:loss:9}.
+A: word: na-i-n	 gloss: DETR-come-PFV
+B: word: na-na-i	 gloss: DETR-DETR-go.PFV
+C: word: na-i	 gloss: DETR-go.PFV
+D: word: u=alpim	 gloss: 2SG=help
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 17:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): unan awal ma=ta-n-e na-i na-i na-i ___
+Gloss (with missing item): 1PL.INCL yesterday 3SG.OBJ=say-IPFV-DEP DETR-go.PFV DETR-go.PFV DETR-go.PFV ___
+The English translation of this sentence is:`We kept discussing it yesterday, over and over.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As in the \ili{Tok Pisin} \isi{progressive} i go construction, the ‘go’ element in Ulwa may be repeated, even multiple times, as in \REF{ex:loss:8} and \REF{ex:loss:9}.
+A: word: na-i-n	 gloss: DETR-come-PFV
+B: word: na-i	 gloss: DETR-go.PFV
+C: word: u=alpim	 gloss: 2SG=help
+D: word: na-na-i	 gloss: DETR-DETR-go.PFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 18:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): unan wombïn=n ni-ta ___ ma ma
+Gloss (with missing item): 1PL.INCL work=OBL act{-cond} ___ go go
+The English translation of this sentence is:`And when we work on and on …’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As in the \ili{Tok Pisin} \isi{progressive} i its gloss ___ construction, the ‘its gloss ___’ element in Ulwa the morpheme ___y be repeated, even multiple times, as in \REF{ex:loss:8} and \REF{ex:loss:9}.
+A: word: ama-e	 gloss: eat-IPFV
+B: word: u-lo	 gloss: from-go
+C: word: ma=alpim	 gloss: 3SG.OBJ=help
+D: word: ma	 gloss: go
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 19:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): unan wombïn=n ni-ta ma ___ ma
+Gloss (with missing item): 1PL.INCL work=OBL act{-cond} go ___ go
+The English translation of this sentence is:`And when we work on and on …’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As in the \ili{Tok Pisin} \isi{progressive} i its gloss ___ construction, the ‘its gloss ___’ element in Ulwa the morpheme ___y be repeated, even multiple times, as in \REF{ex:loss:8} and \REF{ex:loss:9}.
+A: word: ma	 gloss: go
+B: word: mas	 gloss: must
+C: word: u-lo	 gloss: from-go
+D: word: ama-e	 gloss: eat-IPFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 20:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): unan wombïn=n ni-ta ma ma ___
+Gloss (with missing item): 1PL.INCL work=OBL act{-cond} go go ___
+The English translation of this sentence is:`And when we work on and on …’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As in the \ili{Tok Pisin} \isi{progressive} i its gloss ___ construction, the ‘its gloss ___’ element in Ulwa the morpheme ___y be repeated, even multiple times, as in \REF{ex:loss:8} and \REF{ex:loss:9}.
+A: word: u-lo	 gloss: from-go
+B: word: ama-e	 gloss: eat-IPFV
+C: word: unda-e	 gloss: go-DEP
+D: word: ma	 gloss: go
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 21:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma=tï lï-p ___ amun wolka kwa nga=ul ni-e
+Gloss (with missing item): 3SG.OBJ=take put-PFV ___ now again one SG.PROX=with act-IPFV
+The English translation of this sentence is:`[I] left it and now in turn [I] am making this one.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In addition to grammatical \isi{calque}s such as those detailed in \sectref{sec:15.3}, speakers of Ulwa frequently employ \ili{Tok Pisin} \isi{loanword}s for grammatical functions. For example, the borrowed \isi{coordithe morpheme ___ting conjunction}s the morpheme ___ ‘its gloss ___’ \REF{ex:loss:11} its gloss ___ o ‘or’ \REF{ex:loss:12} are commonly used.
+A: word: na	 gloss: and
+B: word: mïnal	 gloss: taro
+C: word: pilim	 gloss: feel
+D: word: tumbuna	 gloss: grandparent
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 22:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): u imba p-e i ___ ane p-e i
+Gloss (with missing item): 2SG night be{-dep} go.PFV ___ sun be{-dep} go.PFV
+The English translation of this sentence is:`Did you go at night or go during the day?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In additithe mits gloss ___pheme ___n tthe mits gloss ___pheme ___ grammatical \isi{calque}s such as ththe mits gloss ___pheme ___se detailed in \sectref{sec:15.3}, speakers the mits gloss ___pheme ___f Ulwa frequently emplthe mits gloss ___pheme ___y \ili{Tthe mits gloss ___pheme ___k Pisin} \isi{lthe mits gloss ___pheme ___anwthe mits gloss ___pheme ___rd}s fthe mits gloss ___pheme ___r grammatical functithe mits gloss ___pheme ___ns. Fthe mits gloss ___pheme ___r example, the bthe mits gloss ___pheme ___rrthe mits gloss ___pheme ___wed \isi{cthe mits gloss ___pheme ___the mits gloss ___pheme ___rdinating cthe mits gloss ___pheme ___njunctithe mits gloss ___pheme ___n}s na ‘and’ \REF{ex:lthe mits gloss ___pheme ___ss:11} and the mits gloss ___pheme ___ ‘the mits gloss ___pheme ___r’ \REF{ex:lthe mits gloss ___pheme ___ss:12} are cthe mits gloss ___pheme ___mmthe mits gloss ___pheme ___nly used.
+A: word: o	 gloss: or
+B: word: unda	 gloss: go
+C: word: ma-ambi=la-ka-n	 gloss: 3SG.OBJ-TOP=IRR-let-IMP
+D: word: wopata	 gloss: [place]
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 23:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ndï ndï-nji ngin ma=top inim [lï-]p-e wambana nungol ko=tï-n-e mbay an ma=la-nda
+Gloss (with missing item): ___ 3PL 3PL-POSS net 3SG.OBJ=throw water [put-]PFV-DEP fish child INDF=take-PFV-DEP will 1PL.EXCL 3SG.OBJ=eat-IRR
+The English translation of this sentence is:`Whenever they threw their net into the water and got a small fish, [then] we would eat it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Loan} \isi{subordinator}s from \ili{Tok Pisin} include maski ‘although’ and taim ‘when, whenever’. These function words occur at the beginning of a \isi{dependent clause}. In traditional forms of Ulwa, the \isi{dependent marker} -e ‘\textsc{dep}’ would have sufficed to convey such \isi{concessive} or \isi{the morpheme ___poral} notions. With these words, however, the \isi{dependent marker} may be used as well \REF{ex:loss:13}, or it may be omitted \REF{ex:loss:14}.
+A: word: tem	 gloss: time
+B: word: tem=nï	 gloss: time=OBL
+C: word: tembi=p	 gloss: bad=COP
+D: word: mboylim	 gloss: boil
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 24:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tem ndï ndï-nji ngin ma=top inim ___ wambana nungol ko=tï-n-e mbay an ma=la-nda
+Gloss (with missing item): time 3PL 3PL-POSS net 3SG.OBJ=throw water ___ fish child INDF=take-PFV-DEP will 1PL.EXCL 3SG.OBJ=eat-IRR
+The English translation of this sentence is:`Whenever they threw their net into the water and got a small fish, [then] we would eat it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Loan} \isi{subordinator}s from \ili{Tok Pisin} include maski ‘although’ and taim ‘when, whenever’. These function words occur at the beginning of a \isi{dependent clause}. In traditional forms of Ulwa, the \isi{dependent marker} -e ‘\textsc{dep}’ would have sufficed to convey such \isi{concessive} or \isi{temporal} notions. With these words, however, the \isi{dependent marker} may be used as well \REF{ex:loss:13}, or it may be omitted \REF{ex:loss:14}.
+A: word: lï-p-e	 gloss: [put-]PFV-DEP
+B: word: u-p-e	 gloss: put-PFV-DEP
+C: word: ma=kali-lï-p-e	 gloss: 3SG.OBJ=send-put-PFV-DEP
+D: word: ma=alpim	 gloss: 3SG.OBJ=help
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 25:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ u ma awlop ma=ka lo-wo-nda
+Gloss (with missing item): ___ 2SG go in.vain 3SG.OBJ=at IRR-sleep-IRR
+The English translation of this sentence is:`Even if you go and get lost, [you] can sleep there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Loan} \isi{subordinator}s from \ili{Tok Pisin} include the morpheme ___ ‘its gloss ___’ and taim ‘when, whenever’. These function words occur at the beginning of a \isi{dependent clause}. In traditional forms of Ulwa, the \isi{dependent marker} -e ‘\textsc{dep}’ would have sufficed to convey such \isi{concessive} or \isi{temporal} notions. With these words, however, the \isi{dependent marker} may be used as well \REF{ex:loss:13}, or it may be omitted \REF{ex:loss:14}.
+A: word: lukawtim=p-na	 gloss: look.after=COP-IRR
+B: word: moweka	 gloss: also
+C: word: thomas	 gloss: [name]
+D: word: maski	 gloss: although
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 26:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ u ma awlop ma=ka lo-wo-nda
+Gloss (with missing item): ___ 2SG go in.vain 3SG.OBJ=at IRR-sleep-IRR
+The English translation of this sentence is:`Even if you go and get lost, [you] can sleep there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{ex:loss:14} also illustrates the use of the \ili{Tok Pisin} \isi{auxiliary verb} bai ‘will’. \ili{Tok Pisin} \isi{modal} verbs such as bai ‘will’, iken ‘may, can’, or mas ‘should, must’ may occur along with \isi{irrealis}-marked Ulwa verbs. The \ili{Tok Pisin} verb save \linebreak ‘know’, which can function as an \isi{auxiliary} in that language to mark \isi{habitual} \linebreak \isi{aspect}, is also a common \isi{loanword} in Ulwa, usually used along with an \linebreak imperfective-marked verb, the traditional means of marking \isi{habitual} \isi{aspect} in Ulwa. Examples of the borrowed \ili{Tok Pisin} function words mas ‘should, must’ \REF{ex:loss:15}, iken ‘may, can’, \REF{ex:loss:16}, and save ‘\textsc{hab’} \textsc{(1}7) are commonly found in texts.
+A: word: moweka	 gloss: also
+B: word: maski	 gloss: although
+C: word: tambuwim	 gloss: taboo
+D: word: thomas	 gloss: [name]
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 27:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): u ___ ma=ta-n[a]
+Gloss (with missing item): 2SG ___ 3SG.OBJ=say-IRR
+The English translation of this sentence is:`You should tell it!’\footnote{The form [matan] contains either an \isi{elide}d form of the \isi{irrealis} \isi{suffix} -na ‘IRR’, or else it contains the \isi{imperative} \isi{suffix} -n ‘IMP’.} (mas < TP mas ‘should, must’) [ulwa032_05:47]’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{ex:loss:14} also illustrates the use of the \ili{Tok Pisin} \isi{auxiliary verb} bai ‘will’. \ili{Tok Pisin} \isi{modal} verbs such as bai ‘will’, iken ‘may, can’, or the morpheme ___ ‘should, its gloss ___’ may occur along with \isi{irrealis}-marked Ulwa verbs. The \ili{Tok Pisin} verb save \linebreak ‘know’, which can function as an \isi{auxiliary} in that language to mark \isi{habitual} \linebreak \isi{aspect}, is also a common \isi{loanword} in Ulwa, usually used along with an \linebreak imperfective-marked verb, the traditional means of marking \isi{habitual} \isi{aspect} in Ulwa. Examples of the borrowed \ili{Tok Pisin} function words the morpheme ___ ‘should, its gloss ___’ \REF{ex:loss:15}, iken ‘may, can’, \REF{ex:loss:16}, and save ‘\textsc{hab’} \textsc{(1}7) are commonly found in texts.
+A: word: unda	 gloss: go
+B: word: mas	 gloss: must
+C: word: moweka	 gloss: also
+D: word: thomas	 gloss: [name]
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 28:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): un ___ ma=wan uta-p ma ndï=n ma=nïkï-na
+Gloss (with missing item): 2PL ___ 3SG.OBJ=above grind-PFV go 3PL=OBL 3SG.OBJ=dig-IRR
+The English translation of this sentence is:`You can clear over it and plant them there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{ex:loss:14} also illustrates the use of the \ili{Tok Pisin} \isi{auxiliary verb} bai ‘will’. \ili{Tok Pisin} \isi{modal} verbs such as bai ‘will’, the morpheme ___ ‘its gloss ___, can’, or mas ‘should, must’ its gloss ___ occur along with \isi{irrealis}-marked Ulwa verbs. The \ili{Tok Pisin} verb save \linebreak ‘know’, which can function as an \isi{auxiliary} in that language to mark \isi{habitual} \linebreak \isi{aspect}, is also a common \isi{loanword} in Ulwa, usually used along with an \linebreak imperfective-marked verb, the traditional means of marking \isi{habitual} \isi{aspect} in Ulwa. Examples of the borrowed \ili{Tok Pisin} function words mas ‘should, must’ \REF{ex:loss:15}, the morpheme ___ ‘its gloss ___, can’, \REF{ex:loss:16}, and save ‘\textsc{hab’} \textsc{(1}7) are commonly found in texts.
+A: word: tap	 gloss: maybe
+B: word: kenmbu	 gloss: problem
+C: word: ndï=ale-p	 gloss: 3PL=scrape-PFV
+D: word: iken	 gloss: may
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 29:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): un ___ ma=wan uta-p ma ndï=n ma=nïkï-na
+Gloss (with missing item): 2PL ___ 3SG.OBJ=above grind-PFV go 3PL=OBL 3SG.OBJ=dig-IRR
+The English translation of this sentence is:`You can clear over it and plant them there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{ex:loss:16} illustrates the use of the \ili{Tok Pisin} \isi{predicate marker} i ‘\textsc{pred’}, here probably just adopted along with the verb ken ‘can, its gloss ___’ -- that is, reanalyzed as a unitary \isi{auxiliary verb} [the morpheme ___]. The \isi{predicate marker} i ‘\textsc{pred’} does appear elsewhere in Ulwa discourse, but, due to its \isi{homophony} with the \isi{suppletive} \isi{perfective} form of the verb ‘go’, it is often difficult to determine whether the form [i] is being used as the \isi{predicate marker} or as a \isi{calque} of \ili{Tok Pisin} go ‘go’, which is used to achieve similar grammatical functions.
+A: word: iken	 gloss: may
+B: word: tap	 gloss: maybe
+C: word: tambuwim	 gloss: taboo
+D: word: kenmbu	 gloss: problem
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 30:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndï i aw=nï ___
+Gloss (with missing item): 3PL go.PFV betel.nut=OBL ___
+The English translation of this sentence is:`They went and forbade [taking] the betel nut.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When \ili{Tok Pisin} verbs are \isi{borrow}ed into Ulwa, they are typically treated as \isi{intransitive}, regardless of their \isi{semantics}. The logical object of the verb is not indexed by an \isi{object marker}, but instead appears as the \isi{head} of an \isi{oblique} \isi{phrase} marked by the \isi{oblique marker} =n ‘\textsc{obl}’.\footnote{This occurs even with \ili{Tok Pisin} verbs that are marked with the \isi{transitive} \isi{suffix} -im, which of course is not a \isi{transitive} marker in Ulwa.} The \ili{Tok Pisin} verb is usually employed without any \isi{TAM} marking, as in \ili{Tok Pisin}. Examples \REF{ex:loss:18}, \REF{ex:loss:19}, and \REF{ex:loss:20} illustrate the use of \ili{Tok Pisin} loan verbs without any \isi{suffix} or \isi{auxiliary verb}. Note the absence of any grammatical object and the use of the \isi{oblique marker} =n `\textsc{obl}’.
+A: word: wap	 gloss: be.PST
+B: word: tambuwim	 gloss: taboo
+C: word: woyambïn	 gloss: pointlessly
+D: word: nambul	 gloss: [name]
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 31:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ta wa ma=n ___
+Gloss (with missing item): 1SG already just 3SG.OBJ=OBL ___
+The English translation of this sentence is:`I had already just felt it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When \ili{Tok Pisin} verbs are \isi{borrow}ed into Ulwa, they are typically treated as \isi{intransitive}, regardless of their \isi{semantics}. The logical object of the verb is not indexed by an \isi{object marker}, but instead appears as the \isi{head} of an \isi{oblique} \isi{phrase} marked by the \isi{oblique marker} =n ‘\textsc{obl}’.\footnote{This occurs even with \ili{Tok Pisin} verbs that are marked with the \isi{transitive} \isi{suffix} -im, which of course is not a \isi{transitive} marker in Ulwa.} The \ili{Tok Pisin} verb is usually employed without any \isi{TAM} marking, as in \ili{Tok Pisin}. Examples \REF{ex:loss:18}, \REF{ex:loss:19}, and \REF{ex:loss:20} illustrate the use of \ili{Tok Pisin} loan verbs without any \isi{suffix} or \isi{auxiliary verb}. Note the absence of any grammatical object and the use of the \isi{oblique marker} =n `\textsc{obl}’.
+A: word: alimban	 gloss: [name]
+B: word: pilim	 gloss: feel
+C: word: ma-n-e	 gloss: go-IPFV-DEP
+D: word: kïkal-wana	 gloss: ear-feel
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 32:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): un-nji yena un-nji ini=n ___
+Gloss (with missing item): 2PL-POSS woman 2PL-POSS ground=OBL ___
+The English translation of this sentence is:`[They] are your women; [so] find your land!’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When \ili{Tok Pisin} verbs are \isi{borrow}ed into Ulwa, they are typically treated as \isi{intransitive}, regardless of their \isi{semantics}. The logical object of the verb is not indexed by an \isi{object marker}, but instead appears as the \isi{head} of an \isi{oblique} \isi{phrase} marked by the \isi{oblique marker} =n ‘\textsc{obl}’.\footnote{This occurs even with \ili{Tok Pisin} verbs that are marked with the \isi{transitive} \isi{suffix} -im, which of course is not a \isi{transitive} marker in Ulwa.} The \ili{Tok Pisin} verb is usually employed without any \isi{TAM} marking, as in \ili{Tok Pisin}. Examples \REF{ex:loss:18}, \REF{ex:loss:19}, and \REF{ex:loss:20} illustrate the use of \ili{Tok Pisin} loan verbs without any \isi{suffix} or \isi{auxiliary verb}. Note the absence of any grammatical object and the use of the \isi{oblique marker} =n `\textsc{obl}’.
+A: word: laynim	 gloss: teach
+B: word: kalam	 gloss: knowledge
+C: word: paynim	 gloss: find
+D: word: mboylim	 gloss: boil
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 33:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndï=n ___ i ndï=ala ya ma=uta-p
+Gloss (with missing item): 3PL=OBL ___ go.PFV 3PL=for coconut 3SG.OBJ=grind-PFV
+The English translation of this sentence is:`[I] boiled them and ground a coconut for them.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sometimes, however, the \isi{aspect} or \isi{mood} of a detransitivized \ili{Tok Pisin} loan verb may be conveyed by means of an \isi{auxiliary} ‘going’ verb: (ma- {\textasciitilde} i ‘go’ or unda- ‘go around’). As elsewhere with such detransitivized verb constructions, the logical object is expressed in an \isi{oblique} \isi{phrase}. Examples \REF{ex:loss:22} through \REF{ex:loss:27} illustrate various ‘going’ verbs used with detransitivized \ili{Tok Pisin} loan verbs.
+A: word: ndï=ale-p	 gloss: 3PL=scrape-PFV
+B: word: wana-nda	 gloss: cook-IRR
+C: word: sïmboy	 gloss: child
+D: word: mboylim	 gloss: boil
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 34:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndï=n mboylim ___ ndï=ala ya ma=uta-p
+Gloss (with missing item): 3PL=OBL boil ___ 3PL=for coconut 3SG.OBJ=grind-PFV
+The English translation of this sentence is:`[I] boiled them and ground a coconut for them.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sometthe morpheme ___mes, however, the \the morpheme ___sthe morpheme ___{aspect} or \the morpheme ___sthe morpheme ___{mood} of a detransthe morpheme ___tthe morpheme ___vthe morpheme ___zed \the morpheme ___lthe morpheme ___{Tok Pthe morpheme ___sthe morpheme ___n} loan verb may be conveyed by means of an \the morpheme ___sthe morpheme ___{auxthe morpheme ___lthe morpheme ___ary} ‘gothe morpheme ___ng’ verb: (ma- {\textascthe morpheme ___the morpheme ___tthe morpheme ___lde} the morpheme ___ ‘go’ or unda- ‘go around’). As elsewhere wthe morpheme ___th such detransthe morpheme ___tthe morpheme ___vthe morpheme ___zed verb constructthe morpheme ___ons, the logthe morpheme ___cal object the morpheme ___s expressed the morpheme ___n an \the morpheme ___sthe morpheme ___{oblthe morpheme ___que} \the morpheme ___sthe morpheme ___{phrase}. Examples \REF{ex:loss:22} through \REF{ex:loss:27} the morpheme ___llustrate varthe morpheme ___ous ‘gothe morpheme ___ng’ verbs used wthe morpheme ___th detransthe morpheme ___tthe morpheme ___vthe morpheme ___zed \the morpheme ___lthe morpheme ___{Tok Pthe morpheme ___sthe morpheme ___n} loan verbs.
+A: word: paynim	 gloss: find
+B: word: i	 gloss: go.PFV
+C: word: itom	 gloss: father
+D: word: ma=kamb	 gloss: 3SG.OBJ=shun
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 35:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ya i mas tokples nga=n ___ unda
+Gloss (with missing item): yeah PRED must tokples SG.PROX=OBL ___ go
+The English translation of this sentence is:`Yeah, [we] have to teach [them] this tokples [= vernacular].’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sometimes, however, the \isi{aspect} or \isi{mood} of a detransitivized \ili{Tok Pisin} loan verb may be conveyed by means of an \isi{auxiliary} ‘going’ verb: (ma- {\textasciitilde} i ‘go’ or unda- ‘go around’). As elsewhere with such detransitivized verb constructions, the logical object is expressed in an \isi{oblique} \isi{phrase}. Examples \REF{ex:loss:22} through \REF{ex:loss:27} illustrate various ‘going’ verbs used with detransitivized \ili{Tok Pisin} loan verbs.
+A: word: laynim	 gloss: teach
+B: word: u=alpim	 gloss: 2SG=help
+C: word: paynim	 gloss: find
+D: word: ticha	 gloss: teacher
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 36:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ya i mas tokples nga=n laynim ___
+Gloss (with missing item): yeah PRED must tokples SG.PROX=OBL teach ___
+The English translation of this sentence is:`Yeah, [we] have to teach [them] this tokples [= vernacular].’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sometimes, however, the \isi{aspect} or \isi{mood} of a detransitivized \ili{Tok Pisin} loan verb may be conveyed by means of an \isi{auxiliary} ‘its gloss ___ing’ verb: (ma- {\textasciitilde} i ‘its gloss ___’ or the morpheme ___- ‘its gloss ___ around’). As elsewhere with such detransitivized verb constructions, the logical object is expressed in an \isi{oblique} \isi{phrase}. Examples \REF{ex:loss:22} through \REF{ex:loss:27} illustrate various ‘its gloss ___ing’ verbs used with detransitivized \ili{Tok Pisin} loan verbs.
+A: word: na-i-e	 gloss: DETR-go.PFV-DEP
+B: word: unda-e	 gloss: go-DEP
+C: word: u-lo	 gloss: from-go
+D: word: unda	 gloss: go
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 37:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ u-nji wombïn ma=n ni-nda
+Gloss (with missing item): ___ 2SG-POSS work 3SG.OBJ=OBL act-IRR
+The English translation of this sentence is:`[I] will help you do your work.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Notably, one \ili{Tok Pisin} loan verb does seem to permit objects: this is the \ili{Tok Pisin} verb helpim ‘help’, which is generally pronounced [alpim] in Ulwa. As in some varieties of \ili{Tok Pisin}, Ulwa lacks the \isi{glottal} \isi{fricative} [h]. Ulwa furthermore forbids the \is{mid vowel} mid \isi{front vowel} [e] word-initially. In example \REF{ex:loss:21}, the 2\textsc{sg} \isi{object marker} is the \isi{direct object} of the verb.
+A: word: u=nap	 gloss: 2SG=for
+B: word: ma=alpim	 gloss: 3SG.OBJ=help
+C: word: kuma=n	 gloss: some=OBL
+D: word: u=alpim	 gloss: 2SG=help
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 38:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nungol ndï ___ unda-e ma=ul inamba=n nji ndï=ina-e
+Gloss (with missing item): child 3PL ___ go-DEP 3SG.OBJ=with money=OBL thing 3PL=get-IPFV
+The English translation of this sentence is:`The children are helping him buy things.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentence \REF{ex:loss:28} illustrates the use of the verb alpim ‘help’ with the \isi{auxiliary verb} unda- ‘go around’.
+A: word: u=alpim	 gloss: 2SG=help
+B: word: iken	 gloss: may
+C: word: ma=in	 gloss: 3SG.OBJ=in
+D: word: ma=alpim	 gloss: 3SG.OBJ=help
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 39:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nungol ndï ma=alpim ___ ma=ul inamba=n nji ndï=ina-e
+Gloss (with missing item): child 3PL 3SG.OBJ=help ___ 3SG.OBJ=with money=OBL thing 3PL=get-IPFV
+The English translation of this sentence is:`The children are helping him buy things.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentence \REF{ex:loss:28} illustrates the use of the verb alpim ‘help’ with the \isi{auxiliary verb} unda- ‘go around’.
+A: word: lï-p-e	 gloss: [put-]PFV-DEP
+B: word: unda-e	 gloss: go-DEP
+C: word: ta-e	 gloss: say-DEP
+D: word: mbï-unda-en	 gloss: here-go-NMLZ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 40:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ango tïki ankam ___ lukawtim=p-na
+Gloss (with missing item): 1SG NEG again person ___ look.after=COP-IRR
+The English translation of this sentence is:`I won’t look after other people anymore.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The loan verb lukawtim ‘look after’ is also exceptional in that it seems sometimes to take the \isi{copular enclitic} rather than using a \isi{periphrastic} construction with a verb of ‘going’ to convey \isi{TAM} meaning. This perhaps reflects the fact that this verb has been adopted into Ulwa as a non-verbal element (cf. kalam ‘knowledge’, \isi{borrow}ed from \ili{Waran}, \sectref{sec:5.4}). Still, like most loan verbs that come from \ili{Tok Pisin}, lukawtim ‘look after’ does not permit an object, but rather makes use of \isi{oblique} \isi{phrase}s marked by =n ‘\textsc{obl}’, as in \REF{ex:loss:29}.
+A: word: nji=n	 gloss: thing=OBL
+B: word: kuma=tï	 gloss: some=take
+C: word: na-i	 gloss: DETR-go.PFV
+D: word: kuma=n	 gloss: some=OBL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 41:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ango tïki ankam kuma=n ___
+Gloss (with missing item): 1SG NEG again person some=OBL ___
+The English translation of this sentence is:`I won’t look after other people anymore.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The loan verb lukawtim ‘look after’ is also exceptional in that it seems sometimes to take the \isi{copular enclitic} rather than using a \isi{periphrastic} construction with a verb of ‘going’ to convey \isi{TAM} meaning. This perhaps reflects the fact that this verb has been adopted into Ulwa as a non-verbal element (cf. kalam ‘knowledge’, \isi{borrow}ed from \ili{Waran}, \sectref{sec:5.4}). Still, like most loan verbs that come from \ili{Tok Pisin}, lukawtim ‘look after’ does not permit an object, but rather makes use of \isi{oblique} \isi{phrase}s marked by =n ‘\textsc{obl}’, as in \REF{ex:loss:29}.
+A: word: ango=p-na	 gloss: which=COP-IRR
+B: word: lukawtim=p-en	 gloss: look.after=COP-NMLZ
+C: word: unda	 gloss: go
+D: word: lukawtim=p-na	 gloss: look.after=COP-IRR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 42:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tembi anda wa nji=n anma=nï ___ kom
+Gloss (with missing item): bad SG.DIST just thing=OBL good=OBL ___ NEG
+The English translation of this sentence is:`That bad one just doesn’t look after things well.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:loss:30}, the \isi{verbalized} form of this word (with the \isi{copular enclitic} =p ‘\textsc{cop}’) is further \isi{nominalize}d by the \isi{nominalizing} \isi{suffix} -en ‘\textsc{nmlz}’ and then treated as a \is{non-verbal predication} non-verbal \isi{predicate}, being negated with \isi{clause-final negator} kom ‘\textsc{neg}’. A similar phenomenon is seen with kalam ‘knowledge’ in example \REF{ex:syntax:164} in \sectref{sec:13.3.2}.
+A: word: ma=wap	 gloss: 3SG.OBJ=be.PST
+B: word: lukawtim=p-na	 gloss: look.after=COP-IRR
+C: word: lukawtim=p-en	 gloss: look.after=COP-NMLZ
+D: word: maka=p-en	 gloss: thus=COP-NMLZ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 43:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ngunan ___ ndï=ul amba kwe in wap ko ndï=kalam=p-en me
+Gloss (with missing item): 1DU.INCL ___ 3PL=with mens.house one in be.PST just 3PL=knowledge=COP{-nmlz} NEG
+The English translation of this sentence is:`We have not lived with them in even one men’s house nor [do we] know about them.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:loss:30}, the \isi{verbalized} form of this word (with the \isi{copular enclitic} =p ‘\textsc{cop}’) is further \isi{nominalize}d by the \isi{nominalizing} \isi{suffix} -en ‘\textsc{nmlz}’ and then treated as a \is{non-verbal predication} non-verbal \isi{predicate}, being negated with \isi{clause-final negator} the morpheme ___m ‘\textsc{neg}’. A similar phenomenon is seen with kalam ‘knowledge’ in example \REF{ex:syntax:164} in \sectref{sec:13.3.2}.
+A: word: pilim	 gloss: feel
+B: word: moweka	 gloss: also
+C: word: ko	 gloss: just
+D: word: kowe	 gloss: [name]
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 44:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ngunan ko ndï=ul amba kwe in wap ___ ndï=kalam=p-en me
+Gloss (with missing item): 1DU.INCL just 3PL=with mens.house one in be.PST ___ 3PL=knowledge=COP{-nmlz} NEG
+The English translation of this sentence is:`We have not lived with them in even one men’s house nor [do we] know about them.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:loss:30}, the \isi{verbalized} form of this word (with the \isi{copular enclitic} =p ‘\textsc{cop}’) is further \isi{nominalize}d by the \isi{nominalizing} \isi{suffix} -en ‘\textsc{nmlz}’ and then treated as a \is{non-verbal predication} non-verbal \isi{predicate}, being negated with \isi{clause-final negator} the morpheme ___m ‘\textsc{neg}’. A similar phenomenon is seen with kalam ‘knowledge’ in example \REF{ex:syntax:164} in \sectref{sec:13.3.2}.
+A: word: tem	 gloss: time
+B: word: moweka	 gloss: also
+C: word: ko	 gloss: just
+D: word: kowe	 gloss: [name]
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 45:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ngunan ko ndï=ul amba kwe in wap ko ndï=kalam=p-en ___
+Gloss (with missing item): 1DU.INCL just 3PL=with mens.house one in be.PST just 3PL=knowledge=COP{-nmlz} ___
+The English translation of this sentence is:`We have not lived with them in even one men’s house nor [do we] know about them.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \REF{ex:loss:30}, the \isi{verbalized} form of this word (with the \isi{copular enclitic} =p ‘\textsc{cop}’) is further \isi{nominalize}d by the \isi{nominalizing} \isi{suffix} -en ‘\textsc{nmlz}’ and then treated as a \is{non-verbal predication} non-verbal \isi{predicate}, being negated with \isi{clause-final negator} kom ‘\textsc{neg}’. A similar phenothe morpheme ___non is seen with kalam ‘knowledge’ in example \REF{ex:syntax:164} in \sectref{sec:13.3.2}.
+A: word: u=alpim	 gloss: 2SG=help
+B: word: me	 gloss: NEG
+C: word: ame	 gloss: basket
+D: word: (ko)	 gloss: (NEG)
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+

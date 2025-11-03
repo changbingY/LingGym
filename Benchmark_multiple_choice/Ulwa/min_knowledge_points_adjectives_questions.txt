@@ -1,0 +1,403 @@
+Question 0:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ankam ___ mï tïn njukuta ma=asa-p
+Gloss (with missing item): person ___ 3SG.SUBJ dog small 3SG.OBJ=hit{-pfv}
+The English translation of this sentence is:`The big person hit the small dog.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When an \isi{adjective} is neither functioning as a substantive nor serving as a \isi{predicate complement}, it occurs within the limits of a \isi{noun phrase}. When inside an NP, adjectives occur after the noun (the \isi{head} of the NP) and before the \isi{subject marker}, \isi{object marker}, or any other \isi{determiner} that may be found in an NP. Such \isi{adnominal adjective}s never occur outside the NP (i.e., \isi{discontinuous}ly). Sentences \REF{ex:adj:1} through \REF{ex:adj:4} provide examples of adjectives (in \textbf{bold}) as they appear in NPs, illustrating their postnominal position, preceding \isi{determiner}s.
+A: word: nïpat	 gloss: huge
+B: word: anma	 gloss: good
+C: word: ambi=p	 gloss: big=COP
+D: word: ambi	 gloss: big
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 1:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ankam ambi mï tïn ___ ma=asa-p
+Gloss (with missing item): person big 3SG.SUBJ dog ___ 3SG.OBJ=hit{-pfv}
+The English translation of this sentence is:`The big person hit the small dog.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When an \isi{adjective} is neither functioning as a substantive nor serving as a \isi{predicate complement}, it occurs within the limits of a \isi{noun phrase}. When inside an NP, adjectives occur after the noun (the \isi{head} of the NP) and before the \isi{subject marker}, \isi{object marker}, or any other \isi{determiner} that may be found in an NP. Such \isi{adnominal adjective}s never occur outside the NP (i.e., \isi{discontinuous}ly). Sentences \REF{ex:adj:1} through \REF{ex:adj:4} provide examples of adjectives (in \textbf{bold}) as they appear in NPs, illustrating their postnominal position, preceding \isi{determiner}s.
+A: word: njukuta=p-e	 gloss: small=COP{-dep}
+B: word: mundotoma	 gloss: short
+C: word: anma	 gloss: good
+D: word: njukuta	 gloss: small
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mïnkïn ndï ___
+Gloss (with missing item): sago.species 3PL ___
+The English translation of this sentence is:`The sago palms are tall.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When adjectives function predicatively, they may receive \isi{copula}r \isi{morphology} (\sectref{sec:10.2}), although this is not obligatory (neither for adjectives nor for nouns). These predicative adjectives occur clause-finally (the position held prototypically by verbs). Examples of predicative adjectives are given in \REF{ex:adj:5}, \REF{ex:adj:6}, and \REF{ex:adj:7}.
+A: word: wutï	 gloss: leg
+B: word: ambi	 gloss: big
+C: word: wutota	 gloss: tall
+D: word: anma=p-na	 gloss: good=COP-IRR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 3:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï-nji wutï ambatïm ngala ___
+Gloss (with missing item): 1SG-POSS foot joint PL.PROX ___
+The English translation of this sentence is:`My knees are bad.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When adjectives function predicatively, they may receive \isi{copula}r \isi{morphology} (\sectref{sec:10.2}), although this is not obligatory (neither for adjectives nor for nouns). These predicative adjectives occur clause-finally (the position held prototypically by verbs). Examples of predicative adjectives are given in \REF{ex:adj:5}, \REF{ex:adj:6}, and \REF{ex:adj:7}.
+A: word: tembi=p-e	 gloss: bad=COP-DEP
+B: word: tembi=p-ta	 gloss: bad=COP-COND
+C: word: im-pul	 gloss: wood-piece
+D: word: tembi	 gloss: bad
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 4:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mï ___
+Gloss (with missing item): 3SG.SUBJ ___
+The English translation of this sentence is:`It [= sago starch] will be good.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When adjectives function predicatively, they may receive \isi{copula}r \isi{morphology} (\sectref{sec:10.2}), although this is not obligatory (neither for adjectives nor for nouns). These predicative adjectives occur clause-finally (the position held prototypically by verbs). Examples of predicative adjectives are given in \REF{ex:adj:5}, \REF{ex:adj:6}, and \REF{ex:adj:7}.
+A: word: anma=p-na	 gloss: good=COP-IRR
+B: word: amamas=p-e	 gloss: happy=COP-DEP
+C: word: ango=p-na	 gloss: which=COP-IRR
+D: word: ma=p-na	 gloss: 3SG.OBJ=be-IRR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 5:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ mï ngunan=u ndï=tï-na
+Gloss (with missing item): ___ 3SG.SUBJ 1DU.INCL=from 3PL=take-IRR
+The English translation of this sentence is:`The big man will get them from us.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Adjectives may also function as substantives -- that is, they may have the same formal properties as prototypical nouns. In such cases, these adjectives have the same distribution as nouns. Thus, adjectives may serve as the \isi{head}s of NPs, which may themselves serve as subject \REF{ex:adj:8}, \isi{direct object} \REF{ex:adj:9}, or \isi{object of a postposition} \REF{ex:adj:10} within a clause.
+A: word: wat	 gloss: atop
+B: word: nïpat	 gloss: huge
+C: word: ambi=p	 gloss: big=COP
+D: word: ambi	 gloss: big
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 6:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ndï=ina-p
+Gloss (with missing item): ___ 3PL=get-PFV
+The English translation of this sentence is:`[I] got the bad ones [= tobacco plants].’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Adjectives may also function as substantives -- that is, they may have the same formal properties as prototypical nouns. In such cases, these adjectives have the same distribution as nouns. Thus, adjectives may serve as the \isi{head}s of NPs, which may themselves serve as subject \REF{ex:adj:8}, \isi{direct object} \REF{ex:adj:9}, or \isi{object of a postposition} \REF{ex:adj:10} within a clause.
+A: word: tembi	 gloss: bad
+B: word: tembi=p	 gloss: bad=COP
+C: word: mbï-u-lo-p	 gloss: here-from-go-PFV
+D: word: anma	 gloss: good
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 7:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ankam anda i
+Gloss (with missing item): ___ person SG.DIST go.PFV
+The English translation of this sentence is:`That white person came.’\footnote{The form waembïl ankam ‘white person’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: One factor complicating the task of assigning words in Ulwa to the grammatical category of \isi{adjective} is the fact that adjectives in NPs sometimes precede their \isi{head noun}s (instead of following them). While some speakers consider this order to be ungrammatical (perhaps an influence from the \isi{word order} of \ili{Tok Pisin}; see \chapref{sec:15}), it nevertheless occurs in speech, thereby making it difficult to rely on the distributional criterion that adjectives follow nouns. This adjective-noun \isi{word order} is exemplified in sentences \REF{ex:adj:11}, \REF{ex:adj:12}, and \REF{ex:adj:13}.
+A: word: tïmbïl	 gloss: fence
+B: word: kïka	 gloss: white.ant
+C: word: anma	 gloss: good
+D: word: waembïl	 gloss: white
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 8:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ankam ala imba p-e
+Gloss (with missing item): ___ person PL.DIST night be{-ipfv}
+The English translation of this sentence is:`Those bad people are around at night.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: One factor complicating the task of assigning words in Ulwa to the grammatical category of \isi{adjective} is the fact that adjectives in NPs sometimes precede their \isi{head noun}s (instead of following them). While some speakers consider this order to be ungrammatical (perhaps an influence from the \isi{word order} of \ili{Tok Pisin}; see \chapref{sec:15}), it nevertheless occurs in speech, thereby making it difficult to rely on the distributional criterion that adjectives follow nouns. This adjective-noun \isi{word order} is exemplified in sentences \REF{ex:adj:11}, \REF{ex:adj:12}, and \REF{ex:adj:13}.
+A: word: tembi	 gloss: bad
+B: word: tembi=p	 gloss: bad=COP
+C: word: u=kalam=p-e	 gloss: 2SG=knowledge=COP-DEP
+D: word: alma	 gloss: [name]
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 9:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nji ala ala ndï=tï inda-na
+Gloss (with missing item): ___ thing PL.DIST PL.DIST 3PL=take walk-IRR
+The English translation of this sentence is:`Those bad things -- they will bring them [here].’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: One factor complicating the task of assigning words in Ulwa to the grammatical category of \isi{adjective} is the fact that adjectives in NPs sometimes precede their \isi{head noun}s (instead of following them). While some speakers consider this order to be ungrammatical (perhaps an influence from the \isi{word order} of \ili{Tok Pisin}; see \chapref{sec:15}), it nevertheless occurs in speech, thereby making it difficult to rely on the distributional criterion that adjectives follow nouns. This adjective-noun \isi{word order} is exemplified in sentences \REF{ex:adj:11}, \REF{ex:adj:12}, and \REF{ex:adj:13}.
+A: word: tembi	 gloss: bad
+B: word: tembi=p	 gloss: bad=COP
+C: word: kalam=p-na	 gloss: knowledge=COP-IRR
+D: word: itïtïl	 gloss: dust
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 10:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndï-awa ndï-nji ___ anda=ul lo-e
+Gloss (with missing item): 3PL-INT 3PL-POSS ___ SG.DIST=with go-IPFV
+The English translation of this sentence is:`They went around with their knowledge.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{morphosyntactic} similarity between nouns and adjectives also makes it difficult at times to assign certain words to one class or the other. For example, the word the morpheme ___ ‘its gloss ___’ can have either the more nominal meaning ‘its gloss ___, wisdom’ or the more adjectival meaning ‘its gloss ___able, knowing, wise’, and it is difficult to define one of these meanings as being the primary one. Whereas in \REF{ex:adj:14} this word carries a more noun-like meaning, in \REF{ex:adj:15} it functions more like a substantive \isi{adjective} (\sectref{sec:5.3}).
+A: word: kalam	 gloss: knowledge
+B: word: ambla=kalam=p-ta	 gloss: PL.REFL=knowledge=COP-COND
+C: word: ndï=kalam	 gloss: 3PL=knowledge
+D: word: kalam=p-na	 gloss: knowledge=COP-IRR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 11:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yena ambi anda u ___ anda
+Gloss (with missing item): woman big SG.DIST 2SG ___ SG.DIST
+The English translation of this sentence is:`You’re a grown woman; you know well.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{morphosyntactic} similarity between nouns and adjectives also makes it difficult at times to assign certain words to one class or the other. For example, the word the morpheme ___ ‘its gloss ___’ can have either the more nominal meaning ‘its gloss ___, wisdom’ or the more adjectival meaning ‘its gloss ___able, knowing, wise’, and it is difficult to define one of these meanings as being the primary one. Whereas in \REF{ex:adj:14} this word carries a more noun-like meaning, in \REF{ex:adj:15} it functions more like a substantive \isi{adjective} (\sectref{sec:5.3}).
+A: word: ndï=kalam	 gloss: 3PL=knowledge
+B: word: ambla=kalam=p-ta	 gloss: PL.REFL=knowledge=COP-COND
+C: word: apïn	 gloss: fire
+D: word: kalam	 gloss: knowledge
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 12:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mï ___
+Gloss (with missing item): 3SG.SUBJ ___
+The English translation of this sentence is:`She knows you.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Complicating matters even further is the fact that kalam ‘knowledge, knowledgeable’ very often functions like a verb. Although it does not take \is{verbal morphology} verbal \isi{TAM} \isi{morphology} but rather the \isi{copular enclitic} (thus making it resemble nouns and adjectives rather than verbs), it seems capable of taking object arguments (thus making it resemble verbs). In each of examples \REF{ex:adj:16}, \REF{ex:adj:17}, and \REF{ex:adj:18}, kalam ‘knowledge’ appears to have a \isi{direct object} argument, including \isi{proclitic} \isi{object marking} in \REF{ex:adj:16} and \REF{ex:adj:17}.
+A: word: tembi=p-ta	 gloss: bad=COP-COND
+B: word: u=kalam=p-e	 gloss: 2SG=knowledge=COP-DEP
+C: word: kalam=p-e	 gloss: knowledge=COP-DEP
+D: word: ndï=kalam=p-en	 gloss: 3PL=knowledge=COP{-nmlz}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 13:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ango ___
+Gloss (with missing item): 1SG NEG ___
+The English translation of this sentence is:`I don’t know about them.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Complicating matters even further is the fact that kalam ‘knowledge, knowledgeable’ very often functions like a verb. Although it does not take \is{verbal morphology} verbal \isi{TAM} \isi{morphology} but rather the \isi{copular enclitic} (thus making it resemble nouns and adjectives rather than verbs), it seems capable of taking object arguments (thus making it resemble verbs). In each of examples \REF{ex:adj:16}, \REF{ex:adj:17}, and \REF{ex:adj:18}, kalam ‘knowledge’ appears to have a \isi{direct object} argument, including \isi{proclitic} \isi{object marking} in \REF{ex:adj:16} and \REF{ex:adj:17}.
+A: word: kalam	 gloss: knowledge
+B: word: ndï=kalam	 gloss: 3PL=knowledge
+C: word: ndï=kalam=p-en	 gloss: 3PL=knowledge=COP{-nmlz}
+D: word: imot	 gloss: log
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 14:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): na ndï anjikaka=p-e i ___
+Gloss (with missing item): and 3PL how=COP-DEP way ___
+The English translation of this sentence is:`And how are they going to know [good] behavior?’\footnote{See \sectref{sec:13.1.2} for the internal \isi{morphology} of anjikaka ‘how?’} (na < TP na ‘and’) [ulwa014_41:07]’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Complicating matters even further is the fact that kalam ‘knowledge, knowledgeable’ very often functions like a verb. Although it does not take \is{verbal morphology} verbal \isi{TAM} \isi{morphology} but rather the \isi{copular enclitic} (thus making it resemble nouns and adjectives rather than verbs), it seems capable of taking object arguments (thus making it resemble verbs). In each of examples \REF{ex:adj:16}, \REF{ex:adj:17}, and \REF{ex:adj:18}, kalam ‘knowledge’ appears to have a \isi{direct object} argument, including \isi{proclitic} \isi{object marking} in \REF{ex:adj:16} and \REF{ex:adj:17}.
+A: word: kalam=p-e	 gloss: knowledge=COP-DEP
+B: word: ambla=kalam=p-ta	 gloss: PL.REFL=knowledge=COP-COND
+C: word: tembi	 gloss: bad
+D: word: kalam=p-na	 gloss: knowledge=COP-IRR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 15:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mï ___
+Gloss (with missing item): 3SG.SUBJ ___
+The English translation of this sentence is:`She knows you.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Complicating matters even further is the fact that kalam ‘knowledge, knowledgeable’ very often functions like a verb. Although it does not take \is{verbal morphology} verbal \isi{TAM} \isi{morphology} but rather the \isi{copular enclitic} (thus making it resemble nouns and adjectives rather than verbs), it seems capable of taking object arguments (thus making it resemble verbs). In each of examples \REF{ex:adj:16}, \REF{ex:adj:17}, and \REF{ex:adj:18}, kalam ‘knowledge’ appears to have a \isi{direct object} argument, including \isi{proclitic} \isi{object marking} in \REF{ex:adj:16} and \REF{ex:adj:17}.
+A: word: ndï=kalam=p-en	 gloss: 3PL=knowledge=COP{-nmlz}
+B: word: kalam=p-e	 gloss: knowledge=COP-DEP
+C: word: wana-ni-e	 gloss: feel-act-IPFV
+D: word: u=kalam=p-e	 gloss: 2SG=knowledge=COP-DEP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 16:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ango ___
+Gloss (with missing item): 1SG NEG ___
+The English translation of this sentence is:`I don’t know about them.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Complicating matters even further is the fact that kalam ‘knowledge, knowledgeable’ very often functions like a verb. Although it does not take \is{verbal morphology} verbal \isi{TAM} \isi{morphology} but rather the \isi{copular enclitic} (thus making it resemble nouns and adjectives rather than verbs), it seems capable of taking object arguments (thus making it resemble verbs). In each of examples \REF{ex:adj:16}, \REF{ex:adj:17}, and \REF{ex:adj:18}, kalam ‘knowledge’ appears to have a \isi{direct object} argument, including \isi{proclitic} \isi{object marking} in \REF{ex:adj:16} and \REF{ex:adj:17}.
+A: word: ndï=kalam=p-en	 gloss: 3PL=knowledge=COP{-nmlz}
+B: word: ndï=kalam	 gloss: 3PL=knowledge
+C: word: plas	 gloss: [name]
+D: word: ambi	 gloss: big
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 17:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ mï maka=p-e tïlwa anda=u unda-en
+Gloss (with missing item): ___ 3SG.SUBJ thus=COP-DEP road SG.DIST=from go-NMLZ
+The English translation of this sentence is:`The sickness is one that goes along this kind of road.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Even fairly prototypical adjectives, such as the morpheme ___ ‘its gloss ___, sick, etc.’ can be employed nominally (i.e., to mean ‘its gloss ___ness, sickness, etc.’), as seen in \REF{ex:adj:19} and \REF{ex:adj:20}.
+A: word: kalam	 gloss: knowledge
+B: word: tembi=p	 gloss: bad=COP
+C: word: amun	 gloss: now
+D: word: tembi	 gloss: bad
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 18:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nji ala u=n u ma=tï tembi tï ma=na-nda
+Gloss (with missing item): ___ thing PL.DIST 2SG=OBL from 3SG.OBJ=take bad take 3SG.OBJ=give-IRR
+The English translation of this sentence is:`Bad things will take her from you and give her sickness.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Even fairly prototypical adjectives, such as the morpheme ___ ‘its gloss ___, sick, etc.’ can be employed nominally (i.e., to mean ‘its gloss ___ness, sickness, etc.’), as seen in \REF{ex:adj:19} and \REF{ex:adj:20}.
+A: word: wana-ni-e	 gloss: feel-act-IPFV
+B: word: tembi	 gloss: bad
+C: word: tembi=p	 gloss: bad=COP
+D: word: paynim	 gloss: find
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 19:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tembi nji ala u=n u ma=tï ___ tï ma=na-nda
+Gloss (with missing item): bad thing PL.DIST 2SG=OBL from 3SG.OBJ=take ___ take 3SG.OBJ=give-IRR
+The English translation of this sentence is:`Bad things will take her from you and give her sickness.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Even fairly prototypical adjectives, such as the morpheme ___ ‘its gloss ___, sick, etc.’ can be employed nominally (i.e., to mean ‘its gloss ___ness, sickness, etc.’), as seen in \REF{ex:adj:19} and \REF{ex:adj:20}.
+A: word: tembi=p	 gloss: bad=COP
+B: word: ulum	 gloss: palm
+C: word: amamas=p-e	 gloss: happy=COP-DEP
+D: word: tembi	 gloss: bad
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 20:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nji ala u=n u ma=tï tembi tï ma=na-nda
+Gloss (with missing item): ___ thing PL.DIST 2SG=OBL from 3SG.OBJ=take bad take 3SG.OBJ=give-IRR
+The English translation of this sentence is:`Bad things will take her from you and give her sickness.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In example \REF{ex:adj:20} this word the morpheme ___ ‘its gloss ___/its gloss ___ness’ functions both as an \isi{adjective} and as a noun in the same sentence (note the non-canonical order of noun and \isi{adjective} in the first NP). The sense of ‘sick’ (i.e., an adjectival meaning) is illustrated by example \REF{ex:adj:21}; here the word functions as a \isi{predicate adjective}, receiving the \isi{copular enclitic}.
+A: word: tembi	 gloss: bad
+B: word: ma=n	 gloss: 3SG.OBJ=OBL
+C: word: tembi=p	 gloss: bad=COP
+D: word: awlu	 gloss: step
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 21:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tembi nji ala u=n u ma=tï ___ tï ma=na-nda
+Gloss (with missing item): bad thing PL.DIST 2SG=OBL from 3SG.OBJ=take ___ take 3SG.OBJ=give-IRR
+The English translation of this sentence is:`Bad things will take her from you and give her sickness.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In example \REF{ex:adj:20} this word the morpheme ___ ‘its gloss ___/its gloss ___ness’ functions both as an \isi{adjective} and as a noun in the same sentence (note the non-canonical order of noun and \isi{adjective} in the first NP). The sense of ‘sick’ (i.e., an adjectival meaning) is illustrated by example \REF{ex:adj:21}; here the word functions as a \isi{predicate adjective}, receiving the \isi{copular enclitic}.
+A: word: tembi	 gloss: bad
+B: word: ma=u-p-op	 gloss: 3SG.OBJ=put-PFV{-pfv}
+C: word: ma=n	 gloss: 3SG.OBJ=OBL
+D: word: tembi=p	 gloss: bad=COP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 22:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): u ___
+Gloss (with missing item): 2SG ___
+The English translation of this sentence is:`You may be sick [someday].’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In example \REF{ex:adj:20} this word tembi ‘bad/badness’ functions both as an \isi{adjective} and as a noun in the same sentence (note the non-canonical order of noun and \isi{adjective} in the first NP). The sense of ‘sick’ (i.e., an adjectival meaning) is illustrated by example \REF{ex:adj:21}; here the word functions as a \isi{predicate adjective}, receiving the \isi{copular enclitic}.
+A: word: anma	 gloss: good
+B: word: tembi=p	 gloss: bad=COP
+C: word: tembi=p-ta	 gloss: bad=COP-COND
+D: word: ambi=p-ta	 gloss: big=COP{-cond}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 23:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tïn ___ wat mï imbam-ka
+Gloss (with missing item): dog ___ atop 3SG.SUBJ run-let
+The English translation of this sentence is:`The fast dog ran.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The words in \REF{ex:adj:22} may come close to representing a complete list of true adjectives, at least those most commonly used in discourse. To denote most other properties that could be ascribed to nominals, Ulwa employs other grammatical strategies, such as using \isi{postpositional phrase}s or \isi{verb phrase}s. For example, the notion ‘fast’ may be expressed with a \isi{metaphor}ical \isi{postpositional phrase} the morpheme ___ wat ‘on its gloss ___’, as in \REF{ex:adj:23}.
+A: word: apïn	 gloss: fire
+B: word: wutota	 gloss: tall
+C: word: apïn=nï	 gloss: fire=OBL
+D: word: apïn=n	 gloss: fire=OBL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 24:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tïn apïn ___ mï imbam-ka
+Gloss (with missing item): dog fire ___ 3SG.SUBJ run-let
+The English translation of this sentence is:`The fast dog ran.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The words in \REF{ex:adj:22} may come close to representing a complete list of true adjectives, at least those most commonly used in discourse. To denote most other properties that could be ascribed to nominals, Ulwa employs other grammatical strategies, such as using \isi{postpositional phrase}s or \isi{verb phrase}s. For example, the notion ‘fast’ may be expressed with a \isi{metaphor}ical \isi{postpositional phrase} apïn the morpheme ___ ‘on fire’, as in \REF{ex:adj:23}.
+A: word: nï=wat	 gloss: 1SG=atop
+B: word: u=kalam=p-e	 gloss: 2SG=knowledge=COP-DEP
+C: word: wat	 gloss: atop
+D: word: nga=wat	 gloss: SG.PROX=atop
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 25:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ wana-ni-e ma=ul lo-p-e i
+Gloss (with missing item): ___ feel-act-IPFV 3SG.OBJ=with go-PFV-DEP yay
+The English translation of this sentence is:`[They] were happy, went with him, [and said:] “yay!”.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The notion ‘happy’ may be expressed with the \isi{compound verb} wana-ni- ‘feel-act’ along with the \isi{adjective} the morpheme ___ ‘its gloss ___’ \REF{ex:adj:24}.
+A: word: njukuta	 gloss: small
+B: word: anma=p	 gloss: good=COP
+C: word: anma	 gloss: good
+D: word: anma=nï	 gloss: good=OBL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 26:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): anma ___ ma=ul lo-p-e i
+Gloss (with missing item): good ___ 3SG.OBJ=with go-PFV-DEP yay
+The English translation of this sentence is:`[They] were happy, went with him, [and said:] “yay!”.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The notion ‘happy’ may be expressed with the \isi{compound verb} wana-ni- ‘feel-act’ along with the \isi{adjective} anma ‘good’ \REF{ex:adj:24}.
+A: word: ni-e	 gloss: act-IPFV
+B: word: wana-ni-e	 gloss: feel-act-IPFV
+C: word: wat	 gloss: atop
+D: word: wana-nda	 gloss: cook-IRR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 27:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndï wa ___ ma=ul lo-p-en
+Gloss (with missing item): 3PL just ___ 3SG.OBJ=with go-PFV-NMLZ
+The English translation of this sentence is:`They were just happy and went with him.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is also not uncommon to use \ili{Tok Pisin} \isi{loanword}s, as in \REF{ex:adj:25}, which contains \ili{Tok Pisin} amamas ‘happy’ to denote the same attribute that is expressed with a \isi{verb phrase} in \REF{ex:adj:24}.
+A: word: anma=p-e	 gloss: good=COP{-dep]}
+B: word: amamas=p-e	 gloss: happy=COP-DEP
+C: word: ma=p-e	 gloss: 3SG.OBJ=be{-dep}
+D: word: njukuta	 gloss: small
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 28:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ wana-ni-e ma=ul lo-p-e i
+Gloss (with missing item): ___ feel-act-IPFV 3SG.OBJ=with go-PFV-DEP yay
+The English translation of this sentence is:`[They] were happy, went with him, [and said:] “yay!”.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is also not uncommon to use \ili{Tok Pisin} \isi{loanword}s, as in \REF{ex:adj:25}, which contains \ili{Tok Pisin} amamas ‘happy’ to denote the same attribute that is expressed with a \isi{verb phrase} in \REF{ex:adj:24}.
+A: word: anma=p	 gloss: good=COP
+B: word: tembi	 gloss: bad
+C: word: anma=nï	 gloss: good=OBL
+D: word: anma	 gloss: good
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 29:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): anma ___ ma=ul lo-p-e i
+Gloss (with missing item): good ___ 3SG.OBJ=with go-PFV-DEP yay
+The English translation of this sentence is:`[They] were happy, went with him, [and said:] “yay!”.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is also not uncommon to use \ili{Tok Pisin} \isi{loanword}s, as in \REF{ex:adj:25}, which contains \ili{Tok Pisin} amamas ‘happy’ to denote the same attribute that is expressed with a \isi{verb phrase} in \REF{ex:adj:24}.
+A: word: wana-ni-e	 gloss: feel-act-IPFV
+B: word: ni-e	 gloss: act-IPFV
+C: word: wana-nda	 gloss: cook-IRR
+D: word: wat	 gloss: atop
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 30:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): inim u kwa ___ anma la-n
+Gloss (with missing item): water 2SG just ___ good eat-IMP
+The English translation of this sentence is:`Water – just drink it well!’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: One final feature of adjectives to be discussed here is their ability to function as \isi{adverb}s when placed immediately before the verb in the clause. This results in the \isi{direct object} being \isi{demote}d to an \isi{oblique}, as in \REF{ex:adj:26}.
+A: word: ma=na-na	 gloss: 3SG.OBJ=give-PFV
+B: word: ma=p	 gloss: 3SG.OBJ=be
+C: word: ma=n	 gloss: 3SG.OBJ=OBL
+D: word: apïn	 gloss: fire
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
