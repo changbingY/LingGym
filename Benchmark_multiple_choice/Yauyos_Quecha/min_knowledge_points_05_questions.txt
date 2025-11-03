@@ -1,0 +1,325 @@
+Question 0:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): prima-y Amacia-ta-pis chay-hina-shi-ki intriga-yku-ru-rqa ___
+Gloss (with missing item): cousin-1 Amacia-ACC-ADD DEM.D-COMP-EVR-IKI deliver-EXCEP-URGT-PST ___
+The English translation of this sentence is:They delivered my cousin Amacia, too [to the Devil], they say. How awful!
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: All spontaneously attested indigenous exclamations share a common pattern: they begin with \phono{a} and end in \phono{w} or, less commonly, in \phono{k} or \phono{y}, as in ~(\ref{TI:¡Atratráw!}-\ref{TI:¡Atratrák!}); with the exception of the final \phono{w}, they feature almost exclusively the alveolar and palatal consonants \phono{ch}, \phono{ll}, \phono{l}, \phono{n}, \phono{ñ}, \phono{t}, and \phono{y} (which accounts for the entire catalogue of \SYQ{} alveolars and palatals with the exception of voiceless fricatives \phono{s}, \phono{sh}, and retroflex \phono{tr}); they include no vowels except for \phono{a}; they consist, with few exceptions, of three or four syllables; and they bear stress on the final syllable. Syllable repetition is not uncommon. Non-exclamatory interjections do not follow this pattern, like in ~(\ref{TI:¡Hinata!}) and (\ref{TI:¡Pay!}). Curse words are freely borrowed from Spanish~(\ref{TI:¡Karay!}--\ref{TI:¡Miyrda!}). Table~\ref{Tab:Inter} lists some of the more commonly-heard interjections. (\ref{Glo5:Primay}--\ref{Glo5:Achachaw}) give a few examples in context.\\
+A: word: achacháw	 gloss: ouch
+B: word: achachalláw	 gloss: how.awful
+C: word: sumaq-lla	 gloss: pretty-RSTR
+D: word: maldisyaw	 gloss: damned
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 1:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ Apurí-man lapcha-ru-n kichka-ta
+Gloss (with missing item): ___ Apurí-ALL grab-URGT-3 thorn-ACC
+The English translation of this sentence is:Ouch! She grabbed onto a thorn bush [going to] Apurí.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: All spontaneously attested indigenous exclamations share a common pattern: they begin with \phono{a} and end in \phono{w} or, less commonly, in \phono{k} or \phono{y}, as in ~(\ref{TI:¡Atratráw!}-\ref{TI:¡Atratrák!}); with the exception of the final \phono{w}, they feature almost exclusively the alveolar and palatal consonants \phono{ch}, \phono{ll}, \phono{l}, \phono{n}, \phono{ñ}, \phono{t}, and \phono{y} (which accounts for the entire catalogue of \SYQ{} alveolars and palatals with the exception of voiceless fricatives \phono{s}, \phono{sh}, and retroflex \phono{tr}); they include no vowels except for \phono{a}; they consist, with few exceptions, of three or four syllables; and they bear stress on the final syllable. Syllable repetition is not uncommon. Non-exclamatory interjections do not follow this pattern, like in ~(\ref{TI:¡Hinata!}) and (\ref{TI:¡Pay!}). Curse words are freely borrowed from Spanish~(\ref{TI:¡Karay!}--\ref{TI:¡Miyrda!}). Table~\ref{Tab:Inter} lists some of the more commonly-heard interjections. (\ref{Glo5:Primay}--\ref{Glo5:Achachaw}) give a few examples in context.\\
+A: word: achachalláw	 gloss: how.awful
+B: word: yapa	 gloss: again
+C: word: achacháw	 gloss: ouch
+D: word: oooh	 gloss: oooh
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 2:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): puka-pis ka-sa vaka-hina ___ wak sinta-ku-sa ka-ya-n
+Gloss (with missing item): red-ADD be-NPST cow-COMP ___ DEM.D ribbon-REFL-PRF be-PROG-3
+The English translation of this sentence is:\spkr~1: “The colored one was like a cow.” \spkr~2: “Yes, it has [its ears pierced with] ribbons.”
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The list of assenters\index[sub]{assenters} includes three members: \phono{the morpheme ___}, \phono{aw}, and \phono{alal}, exemplified in ~(\ref{Glo5:Pukapis}) and ~(\ref{Glo5:lavashuntriki}).\\
+A: word: arí	 gloss: yes
+B: word: ari-yá	 gloss: yes-EMPH
+C: word: hinaptin	 gloss: then
+D: word: buynus	 gloss: good
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 3:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ lava-shun-tri-ki kay-pis qatra qatra ka-ya-n
+Gloss (with missing item): ___ wash-1PL.FUT-EVC-IKI DEM.P-ADD dirty dirty be-PROG-3
+The English translation of this sentence is:Yes, we’ll wash it. It’s really dirty.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The list of assenters\index[sub]{assenters} includes three members: \phono{arí}, \phono{the morpheme ___}, and \phono{alal}, exemplified in ~(\ref{Glo5:Pukapis}) and ~(\ref{Glo5:lavashuntriki}).\\
+A: word: aw	 gloss: yes
+B: word: hinaptin	 gloss: then
+C: word: qaninpa	 gloss: before
+D: word: awkichanka	 gloss: Awkichanka
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 4:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kuti-mu-shaq ni-shpa-sh chay pindihu-qa mana-m warmi-n-man traya-chi-n-chu ___ warmi-yuq
+Gloss (with missing item): return-CISL-1.FUT say-SUBIS-EVR DEM.D bastard-TOP no-EVD woman-3-ALL arrive-CAUS-3-NEG ___ woman-POSS
+The English translation of this sentence is:Although the bastard [had] said, “I’m going to return,” he never made it back to his wife. Yes! He had a wife!
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The first and second are used in all dialects, while the the third is used only in \CH. \phono{arí} often carries the emphatic enclitic \phono{-yá}~(\ref{Glo5:Kutimushaq}).\\
+A: word: ari-yá	 gloss: yes-EMPH
+B: word: sumaq-lla-m	 gloss: pretty-REST-EVD
+C: word: rikari-ya-mu-n-shi	 gloss: appear-PROG-CISL-3-EVR
+D: word: mana-yá	 gloss: no-EMPH
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 5:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): chay chaqla kinray-ta-tr pasa-ru-rqa ___
+Gloss (with missing item): DEM.D stone.outcropping across-ACC-EVC pass-URGT-PST ___
+The English translation of this sentence is:He must have come by around that stone outcropping, no?
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \phono{the morpheme ___} is used to check for agreement from interlocutors and to form tag questions~(\ref{Glo5:Chay}),~(\ref{Glo5:Yapamik}).\\
+A: word: aw	 gloss: yes
+B: word: achachalláw	 gloss: how.awful
+C: word: awkichanka	 gloss: Awkichanka
+D: word: hinaptin	 gloss: then
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 6:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yapa-mi-k kuti-nqa ___
+Gloss (with missing item): again-EVD-IK return-3.FUT ___
+The English translation of this sentence is:She’s going to come back, isn’t she?
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \phono{the morpheme ___} is used to check for agreement from interlocutors and to form tag questions~(\ref{Glo5:Chay}),~(\ref{Glo5:Yapamik}).\\
+A: word: kanallan	 gloss: right.now
+B: word: awkichanka	 gloss: Awkichanka
+C: word: aw	 gloss: yes
+D: word: hinaptin	 gloss: then
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 7:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mana ganaw-ni-ki ka-n-chu ni ___ diyas ni buynus diyas prima-cha nada ni-shunki-chu
+Gloss (with missing item): no cattle-EUPH-2 be-3-NEG nor ___ day nor good day cousin-DIM nothing say-2.OBJ-2-NEG
+The English translation of this sentence is:When you don’t have cattle, they don’t even say “Good morning,” “Good morning, cousin,” to you -- nothing.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The Spanish greetings\index[sub]{greetings}, \phono{the morpheme ___ diyas} ‘its gloss ___ day’, \phono{buynas tardis} ‘its gloss ___ afternoon’ and \phono{buynas nuchis} ‘its gloss ___ evening’, ‘its gloss ___ night’~(\ref{Glo5:ganawniki}) have been borrowed into \SYQ{} and are employed with greater frequency than are greeting indigenous to the language. \phono{¡Rimallasayki!} ‘I greet you!’ is the most common of the greetings indigenous to \SYQ. \phono{¡Saludallasayki!} is also used.\\
+A: word: alli-alli-ta	 gloss: good-good-ACC
+B: word: buynus	 gloss: good
+C: word: sumaq-lla-m	 gloss: pretty-REST-EVD
+D: word: minus	 gloss: less
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 8:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mana ganaw-ni-ki ka-n-chu ni buynus diyas ni ___ diyas prima-cha nada ni-shunki-chu
+Gloss (with missing item): no cattle-EUPH-2 be-3-NEG nor good day nor ___ day cousin-DIM nothing say-2.OBJ-2-NEG
+The English translation of this sentence is:When you don’t have cattle, they don’t even say “Good morning,” “Good morning, cousin,” to you -- nothing.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The Spanish greetings\index[sub]{greetings}, \phono{the morpheme ___ diyas} ‘its gloss ___ day’, \phono{buynas tardis} ‘its gloss ___ afternoon’ and \phono{buynas nuchis} ‘its gloss ___ evening’, ‘its gloss ___ night’~(\ref{Glo5:ganawniki}) have been borrowed into \SYQ{} and are employed with greater frequency than are greeting indigenous to the language. \phono{¡Rimallasayki!} ‘I greet you!’ is the most common of the greetings indigenous to \SYQ. \phono{¡Saludallasayki!} is also used.\\
+A: word: minus	 gloss: less
+B: word: alli-alli-ta	 gloss: good-good-ACC
+C: word: buynus	 gloss: good
+D: word: asta	 gloss: until
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 9:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ wañu-ku-na-y puntraw-kama-tri-ki chayna puri-shaq
+Gloss (with missing item): ___ die-REFL-NMLZ-1 day-LIM-EVC-IKI thus walk-1.FUT
+The English translation of this sentence is:Until the day I die, I’m going to walk around like that.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \SYQ{} makes use of some prepositions\index[sub]{prepositions} borrowed from Spanish. The preposition most frequently employed is \phono{the morpheme ___} (‘up to’, ‘its gloss ___’, ‘even’, \Sp~‘\spanish{hthe morpheme ___}’ ‘up to’, ‘its gloss ___’)~(\ref{Glo5:wanukunay}). \phono{the morpheme ___} is usually employed redundantly, in combination with the indigenous case suffix \phono{-kama}, apparently with the same semantics (\phono{the morpheme ___ aka-kama} ‘its gloss ___ here’).\\
+A: word: puntraw-kama-tri-ki	 gloss: day-LIM-EVC-IKI
+B: word: asta	 gloss: until
+C: word: imay	 gloss: when
+D: word: kanasta-pi-chu	 gloss: basket-LOC-Q
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 10:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): asta wañu-ku-na-y ___ chayna puri-shaq
+Gloss (with missing item): until die-REFL-NMLZ-1 ___ thus walk-1.FUT
+The English translation of this sentence is:Until the day I die, I’m going to walk around like that.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \SYQ{} makes use of some prepositions\index[sub]{prepositions} borrowed from Spanish. The preposition most frequently employed is \phono{asta} (‘up to’, ‘until’, ‘even’, \Sp~‘\spanish{hasta}’ ‘up to’, ‘until’)~(\ref{Glo5:wanukunay}). \phono{asta} is usually employed redundantly, in combination with the indigenous case suffix \phono{-kama}, apparently with the same semantics (\phono{asta aka-kama} ‘until here’).\\
+A: word: puntraw-kama-tri-ki	 gloss: day-LIM-EVC-IKI
+B: word: huk-tri-ki	 gloss: one-EVC-IKI
+C: word: puntraw-kama-tr-iki	 gloss: day-LIM-EVC-IKI
+D: word: yapa	 gloss: again
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 11:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): chafli-wan pika-ru-n ___ hapi-n yapa pika-ru-n yapa hapi-n yapa pika-ru-n
+Gloss (with missing item): pick-INSTR pick-URGT-3 ___ grab-3 again pick-URGT-3 again grab-3 again pick-URGT-3
+The English translation of this sentence is:He struck with a pick. Again, [the zombie] grabs him. Again he struck with the pick. Again he grabs. Again he struck.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The class of adverbs\index[sub]{adverbs} native to \SYQ{} is rather small~(\ref{Glo5:Chafliwan}--\ref{Glo5:qaninpa}).\\
+A: word: yapa	 gloss: again
+B: word: hinaptin	 gloss: then
+C: word: yapa-taq-shi	 gloss: again-SEQ-EVR
+D: word: buynus	 gloss: good
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 12:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): chafli-wan pika-ru-n yapa hapi-n ___ pika-ru-n yapa hapi-n yapa pika-ru-n
+Gloss (with missing item): pick-INSTR pick-URGT-3 again grab-3 ___ pick-URGT-3 again grab-3 again pick-URGT-3
+The English translation of this sentence is:He struck with a pick. Again, [the zombie] grabs him. Again he struck with the pick. Again he grabs. Again he struck.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The class of adverbs\index[sub]{adverbs} native to \SYQ{} is rather small~(\ref{Glo5:Chafliwan}--\ref{Glo5:qaninpa}).\\
+A: word: yapa-taq-shi	 gloss: again-SEQ-EVR
+B: word: hinaptin	 gloss: then
+C: word: yapa	 gloss: again
+D: word: puntraw-kama-tri-ki	 gloss: day-LIM-EVC-IKI
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 13:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): chafli-wan pika-ru-n yapa hapi-n yapa pika-ru-n ___ hapi-n yapa pika-ru-n
+Gloss (with missing item): pick-INSTR pick-URGT-3 again grab-3 again pick-URGT-3 ___ grab-3 again pick-URGT-3
+The English translation of this sentence is:He struck with a pick. Again, [the zombie] grabs him. Again he struck with the pick. Again he grabs. Again he struck.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The class of adverbs\index[sub]{adverbs} native to \SYQ{} is rather small~(\ref{Glo5:Chafliwan}--\ref{Glo5:qaninpa}).\\
+A: word: arí	 gloss: yes
+B: word: yapa-taq-shi	 gloss: again-SEQ-EVR
+C: word: yapa	 gloss: again
+D: word: hinaptin	 gloss: then
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 14:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): chafli-wan pika-ru-n yapa hapi-n yapa pika-ru-n yapa hapi-n ___ pika-ru-n
+Gloss (with missing item): pick-INSTR pick-URGT-3 again grab-3 again pick-URGT-3 again grab-3 ___ pick-URGT-3
+The English translation of this sentence is:He struck with a pick. Again, [the zombie] grabs him. Again he struck with the pick. Again he grabs. Again he struck.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The class of adverbs\index[sub]{adverbs} native to \SYQ{} is rather small~(\ref{Glo5:Chafliwan}--\ref{Glo5:qaninpa}).\\
+A: word: hinaptin	 gloss: then
+B: word: yapa	 gloss: again
+C: word: sumaq-lla	 gloss: pretty-RSTR
+D: word: yapa-taq-shi	 gloss: again-SEQ-EVR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 15:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): hina-lla-ta-ña-m ___ apa-ka-ra-mu-n wak yanta-ta
+Gloss (with missing item): thus-RSTR-ACC-DISC-EVD ___ bring-PASSACC-URGT-CISL-3 DEM.D firewood-ACC
+The English translation of this sentence is:Just like before already, they brought that firewood.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The class of adverbs\index[sub]{adverbs} native to \SYQ{} is rather small~(\ref{Glo5:Chafliwan}--\ref{Glo5:the morpheme ___}).\\
+A: word: qaninpa	 gloss: before
+B: word: achachalláw	 gloss: how.awful
+C: word: qanin	 gloss: day.before.yesterday
+D: word: hinaptin	 gloss: then
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 16:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mana ___ hurqu-pti-n-qa chay-qa wañu-chi-n
+Gloss (with missing item): no ___ remove-SUBDS-3-TOP DEM.D-TOP die-CAUS-3
+The English translation of this sentence is:If [the placenta] is not taken out quickly, it kills.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Verbal modification in \SYQ, as in other Quechuan languages, is accomplished primarily by derivatives and enclitics (\phono{-pa} ‘repeatedly’, \phono{-ña} ‘already’). \SYQ{} makes heavy use of the adoped/adapted Spanish adverbs \phono{the morpheme ___} ‘its gloss ___’, \phono{pasaypaq} ‘completely,’ \phono{siympri} ‘always’ and \phono{ayvis} ‘sometimes’~(\ref{Glo5:the morpheme ___}--\ref{Glo5:Ayvis}).\\
+A: word: apurí-man	 gloss: Apurí-ALL
+B: word: apuraw	 gloss: quick
+C: word: arí	 gloss: yes
+D: word: turnu-cha-wan	 gloss: turn-DIM-INSTR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 17:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ lliw chinka-ru-n ayvis huk-lla ishkay-lla-ta tari-ru-:
+Gloss (with missing item): ___ all lose-URGT-3 sometimes one-RSTR two-RSTR-ACC find-URGT-1
+The English translation of this sentence is:Sometimes all get lost; sometimes I find just one or two.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Verbal modification in \SYQ, as in other Quechuan languages, is accomplished primarily by derivatives and enclitics (\phono{-pa} ‘repeatedly’, \phono{-ña} ‘already’). \SYQ{} makes heavy use of the adoped/adapted Spanish adverbs \phono{apuraw} ‘quick’, \phono{pasaypaq} ‘completely,’ \phono{siympri} ‘always’ and \phono{the morpheme ___} ‘its gloss ___’~(\ref{Glo5:apuraw}--\ref{Glo5:Ayvis}).\\
+A: word: ayvis-lla	 gloss: sometimes-RSTR
+B: word: qaninpa	 gloss: before
+C: word: algunus	 gloss: some
+D: word: ayvis	 gloss: sometimes
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 18:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ayvis lliw chinka-ru-n ___ huk-lla ishkay-lla-ta tari-ru-:
+Gloss (with missing item): sometimes all lose-URGT-3 ___ one-RSTR two-RSTR-ACC find-URGT-1
+The English translation of this sentence is:Sometimes all get lost; sometimes I find just one or two.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Verbal modification in \SYQ, as in other Quechuan languages, is accomplished primarily by derivatives and enclitics (\phono{-pa} ‘repeatedly’, \phono{-ña} ‘already’). \SYQ{} makes heavy use of the adoped/adapted Spanish adverbs \phono{apuraw} ‘quick’, \phono{pasaypaq} ‘completely,’ \phono{siympri} ‘always’ and \phono{the morpheme ___} ‘its gloss ___’~(\ref{Glo5:apuraw}--\ref{Glo5:Ayvis}).\\
+A: word: ayvis-lla	 gloss: sometimes-RSTR
+B: word: algunus	 gloss: some
+C: word: buynus	 gloss: good
+D: word: ayvis	 gloss: sometimes
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 19:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ni pi-ta-pis kritika-:-chu dañu-ku-ru-pti-n-pis ___ ni-ku-lla-:
+Gloss (with missing item): nor who-ACC-ADD criticize-1-NEG damage-REFL-URGT-SUBDS-3-ADD ___ say-REFL-RSTR-1
+The English translation of this sentence is:I don’t criticize anyone. When they do harm, I talk to them nicely.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Additionally, adverbs can sometimes be derived from adjectives with the suffixation of \phono{-lla}~(\ref{Glo5:pitapis}),~(\ref{Glo5:Kayta}); and adjectives may sometimes occur adverbally, in which case they are usually inflected with \phono{-ta}, as in ~(\ref{Glo5:Kanan}--\ref{Glo5:Tushuptiypis}).\\
+A: word: diskansu-man	 gloss: rest-ALL
+B: word: sumaq-lla	 gloss: pretty-RSTR
+C: word: achachalláw	 gloss: how.awful
+D: word: sumaq-lla-m	 gloss: pretty-REST-EVD
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 20:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kay-ta pasa-ra-chi-y karga-ra-ya-n-ña-mi-ki ___ wina-ru-y
+Gloss (with missing item): DEM.P pass-PASSACC-CAUS-IMP carry-UNINT-INTENS-3-DISC-3-EVD-IKI ___ add.in-URGT-IMP
+The English translation of this sentence is:Have him come here! It’s being carried already. Add it in nicely!
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Additionally, adverbs can sometimes be derived from adjectives with the suffixation of \phono{-lla}~(\ref{Glo5:pitapis}),~(\ref{Glo5:Kayta}); and adjectives may sometimes occur adverbally, in which case they are usually inflected with \phono{-ta}, as in ~(\ref{Glo5:Kanan}--\ref{Glo5:Tushuptiypis}).\\
+A: word: ari-yá	 gloss: yes-EMPH
+B: word: sumaq-lla-m	 gloss: pretty-REST-EVD
+C: word: sumaq-lla	 gloss: pretty-RSTR
+D: word: ayvis-lla	 gloss: sometimes-RSTR
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 21:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kanan tuta-qa suyñu-ku-ru-ni ___ ima pasa-ru-wa-nqa
+Gloss (with missing item): now night-TOP dream-REFL-URGT-1 ___ what pass-URGT-1.OBJ-3.FUT
+The English translation of this sentence is:Last night I dreamed horribly. What’s going to happen to me?
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Additionally, adverbs can sometimes be derived from adjectives with the suffixation of \phono{-lla}~(\ref{Glo5:pitapis}),~(\ref{Glo5:Kayta}); and adjectives may sometimes occur adverbally, in which case they are usually inflected with \phono{-ta}, as in ~(\ref{Glo5:Kanan}--\ref{Glo5:Tushuptiypis}).\\
+A: word: ayvis	 gloss: sometimes
+B: word: fiyu-ta-m	 gloss: ugly-ACC-EVD
+C: word: mas-ta-m	 gloss: more-ACC-EVD
+D: word: turu-ta-m	 gloss: bull-ACC-EVD
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 22:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tushu-pti-y-pis ___ piga-ku-q
+Gloss (with missing item): dance-SUBDS-1-ADD ___ stick-REFL-AG
+The English translation of this sentence is:When I would dance, he would stick himself [to me] really well.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Additionally, adverbs can sometimes be derived from adjectives with the suffixation of \phono{-lla}~(\ref{Glo5:pitapis}),~(\ref{Glo5:Kayta}); and adjectives may sometimes occur adverbally, in which case they are usually inflected with \phono{-ta}, as in ~(\ref{Glo5:Kanan}--\ref{Glo5:Tushuptiypis}).\\
+A: word: puntraw-kama-tri-ki	 gloss: day-LIM-EVC-IKI
+B: word: alli-alli-ta	 gloss: good-good-ACC
+C: word: alli-alli-ta-ya-ri	 gloss: good-good-ACC-EMPH-ARI
+D: word: apa-ra-mu-sa	 gloss: bring-URGT-CISL-NPST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 23:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ intriga-wa-y ni-shpa-sh chay kundur traya-ru-n
+Gloss (with missing item): ___ deliver-1.OBJ-IMP say-SUBIS-EVR DEM.D condor arrive-URGT-3
+The English translation of this sentence is:“Hand her over to me right now!” said the condor [when] he arrived.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Some nouns referring to time may occur adverbally without inflection, as in ~(\ref{Glo5:Kanallan})and ~(\ref{Glo5:Rinrilla}), others are inflected with \phono{-ta}, as (see~\sectref{ssec:timenouns})~(\ref{Glo5:Chaymi}) shows.\\
+A: word: kanallan	 gloss: right.now
+B: word: analfabitu	 gloss: illiterate
+C: word: sumaq-lla-m	 gloss: pretty-REST-EVD
+D: word: kanan	 gloss: now
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 24:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): chay-mi shamu-la-: ___ chay-mi karkarya qipa-:-ta shamu-sha
+Gloss (with missing item): DEM.D-EVD come-PST-1 ___ DEM.D-EVD zombie behind-1-ACC come-NPST
+The English translation of this sentence is:Then I came at nightfall. Then a zombie came behind me.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Some nouns referring to time may occur adverbally without inflection, as in ~(\ref{Glo5:Kanallan})and ~(\ref{Glo5:Rinrilla}), others are inflected with \phono{-ta}, as (see~\sectref{ssec:timenouns})~(\ref{Glo5:Chaymi}) shows.\\
+A: word: qaspalpuq-ta	 gloss: nightfall-ACC
+B: word: llaki-yuq-ta-m	 gloss: sorrow-POSS-ACC-EVD
+C: word: asta	 gloss: until
+D: word: tuta	 gloss: night
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
