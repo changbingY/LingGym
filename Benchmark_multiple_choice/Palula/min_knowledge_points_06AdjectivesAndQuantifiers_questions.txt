@@ -1,0 +1,325 @@
+Question 0:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): líi bíiḍ-i ___ rusóx léed-i
+Gloss (with missing item): 3SG.DIST.OBL very-F ___ power find.PFV-F
+The English translation of this sentence is:`He gained very much power.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Before dealing in more depth with semantic (\sectref{sec:6-2}) and morphological (\sectref{sec:6-3}) properties of adjectives, something will be said about their distribution and phonological structure. Normally adjectives do the job of modifying nouns, as in example (\ref{ex:6-1}), or that of descriptive predication, as in (\ref{ex:6-2}).
+A: word: ɡéeḍ-i	 gloss: big-F
+B: word: čhéeli	 gloss: goat
+C: word: éeḍ-im	 gloss: half-FPL
+D: word: ɡáaḍ-a	 gloss: big-PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 1:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): pirsaahíb ___ de
+Gloss (with missing item): Pir.Sahib ___ was
+The English translation of this sentence is:`Pir Sahib [a pious man] was [still] alive.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Before dealing in more depth with semantic (\sectref{sec:6-2}) and morphological (\sectref{sec:6-3}) properties of adjectives, something will be said about their distribution and phonological structure. Normally adjectives do the job of modifying nouns, as in example (\ref{ex:6-1}), or that of descriptive predication, as in (\ref{ex:6-2}).
+A: word: ǰáand-u	 gloss: alive-MSG
+B: word: ateeṇ-ú	 gloss: such-MSG
+C: word: áaḍ-a	 gloss: half-MPL
+D: word: ṣuunt-u=wáand-u	 gloss: hear.PPTC"=MSG=ADJ"=MSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 2:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): aní kuḍ ___
+Gloss (with missing item): PROX wall[FSG] ___
+The English translation of this sentence is:`This wall is thick.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Structurally, inflected adjectives have a~lot in common with nouns and some of the most common finite verb forms (those historically based on participles). Compare, for instance, the words highlighted in examples (\ref{ex:6-3}) and (\ref{ex:6-4}) (the first an~adjective, the second a~noun and the third a~verb), all with an~ending segment éeli (which illustrates the partial alliterative agreement found in Palula, see \citealt[87--88]{corbett2006}). However, while gender is an~inherent property of nouns, gender marking of adjectives and verbs is only in the form of agreement with the gender of a~noun.
+A: word: aak-áak	 gloss: RED-one
+B: word: bulooṣṭéel-i	 gloss: snatch.PFV-F
+C: word: čéel-i	 gloss: thick-F
+D: word: ɡéeḍ-i	 gloss: big-F
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 3:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): íṇc̣-a ___ khéel-i thaní
+Gloss (with missing item): bear-OBL ___ eat.PFV-F QUOT
+The English translation of this sentence is:`The bear has eaten the goat.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Structurally, inflected adjectives have a~lot in common with nouns and some of the most common finite verb forms (those historically based on participles). Compare, for instance, the words highlighted in examples (\ref{ex:6-3}) and (\ref{ex:6-4}) (the first an~adjective, the second a~noun and the third a~verb), all with an~ending segment éeli (which illustrates the partial alliterative agreement found in Palula, see \citealt[87--88]{corbett2006}). However, while gender is an~inherent property of nouns, gender marking of adjectives and verbs is only in the form of agreement with the gender of a~noun.
+A: word: čhéeli	 gloss: goat[FSG]
+B: word: phray-áan-a	 gloss: send-PRS"=MPL
+C: word: čhéelii	 gloss: goat.GEN
+D: word: ɡéeḍ-i	 gloss: big-F
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 4:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): íṇc̣-a čhéeli ___ thaní
+Gloss (with missing item): bear-OBL goat[FSG] ___ QUOT
+The English translation of this sentence is:`The bear has eaten the goat.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Structurally, inflected adjectives have a~lot in common with nouns and some of the most common finite verb forms (those historically based on participles). Compare, for instance, the words highlighted in examples (\ref{ex:6-3}) and (\ref{ex:6-4}) (the first an~adjective, the second a~noun and the third a~verb), all with an~ending segment éeli (which illustrates the partial alliterative agreement found in Palula, see \citealt[87--88]{corbett2006}). However, while gender is an~inherent property of nouns, gender marking of adjectives and verbs is only in the form of agreement with the gender of a~noun.
+A: word: khóol-u	 gloss: eat.PFV"=MSG
+B: word: yhéel-i	 gloss: come.PFV-\TEXTBF{\TEXTSC{F}}
+C: word: khéel-i	 gloss: eat.PFV-F
+D: word: aak-áak	 gloss: RED-one
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 5:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): so ___ díi náqal th-áan-u
+Gloss (with missing item): 3MSG.NOM ___ from copying do-PRS"=MSG
+The English translation of this sentence is:`He is imitating the adults [the grown up men].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: An adjective can occur on its own as the head of a~noun phrase when substantivised, i.e., an~adjective like ɡáaḍu `grown, big, important' thus being used as in (\ref{ex:6-5}) in the sense `the big one, the adult'. Apart from a~slight semantic shift, being substantivised also means that case forms otherwise only applied to nouns have to be used (when applicable). This is also the realm where the otherwise rare feminine plural forms with -im, as in (\ref{ex:6-6}), are non"=optional.
+A: word: ɡáaḍ-a	 gloss: big-PL
+B: word: ɡáaḍ-am	 gloss: big-MPL.OBL
+C: word: aak-áak	 gloss: RED-one
+D: word: bíiḍ-a	 gloss: much-MPL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 6:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): se ___ bhíilam khonḍíl-im
+Gloss (with missing item): DEF ___ fearfully speak.PFV"=FPL
+The English translation of this sentence is:`The rest [the other half] of them spoke fearfully.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: An adjective can occur on its own as the head of a~noun phrase when substantivised, i.e., an~adjective like ɡáaḍu `grown, big, important' thus being used as in (\ref{ex:6-5}) in the sense `the big one, the adult'. Apart from a~slight semantic shift, being substantivised also means that case forms otherwise only applied to nouns have to be used (when applicable). This is also the realm where the otherwise rare feminine plural forms with -im, as in (\ref{ex:6-6}), are non"=optional.
+A: word: th-éen	 gloss: do-3PL
+B: word: éeḍ-im	 gloss: half-FPL
+C: word: áaḍ-a	 gloss: half-MPL
+D: word: ɡéeḍ-i	 gloss: big-F
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 7:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bhiúuṛi ___ díi ɡáaḍ-u déeš
+Gloss (with missing item): Biori ___ from large-MSG village
+The English translation of this sentence is:`Biori is a~larger village than Dhamaret.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As we saw above, there are some traces of an~earlier inflection for comparison, and \citet[17]{morgenstierne1941} also points out some remains of the OIA superlative degree, but in the modern language these degrees are exclusively expressed periphrastically. The comparative is expressed by a~standard of comparison in oblique case and the postposition díi `from', as illustrated in (\ref{ex:6-7}) and (\ref{ex:6-8}), preceding the adjective functioning as the parameter of comparison, literally translatable as `X is large from Y'.
+A: word: čéel-i	 gloss: thick-F
+B: word: dhamareet-á	 gloss: Dhamaret-OBL
+C: word: ɡhueeṇíi-am	 gloss: Pashtun-PL.OBL
+D: word: atshareet-á	 gloss: Ashret-OBL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 8:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bhiúuṛi dhamareet-á ___ ɡáaḍ-u déeš
+Gloss (with missing item): Biori Dhamaret-OBL ___ large-MSG village
+The English translation of this sentence is:`Biori is a~larger village than Dhamaret.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As we saw above, there are some traces of an~earlier inflection for comparison, and \citet[17]{morgenstierne1941} also points out some remains of the OIA superlative degree, but in the modern language these degrees are exclusively expressed periphrastically. The comparative is expressed by a~standard of comparison in oblique case and the postposition the morpheme ___ `its gloss ___', as illustrated in (\ref{ex:6-7}) and (\ref{ex:6-8}), preceding the adjective functioning as the parameter of comparison, literally translatable as `X is large its gloss ___ Y'.
+A: word: díiš-e	 gloss: village-GEN
+B: word: dašúm	 gloss: ten.OBL
+C: word: díi	 gloss: from
+D: word: taayúu	 gloss: from.there
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 9:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bhiúuṛi dhamareet-á díi ___ déeš
+Gloss (with missing item): Biori Dhamaret-OBL from ___ village
+The English translation of this sentence is:`Biori is a~larger village than Dhamaret.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As we saw above, there are some traces of an~earlier inflection for comparison, and \citet[17]{morgenstierne1941} also points out some remains of the OIA superlative degree, but in the modern language these degrees are exclusively expressed periphrastically. The comparative is expressed by a~standard of comparison in oblique case and the postposition díi `from', as illustrated in (\ref{ex:6-7}) and (\ref{ex:6-8}), preceding the adjective functioning as the parameter of comparison, literally translatable as `X is large from Y'.
+A: word: ɡáaḍ-am	 gloss: big-MPL.OBL
+B: word: ɡáaḍ-u	 gloss: large-MSG
+C: word: éeḍ-im	 gloss: half-FPL
+D: word: nhiáaṛa	 gloss: near
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 10:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ díi kúuk-e putr hušiaár
+Gloss (with missing item): ___ from crow-GEN son wise
+The English translation of this sentence is:`The son of a~crow is wiser than the crow [himself].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As we saw above, there are some traces of an~earlier inflection for comparison, and \citet[17]{morgenstierne1941} also points out some remains of the OIA superlative degree, but in the modern language these degrees are exclusively expressed periphrastically. The comparative is expressed by a~standard of comparison in oblique case and the postposition díi `from', as illustrated in (\ref{ex:6-7}) and (\ref{ex:6-8}), preceding the adjective functioning as the parameter of comparison, literally translatable as `X is large from Y'.
+A: word: peeɣambár	 gloss: prophet
+B: word: kúuk-a	 gloss: crow-OBL
+C: word: kúuk-e	 gloss: crow-GEN
+D: word: díi	 gloss: from
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 11:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kúuk-a ___ kúuk-e putr hušiaár
+Gloss (with missing item): crow-OBL ___ crow-GEN son wise
+The English translation of this sentence is:`The son of a~crow is wiser than the crow [himself].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As we saw above, there are some traces of an~earlier inflection for comparison, and \citet[17]{morgenstierne1941} also points out some remains of the OIA superlative degree, but in the modern language these degrees are exclusively expressed periphrastically. The comparative is expressed by a~standard of comparison in oblique case and the postposition the morpheme ___ `its gloss ___', as illustrated in (\ref{ex:6-7}) and (\ref{ex:6-8}), preceding the adjective functioning as the parameter of comparison, literally translatable as `X is large its gloss ___ Y'.
+A: word: taayúu	 gloss: from.there
+B: word: čéel-i	 gloss: thick-F
+C: word: díi	 gloss: from
+D: word: díiš-e	 gloss: village-GEN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 12:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kúuk-a díi kúuk-e putr ___
+Gloss (with missing item): crow-OBL from crow-GEN son ___
+The English translation of this sentence is:`The son of a~crow is wiser than the crow [himself].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As we saw above, there are some traces of an~earlier inflection for comparison, and \citet[17]{morgenstierne1941} also points out some remains of the OIA superlative degree, but in the modern language these degrees are exclusively expressed periphrastically. The comparative is expressed by a~standard of comparison in oblique case and the postposition díi `from', as illustrated in (\ref{ex:6-7}) and (\ref{ex:6-8}), preceding the adjective functioning as the parameter of comparison, literally translatable as `X is large from Y'.
+A: word: xéer	 gloss: well
+B: word: zamindaár	 gloss: farmer
+C: word: hušiaár	 gloss: wise
+D: word: ɡéeḍ-i	 gloss: big-F
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 13:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ díi taaqatwár hín-u insaán
+Gloss (with missing item): ___ from powerful be.PRS"=MSG human
+The English translation of this sentence is:`Man is the most powerful [creature].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A construction having a~function close to the superlative of many European languages similarly uses the oblique form of the indefinite pronoun buṭheé `all' and díi, see example (\ref{ex:6-9}), literally meaning something like `X is more powerful than all'.
+A: word: dhuimeém	 gloss: both.OBL
+B: word: buṭhimeém	 gloss: all.OBL
+C: word: díi	 gloss: from
+D: word: kuhée	 gloss: well.OBL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 14:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): buṭhimeém ___ taaqatwár hín-u insaán
+Gloss (with missing item): all.OBL ___ powerful be.PRS"=MSG human
+The English translation of this sentence is:`Man is the most powerful [creature].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A construction having a~function close to the superlative of many European languages similarly uses the oblique form of the indefinite pronoun buṭheé `all' and the morpheme ___, see example (\ref{ex:6-9}), literally meaning something like `X is more powerful than all'.
+A: word: díiš-e	 gloss: village-GEN
+B: word: áaḍ-a	 gloss: half-MPL
+C: word: díi	 gloss: from
+D: word: taayúu	 gloss: from.there
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 15:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): buṭhimeém díi ___ hín-u insaán
+Gloss (with missing item): all.OBL from ___ be.PRS"=MSG human
+The English translation of this sentence is:`Man is the most powerful [creature].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A construction having a~function close to the superlative of many European languages similarly uses the oblique form of the indefinite pronoun buṭheé `all' and díi, see example (\ref{ex:6-9}), literally meaning something like `X is more its gloss ___ than all'.
+A: word: eé	 gloss: AMPL
+B: word: takṛá	 gloss: strong
+C: word: taaqatwár	 gloss: powerful
+D: word: taaqatwár	 gloss: powerful
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 16:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tus ___ looṛíi-a aṭ-óoi
+Gloss (with missing item): 2PL.NOM ___ bowl-PL bring-IMP.PL
+The English translation of this sentence is:`Go and get a~bowl each [all of you]!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Reduplication, as in (\ref{ex:6-12}), is used to form distributive numerals.
+A: word: teṇ	 gloss: RED
+B: word: ɡéeḍ-i	 gloss: big-F
+C: word: šaak-á	 gloss: wood-PL
+D: word: aak-áak	 gloss: RED-one
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 17:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): eesé waxt-íi ___ eé kušúni de
+Gloss (with missing item): REM time-GEN ___ AMPL household be.PST
+The English translation of this sentence is:`In those days there were only ten households.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Emphasis or exclusiveness can be added to a~numeral with a~particle eé (compare with emphasised pronouns, \sectref{sec:5-1}), as in (\ref{ex:6-13}), giving the meaning `only its gloss ___, etc.'
+A: word: dáaš	 gloss: ten
+B: word: akáaš	 gloss: eleven
+C: word: dáand-a	 gloss: tooth-PL
+D: word: buṭhimeém	 gloss: all.OBL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 18:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): eesé waxt-íi dáaš ___ kušúni de
+Gloss (with missing item): REM time-GEN ten ___ household be.PST
+The English translation of this sentence is:`In those days there were only ten households.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Emphasis or exclusiveness can be added to a~numeral with a~particle the morpheme ___ (compare with emphasised pronouns, \sectref{sec:5-1}), as in (\ref{ex:6-13}), giving the meaning `only ten, etc.'
+A: word: eé	 gloss: AMPL
+B: word: ɡáaḍ-am	 gloss: big-MPL.OBL
+C: word: čéel-i	 gloss: thick-F
+D: word: teéz	 gloss: strong
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 19:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): šíin"=ii ___ šeenbóo-a phooṭíl-a
+Gloss (with missing item): bed-GEN ___ leg.of.bed-PL break.PFV"=MPL
+The English translation of this sentence is:`All four legs of the bed broke.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: For inclusiveness, on the other hand, i.e., to give the meaning `all ten, etc.', a~form of the numeral with an~accented ending eé and the numeral stem deaccented (compare with the ordinal numerals, \sectref{subsec:6-4-3}) is used, as can be seen in (\ref{ex:6-14}).
+A: word: dhreéɡ	 gloss: stretched.out
+B: word: eé	 gloss: AMPL
+C: word: sanɡi-eé	 gloss: with-INCL
+D: word: čureé	 gloss: four.INCL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 20:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): eesé ___ maǰí dúu bhraawú de
+Gloss (with missing item): REM ___ among two brother.PL be.PST
+The English translation of this sentence is:`Among these ten were two brothers.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Apart from being used attributively, cardinal numbers, at least the lower ones, can also be used independently as heads of noun phrases (like many adjectives and demonstratives). Used this way they are inflected for case, see (\ref{ex:6-15})--(\ref{ex:6-16}).
+A: word: dašúm	 gloss: ten.OBL
+B: word: daš	 gloss: 10
+C: word: kuhée	 gloss: well.OBL
+D: word: ɡéeḍ-i	 gloss: big-F
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 21:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): páand-a be ___ xálak-a ta uḍheew-í wháat-a be páanǰ ǰáan-a ba ɡíia
+Gloss (with missing item): path-OBL go.CV ___ people-PL CNTR flee-CV come.down.PFV-MPL 1PL.NOM five person-PL TOP go.PFV.PL\\
+The English translation of this sentence is:`On the way, half of the people fled downward, but five of us went on.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The quantifier áaḍu may, for instance, occur as the head of an adjective phrase, as in (\ref{ex:6-17}), but it may equally well occur as a substantivised head of a noun phrase, as in example (\ref{ex:6-6}) above. The word bíiḍu is also distributionally very flexible. It can be used as an adjectival modifier of a noun, as in (\ref{ex:6-18}), as well as a degree adverb modifying an adjective, as in example (\ref{ex:6-1}) above, or as a degree adverb modifying another adverb.
+A: word: thiáaḍ-a	 gloss: and.half-MPL
+B: word: ṣandíl-u	 gloss: take.up.challenge.PFV"=MSG
+C: word: dáaš	 gloss: ten
+D: word: áaḍ-a	 gloss: half-MPL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 22:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): se ___ bhíilam khonḍíl-im
+Gloss (with missing item): DEF ___ fearfully speak.PFV"=FPL
+The English translation of this sentence is:`The rest [the other half] of them spoke fearfully.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The quantifier áaḍu may, for instance, occur as the head of an adjective phrase, as in (\ref{ex:6-17}), but it may equally well occur as a substantivised head of a noun phrase, as in example (\ref{ex:6-6}) above. The word bíiḍu is also distributionally very flexible. It can be used as an adjectival modifier of a noun, as in (\ref{ex:6-18}), as well as a degree adverb modifying an adjective, as in example (\ref{ex:6-1}) above, or as a degree adverb modifying another adverb.
+A: word: éeḍ-im	 gloss: half-FPL
+B: word: ɡéeḍ-i	 gloss: big-F
+C: word: th-éen	 gloss: do-3PL
+D: word: hušiaár	 gloss: wise
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 23:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): aṛó míiš thíi khaṇíit-u ɡa heentá ma tu the ___ inaám d-úum
+Gloss (with missing item): DIST.MSG.NOM man 2SG.GEN hit.PFV"=MSG what would 1SG.NOM 2SG.NOM to ___ gift give-1SG
+The English translation of this sentence is:`If you hit that man, I will reward you richly [lit: give you many gifts].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The quantifier áaḍu may, for instance, occur as the head of an adjective phrase, as in (\ref{ex:6-17}), but it may equally well occur as a substantivised head of a noun phrase, as in example (\ref{ex:6-6}) above. The word bíiḍu is also distributionally very flexible. It can be used as an adjectival modifier of a noun, as in (\ref{ex:6-18}), as well as a degree adverb modifying an adjective, as in example (\ref{ex:6-1}) above, or as a degree adverb modifying another adverb.
+A: word: bíiḍ-i	 gloss: much-F
+B: word: ziaát	 gloss: much
+C: word: áaḍ-a	 gloss: half-MPL
+D: word: bíiḍ-a	 gloss: much-MPL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 24:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): líi bíiḍ-i ___ rusóx léed-i
+Gloss (with missing item): 3SG.DIST.OBL very-F ___ power find.PFV-F
+The English translation of this sentence is:`He gained very much power.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The quantifier áaḍu may, for instance, occur as the head of an adjective phrase, as in (\ref{ex:6-17}), but it may equally well occur as a substantivised head of a noun phrase, as in example (\ref{ex:6-6}) above. The word bíiḍu is also distributionally very flexible. It can be used as an adjectival modifier of a noun, as in (\ref{ex:6-18}), as well as a degree adverb modifying an adjective, as in example (\ref{ex:6-1}) above, or as a degree adverb modifying another adverb.
+A: word: ɡáaḍ-a	 gloss: big-PL
+B: word: ɡéeḍ-i	 gloss: big-F
+C: word: éeḍ-im	 gloss: half-FPL
+D: word: eé	 gloss: AMPL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+

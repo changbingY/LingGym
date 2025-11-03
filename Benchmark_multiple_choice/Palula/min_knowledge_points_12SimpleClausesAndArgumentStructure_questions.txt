@@ -1,0 +1,234 @@
+Question 0:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ba ɡa wása na heensíl-u
+Gloss (with missing item): ___ TOP any strength NEG stay.PFV"=MSG
+The English translation of this sentence is:`And he had no strength at all [lit: And his strength was not present].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \spitzmarke{Possessives.} There are two types of possessive constructions, both of which are similar in structure to the existential expressions, where the possessor is expressed either as a~genitive NP or postpositionally (with `from'). There is an~approximate but not absolute correspondence between the first construction, in (\ref{ex:12-30})--(\ref{ex:12-32}), and inalienable possession and the second construction, in (\ref{ex:12-33})--(\ref{ex:12-34}), and alienable possession.
+A: word: tasíi	 gloss: 3SG.GEN
+B: word: lesée	 gloss: 3SG.DIST.GEN
+C: word: wíi-yii	 gloss: water-GEN
+D: word: eetasíi	 gloss: 3SG.GEN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 1:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): muṣṭóoi zamaná-ii ___ míiš-ii áak lhéṇḍ-u putr de maní
+Gloss (with missing item): of.past time-GEN ___ man-GEN IDEF bald-MSG son be.PST HSAY
+The English translation of this sentence is:`Once upon a~time a~man had a~bald son [lit: In the past there was a~man's bald son].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \spitzmarke{Possessives.} There are two types of possessive constructions, both of which are similar in structure to the existential expressions, where the possessor is expressed either as a~genitive NP or postpositionally (with `from'). There is an~approximate but not absolute correspondence between the first construction, in (\ref{ex:12-30})--(\ref{ex:12-32}), and inalienable possession and the second construction, in (\ref{ex:12-33})--(\ref{ex:12-34}), and alienable possession.
+A: word: misrí	 gloss: mason
+B: word: aak-áak	 gloss: RED-one
+C: word: áak	 gloss: IDEF
+D: word: tíi	 gloss: 3SG.OBL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 2:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): muṣṭóoi zamaná-ii áak ___ áak lhéṇḍ-u putr de maní
+Gloss (with missing item): of.past time-GEN IDEF ___ IDEF bald-MSG son be.PST HSAY
+The English translation of this sentence is:`Once upon a~time a~man had a~bald son [lit: In the past there was a~man's bald son].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \spitzmarke{Possessives.} There are two types of possessive constructions, both of which are similar in structure to the existential expressions, where the possessor is expressed either as a~genitive NP or postpositionally (with `from'). There is an~approximate but not absolute correspondence between the first construction, in (\ref{ex:12-30})--(\ref{ex:12-32}), and inalienable possession and the second construction, in (\ref{ex:12-33})--(\ref{ex:12-34}), and alienable possession.
+A: word: míiš-ii	 gloss: man-GEN
+B: word: bhéṭ-u	 gloss: sit.down.PFV"=MSG
+C: word: díiš-ii	 gloss: village-GEN
+D: word: báabii	 gloss: father.GEN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 3:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ díi paiseé náhin-a
+Gloss (with missing item): ___ from money.PL NEG.be.PRS"=MPL
+The English translation of this sentence is:`I don't have any money [lit: From me money is not.].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \spitzthe morpheme ___rke{Possessives.} There are two types of possessive constructions, both of which are similar in structure to the existential expressions, where the possessor is expressed either as a~genitive NP or postpositionally (with `from'). There is an~approxithe morpheme ___te but not absolute correspondence between the first construction, in (\ref{ex:12-30})--(\ref{ex:12-32}), and inalienable possession and the second construction, in (\ref{ex:12-33})--(\ref{ex:12-34}), and alienable possession.
+A: word: maníit-u	 gloss: say.PFV"=MSG
+B: word: ma	 gloss: 1SG.NOM
+C: word: míiš-ii	 gloss: man-GEN
+D: word: míi	 gloss: 1SG.GEN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 4:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma ___ paiseé náhin-a
+Gloss (with missing item): 1SG.NOM ___ money.PL NEG.be.PRS"=MPL
+The English translation of this sentence is:`I don't have any money [lit: From me money is not.].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \spitzmarke{Possessives.} There are two types of possessive constructions, both of which are similar in structure to the existential expressions, where the possessor is expressed either as a~genitive NP or postpositionally (with `its gloss ___'). There is an~approximate but not absolute correspondence between the first construction, in (\ref{ex:12-30})--(\ref{ex:12-32}), and inalienable possession and the second construction, in (\ref{ex:12-33})--(\ref{ex:12-34}), and alienable possession.
+A: word: díiš-e	 gloss: village-GEN
+B: word: taayúu	 gloss: from.there
+C: word: díi	 gloss: from
+D: word: seentá	 gloss: CONDH
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 5:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): misrí yhóol-u seentá ___ díi tsaṭák hóons-a
+Gloss (with missing item): mason come.PFV"=MSG CONDH ___ from hammer stay-3SG
+The English translation of this sentence is:`When the mason comes he will have a~hammer [lit: When the mason has come, from the mason a~hammer will be present].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \spitzmarke{Possessives.} There are two types of possessive constructions, both of which are similar in structure to the existential expressions, where the possessor is expressed either as a~genitive NP or postpositionally (with `from'). There is an~approximate but not absolute correspondence between the first construction, in (\ref{ex:12-30})--(\ref{ex:12-32}), and inalienable possession and the second construction, in (\ref{ex:12-33})--(\ref{ex:12-34}), and alienable possession.
+A: word: zamindaár	 gloss: farmer
+B: word: misrí	 gloss: mason
+C: word: bhéṭ-u	 gloss: sit.down.PFV"=MSG
+D: word: iškaarí	 gloss: hunter
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 6:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): misrí yhóol-u seentá misrí ___ tsaṭák hóons-a
+Gloss (with missing item): mason come.PFV"=MSG CONDH mason ___ hammer stay-3SG
+The English translation of this sentence is:`When the mason comes he will have a~hammer [lit: When the mason has come, from the mason a~hammer will be present].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \spitzmarke{Possessives.} There are two types of possessive constructions, both of which are similar in structure to the existential expressions, where the possessor is expressed either as a~genitive NP or postpositionally (with `its gloss ___'). There is an~approximate but not absolute correspondence between the first construction, in (\ref{ex:12-30})--(\ref{ex:12-32}), and inalienable possession and the second construction, in (\ref{ex:12-33})--(\ref{ex:12-34}), and alienable possession.
+A: word: díiš-e	 gloss: village-GEN
+B: word: tasíi	 gloss: 3SG.GEN
+C: word: díi	 gloss: from
+D: word: taayúu	 gloss: from.there
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 7:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): so ___ seentá so bi bhéš-a de maní
+Gloss (with missing item): 3MSG.NOM ___ CONDH 3MSG.REM.NOM also sit.down-3SG PST HSAY
+The English translation of this sentence is:`When he had sat down, the other one obviously also sat down.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It should be noted that these verbs primarily are process verbs with a~punctual interpretation, closely corresponding to English `stand up, sit down' etc. The corresponding stative meaning `stand, sit' is derived through a~resultative construction (see \sectref{subsec:9-1-7}). Compare examples (\ref{ex:12-39}) and (\ref{ex:12-40}), where the verb bheš- `sit (down)' in the latter is expressed resultatively, and hence receives a~stative (durative) interpretation.
+A: word: dhríṣṭ-u	 gloss: see.PFV"=MSG
+B: word: wée	 gloss: into
+C: word: bhešóol-u	 gloss: sit.down.CAUS.PFV"=MSG
+D: word: bhéṭ-u	 gloss: sit.down.PFV"=MSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 8:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): so bhéṭ-u ___ so bi bhéš-a de maní
+Gloss (with missing item): 3MSG.NOM sit.down.PFV"=MSG ___ 3MSG.REM.NOM also sit.down-3SG PST HSAY
+The English translation of this sentence is:`When he had sat down, the other one obviously also sat down.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It should be noted that these verbs primarily are process verbs with a~punctual interpretation, closely corresponding to English `stand up, sit down' etc. The corresponding stative meaning `stand, sit' is derived through a~resultative construction (see \sectref{subsec:9-1-7}). Compare examples (\ref{ex:12-39}) and (\ref{ex:12-40}), where the verb bheš- `sit (down)' in the latter is expressed resultatively, and hence receives a~stative (durative) interpretation.
+A: word: heentá	 gloss: CONDL
+B: word: tasíi	 gloss: 3SG.GEN
+C: word: seentá	 gloss: CONDH
+D: word: míi	 gloss: 1SG.GEN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 9:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): so bhéṭ-u seentá so bi ___ de maní
+Gloss (with missing item): 3MSG.NOM sit.down.PFV"=MSG CONDH 3MSG.REM.NOM also ___ PST HSAY
+The English translation of this sentence is:`When he had sat down, the other one obviously also sat down.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It should be noted that these verbs primarily are process verbs with a~punctual interpretation, closely corresponding to English `stand up, sit down' etc. The corresponding stative meaning `stand, sit' is derived through a~resultative construction (see \sectref{subsec:9-1-7}). Compare examples (\ref{ex:12-39}) and (\ref{ex:12-40}), where the verb bheš- `sit (down)' in the latter is expressed resultatively, and hence receives a~stative (durative) interpretation.
+A: word: bhéš-a	 gloss: sit.down-3SG
+B: word: bheš-aníi	 gloss: sit.down-VN
+C: word: díiš-a	 gloss: village-OBL
+D: word: bheš-í	 gloss: sit.down-CV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 10:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): so bhéṭ-u seentá so bi bhéš-a ___ maní
+Gloss (with missing item): 3MSG.NOM sit.down.PFV"=MSG CONDH 3MSG.REM.NOM also sit.down-3SG ___ HSAY
+The English translation of this sentence is:`When he had sat down, the other one obviously also sat down.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It should be noted that these verbs primarily are process verbs with a~punctual interpretation, closely corresponding to English `stand up, sit down' etc. The corresponding stative meaning `stand, sit' is the morpheme ___rived through a~resultative construction (see \sectref{subsec:9-1-7}). Compare examples (\ref{ex:12-39}) and (\ref{ex:12-40}), where the verb bheš- `sit (down)' in the latter is expressed resultatively, and hence receives a~stative (durative) interpretation.
+A: word: deeúl-ii	 gloss: Dir-GEN
+B: word: náhin-a	 gloss: NEG.be.PRS"=MPL
+C: word: bhéṭ-u	 gloss: sit.down.PFV"=MSG
+D: word: de	 gloss: PST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 11:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): aḍaphaár whaí dac̣h-íi ta amzarái ___ hín-u
+Gloss (with missing item): halfway come.down.CV look-3SG SUB lion ___ be.PRS"=MSG
+The English translation of this sentence is:`When she had come halfway down, she saw a lion sitting there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It should be noted that these verbs primarily are process verbs with a~punctual interpretation, closely corresponding to English `stand up, sit down' etc. The corresponding stative meaning `stand, sit' is derived through a~resultative construction (see \sectref{subsec:9-1-7}). Compare examples (\ref{ex:12-39}) and (\ref{ex:12-40}), where the verb bheš- `sit (down)' in the latter is expressed resultatively, and hence receives a~stative (durative) interpretation.
+A: word: wíi-yii	 gloss: water-GEN
+B: word: bheš-í=n-u	 gloss: sit.down-CV=be.PRS"=MSG
+C: word: bheš-í	 gloss: sit.down-CV
+D: word: bhešaá	 gloss: make.sit.CV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 12:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): aḍaphaár whaí dac̣h-íi ta amzarái bheš-í ___
+Gloss (with missing item): halfway come.down.CV look-3SG SUB lion sit.down-CV ___
+The English translation of this sentence is:`When she had come halfway down, she saw a lion sitting there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It should be noted that these verbs primarily are process verbs with a~punctual interpretation, closely corresponding to English `stand up, sit down' etc. The corresponding stative meaning `stand, sit' is derived through a~resultative construction (see \sectref{subsec:9-1-7}). Compare examples (\ref{ex:12-39}) and (\ref{ex:12-40}), where the verb bheš- `sit (down)' in the latter is expressed resultatively, and hence receives a~stative (durative) interpretation.
+A: word: hín-u	 gloss: be.PRS"=MSG
+B: word: bhéṭ-u	 gloss: sit.down.PFV"=MSG
+C: word: hín-u=ee	 gloss: be.PRS"=MSG=CNJ
+D: word: tháan-u	 gloss: do.PRS"=MSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 13:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): aní phaí ___ wée wíi puuríl-u
+Gloss (with missing item): PROX girl ___ into water fill.PFV"=MSG
+The English translation of this sentence is:`This girl filled the pot with water [lit: filled water into the pot].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:12-51}), the content, i.e., the `water', is coded as a~direct object (agreeing with the finite verb) and the vessel as a~locative indirect object, whereas in (\ref{ex:12-52}), the vessel is coded as a~direct object (agreeing with the finite verb) and the content in the genitive.\footnote{It is equally possible to interpret the genitive NP `of water' in this sentence as a~dependent of `pot', rather than an ``indirect object'', thus making the sentence a~simple transitive one; however, that is a~less likely interpretation in the sentence tíi baalṭí wíiyii puuríli `She filled the bucket with water', where the direct object instead precedes the genitive NP.}
+A: word: manɡée	 gloss: pot.OBL
+B: word: ḍhanɡéel"=im	 gloss: bury.PFV"=FPL
+C: word: díi	 gloss: from
+D: word: manɡái	 gloss: pot
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 14:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): aní phaí manɡée ___ wíi puuríl-u
+Gloss (with missing item): PROX girl pot.OBL ___ water fill.PFV"=MSG
+The English translation of this sentence is:`This girl filled the pot with water [lit: filled water into the pot].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:12-51}), the content, i.e., the `water', is coded as a~direct object (agreeing with the finite verb) and the vessel as a~locative indirect object, whereas in (\ref{ex:12-52}), the vessel is coded as a~direct object (agreeing with the finite verb) and the content in the genitive.\footnote{It is equally possible to interpret the genitive NP `of water' in this sentence as a~dependent of `pot', rather than an ``indirect object'', thus making the sentence a~simple transitive one; however, that is a~less likely interpretation in the sentence tíi baalṭí wíiyii puuríli `She filled the bucket with water', where the direct object instead precedes the genitive NP.}
+A: word: bheš-í	 gloss: sit.down-CV
+B: word: wée	 gloss: into
+C: word: the	 gloss: to
+D: word: dawéel-i	 gloss: ask.for.PFV-F
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 15:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): aní phaí manɡée wée ___ puuríl-u
+Gloss (with missing item): PROX girl pot.OBL into ___ fill.PFV"=MSG
+The English translation of this sentence is:`This girl filled the pot with water [lit: filled water into the pot].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:12-51}), the content, i.e., the `its gloss ___', is coded as a~direct object (agreeing with the finite verb) and the vessel as a~locative indirect object, whereas in (\ref{ex:12-52}), the vessel is coded as a~direct object (agreeing with the finite verb) and the content in the genitive.\footnote{It is equally possible to interpret the genitive NP `of its gloss ___' in this sentence as a~dependent of `pot', rather than an ``indirect object'', thus making the sentence a~simple transitive one; however, that is a~less likely interpretation in the sentence tíi baalṭí the morpheme ___yii puuríli `She filled the bucket with its gloss ___', where the direct object instead precedes the genitive NP.}
+A: word: manɡái	 gloss: pot
+B: word: wíi-a	 gloss: water-OBL
+C: word: wíi	 gloss: water
+D: word: wíi-a	 gloss: water-OBL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 16:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): aní phaí ___ manɡái puuríl-i
+Gloss (with missing item): PROX girl ___ pot fill.PFV-F
+The English translation of this sentence is:`This girl filled the pot with water [lit: filled the pot of water].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:12-51}), the content, i.e., the `water', is coded as a~direct object (agreeing with the finite verb) and the vessel as a~locative indirect object, whereas in (\ref{ex:12-52}), the vessel is coded as a~direct object (agreeing with the finite verb) and the content in the genitive.\footnote{It is equally possible to interpret the genitive NP `of water' in this sentence as a~dependent of `pot', rather than an ``indirect object'', thus making the sentence a~simple transitive one; however, that is a~less likely interpretation in the sentence tíi baalṭí wíiyii puuríli `She filled the bucket with water', where the direct object instead precedes the genitive NP.}
+A: word: wíi-yii	 gloss: water-GEN
+B: word: hín-u	 gloss: be.PRS"=MSG
+C: word: wíi	 gloss: water
+D: word: wíi-a	 gloss: water-OBL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 17:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): aní phaí wíi-yii ___ puuríl-i
+Gloss (with missing item): PROX girl water-GEN ___ fill.PFV-F
+The English translation of this sentence is:`This girl filled the pot with water [lit: filled the pot of water].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:12-51}), the content, i.e., the `water', is coded as a~direct object (agreeing with the finite verb) and the vessel as a~locative indirect object, whereas in (\ref{ex:12-52}), the vessel is coded as a~direct object (agreeing with the finite verb) and the content in the genitive.\footnote{It is equally possible to interpret the genitive NP `of water' in this sentence as a~dependent of `its gloss ___', rather than an ``indirect object'', thus making the sentence a~simple transitive one; however, that is a~less likely interpretation in the sentence tíi baalṭí wíiyii puuríli `She filled the bucket with water', where the direct object instead precedes the genitive NP.}
+A: word: bhéš-a	 gloss: sit.down-3SG
+B: word: manɡái	 gloss: pot
+C: word: anɡáar	 gloss: fire
+D: word: manɡée	 gloss: pot.OBL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+

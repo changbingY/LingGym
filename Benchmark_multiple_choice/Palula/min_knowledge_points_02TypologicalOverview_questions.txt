@@ -1,0 +1,182 @@
+Question 0:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ǰinaazá khaṣeel-í wheelíl-u de
+Gloss (with missing item): ___ corpse drag-CV take.down.PFV"=MSG PST
+The English translation of this sentence is:`We dragged the corpse down.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Several NP splits further complicate the picture. Apart from the singling out of the transitive subject (A) in the perfective (the morpheme ___ in (\ref{ex:2-2a})), we also have pronominal forms particular to the direct object (O) (asaám in (\ref{ex:2-2b})), both of them different from the form used as the subject (S) of an intransitive clause (be in (\ref{ex:2-2c})).
+A: word: tasíi	 gloss: 3SG.GEN
+B: word: asím	 gloss: 1PL.ERG
+C: word: tusím	 gloss: 2PL.ERG
+D: word: asaám	 gloss: 1PL.ACC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 1:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nu ba ___ mhaaranií the ukháat-u de
+Gloss (with missing item): 3SG.PROX.NOM TOP ___ kill.VN to come.up.PFV"=MSG PST
+The English translation of this sentence is:`He has come up here to kill us.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Several NP splits further complicate the picture. Apart from the singling out of the transitive subject (A) in the perfective (asím in (\ref{ex:2-2a})), we also have pronominal forms particular to the direct object (O) (the morpheme ___ in (\ref{ex:2-2b})), both of them different from the form used as the subject (S) of an intransitive clause (be in (\ref{ex:2-2c})).
+A: word: asaám	 gloss: 1PL.ACC
+B: word: theníi-e	 gloss: do.VN"=GEN
+C: word: baasaá	 gloss: spend.night.CV
+D: word: tanaám	 gloss: 3PL.ACC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 2:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): rhootašíi-a ___ ɡíia
+Gloss (with missing item): morning-OBL ___ go.PFV.PL
+The English translation of this sentence is:`In the morning we left.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Several NP splits further complicate the picture. Apart from the singling out of the transitive subject (A) in the perfective (asím in (\ref{ex:2-2a})), we also have pronominal forms particular to the direct object (O) (asaám in (\ref{ex:2-2b})), both of them different from the form used as the subject (S) of an intransitive clause (the morpheme ___ in (\ref{ex:2-2c})).
+A: word: theníi-e	 gloss: do.VN"=GEN
+B: word: be	 gloss: 1PL.NOM
+C: word: bel	 gloss: spade
+D: word: th-éen	 gloss: do-3PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 3:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ theníi-e díiš-e xalk-íim xwaaíš thíil-i
+Gloss (with missing item): ___ do.VN"=GEN village-GEN people-PL.OBL desire do.PFV-F
+The English translation of this sentence is:`People in the village wanted to go hunting.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In complex constructions, the unmarked order is a~complement clause followed by (or embedded in) the main clause, as in (\ref{ex:2-7}), and similarly an~adverbial clause followed by (or, again, embedded in) the main clause, as in (\ref{ex:2-8}).
+A: word: parčá	 gloss: paper
+B: word: bíiḍ-a	 gloss: much-MPL
+C: word: neečíir	 gloss: hunt
+D: word: kaantíiru	 gloss: fool
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 4:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): neečíir ___ díiš-e xalk-íim xwaaíš thíil-i
+Gloss (with missing item): hunt ___ village-GEN people-PL.OBL desire do.PFV-F
+The English translation of this sentence is:`People in the village wanted to go hunting.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In complex constructions, the unmarked order is a~complement clause followed by (or embedded in) the main clause, as in (\ref{ex:2-7}), and similarly an~adverbial clause followed by (or, again, embedded in) the main clause, as in (\ref{ex:2-8}).
+A: word: theníi-e	 gloss: do.VN"=GEN
+B: word: asím	 gloss: 1PL.ERG
+C: word: th-eníi-e	 gloss: do-VN"=GEN
+D: word: ǰeníi-e	 gloss: fire.VN"=GEN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 5:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ múṛ-u ta putr-óom tasíi hukumát bulooṣṭéel-i
+Gloss (with missing item): ___ die.PFV"=MSG SUB son-PL.OBL 3SG.GEN government snatch.PFV-F
+The English translation of this sentence is:`When the king died, the sons seized the power.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In complex constructions, the unmarked order is a~complement clause followed by (or embedded in) the main clause, as in (\ref{ex:2-7}), and similarly an~adverbial clause followed by (or, again, embedded in) the main clause, as in (\ref{ex:2-8}).
+A: word: raaǰaá	 gloss: king
+B: word: ṣoo-íi	 gloss: king-GEN
+C: word: dhraǰaá	 gloss: stretch.out.CV
+D: word: neečíir	 gloss: hunting
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 6:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): raaǰaá ___ ta putr-óom tasíi hukumát bulooṣṭéel-i
+Gloss (with missing item): king ___ SUB son-PL.OBL 3SG.GEN government snatch.PFV-F
+The English translation of this sentence is:`When the king died, the sons seized the power.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In complex constructions, the unmarked order is a~complement clause followed by (or embedded in) the main clause, as in (\ref{ex:2-7}), and similarly an~adverbial clause followed by (or, again, embedded in) the main clause, as in (\ref{ex:2-8}).
+A: word: múṛ-im	 gloss: die.PFV"=FPL
+B: word: múṛ-u	 gloss: die.PFV"=MSG
+C: word: xálaka	 gloss: people
+D: word: mheeríl-u	 gloss: kill.PFV"=MSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 7:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): raaǰaá múṛ-u ___ putr-óom tasíi hukumát bulooṣṭéel-i
+Gloss (with missing item): king die.PFV"=MSG ___ son-PL.OBL 3SG.GEN government snatch.PFV-F
+The English translation of this sentence is:`When the king died, the sons seized the power.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In complex constructions, the unmarked order is a~complement clause followed by (or embedded in) the main clause, as in (\ref{ex:2-7}), and similarly an~adverbial clause followed by (or, again, embedded in) the main clause, as in (\ref{ex:2-8}).
+A: word: rhootašíi-a	 gloss: morning-OBL
+B: word: neečíir	 gloss: hunting
+C: word: ta	 gloss: SUB
+D: word: búd-i	 gloss: understand.PFV-F
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 8:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɡhueeṇíi-am maníit-u ki ___ bíiḍ-a zinaawúr xálaka hín-a\\
+Gloss (with missing item): Pashtun-PL.OBL say.PFV-MSG COMP ___ much-MPL wild people be.PRS"=MPL
+The English translation of this sentence is:`The Pashtuns said, ``These are very wild people.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: However, a~post"=posed construction with the complementiser ki is also commonly used (\ref{ex:2-9}), especially for utterance complements.
+A: word: mhaaranií	 gloss: kill.VN
+B: word: bíiḍ-a	 gloss: much-MPL
+C: word: ni	 gloss: 3PL.PROX.NOM
+D: word: tarkaáṇ	 gloss: carpenter
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 9:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɡhueeṇíi-am maníit-u ki ni ___ zinaawúr xálaka hín-a\\
+Gloss (with missing item): Pashtun-PL.OBL say.PFV-MSG COMP 3PL.PROX.NOM ___ wild people be.PRS"=MPL
+The English translation of this sentence is:`The Pashtuns said, ``These are very wild people.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: However, a~post"=posed construction with the complementiser ki is also commonly used (\ref{ex:2-9}), especially for utterance complements.
+A: word: áaḍ-a	 gloss: half-MPL
+B: word: bíiḍ-a	 gloss: much-MPL
+C: word: bíiḍ-i	 gloss: much-F
+D: word: asím	 gloss: 1PL.ERG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 10:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɡhueeṇíi-am maníit-u ki ni bíiḍ-a ___ xálaka hín-a\\
+Gloss (with missing item): Pashtun-PL.OBL say.PFV-MSG COMP 3PL.PROX.NOM much-MPL ___ people be.PRS"=MPL
+The English translation of this sentence is:`The Pashtuns said, ``These are very wild people.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: However, a~post"=posed construction with the complementiser ki is also commonly used (\ref{ex:2-9}), especially for utterance complements.
+A: word: zinaawúr	 gloss: wild
+B: word: zanɡal-íi	 gloss: forest-GEN
+C: word: zinaawur-á	 gloss: beast-OBL
+D: word: asím	 gloss: 1PL.ERG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 11:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ɡhueeṇíi-am maníit-u ki ni bíiḍ-a zinaawúr ___ hín-a\\
+Gloss (with missing item): Pashtun-PL.OBL say.PFV-MSG COMP 3PL.PROX.NOM much-MPL wild ___ be.PRS"=MPL
+The English translation of this sentence is:`The Pashtuns said, ``These are very wild people.'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: However, a~post"=posed construction with the complementiser ki is also commonly used (\ref{ex:2-9}), especially for utterance complements.
+A: word: xálaka	 gloss: people
+B: word: raaǰaá	 gloss: king
+C: word: xálak-a	 gloss: people-PL
+D: word: xálak-a	 gloss: people-PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 12:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): aní ___ ziaarat-í thaní
+Gloss (with missing item): PROX.3PL.NOM ___ shrine-PL QUOT
+The English translation of this sentence is:`Whose shrines are these?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Polar interrogatives are formed with a~clitical sentence"=final question particle ee (B aa), as in (\ref{ex:2-10}), whereas an~indefinite"=interrogative pronoun (or other proform), such as the morpheme ___ (B) `its gloss ___' in (\ref{ex:2-11}), is used in content interrogatives.
+A: word: kasée=ɡale	 gloss: who.GEN=ever
+B: word: koó	 gloss: who
+C: word: kasée	 gloss: whose
+D: word: theníi-e	 gloss: do.VN"=GEN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 13:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): muṣṭúk-a xálak-a dhii-á díi ___ khooǰ-óon de
+Gloss (with missing item): of.past-MPL people-PL daughter-OBL from ___ ask-3PL PST
+The English translation of this sentence is:`People in the old days were not asking their daughter [who she wanted to marry].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Negation is formed with a~separate and invariable negative particle the morpheme ___, preceding the predicate (\ref{ex:2-12}).
+A: word: theníi-e	 gloss: do.VN"=GEN
+B: word: ǰinaazá	 gloss: corpse
+C: word: bakáara	 gloss: flock
+D: word: na	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+

@@ -1,0 +1,468 @@
+Question 0:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): hazratǰaán ___
+Gloss (with missing item): Hazrat.Jan ___
+The English translation of this sentence is:`Hazrat Jan stood up.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Distributionally, the verb normally occurs clause"=finally, functioning as the main predicate of the clause. The verb in (\ref{ex:8-1}) is preceded by a~single argument, a~subject, whereas the verb in (\ref{ex:8-2}) is preceded by an~oblique (postpositional) object, a~subject and a~direct object (see \chapref{chap:11}).
+A: word: thíil-i	 gloss: do.PFV-F
+B: word: uthíit-u	 gloss: stand.up.PFV"=MSG
+C: word: maníit-u	 gloss: say.PFV"=MSG
+D: word: ukháat-u	 gloss: come.up.PFV"=MSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 1:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): se ɣar-í the asím tas ___
+Gloss (with missing item): DEF peak-OBL to 1PL.ERG 3SG.ACC ___
+The English translation of this sentence is:`We brought him to the peak.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Distributionally, the verb normally occurs clause"=finally, functioning as the main predicate of the clause. The verb in (\ref{ex:8-1}) is preceded by a~single argument, a~subject, whereas the verb in (\ref{ex:8-2}) is preceded by an~oblique (postpositional) object, a~subject and a~direct object (see \chapref{chap:11}).
+A: word: ɡhaṇḍ-í	 gloss: tie-CV
+B: word: čhúuṇ-u	 gloss: put.PFV"=MSG
+C: word: phedóol-u	 gloss: bring.PFV"=MSG
+D: word: phedóol"=ii	 gloss: arrive.with.PPTC"=GEN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 2:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): xu bhíilam ma ___ hín-i
+Gloss (with missing item): but of.fear 1SG.NOM ___ be.PRS-F
+The English translation of this sentence is:`But because of fear I turned back.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: For the perfective stems, which were analysed as including, e.g., an l-element, valency addition takes place before that element (thus within the stem itself), compare with the stems in examples (\ref{ex:8-5}) and (\ref{ex:8-6}).
+A: word: phedíl-u	 gloss: reach.PFV"=MSG
+B: word: nuuṭíl-u	 gloss: return.PFV"=MSG
+C: word: nuuṭíl-i	 gloss: return.PFV-F
+D: word: th-íia	 gloss: do-1PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 3:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): hanú ___
+Gloss (with missing item): 3MSG.PROX.NOM ___
+The English translation of this sentence is:`He's sleeping.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: First, the formation can be applied to intransitive verbs. Although this, strictly speaking, is not part of our focus here, we can see that the same construction is used regardless of the degree of voluntary control that the causee exercises: compare (\ref{ex:8-7}) with (\ref{ex:8-8}), (\ref{ex:8-9}) with (\ref{ex:8-10}), and (\ref{ex:8-11}) with (\ref{ex:8-12}).
+A: word: su-áan-u	 gloss: sleep-PRS"=MSG
+B: word: su(w)a-(y)áan-u	 gloss: make.sleep-PRS"=MSG
+C: word: thíil-i	 gloss: do.PFV-F
+D: word: ru-áan-u	 gloss: cry-PRS"=MSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 4:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma teeṇíi putr ___
+Gloss (with missing item): 1SG.NOM REFL son ___
+The English translation of this sentence is:`I make my son sleep [I put my son to bed].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: First, the formation can be applied to intransitive verbs. Although this, strictly speaking, is not part of our focus here, we can see that the same construction is used regardless of the degree of voluntary control that the causee exercises: compare (\ref{ex:8-7}) with (\ref{ex:8-8}), (\ref{ex:8-9}) with (\ref{ex:8-10}), and (\ref{ex:8-11}) with (\ref{ex:8-12}).
+A: word: su(w)a-(y)áan-u	 gloss: make.sleep-PRS"=MSG
+B: word: th-áan-u	 gloss: do-PRS"=MSG
+C: word: su-áan-u	 gloss: sleep-PRS"=MSG
+D: word: hín-a	 gloss: be.PRS"=MPL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 5:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma ___
+Gloss (with missing item): 1SG.NOM ___
+The English translation of this sentence is:`I laughed.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: First, the formation can be applied to intransitive verbs. Although this, strictly speaking, is not part of our focus here, we can see that the same construction is used regardless of the degree of voluntary control that the causee exercises: compare (\ref{ex:8-7}) with (\ref{ex:8-8}), (\ref{ex:8-9}) with (\ref{ex:8-10}), and (\ref{ex:8-11}) with (\ref{ex:8-12}).
+A: word: heensíl-u	 gloss: exist.PFV"=MSG
+B: word: hanséel-i	 gloss: make.laugh.PFV-F
+C: word: hansíl-u	 gloss: laugh.PFV"=MSG
+D: word: nuuṭíl-i	 gloss: return.PFV-F
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 6:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): míi tas ___
+Gloss (with missing item): 1SG.GEN 3SG.ACC ___
+The English translation of this sentence is:`I made her laugh.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: First, the formation can be applied to intransitive verbs. Although this, strictly speaking, is not part of our focus here, we can see that the same construction is used regardless of the degree of voluntary control that the causee exercises: compare (\ref{ex:8-7}) with (\ref{ex:8-8}), (\ref{ex:8-9}) with (\ref{ex:8-10}), and (\ref{ex:8-11}) with (\ref{ex:8-12}).
+A: word: hanséel-i	 gloss: make.laugh.PFV-F
+B: word: nuuṭíl-i	 gloss: return.PFV-F
+C: word: hansíl-u	 gloss: laugh.PFV"=MSG
+D: word: bulooṣṭéel-i	 gloss: snatch.PFV-F
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 7:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): se éeḍ-im bhíilam ___
+Gloss (with missing item): DEF half-FPL fearfully ___
+The English translation of this sentence is:`The rest [the other half] of them [the women] spoke fearfully.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: First, the formation can be applied to intransitive verbs. Although this, strictly speaking, is not part of our focus here, we can see that the same construction is used regardless of the degree of voluntary control that the causee exercises: compare (\ref{ex:8-7}) with (\ref{ex:8-8}), (\ref{ex:8-9}) with (\ref{ex:8-10}), and (\ref{ex:8-11}) with (\ref{ex:8-12}).
+A: word: khoṇḍéel"=im	 gloss: make.speak.PFV"=FPL
+B: word: bhíl-i	 gloss: become.PFV-F
+C: word: ɡhaḍíl-im	 gloss: take.out.PFV"=FPL
+D: word: khonḍíl-im	 gloss: speak.PFV"=FPL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 8:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): eeṛé kúṛi teeṇíi dhi-á ___
+Gloss (with missing item): REM woman REFL daughter-PL ___
+The English translation of this sentence is:`That woman made her daughters speak.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: First, the formation can be applied to intransitive verbs. Although this, strictly speaking, is not part of our focus here, we can see that the same construction is used regardless of the degree of voluntary control that the causee exercises: compare (\ref{ex:8-7}) with (\ref{ex:8-8}), (\ref{ex:8-9}) with (\ref{ex:8-10}), and (\ref{ex:8-11}) with (\ref{ex:8-12}).
+A: word: khoṇḍéel"=im	 gloss: make.speak.PFV"=FPL
+B: word: khonḍíl-im	 gloss: speak.PFV"=FPL
+C: word: hanséel-i	 gloss: make.laugh.PFV-F
+D: word: čooṇṭéel"=im	 gloss: write.PFV"=FPL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 9:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ǰaanɡul-á ma ___
+Gloss (with missing item): Jangul-OBL 1SG.NOM ___
+The English translation of this sentence is:`Jangul beat me.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The same process of valency addition can also be applied to transitive verbs. Here we start out with a~verbal event involving two participants (as in (\ref{ex:8-13})), a~subject and a~direct object. Through the process of causation we end up with a~verbal event involving three participants (as in (\ref{ex:8-14})): a) a~causer, b) a~manipulee (the person actually carrying out the verb act on behalf of the ultimate causer), and c) a~direct object. The manipulee is marked as such with a~special marker, a~grammaticalised converb of ṣaawá- `dress, turn on'.
+A: word: khooǰóol-u	 gloss: ask.PFV"=MSG
+B: word: bhanǰa-wóol-u	 gloss: beat-CAUS.PFV"=MSG
+C: word: khonḍíl-im	 gloss: speak.PFV"=FPL
+D: word: bhanǰóol-u	 gloss: beat.PFV"=MSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 10:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tíi asáam ṣaawaá kučúru ___
+Gloss (with missing item): 3SG.OBL 1PL.ACC MANIP dog ___
+The English translation of this sentence is:`She/He made us beat the dog.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The same process of valency addition can also be applied to transitive verbs. Here we start out with a~verbal event involving two participants (as in (\ref{ex:8-13})), a~subject and a~direct object. Through the process of causation we end up with a~verbal event involving three participants (as in (\ref{ex:8-14})): a) a~causer, b) a~manipulee (the person actually carrying out the verb act on behalf of the ultimate causer), and c) a~direct object. The manipulee is marked as such with a~special marker, a~grammaticalised converb of ṣaawá- `dress, turn on'.
+A: word: d-íin	 gloss: give-3PL
+B: word: bhanǰa-wóol-u	 gloss: beat-CAUS.PFV"=MSG
+C: word: bhanǰóol-u	 gloss: beat.PFV"=MSG
+D: word: ṣaawóol-u	 gloss: put.on.PFV"=MSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 11:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): aníi wée wíi hín-u činaaróom aniniaám wíi keéna ___ thaní
+Gloss (with missing item): 3SG.PROX.OBL in water be.PRS"=MSG Chinarom 3PL.PROX.ACC water why.not ___ QUOT
+The English translation of this sentence is:` ``Here is water, why not have them [the goats] drink in Chinarom'', he said.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: By the same process some transitive verbs can also be made into the equivalent of ditransitive verbs, like pilá- `feed, give to drink (especially used with children and domestic animals as indirect objects)' in example (\ref{ex:8-15}), from pil- `drink'.
+A: word: pil-a-áan-u	 gloss: drink-CAUS"=PRS"=MSG
+B: word: th-awa-áan-u	 gloss: do-CAUS-PRS"=MSG
+C: word: kha-áan-u	 gloss: eat-PRS"=MSG
+D: word: nuuṭíl-i	 gloss: return.PFV-F
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 12:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): aníi wée wíi hín-u činaaróom aniniaám wíi keéna ___ thaní
+Gloss (with missing item): 3SG.PROX.OBL in water be.PRS"=MSG Chinarom 3PL.PROX.ACC water why.not ___ QUOT
+The English translation of this sentence is:` ``Here is water, why not have them [the goats] drink in Chinarom'', he said.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is also possible to form so"=called second causatives, with a~doubled causative suffix -awá (-á + -á with an~epenthetic -w- in between), as in (\ref{ex:8-16}). Primarily its function is to derive causatives from derived transitives. Here the person uttering the sentence caused or manipulated his son to make the guests drink tea, thus the initiator of the action is one step further removed from the action as compared to (\ref{ex:8-15}), making the verb in (\ref{ex:8-16}) a~four"=argument verb.
+A: word: dít-i	 gloss: give.PFV"=FSG
+B: word: th-awa-áan-u	 gloss: do-CAUS-PRS"=MSG
+C: word: pil-a-áan-u	 gloss: drink-CAUS"=PRS"=MSG
+D: word: kha-áan-u	 gloss: eat-PRS"=MSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 13:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): qadím ṭópa dít-ii pahúrta tas ___
+Gloss (with missing item): Qadim down give.PPTC"=GEN after 3SG.ACC ___
+The English translation of this sentence is:`After he had knocked down Qadim, he buried him.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The valency"=decreasing suffix added to a~transitive stem (bilá-) thus derives an~intransitive (or passive) verb (bilíǰ-). Again, like with valency addition, any inflectional morphology occurs after the derivational suffix: paš-áan-a `are seeing' {\textgreater} pašiǰ-áan-a `are seen', etc. (Compare the transitive (perfective) verb stem ḍhanɡóol- `bury' in (\ref{ex:8-17}) with its corresponding valency"=descreased stem ḍhanɡiǰíl- `be buried' in (\ref{ex:8-18})).
+A: word: ḍhanɡéel"=im	 gloss: bury.PFV"=FPL
+B: word: ḍhanɡóol-u	 gloss: bury.PFV"=MSG
+C: word: khooǰóol-u	 gloss: ask.PFV"=MSG
+D: word: hanséel-i	 gloss: make.laugh.PFV-F
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 14:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): aaṣṭ=bhiš-á kaal-á pahúrta míi háat-a ba se ___
+Gloss (with missing item): eight=twenty-PL year-PL after 1SG.GEN hand-OBL TOP 3FSG.NOM ___
+The English translation of this sentence is:`160 years later she was buried by my hand.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The valency"=decreasing suffix added to a~transitive stem (bilá-) thus derives an~intransitive (or passive) verb (bilíǰ-). Again, like with valency addition, any inflectional morphology occurs after the derivational suffix: paš-áan-a `are seeing' {\textgreater} pašiǰ-áan-a `are seen', etc. (Compare the transitive (perfective) verb stem ḍhanɡóol- `bury' in (\ref{ex:8-17}) with its corresponding valency"=descreased stem ḍhanɡiǰíl- `be buried' in (\ref{ex:8-18})).
+A: word: ḍhanɡóol-u	 gloss: bury.PFV"=MSG
+B: word: ḍhanɡiǰíl-i	 gloss: be.buried.PFV-F
+C: word: ḍhanɡéel-im	 gloss: bury.PFV-FPL
+D: word: bhíl-i	 gloss: become.PFV-F
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 15:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tíi ... tanaám bíiḍ-a ___ thíil-a hín-a
+Gloss (with missing item): 3SG.OB ... 3PL.ACC much-PL ___ do.PFV"=MPL be.PRS"=MPL
+The English translation of this sentence is:`He has troubled them a~lot.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The verb in such a~construction comes from a~small set of verb stems that I will refer to as verbalisers. This verbaliser does not contribute to the construction with much more than the general ``verbness'' (including the ablility to be inflected), whereas it is the host that tends to contribute the main semantic content to the complex. The verb is here merely a ``dummy'' without any semantic weight of its own. Some conjunct verbs formed through such host"=verbaliser combinations are exemplified in \tabref{tab:8-31}. Usually the host element occurs immediately preceding the verbaliser, as can be seen in examples (\ref{ex:8-19})--(\ref{ex:8-20}).
+A: word: tanɡ	 gloss: narrow
+B: word: ǰaanɡul-á	 gloss: Jangul-OBL
+C: word: dhreéɡ	 gloss: stretched.out
+D: word: pil-a-áan-u	 gloss: drink-CAUS"=PRS"=MSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 16:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tíi ... tanaám bíiḍ-a tanɡ ___ hín-a
+Gloss (with missing item): 3SG.OB ... 3PL.ACC much-PL narrow ___ be.PRS"=MPL
+The English translation of this sentence is:`He has troubled them a~lot.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The verb in such a~construction comes from a~small set of verb stems that I will refer to as verbalisers. This verbaliser does not contribute to the construction with much more than the general ``verbness'' (including the ablility to be inflected), whereas it is the host that tends to contribute the main semantic content to the complex. The verb is here merely a ``dummy'' without any semantic weight of its own. Some conjunct verbs formed through such host"=verbaliser combinations are exemplified in \tabref{tab:8-31}. Usually the host element occurs immediately preceding the verbaliser, as can be seen in examples (\ref{ex:8-19})--(\ref{ex:8-20}).
+A: word: thíil-a	 gloss: do.PFV"=MPL
+B: word: d-íin	 gloss: give-3PL
+C: word: uṛíit-a	 gloss: let.PFV"=MPL
+D: word: thíil-i	 gloss: do.PFV-F
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 17:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tíi ... tanaám bíiḍ-a tanɡ thíil-a ___
+Gloss (with missing item): 3SG.OB ... 3PL.ACC much-PL narrow do.PFV"=MPL ___
+The English translation of this sentence is:`He has troubled them a~lot.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The verb in such a~construction comes from a~small set of verb stems that I will refer to as verbalisers. This verbaliser does not contribute to the construction with much more than the general ``verbness'' (including the ablility to be inflected), whereas it is the host that tends to contribute the main semantic content to the complex. The verb is here merely a ``dummy'' without any semantic weight of its own. Some conjunct verbs formed through such host"=verbaliser combinations are exemplified in \tabref{tab:8-31}. Usually the host element occurs immediately preceding the verbaliser, as can be seen in examples (\ref{ex:8-19})--(\ref{ex:8-20}).
+A: word: thíil-i	 gloss: do.PFV-F
+B: word: th-áan-a	 gloss: do-PRS"=MPL
+C: word: hín-u	 gloss: be.PRS"=MSG
+D: word: hín-a	 gloss: be.PRS"=MPL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 18:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): se phaí se mac̣hook-á the ___ bhíl-i
+Gloss (with missing item): DEF girl DEF Machoke-OBL to ___ become.PFV-F
+The English translation of this sentence is:`The girl fell in love with this Machoke.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The verb in such a~construction comes from a~small set of verb stems that I will refer to as verbalisers. This verbaliser does not contribute to the construction with much more than the general ``verbness'' (including the ablility to be inflected), whereas it is the host that tends to contribute the main semantic content to the complex. The verb is here merely a ``dummy'' without any semantic weight of its own. Some conjunct verbs formed through such host"=verbaliser combinations are exemplified in \tabref{tab:8-31}. Usually the host element occurs immediately preceding the verbaliser, as can be seen in examples (\ref{ex:8-19})--(\ref{ex:8-20}).
+A: word: ašáq	 gloss: love
+B: word: haalat-í	 gloss: condition-PL
+C: word: ašáx	 gloss: in.love
+D: word: pil-a-áan-u	 gloss: drink-CAUS"=PRS"=MSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 19:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): se phaí se mac̣hook-á the ašáq ___
+Gloss (with missing item): DEF girl DEF Machoke-OBL to love ___
+The English translation of this sentence is:`The girl fell in love with this Machoke.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The verb in such a~construction comes from a~small set of verb stems that I will refer to as verbalisers. This verbaliser does not contribute to the construction with much more than the general ``verbness'' (including the ablility to be inflected), whereas it is the host that tends to contribute the main semantic content to the complex. The verb is here merely a ``dummy'' without any semantic weight of its own. Some conjunct verbs formed through such host"=verbaliser combinations are exemplified in \tabref{tab:8-31}. Usually the host element occurs immediately preceding the verbaliser, as can be seen in examples (\ref{ex:8-19})--(\ref{ex:8-20}).
+A: word: ḍhanɡóol-u	 gloss: bury.PFV"=MSG
+B: word: bhíl-i	 gloss: become.PFV-F
+C: word: bhíl-ii	 gloss: become.PPTC"=GEN
+D: word: bhíl-u	 gloss: become.PFV"=MSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 20:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): be teeṇíi maǰí ___ th-íia
+Gloss (with missing item): 1PL.NOM REFL inside ___ do-1PL
+The English translation of this sentence is:`We will discuss it among ourselves.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: So, what is the function? First, it is a~derivational process, deriving verbs from other parts of speech, primarily~-- but not exclusively~-- from nouns. A wide range of phenomena that are lexicalised as nouns, adjectives or something else can thus easily be depicted as events in Palula, as illustrated in examples (\ref{ex:8-21}) and (\ref{ex:8-22}).
+A: word: hukumát	 gloss: government
+B: word: ǰarɡá	 gloss: council
+C: word: th-íia	 gloss: do-1PL
+D: word: marɡ	 gloss: death
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 21:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): be teeṇíi maǰí ǰarɡá ___
+Gloss (with missing item): 1PL.NOM REFL inside council ___
+The English translation of this sentence is:`We will discuss it among ourselves.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: So, what is the function? First, it is a~derivational process, deriving verbs from other parts of speech, primarily~-- but not exclusively~-- from nouns. A wide range of phenomena that are lexicalised as nouns, adjectives or something else can thus easily be depicted as events in Palula, as illustrated in examples (\ref{ex:8-21}) and (\ref{ex:8-22}).
+A: word: bh-íia	 gloss: become-1PL
+B: word: su-áan-u	 gloss: sleep-PRS"=MSG
+C: word: th-íia	 gloss: do-1PL
+D: word: th-íi	 gloss: do-3SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 22:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kuṛíina ta támbul"=am"=ii ǰ-íin ___ d-íin
+Gloss (with missing item): woman.PL CNTR drum-PL.OBL"=GEN beat-3PL ___ give-3PL
+The English translation of this sentence is:`The women were beating the drums and singing.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: So, what is the function? First, it is a~derivational process, deriving verbs from other parts of speech, primarily~-- but not exclusively~-- from nouns. A wide range of phenomena that are lexicalised as nouns, adjectives or something else can thus easily be depicted as events in Palula, as illustrated in examples (\ref{ex:8-21}) and (\ref{ex:8-22}).
+A: word: ǰarɡá	 gloss: council
+B: word: rhootašíi-a	 gloss: morning-OBL
+C: word: rhoo-á	 gloss: song-PL
+D: word: rhoó	 gloss: song
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 23:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kuṛíina ta támbul"=am"=ii ǰ-íin rhoo-á ___
+Gloss (with missing item): woman.PL CNTR drum-PL.OBL"=GEN beat-3PL song-PL ___
+The English translation of this sentence is:`The women were beating the drums and singing.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: So, what is the function? First, it is a~derivational process, deriving verbs from other parts of speech, primarily~-- but not exclusively~-- from nouns. A wide range of phenomena that are lexicalised as nouns, adjectives or something else can thus easily be depicted as events in Palula, as illustrated in examples (\ref{ex:8-21}) and (\ref{ex:8-22}).
+A: word: d-íin	 gloss: give-3PL
+B: word: ǰ-íin	 gloss: beat-3PL
+C: word: yh-íin	 gloss: come-3PL
+D: word: hín-a	 gloss: be.PRS"=MPL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 24:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): deeúl-ii xálak"=am ___ dít-i atsharíit"=am the ki muqaabilá th-íia
+Gloss (with missing item): Dir-GEN people-PL.OBL ___ give.PFV-F Ashreti-PL.OBL to that contest do-1PL
+The English translation of this sentence is:`The people from Dir invited the the Ashreti people to have a competition with them.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: That is further achieved in an~economical way, limited strictly to only a~few inflectional paradigms. An extended advantage of this ``verbal flexibility'' is the relative ease with which entirely new verbs can be made or brought into the language, sometimes as totally novel constructions, sometimes as calques of conjunct verb constructions in languages of wider communication. This does not necessarily mean that a~new verb will be made just to fill a~gap or to replace one that is already there; instead these constructions could elaborate on or refine the meaning of other verbs. We also find, perhaps not surprisingly, a~substantial number of loan words (primarily from Urdu or Pashto) in the host slot of conjunct verbs, such as the morpheme ___ and muqaabilá in (\ref{ex:8-23}).
+A: word: salaám	 gloss: greeting
+B: word: naawás	 gloss: difficult
+C: word: ɡaíl-u	 gloss: throw.PFV"=MSG
+D: word: daawát	 gloss: invitation
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 25:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): deeúl-ii xálak"=am daawát ___ atsharíit"=am the ki muqaabilá th-íia
+Gloss (with missing item): Dir-GEN people-PL.OBL invitation ___ Ashreti-PL.OBL to that contest do-1PL
+The English translation of this sentence is:`The people from Dir invited the the Ashreti people to have a competition with them.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: That is further achieved in an~economical way, limited strictly to only a~few inflectional paradigms. An extended advantage of this ``verbal flexibility'' is the relative ease with which entirely new verbs can be made or brought into the language, sometimes as totally novel constructions, sometimes as calques of conjunct verb constructions in languages of wider communication. This does not necessarily mean that a~new verb will be made just to fill a~gap or to replace one that is already there; instead these constructions could elaborate on or refine the meaning of other verbs. We also find, perhaps not surprisingly, a~substantial number of loan words (primarily from Urdu or Pashto) in the host slot of conjunct verbs, such as daawát and muqaabilá in (\ref{ex:8-23}).
+A: word: dít-ii	 gloss: give.PPTC"=GEN
+B: word: múṛ-u	 gloss: die.PFV"=MSG
+C: word: bhanǰóol-u	 gloss: beat.PFV"=MSG
+D: word: dít-i	 gloss: give.PFV-F
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 26:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): deeúl-ii xálak"=am daawát dít-i atsharíit"=am the ki ___ th-íia
+Gloss (with missing item): Dir-GEN people-PL.OBL invitation give.PFV-F Ashreti-PL.OBL to that ___ do-1PL
+The English translation of this sentence is:`The people from Dir invited the the Ashreti people to have a competition with them.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: That is further achieved in an~economical way, limited strictly to only a~few inflectional paradigms. An extended advantage of this ``verbal flexibility'' is the relative ease with which entirely new verbs can be made or brought into the language, sometimes as totally novel constructions, sometimes as calques of conjunct verb constructions in languages of wider communication. This does not necessarily mean that a~new verb will be made just to fill a~gap or to replace one that is already there; instead these constructions could elaborate on or refine the meaning of other verbs. We also find, perhaps not surprisingly, a~substantial number of loan words (primarily from Urdu or Pashto) in the host slot of conjunct verbs, such as daawát and the morpheme ___ in (\ref{ex:8-23}).
+A: word: phedóol-u	 gloss: bring.PFV"=MSG
+B: word: muqarár	 gloss: fixing
+C: word: ṭinɡ	 gloss: challenge
+D: word: muqaabilá	 gloss: contest
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 27:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): deeúl-ii xálak"=am daawát dít-i atsharíit"=am the ki muqaabilá ___
+Gloss (with missing item): Dir-GEN people-PL.OBL invitation give.PFV-F Ashreti-PL.OBL to that contest ___
+The English translation of this sentence is:`The people from Dir invited the the Ashreti people to have a competition with them.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: That is further achieved in an~economical way, limited strictly to only a~few inflectional paradigms. An extended advantage of this ``verbal flexibility'' is the relative ease with which entirely new verbs can be made or brought into the language, sometimes as totally novel constructions, sometimes as calques of conjunct verb constructions in languages of wider communication. This does not necessarily mean that a~new verb will be made just to fill a~gap or to replace one that is already there; instead these constructions could elaborate on or refine the meaning of other verbs. We also find, perhaps not surprisingly, a~substantial number of loan words (primarily from Urdu or Pashto) in the host slot of conjunct verbs, such as daawát and muqaabilá in (\ref{ex:8-23}).
+A: word: bh-íia	 gloss: become-1PL
+B: word: th-íia	 gloss: do-1PL
+C: word: th-íi	 gloss: do-3SG
+D: word: thíil-i	 gloss: do.PFV-F
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 28:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): c̣hatróol-a the bi ___ thíil-i de
+Gloss (with missing item): Chitral-OBL to also ___ do.PFV"=F PST
+The English translation of this sentence is:`I also phoned Chitral.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: But also lexical material from a~structurally and culturally very different language like English can thus be made into ``new'' verbs (usually via Urdu, but people with direct access to English have no problem applying it on the spot), as exemplified in (\ref{ex:8-24}) and (\ref{ex:8-25}).
+A: word: itlaá	 gloss: message
+B: word: uḍheew-í	 gloss: flee-CV
+C: word: iskuúl	 gloss: school
+D: word: fuúṇ	 gloss: phone
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 29:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): c̣hatróol-a the bi fuúṇ ___ de
+Gloss (with missing item): Chitral-OBL to also phone ___ PST
+The English translation of this sentence is:`I also phoned Chitral.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: But also lexical material from a~structurally and culturally very different language like English can thus be made into ``new'' verbs (usually via Urdu, but people with direct access to English have no problem applying it on the spot), as exemplified in (\ref{ex:8-24}) and (\ref{ex:8-25}).
+A: word: thíil-a	 gloss: do.PFV"=MPL
+B: word: kateeṇ-á	 gloss: that.kind-MPL
+C: word: thíil-i	 gloss: do.PFV"=F
+D: word: dít-i	 gloss: give.PFV"=FSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 30:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): čúur reet-í ǰheez-íi fláiṭ na bhíl-i hín-i aáǰ bi ___ bhíl-i
+Gloss (with missing item): four night-PL airplane-GEN flight NEG become.PFV-F be.PRS-F today also ___ become.PFV-F
+The English translation of this sentence is:`There have been no flights for four days, and also today it was cancelled.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: But also lexical material from a~structurally and culturally very different language like English can thus be made into ``new'' verbs (usually via Urdu, but people with direct access to English have no problem applying it on the spot), as exemplified in (\ref{ex:8-24}) and (\ref{ex:8-25}).
+A: word: hansíl-u	 gloss: laugh.PFV"=MSG
+B: word: d-íin	 gloss: give-3PL
+C: word: dhoóṛ	 gloss: yesterday
+D: word: kansál	 gloss: cancelled
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 31:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): čúur reet-í ǰheez-íi fláiṭ na bhíl-i hín-i aáǰ bi kansál ___
+Gloss (with missing item): four night-PL airplane-GEN flight NEG become.PFV-F be.PRS-F today also cancelled ___
+The English translation of this sentence is:`There have been no flights for four days, and also today it was cancelled.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: But also lexical material from a~structurally and culturally very different language like English can thus be made into ``new'' verbs (usually via Urdu, but people with direct access to English have no problem applying it on the spot), as exemplified in (\ref{ex:8-24}) and (\ref{ex:8-25}).
+A: word: bhíl-i	 gloss: become.PFV-F
+B: word: ǰarɡá	 gloss: council
+C: word: bhíl-u	 gloss: become.PFV"=MSG
+D: word: bhíl-ii	 gloss: become.PPTC"=GEN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 32:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bhun whaí ba ___ wháat-u
+Gloss (with missing item): down get.down.CV TOP ___ get.down.PFV"=MSG
+The English translation of this sentence is:`He got down [from the tree] and escaped [downhill].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \citet[20]{schmidt2004b} points out that the compound verb construction is a~far more marginal feature in Kohistani Shina than in Urdu"=Hindi and Punjabi, and my present assumption is that the same is true of Palula, but this issue will need further research. The inventory of vectors commonly include: 1. directionals (`go', `come'), 2. disposals (`throw', `send', `put aside'), 3. verbs expressing suddenness or unexpectedness (`fall', `rise'), and 4. auto- and other benefactives (`give', `take'). Only categories 1 and 2 seem to appear in what can be termed as possible examples of compound verbs in Palula, as shown by the examples (\ref{ex:8-26}) and (\ref{ex:8-27}), but even then relatively infrequently.
+A: word: uḍheew-í	 gloss: flee-CV
+B: word: uḍheew-í	 gloss: flee.CV
+C: word: khonḍíl-im	 gloss: speak.PFV"=FPL
+D: word: dhríṣṭ-u	 gloss: see.PFV"=MSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 33:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bhun whaí ba uḍheew-í ___
+Gloss (with missing item): down get.down.CV TOP flee-CV ___
+The English translation of this sentence is:`He got down [from the tree] and escaped [downhill].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \citet[20]{schmidt2004b} points out that the compound verb construction is a~far more marginal feature in Kohistani Shina than in Urdu"=Hindi and Punjabi, and my present assumption is that the same is true of Palula, but this issue will need further research. The inventory of vectors commonly include: 1. directionals (`go', `come'), 2. disposals (`throw', `send', `put aside'), 3. verbs expressing suddenness or unexpectedness (`fall', `rise'), and 4. auto- and other benefactives (`give', `take'). Only categories 1 and 2 seem to appear in what can be termed as possible examples of compound verbs in Palula, as shown by the examples (\ref{ex:8-26}) and (\ref{ex:8-27}), but even then relatively infrequently.
+A: word: d-íin	 gloss: give-3PL
+B: word: wháat-u	 gloss: get.down.PFV"=MSG
+C: word: maxadúši	 gloss: in.front.of
+D: word: ukháat-u	 gloss: come.up.PFV"=MSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 34:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): muṭ-á sanɡí so amzarái seéb ... ___ ɡaíl-u
+Gloss (with missing item): tree-OBL with DEF lion sir ... ___ throw.PFV"=MSG
+The English translation of this sentence is:`[He] tied up Mr. Lion to a~tree.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \citet[20]{schmidt2004b} points out that the compound verb construction is a~far more marginal feature in Kohistani Shina than in Urdu"=Hindi and Punjabi, and my present assumption is that the same is true of Palula, but this issue will need further research. The inventory of vectors commonly include: 1. directionals (`go', `come'), 2. disposals (`throw', `send', `put aside'), 3. verbs expressing suddenness or unexpectedness (`fall', `rise'), and 4. auto- and other benefactives (`give', `take'). Only categories 1 and 2 seem to appear in what can be termed as possible examples of compound verbs in Palula, as shown by the examples (\ref{ex:8-26}) and (\ref{ex:8-27}), but even then relatively infrequently.
+A: word: khoṇḍ-í	 gloss: speak-CV
+B: word: dac̣h-í	 gloss: look-CV
+C: word: ɡhaṇḍ-í	 gloss: tie-CV
+D: word: hansíl-u	 gloss: laugh.PFV"=MSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 35:
+You are a linguist specializing in Palula. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): muṭ-á sanɡí so amzarái seéb ... ɡhaṇḍ-í ___
+Gloss (with missing item): tree-OBL with DEF lion sir ... tie-CV ___
+The English translation of this sentence is:`[He] tied up Mr. Lion to a~tree.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \citet[20]{schmidt2004b} points out that the compound verb construction is a~far more marginal feature in Kohistani Shina than in Urdu"=Hindi and Punjabi, and my present assumption is that the same is true of Palula, but this issue will need further research. The inventory of vectors commonly include: 1. directionals (`go', `come'), 2. disposals (`throw', `send', `put aside'), 3. verbs expressing suddenness or unexpectedness (`fall', `rise'), and 4. auto- and other benefactives (`give', `take'). Only categories 1 and 2 seem to appear in what can be termed as possible examples of compound verbs in Palula, as shown by the examples (\ref{ex:8-26}) and (\ref{ex:8-27}), but even then relatively infrequently.
+A: word: čhúuṇ-u	 gloss: put.PFV"=MSG
+B: word: muqaabilá	 gloss: contest
+C: word: wheelíl-u	 gloss: take.down.PFV"=MSG
+D: word: ɡaíl-u	 gloss: throw.PFV"=MSG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
