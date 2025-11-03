@@ -1,0 +1,78 @@
+Question 0:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Núa ṣè quaj hòtè̱l? ___ idéa, ju èra schòn ònṣ bigja stad’ ajn quaj martgau.
+Gloss (with missing item): where COP.PRS.3SG DEM.M.SG hotel ___ idea 1SG be.IMPF.1SG already year.M.PL NEG COP.PTCP.F.SG in DEM.M.SG city
+The English translation of this sentence is:`Where is this hotel? No idea, I hadn'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Hiatus across word boundaries is usually avoided. There are two strategies. The first and generally used one is the elision of the last vowel of the first word if it is a weak vowel (ə and ɐ, both spelled <a>), as in \textit{Quaj \textbf{vèz' ò} uschéja} `This looks like that' instead of vèza ò. Example (\ref{ex:sandhi1}) contains two examples of the weak vowel <a> which is elided (the morpheme ___ idéa for bigja idéa and stad' ajn for stada ajn), a well as one example of strong \isi{vowels} that do not trigger elision (ju èra).
+A: word: vagnèn	 gloss: come.GER
+B: word: bigja	 gloss: NEG
+C: word: ajn	 gloss: in
+D: word: bigj'	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 1:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Núa ṣè quaj hòtè̱l? Bigj' ___ ju èra schòn ònṣ bigja stad’ ajn quaj martgau.
+Gloss (with missing item): where COP.PRS.3SG DEM.M.SG hotel NEG ___ 1SG be.IMPF.1SG already year.M.PL NEG COP.PTCP.F.SG in DEM.M.SG city
+The English translation of this sentence is:`Where is this hotel? No idea, I hadn'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Hiatus across word boundaries is usually avoided. There are two strategies. The first and generally used one is the elision of the last vowel of the first word if it is a weak vowel (ə and ɐ, both spelled <a>), as in \textit{Quaj \textbf{vèz' ò} uschéja} `This looks like that' instead of vèza ò. Example (\ref{ex:sandhi1}) contains two examples of the weak vowel <a> which is elided (bigj' the morpheme ___ for bigja the morpheme ___ and stad' ajn for stada ajn), a well as one example of strong \isi{vowels} that do not trigger elision (ju èra).
+A: word: idéa	 gloss: idea
+B: word: zatgé	 gloss: something
+C: word: désidé̱ri	 gloss: longing
+D: word: stad’	 gloss: COP.PTCP.F.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 2:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Núa ṣè quaj hòtè̱l? Bigj' idéa, ___ èra schòn ònṣ bigja stad’ ajn quaj martgau.
+Gloss (with missing item): where COP.PRS.3SG DEM.M.SG hotel NEG idea ___ be.IMPF.1SG already year.M.PL NEG COP.PTCP.F.SG in DEM.M.SG city
+The English translation of this sentence is:`Where is this hotel? No idea, I hadn'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Hiatus across word boundaries is usually avoided. There are two strategies. The first and generally used one is the elision of the last vowel of the first word if it is a weak vowel (ə and ɐ, both spelled <a>), as in \textit{Quaj \textbf{vèz' ò} uschéja} `This looks like that' instead of vèza ò. Example (\ref{ex:sandhi1}) contains two examples of the weak vowel <a> which is elided (bigj' idéa for bigja idéa and stad' ajn for stada ajn), a well as one example of strong \isi{vowels} that do not trigger elision (the morpheme ___ èra).
+A: word: «té	 gloss: 2SG
+B: word: pudju	 gloss: can.PTCP.UNM
+C: word: ju	 gloss: 1SG
+D: word: èra	 gloss: be.IMPF.3SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 3:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Núa ṣè quaj hòtè̱l? Bigj' idéa, ju ___ schòn ònṣ bigja stad’ ajn quaj martgau.
+Gloss (with missing item): where COP.PRS.3SG DEM.M.SG hotel NEG idea 1SG ___ already year.M.PL NEG COP.PTCP.F.SG in DEM.M.SG city
+The English translation of this sentence is:`Where is this hotel? No idea, I hadn'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Hiatus across word boundaries is usually avoided. There are two strategies. The first and generally used one is the elision of the last vowel of the first word if it is a weak vowel (ə and ɐ, both spelled <a>), as in \textit{Quaj \textbf{vèz' ò} uschéja} `This looks like that' instead of vèza ò. Example (\ref{ex:sandhi1}) contains two examples of the weak vowel <a> which is elided (bigj' idéa for bigja idéa and stad' ajn for stada ajn), a well as one example of strong \isi{vowels} that do not trigger elision (ju the morpheme ___).
+A: word: fagèvan	 gloss: do.IMPF.3PL
+B: word: idéa	 gloss: idea
+C: word: èra	 gloss: be.IMPF.1SG
+D: word: sèra	 gloss: evening.F.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 4:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Núa ṣè quaj hòtè̱l? Bigj' idéa, ju èra schòn ònṣ bigja ___ ajn quaj martgau.
+Gloss (with missing item): where COP.PRS.3SG DEM.M.SG hotel NEG idea 1SG be.IMPF.1SG already year.M.PL NEG ___ in DEM.M.SG city
+The English translation of this sentence is:`Where is this hotel? No idea, I hadn'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Hiatus across word boundaries is usually avoided. There are two strategies. The first and generally used one is the elision of the last vowel of the first word if it is a weak vowel (ə and ɐ, both spelled <a>), as in \textit{Quaj \textbf{vèz' ò} uschéja} `This looks like that' instead of vèza ò. Example (\ref{ex:sandhi1}) contains two examples of the weak vowel <a> which is elided (bigj' idéa for bigja idéa and stad' ajn for stada ajn), a well as one example of strong \isi{vowels} that do not trigger elision (ju èra).
+A: word: èra	 gloss: be.IMPF.3SG
+B: word: staus	 gloss: COP.PTCP.M.SG
+C: word: stada	 gloss: PASS.PTCP.F.SG
+D: word: stad’	 gloss: COP.PTCP.F.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 5:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Núa ṣè quaj hòtè̱l? Bigj' idéa, ju èra schòn ònṣ bigja stad’ ___ quaj martgau.
+Gloss (with missing item): where COP.PRS.3SG DEM.M.SG hotel NEG idea 1SG be.IMPF.1SG already year.M.PL NEG COP.PTCP.F.SG ___ DEM.M.SG city
+The English translation of this sentence is:`Where is this hotel? No idea, I hadn'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Hiatus across word boundaries is usually avoided. There are two strategies. The first and generally used one is the elision of the last vowel of the first word if it is a weak vowel (ə and ɐ, both spelled <a>), as its gloss ___ \textit{Quaj \textbf{vèz' ò} uschéja} `This looks like that' its gloss ___stead of vèza ò. Example (\ref{ex:sandhi1}) contaits gloss ___s two examples of the weak vowel <a> which is elided (bigj' idéa for bigja idéa and stad' the morpheme ___ for stada the morpheme ___), a well as one example of strong \isi{vowels} that do not trigger elision (ju èra).
+A: word: idéa	 gloss: idea
+B: word: cun	 gloss: with
+C: word: ajn	 gloss: in
+D: word: vòluntárjamajn	 gloss: voluntary.ADV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+

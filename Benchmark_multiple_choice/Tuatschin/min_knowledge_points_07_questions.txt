@@ -1,0 +1,273 @@
+Question 0:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ála ___ tgèsa-parvènda, né?
+Gloss (with missing item): in.DEF.F.SG ___ presbytery right
+The English translation of this sentence is:`At the very old presbytery, right?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In Tuatschin, \isi{reduplication} has only an intensification function. Syntactic categories that may be reduplicated are attributive (\ref{ex:redadjattr1}) and predicative (\ref{ex:redadjpred1} and \ref{ex:redadjpred2}) adjectives, adjectives used adverbially (\ref{ex:redadjpred3}), as adverbs modifying adjectives (\ref{ex:redadv1}), as adverbs modifying verbs (\ref{ex:redadv2} and \ref{ex:redadv3}), or functioning as a discourse marker (\ref{ex:redadv4}).
+A: word: véglja-véglja	 gloss: RED\textasciitilde{old}
+B: word: fétg-fétg	 gloss: RED\textasciitilde{very}
+C: word: véglja	 gloss: old
+D: word: tiar-tgèsa	 gloss: animal.M.SG-house.F.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 1:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): A quaj stèvnṣ èssar … ___ l’ jamna … tg’ al bap dètschi in frang a miaz.
+Gloss (with missing item): and DEM.UNM must.IMPF.1PL.1PL COP.INF … ___ DEF.F.SG week … SUBORD DEF.M.SG father give.PRS.SBJV.3SG one.M.SG franc and half.M.SG
+The English translation of this sentence is:`And we had to be … very well-behaved during the week … so that my father would give [us] one and a half francs.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In Tuatschin, \isi{reduplication} has only an intensification function. Syntactic categories that may be reduplicated are attributive (\ref{ex:redadjattr1}) and predicative (\ref{ex:redadjpred1} and \ref{ex:redadjpred2}) adjectives, adjectives used adverbially (\ref{ex:redadjpred3}), as adverbs modifying adjectives (\ref{ex:redadv1}), as adverbs modifying verbs (\ref{ex:redadv2} and \ref{ex:redadv3}), or functioning as a discourse marker (\ref{ex:redadv4}).
+A: word: tiars-tgèsa	 gloss: animal.PL-house.F.SG
+B: word: fétg-fétg	 gloss: RED\textasciitilde{very}
+C: word: pulits-pulits	 gloss: RED\textasciitilde{well_behaved}.M.PL
+D: word: pulit	 gloss: very
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 2:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Al tat èr’ ajn a durméva lò grat sc’ in tajṣ, vèv’ udju ___ nuét.
+Gloss (with missing item): DEF.M.SG grandfather COP.IMPF.3SG up and sleep.IMPF.3SG there precisely like INDEF.M.SG badger have.IMPF.3SG hear.PTCP.UNM ___ nothing
+The English translation of this sentence is:`My grandfather was up there and was sleeping like a log, he hadn’t heard anything at all.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In Tuatschin, \isi{reduplication} has only an intensification function. Syntactic categories that may be reduplicated are attributive (\ref{ex:redadjattr1}) and predicative (\ref{ex:redadjpred1} and \ref{ex:redadjpred2}) adjectives, adjectives used adverbially (\ref{ex:redadjpred3}), as adverbs modifying adjectives (\ref{ex:redadv1}), as adverbs modifying verbs (\ref{ex:redadv2} and \ref{ex:redadv3}), or functioning as a discourse marker (\ref{ex:redadv4}).
+A: word: ṣchùbar-ṣchùbar	 gloss: RED\textasciitilde{clean}.ADJ.UNM
+B: word: trá	 gloss: pull.INF
+C: word: fétg-fétg	 gloss: RED\textasciitilde{very}
+D: word: tschùf	 gloss: dirt
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 3:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ju a gju ___ bian cun èl.
+Gloss (with missing item): 1SG have.PRS.1SG have.PTCP.UNM ___ good.UNM with 3SG.M
+The English translation of this sentence is:`I got along very well with him.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In Tuatschin, \isi{reduplication} has only an intensification function. Syntactic categories that may be reduplicated are attributive (\ref{ex:redadjattr1}) and predicative (\ref{ex:redadjpred1} and \ref{ex:redadjpred2}) adjectives, adjectives used adverbially (\ref{ex:redadjpred3}), as adverbs modifying adjectives (\ref{ex:redadv1}), as adverbs modifying verbs (\ref{ex:redadv2} and \ref{ex:redadv3}), or functioning as a discourse marker (\ref{ex:redadv4}).
+A: word: fétg-fétg	 gloss: RED\textasciitilde{very}
+B: word: fétg	 gloss: very
+C: word: tiars-tgèsa	 gloss: animal.PL-house.F.SG
+D: word: véglja-véglja	 gloss: RED\textasciitilde{old}
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 4:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] a lu stuèv’ ju la sèra adin’ ir' a fá tschajna … a fá … ___ manèstra, manèstra, manèstra.
+Gloss (with missing item): … and then must.IMPF.1SG 1SG DEF.F.SG evening always go.INF SUBORD make.INF dinner.F.SG … SUBORD make.INF … ___ pottage.F.SG pottage.F.SG pottage.F.SG
+The English translation of this sentence is:`[...] and then in the evening I always had to go and prepare dinner ... and prepare pottage, pottage, pottage, pottage.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A similar case is the repetition of words (\ref{ex:rep1} and \ref{ex:rep2}). It differs from the \isi{reduplication} insofar as the repeated items are separated by a short pause; they furthermore do not indicate intensification, but only repetition.
+A: word: manèstra	 gloss: pottage.F.SG
+B: word: cassèta	 gloss: pot
+C: word: castrada	 gloss: act_of_joining
+D: word: tiar-tgèsa	 gloss: animal.M.SG-house.F.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 5:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] a lu stuèv’ ju la sèra adin’ ir' a fá tschajna … a fá … manèstra, ___ manèstra, manèstra.
+Gloss (with missing item): … and then must.IMPF.1SG 1SG DEF.F.SG evening always go.INF SUBORD make.INF dinner.F.SG … SUBORD make.INF … pottage.F.SG ___ pottage.F.SG pottage.F.SG
+The English translation of this sentence is:`[...] and then in the evening I always had to go and prepare dinner ... and prepare pottage, pottage, pottage, pottage.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A similar case is the repetition of words (\ref{ex:rep1} and \ref{ex:rep2}). It differs from the \isi{reduplication} insofar as the repeated items are separated by a short pause; they furthermore do not indicate intensification, but only repetition.
+A: word: cassèta	 gloss: pot
+B: word: manèstra	 gloss: pottage.F.SG
+C: word: castrada	 gloss: act_of_joining
+D: word: tiar-tgèsa	 gloss: animal.M.SG-house.F.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 6:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] a lu stuèv’ ju la sèra adin’ ir' a fá tschajna … a fá … manèstra, manèstra, ___ manèstra.
+Gloss (with missing item): … and then must.IMPF.1SG 1SG DEF.F.SG evening always go.INF SUBORD make.INF dinner.F.SG … SUBORD make.INF … pottage.F.SG pottage.F.SG ___ pottage.F.SG
+The English translation of this sentence is:`[...] and then in the evening I always had to go and prepare dinner ... and prepare pottage, pottage, pottage, pottage.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A similar case is the repetition of words (\ref{ex:rep1} and \ref{ex:rep2}). It differs from the \isi{reduplication} insofar as the repeated items are separated by a short pause; they furthermore do not indicate intensification, but only repetition.
+A: word: manèstra	 gloss: pottage.F.SG
+B: word: castrada	 gloss: act_of_joining
+C: word: laj-èt	 gloss: lake-DIM
+D: word: cassèta	 gloss: pot
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 7:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] a quèl’ èra da ___ … trá, trá … tùt al latg cèntrifugau.
+Gloss (with missing item): … and DEM.F.SG be.IMPF.3SG to ___ … pull.INF pull.INF … all DEF.M.SG milk centrifugate.PTCP.UNM
+The English translation of this sentence is:`[...] and we had to pull ... pull, pull ... the whole centrifuged milk.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A similar case is the repetition of words (\ref{ex:rep1} and \ref{ex:rep2}). It differs from the \isi{reduplication} insofar as the repeated items are separated by a short pause; they furthermore do not indicate intensification, but only repetition.
+A: word: caná	 gloss: stab.INF
+B: word: pulits-pulits	 gloss: RED\textasciitilde{well_behaved}.M.PL
+C: word: atrás	 gloss: through
+D: word: trá	 gloss: pull.INF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 8:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] a quèl’ èra da trá … ___ trá … tùt al latg cèntrifugau.
+Gloss (with missing item): … and DEM.F.SG be.IMPF.3SG to pull.INF … ___ pull.INF … all DEF.M.SG milk centrifugate.PTCP.UNM
+The English translation of this sentence is:`[...] and we had to pull ... pull, pull ... the whole centrifuged milk.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A similar case is the repetition of words (\ref{ex:rep1} and \ref{ex:rep2}). It differs from the \isi{reduplication} insofar as the repeated items are separated by a short pause; they furthermore do not indicate intensification, but only repetition.
+A: word: véglja-véglja	 gloss: RED\textasciitilde{old}
+B: word: atrás	 gloss: through
+C: word: trá	 gloss: pull.INF
+D: word: caná	 gloss: stab.INF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 9:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] a quèl’ èra da trá … trá, ___ … tùt al latg cèntrifugau.
+Gloss (with missing item): … and DEM.F.SG be.IMPF.3SG to pull.INF … pull.INF ___ … all DEF.M.SG milk centrifugate.PTCP.UNM
+The English translation of this sentence is:`[...] and we had to pull ... pull, pull ... the whole centrifuged milk.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A similar case is the repetition of words (\ref{ex:rep1} and \ref{ex:rep2}). It differs from the \isi{reduplication} insofar as the repeated items are separated by a short pause; they furthermore do not indicate intensification, but only repetition.
+A: word: trá	 gloss: pull.INF
+B: word: pulits-pulits	 gloss: RED\textasciitilde{well_behaved}.M.PL
+C: word: caná	 gloss: stab.INF
+D: word: atrás	 gloss: through
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 10:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): In ___ da tgèsa, è `l gjat a `l tgaun, a tiar-tgèsa è sagir tùt quaj tga vò bigj’ ad alp. Als tiars-tgèsa èn atgnamajn cò, né sén majṣès, quaj è quèlas tgauras a nùrsas a pòrs.
+Gloss (with missing item): INDEF.M.SG ___ of house.F.SG COP.PRS.3SG DEF.M.SG cat and DEF.M.SG dog and animal.M.SG-house.F.SG COP.PRS.3SG for_sure all DEM.UNM REL go.PRS.3SG NEG to alpine_pasture.M.SG DEF.M.PL animal.PL-house.F.SG COP.PRS.3PL actually here or on assembly_of_houses.M.SG DEM.GL COP.PRS.3SG DEM.F.PL goat.PL and sheep.F-PL and pig.M.PL
+The English translation of this sentence is:`A tiar da tgèsa, these are cats and dogs, and tiar tgèsa are of course all those that do not go to the alpine pastures. The tiars tgèsa are actually here, or up in the assembly of houses, these are the goats, the sheep, and the pigs.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Compounding} is achieved by joining two nouns with the preposition da `of' (\ref{ex:the morpheme ___tgèsa1}), and also by juxtaposition of two nouns (\ref{ex:clutgebaselgja1}), whereby the second noun modifies the first one as in baun-pégna `oven bench', literally `bench-oven'. Which strategy is used depends on the compound, and in some cases the two strategies may apply to the same nouns with different meanings. This last point is best exemplified by (\ref{ex:the morpheme ___tgèsa1}).
+A: word: gju	 gloss: have.PTCP.UNM
+B: word: tiars	 gloss: animal.PL
+C: word: véglja-véglja	 gloss: RED\textasciitilde{old}
+D: word: tiar	 gloss: animal
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 11:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): In tiar ___ tgèsa, è `l gjat a `l tgaun, a tiar-tgèsa è sagir tùt quaj tga vò bigj’ ad alp. Als tiars-tgèsa èn atgnamajn cò, né sén majṣès, quaj è quèlas tgauras a nùrsas a pòrs.
+Gloss (with missing item): INDEF.M.SG animal ___ house.F.SG COP.PRS.3SG DEF.M.SG cat and DEF.M.SG dog and animal.M.SG-house.F.SG COP.PRS.3SG for_sure all DEM.UNM REL go.PRS.3SG NEG to alpine_pasture.M.SG DEF.M.PL animal.PL-house.F.SG COP.PRS.3PL actually here or on assembly_of_houses.M.SG DEM.GL COP.PRS.3SG DEM.F.PL goat.PL and sheep.F-PL and pig.M.PL
+The English translation of this sentence is:`A tiar da tgèsa, these are cats and dogs, and tiar tgèsa are of course all those that do not go to the alpine pastures. The tiars tgèsa are actually here, or up in the assembly of houses, these are the goats, the sheep, and the pigs.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Compounding} is achieved by joining two nouns with the preposition the morpheme ___ `its gloss ___' (\ref{ex:tiartgèsa1}), and also by juxtaposition its gloss ___ two nouns (\ref{ex:clutgebaselgja1}), whereby the second noun modifies the first one as in baun-pégna `oven bench', literally `bench-oven'. Which strategy is used depends on the compound, and in some cases the two strategies may apply to the same nouns with different meanings. This last point is best exemplified by (\ref{ex:tiartgèsa1}).
+A: word: dal	 gloss: of.DEF.M.SG
+B: word: tgèsa	 gloss: home.F.SG
+C: word: da	 gloss: of
+D: word: èla	 gloss: 3SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 12:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): In tiar da ___ è `l gjat a `l tgaun, a tiar-tgèsa è sagir tùt quaj tga vò bigj’ ad alp. Als tiars-tgèsa èn atgnamajn cò, né sén majṣès, quaj è quèlas tgauras a nùrsas a pòrs.
+Gloss (with missing item): INDEF.M.SG animal of ___ COP.PRS.3SG DEF.M.SG cat and DEF.M.SG dog and animal.M.SG-house.F.SG COP.PRS.3SG for_sure all DEM.UNM REL go.PRS.3SG NEG to alpine_pasture.M.SG DEF.M.PL animal.PL-house.F.SG COP.PRS.3PL actually here or on assembly_of_houses.M.SG DEM.GL COP.PRS.3SG DEM.F.PL goat.PL and sheep.F-PL and pig.M.PL
+The English translation of this sentence is:`A tiar da tgèsa, these are cats and dogs, and tiar tgèsa are of course all those that do not go to the alpine pastures. The tiars tgèsa are actually here, or up in the assembly of houses, these are the goats, the sheep, and the pigs.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Compounding} is achieved by joining two nouns with the preposition da `of' (\ref{ex:tiarthe morpheme ___1}), and also by juxtaposition of two nouns (\ref{ex:clutgebaselgja1}), whereby the second noun modifies the first one as in baun-pégna `oven bench', literally `bench-oven'. Which strategy is used depends on the compound, and in some cases the two strategies may apply to the same nouns with different meanings. This last point is best exemplified by (\ref{ex:tiarthe morpheme ___1}).
+A: word: tgèsa-parvènda	 gloss: presbytery
+B: word: tgèsa	 gloss: house.F.SG
+C: word: fétg-fétg	 gloss: RED\textasciitilde{very}
+D: word: sacussagljai	 gloss: REFL.consult.PTCP.M.PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 13:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): In tiar da tgèsa, è `l gjat a `l tgaun, a ___ è sagir tùt quaj tga vò bigj’ ad alp. Als tiars-tgèsa èn atgnamajn cò, né sén majṣès, quaj è quèlas tgauras a nùrsas a pòrs.
+Gloss (with missing item): INDEF.M.SG animal of house.F.SG COP.PRS.3SG DEF.M.SG cat and DEF.M.SG dog and ___ COP.PRS.3SG for_sure all DEM.UNM REL go.PRS.3SG NEG to alpine_pasture.M.SG DEF.M.PL animal.PL-house.F.SG COP.PRS.3PL actually here or on assembly_of_houses.M.SG DEM.GL COP.PRS.3SG DEM.F.PL goat.PL and sheep.F-PL and pig.M.PL
+The English translation of this sentence is:`A tiar da tgèsa, these are cats and dogs, and tiar tgèsa are of course all those that do not go to the alpine pastures. The tiars tgèsa are actually here, or up in the assembly of houses, these are the goats, the sheep, and the pigs.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Compounding} is achieved by joining two nouns with the preposition da `of' (\ref{ex:tiartgèsa1}), and also by juxtaposition of two nouns (\ref{ex:clutgebaselgja1}), whereby the second noun modifies the first one as in baun-pégna `oven bench', literally `bench-oven'. Which strategy is used depends on the compound, and in some cases the two strategies may apply to the same nouns with different meanings. This last point is best exemplified by (\ref{ex:tiartgèsa1}).
+A: word: tiars-tgèsa	 gloss: animal.PL-house.F.SG
+B: word: trá	 gloss: pull.INF
+C: word: sédò	 gloss: up_out
+D: word: tiar-tgèsa	 gloss: animal.M.SG-house.F.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 14:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): In tiar da tgèsa, è `l gjat a `l tgaun, a tiar-tgèsa è sagir tùt quaj tga vò bigj’ ad alp. Als ___ èn atgnamajn cò, né sén majṣès, quaj è quèlas tgauras a nùrsas a pòrs.
+Gloss (with missing item): INDEF.M.SG animal of house.F.SG COP.PRS.3SG DEF.M.SG cat and DEF.M.SG dog and animal.M.SG-house.F.SG COP.PRS.3SG for_sure all DEM.UNM REL go.PRS.3SG NEG to alpine_pasture.M.SG DEF.M.PL ___ COP.PRS.3PL actually here or on assembly_of_houses.M.SG DEM.GL COP.PRS.3SG DEM.F.PL goat.PL and sheep.F-PL and pig.M.PL
+The English translation of this sentence is:`A tiar da tgèsa, these are cats and dogs, and tiar tgèsa are of course all those that do not go to the alpine pastures. The tiars tgèsa are actually here, or up in the assembly of houses, these are the goats, the sheep, and the pigs.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Compounding} is achieved by joining two nouns with the preposition da `of' (\ref{ex:tiartgèsa1}), and also by juxtaposition of two nouns (\ref{ex:clutgebaselgja1}), whereby the second noun modifies the first one as in baun-pégna `oven bench', literally `bench-oven'. Which strategy is used depends on the compound, and in some cases the two strategies may apply to the same nouns with different meanings. This last point is best exemplified by (\ref{ex:tiartgèsa1}).
+A: word: tgèsa	 gloss: home.F.SG
+B: word: détg	 gloss: say.PTCP.UNM
+C: word: tiars-tgèsa	 gloss: animal.PL-house.F.SG
+D: word: tiar-tgèsa	 gloss: animal.M.SG-house.F.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 15:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): In ___ da tgèsa, è `l gjat a `l tgaun, a tiar-tgèsa è sagir tùt quaj tga vò bigj’ ad alp. Als tiars-tgèsa èn atgnamajn cò, né sén majṣès, quaj è quèlas tgauras a nùrsas a pòrs.
+Gloss (with missing item): INDEF.M.SG ___ of house.F.SG COP.PRS.3SG DEF.M.SG cat and DEF.M.SG dog and animal.M.SG-house.F.SG COP.PRS.3SG for_sure all DEM.UNM REL go.PRS.3SG NEG to alpine_pasture.M.SG DEF.M.PL animal.PL-house.F.SG COP.PRS.3PL actually here or on assembly_of_houses.M.SG DEM.GL COP.PRS.3SG DEM.F.PL goat.PL and sheep.F-PL and pig.M.PL
+The English translation of this sentence is:`A tiar da tgèsa, these are cats and dogs, and tiar tgèsa are of course all those that do not go to the alpine pastures. The tiars tgèsa are actually here, or up in the assembly of houses, these are the goats, the sheep, and the pigs.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Compounding} is achieved by joining two nouns with the preposition da `of' (\ref{ex:the morpheme ___tgèsa1}), and also by juxtaposition of two nouns (\ref{ex:clutgebaselgja1}), whereby the second noun modifies the first one as in baun-pégna `oven bench', literally `bench-oven'. Which strategy is used depends on the compound, and in some cases the two strategies may apply to the same nouns with different meanings. This last point is best exemplified by (\ref{ex:the morpheme ___tgèsa1}).
+A: word: tiar	 gloss: animal
+B: word: tajṣ	 gloss: badger
+C: word: tiars-tgèsa	 gloss: animal.PL-house.F.SG
+D: word: tiars	 gloss: animal.PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 16:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): In tiar ___ tgèsa, è `l gjat a `l tgaun, a tiar-tgèsa è sagir tùt quaj tga vò bigj’ ad alp. Als tiars-tgèsa èn atgnamajn cò, né sén majṣès, quaj è quèlas tgauras a nùrsas a pòrs.
+Gloss (with missing item): INDEF.M.SG animal ___ house.F.SG COP.PRS.3SG DEF.M.SG cat and DEF.M.SG dog and animal.M.SG-house.F.SG COP.PRS.3SG for_sure all DEM.UNM REL go.PRS.3SG NEG to alpine_pasture.M.SG DEF.M.PL animal.PL-house.F.SG COP.PRS.3PL actually here or on assembly_of_houses.M.SG DEM.GL COP.PRS.3SG DEM.F.PL goat.PL and sheep.F-PL and pig.M.PL
+The English translation of this sentence is:`A tiar da tgèsa, these are cats and dogs, and tiar tgèsa are of course all those that do not go to the alpine pastures. The tiars tgèsa are actually here, or up in the assembly of houses, these are the goats, the sheep, and the pigs.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Compounding} is achieved by joining two nouns with the preposition the morpheme ___ `its gloss ___' (\ref{ex:tiartgèsa1}), and also by juxtaposition its gloss ___ two nouns (\ref{ex:clutgebaselgja1}), whereby the second noun modifies the first one as in baun-pégna `oven bench', literally `bench-oven'. Which strategy is used depends on the compound, and in some cases the two strategies may apply to the same nouns with different meanings. This last point is best exemplified by (\ref{ex:tiartgèsa1}).
+A: word: laj-èt	 gloss: lake-DIM
+B: word: da	 gloss: of
+C: word: prandévan	 gloss: take.IMPF.1PL
+D: word: dal	 gloss: of.DEF.M.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 17:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): In tiar da ___ è `l gjat a `l tgaun, a tiar-tgèsa è sagir tùt quaj tga vò bigj’ ad alp. Als tiars-tgèsa èn atgnamajn cò, né sén majṣès, quaj è quèlas tgauras a nùrsas a pòrs.
+Gloss (with missing item): INDEF.M.SG animal of ___ COP.PRS.3SG DEF.M.SG cat and DEF.M.SG dog and animal.M.SG-house.F.SG COP.PRS.3SG for_sure all DEM.UNM REL go.PRS.3SG NEG to alpine_pasture.M.SG DEF.M.PL animal.PL-house.F.SG COP.PRS.3PL actually here or on assembly_of_houses.M.SG DEM.GL COP.PRS.3SG DEM.F.PL goat.PL and sheep.F-PL and pig.M.PL
+The English translation of this sentence is:`A tiar da tgèsa, these are cats and dogs, and tiar tgèsa are of course all those that do not go to the alpine pastures. The tiars tgèsa are actually here, or up in the assembly of houses, these are the goats, the sheep, and the pigs.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Compounding} is achieved by joining two nouns with the preposition da `of' (\ref{ex:tiarthe morpheme ___1}), and also by juxtaposition of two nouns (\ref{ex:clutgebaselgja1}), whereby the second noun modifies the first one as in baun-pégna `oven bench', literally `bench-oven'. Which strategy is used depends on the compound, and in some cases the two strategies may apply to the same nouns with different meanings. This last point is best exemplified by (\ref{ex:tiarthe morpheme ___1}).
+A: word: fétg-fétg	 gloss: RED\textasciitilde{very}
+B: word: tgèsa-parvènda	 gloss: presbytery
+C: word: crapa	 gloss: stone.COLL
+D: word: tgèsa	 gloss: house.F.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 18:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): In tiar da tgèsa, è `l gjat a `l tgaun, a ___ è sagir tùt quaj tga vò bigj’ ad alp. Als tiars-tgèsa èn atgnamajn cò, né sén majṣès, quaj è quèlas tgauras a nùrsas a pòrs.
+Gloss (with missing item): INDEF.M.SG animal of house.F.SG COP.PRS.3SG DEF.M.SG cat and DEF.M.SG dog and ___ COP.PRS.3SG for_sure all DEM.UNM REL go.PRS.3SG NEG to alpine_pasture.M.SG DEF.M.PL animal.PL-house.F.SG COP.PRS.3PL actually here or on assembly_of_houses.M.SG DEM.GL COP.PRS.3SG DEM.F.PL goat.PL and sheep.F-PL and pig.M.PL
+The English translation of this sentence is:`A tiar da tgèsa, these are cats and dogs, and tiar tgèsa are of course all those that do not go to the alpine pastures. The tiars tgèsa are actually here, or up in the assembly of houses, these are the goats, the sheep, and the pigs.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Compounding} is achieved by joining two nouns with the preposition da `of' (\ref{ex:tiartgèsa1}), and also by juxtaposition of two nouns (\ref{ex:clutgebaselgja1}), whereby the second noun modifies the first one as in baun-pégna `oven bench', literally `bench-oven'. Which strategy is used depends on the compound, and in some cases the two strategies may apply to the same nouns with different meanings. This last point is best exemplified by (\ref{ex:tiartgèsa1}).
+A: word: tiars-tgèsa	 gloss: animal.PL-house.F.SG
+B: word: trèn	 gloss: train
+C: word: véglja-véglja	 gloss: RED\textasciitilde{old}
+D: word: tiar-tgèsa	 gloss: animal.M.SG-house.F.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 19:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): In tiar da tgèsa, è `l gjat a `l tgaun, a tiar-tgèsa è sagir tùt quaj tga vò bigj’ ad alp. Als ___ èn atgnamajn cò, né sén majṣès, quaj è quèlas tgauras a nùrsas a pòrs.
+Gloss (with missing item): INDEF.M.SG animal of house.F.SG COP.PRS.3SG DEF.M.SG cat and DEF.M.SG dog and animal.M.SG-house.F.SG COP.PRS.3SG for_sure all DEM.UNM REL go.PRS.3SG NEG to alpine_pasture.M.SG DEF.M.PL ___ COP.PRS.3PL actually here or on assembly_of_houses.M.SG DEM.GL COP.PRS.3SG DEM.F.PL goat.PL and sheep.F-PL and pig.M.PL
+The English translation of this sentence is:`A tiar da tgèsa, these are cats and dogs, and tiar tgèsa are of course all those that do not go to the alpine pastures. The tiars tgèsa are actually here, or up in the assembly of houses, these are the goats, the sheep, and the pigs.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Compounding} is achieved by joining two nouns with the preposition da `of' (\ref{ex:tiartgèsa1}), and also by juxtaposition of two nouns (\ref{ex:clutgebaselgja1}), whereby the second noun modifies the first one as in baun-pégna `oven bench', literally `bench-oven'. Which strategy is used depends on the compound, and in some cases the two strategies may apply to the same nouns with different meanings. This last point is best exemplified by (\ref{ex:tiartgèsa1}).
+A: word: pér	 gloss: only
+B: word: trá	 gloss: pull.INF
+C: word: tiars-tgèsa	 gloss: animal.PL-house.F.SG
+D: word: tiar-tgèsa	 gloss: animal.M.SG-house.F.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 20:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Lò fùva in pin ___ cun pauc’ aua.
+Gloss (with missing item): there EXIST.IMPF.3SG INDEF.M.SG small ___ with little.F.SG water
+The English translation of this sentence is:`There was a small lake with little water.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{diminutive} of nouns is formed with the suffix -èt/-èta. (\ref{ex:dim1}) shows that the use of the \isi{diminutive} does not preclude the use of pin `small'.
+A: word: tiar	 gloss: to
+B: word: laj-èt	 gloss: lake-DIM
+C: word: aua	 gloss: water
+D: word: schulaj	 gloss: fall_rapidly.PTCP.M.PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+

@@ -1,0 +1,1248 @@
+Question 0:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ in pèr jamnas] … èr’ [ju] gjù Locarno~[...].
+Gloss (with missing item): ___ INDEF.M.SG couple week.F.PL … COP.IMPF.1SG 1SG down PN
+The English translation of this sentence is:`A couple of weeks ago … I was in Locarno [...].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If there is an element that precedes the \isi{subject}, the \isi{subject} is moved after the finite verb as in (\ref{ex:sov2}) and (\ref{ex:sov4}).
+A: word: ajn	 gloss: in
+B: word: avaun	 gloss: before
+C: word: vinavaun	 gloss: further
+D: word: lur	 gloss: then
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 1:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [Avaun ___ pèr jamnas] … èr’ [ju] gjù Locarno~[...].
+Gloss (with missing item): before ___ couple week.F.PL … COP.IMPF.1SG 1SG down PN
+The English translation of this sentence is:`A couple of weeks ago … I was in Locarno [...].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If there is an element that precedes the \isi{subject}, the \isi{subject} is moved after the fthe morpheme ___ite verb as the morpheme ___ (\ref{ex:sov2}) and (\ref{ex:sov4}).
+A: word: in	 gloss: INDEF.M.SG
+B: word: vagnú	 gloss: PASS.PTCP.UNM
+C: word: ina	 gloss: INDEF.F.SG
+D: word: quèls	 gloss: DEM.M.PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 2:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [Avaun in ___ jamnas] … èr’ [ju] gjù Locarno~[...].
+Gloss (with missing item): before INDEF.M.SG ___ week.F.PL … COP.IMPF.1SG 1SG down PN
+The English translation of this sentence is:`A couple of weeks ago … I was in Locarno [...].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If there is an element that precedes the \isi{subject}, the \isi{subject} is moved after the finite verb as in (\ref{ex:sov2}) and (\ref{ex:sov4}).
+A: word: pèra	 gloss: pair.COLL
+B: word: pèr	 gloss: couple
+C: word: pasanca	 gloss: heavy_load.F.SG.ELAT
+D: word: vajs	 gloss: have.PRS.2SG.POL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 3:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [Avaun in pèr ___ … èr’ [ju] gjù Locarno~[...].
+Gloss (with missing item): before INDEF.M.SG couple ___ … COP.IMPF.1SG 1SG down PN
+The English translation of this sentence is:`A couple of weeks ago … I was in Locarno [...].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If there is an element that precedes the \isi{subject}, the \isi{subject} is moved after the finite verb as in (\ref{ex:sov2}) and (\ref{ex:sov4}).
+A: word: bigja	 gloss: NEG
+B: word: jamna	 gloss: week
+C: word: quitaus	 gloss: worry.M.PL
+D: word: jamnas	 gloss: week.F.PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 4:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [Avaun in pèr jamnas] … èr’ ___ gjù Locarno~[...].
+Gloss (with missing item): before INDEF.M.SG couple week.F.PL … COP.IMPF.1SG ___ down PN
+The English translation of this sentence is:`A couple of weeks ago … I was in Locarno [...].'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If there is an element that precedes the \isi{subject}, the \isi{subject} is moved after the finite verb as in (\ref{ex:sov2}) and (\ref{ex:sov4}).
+A: word: «té	 gloss: 2SG
+B: word: pudju	 gloss: can.PTCP.UNM
+C: word: fátg	 gloss: do.PTCP.UNM
+D: word: ju	 gloss: 1SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 5:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] a ___ va [{ju}] … cumprau in zacù̱n.
+Gloss (with missing item): … and ___ have.PRS.1SG 1SG … buy.PTCP.UNM INDEF.M.SG second
+The English translation of this sentence is:\sectref{sec:8.7})
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If there is an element that precedes the \isi{subject}, the \isi{subject} is moved its gloss ___ the finite verb as in (\ref{ex:sov2}) and (\ref{ex:sov4}).
+A: word: lur	 gloss: then
+B: word: sjantarmjadṣ-dé	 gloss: afternoon
+C: word: tgamiṣcha	 gloss: shirt.F.SG
+D: word: sjantar	 gloss: after
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 6:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] a [sjantar] va ___ … cumprau in zacù̱n.
+Gloss (with missing item): … and after have.PRS.1SG ___ … buy.PTCP.UNM INDEF.M.SG second
+The English translation of this sentence is:\sectref{sec:8.7})
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If there is an element that precedes the \isi{subject}, the \isi{subject} is moved after the finite verb as in (\ref{ex:sov2}) and (\ref{ex:sov4}).
+A: word: ju	 gloss: 1SG
+B: word: schau	 gloss: let.PTCP.UNM
+C: word: pudju	 gloss: can.PTCP.UNM
+D: word: «té	 gloss: 2SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 7:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ju vagnès schòn, ___ vuṣ vajs taun tschùf ajn tgèsa.
+Gloss (with missing item): 1SG come.COND.1SG really ___ 2PL have.PRS.2PL so_much dirt in house
+The English translation of this sentence is:`I would come, of course, but you have so much dirt in your house.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The coordinating conjunctions ábar `but' (\ref{ex:sov3}) and the morpheme ___ (\ref{ex:sov5}) `its gloss ___' do not trigger \isi{subject inversion}. In contrast, api and its shorter form pi `and, and then' do trigger it (\ref{ex:sov3}, \ref{ex:aapi} and \ref{ex:aapi1}).
+A: word: danùndar	 gloss: where_from
+B: word: dantaun	 gloss: however
+C: word: schabi	 gloss: although
+D: word: sjantar	 gloss: after
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 8:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ju vagnès schòn, dantaun ___ vajs taun tschùf ajn tgèsa.
+Gloss (with missing item): 1SG come.COND.1SG really however ___ have.PRS.2PL so_much dirt in house
+The English translation of this sentence is:`I would come, of course, but you have so much dirt in your house.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The coordinating conjunctions ábar `but' (\ref{ex:sov3}) and dantaun (\ref{ex:sov5}) `however' do not trigger \isi{subject inversion}. In contrast, api and its shorter form pi `and, and then' do trigger it (\ref{ex:sov3}, \ref{ex:aapi} and \ref{ex:aapi1}).
+A: word: nus	 gloss: 1PL
+B: word: vuṣ	 gloss: 2PL
+C: word: lajn	 gloss: let.PRS.3PL
+D: word: vus	 gloss: 2SG.POL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 9:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ju vagnès schòn, dantaun vuṣ ___ taun tschùf ajn tgèsa.
+Gloss (with missing item): 1SG come.COND.1SG really however 2PL ___ so_much dirt in house
+The English translation of this sentence is:`I would come, of course, but you have so much dirt in your house.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The coordinating conjunctions ábar `but' (\ref{ex:sov3}) and dantaun (\ref{ex:sov5}) `however' do not trigger \isi{subject inversion}. In contrast, api and its shorter form pi `and, and then' do trigger it (\ref{ex:sov3}, \ref{ex:aapi} and \ref{ex:aapi1}).
+A: word: vajn	 gloss: have.PRS.1PL
+B: word: vajs	 gloss: have.PRS.2PL
+C: word: vajramájn	 gloss: true.F.SG.ADV
+D: word: schau	 gloss: let.PTCP.UNM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 10:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ṣè `l vajramájn staus lò.
+Gloss (with missing item): ___ be.PRS.3SG 3SG.M true.F.SG.ADV remain.PTCP.M.SG there
+The English translation of this sentence is:`And it [= the swan] really stayed there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The coordinating conjunctions ábar `but' (\ref{ex:sov3}) and dantaun (\ref{ex:sov5}) `however' do not trigger \isi{subject inversion}. In contrast, athe morpheme ___ and its shorter form the morpheme ___ `and, and its gloss ___' do trigger it (\ref{ex:sov3}, \ref{ex:aathe morpheme ___} and \ref{ex:aathe morpheme ___1}).
+A: word: tgamiṣcha	 gloss: shirt.F.SG
+B: word: pijè	 gloss: pay.INF
+C: word: pi	 gloss: then
+D: word: api	 gloss: and
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 11:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Pi ṣè ___ vajramájn staus lò.
+Gloss (with missing item): then be.PRS.3SG ___ true.F.SG.ADV remain.PTCP.M.SG there
+The English translation of this sentence is:`And it [= the swan] really stayed there.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The coordinating conjunctions ábar `but' (\ref{ex:sov3}) and dantaun (\ref{ex:sov5}) `however' do not trigger \isi{subject inversion}. In contrast, api and its shorter form pi `and, and then' do trigger it (\ref{ex:sov3}, \ref{ex:aapi} and \ref{ex:aapi1}).
+A: word: fravi	 gloss: smith
+B: word: pr̩tgéj	 gloss: why
+C: word: `ls	 gloss: DEF.F.PL
+D: word: `l	 gloss: 3SG.M
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 12:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): La buéba ò détg ___ èla ségi bétga ida vòluntárjamajn, èla stuévi ira.
+Gloss (with missing item): DEF.F.SG girl have.PRS.3SG say.PTCP.UNM ___ 3SG be.PRS.SBJV.3SG NEG go.PTCP.F.SG voluntary.ADV 3SG.F must.IMPF.SBJV.3SG go.INF
+The English translation of this sentence is:`The girl said that she didn'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: After subordinating conjunctions there is no \isi{subject inversion} (\ref{ex:subconj1}--\ref{ex:subconj3}).
+A: word: raṣdau	 gloss: speak.PTCP.UNM
+B: word: tg'	 gloss: COMP
+C: word: bitg'	 gloss: NEG
+D: word: autra	 gloss: other
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 13:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): La buéba ò détg tg' ___ ségi bétga ida vòluntárjamajn, èla stuévi ira.
+Gloss (with missing item): DEF.F.SG girl have.PRS.3SG say.PTCP.UNM COMP ___ be.PRS.SBJV.3SG NEG go.PTCP.F.SG voluntary.ADV 3SG.F must.IMPF.SBJV.3SG go.INF
+The English translation of this sentence is:`The girl said that she didn'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: After subordinating conjunctions there is no \isi{subject inversion} (\ref{ex:subconj1}--\ref{ex:subconj3}).
+A: word: èl’	 gloss: 3SG.F
+B: word: vuṣ	 gloss: 2PL
+C: word: èla	 gloss: 3SG
+D: word: quèla	 gloss: DEM.F.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 14:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): La buéba ò détg tg' èla ___ bétga ida vòluntárjamajn, èla stuévi ira.
+Gloss (with missing item): DEF.F.SG girl have.PRS.3SG say.PTCP.UNM COMP 3SG ___ NEG go.PTCP.F.SG voluntary.ADV 3SG.F must.IMPF.SBJV.3SG go.INF
+The English translation of this sentence is:`The girl said that she didn'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: After subordinating conjunctions there is no \isi{subject inversion} (\ref{ex:subconj1}--\ref{ex:subconj3}).
+A: word: purtaj	 gloss: bring.PTCP.M.PL
+B: word: vèssas	 gloss: have.COND.2PL
+C: word: ségi	 gloss: be.PRS.SBJV.3SG
+D: word: dégi	 gloss: must.PRS.SBJV.3SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 15:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): La buéba ò détg tg' èla ségi bétga ___ vòluntárjamajn, èla stuévi ira.
+Gloss (with missing item): DEF.F.SG girl have.PRS.3SG say.PTCP.UNM COMP 3SG be.PRS.SBJV.3SG NEG ___ voluntary.ADV 3SG.F must.IMPF.SBJV.3SG go.INF
+The English translation of this sentence is:`The girl said that she didn'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: After subordinating conjunctions there is no \isi{subject inversion} (\ref{ex:subconj1}--\ref{ex:subconj3}).
+A: word: vagní	 gloss: come.PTCP.M.PL
+B: word: ida	 gloss: go.PTCP.F.SG
+C: word: vagnida	 gloss: PASS.PTCP.F.SG
+D: word: juṣ	 gloss: go.PTCP.M.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 16:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): A lur scha `l vèṣ ussa pagljau par èxè̱mpal in grép tga vès pudju bétar èl, scha ___ fùssan grat schulaj gjù ajl’ aua, ajl lac.
+Gloss (with missing item): and then if 3SG.M have.COND.3SG now hit.PTCP.UNM for example.M.SG INDEF.M.SG rock REL have.COND.3SG can.PTCP.UNM throw.INF 3SG.M CORR ___ be.COND.3PL immediately fall_rapidly.PTCP.M.PL down into.DEF.F.SG water into.DEF.M.SG lake
+The English translation of this sentence is:`And then if it [the load] hit a rock which could have thrown it down, these [= the mules] would have immediately fallen down rapidly into the water, into the lake.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If a \isi{subject} which would normally be inverted is focalised, it may occur preverbally, as the morpheme ___ `these' in (\ref{ex:subconj4}).
+A: word: quèl	 gloss: DEM.M.SG
+B: word: ajn	 gloss: in
+C: word: quèlas	 gloss: DEM.F.PL
+D: word: quèls	 gloss: DEM.M.PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 17:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] avaun nus ___ sagir al tgavrè èra schòn jus culas tgauras, lèz mava lu èra.
+Gloss (with missing item): … before 1PL ___ sure DEF.M.SG goatherd also already go.PTCP.M.SG with.DEF.F.PL goat.PL DEM.M.SG go.IMPF.3SG then also
+The English translation of this sentence is:`[...] before us the goatherd had certainly already gone with the goats, he also used to go.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The inverted \isi{subject} is not immediately adjacent to the verb, and in (\ref{ex:sagir1}) sagir `sure' is located immediately after the verb.
+A: word: èra	 gloss: be.IMPF.3SG
+B: word: ajn	 gloss: in
+C: word: lèva	 gloss: want.IMPF.3SG
+D: word: sèra	 gloss: evening.F.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 18:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] avaun nus èra ___ al tgavrè èra schòn jus culas tgauras, lèz mava lu èra.
+Gloss (with missing item): … before 1PL be.IMPF.3SG ___ DEF.M.SG goatherd also already go.PTCP.M.SG with.DEF.F.PL goat.PL DEM.M.SG go.IMPF.3SG then also
+The English translation of this sentence is:`[...] before us the goatherd had certainly already gone with the goats, he also used to go.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The inverted \isi{subject} is not immediately adjacent to the verb, and in (\ref{ex:the morpheme ___1}) the morpheme ___ `its gloss ___' is located immediately after the verb.
+A: word: sagir	 gloss: sure
+B: word: sapartgiraj	 gloss: REFL.beware.IMP.2PL
+C: word: còj	 gloss: cook.INF
+D: word: ṣchèvan	 gloss: say.IMPF.3PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 19:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] avaun nus èra sagir ___ tgavrè èra schòn jus culas tgauras, lèz mava lu èra.
+Gloss (with missing item): … before 1PL be.IMPF.3SG sure ___ goatherd also already go.PTCP.M.SG with.DEF.F.PL goat.PL DEM.M.SG go.IMPF.3SG then also
+The English translation of this sentence is:`[...] before us the goatherd had certainly already gone with the goats, he also used to go.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The inverted \isi{subject} is not immediately adjacent to the verb, and in (\ref{ex:sagir1}) sagir `sure' is located immediately after the verb.
+A: word: «jò	 gloss: yes
+B: word: al	 gloss: DEF.M.SG
+C: word: sjantar	 gloss: after
+D: word: dal	 gloss: of.DEF.M.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 20:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] avaun nus èra sagir al ___ èra schòn jus culas tgauras, lèz mava lu èra.
+Gloss (with missing item): … before 1PL be.IMPF.3SG sure DEF.M.SG ___ also already go.PTCP.M.SG with.DEF.F.PL goat.PL DEM.M.SG go.IMPF.3SG then also
+The English translation of this sentence is:`[...] before us the goatherd had certainly already gone with the goats, he also used to go.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The inverted \isi{subject} is not immediately adjacent to the verb, and in (\ref{ex:sagir1}) sagir `sure' is located immediately after the verb.
+A: word: als	 gloss: DEF.M.PL
+B: word: tgavals	 gloss: horse.M.PL
+C: word: tgavrè	 gloss: goatherd
+D: word: tgauras	 gloss: goat.PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 21:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] avaun nus ___ sagir al tgavrè èra schòn jus culas tgauras, lèz mava lu èra.
+Gloss (with missing item): … before 1PL ___ sure DEF.M.SG goatherd also already go.PTCP.M.SG with.DEF.F.PL goat.PL DEM.M.SG go.IMPF.3SG then also
+The English translation of this sentence is:`[...] before us the goatherd had certainly already gone with the goats, he also used to go.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: However, some consultants reject the position of sagir in (\ref{ex:sagir1}). For them, sagir should be located between the morpheme ___ `also' and schòn `already'.
+A: word: lèva	 gloss: want.IMPF.3SG
+B: word: quèls	 gloss: DEM.M.PL
+C: word: sèra	 gloss: evening.F.SG
+D: word: èra	 gloss: be.IMPF.3SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 22:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] avaun nus èra ___ al tgavrè èra schòn jus culas tgauras, lèz mava lu èra.
+Gloss (with missing item): … before 1PL be.IMPF.3SG ___ DEF.M.SG goatherd also already go.PTCP.M.SG with.DEF.F.PL goat.PL DEM.M.SG go.IMPF.3SG then also
+The English translation of this sentence is:`[...] before us the goatherd had certainly already gone with the goats, he also used to go.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: However, some consultants reject the position of the morpheme ___ in (\ref{ex:the morpheme ___1}). For them, the morpheme ___ should be located between èra `also' and schòn `already'.
+A: word: sapartgiraj	 gloss: REFL.beware.IMP.2PL
+B: word: sagir	 gloss: sure
+C: word: príu	 gloss: take.PTCP.UNM
+D: word: sa-fatg	 gloss: REFL-do.PTCP.UNM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 23:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] avaun nus èra sagir ___ tgavrè èra schòn jus culas tgauras, lèz mava lu èra.
+Gloss (with missing item): … before 1PL be.IMPF.3SG sure ___ goatherd also already go.PTCP.M.SG with.DEF.F.PL goat.PL DEM.M.SG go.IMPF.3SG then also
+The English translation of this sentence is:`[...] before us the goatherd had certainly already gone with the goats, he also used to go.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: However, some consultants reject the position of sagir in (\ref{ex:sagir1}). For them, sagir should be located between èra `the morpheme ___so' and schòn `the morpheme ___ready'.
+A: word: al	 gloss: DEF.M.SG
+B: word: sa-pagljau	 gloss: REFL-touch.PTCP.UNM
+C: word: dal	 gloss: of.DEF.M.SG
+D: word: barbís	 gloss: moustache.M.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 24:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] avaun nus èra sagir al ___ èra schòn jus culas tgauras, lèz mava lu èra.
+Gloss (with missing item): … before 1PL be.IMPF.3SG sure DEF.M.SG ___ also already go.PTCP.M.SG with.DEF.F.PL goat.PL DEM.M.SG go.IMPF.3SG then also
+The English translation of this sentence is:`[...] before us the goatherd had certainly already gone with the goats, he also used to go.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: However, some consultants reject the position of sagir in (\ref{ex:sagir1}). For them, sagir should be located between èra `also' and schòn `already'.
+A: word: tgauras	 gloss: goat.PL
+B: word: tgavrè	 gloss: goatherd
+C: word: tgavals	 gloss: horse.M.PL
+D: word: schèvan	 gloss: let.IMPF.3PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 25:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Avaun ina fjasta mavan ___ … tialas … gjufnas … par nègla, partgé \longrule matévan sé sé la capjala … ina nègla.
+Gloss (with missing item): before INDEF.F.SG celebration go.IMPF.3PL ___ … to.DEF.F.PL … young_woman.PL … for carnation.F.PL because SBJ put.IMPF.3PL up up DEF.F.SG hat … INDEF.F.SG carnation
+The English translation of this sentence is:`Before a celebration they would go … to the … girls for carnations, because they would put … a carnation on their hat.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{subject pronoun} is usually obligatory in Tuatschin, but the \isi{omission of the subject} may occur in subordinated and coordinated clauses if it can be recovered from the context (\ref{ex:nosubj1} and \ref{ex:nosubj2}).
+A: word: vajs	 gloss: have.PRS.2SG.POL
+B: word: dajan	 gloss: must.PRS.3PL
+C: word: ida	 gloss: go.PTCP.F.SG
+D: word: aj	 gloss: 3PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 26:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ṣè la vagnida?
+Gloss (with missing item): ___ be.PRS.3SG 3SG.F come.PTCP.F.SG
+The English translation of this sentence is:`When did she come?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Content questions require the presence of an \isi{interrogative word} and, like polar questions, exhibit \isi{subject inversion}. \isi{Interrogative pronouns} are the morpheme ___/the morpheme ___ra `its gloss ___' (\ref{ex:int4}), cù `how' (\ref{ex:int8}), dacù `why' (\ref{ex:int10}), danùndar `where from' (\ref{ex:int11}), núa `where' (\ref{ex:int3}), partgé(j) `why' (\ref{ex:int5}), tgé(j) `what' (\ref{ex:int2}), tgé(j)nín/tgé(j)nina `which one'(\ref{ex:int7}), tgi `who' (\ref{ex:int1}). The \isi{interrogative determiner} is tgé(j) `which, what'(\ref{ex:int6}).
+A: word: cu	 gloss: when
+B: word: cumprau	 gloss: buy.PTCP.UNM
+C: word: vagnéva	 gloss: PASS.AUX.IMPF.3SG
+D: word: tòcan	 gloss: until
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 27:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ détsch ju? Gjù Sardégna?
+Gloss (with missing item): ___ say.PRS.1SG 1SG down PN
+The English translation of this sentence is:`How do I say? Down Sardinia?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Content questions require the presence of an \isi{interrogative word} and, like polar questions, exhibit \isi{subject inversion}. \isi{Interrogative pronouns} are cu/cura `when' (\ref{ex:int4}), the morpheme ___ `its gloss ___' (\ref{ex:int8}), dathe morpheme ___ `why' (\ref{ex:int10}), danùndar `where from' (\ref{ex:int11}), núa `where' (\ref{ex:int3}), partgé(j) `why' (\ref{ex:int5}), tgé(j) `what' (\ref{ex:int2}), tgé(j)nín/tgé(j)nina `which one'(\ref{ex:int7}), tgi `who' (\ref{ex:int1}). The \isi{interrogative determiner} is tgé(j) `which, what'(\ref{ex:int6}).
+A: word: dacù	 gloss: how
+B: word: vuṣ	 gloss: 2PL
+C: word: cù	 gloss: how
+D: word: via	 gloss: way
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 28:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ as té fatg quaj?
+Gloss (with missing item): ___ have.PRS.2SG 2SG do.PTCP.UNM DEM.UNM
+The English translation of this sentence is:`Why did you do this?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Content questions require the presence of an \isi{interrogative word} and, like polar questions, exhibit \isi{subject inversion}. \isi{Interrogative pronouns} are cu/cura `when' (\ref{ex:int4}), cù `its gloss ___' (\ref{ex:int8}), the morpheme ___ `why' (\ref{ex:int10}), danùndar `where from' (\ref{ex:int11}), núa `where' (\ref{ex:int3}), partgé(j) `why' (\ref{ex:int5}), tgé(j) `what' (\ref{ex:int2}), tgé(j)nín/tgé(j)nina `which one'(\ref{ex:int7}), tgi `who' (\ref{ex:int1}). The \isi{interrogative determiner} is tgé(j) `which, what'(\ref{ex:int6}).
+A: word: via	 gloss: way
+B: word: «té	 gloss: 2SG
+C: word: zacùnda	 gloss: second
+D: word: dacù	 gloss: how
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 29:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ èn èls vagní?
+Gloss (with missing item): ___ be.PRS.3PL 3PL come.PTCP.M.PL
+The English translation of this sentence is:`Where did they come from?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Content questions require the presence of an \isi{interrogative word} and, like polar questions, exhibit \isi{subject inversion}. \isi{Interrogative pronouns} are cu/cura `when' (\ref{ex:int4}), cù `how' (\ref{ex:int8}), dacù `why' (\ref{ex:int10}), the morpheme ___ `where from' (\ref{ex:int11}), núa `where' (\ref{ex:int3}), partgé(j) `why' (\ref{ex:int5}), tgé(j) `what' (\ref{ex:int2}), tgé(j)nín/tgé(j)nina `which one'(\ref{ex:int7}), tgi `who' (\ref{ex:int1}). The \isi{interrogative determiner} is tgé(j) `which, what'(\ref{ex:int6}).
+A: word: dadajns	 gloss: from_in
+B: word: èra	 gloss: be.IMPF.3SG
+C: word: ampréndar	 gloss: learn.INF
+D: word: danùndar	 gloss: where_from
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 30:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ajs staus?
+Gloss (with missing item): ___ be.PRS.2SG COP.PTCP.M.SG
+The English translation of this sentence is:`Where have you been?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Content questions require the presence of an \isi{interrogative word} and, like polar questions, exhibit \isi{subject inversion}. \isi{Interrogative pronouns} are cu/cura `when' (\ref{ex:int4}), cù `how' (\ref{ex:int8}), dacù `why' (\ref{ex:int10}), danùndar `its gloss ___ from' (\ref{ex:int11}), the morpheme ___ `its gloss ___' (\ref{ex:int3}), partgé(j) `why' (\ref{ex:int5}), tgé(j) `what' (\ref{ex:int2}), tgé(j)nín/tgé(j)nina `which one'(\ref{ex:int7}), tgi `who' (\ref{ex:int1}). The \isi{interrogative determiner} is tgé(j) `which, what'(\ref{ex:int6}).
+A: word: stadas	 gloss: COP.PTCP.F.PL
+B: word: bétg	 gloss: NEG
+C: word: zanúa	 gloss: somewhere
+D: word: núa	 gloss: where
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 31:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ fas quaj?
+Gloss (with missing item): ___ do.PRS.2SG DEM.UNM
+The English translation of this sentence is:`Why do you do this?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Content questions require the presence of an \isi{interrogative word} and, like polar questions, exhibit \isi{subject inversion}. \isi{Interrogative pronouns} are cu/cura `when' (\ref{ex:int4}), cù `how' (\ref{ex:int8}), dacù `its gloss ___' (\ref{ex:int10}), danùndar `where from' (\ref{ex:int11}), núa `where' (\ref{ex:int3}), partgé(j) `its gloss ___' (\ref{ex:int5}), tgé(j) `what' (\ref{ex:int2}), tgé(j)nín/tgé(j)nina `which one'(\ref{ex:int7}), tgi `who' (\ref{ex:int1}). The \isi{interrogative determiner} is tgé(j) `which, what'(\ref{ex:int6}).
+A: word: tgéj	 gloss: what
+B: word: pr̩tgéj	 gloss: why
+C: word: tiars	 gloss: animal.PL
+D: word: partgé	 gloss: because
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 32:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ lajn fá avaun c' í a raschlá?
+Gloss (with missing item): ___ want.PRS.1PL do.INF before REL go.INF COMP rake.INF
+The English translation of this sentence is:`What shall we do before going to rake?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Content questions require the presence of an \isi{interrogative word} and, like polar questions, exhibit \isi{subject inversion}. \isi{Interrogative pronouns} are cu/cura `when' (\ref{ex:int4}), cù `how' (\ref{ex:int8}), dacù `why' (\ref{ex:int10}), danùndar `where from' (\ref{ex:int11}), núa `where' (\ref{ex:int3}), partgé(j) `why' (\ref{ex:int5}), tgé(j) `its gloss ___' (\ref{ex:int2}), tgé(j)nín/tgé(j)nina `which one'(\ref{ex:int7}), tgi `who' (\ref{ex:int1}). The \isi{interrogative determiner} is tgé(j) `which, its gloss ___'(\ref{ex:int6}).
+A: word: tgéj	 gloss: what
+B: word: pr̩tgéj	 gloss: why
+C: word: zatgé	 gloss: something
+D: word: ida	 gloss: go.PTCP.F.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 33:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ as cumprau?
+Gloss (with missing item): ___ have.PRS.2SG buy.PTCP.UNM
+The English translation of this sentence is:`Which one did you buy?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Content questions require the presence of an \isi{interrogative word} and, like polar questions, exhibit \isi{subject inversion}. \isi{Interrogative pronouns} are cu/cura `when' (\ref{ex:int4}), cù `how' (\ref{ex:int8}), dacù `why' (\ref{ex:int10}), danùndar `where from' (\ref{ex:int11}), núa `where' (\ref{ex:int3}), partgé(j) `why' (\ref{ex:int5}), tgé(j) `what' (\ref{ex:int2}), tgé(j)nín/tgé(j)nina `which one'(\ref{ex:int7}), tgi `who' (\ref{ex:int1}). The \isi{interrogative determiner} is tgé(j) `which, what'(\ref{ex:int6}).
+A: word: pr̩tgéj	 gloss: why
+B: word: bigja	 gloss: NEG
+C: word: in'	 gloss: one.F
+D: word: tgéjnina	 gloss: which_one
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 34:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ò malagjau quaj malètg?
+Gloss (with missing item): ___ have.PRS.3SG paint.PTCP.UNM DEM.M.SG picture
+The English translation of this sentence is:`Who painted this picture?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Content questions require the presence of an \isi{interrogative word} and, like polar questions, exhibit \isi{subject inversion}. \isi{Interrogative pronouns} are cu/cura `when' (\ref{ex:int4}), cù `how' (\ref{ex:int8}), dacù `why' (\ref{ex:int10}), danùndar `where from' (\ref{ex:int11}), núa `where' (\ref{ex:int3}), partgé(j) `why' (\ref{ex:int5}), tgé(j) `what' (\ref{ex:int2}), tgé(j)nín/tgé(j)nina `which one'(\ref{ex:int7}), the morpheme ___ `its gloss ___' (\ref{ex:int1}). The \isi{interrogative determiner} is tgé(j) `which, what'(\ref{ex:int6}).
+A: word: núa	 gloss: where
+B: word: tgi	 gloss: who
+C: word: plétost	 gloss: rather
+D: word: sapartgiraj	 gloss: REFL.beware.IMP.2PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 35:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ tgamiṣcha as cumprau?
+Gloss (with missing item): ___ shirt.F.SG have.PRS.2SG buy.PTCP.UNM
+The English translation of this sentence is:`Which shirt did you buy?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Content questions require the presence of an \isi{interrogative word} and, like polar questions, exhibit \isi{subject inversion}. \isi{Interrogative pronouns} are cu/cura `when' (\ref{ex:int4}), cù `how' (\ref{ex:int8}), dacù `why' (\ref{ex:int10}), danùndar `where from' (\ref{ex:int11}), núa `where' (\ref{ex:int3}), partgé(j) `why' (\ref{ex:int5}), tgé(j) `what' (\ref{ex:int2}), tgé(j)nín/tgé(j)nina `its gloss ___ one'(\ref{ex:int7}), tgi `who' (\ref{ex:int1}). The \isi{interrogative determiner} is tgé(j) `its gloss ___, what'(\ref{ex:int6}).
+A: word: fétsch	 gloss: make.PRS.1SG
+B: word: tgéj	 gloss: which
+C: word: tròcas	 gloss: k.o.card_game.F.PL
+D: word: pr̩tgéj	 gloss: why
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 36:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Tgéj ___ as cumprau?
+Gloss (with missing item): which ___ have.PRS.2SG buy.PTCP.UNM
+The English translation of this sentence is:`Which shirt did you buy?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Content questions require the presence of an \isi{interrogative word} and, like polar questions, exhibit \isi{subject inversion}. \isi{Interrogative pronouns} are cu/cura `when' (\ref{ex:int4}), cù `how' (\ref{ex:int8}), dacù `why' (\ref{ex:int10}), danùndar `where from' (\ref{ex:int11}), núa `where' (\ref{ex:int3}), partgé(j) `why' (\ref{ex:int5}), tgé(j) `what' (\ref{ex:int2}), tgé(j)nín/tgé(j)nina `which one'(\ref{ex:int7}), tgi `who' (\ref{ex:int1}). The \isi{interrogative determiner} is tgé(j) `which, what'(\ref{ex:int6}).
+A: word: vajs	 gloss: have.PRS.2SG.POL
+B: word: pauc’	 gloss: little.F.SG
+C: word: tgamiṣcha	 gloss: shirt.F.SG
+D: word: briṣcha	 gloss: burn.PRS.3SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 37:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nò lu vidòr ússa. Lò, quèsta sèra dòrma lu bigja ajn lò.»
+Gloss (with missing item): ___ come.IMP.2SG then down now there DEM.F.SG evening sleep.IMP.2SG then NEG in there
+The English translation of this sentence is:`Come down here now. There, don’t sleep up there this evening.»'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Imperative sentences may or may not lack a \isi{subject}. If they have one, it may precede (\ref{ex:imp.precede}) or follow the \isi{verb} (\ref{ex:imp.follow}).
+A: word: «ju	 gloss: 1SG
+B: word: «té	 gloss: 2SG
+C: word: dau	 gloss: EXIST.PTCP.UNM
+D: word: matévan	 gloss: put.IMPF.1PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 38:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): «Té ___ lu vidòr ússa. Lò, quèsta sèra dòrma lu bigja ajn lò.»
+Gloss (with missing item): 2SG ___ then down now there DEM.F.SG evening sleep.IMP.2SG then NEG in there
+The English translation of this sentence is:`Come down here now. There, don’t sleep up there this evening.»'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Imperative sentences may or may not lack a \isi{subject}. If they have one, it may precede (\ref{ex:imp.precede}) or follow the \isi{verb} (\ref{ex:imp.follow}).
+A: word: nòva	 gloss: new.F.SG
+B: word: gjával	 gloss: devil
+C: word: dacù	 gloss: how
+D: word: nò	 gloss: come.IMP.2SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 39:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): «Té nò lu vidòr ússa. Lò, quèsta sèra ___ lu bigja ajn lò.»
+Gloss (with missing item): 2SG come.IMP.2SG then down now there DEM.F.SG evening ___ then NEG in there
+The English translation of this sentence is:`Come down here now. There, don’t sleep up there this evening.»'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Imperative sentences may or may not lack a \isi{subject}. If they have one, it may precede (\ref{ex:imp.precede}) or follow the \isi{verb} (\ref{ex:imp.follow}).
+A: word: fòrmazjun	 gloss: lineup
+B: word: durméva	 gloss: sleep.IMPF.3SG
+C: word: mju	 gloss: POSS.1SG.M.SG
+D: word: dòrma	 gloss: sleep.IMP.2SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 40:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): «Té nò lu vidòr ússa. Lò, quèsta sèra dòrma lu ___ ajn lò.»
+Gloss (with missing item): 2SG come.IMP.2SG then down now there DEM.F.SG evening sleep.IMP.2SG then ___ in there
+The English translation of this sentence is:`Come down here now. There, don’t sleep up there this evening.»'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Imperative sentences may or may not lack a \isi{subject}. If they have one, it may precede (\ref{ex:imp.precede}) or follow the \isi{verb} (\ref{ex:imp.follow}).
+A: word: núa	 gloss: where
+B: word: vagnèn	 gloss: come.GER
+C: word: bigja–	 gloss: NEG
+D: word: bigja	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 41:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ah uòn ___ té ajnta Pardatsch.
+Gloss (with missing item): eh this_year ___ 2SG into PN
+The English translation of this sentence is:`Ah, this year go to Pardatsch.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Imperative sentences may or may not lack a \isi{subject}. If they have one, it may precede (\ref{ex:imp.precede}) or follow the \isi{verb} (\ref{ex:imp.follow}).
+A: word: adatgí	 gloss: DAT.some
+B: word: nò	 gloss: GO.IMP.2SG
+C: word: schau	 gloss: let.PTCP.UNM
+D: word: nòva	 gloss: new.F.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 42:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ah uòn nò ___ ajnta Pardatsch.
+Gloss (with missing item): eh this_year GO.IMP.2SG ___ into PN
+The English translation of this sentence is:`Ah, this year go to Pardatsch.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Imperative sentences may or may not lack a \isi{subject}. If they have one, it may precede (\ref{ex:imp.precede}) or follow the \isi{verb} (\ref{ex:imp.follow}).
+A: word: té	 gloss: 2SG
+B: word: matévan	 gloss: put.IMPF.1PL
+C: word: «ju	 gloss: 1SG
+D: word: bigja	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 43:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ tumaj!
+Gloss (with missing item): ___ be_afraid.IMP.2PL
+The English translation of this sentence is:`Don’t be afraid!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \isi{prohibitive} sentences, the negator the morpheme ___a and its allomorphs precede the imperative (\ref{ex:betga1}). But if some elements precede the imperative as in (\ref{ex:imp.precede}), the negator follows it.
+A: word: bétga	 gloss: NEG
+B: word: bétg	 gloss: NEG
+C: word: vagnèn	 gloss: come.GER
+D: word: ségi	 gloss: EXIST.PRS.SBJV.3SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 44:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ nò lu vidòr ússa. Lò, quèsta sèra dòrma lu bigja ajn lò.»
+Gloss (with missing item): ___ come.IMP.2SG then down now there DEM.F.SG evening sleep.IMP.2SG then NEG in there
+The English translation of this sentence is:`Come down here now. There, don’t sleep up there this evening.»'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \isi{prohibitive} sentences, the negator bétga and its allomorphs precede the imperative (\ref{ex:betga1}). But if some elements precede the imperative as in (\ref{ex:imp.precede}), the negator follows it.
+A: word: «ju	 gloss: 1SG
+B: word: matévan	 gloss: put.IMPF.1PL
+C: word: avaun	 gloss: before
+D: word: «té	 gloss: 2SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 45:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): «Té ___ lu vidòr ússa. Lò, quèsta sèra dòrma lu bigja ajn lò.»
+Gloss (with missing item): 2SG ___ then down now there DEM.F.SG evening sleep.IMP.2SG then NEG in there
+The English translation of this sentence is:`Come down here now. There, don’t sleep up there this evening.»'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \isi{prohibitive} sentences, the negator bétga and its allomorphs precede the imperative (\ref{ex:betga1}). But if some elements precede the imperative as in (\ref{ex:imp.precede}), the negator follows it.
+A: word: sagir	 gloss: saw
+B: word: nòva	 gloss: new.F.SG
+C: word: nò	 gloss: come.IMP.2SG
+D: word: ganugljaṣ	 gloss: knee.F.PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 46:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): «Té nò lu vidòr ússa. Lò, quèsta sèra ___ lu bigja ajn lò.»
+Gloss (with missing item): 2SG come.IMP.2SG then down now there DEM.F.SG evening ___ then NEG in there
+The English translation of this sentence is:`Come down here now. There, don’t sleep up there this evening.»'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \isi{prohibitive} sentences, the negator bétga and its allomorphs precede the imperative (\ref{ex:betga1}). But if some elements precede the imperative as in (\ref{ex:imp.precede}), the negator follows it.
+A: word: dòrma	 gloss: sleep.IMP.2SG
+B: word: fòrmazjun	 gloss: lineup
+C: word: als	 gloss: DEF.M.PL
+D: word: durméva	 gloss: sleep.IMPF.3SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 47:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): «Té nò lu vidòr ússa. Lò, quèsta sèra dòrma lu ___ ajn lò.»
+Gloss (with missing item): 2SG come.IMP.2SG then down now there DEM.F.SG evening sleep.IMP.2SG then ___ in there
+The English translation of this sentence is:`Come down here now. There, don’t sleep up there this evening.»'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In \isi{prohibitive} sentences, the negator bétga and its allomorphs precede the imperative (\ref{ex:betga1}). But if some elements precede the imperative as in (\ref{ex:imp.precede}), the negator follows it.
+A: word: bigja	 gloss: NEG
+B: word: vagnèn	 gloss: come.GER
+C: word: bigja–	 gloss: NEG
+D: word: pèr	 gloss: pair
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 48:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ dals bètlars cu tgi vòn a tgavaj.
+Gloss (with missing item): ___ of.DEF.M.PL beggar.PL when REL.3PL go.PRS.3SG on horse.M.SG
+The English translation of this sentence is:`Beware of the beggars when they ride.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Reflexive verbs use the prefix sa- in the imperative (\ref{ex:imprefl}) as in all other tenses, moods, and non-finite categories.
+A: word: partgirava	 gloss: mind.IMPF.3SG
+B: word: tg'	 gloss: CORR
+C: word: sapartgiraj	 gloss: REFL.beware.IMP.2PL
+D: word: salagravan	 gloss: REFL.appreciate.IMPF.1PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 49:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ quitaus cu vus majṣ ṣur la lingja via … dal dṣùc, dal zùc.»
+Gloss (with missing item): ___ worry.M.PL when 2PL go.PRS.2PL over DEF.F.SG line over … of.DEF.M.SG train.M.SG of.DEF.M.SG train
+The English translation of this sentence is:`Be careful when you cross the railway line, the railway line.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If a \isi{stative verb} forms an imperative, \isi{subjunctive mood} is used, like the morpheme ___ `have \textsc{sbjv.2pl}' in (\ref{ex:impsubj}).
+A: word: vajan	 gloss: have.SBJV.PRS.3PL
+B: word: daj	 gloss: give.IMP.2PL
+C: word: vajas	 gloss: have.IMP.2PL
+D: word: fátg	 gloss: do.PTCP.UNM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 50:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ còj quèla tgarn.
+Gloss (with missing item): ___ cook.INF DEM.F.SG meat
+The English translation of this sentence is:`Let'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{hortative} is formed with the first person plural present of the verb \textit{\isi{vulaj}} `want', the morpheme ___ `let's', and the \isi{infinitive} (\ref{ex:imp.hort1} and \ref{ex:imp.hort2}).
+A: word: lajn	 gloss: IMP.1PL
+B: word: plajna	 gloss: full
+C: word: cruschs	 gloss: cross.PL
+D: word: còj	 gloss: cook.INF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 51:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Lajn ___ quèla tgarn.
+Gloss (with missing item): IMP.1PL ___ DEM.F.SG meat
+The English translation of this sentence is:`Let'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{hortative} is formed with the first person plural present of the verb \textit{\isi{vulaj}} `want', lajn `let's', and the \isi{infinitive} (\ref{ex:imp.hort1} and \ref{ex:imp.hort2}).
+A: word: faː	 gloss: make.INF
+B: word: còj	 gloss: cook.INF
+C: word: vajas	 gloss: have.IMP.2PL
+D: word: còschar	 gloss: keep_silent.INF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 52:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Djus ___ a carschjanti!
+Gloss (with missing item): God ___ and thrive.PRS.SBJV.3SG
+The English translation of this sentence is:`May God bless [it] and make [it] thrive!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Optative meaning is conveyed by the subjunctive (\ref{ex:opt1}), as the stative verbs do.
+A: word: vegna	 gloss: come.PRS.SBJV.3SG
+B: word: banadèschi	 gloss: bless.PRS.SBJV.3SG
+C: word: banadiczjun	 gloss: blessing
+D: word: schèvan	 gloss: let.IMPF.3PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 53:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Djus banadèschi a ___
+Gloss (with missing item): God bless.PRS.SBJV.3SG and ___
+The English translation of this sentence is:`May God bless [it] and make [it] thrive!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Optative meaning is conveyed by the subjunctive (\ref{ex:opt1}), as the stative verbs do.
+A: word: vagi	 gloss: have.PRS.SBJV.3SG
+B: word: carschjanti	 gloss: thrive.PRS.SBJV.3SG
+C: word: davjanti	 gloss: become.PRS.SBJV.3SG
+D: word: «tgé	 gloss: what
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 54:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Jeusas, ___ quaj briṣcha!
+Gloss (with missing item): EXCL ___ DEM.UNM burn.PRS.3SG
+The English translation of this sentence is:`Jee, how it burns!'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Exclamative sentences are formed with the interrogative pronouns the morpheme ___ `its gloss ___' (\ref{ex:exclcu}) or tgéj `what' (\ref{ex:excltgej}).
+A: word: dòrma	 gloss: sleep.IMP.2SG
+B: word: dacù	 gloss: how
+C: word: via	 gloss: way
+D: word: cù	 gloss: how
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 55:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Míu frá ṣchèva aun ér: ___ té pùs!»
+Gloss (with missing item): POSS.1SG.M.SG brother say.IMPF.3SG still yesterday ___ 2SG can.PRS.2SG
+The English translation of this sentence is:`My brother said not later than yesterday: «[Incredible that you still] have the strength [to do that]!»'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Exclamative sentences are formed with the interrogative pronouns cù `how' (\ref{ex:exclcu}) or tgéj `its gloss ___' (\ref{ex:excltgej}).
+A: word: partgé	 gloss: because
+B: word: «tgé	 gloss: what
+C: word: zatgé	 gloss: something
+D: word: sapartgiraj	 gloss: REFL.beware.IMP.2PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 56:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] a ___ è bitga sa-fatg ajn zatgé spazjal.
+Gloss (with missing item): … and ___ also NEG REFL-do.PTCP.UNM in something special.M.SG
+The English translation of this sentence is:`[...] and I wouldn’t have noticed anything either.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In Tuatschin, \isi{reflexive voice} is formed with the prefix sa- in all finite and non-\isi{finite categories}. The Sursilvan norm stipulates that the \isi{auxiliary verb} be \isi{èssar} `be', and in the corpus it is mostly so (\ref{ex:refessar1} and \ref{ex:refessar2}); however, vaj `have' is not rare (\ref{ex:refvaj1}--\ref{ex:refvaj3}).\footnote{According to the \DRG{1}{568}, the choice of esser as \isi{auxiliary verb} for reflexives in Sursilvan is due to the demand of Sursilvan grammarians since the 18th century. Nowadays speakers seek to conform to this claim, but in spoken Sursilvan, one still can find haver as \isi{auxiliary} for \isi{reflexive verbs}, as is the case in Tuatschin.}
+A: word: vès	 gloss: have.COND.3SG
+B: word: èra	 gloss: be.IMPF.3SG
+C: word: vèṣ	 gloss: have.COND.1SG
+D: word: baghètg	 gloss: building
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 57:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] a vèṣ è bitga ___ ajn zatgé spazjal.
+Gloss (with missing item): … and have.COND.1SG also NEG ___ in something special.M.SG
+The English translation of this sentence is:`[...] and I wouldn’t have noticed anything either.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In Tuatschin, \isi{reflexive voice} is formed with the prefix sa- in all finite and non-\isi{finite categories}. The Sursilvan norm stipulates that the \isi{auxiliary verb} be \isi{èssar} `be', and in the corpus it is mostly so (\ref{ex:refessar1} and \ref{ex:refessar2}); however, vaj `have' is not rare (\ref{ex:refvaj1}--\ref{ex:refvaj3}).\footnote{According to the \DRG{1}{568}, the choice of esser as \isi{auxiliary verb} for reflexives in Sursilvan is due to the demand of Sursilvan grammarians since the 18th century. Nowadays speakers seek to conform to this claim, but in spoken Sursilvan, one still can find haver as \isi{auxiliary} for \isi{reflexive verbs}, as is the case in Tuatschin.}
+A: word: sa-fatg	 gloss: REFL-do.PTCP.UNM
+B: word: safatg	 gloss: REFL.do.PTCP.UNM
+C: word: fatg	 gloss: make.PTCP.UNM
+D: word: tgi	 gloss: COMP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 58:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] a vèṣ è bitga sa-fatg ___ zatgé spazjal.
+Gloss (with missing item): … and have.COND.1SG also NEG REFL-do.PTCP.UNM ___ something special.M.SG
+The English translation of this sentence is:`[...] and I wouldn’t have noticed anything either.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In Tuatschits gloss ___, \isi{reflexive voice} is formed with the prefix sa- its gloss ___ all fits gloss ___ite and non-\isi{fits gloss ___ite categories}. The Sursilvan norm stipulates that the \isi{auxiliary verb} be \isi{èssar} `be', and its gloss ___ the corpus it is mostly so (\ref{ex:refessar1} and \ref{ex:refessar2}); however, vaj `have' is not rare (\ref{ex:refvaj1}--\ref{ex:refvaj3}).\footnote{Accordits gloss ___g to the \DRG{1}{568}, the choice of esser as \isi{auxiliary verb} for reflexives its gloss ___ Sursilvan is due to the demand of Sursilvan grammarians sits gloss ___ce the 18th century. Nowadays speakers seek to conform to this claim, but its gloss ___ spoken Sursilvan, one still can fits gloss ___d haver as \isi{auxiliary} for \isi{reflexive verbs}, as is the case its gloss ___ Tuatschits gloss ___.}
+A: word: cun	 gloss: with
+B: word: bétg	 gloss: NEG
+C: word: vòluntárjamajn	 gloss: voluntary.ADV
+D: word: ajn	 gloss: in
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 59:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Als fildiròms ___ sa-pagljau ajnt.
+Gloss (with missing item): DEF.M.PL wire.PL ___ REFL-touch.PTCP.UNM in
+The English translation of this sentence is:`The wires touched each other.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In Tuatschin, \isi{reflexive voice} is formed with the prefix sa- in all finite and non-\isi{finite categories}. The Sursilvan norm stipulates that the \isi{auxiliary verb} be \isi{èssar} `be', and in the corpus it is mostly so (\ref{ex:refessar1} and \ref{ex:refessar2}); however, vaj `have' is not rare (\ref{ex:refvaj1}--\ref{ex:refvaj3}).\footnote{According to the \DRG{1}{568}, the choice of esser as \isi{auxiliary verb} for reflexives in Sursilvan is due to the demand of Sursilvan grammarians since the 18th century. Nowadays speakers seek to conform to this claim, but in spoken Sursilvan, one still can find haver as \isi{auxiliary} for \isi{reflexive verbs}, as is the case in Tuatschin.}
+A: word: òn	 gloss: have.PRS.3PL
+B: word: jamnas	 gloss: week.F.PL
+C: word: fatscha	 gloss: face
+D: word: schòn	 gloss: in_fact
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 60:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Als fildiròms òn ___ ajnt.
+Gloss (with missing item): DEF.M.PL wire.PL have.PRS.3PL ___ in
+The English translation of this sentence is:`The wires touched each other.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In Tuatschin, \isi{reflexive voice} is formed with the prefix sa- in all finite and non-\isi{finite categories}. The Sursilvan norm stipulates that the \isi{auxiliary verb} be \isi{èssar} `be', and in the corpus it is mostly so (\ref{ex:refessar1} and \ref{ex:refessar2}); however, vaj `have' is not rare (\ref{ex:refvaj1}--\ref{ex:refvaj3}).\footnote{According to the \DRG{1}{568}, the choice of esser as \isi{auxiliary verb} for reflexives in Sursilvan is due to the demand of Sursilvan grammarians since the 18th century. Nowadays speakers seek to conform to this claim, but in spoken Sursilvan, one still can find haver as \isi{auxiliary} for \isi{reflexive verbs}, as is the case in Tuatschin.}
+A: word: autra	 gloss: other
+B: word: pagljau	 gloss: hit.PTCP.UNM
+C: word: sa-pagljau	 gloss: REFL-touch.PTCP.UNM
+D: word: sa-fatg	 gloss: REFL-do.PTCP.UNM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 61:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ad èlas duaṣ ábar ancanùsché̱van … ___ l’ autra ad ju lu halt bégja.
+Gloss (with missing item): and 3PL.F two.F.PL but know.IMPF.3PL … ___ DEF.F.SG other and 1SG then in_fact NEG
+The English translation of this sentence is:`But these two already knew … each other but I didn’t.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Reciprocal voice} is formed with in ... l'autar / ina ... l'autra `the one ... the other' (\ref{ex:recip1} and \ref{ex:recip2}).
+A: word: nòva	 gloss: new.F.SG
+B: word: in’	 gloss: one.F.SG
+C: word: adin’	 gloss: always
+D: word: sa-pagljau	 gloss: REFL-touch.PTCP.UNM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 62:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ad èlas duaṣ ábar ancanùsché̱van … in’ ___ autra ad ju lu halt bégja.
+Gloss (with missing item): and 3PL.F two.F.PL but know.IMPF.3PL … one.F.SG ___ other and 1SG then in_fact NEG
+The English translation of this sentence is:`But these two already knew … each other but I didn’t.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Reciprocal voice} is formed with in ... l'autar / ina ... l'autra `the one ... the other' (\ref{ex:recip1} and \ref{ex:recip2}).
+A: word: najv	 gloss: snow.F.SG
+B: word: l’	 gloss: DEF.F.SG
+C: word: ajl’	 gloss: into.DEF.F.SG
+D: word: ála	 gloss: in.DEF.F.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 63:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ad èlas duaṣ ábar ancanùsché̱van … in’ l’ ___ ad ju lu halt bégja.
+Gloss (with missing item): and 3PL.F two.F.PL but know.IMPF.3PL … one.F.SG DEF.F.SG ___ and 1SG then in_fact NEG
+The English translation of this sentence is:`But these two already knew … each other but I didn’t.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Reciprocal voice} is formed with in ... l'autar / ina ... l'the morpheme ___ `the one ... the its gloss ___' (\ref{ex:recip1} and \ref{ex:recip2}).
+A: word: ségi	 gloss: EXIST.PRS.SBJV.3SG
+B: word: vinavaun	 gloss: further
+C: word: tgautschas	 gloss: trousers.PL
+D: word: autra	 gloss: other
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 64:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Nus vajn dau in cùdisch ___ da l' autar.
+Gloss (with missing item): 1PL have.PRS.1PL give.PTCP.UNM INDEF.M.SG book ___ DAT DEF.M.SG other
+The English translation of this sentence is:`We gave each other a book.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Reciprocal voice} is formed with the morpheme ___ ... l'autar / the morpheme ___a ... l'autra `the one ... the other' (\ref{ex:recip1} and \ref{ex:recip2}).
+A: word: ina	 gloss: INDEF.F.SG
+B: word: tiars	 gloss: animal.PL
+C: word: nòs	 gloss: POSS.1PL.M.SG
+D: word: in	 gloss: one.ONE.M
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 65:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Nus vajn dau in cùdisch in ___ l' autar.
+Gloss (with missing item): 1PL have.PRS.1PL give.PTCP.UNM INDEF.M.SG book one.ONE.M ___ DEF.M.SG other
+The English translation of this sentence is:`We gave each other a book.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Reciprocal voice} is formed with in ... l'autar / ina ... l'autra `the one ... the other' (\ref{ex:recip1} and \ref{ex:recip2}).
+A: word: adatgí	 gloss: DAT.some
+B: word: vagnéva	 gloss: PASS.AUX.IMPF.3SG
+C: word: dal	 gloss: of.DEF.M.SG
+D: word: da	 gloss: DAT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 66:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Nus vajn dau in cùdisch in da ___ autar.
+Gloss (with missing item): 1PL have.PRS.1PL give.PTCP.UNM INDEF.M.SG book one.ONE.M DAT ___ other
+The English translation of this sentence is:`We gave each other a book.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Reciprocal voice} is formed with in ... the morpheme ___autar / ina ... the morpheme ___autra `the one ... the other' (\ref{ex:recip1} and \ref{ex:recip2}).
+A: word: quèl	 gloss: DEM.M.SG
+B: word: carschjanti	 gloss: thrive.PRS.SBJV.3SG
+C: word: l'	 gloss: DEF.M.SG
+D: word: dal	 gloss: of.DEF.M.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 67:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ju ___ fá al cusunz in pèr tgautschas pr̩ èl.
+Gloss (with missing item): 1SG ___ do.INF DEF.M.SG tailor INDEF.M.SG pair trousers.M.PL for 3SG.M
+The English translation of this sentence is:`I have the tailor make a pair of trousers for him.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Causative voice} is formed with \isi{fá} ‘make’ (\ref{ex:causfa1}--\ref{ex:causfa4}) and \textit{\isi{schè}/schá}\footnote{Schá is the \ili{Standard Sursilvan} form.} `have something done, let' (\ref{ex:causscha1} and \ref{ex:causscha2}) followed by an \isi{infinitive}. The causee follows the second \isi{verb} and occurs as a \isi{direct object}, which is shown by the use of the \isi{direct object pronoun} mè (vs da mé for the \isi{indirect object}) in (\ref{ex:causfa5}). Examples (\ref{ex:causfa4}) and (\ref{ex:causfa5}) furthermore show that their construction involves two direct objects.
+A: word: sa-pagljau	 gloss: REFL-touch.PTCP.UNM
+B: word: prènd	 gloss: take.PRS.1SG
+C: word: fétsch	 gloss: make.PRS.1SG
+D: word: détsch	 gloss: say.PRS.1SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 68:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ju fétsch ___ al cusunz in pèr tgautschas pr̩ èl.
+Gloss (with missing item): 1SG make.PRS.1SG ___ DEF.M.SG tailor INDEF.M.SG pair trousers.M.PL for 3SG.M
+The English translation of this sentence is:`I have the tailor make a pair of trousers for him.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Causative voice} is formed with \isi{the morpheme ___} ‘make’ (\ref{ex:causfa1}--\ref{ex:causfa4}) and \textit{\isi{schè}/schá}\footnote{Schá is the \ili{Standard Sursilvan} form.} `have something done, let' (\ref{ex:causscha1} and \ref{ex:causscha2}) followed by an \isi{infinitive}. The causee follows the second \isi{verb} and occurs as a \isi{direct object}, which is shown by the use of the \isi{direct object pronoun} mè (vs da mé for the \isi{indirect object}) in (\ref{ex:causfa5}). Examples (\ref{ex:causfa4}) and (\ref{ex:causfa5}) furthermore show that their construction involves two direct objects.
+A: word: schau	 gloss: let.PTCP.UNM
+B: word: fátg	 gloss: do.PTCP.UNM
+C: word: fá	 gloss: do.INF
+D: word: líbar	 gloss: free.ADJ.UNM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 69:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): I ___ luvrá fétg.
+Gloss (with missing item): 3PL ___ work.INF much
+The English translation of this sentence is:`They had [us] work a lot.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Causative voice} is formed with \isi{fá} ‘make’ (\ref{ex:causfa1}--\ref{ex:causfa4}) and \textit{\isi{schè}/schá}\footnote{Schá is the \ili{Standard Sursilvan} form.} `have something done, let' (\ref{ex:causscha1} and \ref{ex:causscha2}) followed by an \isi{infinitive}. The causee follows the second \isi{verb} and occurs as a \isi{direct object}, which is shown by the use of the \isi{direct object pronoun} mè (vs da mé for the \isi{indirect object}) in (\ref{ex:causfa5}). Examples (\ref{ex:causfa4}) and (\ref{ex:causfa5}) furthermore show that their construction involves two direct objects.
+A: word: ṣchèvan	 gloss: say.IMPF.3PL
+B: word: fagèvan	 gloss: do.IMPF.3PL
+C: word: «té	 gloss: 2SG
+D: word: schèvan	 gloss: let.IMPF.3PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 70:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): I schèvan ___ fétg.
+Gloss (with missing item): 3PL let.IMPF.3PL ___ much
+The English translation of this sentence is:`They had [us] work a lot.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Causative voice} is formed with \isi{fá} ‘make’ (\ref{ex:causfa1}--\ref{ex:causfa4}) and \textit{\isi{schè}/schá}\footnote{Schá is the \ili{Standard Sursilvan} form.} `have something done, let' (\ref{ex:causscha1} and \ref{ex:causscha2}) followed by an \isi{infinitive}. The causee follows the second \isi{verb} and occurs as a \isi{direct object}, which is shown by the use of the \isi{direct object pronoun} mè (vs da mé for the \isi{indirect object}) in (\ref{ex:causfa5}). Examples (\ref{ex:causfa4}) and (\ref{ex:causfa5}) furthermore show that their construction involves two direct objects.
+A: word: luvrá	 gloss: work.INF
+B: word: luvrau	 gloss: work.PTCP.UNM
+C: word: gidá	 gloss: help.INF
+D: word: pri	 gloss: take.PTCP.M.PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 71:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Èl ò ___ savaj la règína quaj.
+Gloss (with missing item): 3SG.M have.PRS.3SG ___ know.INF DEF.F.SG queen DEM
+The English translation of this sentence is:`He let the queen know this.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Causative voice} is formed with \isi{fá} ‘make’ (\ref{ex:causfa1}--\ref{ex:causfa4}) and \textit{\isi{schè}/schá}\footnote{Schá is the \ili{Standard Sursilvan} form.} `have something done, let' (\ref{ex:causscha1} and \ref{ex:causscha2}) followed by an \isi{infinitive}. The causee follows the second \isi{verb} and occurs as a \isi{direct object}, which is shown by the use of the \isi{direct object pronoun} mè (vs da mé for the \isi{indirect object}) in (\ref{ex:causfa5}). Examples (\ref{ex:causfa4}) and (\ref{ex:causfa5}) furthermore show that their construction involves two direct objects.
+A: word: scha	 gloss: then
+B: word: bétg	 gloss: NEG
+C: word: schau	 gloss: let.PTCP.UNM
+D: word: méz	 gloss: put.PTCP.UNM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 72:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Èl ò schau ___ la règína quaj.
+Gloss (with missing item): 3SG.M have.PRS.3SG let.PTCP.UNM ___ DEF.F.SG queen DEM
+The English translation of this sentence is:`He let the queen know this.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Causative voice} is formed with \isi{fá} ‘make’ (\ref{ex:causfa1}--\ref{ex:causfa4}) and \textit{\isi{schè}/schá}\footnote{Schá is the \ili{Standard Sursilvan} form.} `have something done, let' (\ref{ex:causscha1} and \ref{ex:causscha2}) followed by an \isi{infinitive}. The causee follows the second \isi{verb} and occurs as a \isi{direct object}, which is shown by the use of the \isi{direct object pronoun} mè (vs da mé for the \isi{indirect object}) in (\ref{ex:causfa5}). Examples (\ref{ex:causfa4}) and (\ref{ex:causfa5}) furthermore show that their construction involves two direct objects.
+A: word: autra	 gloss: other
+B: word: savaj	 gloss: know.INF
+C: word: lavaj	 gloss: get_up.PTCP.M.PL
+D: word: raquintá	 gloss: tell.INF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 73:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Èl ___ fá mè in pèr tgautschas pr̩ èl.
+Gloss (with missing item): 3SG.M ___ do.INF 1SG.DO INDEF.M.SG pair trousers.M.PL for 3SG.M
+The English translation of this sentence is:`He has me make a pair of trousers for him.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Causative voice} is formed with \isi{fá} ‘make’ (\ref{ex:causfa1}--\ref{ex:causfa4}) and \textit{\isi{schè}/schá}\footnote{Schá is the \ili{Standard Sursilvan} form.} `have something done, let' (\ref{ex:causscha1} and \ref{ex:causscha2}) followed by an \isi{infinitive}. The causee follows the second \isi{verb} and occurs as a \isi{direct object}, which is shown by the use of the \isi{direct object pronoun} mè (vs da mé for the \isi{indirect object}) in (\ref{ex:causfa5}). Examples (\ref{ex:causfa4}) and (\ref{ex:causfa5}) furthermore show that their construction involves two direct objects.
+A: word: savaj	 gloss: know.INF
+B: word: fò	 gloss: make.PRS.3SG
+C: word: tgéj	 gloss: what
+D: word: fòrsa	 gloss: maybe
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 74:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Èl fò ___ mè in pèr tgautschas pr̩ èl.
+Gloss (with missing item): 3SG.M make.PRS.3SG ___ 1SG.DO INDEF.M.SG pair trousers.M.PL for 3SG.M
+The English translation of this sentence is:`He has me make a pair of trousers for him.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Causative voice} is formed with \isi{the morpheme ___} ‘make’ (\ref{ex:causfa1}--\ref{ex:causfa4}) and \textit{\isi{schè}/schá}\footnote{Schá is the \ili{Standard Sursilvan} form.} `have something done, let' (\ref{ex:causscha1} and \ref{ex:causscha2}) followed by an \isi{infinitive}. The causee follows the second \isi{verb} and occurs as a \isi{direct object}, which is shown by the use of the \isi{direct object pronoun} mè (vs da mé for the \isi{indirect object}) in (\ref{ex:causfa5}). Examples (\ref{ex:causfa4}) and (\ref{ex:causfa5}) furthermore show that their construction involves two direct objects.
+A: word: fá	 gloss: do.INF
+B: word: fátg	 gloss: do.PTCP.UNM
+C: word: raquintá	 gloss: tell.INF
+D: word: bigja	 gloss: NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 75:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Èl fò fá ___ in pèr tgautschas pr̩ èl.
+Gloss (with missing item): 3SG.M make.PRS.3SG do.INF ___ INDEF.M.SG pair trousers.M.PL for 3SG.M
+The English translation of this sentence is:`He has me make a pair of trousers for him.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Causative voice} is formed with \isi{fá} ‘make’ (\ref{ex:causfa1}--\ref{ex:causfa4}) and \textit{\isi{schè}/schá}\footnote{Schá is the \ili{Standard Sursilvan} form.} `have something done, let' (\ref{ex:causscha1} and \ref{ex:causscha2}) followed by an \isi{infinitive}. The causee follows the second \isi{verb} and occurs as a \isi{direct object}, which is shown by the use of the \isi{direct object pronoun} the morpheme ___ (vs da mé for the \isi{indirect object}) in (\ref{ex:causfa5}). Examples (\ref{ex:causfa4}) and (\ref{ex:causfa5}) furthermore show that their construction involves two direct objects.
+A: word: mèmja	 gloss: too
+B: word: pr̩tgéj	 gloss: why
+C: word: caplùta	 gloss: chapel
+D: word: mè	 gloss: 1SG.DO
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 76:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ju ___ fá al cusunz in pèr tgautschas pr̩ èl.
+Gloss (with missing item): 1SG ___ do.INF DEF.M.SG tailor INDEF.M.SG pair trousers.M.PL for 3SG.M
+The English translation of this sentence is:`I have the tailor make a pair of trousers for him.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Causative voice} is formed with \isi{fá} ‘make’ (\ref{ex:causfa1}--\ref{ex:causfa4}) and \textit{\isi{schè}/schá}\footnote{Schá is the \ili{Standard Sursilvan} form.} `have something done, let' (\ref{ex:causscha1} and \ref{ex:causscha2}) followed by an \isi{infinitive}. The causee follows the second \isi{verb} and occurs as a \isi{direct object}, which is shown by the use of the \isi{direct object pronoun} mè (vs da mé for the \isi{indirect object}) in (\ref{ex:causfa5}). Examples (\ref{ex:causfa4}) and (\ref{ex:causfa5}) furthermore show that their construction involves two direct objects.
+A: word: détsch	 gloss: say.PRS.1SG
+B: word: prènd	 gloss: take.PRS.1SG
+C: word: fétsch	 gloss: make.PRS.1SG
+D: word: vagní	 gloss: come.PTCP.M.PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 77:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ju fétsch ___ al cusunz in pèr tgautschas pr̩ èl.
+Gloss (with missing item): 1SG make.PRS.1SG ___ DEF.M.SG tailor INDEF.M.SG pair trousers.M.PL for 3SG.M
+The English translation of this sentence is:`I have the tailor make a pair of trousers for him.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Causative voice} is formed with \isi{the morpheme ___} ‘make’ (\ref{ex:causfa1}--\ref{ex:causfa4}) and \textit{\isi{schè}/schá}\footnote{Schá is the \ili{Standard Sursilvan} form.} `have something done, let' (\ref{ex:causscha1} and \ref{ex:causscha2}) followed by an \isi{infinitive}. The causee follows the second \isi{verb} and occurs as a \isi{direct object}, which is shown by the use of the \isi{direct object pronoun} mè (vs da mé for the \isi{indirect object}) in (\ref{ex:causfa5}). Examples (\ref{ex:causfa4}) and (\ref{ex:causfa5}) furthermore show that their construction involves two direct objects.
+A: word: aua	 gloss: water
+B: word: ajn	 gloss: in
+C: word: fá	 gloss: do.INF
+D: word: fátg	 gloss: do.PTCP.UNM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 78:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Èl ___ fá mè in pèr tgautschas pr̩ èl.
+Gloss (with missing item): 3SG.M ___ do.INF 1SG.DO INDEF.M.SG pair trousers.M.PL for 3SG.M
+The English translation of this sentence is:`He has me make a pair of trousers for him.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Causative voice} is formed with \isi{fá} ‘make’ (\ref{ex:causfa1}--\ref{ex:causfa4}) and \textit{\isi{schè}/schá}\footnote{Schá is the \ili{Standard Sursilvan} form.} `have something done, let' (\ref{ex:causscha1} and \ref{ex:causscha2}) followed by an \isi{infinitive}. The causee follows the second \isi{verb} and occurs as a \isi{direct object}, which is shown by the use of the \isi{direct object pronoun} mè (vs da mé for the \isi{indirect object}) in (\ref{ex:causfa5}). Examples (\ref{ex:causfa4}) and (\ref{ex:causfa5}) furthermore show that their construction involves two direct objects.
+A: word: als	 gloss: DEF.M.PL
+B: word: fò	 gloss: make.PRS.3SG
+C: word: fòrsa	 gloss: maybe
+D: word: vajramájn	 gloss: true.F.SG.ADV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 79:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Èl fò ___ mè in pèr tgautschas pr̩ èl.
+Gloss (with missing item): 3SG.M make.PRS.3SG ___ 1SG.DO INDEF.M.SG pair trousers.M.PL for 3SG.M
+The English translation of this sentence is:`He has me make a pair of trousers for him.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Causative voice} is formed with \isi{the morpheme ___} ‘make’ (\ref{ex:causfa1}--\ref{ex:causfa4}) and \textit{\isi{schè}/schá}\footnote{Schá is the \ili{Standard Sursilvan} form.} `have something done, let' (\ref{ex:causscha1} and \ref{ex:causscha2}) followed by an \isi{infinitive}. The causee follows the second \isi{verb} and occurs as a \isi{direct object}, which is shown by the use of the \isi{direct object pronoun} mè (vs da mé for the \isi{indirect object}) in (\ref{ex:causfa5}). Examples (\ref{ex:causfa4}) and (\ref{ex:causfa5}) furthermore show that their construction involves two direct objects.
+A: word: najv	 gloss: snow.F.SG
+B: word: fá	 gloss: do.INF
+C: word: fátg	 gloss: do.PTCP.UNM
+D: word: vès	 gloss: have.COND.3SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 80:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Èl fò fá ___ in pèr tgautschas pr̩ èl.
+Gloss (with missing item): 3SG.M make.PRS.3SG do.INF ___ INDEF.M.SG pair trousers.M.PL for 3SG.M
+The English translation of this sentence is:`He has me make a pair of trousers for him.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \isi{Causative voice} is formed with \isi{fá} ‘make’ (\ref{ex:causfa1}--\ref{ex:causfa4}) and \textit{\isi{schè}/schá}\footnote{Schá is the \ili{Standard Sursilvan} form.} `have something done, let' (\ref{ex:causscha1} and \ref{ex:causscha2}) followed by an \isi{infinitive}. The causee follows the second \isi{verb} and occurs as a \isi{direct object}, which is shown by the use of the \isi{direct object pronoun} the morpheme ___ (vs da mé for the \isi{indirect object}) in (\ref{ex:causfa5}). Examples (\ref{ex:causfa4}) and (\ref{ex:causfa5}) furthermore show that their construction involves two direct objects.
+A: word: mèmja	 gloss: too
+B: word: mè	 gloss: 1SG.DO
+C: word: mirá	 gloss: look_for.INF
+D: word: avaun	 gloss: before
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 81:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] ___ tiars èn vagní pri òd stával a purtaj navèn.
+Gloss (with missing item): … ___ animal.PL be.PRS.3PL PASS.PTCP.M.PL take.PTCP.M.PL out_of barn and bring.PTCP.M.PL away
+The English translation of this sentence is:`The animals were taken out of the barn and brought away.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A \isi{dynamic passive} is formed with the verb vagní ‘come’ and the participle (\ref{ex:pass.dyn1}--\ref{ex:pass.dyn5}). A \isi{stative passive} is formed with the verb \isièssar `be' and the participle (\ref{ex:pass.stat1}--\ref{ex:pass.stat3}). In both cases the participle agrees with the patient \isi{subject} if it precedes the \isi{passive} construction.
+A: word: aungatáun	 gloss: as_much
+B: word: dals	 gloss: of.DEF.M.PL
+C: word: vajas	 gloss: have.IMP.2PL
+D: word: als	 gloss: DEF.M.PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 82:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] als ___ èn vagní pri òd stával a purtaj navèn.
+Gloss (with missing item): … DEF.M.PL ___ be.PRS.3PL PASS.PTCP.M.PL take.PTCP.M.PL out_of barn and bring.PTCP.M.PL away
+The English translation of this sentence is:`The animals were taken out of the barn and brought away.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A \isi{dynamic passive} is formed with the verb vagní ‘come’ and the participle (\ref{ex:pass.dyn1}--\ref{ex:pass.dyn5}). A \isi{stative passive} is formed with the verb \isièssar `be' and the participle (\ref{ex:pass.stat1}--\ref{ex:pass.stat3}). In both cases the participle agrees with the patient \isi{subject} if it precedes the \isi{passive} construction.
+A: word: tiars-tgèsa	 gloss: animal.PL-house.F.SG
+B: word: asan	 gloss: donkey
+C: word: tiars	 gloss: animal.PL
+D: word: schèvan	 gloss: let.IMPF.3PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 83:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] als tiars èn ___ pri òd stával a purtaj navèn.
+Gloss (with missing item): … DEF.M.PL animal.PL be.PRS.3PL ___ take.PTCP.M.PL out_of barn and bring.PTCP.M.PL away
+The English translation of this sentence is:`The animals were taken out of the barn and brought away.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A \isi{dynamic passive} is formed with the verb the morpheme ___ ‘come’ and the participle (\ref{ex:pass.dyn1}--\ref{ex:pass.dyn5}). A \isi{stative passive} is formed with the verb \isièssar `be' and the participle (\ref{ex:pass.stat1}--\ref{ex:pass.stat3}). In both cases the participle agrees with the patient \isi{subject} if it precedes the \isi{passive} construction.
+A: word: vagní	 gloss: PASS.PTCP.M.PL
+B: word: luvrá	 gloss: work.INF
+C: word: vandètga	 gloss: revenge.F.SG
+D: word: vagnès	 gloss: come.COND.1SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 84:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] als tiars èn vagní ___ òd stával a purtaj navèn.
+Gloss (with missing item): … DEF.M.PL animal.PL be.PRS.3PL PASS.PTCP.M.PL ___ out_of barn and bring.PTCP.M.PL away
+The English translation of this sentence is:`The animals were taken out of the barn and brought away.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A \isi{dynamic passive} is formed with the verb vagní ‘come’ and the participle (\ref{ex:pass.dyn1}--\ref{ex:pass.dyn5}). A \isi{stative passive} is formed with the verb \isièssar `be' and the participle (\ref{ex:pass.stat1}--\ref{ex:pass.stat3}). In both cases the participle agrees with the patient \isi{subject} if it precedes the \isi{passive} construction.
+A: word: sagir	 gloss: saw
+B: word: pri	 gloss: take.PTCP.M.PL
+C: word: vagní	 gloss: come.PTCP.M.PL
+D: word: saprida	 gloss: REFL.take.PTCP.F.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 85:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] als tiars èn vagní pri òd stával a ___ navèn.
+Gloss (with missing item): … DEF.M.PL animal.PL be.PRS.3PL PASS.PTCP.M.PL take.PTCP.M.PL out_of barn and ___ away
+The English translation of this sentence is:`The animals were taken out of the barn and brought away.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A \isi{dynamic passive} is formed with the verb vagní ‘come’ and the participle (\ref{ex:pass.dyn1}--\ref{ex:pass.dyn5}). A \isi{stative passive} is formed with the verb \isièssar `be' and the participle (\ref{ex:pass.stat1}--\ref{ex:pass.stat3}). In both cases the participle agrees with the patient \isi{subject} if it precedes the \isi{passive} construction.
+A: word: pri	 gloss: take.PTCP.M.PL
+B: word: vajs	 gloss: have.PRS.2SG.POL
+C: word: purtaj	 gloss: bring.PTCP.M.PL
+D: word: purtá	 gloss: bring.INF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 86:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] lu èra quaj … craju, sjat fjastas … tga ___ … fátg parada.
+Gloss (with missing item): … then COP.IMPF.3SG DEM.UNM … believe.PRS.1SG.1SG seven celebration.F.PL … REL ___ … do.PTCP.UNM parade.F.SG
+The English translation of this sentence is:`[...] then there were …, I believe, seven celebrations … when they would … prepare a parade.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A \isi{dynamic passive} is formed with the verb vagní ‘come’ and the participle (\ref{ex:pass.dyn1}--\ref{ex:pass.dyn5}). A \isi{stative passive} is formed with the verb \isièssar `be' and the participle (\ref{ex:pass.stat1}--\ref{ex:pass.stat3}). In both cases the participle agrees with the patient \isi{subject} if it precedes the \isi{passive} construction.
+A: word: quèls	 gloss: DEM.M.PL
+B: word: vagnéva	 gloss: PASS.IMPF.3SG
+C: word: ʦaˈkɔnʣ	 gloss: some.M.PL
+D: word: vagnévan	 gloss: come.IMPF.1PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 87:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] lu èra quaj … craju, sjat fjastas … tga vagnéva … ___ parada.
+Gloss (with missing item): … then COP.IMPF.3SG DEM.UNM … believe.PRS.1SG.1SG seven celebration.F.PL … REL PASS.IMPF.3SG … ___ parade.F.SG
+The English translation of this sentence is:`[...] then there were …, I believe, seven celebrations … when they would … prepare a parade.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A \isi{dynamic passive} is formed with the verb vagní ‘come’ and the participle (\ref{ex:pass.dyn1}--\ref{ex:pass.dyn5}). A \isi{stative passive} is formed with the verb \isièssar `be' and the participle (\ref{ex:pass.stat1}--\ref{ex:pass.stat3}). In both cases the participle agrees with the patient \isi{subject} if it precedes the \isi{passive} construction.
+A: word: dantaun	 gloss: however
+B: word: pudju	 gloss: can.PTCP.UNM
+C: word: piartg	 gloss: pig
+D: word: fátg	 gloss: do.PTCP.UNM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 88:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): A qu' ___ schòn dau bjè najv ad èran bigj’ aun vagní vidò culs tiars.
+Gloss (with missing item): and DEM.UNM ___ already give.PTCP.UNM much snow.F.SG and be.IMPF.3PL NEG yet come.PTCP.M.PL down with.DEF.M.PL animal.PL
+The English translation of this sentence is:`And there was already a lot of snow and they hadn’t come back down with the animals yet.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A \isi{dynamic passive} is formed with the verb vagní ‘come’ and the participle (\ref{ex:pass.dyn1}--\ref{ex:pass.dyn5}). A \isi{stative passive} is formed with the verb \isièssar `be' and the participle (\ref{ex:pass.stat1}--\ref{ex:pass.stat3}). In both cases the participle agrees with the patient \isi{subject} if it precedes the \isi{passive} construction.
+A: word: èra	 gloss: PASS.IMPF.3SG
+B: word: dian	 gloss: say.PRS.3PL
+C: word: lajn	 gloss: let.PRS.3PL
+D: word: sèra	 gloss: evening.F.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 89:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): A qu' èra schòn ___ bjè najv ad èran bigj’ aun vagní vidò culs tiars.
+Gloss (with missing item): and DEM.UNM PASS.IMPF.3SG already ___ much snow.F.SG and be.IMPF.3PL NEG yet come.PTCP.M.PL down with.DEF.M.PL animal.PL
+The English translation of this sentence is:`And there was already a lot of snow and they hadn’t come back down with the animals yet.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A \isi{dynamic passive} is formed with the verb vagní ‘come’ and the participle (\ref{ex:pass.dyn1}--\ref{ex:pass.dyn5}). A \isi{stative passive} is formed with the verb \isièssar `be' and the participle (\ref{ex:pass.stat1}--\ref{ex:pass.stat3}). In both cases the participle agrees with the patient \isi{subject} if it precedes the \isi{passive} construction.
+A: word: dumandau	 gloss: ask.PTCP.UNM
+B: word: vida	 gloss: at_of
+C: word: dau	 gloss: give.PTCP.UNM
+D: word: sagir	 gloss: saw
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 90:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): A qu' èra schòn dau bjè ___ ad èran bigj’ aun vagní vidò culs tiars.
+Gloss (with missing item): and DEM.UNM PASS.IMPF.3SG already give.PTCP.UNM much ___ and be.IMPF.3PL NEG yet come.PTCP.M.PL down with.DEF.M.PL animal.PL
+The English translation of this sentence is:`And there was already a lot of snow and they hadn’t come back down with the animals yet.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A \isi{dynamic passive} is formed with the verb vagní ‘come’ and the participle (\ref{ex:pass.dyn1}--\ref{ex:pass.dyn5}). A \isi{stative passive} is formed with the verb \isièssar `be' and the participle (\ref{ex:pass.stat1}--\ref{ex:pass.stat3}). In both cases the participle agrees with the patient \isi{subject} if it precedes the \isi{passive} construction.
+A: word: còj	 gloss: cook.INF
+B: word: cumissunaj	 gloss: commission.PTCP.M.PL
+C: word: unviarn	 gloss: winter.M.SG
+D: word: najv	 gloss: snow.F.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 91:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] quèls mulissiars, quèls ah fagèvan lu quasi las préfatschèntas, né, né tg’ èran ... cumissunaj ___ quèls ah martgadònts grònṣ da la bassa, né.
+Gloss (with missing item): … DEM.M.PL negotiator.PL DEM.M.PL eh do.IMPF.3PL then so_to_speak DEF.F.PL intermediate_trade.PL right or COMP PASS.IMPF.3PL … commission.PTCP.M.PL ___ DEM.M.PL eh businessman.PL big.PL of DEF.F.SG «lowlands» right
+The English translation of this sentence is:`[...] These negotiators, they would so to speak do the intermediate trade, or they were ... commissioned by the big businessmen from outside the Grisons, right?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If the \isi{agent} of a \isi{passive} construction is mentioned, it is introduced by the morpheme ___ (\ref{ex:pass.dyn7} and \ref{ex:pass.dyn8}). Whether the morpheme ___ corresponds to the preposition or to the \isi{the morpheme ___tive marker} is not easy to decide. The only case where there is a difference between the two the morpheme ___'s is the \isi{first person singular object pronoun}, which is either mè (accusative and after prepositions) or mé (\isi{the morpheme ___tive marker}). As noted in \sectref{sec:3.5}, some speakers prefer using the \isi{pronoun} mé (the morpheme ___tive), whereas others use mè (accusative) in order to introduce the \isi{agent} of a \isi{passive} construction.
+A: word: da	 gloss: DAT
+B: word: tgéj	 gloss: what
+C: word: dal	 gloss: of.DEF.M.SG
+D: word: adatgí	 gloss: DAT.some
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 92:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] quèls mulissiars, quèls ah fagèvan lu quasi las préfatschèntas, né, né tg’ èran ... cumissunaj da ___ ah martgadònts grònṣ da la bassa, né.
+Gloss (with missing item): … DEM.M.PL negotiator.PL DEM.M.PL eh do.IMPF.3PL then so_to_speak DEF.F.PL intermediate_trade.PL right or COMP PASS.IMPF.3PL … commission.PTCP.M.PL DAT ___ eh businessman.PL big.PL of DEF.F.SG «lowlands» right
+The English translation of this sentence is:`[...] These negotiators, they would so to speak do the intermediate trade, or they were ... commissioned by the big businessmen from outside the Grisons, right?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If the \isi{agent} of a \isi{passive} construction is mentioned, it is introduced by da (\ref{ex:pass.dyn7} and \ref{ex:pass.dyn8}). Whether da corresponds to the preposition or to the \isi{dative marker} is not easy to decide. The only case where there is a difference between the two da's is the \isi{first person singular object pronoun}, which is either mè (accusative and after prepositions) or mé (\isi{dative marker}). As noted in \sectref{sec:3.5}, some speakers prefer using the \isi{pronoun} mé (dative), whereas others use mè (accusative) in order to introduce the \isi{agent} of a \isi{passive} construction.
+A: word: quèlas	 gloss: DEM.F.PL
+B: word: quèl	 gloss: DEM.M.SG
+C: word: quèls	 gloss: DEM.M.PL
+D: word: vagní	 gloss: come.PTCP.M.PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 93:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): [...] quèls mulissiars, quèls ah fagèvan lu quasi las préfatschèntas, né, né tg’ èran ... cumissunaj da quèls ah ___ grònṣ da la bassa, né.
+Gloss (with missing item): … DEM.M.PL negotiator.PL DEM.M.PL eh do.IMPF.3PL then so_to_speak DEF.F.PL intermediate_trade.PL right or COMP PASS.IMPF.3PL … commission.PTCP.M.PL DAT DEM.M.PL eh ___ big.PL of DEF.F.SG «lowlands» right
+The English translation of this sentence is:`[...] These negotiators, they would so to speak do the intermediate trade, or they were ... commissioned by the big businessmen from outside the Grisons, right?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If the \isi{agent} of a \isi{passive} construction is mentioned, it is introduced by da (\ref{ex:pass.dyn7} and \ref{ex:pass.dyn8}). Whether da corresponds to the preposition or to the \isi{dative marker} is not easy to decide. The only case where there is a difference between the two da's is the \isi{first person singular object pronoun}, which is either mè (accusative and after prepositions) or mé (\isi{dative marker}). As noted in \sectref{sec:3.5}, some speakers prefer using the \isi{pronoun} mé (dative), whereas others use mè (accusative) in order to introduce the \isi{agent} of a \isi{passive} construction.
+A: word: ùmans	 gloss: man.PL
+B: word: martgau	 gloss: city
+C: word: martgadònts	 gloss: businessman.PL
+D: word: najv	 gloss: snow.F.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 94:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Al baghètg è vagnuṣ bagagjauṣ ___ mju auc.
+Gloss (with missing item): DEF.M.SG building be.PRS.3SG PASS.PTCP.M.SG build.PTCP.M.SG ___ POSS.1SG.M.SG uncle
+The English translation of this sentence is:`The building has been built by my uncle.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If the \isi{agent} of a \isi{passive} construction is mentioned, it is introduced by the morpheme ___ (\ref{ex:pass.dyn7} and \ref{ex:pass.dyn8}). Whether the morpheme ___ corresponds to the preposition or to the \isi{the morpheme ___tive marker} is not easy to decide. The only case where there is a difference between the two the morpheme ___'s is the \isi{first person singular object pronoun}, which is either mè (accusative and after prepositions) or mé (\isi{the morpheme ___tive marker}). As noted in \sectref{sec:3.5}, some speakers prefer using the \isi{pronoun} mé (the morpheme ___tive), whereas others use mè (accusative) in order to introduce the \isi{agent} of a \isi{passive} construction.
+A: word: da	 gloss: DAT
+B: word: dal	 gloss: of.DEF.M.SG
+C: word: adatgí	 gloss: DAT.some
+D: word: danùndar	 gloss: where_from
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 95:
+You are a linguist specializing in Kalamang. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Al baghètg è vagnuṣ bagagjauṣ da ___ auc.
+Gloss (with missing item): DEF.M.SG building be.PRS.3SG PASS.PTCP.M.SG build.PTCP.M.SG DAT ___ uncle
+The English translation of this sentence is:`The building has been built by my uncle.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: If the \isi{agent} of a \isi{passive} construction is mentioned, it is introduced by da (\ref{ex:pass.dyn7} and \ref{ex:pass.dyn8}). Whether da corresponds to the preposition or to the \isi{dative marker} is not easy to decide. The only case where there is a difference between the two da's is the \isi{first person singular object pronoun}, which is either mè (accusative and after prepositions) or mé (\isi{dative marker}). As noted in \sectref{sec:3.5}, some speakers prefer using the \isi{pronoun} mé (dative), whereas others use mè (accusative) in order to introduce the \isi{agent} of a \isi{passive} construction.
+A: word: mju	 gloss: POSS.1SG.M.SG
+B: word: pudju	 gloss: can.PTCP.UNM
+C: word: tgavrè	 gloss: goatherd
+D: word: mia	 gloss: POSS.1SG.F.SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
