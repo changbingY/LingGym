@@ -1,0 +1,52 @@
+Question 0:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ko te ___ kora\ꞌiti iŋa \ꞌā te vai.
+Gloss (with missing item): PROM ART ___ slowly NMLZ IDENT ART water
+The English translation of this sentence is:‘The water went slowly down.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another issue concerns word boundaries: should the causative marker haka be connected to the root (hakaoho ‘to cause to go’) or be treated as a separate word (haka~oho)? The same question applies to nominalisers like iŋa: vānaŋaiŋa or vānaŋa iŋa ‘speaking’? In most Polynesian languages, these elements are connected to the root, but in the PLRN orthography of Rapa Nui, they are written as separate words.\footnote{\label{fn:22}This not only serves to avoid long words like hakamāramarama ‘to cause to be intelligent’ but also prevents potential spacing conflicts: both haka and iŋa may be separated from the root by certain particles or adverbs (see \REF{ex:3.52} on p.~\pageref{ex:3.52}; \REF{ex:7.99} on p.~\pageref{ex:7.99}).}
+A: word: eke	 gloss: go_up
+B: word: iŋa	 gloss: NMLZ
+C: word: uru	 gloss: enter
+D: word: turu	 gloss: go_down
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 1:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ko te turu kora\ꞌiti ___ \ꞌā te vai.
+Gloss (with missing item): PROM ART go_down slowly ___ IDENT ART water
+The English translation of this sentence is:‘The water went slowly down.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another issue concerns word boundaries: should the causative marker haka be connected to the root (hakaoho ‘to cause to go’) or be treated as a separate word (haka~oho)? The same question applies to nominalisers like the morpheme ___: vānaŋathe morpheme ___ or vānaŋa the morpheme ___ ‘speaking’? In most Polynesian languages, these elements are connected to the root, but in the PLRN orthography of Rapa Nui, they are written as separate words.\footnote{\label{fn:22}This not only serves to avoid long words like hakamāramarama ‘to cause to be intelligent’ but also prevents potential spacing conflicts: both haka and the morpheme ___ may be separated from the root by certain particles or adverbs (see \REF{ex:3.52} on p.~\pageref{ex:3.52}; \REF{ex:7.99} on p.~\pageref{ex:7.99}).}
+A: word: kāiŋa	 gloss: homeland
+B: word: turu	 gloss: go_down
+C: word: iŋa	 gloss: NMLZ
+D: word: nohoŋa	 gloss: stay:NMLZ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 2:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ...te tire e haŋa rō \ꞌā mo ___ \ꞌata māramarama i a rāua.
+Gloss (with missing item): ~~~ART Chilean IPFV want EMPH CONT for ___ more intelligent ACC PROP 3PL
+The English translation of this sentence is:‘...Chileans who want to pass themself off as smarter (lit. to cause them to be smarter).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another issue concerns word boundaries: should the causative marker the morpheme ___ be connected to the root (the morpheme ___oho ‘to cause to go’) or be treated as a separate word (the morpheme ___~oho)? The same question applies to nominalisers like iŋa: vānaŋaiŋa or vānaŋa iŋa ‘speaking’? In most Polynesian languages, these elements are connected to the root, but in the PLRN orthography of Rapa Nui, they are written as separate words.\footnote{\label{fn:22}This not only serves to avoid long words like the morpheme ___māramarama ‘to cause to be intelligent’ but also prevents potential spacing conflicts: both the morpheme ___ and iŋa may be separated from the root by certain particles or adverbs (see \REF{ex:3.52} on p.~\pageref{ex:3.52}; \REF{ex:7.99} on p.~\pageref{ex:7.99}).}
+A: word: haka	 gloss: CAUS
+B: word: kava	 gloss: Kava
+C: word: māramarama	 gloss: intelligent
+D: word: hakapupa	 gloss: nest
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 3:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ...te tire e haŋa rō \ꞌā mo haka \ꞌata ___ i a rāua.
+Gloss (with missing item): ~~~ART Chilean IPFV want EMPH CONT for CAUS more ___ ACC PROP 3PL
+The English translation of this sentence is:‘...Chileans who want to pass themself off as smarter (lit. to cause them to be smarter).’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another issue concerns word boundaries: should the causative marker haka be connected to the root (hakaoho ‘to cause to go’) or be treated as a separate word (haka~oho)? The same question applies to nominalisers like iŋa: vānaŋaiŋa or vānaŋa iŋa ‘speaking’? In most Polynesian languages, these elements are connected to the root, but in the PLRN orthography of Rapa Nui, they are written as separate words.\footnote{\label{fn:22}This not only serves to avoid long words like hakathe morpheme ___ ‘to cause to be its gloss ___’ but also prevents potential spacing conflicts: both haka and iŋa may be separated from the root by certain particles or adverbs (see \REF{ex:3.52} on p.~\pageref{ex:3.52}; \REF{ex:7.99} on p.~\pageref{ex:7.99}).}
+A: word: turu	 gloss: go_down
+B: word: científico	 gloss: scientist
+C: word: māramarama	 gloss: intelligent
+D: word: marama	 gloss: month
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+

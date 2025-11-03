@@ -1,0 +1,936 @@
+Question 0:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ko Koka te \ꞌīŋoa o tō\ꞌona hoi... ko Parasa ___ te rū\ꞌau era \ꞌā\ꞌana.
+Gloss (with missing item): PROM Koka ART name of POSS.3SG.O horse PROM Parasa ___ ART old_woman DIST POSS.3SG.A
+The English translation of this sentence is:‘Koka was the name of his horse, Parasa the (name) of his old wife.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Possessive noun phrases also appear in headless\is{Noun phrase!headless} noun phrases\is{Noun phrase!headless}, in which case o/\textit{{\ꞌ}a} coalesces with the determiner the morpheme ___ the morpheme ___/ta (examples (\ref{ex:5.102}–\ref{ex:5.103}) in \sectref{sec:5.6}).
+A: word: noho	 gloss: stay
+B: word: rivuho	 gloss: drawing
+C: word: to	 gloss: ART:of
+D: word: mātou	 gloss: 1PL.EXCL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 1:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ko Koka te \ꞌīŋoa o tō\ꞌona hoi... ko Parasa to ___ rū\ꞌau era \ꞌā\ꞌana.
+Gloss (with missing item): PROM Koka ART name of POSS.3SG.O horse PROM Parasa ART:of ___ old_woman DIST POSS.3SG.A
+The English translation of this sentence is:‘Koka was the name of his horse, Parasa the (name) of his old wife.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Possessive noun phrases also appear in headless\is{Noun phrase!headless} noun phrases\is{Noun phrase!headless}, in which case o/\the morpheme ___xtit{{\ꞌ}a} coalesces with the dethe morpheme ___rminer to to/ta (examples (\ref{ex:5.102}–\ref{ex:5.103}) in \sectref{sec:5.6}).
+A: word: tanu	 gloss: bury
+B: word: te	 gloss: ART
+C: word: ataraŋa	 gloss: Ataranga
+D: word: mate	 gloss: die
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 2:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ¿Ko ai te \ꞌīŋoa o te taŋata? ___ te vi\ꞌe?
+Gloss (with missing item): ~PROM who ART name of ART name ___ ART woman
+The English translation of this sentence is:‘What is the man’s name? And the woman’s?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Possessive noun phrases also appear in headless\is{Noun phrase!headless} noun phrases\is{Noun phrase!headless}, in which case o/\textit{{\ꞌ}a} coalesces with the determiner to to/ta (examples (\ref{ex:5.102}–\ref{ex:5.103}) in \sectref{sec:5.6}).
+A: word: mātou	 gloss: 1PL.EXCL
+B: word: ¿to	 gloss: ART:of
+C: word: pure	 gloss: pray
+D: word: rivuho	 gloss: drawing
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 3:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ¿Ko ai te \ꞌīŋoa o te taŋata? ¿To ___ vi\ꞌe?
+Gloss (with missing item): ~PROM who ART name of ART name ART:of ___ woman
+The English translation of this sentence is:‘What is the man’s name? And the woman’s?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Possessive noun phrases also appear in headless\is{Noun phrase!headless} noun phrases\is{Noun phrase!headless}, in which case o/\the morpheme ___xtit{{\ꞌ}a} coalesces with the dethe morpheme ___rminer to to/ta (examples (\ref{ex:5.102}–\ref{ex:5.103}) in \sectref{sec:5.6}).
+A: word: mate	 gloss: die
+B: word: te	 gloss: ART
+C: word: riro	 gloss: become
+D: word: rua	 gloss: two
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 4:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): He hiŋa \ꞌi tū kori haŋa rahi era ___ rāua he haka nininini \ꞌi ruŋa o te ma\ꞌuŋa.
+Gloss (with missing item): NTR fall at DEM play love much DIST ___ 3PL PRED CAUS spin:RED at above of ART mountain
+The English translation of this sentence is:‘He fell during that much-loved game of theirs, (which was) sliding down the hill.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: After the nthe morpheme ___un, these prthe morpheme ___nthe morpheme ___uns dthe morpheme ___ have the the morpheme ___, as illustrated in \REF{ex:6.12} belthe morpheme ___w.
+A: word: ruŋa	 gloss: above
+B: word: o	 gloss: of
+C: word: hiero	 gloss: Hiero
+D: word: haho	 gloss: outside
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 5:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): He hiŋa \ꞌi tū kori haŋa rahi era o ___ he haka nininini \ꞌi ruŋa o te ma\ꞌuŋa.
+Gloss (with missing item): NTR fall at DEM play love much DIST of ___ PRED CAUS spin:RED at above of ART mountain
+The English translation of this sentence is:‘He fell during that much-loved game of theirs, (which was) sliding down the hill.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: After the noun, these pronouns do have the o, as illustrated in \REF{ex:6.12} below.
+A: word: rāua	 gloss: 3PL
+B: word: noho	 gloss: stay
+C: word: māua	 gloss: 1DU.EXCL
+D: word: kōrua	 gloss: 2PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 6:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ko te vaka tama\ꞌi era ___ te \ꞌariki
+Gloss (with missing item): PROM ART canoe fight DIST ___ ART king
+The English translation of this sentence is:‘the battle canoe of the king’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Finally, pthe morpheme ___ssessive prthe morpheme ___nthe morpheme ___uns\is{Prthe morpheme ___nthe morpheme ___un!pthe morpheme ___ssessive} may the morpheme ___ccur at the end the morpheme ___f the nthe morpheme ___un phrase, in the same pthe morpheme ___sitithe morpheme ___n as pthe morpheme ___ssessive nthe morpheme ___un phrases (see (\ref{ex:6.1}–\ref{ex:6.3}) abthe morpheme ___ve). In this pthe morpheme ___sitithe morpheme ___n, Ø-pthe morpheme ___ssessives\is{Prthe morpheme ___nthe morpheme ___un!pthe morpheme ___ssessive!Ø-class} are used:
+A: word: haho	 gloss: outside
+B: word: hāŋai	 gloss: feed
+C: word: o	 gloss: of
+D: word: ruŋa	 gloss: above
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 7:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ko te vaka tama\ꞌi era o ___ \ꞌariki
+Gloss (with missing item): PROM ART canoe fight DIST of ___ king
+The English translation of this sentence is:‘the battle canoe of the king’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Finally, possessive pronouns\is{Pronoun!possessive} may occur at the end of the noun phrase, in the same position as possessive noun phrases (see (\ref{ex:6.1}–\ref{ex:6.3}) above). In this position, Ø-possessives\is{Pronoun!possessive!Ø-class} are used:
+A: word: ivi	 gloss: bone
+B: word: mate	 gloss: die
+C: word: te	 gloss: ART
+D: word: kona	 gloss: place
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 8:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mai tū \ꞌōpata nei \ꞌā ___ te karikari
+Gloss (with missing item): from DEM cliff PROX IDENT ___ ART narrow_part
+The English translation of this sentence is:‘from this same cliff of the narrow rock’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Finally, pthe morpheme ___ssessive prthe morpheme ___nthe morpheme ___uns\is{Prthe morpheme ___nthe morpheme ___un!pthe morpheme ___ssessive} may the morpheme ___ccur at the end the morpheme ___f the nthe morpheme ___un phrase, in the same pthe morpheme ___sitithe morpheme ___n as pthe morpheme ___ssessive nthe morpheme ___un phrases (see (\ref{ex:6.1}–\ref{ex:6.3}) abthe morpheme ___ve). In this pthe morpheme ___sitithe morpheme ___n, Ø-pthe morpheme ___ssessives\is{Prthe morpheme ___nthe morpheme ___un!pthe morpheme ___ssessive!Ø-class} are used:
+A: word: haho	 gloss: outside
+B: word: o	 gloss: of
+C: word: karikari	 gloss: narrow_part
+D: word: kave	 gloss: Kave
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 9:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mai tū \ꞌōpata nei \ꞌā o ___ karikari
+Gloss (with missing item): from DEM cliff PROX IDENT of ___ narrow_part
+The English translation of this sentence is:‘from this same cliff of the narrow rock’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Finally, possessive pronouns\is{Pronoun!possessive} may occur at the end of the noun phrase, in the same position as possessive noun phrases (see (\ref{ex:6.1}–\ref{ex:6.3}) above). In this position, Ø-possessives\is{Pronoun!possessive!Ø-class} are used:
+A: word: karikari	 gloss: narrow_part
+B: word: te	 gloss: ART
+C: word: mate	 gloss: die
+D: word: tiene_que	 gloss: must
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 10:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mai tū \ꞌōpata nei \ꞌā o te ___
+Gloss (with missing item): from DEM cliff PROX IDENT of ART ___
+The English translation of this sentence is:‘from this same cliff of the narrow rock’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Finally, possessive pronouns\is{Pronoun!possessive} may occur at the end of the noun phrase, in the same position as possessive noun phrases (see (\ref{ex:6.1}–\ref{ex:6.3}) above). In this position, Ø-possessives\is{Pronoun!possessive!Ø-class} are used:
+A: word: hakari	 gloss: body
+B: word: ture	 gloss: judgment
+C: word: parehe	 gloss: piece
+D: word: karikari	 gloss: narrow_part
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 11:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ko Koka te \ꞌīŋoa o tō\ꞌona hoi... ko Parasa ___ te rū\ꞌau era \ꞌā\ꞌana.
+Gloss (with missing item): PROM Koka ART name of POSS.3SG.O horse PROM Parasa ___ ART old_woman DIST POSS.3SG.A
+The English translation of this sentence is:‘Koka was the name of the horse he went on, Parasa the (name) of his old wife.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There is an important difference though: while in \REF{ex:6.25} \textit{the morpheme ___ te rū{\ꞌ}au} has a straightforward possessive sense (parallel the morpheme ___ the possessive phrase \textit{o tō{\ꞌ}ona hoi}), in (\ref{ex:6.23}–\ref{ex:6.24}) the possessive phrase occurs in a context where normally the dative preposition ki would be used.
+A: word: mātou	 gloss: 1PL.EXCL
+B: word: hīmene	 gloss: sing
+C: word: to	 gloss: ART:of
+D: word: rivuho	 gloss: drawing
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 12:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ko Koka te \ꞌīŋoa o tō\ꞌona hoi... ko Parasa to ___ rū\ꞌau era \ꞌā\ꞌana.
+Gloss (with missing item): PROM Koka ART name of POSS.3SG.O horse PROM Parasa ART:of ___ old_woman DIST POSS.3SG.A
+The English translation of this sentence is:‘Koka was the name of the horse he went on, Parasa the (name) of his old wife.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There is an important difference though: while in \REF{ex:6.25} \the morpheme ___xtit{to the morpheme ___ rū{\ꞌ}au} has a straightforward possessive sense (parallel to the possessive phrase \the morpheme ___xtit{o tō{\ꞌ}ona hoi}), in (\ref{ex:6.23}–\ref{ex:6.24}) the possessive phrase occurs in a conthe morpheme ___xt where normally the dative preposition ki would be used.
+A: word: mate	 gloss: die
+B: word: te	 gloss: ART
+C: word: koka	 gloss: Koka
+D: word: rote	 gloss: inside_the
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 13:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te taŋata e ai rō \ꞌā tā\ꞌana kai, ka va\ꞌai ___ te taŋata \ꞌina \ꞌā\ꞌana kai.
+Gloss (with missing item): ART man IPFV exist EMPH CONT POSS.3SG.A food IMP give ___ ART man NEG POSS.3SG.A food
+The English translation of this sentence is:‘The man who has food, should give some to the man who does not have food.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There is an important difference though: while in \REF{ex:6.25} \textit{the morpheme ___ te rū{\ꞌ}au} has a straightforward possessive sense (parallel the morpheme ___ the possessive phrase \textit{o tō{\ꞌ}ona hoi}), in (\ref{ex:6.23}–\ref{ex:6.24}) the possessive phrase occurs in a context where normally the dative preposition ki would be used.
+A: word: ¿to	 gloss: ART:of
+B: word: rivuho	 gloss: drawing
+C: word: to	 gloss: ART:of
+D: word: mātou	 gloss: 1PL.EXCL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 14:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te taŋata e ai rō \ꞌā tā\ꞌana kai, ka va\ꞌai to ___ taŋata \ꞌina \ꞌā\ꞌana kai.
+Gloss (with missing item): ART man IPFV exist EMPH CONT POSS.3SG.A food IMP give ART:of ___ man NEG POSS.3SG.A food
+The English translation of this sentence is:‘The man who has food, should give some to the man who does not have food.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There is an important difference though: while in \REF{ex:6.25} \the morpheme ___xtit{to the morpheme ___ rū{\ꞌ}au} has a straightforward possessive sense (parallel to the possessive phrase \the morpheme ___xtit{o tō{\ꞌ}ona hoi}), in (\ref{ex:6.23}–\ref{ex:6.24}) the possessive phrase occurs in a conthe morpheme ___xt where normally the dative preposition ki would be used.
+A: word: piro	 gloss: rotten
+B: word: karikari	 gloss: narrow_part
+C: word: mate	 gloss: die
+D: word: te	 gloss: ART
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 15:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te taŋata e ai rō \ꞌā tā\ꞌana kai, ka va\ꞌai to te ___ \ꞌina \ꞌā\ꞌana kai.
+Gloss (with missing item): ART man IPFV exist EMPH CONT POSS.3SG.A food IMP give ART:of ART ___ NEG POSS.3SG.A food
+The English translation of this sentence is:‘The man who has food, should give some to the man who does not have food.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There is an important difference though: while in \REF{ex:6.25} \textit{to te rū{\ꞌ}au} has a straightforward possessive sense (parallel to the possessive phrase \textit{o tō{\ꞌ}ona hoi}), in (\ref{ex:6.23}–\ref{ex:6.24}) the possessive phrase occurs in a context where normally the dative preposition ki would be used.
+A: word: taŋata	 gloss: man
+B: word: toretore	 gloss: stripe
+C: word: tanu	 gloss: bury
+D: word: taŋata;	 gloss: person
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 16:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te ŋā kai \ꞌāpī ra\ꞌe era... e ma\ꞌu ___ te hare pure \ꞌi ra\ꞌe.
+Gloss (with missing item): ART PL food new first DIST IPFV carry ___ ART house prayer at first
+The English translation of this sentence is:‘The first food... they first had to take some to the church (lit. carry those of the church)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There is an important difference though: while in \REF{ex:6.25} \textit{the morpheme ___ te rū{\ꞌ}au} has a straightforward possessive sense (parallel the morpheme ___ the possessive phrase \textit{o tō{\ꞌ}ona hoi}), in (\ref{ex:6.23}–\ref{ex:6.24}) the possessive phrase occurs in a context where normally the dative preposition ki would be used.
+A: word: mātou	 gloss: 1PL.EXCL
+B: word: to	 gloss: ART:of
+C: word: rivuho	 gloss: drawing
+D: word: kona	 gloss: place
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 17:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te ŋā kai \ꞌāpī ra\ꞌe era... e ma\ꞌu to ___ hare pure \ꞌi ra\ꞌe.
+Gloss (with missing item): ART PL food new first DIST IPFV carry ART:of ___ house prayer at first
+The English translation of this sentence is:‘The first food... they first had to take some to the church (lit. carry those of the church)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There is an important difference though: while in \REF{ex:6.25} \the morpheme ___xtit{to the morpheme ___ rū{\ꞌ}au} has a straightforward possessive sense (parallel to the possessive phrase \the morpheme ___xtit{o tō{\ꞌ}ona hoi}), in (\ref{ex:6.23}–\ref{ex:6.24}) the possessive phrase occurs in a conthe morpheme ___xt where normally the dative preposition ki would be used.
+A: word: kūmara	 gloss: sweet_potato
+B: word: mate	 gloss: die
+C: word: te	 gloss: ART
+D: word: rovi	 gloss: Rovi
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 18:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te ŋā kai \ꞌāpī ra\ꞌe era... e ma\ꞌu to te ___ pure \ꞌi ra\ꞌe.
+Gloss (with missing item): ART PL food new first DIST IPFV carry ART:of ART ___ prayer at first
+The English translation of this sentence is:‘The first food... they first had to take some to the church (lit. carry those of the church)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There is an important difference though: while in \REF{ex:6.25} \textit{to te rū{\ꞌ}au} has a straightforward possessive sense (parallel to the possessive phrase \textit{o tō{\ꞌ}ona hoi}), in (\ref{ex:6.23}–\ref{ex:6.24}) the possessive phrase occurs in a context where normally the dative preposition ki would be used.
+A: word: rāua	 gloss: 3PL
+B: word: hare	 gloss: house
+C: word: tiare	 gloss: flower
+D: word: piha	 gloss: room
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 19:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te ŋā kai \ꞌāpī ra\ꞌe era... e ma\ꞌu to te hare ___ \ꞌi ra\ꞌe.
+Gloss (with missing item): ART PL food new first DIST IPFV carry ART:of ART house ___ at first
+The English translation of this sentence is:‘The first food... they first had to take some to the church (lit. carry those of the church)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There is an important difference though: while in \REF{ex:6.25} \textit{to te rū{\ꞌ}au} has a straightforward possessive sense (parallel to the possessive phrase \textit{o tō{\ꞌ}ona hoi}), in (\ref{ex:6.23}–\ref{ex:6.24}) the possessive phrase occurs in a context where normally the dative preposition ki would be used.
+A: word: rua	 gloss: two
+B: word: —poki	 gloss: ~~~child
+C: word: manurere	 gloss: airplane
+D: word: pure	 gloss: prayer
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 20:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te taŋata e ai rō \ꞌā tā\ꞌana kai, ka va\ꞌai ___ te taŋata \ꞌina \ꞌā\ꞌana kai.
+Gloss (with missing item): ART man IPFV exist EMPH CONT POSS.3SG.A food IMP give ___ ART man NEG POSS.3SG.A food
+The English translation of this sentence is:‘The man who has food, should give some to the man who does not have food.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Semantically, (\ref{ex:6.23}–\ref{ex:6.24}) are similar the morpheme ___ the partitive\is{Partitive} construction discussed above. In both cases, the noun phrase refers the morpheme ___ something which is destined for the person referred the morpheme ___; moreover, the sense is partitive\is{Partitive}: ‘some of the food, some of the clothes’. Also, in both cases the the morpheme ___{}-phrase is independent: there is no head noun the morpheme ___ which it is attached. The difference is that in the partitive\is{Partitive} construction in (\ref{ex:6.16}–\ref{ex:6.18}) above the possessee is expressed by a genitive phrase o te kahu which is semantically the head of the phrase (the noun phrase as a whole refers the morpheme ___ ‘clothes’, not the morpheme ___ ‘Vaha’), while in (\ref{ex:6.23}–\ref{ex:6.24}) it is not expressed at all.
+A: word: to	 gloss: ART:of
+B: word: karikari	 gloss: narrow_part
+C: word: rivuho	 gloss: drawing
+D: word: mātou	 gloss: 1PL.EXCL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 21:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te taŋata e ai rō \ꞌā tā\ꞌana kai, ka va\ꞌai to ___ taŋata \ꞌina \ꞌā\ꞌana kai.
+Gloss (with missing item): ART man IPFV exist EMPH CONT POSS.3SG.A food IMP give ART:of ___ man NEG POSS.3SG.A food
+The English translation of this sentence is:‘The man who has food, should give some to the man who does not have food.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Semantically, (\ref{ex:6.23}–\ref{ex:6.24}) are similar to the partitive\is{Partitive} construction discussed above. In both cases, the noun phrase refers to something which is destined for the person referred to; moreover, the sense is partitive\is{Partitive}: ‘some of the food, some of the clothes’. Also, in both cases the to{}-phrase is independent: there is no head noun to which it is attached. The difference is that in the partitive\is{Partitive} construction in (\ref{ex:6.16}–\ref{ex:6.18}) above the possessee is expressed by a genitive phrase o the morpheme ___ kahu which is semantically the head of the phrase (the noun phrase as a whole refers to ‘clothes’, not to ‘Vaha’), while in (\ref{ex:6.23}–\ref{ex:6.24}) it is not expressed at all.
+A: word: te	 gloss: ART
+B: word: mate	 gloss: die
+C: word: mata	 gloss: tribe
+D: word: eugenio	 gloss: Eugenio
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 22:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te taŋata e ai rō \ꞌā tā\ꞌana kai, ka va\ꞌai to te ___ \ꞌina \ꞌā\ꞌana kai.
+Gloss (with missing item): ART man IPFV exist EMPH CONT POSS.3SG.A food IMP give ART:of ART ___ NEG POSS.3SG.A food
+The English translation of this sentence is:‘The man who has food, should give some to the man who does not have food.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Seits gloss ___tically, (\ref{ex:6.23}–\ref{ex:6.24}) are similar to the partitive\is{Partitive} construction discussed above. In both cases, the noun phrase refers to something which is destined for the person referred to; moreover, the sense is partitive\is{Partitive}: ‘some of the food, some of the clothes’. Also, in both cases the to{}-phrase is independent: there is no head noun to which it is attached. The difference is that in the partitive\is{Partitive} construction in (\ref{ex:6.16}–\ref{ex:6.18}) above the possessee is expressed by a genitive phrase o te kahu which is seits gloss ___tically the head of the phrase (the noun phrase as a whole refers to ‘clothes’, not to ‘Vaha’), while in (\ref{ex:6.23}–\ref{ex:6.24}) it is not expressed at all.
+A: word: taŋata	 gloss: man
+B: word: tahoŋa	 gloss: Tahonga
+C: word: roto	 gloss: inside
+D: word: taŋata;	 gloss: person
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 23:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te ŋā kai \ꞌāpī ra\ꞌe era... e ma\ꞌu ___ te hare pure \ꞌi ra\ꞌe.
+Gloss (with missing item): ART PL food new first DIST IPFV carry ___ ART house prayer at first
+The English translation of this sentence is:‘The first food... they first had to take some to the church (lit. carry those of the church)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Semantically, (\ref{ex:6.23}–\ref{ex:6.24}) are similar the morpheme ___ the partitive\is{Partitive} construction discussed above. In both cases, the noun phrase refers the morpheme ___ something which is destined for the person referred the morpheme ___; moreover, the sense is partitive\is{Partitive}: ‘some of the food, some of the clothes’. Also, in both cases the the morpheme ___{}-phrase is independent: there is no head noun the morpheme ___ which it is attached. The difference is that in the partitive\is{Partitive} construction in (\ref{ex:6.16}–\ref{ex:6.18}) above the possessee is expressed by a genitive phrase o te kahu which is semantically the head of the phrase (the noun phrase as a whole refers the morpheme ___ ‘clothes’, not the morpheme ___ ‘Vaha’), while in (\ref{ex:6.23}–\ref{ex:6.24}) it is not expressed at all.
+A: word: hīmene	 gloss: sing
+B: word: mātou	 gloss: 1PL.EXCL
+C: word: to	 gloss: ART:of
+D: word: rivuho	 gloss: drawing
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 24:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te ŋā kai \ꞌāpī ra\ꞌe era... e ma\ꞌu to ___ hare pure \ꞌi ra\ꞌe.
+Gloss (with missing item): ART PL food new first DIST IPFV carry ART:of ___ house prayer at first
+The English translation of this sentence is:‘The first food... they first had to take some to the church (lit. carry those of the church)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Semantically, (\ref{ex:6.23}–\ref{ex:6.24}) are similar to the partitive\is{Partitive} construction discussed above. In both cases, the noun phrase refers to something which is destined for the person referred to; moreover, the sense is partitive\is{Partitive}: ‘some of the food, some of the clothes’. Also, in both cases the to{}-phrase is independent: there is no head noun to which it is attached. The difference is that in the partitive\is{Partitive} construction in (\ref{ex:6.16}–\ref{ex:6.18}) above the possessee is expressed by a genitive phrase o the morpheme ___ kahu which is semantically the head of the phrase (the noun phrase as a whole refers to ‘clothes’, not to ‘Vaha’), while in (\ref{ex:6.23}–\ref{ex:6.24}) it is not expressed at all.
+A: word: mate	 gloss: die
+B: word: kore	 gloss: lack
+C: word: te	 gloss: ART
+D: word: taŋata	 gloss: person
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 25:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te ŋā kai \ꞌāpī ra\ꞌe era... e ma\ꞌu to te ___ pure \ꞌi ra\ꞌe.
+Gloss (with missing item): ART PL food new first DIST IPFV carry ART:of ART ___ prayer at first
+The English translation of this sentence is:‘The first food... they first had to take some to the church (lit. carry those of the church)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Semantically, (\ref{ex:6.23}–\ref{ex:6.24}) are similar to the partitive\is{Partitive} construction discussed above. In both cases, the noun phrase refers to something which is destined for the person referred to; moreover, the sense is partitive\is{Partitive}: ‘some of the food, some of the clothes’. Also, in both cases the to{}-phrase is independent: there is no head noun to which it is attached. The difference is that in the partitive\is{Partitive} construction in (\ref{ex:6.16}–\ref{ex:6.18}) above the possessee is expressed by a genitive phrase o te kahu which is semantically the head of the phrase (the noun phrase as a whole refers to ‘clothes’, not to ‘Vaha’), while in (\ref{ex:6.23}–\ref{ex:6.24}) it is not expressed at all.
+A: word: hare	 gloss: house
+B: word: piha	 gloss: room
+C: word: tiare	 gloss: flower
+D: word: karikari	 gloss: narrow_part
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 26:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te ŋā kai \ꞌāpī ra\ꞌe era... e ma\ꞌu to te hare ___ \ꞌi ra\ꞌe.
+Gloss (with missing item): ART PL food new first DIST IPFV carry ART:of ART house ___ at first
+The English translation of this sentence is:‘The first food... they first had to take some to the church (lit. carry those of the church)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Semantically, (\ref{ex:6.23}–\ref{ex:6.24}) are similar to the partitive\is{Partitive} construction discussed above. In both cases, the noun phrase refers to something which is destined for the person referred to; moreover, the sense is partitive\is{Partitive}: ‘some of the food, some of the clothes’. Also, in both cases the to{}-phrase is independent: there is no head noun to which it is attached. The difference is that in the partitive\is{Partitive} construction in (\ref{ex:6.16}–\ref{ex:6.18}) above the possessee is expressed by a genitive phrase o te kahu which is semantically the head of the phrase (the noun phrase as a whole refers to ‘clothes’, not to ‘Vaha’), while in (\ref{ex:6.23}–\ref{ex:6.24}) it is not expressed at all.
+A: word: hīmene	 gloss: sing
+B: word: heke	 gloss: octopus
+C: word: manurere	 gloss: airplane
+D: word: pure	 gloss: prayer
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 27:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mai tā\ꞌaku ___ te vai.
+Gloss (with missing item): hither POSS.1SG.A ___ ART water
+The English translation of this sentence is:‘Give me some water.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Semantically, (\ref{ex:6.23}–\ref{ex:6.24}) are similar tthe morpheme ___ the partitive\is{Partitive} cthe morpheme ___nstructithe morpheme ___n discussed abthe morpheme ___ve. In bthe morpheme ___th cases, the nthe morpheme ___un phrase refers tthe morpheme ___ sthe morpheme ___mething which is destined fthe morpheme ___r the persthe morpheme ___n referred tthe morpheme ___; mthe morpheme ___rethe morpheme ___ver, the sense is partitive\is{Partitive}: ‘sthe morpheme ___me the morpheme ___f the fthe morpheme ___the morpheme ___d, sthe morpheme ___me the morpheme ___f the clthe morpheme ___thes’. Alsthe morpheme ___, in bthe morpheme ___th cases the tthe morpheme ___{}-phrase is independent: there is nthe morpheme ___ head nthe morpheme ___un tthe morpheme ___ which it is attached. The difference is that in the partitive\is{Partitive} cthe morpheme ___nstructithe morpheme ___n in (\ref{ex:6.16}–\ref{ex:6.18}) abthe morpheme ___ve the pthe morpheme ___ssessee is expressed by a genitive phrase the morpheme ___ te kahu which is semantically the head the morpheme ___f the phrase (the nthe morpheme ___un phrase as a whthe morpheme ___le refers tthe morpheme ___ ‘clthe morpheme ___thes’, nthe morpheme ___t tthe morpheme ___ ‘Vaha’), while in (\ref{ex:6.23}–\ref{ex:6.24}) it is nthe morpheme ___t expressed at all.
+A: word: o	 gloss: of
+B: word: forma	 gloss: form
+C: word: haho	 gloss: outside
+D: word: hīmene	 gloss: sing
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 28:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mai tā\ꞌaku o ___ vai.
+Gloss (with missing item): hither POSS.1SG.A of ___ water
+The English translation of this sentence is:‘Give me some water.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Semantically, (\ref{ex:6.23}–\ref{ex:6.24}) are similar to the partitive\is{Partitive} construction discussed above. In both cases, the noun phrase refers to something which is destined for the person referred to; moreover, the sense is partitive\is{Partitive}: ‘some of the food, some of the clothes’. Also, in both cases the to{}-phrase is independent: there is no head noun to which it is attached. The difference is that in the partitive\is{Partitive} construction in (\ref{ex:6.16}–\ref{ex:6.18}) above the possessee is expressed by a genitive phrase o the morpheme ___ kahu which is semantically the head of the phrase (the noun phrase as a whole refers to ‘clothes’, not to ‘Vaha’), while in (\ref{ex:6.23}–\ref{ex:6.24}) it is not expressed at all.
+A: word: te	 gloss: ART
+B: word: toretore	 gloss: stripe
+C: word: rāua	 gloss: 3PL
+D: word: mate	 gloss: die
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 29:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): He ta\ꞌo tako\ꞌa ___ rāua o te taŋata mo kai.
+Gloss (with missing item): NTR cook_in_earth_oven also ___ 3PL of ART man for eat
+The English translation of this sentence is:‘They also cooked people for them(selves) to eat.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Semantically, (\ref{ex:6.23}–\ref{ex:6.24}) are similar the morpheme ___ the partitive\is{Partitive} construction discussed above. In both cases, the noun phrase refers the morpheme ___ something which is destined for the person referred the morpheme ___; moreover, the sense is partitive\is{Partitive}: ‘some of the food, some of the clothes’. Also, in both cases the the morpheme ___{}-phrase is independent: there is no head noun the morpheme ___ which it is attached. The difference is that in the partitive\is{Partitive} construction in (\ref{ex:6.16}–\ref{ex:6.18}) above the possessee is expressed by a genitive phrase o te kahu which is semantically the head of the phrase (the noun phrase as a whole refers the morpheme ___ ‘clothes’, not the morpheme ___ ‘Vaha’), while in (\ref{ex:6.23}–\ref{ex:6.24}) it is not expressed at all.
+A: word: mātou	 gloss: 1PL.EXCL
+B: word: ruŋa	 gloss: above
+C: word: to	 gloss: ART:of
+D: word: rivuho	 gloss: drawing
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 30:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): He ta\ꞌo tako\ꞌa to ___ o te taŋata mo kai.
+Gloss (with missing item): NTR cook_in_earth_oven also ART:of ___ of ART man for eat
+The English translation of this sentence is:‘They also cooked people for them(selves) to eat.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Semantically, (\ref{ex:6.23}–\ref{ex:6.24}) are similar to the partitive\is{Partitive} construction discussed above. In both cases, the noun phrase refers to something which is destined for the person referred to; moreover, the sense is partitive\is{Partitive}: ‘some of the food, some of the clothes’. Also, in both cases the to{}-phrase is independent: there is no head noun to which it is attached. The difference is that in the partitive\is{Partitive} construction in (\ref{ex:6.16}–\ref{ex:6.18}) above the possessee is expressed by a genitive phrase o te kahu which is semantically the head of the phrase (the noun phrase as a whole refers to ‘clothes’, not to ‘Vaha’), while in (\ref{ex:6.23}–\ref{ex:6.24}) it is not expressed at all.
+A: word: kōrua	 gloss: 2PL
+B: word: rāua	 gloss: 3PL
+C: word: noho	 gloss: stay
+D: word: māua	 gloss: 1DU.EXCL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 31:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): He ta\ꞌo tako\ꞌa to rāua ___ te taŋata mo kai.
+Gloss (with missing item): NTR cook_in_earth_oven also ART:of 3PL ___ ART man for eat
+The English translation of this sentence is:‘They also cooked people for them(selves) to eat.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Semantically, (\ref{ex:6.23}–\ref{ex:6.24}) are similar tthe morpheme ___ the partitive\is{Partitive} cthe morpheme ___nstructithe morpheme ___n discussed abthe morpheme ___ve. In bthe morpheme ___th cases, the nthe morpheme ___un phrase refers tthe morpheme ___ sthe morpheme ___mething which is destined fthe morpheme ___r the persthe morpheme ___n referred tthe morpheme ___; mthe morpheme ___rethe morpheme ___ver, the sense is partitive\is{Partitive}: ‘sthe morpheme ___me the morpheme ___f the fthe morpheme ___the morpheme ___d, sthe morpheme ___me the morpheme ___f the clthe morpheme ___thes’. Alsthe morpheme ___, in bthe morpheme ___th cases the tthe morpheme ___{}-phrase is independent: there is nthe morpheme ___ head nthe morpheme ___un tthe morpheme ___ which it is attached. The difference is that in the partitive\is{Partitive} cthe morpheme ___nstructithe morpheme ___n in (\ref{ex:6.16}–\ref{ex:6.18}) abthe morpheme ___ve the pthe morpheme ___ssessee is expressed by a genitive phrase the morpheme ___ te kahu which is semantically the head the morpheme ___f the phrase (the nthe morpheme ___un phrase as a whthe morpheme ___le refers tthe morpheme ___ ‘clthe morpheme ___thes’, nthe morpheme ___t tthe morpheme ___ ‘Vaha’), while in (\ref{ex:6.23}–\ref{ex:6.24}) it is nthe morpheme ___t expressed at all.
+A: word: ahu	 gloss: Ahu
+B: word: haho	 gloss: outside
+C: word: o	 gloss: of
+D: word: rua	 gloss: two
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 32:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): He ta\ꞌo tako\ꞌa to rāua o ___ taŋata mo kai.
+Gloss (with missing item): NTR cook_in_earth_oven also ART:of 3PL of ___ man for eat
+The English translation of this sentence is:‘They also cooked people for them(selves) to eat.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Semantically, (\ref{ex:6.23}–\ref{ex:6.24}) are similar to the partitive\is{Partitive} construction discussed above. In both cases, the noun phrase refers to something which is destined for the person referred to; moreover, the sense is partitive\is{Partitive}: ‘some of the food, some of the clothes’. Also, in both cases the to{}-phrase is independent: there is no head noun to which it is attached. The difference is that in the partitive\is{Partitive} construction in (\ref{ex:6.16}–\ref{ex:6.18}) above the possessee is expressed by a genitive phrase o the morpheme ___ kahu which is semantically the head of the phrase (the noun phrase as a whole refers to ‘clothes’, not to ‘Vaha’), while in (\ref{ex:6.23}–\ref{ex:6.24}) it is not expressed at all.
+A: word: te	 gloss: ART
+B: word: amo	 gloss: clean
+C: word: mate	 gloss: die
+D: word: ruŋa	 gloss: above
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 33:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): He ta\ꞌo tako\ꞌa to rāua o te ___ mo kai.
+Gloss (with missing item): NTR cook_in_earth_oven also ART:of 3PL of ART ___ for eat
+The English translation of this sentence is:‘They also cooked people for them(selves) to eat.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Seits gloss ___tically, (\ref{ex:6.23}–\ref{ex:6.24}) are similar to the partitive\is{Partitive} construction discussed above. In both cases, the noun phrase refers to something which is destined for the person referred to; moreover, the sense is partitive\is{Partitive}: ‘some of the food, some of the clothes’. Also, in both cases the to{}-phrase is independent: there is no head noun to which it is attached. The difference is that in the partitive\is{Partitive} construction in (\ref{ex:6.16}–\ref{ex:6.18}) above the possessee is expressed by a genitive phrase o te kahu which is seits gloss ___tically the head of the phrase (the noun phrase as a whole refers to ‘clothes’, not to ‘Vaha’), while in (\ref{ex:6.23}–\ref{ex:6.24}) it is not expressed at all.
+A: word: taŋata;	 gloss: person
+B: word: rua	 gloss: two
+C: word: kona	 gloss: place
+D: word: taŋata	 gloss: man
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 34:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te taŋata e ai rō \ꞌā tā\ꞌana kai, ka va\ꞌai ___ te taŋata \ꞌina \ꞌā\ꞌana kai.
+Gloss (with missing item): ART man IPFV exist EMPH CONT POSS.3SG.A food IMP give ___ ART man NEG POSS.3SG.A food
+The English translation of this sentence is:‘The man who has food, should give some to the man who does not have food.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Semantically, (\ref{ex:6.23}–\ref{ex:6.24}) are similar the morpheme ___ the partitive\is{Partitive} construction discussed above. In both cases, the noun phrase refers the morpheme ___ something which is destined for the person referred the morpheme ___; moreover, the sense is partitive\is{Partitive}: ‘some of the food, some of the clothes’. Also, in both cases the the morpheme ___{}-phrase is independent: there is no head noun the morpheme ___ which it is attached. The difference is that in the partitive\is{Partitive} construction in (\ref{ex:6.16}–\ref{ex:6.18}) above the possessee is expressed by a genitive phrase o te kahu which is semantically the head of the phrase (the noun phrase as a whole refers the morpheme ___ ‘clothes’, not the morpheme ___ ‘Vaha’), while in (\ref{ex:6.23}–\ref{ex:6.24}) it is not expressed at all.
+A: word: mātou	 gloss: 1PL.EXCL
+B: word: to	 gloss: ART:of
+C: word: rivuho	 gloss: drawing
+D: word: hīmene	 gloss: sing
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 35:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te taŋata e ai rō \ꞌā tā\ꞌana kai, ka va\ꞌai to ___ taŋata \ꞌina \ꞌā\ꞌana kai.
+Gloss (with missing item): ART man IPFV exist EMPH CONT POSS.3SG.A food IMP give ART:of ___ man NEG POSS.3SG.A food
+The English translation of this sentence is:‘The man who has food, should give some to the man who does not have food.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Semantically, (\ref{ex:6.23}–\ref{ex:6.24}) are similar to the partitive\is{Partitive} construction discussed above. In both cases, the noun phrase refers to something which is destined for the person referred to; moreover, the sense is partitive\is{Partitive}: ‘some of the food, some of the clothes’. Also, in both cases the to{}-phrase is independent: there is no head noun to which it is attached. The difference is that in the partitive\is{Partitive} construction in (\ref{ex:6.16}–\ref{ex:6.18}) above the possessee is expressed by a genitive phrase o the morpheme ___ kahu which is semantically the head of the phrase (the noun phrase as a whole refers to ‘clothes’, not to ‘Vaha’), while in (\ref{ex:6.23}–\ref{ex:6.24}) it is not expressed at all.
+A: word: mauku	 gloss: grass
+B: word: te	 gloss: ART
+C: word: mate	 gloss: die
+D: word: ture	 gloss: judgment
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 36:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te taŋata e ai rō \ꞌā tā\ꞌana kai, ka va\ꞌai to te ___ \ꞌina \ꞌā\ꞌana kai.
+Gloss (with missing item): ART man IPFV exist EMPH CONT POSS.3SG.A food IMP give ART:of ART ___ NEG POSS.3SG.A food
+The English translation of this sentence is:‘The man who has food, should give some to the man who does not have food.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Seits gloss ___tically, (\ref{ex:6.23}–\ref{ex:6.24}) are similar to the partitive\is{Partitive} construction discussed above. In both cases, the noun phrase refers to something which is destined for the person referred to; moreover, the sense is partitive\is{Partitive}: ‘some of the food, some of the clothes’. Also, in both cases the to{}-phrase is independent: there is no head noun to which it is attached. The difference is that in the partitive\is{Partitive} construction in (\ref{ex:6.16}–\ref{ex:6.18}) above the possessee is expressed by a genitive phrase o te kahu which is seits gloss ___tically the head of the phrase (the noun phrase as a whole refers to ‘clothes’, not to ‘Vaha’), while in (\ref{ex:6.23}–\ref{ex:6.24}) it is not expressed at all.
+A: word: matahiapo	 gloss: firstborn
+B: word: taŋata	 gloss: man
+C: word: taŋata;	 gloss: person
+D: word: eugenio	 gloss: Eugenio
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 37:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te ŋā kai \ꞌāpī ra\ꞌe era... e ma\ꞌu ___ te hare pure \ꞌi ra\ꞌe.
+Gloss (with missing item): ART PL food new first DIST IPFV carry ___ ART house prayer at first
+The English translation of this sentence is:‘The first food... they first had to take some to the church (lit. carry those of the church)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Semantically, (\ref{ex:6.23}–\ref{ex:6.24}) are similar the morpheme ___ the partitive\is{Partitive} construction discussed above. In both cases, the noun phrase refers the morpheme ___ something which is destined for the person referred the morpheme ___; moreover, the sense is partitive\is{Partitive}: ‘some of the food, some of the clothes’. Also, in both cases the the morpheme ___{}-phrase is independent: there is no head noun the morpheme ___ which it is attached. The difference is that in the partitive\is{Partitive} construction in (\ref{ex:6.16}–\ref{ex:6.18}) above the possessee is expressed by a genitive phrase o te kahu which is semantically the head of the phrase (the noun phrase as a whole refers the morpheme ___ ‘clothes’, not the morpheme ___ ‘Vaha’), while in (\ref{ex:6.23}–\ref{ex:6.24}) it is not expressed at all.
+A: word: rivuho	 gloss: drawing
+B: word: rāua	 gloss: 3PL
+C: word: to	 gloss: ART:of
+D: word: mātou	 gloss: 1PL.EXCL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 38:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te ŋā kai \ꞌāpī ra\ꞌe era... e ma\ꞌu to ___ hare pure \ꞌi ra\ꞌe.
+Gloss (with missing item): ART PL food new first DIST IPFV carry ART:of ___ house prayer at first
+The English translation of this sentence is:‘The first food... they first had to take some to the church (lit. carry those of the church)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Semantically, (\ref{ex:6.23}–\ref{ex:6.24}) are similar to the partitive\is{Partitive} construction discussed above. In both cases, the noun phrase refers to something which is destined for the person referred to; moreover, the sense is partitive\is{Partitive}: ‘some of the food, some of the clothes’. Also, in both cases the to{}-phrase is independent: there is no head noun to which it is attached. The difference is that in the partitive\is{Partitive} construction in (\ref{ex:6.16}–\ref{ex:6.18}) above the possessee is expressed by a genitive phrase o the morpheme ___ kahu which is semantically the head of the phrase (the noun phrase as a whole refers to ‘clothes’, not to ‘Vaha’), while in (\ref{ex:6.23}–\ref{ex:6.24}) it is not expressed at all.
+A: word: hakaroŋo	 gloss: listen
+B: word: ruŋa	 gloss: above
+C: word: mate	 gloss: die
+D: word: te	 gloss: ART
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 39:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te ŋā kai \ꞌāpī ra\ꞌe era... e ma\ꞌu to te ___ pure \ꞌi ra\ꞌe.
+Gloss (with missing item): ART PL food new first DIST IPFV carry ART:of ART ___ prayer at first
+The English translation of this sentence is:‘The first food... they first had to take some to the church (lit. carry those of the church)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Semantically, (\ref{ex:6.23}–\ref{ex:6.24}) are similar to the partitive\is{Partitive} construction discussed above. In both cases, the noun phrase refers to something which is destined for the person referred to; moreover, the sense is partitive\is{Partitive}: ‘some of the food, some of the clothes’. Also, in both cases the to{}-phrase is independent: there is no head noun to which it is attached. The difference is that in the partitive\is{Partitive} construction in (\ref{ex:6.16}–\ref{ex:6.18}) above the possessee is expressed by a genitive phrase o te kahu which is semantically the head of the phrase (the noun phrase as a whole refers to ‘clothes’, not to ‘Vaha’), while in (\ref{ex:6.23}–\ref{ex:6.24}) it is not expressed at all.
+A: word: tiare	 gloss: flower
+B: word: piha	 gloss: room
+C: word: hare	 gloss: house
+D: word: noho	 gloss: stay
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 40:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te ŋā kai \ꞌāpī ra\ꞌe era... e ma\ꞌu to te hare ___ \ꞌi ra\ꞌe.
+Gloss (with missing item): ART PL food new first DIST IPFV carry ART:of ART house ___ at first
+The English translation of this sentence is:‘The first food... they first had to take some to the church (lit. carry those of the church)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Semantically, (\ref{ex:6.23}–\ref{ex:6.24}) are similar to the partitive\is{Partitive} construction discussed above. In both cases, the noun phrase refers to something which is destined for the person referred to; moreover, the sense is partitive\is{Partitive}: ‘some of the food, some of the clothes’. Also, in both cases the to{}-phrase is independent: there is no head noun to which it is attached. The difference is that in the partitive\is{Partitive} construction in (\ref{ex:6.16}–\ref{ex:6.18}) above the possessee is expressed by a genitive phrase o te kahu which is semantically the head of the phrase (the noun phrase as a whole refers to ‘clothes’, not to ‘Vaha’), while in (\ref{ex:6.23}–\ref{ex:6.24}) it is not expressed at all.
+A: word: pāhono	 gloss: answer
+B: word: pure	 gloss: prayer
+C: word: manurere	 gloss: airplane
+D: word: vahine	 gloss: female
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 41:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): He toe e toru te \ꞌaŋahuru nō toe, ku oti \ꞌā ___ haho.
+Gloss (with missing item): NTR remain NUM three ART ten just remain PRF finish CONT ___ outside
+The English translation of this sentence is:‘Only thirty (men) were left, those outside were finished.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Possessive constructions occur not only as modifiers in the noun phrase, but in a range of other constructions as well. This section gives a concise listing; all of these constructions (with the exception of the elliptic construction in \REF{ex:6.34} below) are discussed in more detail elsewhere in this grammar.\footnote{\label{fn:287}Not included here are possessives expressing the subject of a relative clause in the “possessive-relative construction”; as argued in \sectref{sec:11.4.4}, these should be considered as normal noun-phrase possessors which are syntactically separate from the relative clause.}
+A: word: rāua	 gloss: 3PL
+B: word: rivuho	 gloss: drawing
+C: word: mātou	 gloss: 1PL.EXCL
+D: word: to	 gloss: ART:of
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 42:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ¿E ai rō \ꞌā te ika ___ roto?
+Gloss (with missing item): ~IPFV exist EMPH CONT ART fish ___ inside
+The English translation of this sentence is:‘Are there fish inside (the net)?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \subparagraph{\ref{sec:6.2.3}.5} Pthe morpheme ___ssessives the morpheme ___f the the morpheme ___{}-class may serve as the predicate the morpheme ___f existential-lthe morpheme ___cative clauses (\sectref{sec:9.3.2}); see \sectref{sec:6.3.1}.8 belthe morpheme ___w the morpheme ___n the lthe morpheme ___cative use the morpheme ___f pthe morpheme ___ssessives. In mthe morpheme ___dern Rapa Nui, Ø-pthe morpheme ___ssessives are used as in \REF{ex:6.31}; in the morpheme ___lder Rapa Nui, t{}-pthe morpheme ___ssessives were used as in (\ref{ex:6.32}–\ref{ex:6.33}).
+A: word: o	 gloss: of
+B: word: kona	 gloss: place
+C: word: koihu	 gloss: Koihu
+D: word: haho	 gloss: outside
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 43:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ¿E ai rō \ꞌā te ika o ___
+Gloss (with missing item): ~IPFV exist EMPH CONT ART fish of ___
+The English translation of this sentence is:‘Are there fish inside (the net)?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \subparagraph{\ref{sec:6.2.3}.5} Possessives of the o{}-class may serve as the predicate of existential-locative clauses (\sectref{sec:9.3.2}); see \sectref{sec:6.3.1}.8 below on the locative use of possessives. In modern Rapa Nui, Ø-possessives are used as in \REF{ex:6.31}; in older Rapa Nui, t{}-possessives were used as in (\ref{ex:6.32}–\ref{ex:6.33}).
+A: word: ture	 gloss: judgment
+B: word: roto	 gloss: inside
+C: word: piroto	 gloss: pilot
+D: word: rote	 gloss: inside_the
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 44:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): He taŋata ___ nei... Ŋata Vake te \ꞌīŋoa.
+Gloss (with missing item): PRED person ___ PROX Ngata Vake ART name
+The English translation of this sentence is:‘There was a man here, called Ngata Vake.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \subparagraph{\ref{sec:6.2.3}.5} Possessives of the o{}-class may serve as the predicate of existential-locative clauses (\sectref{sec:9.3.2}); see \sectref{sec:6.3.1}.8 below on the locative use of possessives. In modern Rapa Nui, Ø-possessives are used as in \REF{ex:6.31}; in older Rapa Nui, t{}-possessives were used as in (\ref{ex:6.32}–\ref{ex:6.33}).
+A: word: rivuho	 gloss: drawing
+B: word: to	 gloss: ART:of
+C: word: tanu	 gloss: bury
+D: word: mātou	 gloss: 1PL.EXCL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 45:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): He taŋata ___ ruŋa to te motu, ko Motu Tapu te \ꞌīŋoa.
+Gloss (with missing item): PRED man ___ above ART:of ART islet PROM Motu Tapu ART name
+The English translation of this sentence is:‘There was a man on the islet which was called Motu Tapu’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \subparagraph{\ref{sec:6.2.3}.5} Possessives of the o{}-class may serve as the predicate of existential-locative clauses (\sectref{sec:9.3.2}); see \sectref{sec:6.3.1}.8 below on the locative use of possessives. In modern Rapa Nui, Ø-possessives are used as in \REF{ex:6.31}; in older Rapa Nui, t{}-possessives were used as in (\ref{ex:6.32}–\ref{ex:6.33}).
+A: word: to	 gloss: ART:of
+B: word: rivuho	 gloss: drawing
+C: word: mātou	 gloss: 1PL.EXCL
+D: word: ruŋa	 gloss: above
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 46:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): He taŋata to ___ to te motu, ko Motu Tapu te \ꞌīŋoa.
+Gloss (with missing item): PRED man ART:of ___ ART:of ART islet PROM Motu Tapu ART name
+The English translation of this sentence is:‘There was a man on the islet which was called Motu Tapu’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \subparagraph{\ref{sec:6.2.3}.5} Possessives of the o{}-class may serve as the predicate of existential-locative clauses (\sectref{sec:9.3.2}); see \sectref{sec:6.3.1}.8 below on the locative use of possessives. In modern Rapa Nui, Ø-possessives are used as in \REF{ex:6.31}; in older Rapa Nui, t{}-possessives were used as in (\ref{ex:6.32}–\ref{ex:6.33}).
+A: word: ruŋa	 gloss: above
+B: word: uŋa	 gloss: send
+C: word: raro	 gloss: below
+D: word: ture	 gloss: judgment
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 47:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te me\ꞌe nei he heke, he \ꞌanimare e tahi ___ rote vaikava.
+Gloss (with missing item): ART thing PROX PRED octopus PRED animal NUM one ___ inside_the ocean
+The English translation of this sentence is:‘The octopus is an animal of (lit. of inside) the ocean.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \subparagraph{\ref{sec:6.3.1}.8} The pthe morpheme ___ssessthe morpheme ___r may be a lthe morpheme ___catithe morpheme ___n tthe morpheme ___ which the pthe morpheme ___ssessee belthe morpheme ___ngs as in \REF{ex:6.44}, the morpheme ___r a place where the pthe morpheme ___ssessee is lthe morpheme ___cated at a given time, as in (\ref{ex:6.45}–\ref{ex:6.46}).
+A: word: haho	 gloss: outside
+B: word: haraoa	 gloss: bread
+C: word: o	 gloss: of
+D: word: raraku	 gloss: Rarako
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 48:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Te me\ꞌe nei he heke, he \ꞌanimare e tahi o ___ vaikava.
+Gloss (with missing item): ART thing PROX PRED octopus PRED animal NUM one of ___ ocean
+The English translation of this sentence is:‘The octopus is an animal of (lit. of inside) the ocean.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \subparagraph{\ref{sec:6.3.1}.8} The possessor may be a location to which the possessee belongs as in \REF{ex:6.44}, or a place where the possessee is located at a given time, as in (\ref{ex:6.45}–\ref{ex:6.46}).
+A: word: hīmene	 gloss: sing
+B: word: roto	 gloss: inside
+C: word: reherehe	 gloss: soft:RED
+D: word: rote	 gloss: inside_the
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 49:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): \ꞌIna he ika ___ \ꞌApina.
+Gloss (with missing item): NEG PROM fish ___ Apina
+The English translation of this sentence is:‘There are no fish at Apina.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \subparagraph{\ref{sec:6.3.1}.8} The pthe morpheme ___ssessthe morpheme ___r may be a lthe morpheme ___catithe morpheme ___n tthe morpheme ___ which the pthe morpheme ___ssessee belthe morpheme ___ngs as in \REF{ex:6.44}, the morpheme ___r a place where the pthe morpheme ___ssessee is lthe morpheme ___cated at a given time, as in (\ref{ex:6.45}–\ref{ex:6.46}).
+A: word: o	 gloss: of
+B: word: pāhono	 gloss: answer
+C: word: haho	 gloss: outside
+D: word: mata	 gloss: tribe
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 50:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ko Alfredo te me\ꞌe era ___ mu\ꞌa i te microfono.
+Gloss (with missing item): PROM Alfredo ART thing DIST ___ front at ART microphone
+The English translation of this sentence is:‘Alfredo is the one in front of the microphone.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \subparagraph{\ref{sec:6.3.1}.8} The pthe morpheme ___ssessthe morpheme ___r may be a lthe morpheme ___catithe morpheme ___n tthe morpheme ___ which the pthe morpheme ___ssessee belthe morpheme ___ngs as in \REF{ex:6.44}, the morpheme ___r a place where the pthe morpheme ___ssessee is lthe morpheme ___cated at a given time, as in (\ref{ex:6.45}–\ref{ex:6.46}).
+A: word: haho	 gloss: outside
+B: word: o	 gloss: of
+C: word: hare	 gloss: house
+D: word: hīmene	 gloss: sing
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 51:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): \ꞌIna he ika ___ \ꞌApina.
+Gloss (with missing item): NEG PROM fish ___ Apina
+The English translation of this sentence is:‘There are no fish at Apina.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:6.45}–\ref{ex:6.46}), the morpheme ___ is clthe morpheme ___se in meaning tthe morpheme ___ the lthe morpheme ___cative \textit{{\ꞌ}i} ‘in, at’. As these examples shthe morpheme ___w, the pthe morpheme ___ssessive is used especially in negative\is{Negatithe morpheme ___n} the morpheme ___r interrthe morpheme ___gative\is{Questithe morpheme ___n} clauses. In ththe morpheme ___se sentences, \textit{{\ꞌ}i}\is{i ‘in, at’@{\ꞌ}i ‘in, at’} is cthe morpheme ___nsidered awkward.
+A: word: o	 gloss: of
+B: word: ananake	 gloss: together
+C: word: haho	 gloss: outside
+D: word: taŋata	 gloss: person
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 52:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ko Alfredo te me\ꞌe era ___ mu\ꞌa i te microfono.
+Gloss (with missing item): PROM Alfredo ART thing DIST ___ front at ART microphone
+The English translation of this sentence is:‘Alfredo is the one in front of the microphone.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In (\ref{ex:6.45}–\ref{ex:6.46}), the morpheme ___ is clthe morpheme ___se in meaning tthe morpheme ___ the lthe morpheme ___cative \textit{{\ꞌ}i} ‘in, at’. As these examples shthe morpheme ___w, the pthe morpheme ___ssessive is used especially in negative\is{Negatithe morpheme ___n} the morpheme ___r interrthe morpheme ___gative\is{Questithe morpheme ___n} clauses. In ththe morpheme ___se sentences, \textit{{\ꞌ}i}\is{i ‘in, at’@{\ꞌ}i ‘in, at’} is cthe morpheme ___nsidered awkward.
+A: word: miru	 gloss: Miru
+B: word: haho	 gloss: outside
+C: word: o	 gloss: of
+D: word: rua	 gloss: two
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 53:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ka toru mahana ___ te tanu o Kava, he \ꞌui e Puakiva ki a Pipi...
+Gloss (with missing item): CNTG three day ___ ART bury of Kava NTR ask AG Puakiva to PROP Pipi
+The English translation of this sentence is:‘Three days after (lit. of) the burial of Kava, Puakivi asked Pipi...’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \subparagraph{\ref{sec:6.3.1}.9} When the head nthe morpheme ___un expresses time, the pthe morpheme ___ssessive may express an event with respect tthe morpheme ___ which this time applies. In \REF{ex:6.47} the event is punctual, and ‘three days’ is the time elapsed after the event. In \REF{ex:6.48} the event is durative\is{Aspect!durative}, and ‘eight days’ is the time elapsed since the beginning the morpheme ___f this event. (In bthe morpheme ___th cases, ka indicates that a certain mthe morpheme ___ment in time has been reached, see \sectref{sec:4.3.2.2}.)
+A: word: hete	 gloss: Hete
+B: word: eugenio	 gloss: Eugenio
+C: word: haho	 gloss: outside
+D: word: o	 gloss: of
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 54:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ka toru mahana o ___ tanu o Kava, he \ꞌui e Puakiva ki a Pipi...
+Gloss (with missing item): CNTG three day of ___ bury of Kava NTR ask AG Puakiva to PROP Pipi
+The English translation of this sentence is:‘Three days after (lit. of) the burial of Kava, Puakivi asked Pipi...’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \subparagraph{\ref{sec:6.3.1}.9} When the head noun expresses time, the possessive may express an event with respect to which this time applies. In \REF{ex:6.47} the event is punctual, and ‘three days’ is the time elapsed afthe morpheme ___r the event. In \REF{ex:6.48} the event is durative\is{Aspect!durative}, and ‘eight days’ is the time elapsed since the beginning of this event. (In both cases, ka indicathe morpheme ___s that a certain moment in time has been reached, see \sectref{sec:4.3.2.2}.)
+A: word: te	 gloss: ART
+B: word: hotu	 gloss: Hotu
+C: word: mate	 gloss: die
+D: word: hīmene	 gloss: sing
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 55:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ka toru mahana o te ___ o Kava, he \ꞌui e Puakiva ki a Pipi...
+Gloss (with missing item): CNTG three day of ART ___ of Kava NTR ask AG Puakiva to PROP Pipi
+The English translation of this sentence is:‘Three days after (lit. of) the burial of Kava, Puakivi asked Pipi...’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \subparagraph{\ref{sec:6.3.1}.9} When the head noun expresses time, the possessive may express an event with respect to which this time applies. In \REF{ex:6.47} the event is punctual, and ‘three days’ is the time elapsed after the event. In \REF{ex:6.48} the event is durative\is{Aspect!durative}, and ‘eight days’ is the time elapsed since the beginning of this event. (In both cases, ka indicates that a certain moment in time has been reached, see \sectref{sec:4.3.2.2}.)
+A: word: pava	 gloss: shelter
+B: word: tanu	 gloss: bury
+C: word: roto	 gloss: inside
+D: word: tano	 gloss: correct
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 56:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ka va\ꞌu mahana ___ te noho o Eugenio o te hāpī \ꞌi Vaihū...
+Gloss (with missing item): CNTG eight day ___ ART stay of Eugenio of ART teach at Vaihu
+The English translation of this sentence is:‘When he had stayed and taught for eight days in Vaihu...’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \subparagraph{\ref{sec:6.3.1}.9} When the head nthe morpheme ___un expresses time, the pthe morpheme ___ssessive may express an event with respect tthe morpheme ___ which this time applies. In \REF{ex:6.47} the event is punctual, and ‘three days’ is the time elapsed after the event. In \REF{ex:6.48} the event is durative\is{Aspect!durative}, and ‘eight days’ is the time elapsed since the beginning the morpheme ___f this event. (In bthe morpheme ___th cases, ka indicates that a certain mthe morpheme ___ment in time has been reached, see \sectref{sec:4.3.2.2}.)
+A: word: marere	 gloss: scatter
+B: word: o	 gloss: of
+C: word: pāhono	 gloss: answer
+D: word: haho	 gloss: outside
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 57:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ka va\ꞌu mahana o ___ noho o Eugenio o te hāpī \ꞌi Vaihū...
+Gloss (with missing item): CNTG eight day of ___ stay of Eugenio of ART teach at Vaihu
+The English translation of this sentence is:‘When he had stayed and taught for eight days in Vaihu...’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \subparagraph{\ref{sec:6.3.1}.9} When the head noun expresses time, the possessive may express an event with respect to which this time applies. In \REF{ex:6.47} the event is punctual, and ‘three days’ is the time elapsed afthe morpheme ___r the event. In \REF{ex:6.48} the event is durative\is{Aspect!durative}, and ‘eight days’ is the time elapsed since the beginning of this event. (In both cases, ka indicathe morpheme ___s that a certain moment in time has been reached, see \sectref{sec:4.3.2.2}.)
+A: word: paepae	 gloss: shack
+B: word: te	 gloss: ART
+C: word: ruŋa	 gloss: above
+D: word: mate	 gloss: die
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 58:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ka va\ꞌu mahana o te ___ o Eugenio o te hāpī \ꞌi Vaihū...
+Gloss (with missing item): CNTG eight day of ART ___ of Eugenio of ART teach at Vaihu
+The English translation of this sentence is:‘When he had stayed and taught for eight days in Vaihu...’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \subparagraph{\ref{sec:6.3.1}.9} When the head noun expresses time, the possessive may express an event with respect to which this time applies. In \REF{ex:6.47} the event is punctual, and ‘three days’ is the time elapsed after the event. In \REF{ex:6.48} the event is durative\is{Aspect!durative}, and ‘eight days’ is the time elapsed since the beginning of this event. (In both cases, ka indicates that a certain moment in time has been reached, see \sectref{sec:4.3.2.2}.)
+A: word: nonoho	 gloss: PL:stay
+B: word: noho	 gloss: stay
+C: word: ture	 gloss: judgment
+D: word: ure	 gloss: Ure
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 59:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): E toru mahana ___ te \ꞌua i hoa ai, ko reherehe atu \ꞌā te \ꞌō\ꞌone.
+Gloss (with missing item): NUM three day ___ ART rain PFV throw PVP PRF soft:RED away CONT ART soil
+The English translation of this sentence is:‘When it had been raining for three days, the ground was quite soft.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The pthe morpheme ___ssessive after the tempthe morpheme ___ral nthe morpheme ___un may alsthe morpheme ___ refer tthe morpheme ___ sthe morpheme ___mebthe morpheme ___dy the morpheme ___r sthe morpheme ___mething which was invthe morpheme ___lved in a certain event at the time specified. The event itself is expressed as a relative clause\is{Clause!relative} fthe morpheme ___llthe morpheme ___wing this nthe morpheme ___un. \REF{ex:6.49} can be translated literally ‘Three days the morpheme ___f the rain which fell’.
+A: word: o	 gloss: of
+B: word: hopu	 gloss: bathe
+C: word: haho	 gloss: outside
+D: word: pure	 gloss: pray
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 60:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): E toru mahana o ___ \ꞌua i hoa ai, ko reherehe atu \ꞌā te \ꞌō\ꞌone.
+Gloss (with missing item): NUM three day of ___ rain PFV throw PVP PRF soft:RED away CONT ART soil
+The English translation of this sentence is:‘When it had been raining for three days, the ground was quite soft.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The possessive afthe morpheme ___r the the morpheme ___mporal noun may also refer to somebody or something which was involved in a certain event at the time specified. The event itself is expressed as a relative clause\is{Clause!relative} following this noun. \REF{ex:6.49} can be translathe morpheme ___d lithe morpheme ___rally ‘Three days of the rain which fell’.
+A: word: te	 gloss: ART
+B: word: mate	 gloss: die
+C: word: kikio	 gloss: Kikio
+D: word: ¿to	 gloss: ART:of
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 61:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): He to\ꞌo i tā\ꞌana ___ kerikeri era.
+Gloss (with missing item): NTR take ACC POSS.3SG.A ___ dig:RED DIST
+The English translation of this sentence is:‘He took his sweet potato that he had dug up.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The possessee is food. This can be food grown, caught or otherwise obtained by the possessor\is{Possession} as in \REF{ex:6.76} and \REF{ex:6.77}, or food/drink consumed – or destined to be consumed – by the possessor\is{Possession} as in \REF{ex:6.78}.
+A: word: māramarama	 gloss: intelligent
+B: word: rāua	 gloss: 3PL
+C: word: nene	 gloss: sweet
+D: word: kūmara	 gloss: sweet_potato
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 62:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ko hiko \ꞌā tā\ꞌaku ___ e Te Manu.
+Gloss (with missing item): PRF snatch CONT POSS.1SG.A ___ AG Te Manu
+The English translation of this sentence is:‘Te Manu has snatched away my bread.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The possessee is food. This can be food grown, caught or otherwise obtained by the possessor\is{Possession} as in \REF{ex:6.76} and \REF{ex:6.77}, or food/drink consumed – or destined to be consumed – by the possessor\is{Possession} as in \REF{ex:6.78}.
+A: word: kai	 gloss: food
+B: word: haraoa	 gloss: bread
+C: word: hīmene	 gloss: sing
+D: word: hare	 gloss: house
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 63:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): te pu\ꞌa e pu\ꞌa era ___ rua o Eugenio
+Gloss (with missing item): ART cover IPFV cover DIST ___ hole of Eugenio
+The English translation of this sentence is:‘the lid that covered Eugenio’s grave’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Horses, however, are o{}-possessed, as they are animals of transport (see (\ref{ex:6.86}–\ref{ex:6.87}) in the next section).
+A: word: mate	 gloss: die
+B: word: vānaŋanaŋa	 gloss: talk:RED
+C: word: ruŋa	 gloss: above
+D: word: te	 gloss: ART
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 64:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): te pu\ꞌa e pu\ꞌa era te ___ o Eugenio
+Gloss (with missing item): ART cover IPFV cover DIST ART ___ of Eugenio
+The English translation of this sentence is:‘the lid that covered Eugenio’s grave’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Horses, however, are o{}-possessed, as they are animals of transport (see (\ref{ex:6.86}–\ref{ex:6.87}) in the next section).
+A: word: māmari	 gloss: egg
+B: word: rua	 gloss: hole
+C: word: pāhono	 gloss: answer
+D: word: kōrua	 gloss: 2PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 65:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): te pu\ꞌa e pu\ꞌa era te rua ___ Eugenio
+Gloss (with missing item): ART cover IPFV cover DIST ART hole ___ Eugenio
+The English translation of this sentence is:‘the lid that covered Eugenio’s grave’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Hthe morpheme ___rses, hthe morpheme ___wever, are the morpheme ___{}-pthe morpheme ___ssessed, as they are animals the morpheme ___f transpthe morpheme ___rt (see (\ref{ex:6.86}–\ref{ex:6.87}) in the next sectithe morpheme ___n).
+A: word: o	 gloss: of
+B: word: roto	 gloss: inside
+C: word: haho	 gloss: outside
+D: word: vānaŋa	 gloss: word
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 66:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): te pu\ꞌa e pu\ꞌa era te rua o ___
+Gloss (with missing item): ART cover IPFV cover DIST ART hole of ___
+The English translation of this sentence is:‘the lid that covered Eugenio’s grave’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Horses, however, are o{}-possessed, as they are animals of transport (see (\ref{ex:6.86}–\ref{ex:6.87}) in the next section).
+A: word: juan	 gloss: Juan
+B: word: karikari	 gloss: narrow_part
+C: word: nehenehe	 gloss: beautiful
+D: word: eugenio	 gloss: Eugenio
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 67:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): E hakaheu \ꞌana tū rū\ꞌau era i tā\ꞌana ___ \ꞌoka tiare.
+Gloss (with missing item): IPFV weed CONT DEM old_woman DIST ACC POSS.3SG.A ___ plant flower
+The English translation of this sentence is:‘The old woman was weeding her flower garden.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: This means that fields and gardens can be either a- or o-possessed, depending on whether the focus is on possession (o) or labour (\textit{{\ꞌ}a}); cf. \REF{ex:6.75} in the previous section.
+A: word: kona	 gloss: place
+B: word: pure	 gloss: pray
+C: word: muri	 gloss: near
+D: word: mākona	 gloss: satiated
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 68:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): He riro he taŋata rivariva hai \ꞌaiua ___ Eugenio.
+Gloss (with missing item): NTR become PRED man good:RED INS help ___ Eugenio
+The English translation of this sentence is:‘He became a good man with Eugenio’s help.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The fthe morpheme ___llthe morpheme ___wing pair the morpheme ___f examples shthe morpheme ___w the cthe morpheme ___ntrast between the actithe morpheme ___n as such as in \REF{ex:6.109} and the prthe morpheme ___duct the morpheme ___f an actithe morpheme ___n as in \REF{ex:6.110}:
+A: word: noho	 gloss: stay
+B: word: zelántia	 gloss: Zealand
+C: word: haho	 gloss: outside
+D: word: o	 gloss: of
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 69:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): He katikati i tā\ꞌana ___ a Kava.
+Gloss (with missing item): NTR sing ACC POSS.3SG.A ___ PROP Kava
+The English translation of this sentence is:‘Kava sang his song.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Verbs expressing verbal utterances (‘say’, ‘tell’, ‘sing’) show the same distinction between the product of an action and the action itself. Utterances made by the possessor\is{Possession} – words, stories, its gloss ___s, et cetera – are a{}-possessed, as in (\ref{ex:6.111}–\ref{ex:6.112}). On the other hand, when the act of uttering itself is in focus, the possessor\is{Possession} is o{}-marked, as in (\ref{ex:6.113}–\ref{ex:6.114}):
+A: word: katikati	 gloss: sing
+B: word: hīmene	 gloss: song
+C: word: ¿to	 gloss: ART:of
+D: word: nehenehe	 gloss: beautiful
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 70:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Nōatu tō\ꞌona ___ mai.
+Gloss (with missing item): no_matter POSS.3SG.O ___ hither
+The English translation of this sentence is:‘Don’t mind his scolding.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Verbs expressing verbal utterances (‘say’, ‘tell’, ‘sing’) show the same distinction between the product of an action and the action itself. Utterances made by the possessor\is{Possession} – words, stories, songs, et cetera – are a{}-possessed, as in (\ref{ex:6.111}–\ref{ex:6.112}). On the other hand, when the act of uttering itself is in focus, the possessor\is{Possession} is o{}-marked, as in (\ref{ex:6.113}–\ref{ex:6.114}):
+A: word: ture	 gloss: scold
+B: word: manurere	 gloss: airplane
+C: word: kirireva	 gloss: Kirireva
+D: word: hare	 gloss: house
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 71:
+You are a linguist specializing in Rapa Nui. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ko huru kē \ꞌā \ꞌo tō\ꞌoku ta\ꞌe ___ i te vānaŋa \ꞌui mai.
+Gloss (with missing item): PRF manner different CONT because_of POSS.1SG.O CONNEG ___ ACC ART word ask hither
+The English translation of this sentence is:‘\is{Verb!nominalised}He feels strange because I didn’t answer (lit. my not answering) his question.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Verbs expressing verbal utterances (‘say’, ‘tell’, ‘sing’) show the same distinction between the product of an action and the action itself. Utterances made by the possessor\is{Possession} – words, stories, songs, et cetera – are a{}-possessed, as in (\ref{ex:6.111}–\ref{ex:6.112}). On the other hand, when the act of uttering itself is in focus, the possessor\is{Possession} is o{}-marked, as in (\ref{ex:6.113}–\ref{ex:6.114}):
+A: word: kona	 gloss: place
+B: word: tūpāhotu	 gloss: Tupahotu
+C: word: pāhono	 gloss: answer
+D: word: aha	 gloss: thing
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
