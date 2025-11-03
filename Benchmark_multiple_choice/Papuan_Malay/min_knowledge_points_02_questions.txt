@@ -1,0 +1,195 @@
+Question 0:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ta pake ... ___ srej riʧaaa ... dagɪŋ ini saja asar dia kasi kring di parapara
+Gloss (with missing item): 1PL take ... ___ lemongrass red.pepper ... meat D.PROX 1SG smoke 3SG give be.dry at platform
+The English translation of this sentence is:‘we used ... salt, lemongrass, red pepper, ... this (pig) meat, I smoked it (and) dried (it) on a platform’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The rhotic /r/ is most commonly realized as the voiced alveolar trill [\textstyleChCharisSIL{r}]. In inter-vocalic position, however, the rhotic is realized as the voiced tap [\textstyleChCharisSIL{ɾ}] as illustrated in (\ref{Example_2.1}) and \tabref{Table_2.12}.\footnote{In the examples in this chapter, the first line gives the orthographic representation, while the second lines gives the IPA transcription.} In the C\textsubscript{2} position in CC clusters, the rhotic is also most commonly realized as the voiced trill [r]. The voiced tap, however, is also quite common in this position.
+A: word: skaɾɐn	 gloss: now
+B: word: handuk	 gloss: towel
+C: word: kring	 gloss: be.dry
+D: word: gaɾɐɐɐm	 gloss: salt
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 1:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ta pake ... gaɾɐɐɐm ___ riʧaaa ... dagɪŋ ini saja asar dia kasi kring di parapara
+Gloss (with missing item): 1PL take ... salt ___ red.pepper ... meat D.PROX 1SG smoke 3SG give be.dry at platform
+The English translation of this sentence is:‘we used ... salt, lemongrass, red pepper, ... this (pig) meat, I smoked it (and) dried (it) on a platform’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The rhotic /r/ is most commonly realized as the voiced alveolar trill [\textstyleChCharisSIL{r}]. In inter-vocalic position, however, the rhotic is realized as the voiced tap [\textstyleChCharisSIL{ɾ}] as illustrated in (\ref{Example_2.1}) and \tabref{Table_2.12}.\footnote{In the examples in this chapter, the first line gives the orthographic representation, while the second lines gives the IPA transcription.} In the C\textsubscript{2} position in CC clusters, the rhotic is also most commonly realized as the voiced trill [r]. The voiced tap, however, is also quite common in this position.
+A: word: sere	 gloss: lemon.grass
+B: word: greja	 gloss: church
+C: word: srej	 gloss: lemongrass
+D: word: lobɐŋ	 gloss: hole
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 2:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ta pake ... gaɾɐɐɐm srej ___ ... dagɪŋ ini saja asar dia kasi kring di parapara
+Gloss (with missing item): 1PL take ... salt lemongrass ___ ... meat D.PROX 1SG smoke 3SG give be.dry at platform
+The English translation of this sentence is:‘we used ... salt, lemongrass, red pepper, ... this (pig) meat, I smoked it (and) dried (it) on a platform’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The rhotic /r/ is most commonly realized as the voiced alveolar trill [\textstyleChCharisSIL{r}]. In inter-vocalic position, however, the rhotic is realized as the voiced tap [\textstyleChCharisSIL{ɾ}] as illustrated in (\ref{Example_2.1}) and \tabref{Table_2.12}.\footnote{In the examples in this chapter, the first line gives the orthographic representation, while the second lines gives the IPA transcription.} In the C\textsubscript{2} position in CC clusters, the rhotic is also most commonly realized as the voiced trill [r]. The voiced tap, however, is also quite common in this position.
+A: word: kring	 gloss: be.dry
+B: word: mera	 gloss: be.red
+C: word: riʧaaa	 gloss: red.pepper
+D: word: gáraaam	 gloss: salt
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 3:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ta pake ... gaɾɐɐɐm srej riʧaaa ... dagɪŋ ini saja ___ dia kasi kring di parapara
+Gloss (with missing item): 1PL take ... salt lemongrass red.pepper ... meat D.PROX 1SG ___ 3SG give be.dry at platform
+The English translation of this sentence is:‘we used ... salt, lemongrass, red pepper, ... this (pig) meat, I smoked it (and) dried (it) on a platform’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The rhotic /r/ is most commonly realized as the voiced alveolar trill [\textstyleChCharisSIL{r}]. In inter-vocalic position, however, the rhotic is realized as the voiced tap [\textstyleChCharisSIL{ɾ}] as illustrated in (\ref{Example_2.1}) and \tabref{Table_2.12}.\footnote{In the examples in this chapter, the first line gives the orthographic representation, while the second lines gives the IPA transcription.} In the C\textsubscript{2} position in CC clusters, the rhotic is also most commonly realized as the voiced trill [r]. The voiced tap, however, is also quite common in this position.
+A: word: dasar	 gloss: base
+B: word: riʧaaa	 gloss: red.pepper
+C: word: api	 gloss: fire
+D: word: asar	 gloss: smoke
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 4:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ta pake ... gaɾɐɐɐm srej riʧaaa ... dagɪŋ ini saja asar dia kasi ___ di parapara
+Gloss (with missing item): 1PL take ... salt lemongrass red.pepper ... meat D.PROX 1SG smoke 3SG give ___ at platform
+The English translation of this sentence is:‘we used ... salt, lemongrass, red pepper, ... this (pig) meat, I smoked it (and) dried (it) on a platform’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The rhotic /r/ is most commonly realized as the voiced alveolar trill [\textstyleChCharisSIL{r}]. In inter-vocalic position, however, the rhotic is realized as the voiced tap [\textstyleChCharisSIL{ɾ}] as illustrated in (\ref{Example_2.1}) and \tabref{Table_2.12}.\footnote{In the examples in this chapter, the first line gives the orthographic representation, while the second lines gives the IPA transcription.} In the C\textsubscript{2} position in CC clusters, the rhotic is also most commonly realized as the voiced trill [r]. The voiced tap, however, is also quite common in this position.
+A: word: jemur	 gloss: dry
+B: word: kring	 gloss: be.dry
+C: word: piring~piring	 gloss: RDP~plate
+D: word: bale	 gloss: turn.around
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 5:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ta pake ... gaɾɐɐɐm srej riʧaaa ... dagɪŋ ini saja asar dia kasi kring di ___
+Gloss (with missing item): 1PL take ... salt lemongrass red.pepper ... meat D.PROX 1SG smoke 3SG give be.dry at ___
+The English translation of this sentence is:‘we used ... salt, lemongrass, red pepper, ... this (pig) meat, I smoked it (and) dried (it) on a platform’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The rhotic /r/ is most commonly realized as the voiced alveolar trill [\textstyleChCharisSIL{r}]. In inter-vocalic position, however, the rhotic is realized as the voiced tap [\textstyleChCharisSIL{ɾ}] as illustrated in (\ref{Example_2.1}) and \tabref{Table_2.12}.\footnote{In the examples in this chapter, the first line gives the orthographic representation, while the second lines gives the IPA transcription.} In the C\textsubscript{2} position in CC clusters, the rhotic is also most commonly realized as the voiced trill [r]. The voiced tap, however, is also quite common in this position.
+A: word: komputer	 gloss: computer
+B: word: brapa	 gloss: several
+C: word: asar	 gloss: smoke
+D: word: parapara	 gloss: platform
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 6:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ dɔ̞ŋ kasi dɪa sɛ̞ntɛ̞r̥, kasi sɛ̞ntɛ̞r dɔ̞ŋ kasi ...
+Gloss (with missing item): ___ 3PL give 3SG flashlight give flashlight 3PL give ...
+The English translation of this sentence is:‘now they give him a flashlight, (having) given (him) a flashlight they give (him) ...’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Devoicing applies only to the rhotic trill as word-final coda. In this position, it is most commonly realized as [\textstyleChCharisSIL{r}]. Before a pause or in utterance-final position, however, the trill can also be devoiced to [\textstyleChCharisSIL{r̥}], as illustrated in (\ref{Example_2.2}).
+A: word: suda	 gloss: already
+B: word: asar	 gloss: smoke
+C: word: skaɾɐn	 gloss: now
+D: word: skali	 gloss: very
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 7:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): skaɾɐn dɔ̞ŋ kasi dɪa ___ kasi sɛ̞ntɛ̞r dɔ̞ŋ kasi ...
+Gloss (with missing item): now 3PL give 3SG ___ give flashlight 3PL give ...
+The English translation of this sentence is:‘now they give him a flashlight, (having) given (him) a flashlight they give (him) ...’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Devoicing applies only to the rhotic trill as word-final coda. In this position, it is most commonly realized as [\textstyleChCharisSIL{r}]. Before a pause or in utterance-final position, however, the trill can also be devoiced to [\textstyleChCharisSIL{r̥}], as illustrated in (\ref{Example_2.2}).
+A: word: pecis	 gloss: light.bulb
+B: word: sɛ̞ntɛ̞r̥	 gloss: flashlight
+C: word: doa	 gloss: two
+D: word: sɛ̞ntɛ̞r	 gloss: flashlight
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 8:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): skaɾɐn dɔ̞ŋ kasi dɪa sɛ̞ntɛ̞r̥, kasi ___ dɔ̞ŋ kasi ...
+Gloss (with missing item): now 3PL give 3SG flashlight give ___ 3PL give ...
+The English translation of this sentence is:‘now they give him a flashlight, (having) given (him) a flashlight they give (him) ...’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Devoicing applies only to the rhotic trill as word-final coda. In this position, it is most commonly realized as [\textstyleChCharisSIL{r}]. Before a pause or in utterance-final position, however, the trill can also be devoiced to [\textstyleChCharisSIL{r̥}], as illustrated in (\ref{Example_2.2}).
+A: word: pecis	 gloss: light.bulb
+B: word: sɛ̞ntɛ̞r	 gloss: flashlight
+C: word: bale	 gloss: turn.around
+D: word: sɛ̞ntɛ̞r̥	 gloss: flashlight
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 9:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ... mɔ bikɪn papɛda mɔ ___ anana makɐn
+Gloss (with missing item): ... want 3PL sagu.porridge want ___ RDP~child eat
+The English translation of this sentence is:‘[they said (they) wanted to catch chickens and then] (they) wanted to make sagu porridge to give the children to eat’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In fast speech, the close vowels /\textstyleChCharisSIL{i}/ and /\textstyleChCharisSIL{u}/ are very commonly lowered and realized as the close-mid vowels [\textstyleChCharisSIL{e}] and [\textstyleChCharisSIL{o}] respectively, as demonstrated in (\ref{Example_2.3}) to (\ref{Example_2.6}). In (\ref{Example_2.3}) the \isi{verb} \textitbf{kasi} ‘its gloss ___’ is realized as [\textstyleChCharisSIL{ˈka.se}], and in (\ref{Example_2.4}) the \isi{verb} \textitbf{balik} ‘turn around’ is realized as [\textstyleChCharisSIL{ˈba.le}].\footnote{Concerning the \isi{elision} of the word-final stop see §\ref{Para_2.3.1.2}.} In (\ref{Example_2.5}) the \isi{numeral} \textitbf{dua} ‘two’ is realized as [\textstyleChCharisSIL{ˈdo.a}] and in (\ref{Example_2.6}) the common \isi{noun} \textitbf{lubang} ‘hole’ is realized as [\textstyleChCharisSIL{ˈlo.bɐŋ}]
+A: word: siap	 gloss: provide
+B: word: kasi	 gloss: give
+C: word: kase	 gloss: give
+D: word: riʧaaa	 gloss: red.pepper
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 10:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): dɛ masʊk̚ ___ tu
+Gloss (with missing item): 3SG enter ___ D.DIST
+The English translation of this sentence is:‘it (the chicken) went into that hole (in the floor)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In fast speech, the close vowels /\textstyleChCharisSIL{i}/ and /\textstyleChCharisSIL{u}/ are very commonly lowered and realized as the close-mid vowels [\textstyleChCharisSIL{e}] and [\textstyleChCharisSIL{o}] respectively, as demonstrated in (\ref{Example_2.3}) to (\ref{Example_2.6}). In (\ref{Example_2.3}) the \isi{verb} \textitbf{kasi} ‘give’ is realized as [\textstyleChCharisSIL{ˈka.se}], and in (\ref{Example_2.4}) the \isi{verb} \textitbf{balik} ‘turn around’ is realized as [\textstyleChCharisSIL{ˈba.le}].\footnote{Concerning the \isi{elision} of the word-final stop see §\ref{Para_2.3.1.2}.} In (\ref{Example_2.5}) the \isi{numeral} \textitbf{dua} ‘two’ is realized as [\textstyleChCharisSIL{ˈdo.a}] and in (\ref{Example_2.6}) the common \isi{noun} \textitbf{lubang} ‘its gloss ___’ is realized as [\textstyleChCharisSIL{ˈlo.bɐŋ}]
+A: word: kolam	 gloss: big.hole
+B: word: lobɐŋ	 gloss: hole
+C: word: sɛ̞ntɛ̞r̥	 gloss: flashlight
+D: word: lobe	 gloss: walk.searchingly.with.lamp
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 11:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ... mɔ bikɪn papɛda mɔ ___ anana makɐn
+Gloss (with missing item): ... want 3PL sagu.porridge want ___ RDP~child eat
+The English translation of this sentence is:‘[they said (they) wanted to catch chickens and then] (they) wanted to make sagu porridge to give the children to eat’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In fast speech, the close vowels /\textstyleChCharisSIL{i}/ and /\textstyleChCharisSIL{u}/ are very commonly lowered and realized as the close-mid vowels [\textstyleChCharisSIL{e}] and [\textstyleChCharisSIL{o}] respectively, as demonstrated in (\ref{Example_2.3}) to (\ref{Example_2.6}). In (\ref{Example_2.3}) the \isi{verb} \textitbf{kasi} ‘its gloss ___’ is realized as [\textstyleChCharisSIL{ˈka.se}], and in (\ref{Example_2.4}) the \isi{verb} \textitbf{balik} ‘turn around’ is realized as [\textstyleChCharisSIL{ˈba.le}].\footnote{Concerning the \isi{elision} of the word-final stop see §\ref{Para_2.3.1.2}.} In (\ref{Example_2.5}) the \isi{numeral} \textitbf{dua} ‘two’ is realized as [\textstyleChCharisSIL{ˈdo.a}] and in (\ref{Example_2.6}) the common \isi{noun} \textitbf{lubang} ‘hole’ is realized as [\textstyleChCharisSIL{ˈlo.bɐŋ}]
+A: word: kasi	 gloss: give
+B: word: kase	 gloss: give
+C: word: gaɾɐɐɐm	 gloss: salt
+D: word: siap	 gloss: provide
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 12:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): itu Bɔp Bɔp itu, de biasa ___
+Gloss (with missing item): D.DIST Bop Bop D.DIST 3SG be.usual ___
+The English translation of this sentence is:‘that was Bob, that Bob, he usually (flies) a circle’ (Lit. ‘turns around’)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In fast speech, the close vowels /\textstyleChCharisSIL{i}/ and /\textstyleChCharisSIL{u}/ are very commonly lowered and realized as the close-mid vowels [\textstyleChCharisSIL{e}] and [\textstyleChCharisSIL{o}] respectively, as demonstrated in (\ref{Example_2.3}) to (\ref{Example_2.6}). In (\ref{Example_2.3}) the \isi{verb} \textitbf{kasi} ‘give’ is realized as [\textstyleChCharisSIL{ˈka.se}], and in (\ref{Example_2.4}) the \isi{verb} \textitbf{balik} ‘turn around’ is realized as [\textstyleChCharisSIL{ˈba.le}].\footnote{Concerning the \isi{elision} of the word-final stop see §\ref{Para_2.3.1.2}.} In (\ref{Example_2.5}) the \isi{numeral} \textitbf{dua} ‘two’ is realized as [\textstyleChCharisSIL{ˈdo.a}] and in (\ref{Example_2.6}) the common \isi{noun} \textitbf{lubang} ‘hole’ is realized as [\textstyleChCharisSIL{ˈlo.bɐŋ}]
+A: word: belok	 gloss: turn
+B: word: kembali	 gloss: return
+C: word: bale	 gloss: turn.around
+D: word: doa	 gloss: two
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 13:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): skaɾɐn dɔ̞ŋ ___ mɐn.ʧɪŋ
+Gloss (with missing item): now 3PL ___ fish
+The English translation of this sentence is:‘now the two of them are fishing’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In fast speech, the close vowels /\textstyleChCharisSIL{i}/ and /\textstyleChCharisSIL{u}/ are very commonly lowered and realized as the close-mid vowels [\textstyleChCharisSIL{e}] and [\textstyleChCharisSIL{o}] respectively, as demonstrated in (\ref{Example_2.3}) to (\ref{Example_2.6}). In (\ref{Example_2.3}) the \isi{verb} \textitbf{kasi} ‘give’ is realized as [\textstyleChCharisSIL{ˈka.se}], and in (\ref{Example_2.4}) the \isi{verb} \textitbf{balik} ‘turn around’ is realized as [\textstyleChCharisSIL{ˈba.le}].\footnote{Concerning the \isi{elision} of the word-final stop see §\ref{Para_2.3.1.2}.} In (\ref{Example_2.5}) the \isi{numeral} \textitbf{dua} ‘its gloss ___’ is realized as [\textstyleChCharisSIL{ˈdo.a}] and in (\ref{Example_2.6}) the common \isi{noun} \textitbf{lubang} ‘hole’ is realized as [\textstyleChCharisSIL{ˈlo.bɐŋ}]
+A: word: doa	 gloss: two
+B: word: kedua	 gloss: second
+C: word: asar	 gloss: smoke
+D: word: berdoa	 gloss: pray
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 14:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): dɛ masʊk̚ ___ tu
+Gloss (with missing item): 3SG enter ___ D.DIST
+The English translation of this sentence is:‘it (the chicken) went into that hole (in the floor)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In fast speech, the close vowels /\textstyleChCharisSIL{i}/ and /\textstyleChCharisSIL{u}/ are very commonly lowered and realized as the close-mid vowels [\textstyleChCharisSIL{e}] and [\textstyleChCharisSIL{o}] respectively, as demonstrated in (\ref{Example_2.3}) to (\ref{Example_2.6}). In (\ref{Example_2.3}) the \isi{verb} \textitbf{kasi} ‘give’ is realized as [\textstyleChCharisSIL{ˈka.se}], and in (\ref{Example_2.4}) the \isi{verb} \textitbf{balik} ‘turn around’ is realized as [\textstyleChCharisSIL{ˈba.le}].\footnote{Concerning the \isi{elision} of the word-final stop see §\ref{Para_2.3.1.2}.} In (\ref{Example_2.5}) the \isi{numeral} \textitbf{dua} ‘two’ is realized as [\textstyleChCharisSIL{ˈdo.a}] and in (\ref{Example_2.6}) the common \isi{noun} \textitbf{lubang} ‘its gloss ___’ is realized as [\textstyleChCharisSIL{ˈlo.bɐŋ}]
+A: word: lobe	 gloss: walk.searchingly.with.lamp
+B: word: lobɐŋ	 gloss: hole
+C: word: kolam	 gloss: big.hole
+D: word: gaɾɐɐɐm	 gloss: salt
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+

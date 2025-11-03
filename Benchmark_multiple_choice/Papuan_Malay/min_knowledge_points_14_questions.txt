@@ -1,0 +1,728 @@
+Question 0:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ... apa biologi ___ apa astronomi dengang bahasa Inggris
+Gloss (with missing item): ... what biology ___ what astronomy with language England
+The English translation of this sentence is:[About a school competition] ‘[later they’ll participate in the Olympiad contest in,] what-is-it, biology and, what-is-it, astronomy and English’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{comitative} \isi{preposition} \textitbf{the morpheme ___} ‘its gloss ___’, its gloss ___ its short form \textitbf{deng}, typically conjoins \isi{noun} phrases (654 tokens). The conjoined referents can be animate as in (\ref{Example_14.6}), or inanimate as in (\ref{Example_14.7}). The fact that Papuan Malay employs the same marker for “\isi{noun} phrase \isi{conjunction} and \isi{comitative} phrases” suggests that, in terms of \citegen[1]{Stassen.2013b} typology, Papuan Malay is a ``\textsc{its gloss ___}{}-language''. Occasionally, \textitbf{deng(ang)} ‘its gloss ___’ also links \isi{verb} phrases (16 tokens) as in (\ref{Example_14.8}). The linking of clauses its gloss ___ \isi{comitative} \textitbf{the morpheme ___} ‘its gloss ___’ is unattested in the corpus. (Besides, \isi{comitative} \textitbf{the morpheme ___} ‘its gloss ___’ is also used to encode inclusory \isi{conjunction} constructions, as discussed in §\ref{Para_6.1.4}; for a detailed discussion of \isi{preposition} \textitbf{the morpheme ___} ‘its gloss ___’, see §\ref{Para_10.2.1}.)
+A: word: jangang	 gloss: NEG.IMP
+B: word: dengang	 gloss: with
+C: word: dang	 gloss: and
+D: word: tugu	 gloss: monument
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 1:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ... apa biologi dengang apa astronomi ___ bahasa Inggris
+Gloss (with missing item): ... what biology with what astronomy ___ language England
+The English translation of this sentence is:[About a school competition] ‘[later they’ll participate in the Olympiad contest in,] what-is-it, biology and, what-is-it, astronomy and English’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{comitative} \isi{preposition} \textitbf{the morpheme ___} ‘its gloss ___’, its gloss ___ its short form \textitbf{deng}, typically conjoins \isi{noun} phrases (654 tokens). The conjoined referents can be animate as in (\ref{Example_14.6}), or inanimate as in (\ref{Example_14.7}). The fact that Papuan Malay employs the same marker for “\isi{noun} phrase \isi{conjunction} and \isi{comitative} phrases” suggests that, in terms of \citegen[1]{Stassen.2013b} typology, Papuan Malay is a ``\textsc{its gloss ___}{}-language''. Occasionally, \textitbf{deng(ang)} ‘its gloss ___’ also links \isi{verb} phrases (16 tokens) as in (\ref{Example_14.8}). The linking of clauses its gloss ___ \isi{comitative} \textitbf{the morpheme ___} ‘its gloss ___’ is unattested in the corpus. (Besides, \isi{comitative} \textitbf{the morpheme ___} ‘its gloss ___’ is also used to encode inclusory \isi{conjunction} constructions, as discussed in §\ref{Para_6.1.4}; for a detailed discussion of \isi{preposition} \textitbf{the morpheme ___} ‘its gloss ___’, see §\ref{Para_10.2.1}.)
+A: word: jangang	 gloss: NEG.IMP
+B: word: dang	 gloss: and
+C: word: dengang	 gloss: with
+D: word: untuk	 gloss: for
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 2:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nene jam dua malam datang ___ menangis
+Gloss (with missing item): grandmother hour two night come ___ cry
+The English translation of this sentence is:‘at two o’clock in the morning grandmother came crying’ (Lit. ‘come with cry’)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{comitative} \isi{preposition} \textitbf{the morpheme ___ang} ‘its gloss ___’, its gloss ___ its short form \textitbf{the morpheme ___}, typically conjoins \isi{noun} phrases (654 tokens). The conjoined referents can be animate as in (\ref{Example_14.6}), or inanimate as in (\ref{Example_14.7}). The fact that Papuan Malay employs the same marker for “\isi{noun} phrase \isi{conjunction} and \isi{comitative} phrases” suggests that, in terms of \citegen[1]{Stassen.2013b} typology, Papuan Malay is a ``\textsc{its gloss ___}{}-language''. Occasionally, \textitbf{the morpheme ___(ang)} ‘its gloss ___’ also links \isi{verb} phrases (16 tokens) as in (\ref{Example_14.8}). The linking of clauses its gloss ___ \isi{comitative} \textitbf{the morpheme ___ang} ‘its gloss ___’ is unattested in the corpus. (Besides, \isi{comitative} \textitbf{the morpheme ___ang} ‘its gloss ___’ is also used to encode inclusory \isi{conjunction} constructions, as discussed in §\ref{Para_6.1.4}; for a detailed discussion of \isi{preposition} \textitbf{the morpheme ___ang} ‘its gloss ___’, see §\ref{Para_10.2.1}.)
+A: word: deng	 gloss: with
+B: word: dengang	 gloss: with
+C: word: supaya	 gloss: so.that
+D: word: dang	 gloss: and
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 3:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): de suda taw ruma ___ kampung
+Gloss (with missing item): 3SG already know house ___ village
+The English translation of this sentence is:‘he already knew the house and the village’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{conjunction} \textitbf{the morpheme ___} ‘its gloss ___’ typically links two clauses (168 tokens), as in (\ref{Example_14.9}). Less often, it links \isi{noun} phrases (24 tokens) as in (\ref{Example_14.10}) its gloss ___ (\ref{Example_14.11}), or \isi{verb} phrases (10 tokens) as in (\ref{Example_14.12}). Usually, the \isi{noun} phrases have human referents as in (\ref{Example_14.10}); coordination of inanimate referents, as in (\ref{Example_14.11}), is rare.
+A: word: sampe	 gloss: reach
+B: word: baru	 gloss: and.then
+C: word: badang	 gloss: body
+D: word: dang	 gloss: and
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 4:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): pagi helikopter turung ___ kembali ke Anggruk
+Gloss (with missing item): morning helicopter descend ___ return to Anggruk
+The English translation of this sentence is:‘in the morning the helicopter came down and returned to Anggruk’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{conjunction} \textitbf{the morpheme ___} ‘its gloss ___’ typically links two clauses (168 tokens), as in (\ref{Example_14.9}). Less often, it links \isi{noun} phrases (24 tokens) as in (\ref{Example_14.10}) its gloss ___ (\ref{Example_14.11}), or \isi{verb} phrases (10 tokens) as in (\ref{Example_14.12}). Usually, the \isi{noun} phrases have human referents as in (\ref{Example_14.10}); coordination of inanimate referents, as in (\ref{Example_14.11}), is rare.
+A: word: badang	 gloss: body
+B: word: dang	 gloss: and
+C: word: baru	 gloss: and.then
+D: word: karna	 gloss: because
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 5:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): de suda taw ruma ___ kampung
+Gloss (with missing item): 3SG already know house ___ village
+The English translation of this sentence is:‘he already knew the house and the village’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{conjunction} \textitbf{the morpheme ___} ‘its gloss ___’ typically links two clauses (168 tokens), as in (\ref{Example_14.9}). Less often, it links \isi{noun} phrases (24 tokens) as in (\ref{Example_14.10}) its gloss ___ (\ref{Example_14.11}), or \isi{verb} phrases (10 tokens) as in (\ref{Example_14.12}). Usually, the \isi{noun} phrases have human referents as in (\ref{Example_14.10}); coordination of inanimate referents, as in (\ref{Example_14.11}), is rare.
+A: word: karna	 gloss: because
+B: word: baru	 gloss: and.then
+C: word: dang	 gloss: and
+D: word: badang	 gloss: body
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 6:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ... nanti banjir ___ hujang ka, guntur ka
+Gloss (with missing item): ... very.soon flooding ___ rain or thunder or
+The English translation of this sentence is:‘[it’s not allowed to kill the snake otherwise] later (there’ll be) flooding, or rain, or thunder (or something else)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Disjunctive \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ signals series its gloss ___ sequences of alternatives. Occurring at the right periphery of a constituent, it indicates that a list of alternatives is not exhaustive. That is, a few possible options are overtly mentioned, while others are implied. To make the notion of ``non-exhaustive list of alternatives'' explicit, the \isi{conjunction} marks an \isi{interrogative} as the final enumerated constituent. Typically, \isi{disjunctive} \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ links \isi{noun} phrases, as in (\ref{Example_14.18}) and (\ref{Example_14.19}). In (\ref{Example_14.18}), the notion of a ``non-exhaustive list'' is implied, while in (\ref{Example_14.19}) it is overtly marked with \textitbf{apa the mits gloss ___pheme ___} ‘its gloss ___ something else’ (literally ‘what its gloss ___’). Less often, \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ combines prepositional phrases as in (\ref{Example_14.20}), its gloss ___ clauses as in (\ref{Example_14.21}); the linking of verbs with \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ is unattested in the cits gloss ___pus. Another function of \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’, not discussed here, is to mark \isi{interrogative} clauses (see §\ref{Para_13.2.3}).
+A: word: terbuka	 gloss: be.opened
+B: word: ka	 gloss: or
+C: word: ceritra	 gloss: tell
+D: word: dang	 gloss: and
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 7:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ... nanti banjir ka, hujang ___ guntur ka
+Gloss (with missing item): ... very.soon flooding or rain ___ thunder or
+The English translation of this sentence is:‘[it’s not allowed to kill the snake otherwise] later (there’ll be) flooding, or rain, or thunder (or something else)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Disjunctive \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ signals series its gloss ___ sequences of alternatives. Occurring at the right periphery of a constituent, it indicates that a list of alternatives is not exhaustive. That is, a few possible options are overtly mentioned, while others are implied. To make the notion of ``non-exhaustive list of alternatives'' explicit, the \isi{conjunction} marks an \isi{interrogative} as the final enumerated constituent. Typically, \isi{disjunctive} \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ links \isi{noun} phrases, as in (\ref{Example_14.18}) and (\ref{Example_14.19}). In (\ref{Example_14.18}), the notion of a ``non-exhaustive list'' is implied, while in (\ref{Example_14.19}) it is overtly marked with \textitbf{apa the mits gloss ___pheme ___} ‘its gloss ___ something else’ (literally ‘what its gloss ___’). Less often, \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ combines prepositional phrases as in (\ref{Example_14.20}), its gloss ___ clauses as in (\ref{Example_14.21}); the linking of verbs with \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ is unattested in the cits gloss ___pus. Another function of \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’, not discussed here, is to mark \isi{interrogative} clauses (see §\ref{Para_13.2.3}).
+A: word: ka	 gloss: or
+B: word: dang	 gloss: and
+C: word: terbuka	 gloss: be.opened
+D: word: gara-gara	 gloss: because
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 8:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ... nanti banjir ka, hujang ka, guntur ___
+Gloss (with missing item): ... very.soon flooding or rain or thunder ___
+The English translation of this sentence is:‘[it’s not allowed to kill the snake otherwise] later (there’ll be) flooding, or rain, or thunder (or something else)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Disjunctive \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ signals series its gloss ___ sequences of alternatives. Occurring at the right periphery of a constituent, it indicates that a list of alternatives is not exhaustive. That is, a few possible options are overtly mentioned, while others are implied. To make the notion of ``non-exhaustive list of alternatives'' explicit, the \isi{conjunction} marks an \isi{interrogative} as the final enumerated constituent. Typically, \isi{disjunctive} \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ links \isi{noun} phrases, as in (\ref{Example_14.18}) and (\ref{Example_14.19}). In (\ref{Example_14.18}), the notion of a ``non-exhaustive list'' is implied, while in (\ref{Example_14.19}) it is overtly marked with \textitbf{apa the mits gloss ___pheme ___} ‘its gloss ___ something else’ (literally ‘what its gloss ___’). Less often, \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ combines prepositional phrases as in (\ref{Example_14.20}), its gloss ___ clauses as in (\ref{Example_14.21}); the linking of verbs with \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ is unattested in the cits gloss ___pus. Another function of \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’, not discussed here, is to mark \isi{interrogative} clauses (see §\ref{Para_13.2.3}).
+A: word: dengang	 gloss: with
+B: word: ka	 gloss: or
+C: word: dang	 gloss: and
+D: word: terbuka	 gloss: be.opened
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 9:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ... nanti banjir ___ hujang ka, guntur ka
+Gloss (with missing item): ... very.soon flooding ___ rain or thunder or
+The English translation of this sentence is:‘[it’s not allowed to kill the snake otherwise] later (there’ll be) flooding, or rain, or thunder (or something else)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Disjunctive \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ signals series its gloss ___ sequences of alternatives. Occurring at the right periphery of a constituent, it indicates that a list of alternatives is not exhaustive. That is, a few possible options are overtly mentioned, while others are implied. To make the notion of ``non-exhaustive list of alternatives'' explicit, the \isi{conjunction} marks an \isi{interrogative} as the final enumerated constituent. Typically, \isi{disjunctive} \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ links \isi{noun} phrases, as in (\ref{Example_14.18}) and (\ref{Example_14.19}). In (\ref{Example_14.18}), the notion of a ``non-exhaustive list'' is implied, while in (\ref{Example_14.19}) it is overtly marked with \textitbf{apa the mits gloss ___pheme ___} ‘its gloss ___ something else’ (literally ‘what its gloss ___’). Less often, \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ combines prepositional phrases as in (\ref{Example_14.20}), its gloss ___ clauses as in (\ref{Example_14.21}); the linking of verbs with \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ is unattested in the cits gloss ___pus. Another function of \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’, not discussed here, is to mark \isi{interrogative} clauses (see §\ref{Para_13.2.3}).
+A: word: yang	 gloss: REL
+B: word: terbuka	 gloss: be.opened
+C: word: dang	 gloss: and
+D: word: ka	 gloss: or
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 10:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ... nanti banjir ka, hujang ___ guntur ka
+Gloss (with missing item): ... very.soon flooding or rain ___ thunder or
+The English translation of this sentence is:‘[it’s not allowed to kill the snake otherwise] later (there’ll be) flooding, or rain, or thunder (or something else)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Disjunctive \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ signals series its gloss ___ sequences of alternatives. Occurring at the right periphery of a constituent, it indicates that a list of alternatives is not exhaustive. That is, a few possible options are overtly mentioned, while others are implied. To make the notion of ``non-exhaustive list of alternatives'' explicit, the \isi{conjunction} marks an \isi{interrogative} as the final enumerated constituent. Typically, \isi{disjunctive} \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ links \isi{noun} phrases, as in (\ref{Example_14.18}) and (\ref{Example_14.19}). In (\ref{Example_14.18}), the notion of a ``non-exhaustive list'' is implied, while in (\ref{Example_14.19}) it is overtly marked with \textitbf{apa the mits gloss ___pheme ___} ‘its gloss ___ something else’ (literally ‘what its gloss ___’). Less often, \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ combines prepositional phrases as in (\ref{Example_14.20}), its gloss ___ clauses as in (\ref{Example_14.21}); the linking of verbs with \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ is unattested in the cits gloss ___pus. Another function of \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’, not discussed here, is to mark \isi{interrogative} clauses (see §\ref{Para_13.2.3}).
+A: word: sampe	 gloss: reach
+B: word: dang	 gloss: and
+C: word: ka	 gloss: or
+D: word: terbuka	 gloss: be.opened
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 11:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ... nanti banjir ka, hujang ka, guntur ___
+Gloss (with missing item): ... very.soon flooding or rain or thunder ___
+The English translation of this sentence is:‘[it’s not allowed to kill the snake otherwise] later (there’ll be) flooding, or rain, or thunder (or something else)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Disjunctive \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ signals series its gloss ___ sequences of alternatives. Occurring at the right periphery of a constituent, it indicates that a list of alternatives is not exhaustive. That is, a few possible options are overtly mentioned, while others are implied. To make the notion of ``non-exhaustive list of alternatives'' explicit, the \isi{conjunction} marks an \isi{interrogative} as the final enumerated constituent. Typically, \isi{disjunctive} \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ links \isi{noun} phrases, as in (\ref{Example_14.18}) and (\ref{Example_14.19}). In (\ref{Example_14.18}), the notion of a ``non-exhaustive list'' is implied, while in (\ref{Example_14.19}) it is overtly marked with \textitbf{apa the mits gloss ___pheme ___} ‘its gloss ___ something else’ (literally ‘what its gloss ___’). Less often, \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ combines prepositional phrases as in (\ref{Example_14.20}), its gloss ___ clauses as in (\ref{Example_14.21}); the linking of verbs with \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ is unattested in the cits gloss ___pus. Another function of \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’, not discussed here, is to mark \isi{interrogative} clauses (see §\ref{Para_13.2.3}).
+A: word: terbuka	 gloss: be.opened
+B: word: dang	 gloss: and
+C: word: ka	 gloss: or
+D: word: taw	 gloss: know
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 12:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ko lapor di umum ___ di keuangang ka
+Gloss (with missing item): 2SG report at general ___ at finance.affairs or
+The English translation of this sentence is:[About a government office:] ‘you (should) report to the general (office), or the finance (office) (or some other office)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Disjunctive \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ signals series its gloss ___ sequences of alternatives. Occurring at the right periphery of a constituent, it indicates that a list of alternatives is not exhaustive. That is, a few possible options are overtly mentioned, while others are implied. To make the notion of ``non-exhaustive list of alternatives'' explicit, the \isi{conjunction} marks an \isi{interrogative} as the final enumerated constituent. Typically, \isi{disjunctive} \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ links \isi{noun} phrases, as in (\ref{Example_14.18}) and (\ref{Example_14.19}). In (\ref{Example_14.18}), the notion of a ``non-exhaustive list'' is implied, while in (\ref{Example_14.19}) it is overtly marked with \textitbf{apa the mits gloss ___pheme ___} ‘its gloss ___ something else’ (literally ‘what its gloss ___’). Less often, \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ combines prepositional phrases as in (\ref{Example_14.20}), its gloss ___ clauses as in (\ref{Example_14.21}); the linking of verbs with \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ is unattested in the cits gloss ___pus. Another function of \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’, not discussed here, is to mark \isi{interrogative} clauses (see §\ref{Para_13.2.3}).
+A: word: dang	 gloss: and
+B: word: biar	 gloss: let
+C: word: ka	 gloss: or
+D: word: terbuka	 gloss: be.opened
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 13:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ko lapor di umum ka, di keuangang ___
+Gloss (with missing item): 2SG report at general or at finance.affairs ___
+The English translation of this sentence is:[About a government office:] ‘you (should) report to the general (office), or the finance (office) (or some other office)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Disjunctive \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ signals series its gloss ___ sequences of alternatives. Occurring at the right periphery of a constituent, it indicates that a list of alternatives is not exhaustive. That is, a few possible options are overtly mentioned, while others are implied. To make the notion of ``non-exhaustive list of alternatives'' explicit, the \isi{conjunction} marks an \isi{interrogative} as the final enumerated constituent. Typically, \isi{disjunctive} \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ links \isi{noun} phrases, as in (\ref{Example_14.18}) and (\ref{Example_14.19}). In (\ref{Example_14.18}), the notion of a ``non-exhaustive list'' is implied, while in (\ref{Example_14.19}) it is overtly marked with \textitbf{apa the mits gloss ___pheme ___} ‘its gloss ___ something else’ (literally ‘what its gloss ___’). Less often, \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ combines prepositional phrases as in (\ref{Example_14.20}), its gloss ___ clauses as in (\ref{Example_14.21}); the linking of verbs with \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’ is unattested in the cits gloss ___pus. Another function of \textitbf{the mits gloss ___pheme ___} ‘its gloss ___’, not discussed here, is to mark \isi{interrogative} clauses (see §\ref{Para_13.2.3}).
+A: word: dang	 gloss: and
+B: word: ka	 gloss: or
+C: word: terbuka	 gloss: be.opened
+D: word: habis	 gloss: be.used.up
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 14:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ saya ... tinggal di kampung sa kerja sperti {laki\Tildelaki}
+Gloss (with missing item): ___ 1SG ... stay at village 1SG work similar.to {RDP\Tildehusband}
+The English translation of this sentence is:‘when I ... lived in the village, I worked like a man’ (Lit. ‘(at that) time’) [081014-007-Pr.0048] \z
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: This section describes five conjunctions: \isi{sequential} \textitbf{trus} ‘next’ (§\ref{Para_14.2.3.1}) and \textitbf{baru} ‘and then’ (§\ref{Para_14.2.3.2}), anteriority-marking \textitbf{sampe} ‘until’ (§\ref{Para_14.2.3.3}) and \textitbf{seblum} ‘before’ (§\ref{Para_14.2.3.4}), and \isi{posteriority-marking}/\isi{conditional} \textitbf{kalo} ‘when, if’ (§\ref{Para_14.2.3.5}).\footnote{Papuan Malay does not have a \isi{conjunction} that marks temporal simultaneity between two clauses. Instead speakers use the common \isi{noun} \textitbf{the morpheme ___} ‘its gloss ___’ when they want to signal that the events described in each clause happened at the same its gloss ___, as in (\ref{Footnote_Example_14.4}) below:
+A: word: jangang	 gloss: NEG.IMP
+B: word: swak~swak	 gloss: RDP~be.exhausted
+C: word: waktu	 gloss: time
+D: word: sperti	 gloss: like
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 15:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ Pawlus dej sandar di dei pu badang begini,
+Gloss (with missing item): ___ Pawlus 3SG lean at 3SG POSS body like.this
+The English translation of this sentence is:‘but then Pawlus was leaning against her body like this’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Typically, \textitbf{the morpheme ___} ‘and then’ occurs in clause-initial position where it marks an immediate subsequent event or action, similar to \isi{sequential} \textitbf{trus} ‘next’ (§\ref{Para_14.2.3.1}). Concurrently, however, the \isi{conjunction} signals another piece of information, as shown in (\ref{Example_14.25}) (note that this example presents contiguous text). Depending on the context, the \isi{conjunction} marks noteworthy parts and/or signals a new aspect or perspective regarding the event or discourse unfolding. In this case \textitbf{the morpheme ___} translates with ‘but then’, as in (\ref{Example_14.25b}) or ‘and then’ as in (\ref{Example_14.25c}). Alternatively, the \isi{conjunction} signals that the event depicted in its clause does not occur until after the event of the preceding clause. In this case, it translates with ‘only then’, as in (\ref{Example_14.25a}). In marking contrastive sequentiality, \textitbf{the morpheme ___} ‘and then’ differs from \textitbf{trus} ‘next’ which indicates neutral sequentiality (see §\ref{Para_14.2.3.1}).
+A: word: baru	 gloss: and.then
+B: word: ceritra	 gloss: tell
+C: word: dang	 gloss: and
+D: word: baru~baru	 gloss: RDP~recently
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 16:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tong ... jaga diai sampe jam satu, ___ tong tidor,
+Gloss (with missing item): 1PL ... guard 3SG until hour one ___ 1PL sleep
+The English translation of this sentence is:[About a sick relative:] ‘we ... watched her until one o’clock, only then did we sleep’.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Typically, \textitbf{the morpheme ___} ‘and then’ occurs in clause-initial position where it marks an immediate subsequent event or action, similar to \isi{sequential} \textitbf{trus} ‘next’ (§\ref{Para_14.2.3.1}). Concurrently, however, the \isi{conjunction} signals another piece of information, as shown in (\ref{Example_14.25}) (note that this example presents contiguous text). Depending on the context, the \isi{conjunction} marks noteworthy parts and/or signals a new aspect or perspective regarding the event or discourse unfolding. In this case \textitbf{the morpheme ___} translates with ‘but then’, as in (\ref{Example_14.25b}) or ‘and then’ as in (\ref{Example_14.25c}). Alternatively, the \isi{conjunction} signals that the event depicted in its clause does not occur until after the event of the preceding clause. In this case, it translates with ‘only then’, as in (\ref{Example_14.25a}). In marking contrastive sequentiality, \textitbf{the morpheme ___} ‘and then’ differs from \textitbf{trus} ‘next’ which indicates neutral sequentiality (see §\ref{Para_14.2.3.1}).
+A: word: baru	 gloss: and.then
+B: word: ceritra	 gloss: tell
+C: word: baru~baru	 gloss: RDP~recently
+D: word: dang	 gloss: and
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 17:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ Pawlus dej sandar di dei pu badang begini,
+Gloss (with missing item): ___ Pawlus 3SG lean at 3SG POSS body like.this
+The English translation of this sentence is:‘but then Pawlus was leaning against her body like this’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As for subject reference, an initial inspection of the \textitbf{the morpheme ___} ‘and then’ tokens in the corpus suggests that the \isi{conjunction} more often links clauses with a switch in reference (524 tokens), as in (\ref{Example_14.25b}), than clauses with same-subject coreference (455 tokens), as in (\ref{Example_14.25a} and \ref{Example_14.25c}). In this respect, \textitbf{the morpheme ___} ‘and then’ behaves like \textitbf{trus} ‘next’ (see §\ref{Para_14.2.3.1}).
+A: word: baru~baru	 gloss: RDP~recently
+B: word: baru	 gloss: and.then
+C: word: dang	 gloss: and
+D: word: deng	 gloss: with
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 18:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tong ... jaga diai sampe jam satu, ___ tong tidor,
+Gloss (with missing item): 1PL ... guard 3SG until hour one ___ 1PL sleep
+The English translation of this sentence is:[About a sick relative:] ‘we ... watched her until one o’clock, only then did we sleep’.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As for subject reference, an initial inspection of the \textitbf{the morpheme ___} ‘and then’ tokens in the corpus suggests that the \isi{conjunction} more often links clauses with a switch in reference (524 tokens), as in (\ref{Example_14.25b}), than clauses with same-subject coreference (455 tokens), as in (\ref{Example_14.25a} and \ref{Example_14.25c}). In this respect, \textitbf{the morpheme ___} ‘and then’ behaves like \textitbf{trus} ‘next’ (see §\ref{Para_14.2.3.1}).
+A: word: baru~baru	 gloss: RDP~recently
+B: word: dang	 gloss: and
+C: word: baru	 gloss: and.then
+D: word: gara-gara	 gloss: because
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 19:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ... de harus taru di mata-hari, ___ de jadi papeda
+Gloss (with missing item): ... 3SG have.to put at sun ___ 3SG become sagu.porridge
+The English translation of this sentence is:[Before an ancestor had fire to heat water:] ‘[when he wanted to make sagu porridge,] he had to leave (the sago) out in the sun until it turned into sagu porridge’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Usually, \textitbf{the morpheme ___} ‘its gloss ___’ marks \isi{anteriority}. That is, it signals that the event or state of the unmarked clause occurs prior to that of the temporal clause, as shown in (\ref{Example_14.27}). Concurrently, \textitbf{the morpheme ___} ‘its gloss ___’ marks temporal extent in that it indicates that the event or state of the unmarked clause continues its gloss ___ the event or state of the temporal clause comes about. Depending on the context, temporal \textitbf{the morpheme ___} ‘its gloss ___’ can also receive a \isi{resultative} reading in the sense of ``with the result that'', as in (\ref{Example_14.28}). Given that the \isi{resultative} reading of \textitbf{the morpheme ___} ‘its gloss ___’ is the derived, marginal one, this result-marking function of \textitbf{the morpheme ___} ‘its gloss ___’ is not further discussed in §\ref{Para_14.2.4}.
+A: word: bli	 gloss: buy
+B: word: sampe	 gloss: until
+C: word: dang	 gloss: and
+D: word: sampeee	 gloss: reach
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 20:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): de bilang, ___ kitong pergi ke kota, kitong cuci muka dulu
+Gloss (with missing item): 3SG say ___ 1PL go to city 1PL wash front first
+The English translation of this sentence is:‘he said, ``before we go to the city, we wash (our) faces first'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Anteriority-marking \textitbf{the morpheme ___} ‘its gloss ___’ also introduces a temporal clause.\footnote{The \isi{conjunction} \textitbf{the morpheme ___} ‘its gloss ___’ is \isi{historically derived} from the aspectual ad\isi{verb} \textitbf{blum} ‘not yet’: \textitbf{se-blum} ‘one-not.yet’ (see §\ref{Para_5.4.1}).} It indicates – similar to \textitbf{sampe} ‘until’ – that the event or state of the unmarked clause occurs prior to that of the temporal clause. Unlike \textitbf{sampe} ‘until’, however, \textitbf{the morpheme ___} ‘its gloss ___’ does not signal extent. The temporal clause with \textitbf{the morpheme ___} ‘its gloss ___’ can precede or follow the unmarked clause, as shown in (\ref{Example_14.29}) and (\ref{Example_14.30}), respectively. In the corpus, however, the temporal clause more often precedes the unmarked clause (21 tokens) rather than follows it (8 tokens).
+A: word: blum	 gloss: not.yet
+B: word: tadi	 gloss: earlier
+C: word: baru	 gloss: and.then
+D: word: seblum	 gloss: before
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 21:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ... saya suda punya rencana juga, ___ sa kluar
+Gloss (with missing item): ... 1SG already have plan also ___ 1SG go.out
+The English translation of this sentence is:‘[when I hunt without taking dogs, I leave in the night,] I also already have a plan before I leave’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Anteriority-marking \textitbf{the morpheme ___} ‘its gloss ___’ also introduces a temporal clause.\footnote{The \isi{conjunction} \textitbf{the morpheme ___} ‘its gloss ___’ is \isi{historically derived} from the aspectual ad\isi{verb} \textitbf{blum} ‘not yet’: \textitbf{se-blum} ‘one-not.yet’ (see §\ref{Para_5.4.1}).} It indicates – similar to \textitbf{sampe} ‘until’ – that the event or state of the unmarked clause occurs prior to that of the temporal clause. Unlike \textitbf{sampe} ‘until’, however, \textitbf{the morpheme ___} ‘its gloss ___’ does not signal extent. The temporal clause with \textitbf{the morpheme ___} ‘its gloss ___’ can precede or follow the unmarked clause, as shown in (\ref{Example_14.29}) and (\ref{Example_14.30}), respectively. In the corpus, however, the temporal clause more often precedes the unmarked clause (21 tokens) rather than follows it (8 tokens).
+A: word: dang	 gloss: and
+B: word: tadi	 gloss: earlier
+C: word: blum	 gloss: not.yet
+D: word: seblum	 gloss: before
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 22:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ dong tendang de pu kaki tu, dia pegang bola
+Gloss (with missing item): ___ 3PL kick 3SG POSS foot D.DIST 3SG hold ball
+The English translation of this sentence is:[About a football match:] ‘when they kicked those legs of his, he grabbed the ball’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Whether \textitbf{the morpheme ___} ‘its gloss ___, if’ receives a temporal reading as in (\ref{Example_14.31}) and (\ref{Example_14.32}), or a \isi{conditional} reading, as in (\ref{Example_14.33}) and (\ref{Example_14.34}), is context-dependent. Quite often, though, both interpretations are possible, as shown in (\ref{Example_14.35}). As mentioned, this lack of a “distinction between ‘if’ clauses and ‘its gloss ___’ clauses” is also found in other languages; examples are “Indonesian and certain languages of Papua New Guinea” \citep[257]{Thompson.2007}.
+A: word: kali	 gloss: river
+B: word: seblum	 gloss: before
+C: word: sperti	 gloss: like
+D: word: kalo	 gloss: when
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 23:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ko alpa, kitong tra jalang
+Gloss (with missing item): ___ 2SG be.absent 1PL NEG walk
+The English translation of this sentence is:[Talking to her son about an upcoming trip:] ‘if you play hooky, we won’t go’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Whether \textitbf{the morpheme ___} ‘when, its gloss ___’ receives a temporal reading as in (\ref{Example_14.31}) and (\ref{Example_14.32}), or a \isi{conditional} reading, as in (\ref{Example_14.33}) and (\ref{Example_14.34}), is context-dependent. Quite often, though, both interpretations are possible, as shown in (\ref{Example_14.35}). As mentioned, this lack of a “distinction between ‘its gloss ___’ clauses and ‘when’ clauses” is also found in other languages; examples are “Indonesian and certain languages of Papua New Guinea” \citep[257]{Thompson.2007}.
+A: word: mungking	 gloss: maybe
+B: word: kali	 gloss: river
+C: word: waktu	 gloss: when
+D: word: kalo	 gloss: if
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 24:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ bapa datang, pluk bapa
+Gloss (with missing item): ___ father come embrace father
+The English translation of this sentence is:‘when/if you (‘father’) come (here), (I’ll) embrace you (‘father’)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Whether \textitbf{the morpheme ___} ‘when, if’ receives a temporal reading as in (\ref{Example_14.31}) and (\ref{Example_14.32}), or a \isi{conditional} reading, as in (\ref{Example_14.33}) and (\ref{Example_14.34}), is context-dependent. Quite often, though, both interpretations are possible, as shown in (\ref{Example_14.35}). As mentioned, this lack of a “distinction between ‘if’ clauses and ‘when’ clauses” is also found in other languages; examples are “Indonesian and certain languages of Papua New Guinea” \citep[257]{Thompson.2007}.
+A: word: kalo	 gloss: when/if
+B: word: tugu	 gloss: monument
+C: word: sidang	 gloss: (church.)gathering
+D: word: kali	 gloss: river
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 25:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ dong tendang de pu kaki tu, dia pegang bola
+Gloss (with missing item): ___ 3PL kick 3SG POSS foot D.DIST 3SG hold ball
+The English translation of this sentence is:[About a football match:] ‘when they kicked those legs of his, he grabbed the ball’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When marking posteriority, \textitbf{the morpheme ___} translates with ‘its gloss ___’; it signals that the event or state of the unmarked main clause occurs subsequent to that of the temporal clause, as in (\ref{Example_14.31}). When the \isi{conjunction} co-occurs with the retrospective ad\isi{verb} \textitbf{suda} ‘already’, or with its short form \textitbf{su}, it projects these events or states to the future; in this case \textitbf{the morpheme ___} translates with ‘once’. That is, in combination with \textitbf{suda} ‘already’, the \isi{conjunction} signals that the event or state of the unmarked clause will eventuate, once that of the temporal clause has come about, as in (\ref{Example_14.32}).
+A: word: kalo	 gloss: when
+B: word: kali	 gloss: river
+C: word: seblum	 gloss: before
+D: word: fitri	 gloss: Fitri
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 26:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ko alpa, kitong tra jalang
+Gloss (with missing item): ___ 2SG be.absent 1PL NEG walk
+The English translation of this sentence is:[Talking to her son about an upcoming trip:] ‘if you play hooky, we won’t go’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In a dits gloss ___ferent context, the \isi{conjunction} receives a \isi{conditional} reading and signals, what \citet[6]{Kaufmann.2006} calls, ``indicative \isi{conditional}'' relations or ``counterfactual \isi{conditional}'' relations. In such a context \textitbf{the morpheme ___} translates with ‘its gloss ___’. An indicative \isi{conditional} relation indicates that it is possible for the \isi{condition} presented in its clause to be met. In this case the event or state of the unmarked clause will also come about, as shown in (\ref{Example_14.33}). When \isi{conditional} \textitbf{the morpheme ___} ‘its gloss ___’ co-occurs with retrospective \textitbf{suda} ‘already’, the clause receives a counterfactual \isi{conditional} reading. That is, it signals that the \isi{condition} was not met in the past. If the \isi{condition} had been met, however, then the event or state of the unmarked clause would also have come about. This is illustrated in (\ref{Example_14.34}).
+A: word: mungking	 gloss: maybe
+B: word: tugu	 gloss: monument
+C: word: kali	 gloss: river
+D: word: kalo	 gloss: if
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 27:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ bapa datang, pluk bapa
+Gloss (with missing item): ___ father come embrace father
+The English translation of this sentence is:‘when/if you (‘father’) come (here), (I’ll) embrace you (‘father’)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent Rather commonly, \textitbf{the morpheme ___} ‘when, if’ allows both a temporal and a \isi{conditional} reading, as in (\ref{Example_14.35}).
+A: word: kejar	 gloss: chase
+B: word: kalo	 gloss: when/if
+C: word: kali	 gloss: river
+D: word: tapi	 gloss: but
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 28:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Musa ini, e, de {loyo\Tildeloyo} ini, de bangung tidor ___
+Gloss (with missing item): Musa D.PROX uh 3SG RDP\Tildebe.weak this 3SG wake.up sleep ___
+The English translation of this sentence is:[About a small boy:] ‘Musa here, uh, right now he’s kind of weak since he woke up from sleeping’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{resultative}/\isi{causal} \isi{conjunction} \textitbf{the morpheme ___} ‘its gloss ___, since’ most often marks a \isi{resultative} relation between two clauses, as shown in (\ref{Example_14.36}). In addition, although less often, the \isi{conjunction} signals a \isi{causal} relation, as illustrated in (\ref{Example_14.37}). The \isi{conjunction} has dual \isi{word class membership}; it is alits gloss ___ used as the \isi{bivalent} \isi{verb} \textitbf{the morpheme ___} ‘become’ (see §\ref{Para_5.14}).
+A: word: jadi	 gloss: so
+B: word: terjadi	 gloss: happen
+C: word: supaya	 gloss: so.that
+D: word: habis	 gloss: be.used.up
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 29:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Musa ini, e, de {loyo\Tildeloyo} ini, de bangung tidor ___
+Gloss (with missing item): Musa D.PROX uh 3SG RDP\Tildebe.weak this 3SG wake.up sleep ___
+The English translation of this sentence is:[About a small boy:] ‘Musa here, uh, right now he’s kind of weak since he woke up from sleeping’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Alternatively, but less often, the \isi{conjunction} occurs in clause-final position of a cause clause where it marks a \isi{causal} relation with the preceding unmarked clause, as in (\ref{Example_14.37}). In this position, the \isi{conjunction} signals that its gloss ___mething depicted in its clause is the cause for the event or state of the unmarked clause, and that the result depicted in the unmarked clause is anticipated. Hence, \textitbf{the morpheme ___} translates with ‘since’. In that the result is expected, \isi{causal} \textitbf{the morpheme ___} ‘since’ differs from neutral causality-marking \textitbf{karna} ‘because’ (see §\ref{Para_14.2.4.4}).
+A: word: supaya	 gloss: so.that
+B: word: jadi	 gloss: so
+C: word: terjadi	 gloss: happen
+D: word: deng	 gloss: with
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 30:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): e, angkat muka, ___ Ø liat orang!
+Gloss (with missing item): hey! lift front ___ ... see person
+The English translation of this sentence is:‘hey, lift (your) face so that (you) see (the other) people!’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Purposive \textitbf{the morpheme ___} ‘so that’ introduces a purpose clause which follows the unmarked clause. The \isi{conjunction} signals that the event or state of its clause is the intended outcome of the deliberate activity depicted in the unmarked clause. Most often, \textitbf{the morpheme ___} ‘so that’ introduces a purpose clause with an overt subject (96/129 tokens – 74%), as in (\ref{Example_14.38}). Less often, the \isi{conjunction} introduces a purpose clause with elided subject (33/129 tokens – 26%), as in (\ref{Example_14.39}).
+A: word: saya	 gloss: 1SG
+B: word: bahwa	 gloss: that
+C: word: supaya	 gloss: so.that
+D: word: baru	 gloss: and.then
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 31:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ... tida bole, ini, kamu datang, ___ kamu skola
+Gloss (with missing item): ... NEG may D.PROX 2PL come ___ 2PL go.to.school
+The English translation of this sentence is:‘[you shouldn’t hate each other, (you) shouldn’t infuriate each other,] (you) shouldn’t (do all this), what’s-its-name, you came (here) to go to school’ (Lit. ‘for you (to) go to school’)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As a \isi{conjunction}, the benefactive \isi{preposition} \textitbf{the morpheme ___} ‘its gloss ___’ signals a purpose relation between two clauses (its gloss ___ a description of \isi{preposition} \textitbf{the morpheme ___} ‘its gloss ___’, see §\ref{Para_10.2.3}). Purposive \textitbf{the morpheme ___} ‘its gloss ___’, like \textitbf{supaya} ‘so that’ (see §\ref{Para_14.2.4.2}), introduces a purpose clause which expresses the intended outcome of the purposeful activity depicted in the preceding unmarked clause, as shown in (\ref{Example_14.40}) and (\ref{Example_14.41}). Usually, \textitbf{the morpheme ___} ‘its gloss ___’ introduces a purpose clause with an elided subject (115/163 tokens – 71%), as shown with the second \textitbf{the morpheme ___} ‘its gloss ___’ token in (\ref{Example_14.40}). Much less often the \isi{conjunction} introduces a purpose clause with an overt subject (48/163tokens – 29%), as shown with the first \textitbf{the morpheme ___} ‘its gloss ___’ token in (\ref{Example_14.40}), or as in (\ref{Example_14.41}).
+A: word: misalnya	 gloss: for.example
+B: word: guntur	 gloss: thunder
+C: word: yang	 gloss: REL
+D: word: untuk	 gloss: for
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 32:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ... tida bole, ini, kamu datang, ___ kamu skola
+Gloss (with missing item): ... NEG may D.PROX 2PL come ___ 2PL go.to.school
+The English translation of this sentence is:‘[you shouldn’t hate each other, (you) shouldn’t infuriate each other,] (you) shouldn’t (do all this), what’s-its-name, you came (here) to go to school’ (Lit. ‘for you (to) go to school’)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As a \isi{conjunction}, the benefactive \isi{preposition} \textitbf{the morpheme ___} ‘its gloss ___’ signals a purpose relation between two clauses (its gloss ___ a description of \isi{preposition} \textitbf{the morpheme ___} ‘its gloss ___’, see §\ref{Para_10.2.3}). Purposive \textitbf{the morpheme ___} ‘its gloss ___’, like \textitbf{supaya} ‘so that’ (see §\ref{Para_14.2.4.2}), introduces a purpose clause which expresses the intended outcome of the purposeful activity depicted in the preceding unmarked clause, as shown in (\ref{Example_14.40}) and (\ref{Example_14.41}). Usually, \textitbf{the morpheme ___} ‘its gloss ___’ introduces a purpose clause with an elided subject (115/163 tokens – 71%), as shown with the second \textitbf{the morpheme ___} ‘its gloss ___’ token in (\ref{Example_14.40}). Much less often the \isi{conjunction} introduces a purpose clause with an overt subject (48/163tokens – 29%), as shown with the first \textitbf{the morpheme ___} ‘its gloss ___’ token in (\ref{Example_14.40}), or as in (\ref{Example_14.41}).
+A: word: misalnya	 gloss: for.example
+B: word: nelci	 gloss: Nelci
+C: word: guntur	 gloss: thunder
+D: word: untuk	 gloss: for
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 33:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): saya bisa pulang, ___ sa su dapat babi
+Gloss (with missing item): 1SG be.able go.home ___ 1SG already get pig
+The English translation of this sentence is:[Hunting a wild pig:] ‘I can return home because I already got the pig’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Causal \textitbf{the morpheme ___} ‘its gloss ___’ signals a neutral \isi{causal} relation between two clauses by introducing a cause clause which gives the reason for the event or state depicted in the unmarked clause. Usually the cause clause follows the unmarked clause, as in (\ref{Example_14.42}). In combination with \isi{adversative} \textitbf{tapi} ‘but’ (see §\ref{Para_14.2.5.1}), however, it can precede the unmarked clause, as in (\ref{Example_14.43}). In this case the unmarked clause is often introduced with \isi{resultative} \textitbf{jadi} ‘so’. Signaling neutral causality, \textitbf{the morpheme ___} ‘its gloss ___’ is distinct from \isi{causal} \textitbf{jadi} ‘since’ which marks expected results (see §\ref{Para_14.2.4.1}), and from \isi{causal} \textitbf{gara-gara} ‘its gloss ___’ which marks emotive \isi{causal} relations (see §\ref{Para_14.2.4.5}).
+A: word: knapa	 gloss: why
+B: word: perna	 gloss: ever
+C: word: fitri	 gloss: Fitri
+D: word: karna	 gloss: because
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 34:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): sap prut sakit, ___ sa makang nasi
+Gloss (with missing item): 1SG:POSS stomach be.sick ___ 1SG eat cooked.rice
+The English translation of this sentence is:‘my stomach was sick because I ate rice’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Most often, the cause clause marked with \textitbf{the morpheme ___} ‘its gloss ___’ follows the unmarked clause, as in (\ref{Example_14.44}). Alternatively, the cause clause can precede the unmarked clause. In this case, \isi{adversative} \textitbf{tapi} ‘but’ (see §\ref{Para_14.2.5.1}) precedes \textitbf{the morpheme ___} ‘its gloss ___’, as in (\ref{Example_14.45}), in the same way as \textitbf{tapi} ‘but’ precedes \textitbf{karna} ‘its gloss ___’ (see §\ref{Para_14.2.4.4}).
+A: word: gara-gara	 gloss: because
+B: word: biar	 gloss: let
+C: word: knapa	 gloss: why
+D: word: gara~gara	 gloss: RDP~irritate
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 35:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): de bisa maing gitar, ___ de malu
+Gloss (with missing item): 3SG be.able play guitar ___ 3SG feel.embarrassed(.about)
+The English translation of this sentence is:‘she can play the guitar but she feels shy (about it)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Adversative \textitbf{the morpheme ___} ‘its gloss ___’ occurs in interclausal position. It marks an \isi{adversative} contrast relation between the clause it introduces and the preceding unmarked clause, as shown in (\ref{Example_14.46}) and (\ref{Example_14.47}).
+A: word: tapi	 gloss: but
+B: word: minum	 gloss: drink
+C: word: padahal	 gloss: but.actually
+D: word: rapi	 gloss: be.neat
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 36:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): bilang bapa, kirim tong uang, ___ sa susa to?
+Gloss (with missing item): say father send 1PL money ___ 1SG difficult right?
+The English translation of this sentence is:‘say (to) father, ``send us money, after all, I have difficulties, right?'''
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Introducing a contrast clause that follows the unmarked clause, \textitbf{the morpheme ___} ‘after all’ summarizes what has been said before and signals that the propositional content of its clause is true in spite of the content of the preceding unmarked clause, as shown in (\ref{Example_14.48}) and (\ref{Example_14.49}). At the same time, the \isi{conjunction} signals that the interlocutor is expected to know that this content is true. Thereby \textitbf{the morpheme ___} ‘after all’ is distinct from \isi{adversative} \textitbf{tapi} ‘but’ (see §\ref{Para_14.2.5.2}). Adversative \textitbf{the morpheme ___} ‘after all’ is also distinct from counter-expectational \textitbf{baru} ‘after all’ which merely summarizes what has been said before (see §\ref{Para_14.2.3.2}). The exchange in (\ref{Example_14.49}) illustrates that there does not need to be an overt unmarked clause which precedes the contrast clause: speakers also use \textitbf{the morpheme ___} ‘after all’ to reply to an interlocutor’s statements.
+A: word: nelci	 gloss: Nelci
+B: word: habis	 gloss: after.all
+C: word: bisa	 gloss: be.able
+D: word: biri	 gloss: Biri
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 37:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yo, ___ makangang tinggi, de ambil
+Gloss (with missing item): yes ___ food be.high 3SG fetch
+The English translation of this sentence is:[About a greedy child:] ‘yes, although the food is (placed) high (up on a shelf), he takes (it)’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Introducing a concession clause, \textitbf{the morpheme ___} ‘its gloss ___’ signals that despite the event or state depicted in its clause, the event or state depicted in the unmarked clause occurred. Usually, the concession clause precedes the unmarked clause, whereby the concession is emphasized, as in (\ref{Example_14.52}). Alternatively, its gloss ___ less often, it can follow the unmarked clause, in which case the content of the latter clause is emphasized, as in (\ref{Example_14.53}).
+A: word: sperti	 gloss: like
+B: word: piara	 gloss: raise
+C: word: srej	 gloss: lemongrass
+D: word: biar	 gloss: although
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 38:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mama dia lupa kamu, ___ kacang lupa kulit
+Gloss (with missing item): mother 3SG forget 2PL ___ bean forget skin
+The English translation of this sentence is:‘mother forgot you (in a way that is) similar to a bean forgetting its skin’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Derived from their prepositional semantics, \textitbf{the morpheme ___} ‘similar to’ signals likeness in some, often implied, respect, while \textitbf{kaya} ‘like’ marks overall resemblance, as shown in (\ref{Example_14.54}) and (\ref{Example_14.55}), respectively. (See §\ref{Para_10.3.1} and §\ref{Para_10.3.2} for a detailed discussion of the prepositions \textitbf{the morpheme ___} ‘similar to’ and \textitbf{kaya} ‘like’ and their semantics.)
+A: word: sperti–nya	 gloss: similar.to–3POSSR
+B: word: sperti	 gloss: similar.to
+C: word: karna	 gloss: because
+D: word: lepas~lepas	 gloss: RDP~free
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 39:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): sa tida ___ bahwa jam tiga itu de su meninggal
+Gloss (with missing item): 1SG NEG ___ that hour three D.DIST 3SG already die
+The English translation of this sentence is:‘I didn’t know that by three o’clock she had already died’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Two structural patterns are attested for complementation with \textitbf{bahwa} ‘that’. Usually, the \isi{verb} is followed by the clausal complement with \textitbf{bahwa} ‘that’ (61 tokens), as in (\ref{Example_14.56}) and (\ref{Example_14.57}). Alternatively, although much less often, the \isi{verb} is followed by an object which is followed by the clausal complement (8 tokens), as in (\ref{Example_14.58}).\footnote{Typically, speakers report speech in the form of \isi{direct speech} rather than in\isi{direct speech} as in (\ref{Example_14.58}) (see also §\ref{Para_6.2.1.1}).}
+A: word: supaya	 gloss: so.that
+B: word: taw	 gloss: know
+C: word: kang	 gloss: you.know
+D: word: taw~taw	 gloss: RDP~know
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 40:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): sa tida taw ___ jam tiga itu de su meninggal
+Gloss (with missing item): 1SG NEG know ___ hour three D.DIST 3SG already die
+The English translation of this sentence is:‘I didn’t know that by three o’clock she had already died’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Two structural patterns are attested for complementation with \textitbf{the morpheme ___} ‘its gloss ___’. Usually, the \isi{verb} is followed by the clausal complement with \textitbf{the morpheme ___} ‘its gloss ___’ (61 tokens), as in (\ref{Example_14.56}) and (\ref{Example_14.57}). Alternatively, although much less often, the \isi{verb} is followed by an object which is followed by the clausal complement (8 tokens), as in (\ref{Example_14.58}).\footnote{Typically, speakers report speech in the form of \isi{direct speech} rather than in\isi{direct speech} as in (\ref{Example_14.58}) (see also §\ref{Para_6.2.1.1}).}
+A: word: bahwa	 gloss: that
+B: word: bahasa	 gloss: language
+C: word: minum	 gloss: drink
+D: word: supaya	 gloss: so.that
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 41:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kitong mo hancurkang ___ yang ada di Sarmi itu
+Gloss (with missing item): 1PL want shatter ___ REL exist at Sarmi D.DIST
+The English translation of this sentence is:‘we want to destroy the statue that is in Sarmi there’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Relativizer \textitbf{yang} ‘\textsc{rel}’ introduces relative clauses which function as modifiers within \isi{noun} phrases (see also §\ref{Para_8.2.8}). Typically, the relative clause follows its head nominal, as in (\ref{Example_14.59}) and (\ref{Example_14.61a}). However, \textitbf{yang} ‘\textsc{rel}’ can also introduce a headless relative clause. Cross-linguistically, headless relative clauses can be used “when the head \isi{noun} is non-specific” or when “the specific reference to the head is clear” \citep[295]{Payne.1997}. This also applies to Papuan Malay. In (\ref{Example_14.60}), for instance, the head nominal is non-specific, while in (\ref{Example_14.61b}) the reference to the head is clear (“Ø” signifies the implied head nominal).
+A: word: itu	 gloss: D.DIST
+B: word: tugas	 gloss: duty
+C: word: tugu	 gloss: monument
+D: word: sembayang	 gloss: worship
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 42:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kitong mo hancurkang tugu ___ ada di Sarmi itu
+Gloss (with missing item): 1PL want shatter monument ___ exist at Sarmi D.DIST
+The English translation of this sentence is:‘we want to destroy the statue that is in Sarmi there’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Relativizer \textitbf{the morpheme ___} ‘\textsc{rel}’ introduces relative clauses which function as modifiers within \isi{noun} phrases (see also §\ref{Para_8.2.8}). Typically, the relative clause follows its head nominal, as in (\ref{Example_14.59}) and (\ref{Example_14.61a}). However, \textitbf{the morpheme ___} ‘\textsc{rel}’ can also introduce a headless relative clause. Cross-linguistically, headless relative clauses can be used “when the head \isi{noun} is non-specific” or when “the specific reference to the head is clear” \citep[295]{Payne.1997}. This also applies to Papuan Malay. In (\ref{Example_14.60}), for instance, the head nominal is non-specific, while in (\ref{Example_14.61b}) the reference to the head is clear (“Ø” signifies the implied head nominal).
+A: word: sayang	 gloss: love
+B: word: baku	 gloss: RECP
+C: word: yang	 gloss: REL
+D: word: dang	 gloss: and
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 43:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Speaker-1: ___ itu yang mana?
+Gloss (with missing item): ... ___ D.DIST REL where
+The English translation of this sentence is:Speaker-1: ‘which one is that Nelci?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Relativizer \textitbf{yang} ‘\textsc{rel}’ introduces relative clauses which function as modifiers within \isi{noun} phrases (see also §\ref{Para_8.2.8}). Typically, the relative clause follows its head nominal, as in (\ref{Example_14.59}) and (\ref{Example_14.61a}). However, \textitbf{yang} ‘\textsc{rel}’ can also introduce a headless relative clause. Cross-linguistically, headless relative clauses can be used “when the head \isi{noun} is non-specific” or when “the specific reference to the head is clear” \citep[295]{Payne.1997}. This also applies to Papuan Malay. In (\ref{Example_14.60}), for instance, the head nominal is non-specific, while in (\ref{Example_14.61b}) the reference to the head is clear (“Ø” signifies the implied head nominal).
+A: word: nelci	 gloss: Nelci
+B: word: natanael	 gloss: Natanael
+C: word: tida	 gloss: NEG
+D: word: fitri	 gloss: Fitri
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 44:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Speaker-1: Nelci ___ yang mana?
+Gloss (with missing item): ... Nelci ___ REL where
+The English translation of this sentence is:Speaker-1: ‘which one is that Nelci?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Relativizer \textitbf{yang} ‘\textsc{rel}’ introduces relative clauses which function as modifiers within \isi{noun} phrases (see also §\ref{Para_8.2.8}). Typically, the relative clause follows its head nominal, as in (\ref{Example_14.59}) and (\ref{Example_14.61a}). However, \textitbf{yang} ‘\textsc{rel}’ can also introduce a headless relative clause. Cross-linguistically, headless relative clauses can be used “when the head \isi{noun} is non-specific” or when “the specific reference to the head is clear” \citep[295]{Payne.1997}. This also applies to Papuan Malay. In (\ref{Example_14.60}), for instance, the head nominal is non-specific, while in (\ref{Example_14.61b}) the reference to the head is clear (“Ø” signifies the implied head nominal).
+A: word: situ	 gloss: L.MED
+B: word: dengang	 gloss: with
+C: word: sana	 gloss: L.DIST
+D: word: itu	 gloss: D.DIST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 45:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Speaker-1: Nelci itu ___ mana?
+Gloss (with missing item): ... Nelci D.DIST ___ where
+The English translation of this sentence is:Speaker-1: ‘which one is that Nelci?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Relativizer \textitbf{the morpheme ___} ‘\textsc{rel}’ introduces relative clauses which function as modifiers within \isi{noun} phrases (see also §\ref{Para_8.2.8}). Typically, the relative clause follows its head nominal, as in (\ref{Example_14.59}) and (\ref{Example_14.61a}). However, \textitbf{the morpheme ___} ‘\textsc{rel}’ can also introduce a headless relative clause. Cross-linguistically, headless relative clauses can be used “when the head \isi{noun} is non-specific” or when “the specific reference to the head is clear” \citep[295]{Payne.1997}. This also applies to Papuan Malay. In (\ref{Example_14.60}), for instance, the head nominal is non-specific, while in (\ref{Example_14.61b}) the reference to the head is clear (“Ø” signifies the implied head nominal).
+A: word: yang	 gloss: REL
+B: word: sayang	 gloss: love
+C: word: gara-gara	 gloss: because
+D: word: baku	 gloss: RECP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 46:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tong tra ke kampung, tra ada Ø ___ jalang ke kampung
+Gloss (with missing item): 1PL NEG to village NEG exist ... ___ walk to village
+The English translation of this sentence is:‘we don’t (go) to the village, there is (nobody) who goes to the village’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Relativizer \textitbf{the morpheme ___} ‘\textsc{rel}’ introduces relative clauses which function as modifiers within \isi{noun} phrases (see also §\ref{Para_8.2.8}). Typically, the relative clause follows its head nominal, as in (\ref{Example_14.59}) and (\ref{Example_14.61a}). However, \textitbf{the morpheme ___} ‘\textsc{rel}’ can also introduce a headless relative clause. Cross-linguistically, headless relative clauses can be used “when the head \isi{noun} is non-specific” or when “the specific reference to the head is clear” \citep[295]{Payne.1997}. This also applies to Papuan Malay. In (\ref{Example_14.60}), for instance, the head nominal is non-specific, while in (\ref{Example_14.61b}) the reference to the head is clear (“Ø” signifies the implied head nominal).
+A: word: yang	 gloss: REL
+B: word: baku	 gloss: RECP
+C: word: sayang	 gloss: love
+D: word: dang	 gloss: and
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 47:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Speaker-2: Ø ___ kecil\Tildekecil ... Ø yang rajing\Tilderajing
+Gloss (with missing item): ... ... ___ RDP\Tildebe.small ... ... REL RDP\Tildebe.diligent
+The English translation of this sentence is:Speaker-2: ‘(the one) who’s kind of small ... (the one) who’s very diligent’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Relativizer \textitbf{the morpheme ___} ‘\textsc{rel}’ introduces relative clauses which function as modifiers within \isi{noun} phrases (see also §\ref{Para_8.2.8}). Typically, the relative clause follows its head nominal, as in (\ref{Example_14.59}) and (\ref{Example_14.61a}). However, \textitbf{the morpheme ___} ‘\textsc{rel}’ can also introduce a headless relative clause. Cross-linguistically, headless relative clauses can be used “when the head \isi{noun} is non-specific” or when “the specific reference to the head is clear” \citep[295]{Payne.1997}. This also applies to Papuan Malay. In (\ref{Example_14.60}), for instance, the head nominal is non-specific, while in (\ref{Example_14.61b}) the reference to the head is clear (“Ø” signifies the implied head nominal).
+A: word: baku	 gloss: RECP
+B: word: yang	 gloss: REL
+C: word: duduk	 gloss: sit
+D: word: sayang	 gloss: love
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 48:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Speaker-2: Ø yang kecil\Tildekecil ... Ø ___ rajing\Tilderajing
+Gloss (with missing item): ... ... REL RDP\Tildebe.small ... ... ___ RDP\Tildebe.diligent
+The English translation of this sentence is:Speaker-2: ‘(the one) who’s kind of small ... (the one) who’s very diligent’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Relativizer \textitbf{the morpheme ___} ‘\textsc{rel}’ introduces relative clauses which function as modifiers within \isi{noun} phrases (see also §\ref{Para_8.2.8}). Typically, the relative clause follows its head nominal, as in (\ref{Example_14.59}) and (\ref{Example_14.61a}). However, \textitbf{the morpheme ___} ‘\textsc{rel}’ can also introduce a headless relative clause. Cross-linguistically, headless relative clauses can be used “when the head \isi{noun} is non-specific” or when “the specific reference to the head is clear” \citep[295]{Payne.1997}. This also applies to Papuan Malay. In (\ref{Example_14.60}), for instance, the head nominal is non-specific, while in (\ref{Example_14.61b}) the reference to the head is clear (“Ø” signifies the implied head nominal).
+A: word: baku	 gloss: RECP
+B: word: sperti	 gloss: like
+C: word: sayang	 gloss: love
+D: word: yang	 gloss: REL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 49:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ yang de bapa kasi Ø ijing mo ikut ke kampung
+Gloss (with missing item): ___ REL 3SG father give ... permission want follow to village
+The English translation of this sentence is:‘(it was) Fitri whom her husband gave permission to go with (us) to the village’ (Lit. ‘her (daughter’s) father ...’)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When core arguments are relativized, a gap is left. This gap, signified with ``Ø'', occurs where the relativized \isi{noun} phrase would be situated if it were expressed overtly. Relativization of the subject argument is illustrated in (\ref{Example_14.62}), and of the direct object argument of a \isi{bivalent} \isi{verb}, namely \textitbf{biking} ‘make’, in (\ref{Example_14.63}). The examples in (\ref{Example_14.64}) and (\ref{Example_14.65}) illustrate the relativization of the direct object positions in \isi{double-object} constructions; in both examples the \isi{trivalent} \isi{verb} is \textitbf{kasi} ‘give’. In (\ref{Example_14.64}), the R argument \textitbf{papeda} ‘sagu porridge’ is relativized. In (\ref{Example_14.65}), the T argument \textitbf{Efana ini} ‘this Efana’ is relativized. (Verbal clauses with \isi{bivalent} and \isi{trivalent} verbs are discussed in detail in §\ref{Para_11.1.2} and §\ref{Para_11.1.3}, respectively.)
+A: word: fitri	 gloss: Fitri
+B: word: sandar	 gloss: lean
+C: word: untuk	 gloss: for
+D: word: nofita	 gloss: Nofita
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 50:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Fitri ___ de bapa kasi Ø ijing mo ikut ke kampung
+Gloss (with missing item): Fitri ___ 3SG father give ... permission want follow to village
+The English translation of this sentence is:‘(it was) Fitri whom her husband gave permission to go with (us) to the village’ (Lit. ‘her (daughter’s) father ...’)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When core arguments are relativized, a gap is left. This gap, signified with ``Ø'', occurs where the relativized \isi{noun} phrase would be situated if it were expressed overtly. Relativization of the subject argument is illustrated in (\ref{Example_14.62}), and of the direct object argument of a \isi{bivalent} \isi{verb}, namely \textitbf{biking} ‘make’, in (\ref{Example_14.63}). The examples in (\ref{Example_14.64}) and (\ref{Example_14.65}) illustrate the relativization of the direct object positions in \isi{double-object} constructions; in both examples the \isi{trivalent} \isi{verb} is \textitbf{kasi} ‘give’. In (\ref{Example_14.64}), the R argument \textitbf{papeda} ‘sagu porridge’ is relativized. In (\ref{Example_14.65}), the T argument \textitbf{Efana ini} ‘this Efana’ is relativized. (Verbal clauses with \isi{bivalent} and \isi{trivalent} verbs are discussed in detail in §\ref{Para_11.1.2} and §\ref{Para_11.1.3}, respectively.)
+A: word: baku	 gloss: RECP
+B: word: yang	 gloss: REL
+C: word: dengang	 gloss: with
+D: word: sayang	 gloss: love
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 51:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ yang de bapa kasi Ø ijing mo ikut ke kampung
+Gloss (with missing item): ___ REL 3SG father give ... permission want follow to village
+The English translation of this sentence is:‘(it was) Fitri whom her husband gave permission to go with (us) to the village’ (Lit. ‘her (daughter’s) father ...’)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When core arguments are relativized, a gap is left. This gap, signified with ``Ø'', occurs where the relativized \isi{noun} phrase would be situated if it were expressed overtly. Relativization of the subject argument is illustrated in (\ref{Example_14.62}), and of the direct object argument of a \isi{bivalent} \isi{verb}, namely \textitbf{biking} ‘make’, in (\ref{Example_14.63}). The examples in (\ref{Example_14.64}) and (\ref{Example_14.65}) illustrate the relativization of the direct object positions in \isi{double-object} constructions; in both examples the \isi{trivalent} \isi{verb} is \textitbf{kasi} ‘give’. In (\ref{Example_14.64}), the R argument \textitbf{papeda} ‘sagu porridge’ is relativized. In (\ref{Example_14.65}), the T argument \textitbf{Efana ini} ‘this Efana’ is relativized. (Verbal clauses with \isi{bivalent} and \isi{trivalent} verbs are discussed in detail in §\ref{Para_11.1.2} and §\ref{Para_11.1.3}, respectively.)
+A: word: sandar	 gloss: lean
+B: word: karna	 gloss: because
+C: word: nofita	 gloss: Nofita
+D: word: fitri	 gloss: Fitri
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 52:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Fitri ___ de bapa kasi Ø ijing mo ikut ke kampung
+Gloss (with missing item): Fitri ___ 3SG father give ... permission want follow to village
+The English translation of this sentence is:‘(it was) Fitri whom her husband gave permission to go with (us) to the village’ (Lit. ‘her (daughter’s) father ...’)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When core arguments are relativized, a gap is left. This gap, signified with ``Ø'', occurs where the relativized \isi{noun} phrase would be situated if it were expressed overtly. Relativization of the subject argument is illustrated in (\ref{Example_14.62}), and of the direct object argument of a \isi{bivalent} \isi{verb}, namely \textitbf{biking} ‘make’, in (\ref{Example_14.63}). The examples in (\ref{Example_14.64}) and (\ref{Example_14.65}) illustrate the relativization of the direct object positions in \isi{double-object} constructions; in both examples the \isi{trivalent} \isi{verb} is \textitbf{kasi} ‘give’. In (\ref{Example_14.64}), the R argument \textitbf{papeda} ‘sagu porridge’ is relativized. In (\ref{Example_14.65}), the T argument \textitbf{Efana ini} ‘this Efana’ is relativized. (Verbal clauses with \isi{bivalent} and \isi{trivalent} verbs are discussed in detail in §\ref{Para_11.1.2} and §\ref{Para_11.1.3}, respectively.)
+A: word: yang	 gloss: REL
+B: word: baku	 gloss: RECP
+C: word: taw	 gloss: know
+D: word: sayang	 gloss: love
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 53:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kepala desa mantang Arbais ada ___ ceritra minum
+Gloss (with missing item): head village former Arbais exist ___ tell drink
+The English translation of this sentence is:‘the former mayor of Arbais was sitting (there and) talking (and) drinking’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent Juxtapoits gloss ___ion of prepoits gloss ___ional phrases, verbs, or clauses is illustrated in (\ref{Example_14.71}) to (\ref{Example_14.73}). Three prepoits gloss ___ional phrases introduced with elative \textitbf{dari} ‘from’ are juxtaposed in (\ref{Example_14.71}), three verbs in (\ref{Example_14.72}), and four clauses in (\ref{Example_14.73}) (for easier recognition the first constituent of each of the linked clauses is bolded).
+A: word: istirahat	 gloss: rest
+B: word: duduk	 gloss: sit
+C: word: duduk~duduk	 gloss: RDP~sit
+D: word: yang	 gloss: REL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 54:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kepala desa mantang Arbais ada duduk ___ minum
+Gloss (with missing item): head village former Arbais exist sit ___ drink
+The English translation of this sentence is:‘the former mayor of Arbais was sitting (there and) talking (and) drinking’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent Juxtaposition of prepositional phrases, verbs, or clauses is illustrated in (\ref{Example_14.71}) to (\ref{Example_14.73}). Three prepositional phrases introduced with elative \textitbf{dari} ‘from’ are juxtaposed in (\ref{Example_14.71}), three verbs in (\ref{Example_14.72}), and four clauses in (\ref{Example_14.73}) (for easier recognition the first constituent of each of the linked clauses is bolded).
+A: word: ceritra	 gloss: tell
+B: word: tugu	 gloss: monument
+C: word: taw	 gloss: know
+D: word: ceritrakang	 gloss: tell
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 55:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kepala desa mantang Arbais ada duduk ceritra ___
+Gloss (with missing item): head village former Arbais exist sit tell ___
+The English translation of this sentence is:‘the former mayor of Arbais was sitting (there and) talking (and) drinking’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \noindent Juxtaposition of prepositional phrases, verbs, or clauses is illustrated in (\ref{Example_14.71}) to (\ref{Example_14.73}). Three prepositional phrases introduced with elative \textitbf{dari} ‘from’ are juxtaposed in (\ref{Example_14.71}), three verbs in (\ref{Example_14.72}), and four clauses in (\ref{Example_14.73}) (for easier recognition the first constituent of each of the linked clauses is bolded).
+A: word: minum~minum	 gloss: RDP~drink
+B: word: minum	 gloss: drink
+C: word: sampe	 gloss: reach
+D: word: mangkok	 gloss: cup
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
