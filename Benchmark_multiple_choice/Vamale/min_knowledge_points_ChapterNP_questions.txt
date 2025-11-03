@@ -1,0 +1,78 @@
+Question 0:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): cama vi hapi a=moo a=sibu ta-me ___ i=jati nya-xahut hai cama hu-pe ca=hmape-thoatit a= xada
+Gloss (with missing item): SUBR say COMP 3SG=stay 3SG=swell go.up-DIR.CP ___ DEF.SG=sea towards-down.there or if come.down-DIR.CP INDF.SG=flesh-sky REL= up.there
+The English translation of this sentence is:If one said (=let's imagine) that the sea down there should swell and rise, or that some cloud up there should come down [and shatter us, we shall still do custom]...
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: This is typical of canonic Oceanic languages \parencite[495]{ross_morphosyntactic_2004}. Free pronouns can be flagged, like nouns, for the roles of transitive subject and intransitive subject, both obligatorily with the morpheme ___ \qu{\gl{sbj}}, while nouns can omit the morpheme ___ in intransitive scenarios, see (\ref{ex:opt_the morpheme ___}). Personal pronouns can be flagged as oblique, but they cannot be used as undergoer arguments, contrary to nouns and demonstrative pronouns, e.g. ena and nienaen. Flagging is discussed in \sectref{sec:Casmark}.
+A: word: ka-n	 gloss: FOC.POSS-ANA
+B: word: hmain-ga	 gloss: many-1PL.INCL
+C: word: ka=go	 gloss: SBJ=2SG
+D: word: ka	 gloss: SBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 1:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): i=hun-saxhuti i=jaxhut nyanya-n-eong ___ caacaa-n-eong
+Gloss (with missing item): DEF.SG=NMLZ-narrate DEF.SG=story mother-POSS-1SG.POSS ___ father-POSS-1SG.POSS
+The English translation of this sentence is:my father's way of telling my mother's story
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In nominalizations as well, the morpheme ___ \qu{\gl{sbj}} obligatorily occurs to mark A (\ref{ex:nmlz-the morpheme ___1}, \ref{a the morpheme ___ yo}). P may take a different the morpheme ___ \qu{\gl{link}} when it is the only participant present in the construction (\ref{ex:nmlz-the morpheme ___2}). If several participants co-occur, this option disappears, as the clause would otherwise become confusing. As this the morpheme ___ only marks S and P, I gloss it subsequently as absolutive (see \sectref{the morpheme ___n}).
+A: word: ka=go	 gloss: SBJ=2SG
+B: word: ka-n	 gloss: FOC.POSS-ANA
+C: word: hmain-ga	 gloss: many-1PL.INCL
+D: word: ka	 gloss: SBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): go cahma naen mwa xada hê ja mu e-xhopwe mwa i=hun-moo-gaa ___ mwa
+Gloss (with missing item): CNJ TOP now REP differently yes PRF ITER MID-grow REP DEF.SG=NMLZ-stay-1PL.INCL ___ REP
+The English translation of this sentence is:But today it's nevertheless... yeah, it's ended up growing more and more, our way of life, we're numerous now.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Nouns are mostly quantified with verbs. Numbers are expressed through verbs, as are forms like hmai-n \qu{many} in (\ref{ex:hmain}) and the derived middle form \mbox{e-hmai-n} \qu{more and more (countable)} (see \sectref{ssec:MID_unbounded}). Non-verbal quantifiers include jaa \qu{much}, mu \qu{few (uncountable)} as well as meeka-n, all signifying uncountable and thus generic masses: jaa apuli \qu{too many people}, mu mwani \qu{little money}, meeka li=apuli \qu{all the people}.
+A: word: hmain-ga	 gloss: many-1PL.INCL
+B: word: gavwe	 gloss: 2PL
+C: word: gaa	 gloss: 1PL.INCL
+D: word: lu=e-copain-copine	 gloss: 3DU=RECP-boyfriend-girlfriend
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 3:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): go=bwa fa-pidanke mwa li=hao-n-go ___ li=papa-n-go a li=bee-m mwa a
+Gloss (with missing item): 2SG=IPFV CAUS-separate DEICT DEF.PL=grandfather-POSS-2SG.POSS ___ DEF.PL=father-POSS-2SG.POSS or DEF.PL=sibling-2SG.POSS even or
+The English translation of this sentence is:You share this [custom] now with your grandparents, your parents, or even your siblings, or...
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Hthe mits gloss ___pheme ___i cthe mits gloss ___pheme ___n be used in severthe mits gloss ___pheme ___l different wthe mits gloss ___pheme ___ys: the mits gloss ___pheme ___n emotive interjection of surprise when the mits gloss ___pheme ___lone, the mits gloss ___pheme ___ modthe mits gloss ___pheme ___l discourse mthe mits gloss ___pheme ___rker expressing insecurity (\qu{the red one mthe mits gloss ___pheme ___ybe, hthe mits gloss ___pheme ___i?}), its gloss ___ to contrthe mits gloss ___pheme ___st two choices. In its gloss ___der to mthe mits gloss ___pheme ___rk the first choice, hthe mits gloss ___pheme ___i cthe mits gloss ___pheme ___n precede it (\ref{ex:hthe mits gloss ___pheme ___i}), wherethe mits gloss ___pheme ___s the second hthe mits gloss ___pheme ___i is obligthe mits gloss ___pheme ___tits gloss ___y. As shown in (\ref{ex:hthe mits gloss ___pheme ___i2}), the mits gloss ___pheme ___ non-comitthe mits gloss ___pheme ___tive list of noun phrthe mits gloss ___pheme ___ses is usuthe mits gloss ___pheme ___lly the mits gloss ___pheme ___rticulthe mits gloss ___pheme ___ted by the less mthe mits gloss ___pheme ___rked the mits gloss ___pheme ___llomits gloss ___ph the mits gloss ___pheme ___.
+A: word: tha	 gloss: ASS
+B: word: hmain-ga	 gloss: many-1PL.INCL
+C: word: a	 gloss: or
+D: word: naen	 gloss: now
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 4:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): go=bwa fa-pidanke mwa li=hao-n-go a li=papa-n-go ___ li=bee-m mwa a
+Gloss (with missing item): 2SG=IPFV CAUS-separate DEICT DEF.PL=grandfather-POSS-2SG.POSS or DEF.PL=father-POSS-2SG.POSS ___ DEF.PL=sibling-2SG.POSS even or
+The English translation of this sentence is:You share this [custom] now with your grandparents, your parents, or even your siblings, or...
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Hthe mits gloss ___pheme ___i cthe mits gloss ___pheme ___n be used in severthe mits gloss ___pheme ___l different wthe mits gloss ___pheme ___ys: the mits gloss ___pheme ___n emotive interjection of surprise when the mits gloss ___pheme ___lone, the mits gloss ___pheme ___ modthe mits gloss ___pheme ___l discourse mthe mits gloss ___pheme ___rker expressing insecurity (\qu{the red one mthe mits gloss ___pheme ___ybe, hthe mits gloss ___pheme ___i?}), its gloss ___ to contrthe mits gloss ___pheme ___st two choices. In its gloss ___der to mthe mits gloss ___pheme ___rk the first choice, hthe mits gloss ___pheme ___i cthe mits gloss ___pheme ___n precede it (\ref{ex:hthe mits gloss ___pheme ___i}), wherethe mits gloss ___pheme ___s the second hthe mits gloss ___pheme ___i is obligthe mits gloss ___pheme ___tits gloss ___y. As shown in (\ref{ex:hthe mits gloss ___pheme ___i2}), the mits gloss ___pheme ___ non-comitthe mits gloss ___pheme ___tive list of noun phrthe mits gloss ___pheme ___ses is usuthe mits gloss ___pheme ___lly the mits gloss ___pheme ___rticulthe mits gloss ___pheme ___ted by the less mthe mits gloss ___pheme ___rked the mits gloss ___pheme ___llomits gloss ___ph the mits gloss ___pheme ___.
+A: word: hmain-ga	 gloss: many-1PL.INCL
+B: word: a	 gloss: or
+C: word: hu-pe	 gloss: come.down-DIR.CP
+D: word: tha	 gloss: ASS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 5:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): go=bwa fa-pidanke mwa li=hao-n-go a li=papa-n-go a li=bee-m mwa ___
+Gloss (with missing item): 2SG=IPFV CAUS-separate DEICT DEF.PL=grandfather-POSS-2SG.POSS or DEF.PL=father-POSS-2SG.POSS or DEF.PL=sibling-2SG.POSS even ___
+The English translation of this sentence is:You share this [custom] now with your grandparents, your parents, or even your siblings, or...
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Hthe mits gloss ___pheme ___i cthe mits gloss ___pheme ___n be used in severthe mits gloss ___pheme ___l different wthe mits gloss ___pheme ___ys: the mits gloss ___pheme ___n emotive interjection of surprise when the mits gloss ___pheme ___lone, the mits gloss ___pheme ___ modthe mits gloss ___pheme ___l discourse mthe mits gloss ___pheme ___rker expressing insecurity (\qu{the red one mthe mits gloss ___pheme ___ybe, hthe mits gloss ___pheme ___i?}), its gloss ___ to contrthe mits gloss ___pheme ___st two choices. In its gloss ___der to mthe mits gloss ___pheme ___rk the first choice, hthe mits gloss ___pheme ___i cthe mits gloss ___pheme ___n precede it (\ref{ex:hthe mits gloss ___pheme ___i}), wherethe mits gloss ___pheme ___s the second hthe mits gloss ___pheme ___i is obligthe mits gloss ___pheme ___tits gloss ___y. As shown in (\ref{ex:hthe mits gloss ___pheme ___i2}), the mits gloss ___pheme ___ non-comitthe mits gloss ___pheme ___tive list of noun phrthe mits gloss ___pheme ___ses is usuthe mits gloss ___pheme ___lly the mits gloss ___pheme ___rticulthe mits gloss ___pheme ___ted by the less mthe mits gloss ___pheme ___rked the mits gloss ___pheme ___llomits gloss ___ph the mits gloss ___pheme ___.
+A: word: a	 gloss: or
+B: word: hmain-ga	 gloss: many-1PL.INCL
+C: word: tha	 gloss: ASS
+D: word: i=puaka	 gloss: DEF.SG=pig
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+

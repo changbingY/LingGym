@@ -1,0 +1,546 @@
+Question 0:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ehni xhwan da, abe=fate gavwe ___ go abe=sate-n, cipa hmai-n, cipa-bu ju-vaa udu hmwaka-u
+Gloss (with missing item): PROX little what 1PL.EXCL=share 2PL ___ then 1PL.EXCL=be.different-ANA NEG be.many-NSPEC NEG-1DU.EXCL real-too drink like-2DU
+The English translation of this sentence is:This [wine and beer) is nothing much, we share with you of this, and [as for) us, it's different, not much, we don't drink as hard as you do.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \is{Anaphoric -n}The other function mentioned above is anaphora in the wider sense: relating to something already mentioned (\ref{ex:n_ana}), mentioned in another clause soon after, or known in general (\ref{ex:hmwaana_koon}). The referent's specificity is not important in this case. %The syntactic roles avalailable to the participant indexed with -n are lower ones: objects, the modifiers of prepositional phrases, and, in the case of nominalizations featuring ka-n, intransitive or inanimate subjects.
+A: word: (koo-n)	 gloss: (OBL-ANA)
+B: word: koo-n	 gloss: OBL-ANA
+C: word: a=ta-mwa	 gloss: 3SG=go.up-REP
+D: word: go=vii	 gloss: 2SG=say
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 1:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ehni xhwan da, abe=fate gavwe koo-n go ___ cipa hmai-n, cipa-bu ju-vaa udu hmwaka-u
+Gloss (with missing item): PROX little what 1PL.EXCL=share 2PL OBL-ANA then ___ NEG be.many-NSPEC NEG-1DU.EXCL real-too drink like-2DU
+The English translation of this sentence is:This [wine and beer) is nothing much, we share with you of this, and [as for) us, it's different, not much, we don't drink as hard as you do.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \is{Anaphoric -n}The other function mentioned above is anaphora in the wider sense: relating to something already mentioned (\ref{ex:n_ana}), mentioned in another clause soon after, or known in general (\ref{ex:hmwaana_koon}). The referent's specificity is not important in this case. %The syntactic roles avalailable to the participant indexed with -n are lower ones: objects, the modifiers of prepositional phrases, and, in the case of nominalizations featuring ka-n, intransitive or inanimate subjects.
+A: word: abe	 gloss: 1PL.EXCL
+B: word: sate-n	 gloss: different-ANA
+C: word: habu	 gloss: long.ago
+D: word: abe=sate-n	 gloss: 1PL.EXCL=be.different-ANA
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Habu Can-Vije vwa ___ a= pwa-n jela i=jahoot a= xhopwen.
+Gloss (with missing item): long.ago Tipije exist ___ REL= on-NSPEC side DEF.SG=river REL= big
+The English translation of this sentence is:Long ago in the Tipije valley, there was a tribe on the bank of this great river. (following the French original text) {[1]}
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Consider example (\ref{ex:t1}) from a French\hyp language legend, written by Yvonne Sahilé, and translated by the workgroup into Vamale. The example translates \qu{il y avait une tribu} (there was a tribe) using i \qu{\gl{def}.\gl{sg}}, making it seem more specific than definite, since the listeners cannot yet be familiar with the tribe. My first suggestion was using an indefinite article eca (\ref{ex:wrongtipije}), which was refused. %The whole text is too long to be shown here, but see the document "conte".
+A: word: i=apemoo	 gloss: DEF.SG=tribe
+B: word: a=a=xhwi	 gloss: REL=3SG=eat
+C: word: i=apemoo-ca	 gloss: DEF.SG=tribe-PROX
+D: word: a=caihna-mwa	 gloss: 3SG=know-REP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 3:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Habu Can-Vije vwa i=apemoo a= pwa-n jela ___ a= xhopwen.
+Gloss (with missing item): long.ago Tipije exist DEF.SG=tribe REL= on-NSPEC side ___ REL= big
+The English translation of this sentence is:Long ago in the Tipije valley, there was a tribe on the bank of this great river. (following the French original text) {[1]}
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Consider example (\ref{ex:t1}) from a French\hyp language legend, written by Yvonne Sahilé, and translated by the workgroup into Vamale. The example translates \qu{il y avait une tribu} (there was a tribe) using i \qu{\gl{def}.\gl{sg}}, making it seem more specific than definite, since the listeners cannot yet be familiar with the tribe. My first suggestion was using an indefinite article eca (\ref{ex:wrongtipije}), which was refused. %The whole text is too long to be shown here, but see the document "conte".
+A: word: i=jaxhut	 gloss: DEF.SG=story
+B: word: i=dingan	 gloss: DEF.SG=creek
+C: word: i=jahoot	 gloss: DEF.SG=river
+D: word: ehni	 gloss: PROX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 4:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Habu Can-Vije vwa ___ a= pwa-n jela i=jahoot a= xhopwen.
+Gloss (with missing item): long.ago Tipije exist ___ REL= on-NSPEC side DEF.SG=river REL= big
+The English translation of this sentence is:Long ago in the Tipije valley, there was a tribe on the bank of this great river. (following the French original text) {[1]}
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Now look at example (\ref{ex:t1}), where the tribe has never been mentioned before, compared to examples (\ref{ex:t2}) and (\ref{ex:t3}), where it has. All sentences use the same article. In (\ref{ex:t3}), li thamo \qu{the women} are newly introduced to the narrative but marked with the definite li. %It could be argued that there are always young women in a village, but the previous argument of saliency to the situation seems to justify an analysis as definite well enough.
+A: word: i=apemoo-ca	 gloss: DEF.SG=tribe-PROX
+B: word: i=apemoo	 gloss: DEF.SG=tribe
+C: word: cahni	 gloss: here
+D: word: hmwa-ena	 gloss: be.like-DIST
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 5:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Habu Can-Vije vwa i=apemoo a= pwa-n jela ___ a= xhopwen.
+Gloss (with missing item): long.ago Tipije exist DEF.SG=tribe REL= on-NSPEC side ___ REL= big
+The English translation of this sentence is:Long ago in the Tipije valley, there was a tribe on the bank of this great river. (following the French original text) {[1]}
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Now look at example (\ref{ex:t1}), where the tribe has never been mentioned before, compared to examples (\ref{ex:t2}) and (\ref{ex:t3}), where it has. All sentences use the same article. In (\ref{ex:t3}), li thamo \qu{the women} are newly introduced to the narrative but marked with the definite li. %It could be argued that there are always young women in a village, but the previous argument of saliency to the situation seems to justify an analysis as definite well enough.
+A: word: i=dingan	 gloss: DEF.SG=creek
+B: word: i=jaxhut	 gloss: DEF.SG=story
+C: word: i=jahoot	 gloss: DEF.SG=river
+D: word: a=a=xhwi	 gloss: REL=3SG=eat
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 6:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ca i=apemoo-ca le=vacuti ___ daahma a= bwa xawe, ka yata-n Thêa Xa-vila
+Gloss (with missing item): in DEF.SG=tribe-PROX 3PL=erect ___ chief REL= IPFV young and name-3SG.POSS T. NMLZ-dance
+The English translation of this sentence is:In this tribe they erected a chief who was still young, and his name was Firstborn the Dancer. (Thêa is a name commonly given to the firstborn son) {[2]}
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Now look at example (\ref{ex:t1}), where the tribe has never been mentioned before, compared to examples (\ref{ex:t2}) and (\ref{ex:t3}), where it has. All sentences use the same article. In (\ref{ex:t3}), li thamo \qu{the women} are newly introduced to the narrative but marked with the definite li. %It could be argued that there are always young women in a village, but the previous argument of saliency to the situation seems to justify an analysis as definite well enough.
+A: word: (ca)ma	 gloss: COND
+B: word: i=jahoot	 gloss: DEF.SG=river
+C: word: ca	 gloss: some
+D: word: li=sibu	 gloss: DEF.PL=swell
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 7:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ca ___ vwa li=xawe thamo
+Gloss (with missing item): in ___ EXIST DEF.PL=young woman
+The English translation of this sentence is:In the tribe were young women. (indefinite, non-specific in the French original) {[3]}
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Now look at example (\ref{ex:t1}), where the tribe has never been mentioned before, compared to examples (\ref{ex:t2}) and (\ref{ex:t3}), where it has. All sentences use the same article. In (\ref{ex:t3}), li thamo \qu{the women} are newly introduced to the narrative but marked with the definite li. %It could be argued that there are always young women in a village, but the previous argument of saliency to the situation seems to justify an analysis as definite well enough.
+A: word: thala-n	 gloss: knife-POSS
+B: word: i=apemoo	 gloss: DEF.SG=tribe
+C: word: i=apemoo-ca	 gloss: DEF.SG=tribe-PROX
+D: word: i=jahoot	 gloss: DEF.SG=river
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 8:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ca i=apemoo vwa ___ thamo
+Gloss (with missing item): in DEF.SG=tribe EXIST ___ woman
+The English translation of this sentence is:In the tribe were young women. (indefinite, non-specific in the French original) {[3]}
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Now look at example (\ref{ex:t1}), where the tribe has never been mentioned before, compared to examples (\ref{ex:t2}) and (\ref{ex:t3}), where it has. All sentences use the same article. In (\ref{ex:t3}), li thamo \qu{the women} are newly introduced to the narrative but marked with the definite li. %It could be argued that there are always young women in a village, but the previous argument of saliency to the situation seems to justify an analysis as definite well enough.
+A: word: i=xawakhan	 gloss: DEF=dog
+B: word: li=xawe	 gloss: DEF.PL=young
+C: word: a=ta-mwa	 gloss: 3SG=go.up-REP
+D: word: li=xhwaawe-ca	 gloss: DEF.PL=children-PROX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 9:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ca ___ vwa li=xawe thamo
+Gloss (with missing item): in ___ EXIST DEF.PL=young woman
+The English translation of this sentence is:In the tribe were young women. (indefinite, non-specific in the French original) {[3]}
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Now look at example (\ref{ex:t1}), where the tribe has never been mentioned before, compared to examples (\ref{ex:t2}) and (\ref{ex:t3}), where it has. All sentences use the same article. In (\ref{ex:t3}), li thamo \qu{the women} are newly introduced to the narrative but marked with the definite li. %It could be argued that there are always young women in a village, but the previous argument of saliency to the situation seems to justify an analysis as definite well enough.
+A: word: abe=sate-n	 gloss: 1PL.EXCL=be.different-ANA
+B: word: i=apemoo	 gloss: DEF.SG=tribe
+C: word: i=apemoo-ca	 gloss: DEF.SG=tribe-PROX
+D: word: i=e-koin-an	 gloss: DEF.SG=ORD-end-LINK
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 10:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ca i=apemoo vwa ___ thamo
+Gloss (with missing item): in DEF.SG=tribe EXIST ___ woman
+The English translation of this sentence is:In the tribe were young women. (indefinite, non-specific in the French original) {[3]}
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Now look at example (\ref{ex:t1}), where the tribe has never been mentioned before, compared to examples (\ref{ex:t2}) and (\ref{ex:t3}), where it has. All sentences use the same article. In (\ref{ex:t3}), li thamo \qu{the women} are newly introduced to the narrative but marked with the definite li. %It could be argued that there are always young women in a village, but the previous argument of saliency to the situation seems to justify an analysis as definite well enough.
+A: word: li=xawe	 gloss: DEF.PL=young
+B: word: i=xawakhan	 gloss: DEF=dog
+C: word: li=xhwaawe-ca	 gloss: DEF.PL=children-PROX
+D: word: ehni	 gloss: PROX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 11:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ca i=apemoo-ca le=vacuti ___ daahma a= bwa xawe, ka yata-n Thêa Xa-vila
+Gloss (with missing item): in DEF.SG=tribe-PROX 3PL=erect ___ chief REL= IPFV young and name-3SG.POSS T. NMLZ-dance
+The English translation of this sentence is:In this tribe they erected a chief who was still young, and his name was Firstborn the Dancer. (Thêa is a name commonly given to the firstborn son) {[2]}
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: This description analyzes i \qu{\gl{def}.\gl{sg}} and li \qu{\gl{def}.\gl{pl}} as definite articles, using \textcite{lyons_definiteness_1999}'s definition. Noun phrases marked with i and li are identifiable \parencite[1]{lyons_definiteness_1999}, albeit not necessarily familiar \parencite[3]{lyons_definiteness_1999}, see (\ref{ex:t2}) and (\ref{ex:t3}). Familiarity, to Lyons, is not an necessary feature for a construction to be definite \parencite[5]{lyons_definiteness_1999}. As Lyons discusses in the pages following that statement, the uniqueness of a referent, in total or relative to the context \parencite[8]{lyons_definiteness_1999}, or even ``the totality of the objects [\ldots] in the context which satisfy the description'' \parencite[11]{lyons_definiteness_1999}, the morpheme ___n all be grounds for definiteness.
+A: word: e=thana	 gloss: 1SG=wander
+B: word: ca	 gloss: some
+C: word: ca=aman	 gloss: INDF.PL=thing
+D: word: (ca)ma	 gloss: COND
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 12:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ca ___ vwa li=xawe thamo
+Gloss (with missing item): in ___ EXIST DEF.PL=young woman
+The English translation of this sentence is:In the tribe were young women. (indefinite, non-specific in the French original) {[3]}
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: This description analyzes i \qu{\gl{def}.\gl{sg}} and li \qu{\gl{def}.\gl{pl}} as definite articles, using \textcite{lyons_definiteness_1999}'s definition. Noun phrases marked with i and li are identifiable \parencite[1]{lyons_definiteness_1999}, albeit not necessarily familiar \parencite[3]{lyons_definiteness_1999}, see (\ref{ex:t2}) and (\ref{ex:t3}). Familiarity, to Lyons, is not an necessary feature for a construction to be definite \parencite[5]{lyons_definiteness_1999}. As Lyons discusses in the pages following that statement, the uniqueness of a referent, in total or relative to the context \parencite[8]{lyons_definiteness_1999}, or even ``the totality of the objects [\ldots] in the context which satisfy the description'' \parencite[11]{lyons_definiteness_1999}, can all be grounds for definiteness.
+A: word: i=apemoo	 gloss: DEF.SG=tribe
+B: word: ehni	 gloss: PROX
+C: word: daahma	 gloss: chief
+D: word: i=apemoo-ca	 gloss: DEF.SG=tribe-PROX
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 13:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ca i=apemoo vwa ___ thamo
+Gloss (with missing item): in DEF.SG=tribe EXIST ___ woman
+The English translation of this sentence is:In the tribe were young women. (indefinite, non-specific in the French original) {[3]}
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: This description analyzes i \qu{\gl{def}.\gl{sg}} and li \qu{\gl{def}.\gl{pl}} as definite articles, using \textcite{lyons_definiteness_1999}'s definition. Noun phrases marked with i and li are identifiable \parencite[1]{lyons_definiteness_1999}, albeit not necessarily familiar \parencite[3]{lyons_definiteness_1999}, see (\ref{ex:t2}) and (\ref{ex:t3}). Familiarity, to Lyons, is not an necessary feature for a construction to be definite \parencite[5]{lyons_definiteness_1999}. As Lyons discusses in the pages following that statement, the uniqueness of a referent, in total or relative to the context \parencite[8]{lyons_definiteness_1999}, or even ``the totality of the objects [\ldots] in the context which satisfy the description'' \parencite[11]{lyons_definiteness_1999}, can all be grounds for definiteness.
+A: word: i=xawakhan	 gloss: DEF=dog
+B: word: ehni	 gloss: PROX
+C: word: li=xhwaawe-ca	 gloss: DEF.PL=children-PROX
+D: word: li=xawe	 gloss: DEF.PL=young
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 14:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): le=kiica ka meeka ___ thamo, ma ca-n e-dawee-le i=a= yata-n In Thu.
+Gloss (with missing item): 3PL=jealous and all ___ woman COM in-INDF MID-between-3PL DEF.SG=REL= name-3SG.POSS skin banyan
+The English translation of this sentence is:All the other women were jealous, with among them all the one who was called Banyan Bark.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example (\ref{ex:t4-6}) describes a woman not previously mentioned, \textit{\textbf{eca} thamo a en maa-n} \qu{she who has a beautiful face}: indefinite but specific. Example (\ref{ex:t7}) describes a similar situation: In-Thu is a unique, identifiable character, not previously introduced. However, the relative clause modifying her is defining, and so preceded by i, whereas the one in (\ref{ex:t4-6}) is not, and its modified noun takes eca. %The use of definite i instead of indefinite eca may be a de-grammaticalized one, however: eca is not attested before defining relative clauses, but can occur before an indefinite.
+A: word: li=been	 gloss: DEF.PL=other
+B: word: i=jahoot	 gloss: DEF.SG=river
+C: word: li=aman	 gloss: DEF.PL=thing
+D: word: li=bee-n	 gloss: DEF.PL=peer-POSS.NSPEC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 15:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): le=kiica ka meeka li=been thamo, ma ca-n e-dawee-le ___ yata-n In Thu.
+Gloss (with missing item): 3PL=jealous and all DEF.PL=other woman COM in-INDF MID-between-3PL ___ name-3SG.POSS skin banyan
+The English translation of this sentence is:All the other women were jealous, with among them all the one who was called Banyan Bark.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example (\ref{ex:t4-6}) describes a woman not previously mentioned, \textit{\textbf{eca} thamo a en maa-n} \qu{she who has a beautiful face}: indefinite but specific. Example (\ref{ex:t7}) describes a similar situation: In-Thu is a unique, identifiable character, not previously introduced. However, the relative clause modifying her is defining, and so preceded by i, whereas the one in (\ref{ex:t4-6}) is not, and its modified noun takes eca. %The use of definite i instead of indefinite eca may be a de-grammaticalized one, however: eca is not attested before defining relative clauses, but can occur before an indefinite.
+A: word: cai=	 gloss: some=
+B: word: i=a=	 gloss: DEF.SG=REL=
+C: word: see-ma	 gloss: one-face
+D: word: i=a=a=vi	 gloss: DEF.SG=REL=3SG=say
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 16:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ca i=apemoo-ca le=vacuti ___ daahma a= bwa xawe, ka yata-n Thêa Xa-vila
+Gloss (with missing item): in DEF.SG=tribe-PROX 3PL=erect ___ chief REL= IPFV young and name-3SG.POSS T. NMLZ-dance
+The English translation of this sentence is:In this tribe they erected a chief who was still young, and his name was Firstborn the Dancer. (Thêa is a name commonly given to the firstborn son) {[2]}
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example (\ref{ex:t2}) seems to use the morpheme ___ in an indefinite way, too, introducing a character who is then further specified and named. %But is it specific? They could have elected its gloss ___ chief, whoever he was, and only afterwards is it explained how he is the morpheme ___lled.
+A: word: ca	 gloss: some
+B: word: (ca)ma	 gloss: COND
+C: word: mwa	 gloss: REP
+D: word: inya-m	 gloss: mother-2SG.POSS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 17:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Habu Can-Vije vwa ___ a= pwa-n jela i=jahoot a= xhopwen.
+Gloss (with missing item): long.ago Tipije exist ___ REL= on-NSPEC side DEF.SG=river REL= big
+The English translation of this sentence is:Long ago in the Tipije valley, there was a tribe on the bank of this great river. (following the French original text) {[1]}
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Vamale distinguishes specific from generic participants using articles (except for pronouns and proper names). The articles mark number and definiteness, and, through their presence, specificity. The criteria for definite noun phrases include identifiability and uniqueness, as shown in (\ref{ex:t4-6}), where a woman is introduced as one of many, compared to the obligatorily definite introduction of the unique village in (\ref{ex:t1}).
+A: word: i=apemoo	 gloss: DEF.SG=tribe
+B: word: li=i-n	 gloss: DEF.PL=skin-POSS
+C: word: i=apemoo-ca	 gloss: DEF.SG=tribe-PROX
+D: word: mwa	 gloss: REP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 18:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Habu Can-Vije vwa i=apemoo a= pwa-n jela ___ a= xhopwen.
+Gloss (with missing item): long.ago Tipije exist DEF.SG=tribe REL= on-NSPEC side ___ REL= big
+The English translation of this sentence is:Long ago in the Tipije valley, there was a tribe on the bank of this great river. (following the French original text) {[1]}
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Vamale distinguishes specific from generic participants using articles (except for pronouns and proper names). The articles mark number and definiteness, and, through their presence, specificity. The criteria for definite noun phrases include identifiability and uniqueness, as shown in (\ref{ex:t4-6}), where a woman is introduced as one of many, compared to the obligatorily definite introduction of the unique village in (\ref{ex:t1}).
+A: word: i=jaxhut	 gloss: DEF.SG=story
+B: word: ca=aman	 gloss: INDF.PL=thing
+C: word: i=jahoot	 gloss: DEF.SG=river
+D: word: i=dingan	 gloss: DEF.SG=creek
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 19:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma cika vuki-n ma a=xaahni ___ ma a=vwa tââ-n
+Gloss (with missing item): SUBR NEG.EXIST reason-POSS SUBR 3SG=look.for ___ SUBR 3SG=make oven-3SG.POSS
+The English translation of this sentence is:So that there was no reason for her to seek something to make her oven (with) (i.e. cook).
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: %Maybe example \ref{ex:ca_oven} is different from example \ref{ex:ca_field}, and more akin to \ref{ex:ca_xhuam}. In \ref{ex:ca_oven} and \ref{ex:ca_xhuam}, ca refers to parts of uncountable \qu{masses} (food in one case, things to put in her oven in the other). It is probably related to ca(-n) \qu{in (it)} (see \ref{ex:t2}). In \ref{ex:ca_field}, ca refers to a place, but more importantly, it does not modify a noun. The clause in brackets is subordinate to hân fwadai \qu{go look for it} and la \qu{be here} is anaphoric, but does it refer to ca, or something implied? ca is a preposition for nouns with an article.
+A: word: cabeen	 gloss: INDF.PL
+B: word: cahni	 gloss: here
+C: word: (eca)=aman	 gloss: INDF.SG=thing
+D: word: ca=aman	 gloss: INDF.PL=thing
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 20:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): i=bwaabwen-an a=ja han fwadai ___ [ma a=vwa nyangan-aman lai]
+Gloss (with missing item): DEF.SG=morning-POSS 3SG=PRF go search.INAN ___ SUBR 3SG=do garden-something be.here
+The English translation of this sentence is:The next day (lit. its morning) she finally went to look for some place to make her field.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: %Maybe example \ref{ex:ca_oven} is different from example \ref{ex:ca_field}, and more akin to \ref{ex:ca_xhuam}. In \ref{ex:ca_oven} and \ref{ex:ca_xhuam}, ca refers to parts of uncountable \qu{masses} (food in one case, things to put in her oven in the other). It is probably related to ca(-n) \qu{in (it)} (see \ref{ex:t2}). In \ref{ex:ca_field}, ca refers to a place, but more importantly, it does not modify a noun. The clause in brackets is subordinate to hân fwadai \qu{go look for it} and la \qu{be here} is anaphoric, but does it refer to ca, or something implied? ca is a preposition for nouns with an article.
+A: word: le=caihna	 gloss: 3PL=know
+B: word: li=been	 gloss: DEF.PL=other
+C: word: cai=	 gloss: some=
+D: word: eca-aman	 gloss: some-thing
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 21:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma cika vuki-n ma a=xaahni ___ ma a=vwa tââ-n
+Gloss (with missing item): SUBR NEG.EXIST reason-POSS SUBR 3SG=look.for ___ SUBR 3SG=make oven-3SG.POSS
+The English translation of this sentence is:So that there was no reason for her to seek something to make her oven (with) (i.e. cook).
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: %Maybe example \ref{ex:ca_oven} is different from example \ref{ex:ca_field}, and more akin to \ref{ex:ca_xhuam}. In \ref{ex:ca_oven} and \ref{ex:ca_xhuam}, ca refers to parts of uncountable \qu{masses} (food in one case, things to put in her oven in the other). It is probably related to ca(-n) \qu{in (it)} (see \ref{ex:t2}). In \ref{ex:ca_field}, ca refers to a place, but more importantly, it does not modify a noun. The clause in brackets is subordinate to hân fwadai \qu{go look for it} and la \qu{be here} is anaphoric, but does it refer to ca, or something implied? ca is a preposition for nouns with an article.
+A: word: (eca)=aman	 gloss: INDF.SG=thing
+B: word: cabeen	 gloss: INDF.PL
+C: word: ca=aman	 gloss: INDF.PL=thing
+D: word: i=jahoot	 gloss: DEF.SG=river
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 22:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ca i=apemoo-ca le=vacuti ___ daahma a= bwa xawe, ka yata-n Thêa Xa-vila
+Gloss (with missing item): in DEF.SG=tribe-PROX 3PL=erect ___ chief REL= IPFV young and name-3SG.POSS T. NMLZ-dance
+The English translation of this sentence is:In this tribe they erected a chief who was still young, and his name was Firstborn the Dancer. (Thêa is a name commonly given to the firstborn son) {[2]}
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: %Maybe example \ref{ex:the morpheme ____oven} is different from example \ref{ex:the morpheme ____field}, and more akin to \ref{ex:the morpheme ____xhuam}. In \ref{ex:the morpheme ____oven} and \ref{ex:the morpheme ____xhuam}, the morpheme ___ refers to parts of uncountable \qu{masses} (food in one the morpheme ___se, things to put in her oven in the other). It is probably related to the morpheme ___(-n) \qu{in (it)} (see \ref{ex:t2}). In \ref{ex:the morpheme ____field}, the morpheme ___ refers to a place, but more importantly, it does not modify a noun. The clause in brackets is subordinate to hân fwadai \qu{go look for it} and la \qu{be here} is anaphoric, but does it refer to the morpheme ___, or its gloss ___thing implied? the morpheme ___ is a preposition for nouns with an article.
+A: word: ca	 gloss: some
+B: word: (ca)ma	 gloss: COND
+C: word: li=papa-n-go	 gloss: DEF.PL=father-POSS-2SG.POSS
+D: word: li=been	 gloss: DEF.PL=other
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 23:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): i=bwaabwen-an a=ja han fwadai ___ [ma a=vwa nyangan-aman lai]
+Gloss (with missing item): DEF.SG=morning-POSS 3SG=PRF go search.INAN ___ SUBR 3SG=do garden-something be.here
+The English translation of this sentence is:The next day (lit. its morning) she finally went to look for some place to make her field.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: %Maybe example \ref{ex:ca_oven} is different from example \ref{ex:ca_field}, and more akin to \ref{ex:ca_xhuam}. In \ref{ex:ca_oven} and \ref{ex:ca_xhuam}, ca refers to parts of uncountable \qu{masses} (food in one case, things to put in her oven in the other). It is probably related to ca(-n) \qu{in (it)} (see \ref{ex:t2}). In \ref{ex:ca_field}, ca refers to a place, but more importantly, it does not modify a noun. The clause in brackets is subordinate to hân fwadai \qu{go look for it} and la \qu{be here} is anaphoric, but does it refer to ca, or something implied? ca is a preposition for nouns with an article.
+A: word: i=jahoot	 gloss: DEF.SG=river
+B: word: eca-aman	 gloss: some-thing
+C: word: le=caihna	 gloss: 3PL=know
+D: word: cai=	 gloss: some=
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 24:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma cika vuki-n ma a=xaahni ___ ma a=vwa tââ-n
+Gloss (with missing item): SUBR NEG.EXIST reason-POSS SUBR 3SG=look.for ___ SUBR 3SG=make oven-3SG.POSS
+The English translation of this sentence is:So that there was no reason for her to seek something to make her oven (with) (i.e. cook).
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Cabeen, probably from ca been \qu{some others, some of them}, see (\ref{ex:ca_been}), is for 25-year-old Jean-Philippe Oué the unambiguous plural form of eca, whereas ca is a free variant of eca, but can also be used for the plural. A similar confusion is found in the examples below, which stem from the translated legend (the translators were all around 40–50 years old). The article in (\ref{ex:ca_oven}) could refer to plural or singular entities, but in (\ref{ex:ca_field}) would more refer signify a single place.
+A: word: a=ta-mwa	 gloss: 3SG=go.up-REP
+B: word: (eca)=aman	 gloss: INDF.SG=thing
+C: word: ca=aman	 gloss: INDF.PL=thing
+D: word: cabeen	 gloss: INDF.PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 25:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): i=bwaabwen-an a=ja han fwadai ___ [ma a=vwa nyangan-aman lai]
+Gloss (with missing item): DEF.SG=morning-POSS 3SG=PRF go search.INAN ___ SUBR 3SG=do garden-something be.here
+The English translation of this sentence is:The next day (lit. its morning) she finally went to look for some place to make her field.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Cabeen, probably from ca been \qu{some others, some of them}, see (\ref{ex:ca_been}), is for 25-year-old Jean-Philippe Oué the unambiguous plural form of eca, whereas ca is a free variant of eca, but can also be used for the plural. A similar confusion is found in the examples below, which stem from the translated legend (the translators were all around 40–50 years old). The article in (\ref{ex:ca_oven}) could refer to plural or singular entities, but in (\ref{ex:ca_field}) would more refer signify a single place.
+A: word: eca-aman	 gloss: some-thing
+B: word: cai=	 gloss: some=
+C: word: le=caihna	 gloss: 3PL=know
+D: word: li=been	 gloss: DEF.PL=other
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 26:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma cika vuki-n ma a=xaahni ___ ma a=vwa tââ-n
+Gloss (with missing item): SUBR NEG.EXIST reason-POSS SUBR 3SG=look.for ___ SUBR 3SG=make oven-3SG.POSS
+The English translation of this sentence is:So that there was no reason for her to seek something to make her oven (with) (i.e. cook).
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Since number is not marked on nouns, both (\ref{ex:ca_oven}) above and (\ref{ex:ca_xhuam}) below may actually denote non-singular rather than plural, since both refer to non-singular, possibly uncountable referents.
+A: word: a=a=xhwi	 gloss: REL=3SG=eat
+B: word: (eca)=aman	 gloss: INDF.SG=thing
+C: word: ca=aman	 gloss: INDF.PL=thing
+D: word: cabeen	 gloss: INDF.PL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 27:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): cahma ___ a=mu tua tua i=aman
+Gloss (with missing item): TOP ___ 3SG=FREQ unwrap unwrap DEF.SG=thing
+The English translation of this sentence is:But him, he was unwrapping, unwrapping the thing.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Demonstrative pronouns have nominal status in the sense that they function syntactically as nouns including case marking, except that they cannot take articles. Vamale demonstratives distinguish proximal and distal (see \Cref{tab:demonstratives}), making the system somewhat simpler than the regional three-way average \parencite[38]{lynch_oceanic_2002}. They are a closed class of six forms, whose members are only partially transparent. All forms contain a distal or proximal suffix, and the dual forms still carry as a stem the dual article mu. The plural forms' stem ni is identical to the plural article in Usa Vamale and other Voh-Koné varieties \parencite[42]{rivierre_bwatoo_2006} discussed in \sectref{ssec:ni}, and is accepted by most speakers of Vamale as well. The segment e- in the singular forms may derive from the singular article i and the plural forms could be composed of plural article ni and the singular, already lexicalised form. Demonstrative pronouns can serve both as topic and comment, as in (\ref{ex:WCdem}).
+A: word: ehni	 gloss: DEM.PROX
+B: word: i=a=	 gloss: DEF.SG=REL=
+C: word: i=jaxhut	 gloss: DEF.SG=story
+D: word: le=niehni	 gloss: 3PL=all.those
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 28:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Jacob tha juu xa-vee ma hmwaana. ___ hmwaana, go=xaleke?
+Gloss (with missing item): J. ASS real NMLZ.AGT-fuck SUBR thus ___ thus 2SG=see
+The English translation of this sentence is:Jacob, it's bad for him if it's like this. That's how it is, you see?
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The demonstrative pronoun the morpheme ___ is special, because it can be used as a presentative (``this is Liline"), and to mark the comment of an equatiothe morpheme ___l clause (\ref{ex:the morpheme ____topic1}, \ref{ex:the morpheme ____topic2}). Since hni does not exist (anymore), the morpheme ___ is neither proximal nor distal, and functions as a more neutral pronoun.
+A: word: na	 gloss: DEM
+B: word: abe=sate-n	 gloss: 1PL.EXCL=be.different-ANA
+C: word: le=caihna	 gloss: 3PL=know
+D: word: i=a=	 gloss: DEF.SG=REL=
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 29:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): e=xaleke i=apuli ___ puaka
+Gloss (with missing item): 1SG=see DEF.SG=man ___ pig
+The English translation of this sentence is:I see the man who is eating pork.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As the relativizer and the third person singular are both a, they usually merge (\ref{ex:rel_merg}).
+A: word: i=a=	 gloss: DEF.SG=REL=
+B: word: (a=a=)	 gloss: (REL=3SG)
+C: word: a=a=xhwi	 gloss: REL=3SG=eat
+D: word: e=xhwii-ko	 gloss: 1SG=bite-2SG.OBJ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 30:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ka {\ob}jethro{\cb} ___ man bwethalo {\ob}le=cuut cahni ka ni=bee-m-ca{\cb}, cahni {\ob}ca-n xhoogo{\cb}
+Gloss (with missing item): CNJ J. ___ COM two.days.ago 3PL=stand here SBJ DEF.PL=peer-2SG.POSS-PROX here in-NSPEC home
+The English translation of this sentence is:And Jethro, yesterday and the day before your relatives stood here, here at home.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Vamale possesses a small class of adverbs. They occur at the end of a clause or phrase, are frequently fronted without a phrase (\ref{ex:Adv}), take neither articles nor any kind of possessive or inflectional morphology, and are, if at all, modified by the intensifiers described in \sectref{sec:WCIntensifiers}, juu \qu{real, really, very}. As they modify verb, noun, and prepositional phrases, and as they can be fronted alone, this analysis considers them to be adjuncts. Most members are transparently derived from nouns or prepositional phrases. See \sectref{sec:Adv} for examples of their interaction with verb and noun phrases. Example (\ref{ex:Adv}) features two cases of fronted adverbs, (\ref{ex:Adv2}) shows an adverb at the end of a verb phrase, and (\ref{ex:Adv3}) shows an adverb after noun phrase.\largerpage[-2]
+A: word: canbwen	 gloss: yesterday
+B: word: xahmaen	 gloss: tomorrow
+C: word: i=bwaabwen-an	 gloss: DEF.SG=morning-POSS
+D: word: a=a=xhwi	 gloss: REL=3SG=eat
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 31:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ka {\ob}jethro{\cb} canbwen man ___ {\ob}le=cuut cahni ka ni=bee-m-ca{\cb}, cahni {\ob}ca-n xhoogo{\cb}
+Gloss (with missing item): CNJ J. yesterday COM ___ 3PL=stand here SBJ DEF.PL=peer-2SG.POSS-PROX here in-NSPEC home
+The English translation of this sentence is:And Jethro, yesterday and the day before your relatives stood here, here at home.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Vamale possesses a small class of adverbs. They occur at the end of a clause or phrase, are frequently fronted without a phrase (\ref{ex:Adv}), take neither articles nor any kind of possessive or inflectional morphology, and are, if at all, modified by the intensifiers described in \sectref{sec:WCIntensifiers}, juu \qu{real, really, very}. As they modify verb, noun, and prepositional phrases, and as they can be fronted alone, this analysis considers them to be adjuncts. Most members are transparently derived from nouns or prepositional phrases. See \sectref{sec:Adv} for examples of their interaction with verb and noun phrases. Example (\ref{ex:Adv}) features two cases of fronted adverbs, (\ref{ex:Adv2}) shows an adverb at the end of a verb phrase, and (\ref{ex:Adv3}) shows an adverb after noun phrase.\largerpage[-2]
+A: word: habu	 gloss: long.ago
+B: word: cai=	 gloss: some=
+C: word: bwethalo	 gloss: two.days.ago
+D: word: thaloo	 gloss: two
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 32:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ka {\ob}jethro{\cb} canbwen man bwethalo {\ob}le=cuut cahni ka ni=bee-m-ca{\cb}, ___ {\ob}ca-n xhoogo{\cb}
+Gloss (with missing item): CNJ J. yesterday COM two.days.ago 3PL=stand here SBJ DEF.PL=peer-2SG.POSS-PROX ___ in-NSPEC home
+The English translation of this sentence is:And Jethro, yesterday and the day before your relatives stood here, here at home.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Vamale possesses a small class of adverbs. They occur at the end of a clause or phrase, are frequently fronted without a phrase (\ref{ex:Adv}), take neither articles nor any kind of possessive or inflectional morphology, and are, if at all, modified by the intensifiers described in \sectref{sec:WCIntensifiers}, juu \qu{real, really, very}. As they modify verb, noun, and prepositional phrases, and as they can be fronted alone, this analysis considers them to be adjuncts. Most members are transparently derived from nouns or prepositional phrases. See \sectref{sec:Adv} for examples of their interaction with verb and noun phrases. Example (\ref{ex:Adv}) features two cases of fronted adverbs, (\ref{ex:Adv2}) shows an adverb at the end of a verb phrase, and (\ref{ex:Adv3}) shows an adverb after noun phrase.\largerpage[-2]
+A: word: ehni	 gloss: PROX
+B: word: a=xaahni	 gloss: 3SG=look.for
+C: word: cahni	 gloss: here
+D: word: nyala	 gloss: there
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 33:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ka {\ob}jethro{\cb} ___ man bwethalo {\ob}le=cuut cahni ka ni=bee-m-ca{\cb}, cahni {\ob}ca-n xhoogo{\cb}
+Gloss (with missing item): CNJ J. ___ COM two.days.ago 3PL=stand here SBJ DEF.PL=peer-2SG.POSS-PROX here in-NSPEC home
+The English translation of this sentence is:And Jethro, yesterday and the day before your relatives stood here, here at home.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Vamale possesses a small class of adverbs. They occur at the end of a clause or phrase, are frequently fronted without a phrase (\ref{ex:Adv}), take neither articles nor any kind of possessive or inflectional morphology, and are, if at all, modified by the intensifiers described in \sectref{sec:WCIntensifiers}, juu \qu{real, really, very}. As they modify verb, noun, and prepositional phrases, and as they can be fronted alone, this analysis considers them to be adjuncts. Most members are transparently derived from nouns or prepositional phrases. See \sectref{sec:Adv} for examples of their interaction with verb and noun phrases. Example (\ref{ex:Adv}) features two cases of fronted adverbs, (\ref{ex:Adv2}) shows an adverb at the end of a verb phrase, and (\ref{ex:Adv3}) shows an adverb after noun phrase.\largerpage[-2]
+A: word: xahmaen	 gloss: tomorrow
+B: word: canbwen	 gloss: yesterday
+C: word: i=bwaabwen-an	 gloss: DEF.SG=morning-POSS
+D: word: cahni	 gloss: here
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 34:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ka {\ob}jethro{\cb} canbwen man ___ {\ob}le=cuut cahni ka ni=bee-m-ca{\cb}, cahni {\ob}ca-n xhoogo{\cb}
+Gloss (with missing item): CNJ J. yesterday COM ___ 3PL=stand here SBJ DEF.PL=peer-2SG.POSS-PROX here in-NSPEC home
+The English translation of this sentence is:And Jethro, yesterday and the day before your relatives stood here, here at home.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Vamale possesses a small class of adverbs. They occur at the end of a clause or phrase, are frequently fronted without a phrase (\ref{ex:Adv}), take neither articles nor any kind of possessive or inflectional morphology, and are, if at all, modified by the intensifiers described in \sectref{sec:WCIntensifiers}, juu \qu{real, really, very}. As they modify verb, noun, and prepositional phrases, and as they can be fronted alone, this analysis considers them to be adjuncts. Most members are transparently derived from nouns or prepositional phrases. See \sectref{sec:Adv} for examples of their interaction with verb and noun phrases. Example (\ref{ex:Adv}) features two cases of fronted adverbs, (\ref{ex:Adv2}) shows an adverb at the end of a verb phrase, and (\ref{ex:Adv3}) shows an adverb after noun phrase.\largerpage[-2]
+A: word: habu	 gloss: long.ago
+B: word: thaloo	 gloss: two
+C: word: bwethalo	 gloss: two.days.ago
+D: word: canbwen	 gloss: yesterday
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 35:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ka {\ob}jethro{\cb} canbwen man bwethalo {\ob}le=cuut cahni ka ni=bee-m-ca{\cb}, ___ {\ob}ca-n xhoogo{\cb}
+Gloss (with missing item): CNJ J. yesterday COM two.days.ago 3PL=stand here SBJ DEF.PL=peer-2SG.POSS-PROX ___ in-NSPEC home
+The English translation of this sentence is:And Jethro, yesterday and the day before your relatives stood here, here at home.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Vamale possesses a small class of adverbs. They occur at the end of a clause or phrase, are frequently fronted without a phrase (\ref{ex:Adv}), take neither articles nor any kind of possessive or inflectional morphology, and are, if at all, modified by the intensifiers described in \sectref{sec:WCIntensifiers}, juu \qu{real, really, very}. As they modify verb, noun, and prepositional phrases, and as they can be fronted alone, this analysis considers them to be adjuncts. Most members are transparently derived from nouns or prepositional phrases. See \sectref{sec:Adv} for examples of their interaction with verb and noun phrases. Example (\ref{ex:Adv}) features two cases of fronted adverbs, (\ref{ex:Adv2}) shows an adverb at the end of a verb phrase, and (\ref{ex:Adv3}) shows an adverb after noun phrase.\largerpage[-2]
+A: word: nyala	 gloss: there
+B: word: a=xaahni	 gloss: 3SG=look.for
+C: word: i=jahoot	 gloss: DEF.SG=river
+D: word: cahni	 gloss: here
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 36:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): e=ha-mwa ___
+Gloss (with missing item): 1SG=go-REP ___
+The English translation of this sentence is:I went back yesterday.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Vamale possesses a small class of adverbs. They occur at the end of a clause or phrase, are frequently fronted without a phrase (\ref{ex:Adv}), take neither articles nor any kind of possessive or inflectional morphology, and are, if at all, modified by the intensifiers described in \sectref{sec:WCIntensifiers}, juu \qu{real, really, very}. As they modify verb, noun, and prepositional phrases, and as they can be fronted alone, this analysis considers them to be adjuncts. Most members are transparently derived from nouns or prepositional phrases. See \sectref{sec:Adv} for examples of their interaction with verb and noun phrases. Example (\ref{ex:Adv}) features two cases of fronted adverbs, (\ref{ex:Adv2}) shows an adverb at the end of a verb phrase, and (\ref{ex:Adv3}) shows an adverb after noun phrase.\largerpage[-2]
+A: word: cahni	 gloss: here
+B: word: i=bwaabwen-an	 gloss: DEF.SG=morning-POSS
+C: word: canbwen	 gloss: yesterday
+D: word: xahmaen	 gloss: tomorrow
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 37:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): na i=vaaya-n xayu ___ ka
+Gloss (with missing item): DEM DEF.SG=work-POSS man ___ DISC
+The English translation of this sentence is:This was a man's work back then, like.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Vamale possesses a small class of adverbs. They occur at the end of a clause or phrase, are frequently fronted without a phrase (\ref{ex:Adv}), take neither articles nor any kind of possessive or inflectional morphology, and are, if at all, modified by the intensifiers described in \sectref{sec:WCIntensifiers}, juu \qu{real, really, very}. As they modify verb, noun, and prepositional phrases, and as they can be fronted alone, this analysis considers them to be adjuncts. Most members are transparently derived from nouns or prepositional phrases. See \sectref{sec:Adv} for examples of their interaction with verb and noun phrases. Example (\ref{ex:Adv}) features two cases of fronted adverbs, (\ref{ex:Adv2}) shows an adverb at the end of a verb phrase, and (\ref{ex:Adv3}) shows an adverb after noun phrase.\largerpage[-2]
+A: word: canbwen	 gloss: yesterday
+B: word: habu	 gloss: before
+C: word: le=thabilo	 gloss: 3PL=strike
+D: word: (tha)	 gloss: (ASS)
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 38:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ya a=ja vwa ___ li=wee-n a=ta-mwa sibu li=sibu mwa. ja yabwat mwa sisuu mwa
+Gloss (with missing item): EXPL 3SG=PRF do ___ DEF.PL=water-POSS.NSPEC 3SG=go.up-REP swell DEF.PL=swell REP PRF dry REP hard DEICT
+The English translation of this sentence is:And there's the sap that rises, swells, the swells there. It dries then, gets hard then.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: This class only has one member. Mwa has rather different, related meanings, depending on the context. Mwa can have the repetitive meaning \qu{again} (\ref{ex:the morpheme ____even}), the restitutive \qu{back}, as well as \qu{also}, \qu{even}, \qu{on top of that}, or mark the preceding phrase as focused (see \sectref{sec:the morpheme ___} for a discussion). The deictic use of the morpheme ___ \qu{now} (\ref{ex:the morpheme ___}), seems to mostly anchor the listener's attention, similarly to the morpheme ___ \qu{even}, onto the noun phrase given, see (\ref{ex:the morpheme ____now1a}). Mwa is a particle that can dock onto any phrase preceding it (see \ref{ex:the morpheme ____rep}).
+A: word: i=apemoo	 gloss: DEF.SG=tribe
+B: word: ha-mwa	 gloss: go-REP
+C: word: mwa	 gloss: REP
+D: word: hmwaana	 gloss: like.this
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 39:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ya a=ja vwa mwa li=wee-n ___ sibu li=sibu mwa. ja yabwat mwa sisuu mwa
+Gloss (with missing item): EXPL 3SG=PRF do REP DEF.PL=water-POSS.NSPEC ___ swell DEF.PL=swell REP PRF dry REP hard DEICT
+The English translation of this sentence is:And there's the sap that rises, swells, the swells there. It dries then, gets hard then.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: This class only has one member. Mwa has rather different, related meanings, depending on the context. Mwa can have the repetitive meaning \qu{again} (\ref{ex:mwa_even}), the restitutive \qu{back}, as well as \qu{also}, \qu{even}, \qu{on top of that}, or mark the preceding phrase as focused (see \sectref{sec:mwa} for a discussion). The deictic use of mwa \qu{now} (\ref{ex:mwa}), seems to mostly anchor the listener's attention, similarly to mwa \qu{even}, onto the noun phrase given, see (\ref{ex:mwa_now1a}). Mwa is a particle that can dock onto any phrase preceding it (see \ref{ex:mwa_rep}).
+A: word: a=ta-mwa	 gloss: 3SG=go.up-REP
+B: word: cahni	 gloss: here
+C: word: a=hup-wa	 gloss: 3SG=go.down-REP
+D: word: go=ta-mwa-me	 gloss: 2SG=go.up-REP-DIR.CP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 40:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ya a=ja vwa mwa li=wee-n a=ta-mwa sibu li=sibu mwa. ja yabwat ___ sisuu mwa
+Gloss (with missing item): EXPL 3SG=PRF do REP DEF.PL=water-POSS.NSPEC 3SG=go.up-REP swell DEF.PL=swell REP PRF dry ___ hard DEICT
+The English translation of this sentence is:And there's the sap that rises, swells, the swells there. It dries then, gets hard then.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: This class only has one member. Mwa has rather different, related meanings, depending on the context. Mwa can have the repetitive meaning \qu{again} (\ref{ex:the morpheme ____even}), the restitutive \qu{back}, as well as \qu{also}, \qu{even}, \qu{on top of that}, or mark the preceding phrase as focused (see \sectref{sec:the morpheme ___} for a discussion). The deictic use of the morpheme ___ \qu{now} (\ref{ex:the morpheme ___}), seems to mostly anchor the listener's attention, similarly to the morpheme ___ \qu{even}, onto the noun phrase given, see (\ref{ex:the morpheme ____now1a}). Mwa is a particle that can dock onto any phrase preceding it (see \ref{ex:the morpheme ____rep}).
+A: word: ha-mwa	 gloss: go-REP
+B: word: mwa	 gloss: REP
+C: word: koo-n	 gloss: OBL-ANA
+D: word: hmwaana	 gloss: like.this
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 41:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ya a=ja vwa mwa li=wee-n a=ta-mwa sibu li=sibu mwa. ja yabwat mwa sisuu ___
+Gloss (with missing item): EXPL 3SG=PRF do REP DEF.PL=water-POSS.NSPEC 3SG=go.up-REP swell DEF.PL=swell REP PRF dry REP hard ___
+The English translation of this sentence is:And there's the sap that rises, swells, the swells there. It dries then, gets hard then.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: This class only has one member. Mwa has rather different, related meanings, depending on the context. Mwa can have the repetitive meaning \qu{again} (\ref{ex:the morpheme ____even}), the restitutive \qu{back}, as well as \qu{also}, \qu{even}, \qu{on top of that}, or mark the preceding phrase as focused (see \sectref{sec:the morpheme ___} for a discussion). The deictic use of the morpheme ___ \qu{now} (\ref{ex:the morpheme ___}), seems to mostly anchor the listener's attention, similarly to the morpheme ___ \qu{even}, onto the noun phrase given, see (\ref{ex:the morpheme ____now1a}). Mwa is a particle that can dock onto any phrase preceding it (see \ref{ex:the morpheme ____rep}).
+A: word: hmwaana	 gloss: like.this
+B: word: koo-n	 gloss: OBL-ANA
+C: word: sahnaang-eong	 gloss: not.understand-1SG
+D: word: mwa	 gloss: DEICT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+

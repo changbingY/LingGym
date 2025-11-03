@@ -1,0 +1,52 @@
+Question 0:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ca i=wadan a= e-thaloo-ka-n tha ___ i=a=a=vi
+Gloss (with missing item): in DEF.SG=time REL= ORD-2-CLF.POSS-NSPEC ASS ___ DEF.SG=REL=3SG=say
+The English translation of this sentence is:The second time she said the same thing.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: There are constructions that are, at least diachronically, active or stative V+N compounds (see \Cref{tab:VNcompPoss}, and example (\ref{ex:se-ma})). This means that arguments are marked by nominal possessive morphology. This study does not count these lexicalized former verb phrases (with possessive suffixes) as identical to the dependent transitive verbs in \Cref{tab:transVnomMorph}, which use object suffixes. This view is shared with Rivierre on Bwatoo \parencite[50]{rivierre_bwatoo_2006}.
+A: word: see-me	 gloss: same-all
+B: word: e-see	 gloss: MID-be.one
+C: word: see-ma	 gloss: one-face
+D: word: nya-xahan	 gloss: over-there
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 1:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ka a=cuut cahni go a=cuut cai-n ka i=xa-thake i=bool. hmwakan ___ a=cuut xahan ka i=see
+Gloss (with missing item): CNJ 3SG=stand here CNJ 3SG=stand behind-NSPEC SBJ DEF.SG=AGT.NMLZ-throw DEF.SG=ball maybe ___ 3SG=stand over.there SBJ DEF.SG=one
+The English translation of this sentence is:And she stands here, and behind her stands the cricket pitcher. Maybe around there stands the other [player].
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Nya can also mean \qu{toward}, a meaning that is related to \qu{send}. In combination with spatial adverbs, nya forms two paradigms: the series nya-xahut/nya-xada/the morpheme ___ is almost equivalent in meaning to xahan \qu{over there} etc. It means \qu{in the vicinity of X}, whereas xahan etc. designate a more precise location. In (\ref{ex:nya_from}) and (\ref{ex:nya_cricket}), nya is used to express a vague area. The other paradigm combines nya-an/nya-ut/nya-da \qu{send, put there/down/up} with the basic adverbial form, which yields a comparatively farther meaning, e.g. nya-an (mwa) xahan \qu{(even) further away in this general direction} (see \sectref{ssec:spat_adv}).
+A: word: nya-xahan	 gloss: over-there
+B: word: see-ma	 gloss: one-face
+C: word: nya-xahut	 gloss: towards-down.there
+D: word: xahan	 gloss: over.there
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 2:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): (ca)ma koin ___ nya-sii-le i=bween-aman...
+Gloss (with missing item): COND end ___ put-hand-3PL DEF=exchange-thing
+The English translation of this sentence is:When giving the gift to them is done,\ldots
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As well as deriving verbs, Vamale can derive whole verb phrases, the resulting construction being internally a verb phrase with identifiable referents, and externally a noun phrase, that can function as an argument. Consider the Bwatoo example in example (\ref{ex:Bwatoo_derivVP}). Speakers confirmed the acceptability of its Vamale equivalent in (\ref{ex:Vam_derivVP}). In both cases, a ditransitive verb phrase is derived to a noun by dropping the subject marker and adding an article i= (or ani, in Bwatoo). This is one way to derive a verb phrase, though the nominalizing prefix hun- is also commonly used.
+A: word: e=vatipwe	 gloss: 1SG=drop
+B: word: (i)=	 gloss: DEF.SG=
+C: word: see-ma	 gloss: one-face
+D: word: i=vwatipwe	 gloss: DEF.SG=drop
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 3:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): (ca)ma koin i=vwatipwe ___ i=bween-aman...
+Gloss (with missing item): COND end DEF.SG=drop ___ DEF=exchange-thing
+The English translation of this sentence is:When giving the gift to them is done,\ldots
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As well as deriving verbs, Vamale can derive whole verb phrases, the resulting construction being internally a verb phrase with identifiable referents, and externally a noun phrase, that can function as an argument. Consider the Bwatoo example in example (\ref{ex:Bwatoo_derivVP}). Speakers confirmed the acceptability of its Vamale equivalent in (\ref{ex:Vam_derivVP}). In both cases, a ditransitive verb phrase is derived to a noun by dropping the subject marker and adding an article i= (or ani, in Bwatoo). This is one way to derive a verb phrase, though the nominalizing prefix hun- is also commonly used.
+A: word: see-ma	 gloss: one-face
+B: word: nya-sii-le	 gloss: put-hand-3PL
+C: word: nya-si-m	 gloss: put-hand-2SG.POSS
+D: word: taeke	 gloss: do.badly
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+

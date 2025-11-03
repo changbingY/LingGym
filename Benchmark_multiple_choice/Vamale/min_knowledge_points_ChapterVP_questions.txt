@@ -1,0 +1,169 @@
+Question 0:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ xaleke nyako i=mwani-n-eong
+Gloss (with missing item): ___ look OBL DEF.SG=money-POSS-1SG.POSS
+The English translation of this sentence is:I buy according to my means.\\\relax
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A verb phrase in Vamale will be defined as the syntactic unit depending on a verb, i.e. which moves with the verb, disappears if the verb is replaced by a light verb like vwa \qu{do} or hmwaana \qu{do like this} (\ref{ex:VP}). The verb phrase includes the head verb, its subject and other arguments, and other verbs that stand in a more or less integrated relationship to the head verb, but are neither coordinated nor subordinated verb phrases. Whether TAM markers, subject indexes and other particles should count as part of the verb phrase may be debated, because they still occur with placeholder morphemes, but since the latter were treated under \Cref{ChapterVerbs} and the former are described in \Cref{ChapterAspect}, we shall concentrate on the elements to the right of the verb. A verb phrase has the following slots available:
+A: word: gavwe=han	 gloss: 2PL=go
+B: word: ca=le=vwa-suki-aman	 gloss: INDF.PL=3PL=do-price-thing
+C: word: e=caihna-n	 gloss: 1SG=know-NSPEC
+D: word: e=vwa-suki-n	 gloss: 1SG=do-price-NSPEC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 1:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ xaleke nyako i=mwani-n-eong
+Gloss (with missing item): ___ look OBL DEF.SG=money-POSS-1SG.POSS
+The English translation of this sentence is:I buy according to my means.\\\relax
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example (\ref{ex:VP}) shows a complex verb phrase, where vwa-suki-n \qu{do-price-\gl{nspec}} \qu{to buy} is the main verb from which depends xaleke \qu{to see, according to} with its oblique argument i mwani-n-eong \qu{my money}. Example (\ref{ex:VP1}) shows the same sentence with the placeholder verb vwa \qu{do}.
+A: word: gavwe=han	 gloss: 2PL=go
+B: word: e=caihna-n	 gloss: 1SG=know-NSPEC
+C: word: ca=le=vwa-suki-aman	 gloss: INDF.PL=3PL=do-price-thing
+D: word: e=vwa-suki-n	 gloss: 1SG=do-price-NSPEC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 2:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ xaleke nyako i=mwani-n-eong
+Gloss (with missing item): ___ look OBL DEF.SG=money-POSS-1SG.POSS
+The English translation of this sentence is:I do it according to my means.\\\relax
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example (\ref{ex:VP}) shows a complex verb phrase, where vwa-suki-n \qu{do-price-\gl{nspec}} \qu{to buy} is the main verb from which depends xaleke \qu{to see, according to} with its oblique argument i mwani-n-eong \qu{my money}. Example (\ref{ex:VP1}) shows the same sentence with the placeholder verb vwa \qu{do}.
+A: word: go=vwa	 gloss: 2SG=do
+B: word: e=vwa	 gloss: 1SG=do
+C: word: mwadu	 gloss: down.there
+D: word: le=vwa	 gloss: 3PL=do
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 3:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): I u â kuut ___ axi axamalileny ebai nu malileny.
+Gloss (with missing item): 3SG PRF leave stand ___ see these2.DIST then coconut these2.DIST
+The English translation of this sentence is:‘He leaves, stands down there, sees these two coconuts.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: To this, \citeauthor{bril_complex_2004} adds a criterion of contiguity for Nêlêmwa, with directionals such as in (\ref{ex:contig}) counting as the only valid disruption of the verb chain \parencite[169]{bril_complex_2004}. This may be present in Vamale, but could not be distinguished safely from primed calques in elicitation contexts, and was not (to the knowledge of the author) found in unprompted speech. %This is also attested in Vamale (\ref{ex:contig2}).
+A: word: gavwe=han	 gloss: 2PL=go
+B: word: hup-	 gloss: go.down
+C: word: hmwaana	 gloss: like.this
+D: word: mwadu	 gloss: down.there
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 4:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): lu=vwa ma ___ cu-vathan-ke li=see vuman nyu nyala ka muu-hni
+Gloss (with missing item): 3DU=do SUBR ___ stand-individually-TR DEF.PL=same group fish there SBJ DEM.DU-PROX
+The English translation of this sentence is:The two did so that they quickly surrounded the same school of fish there.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Vamale has a series of elements which cannot nowadays be the head of a verb phrase. Some have nominal origins, like the ones in \Cref{tab:preverb}, while others have free verbal counterparts, often with a transitive meaning e.g. vataan \qu{each}, vathanke \qu{do separately, separate}. Preverbs occur directly before the verb root. The commonly used members include vataan \qu{each} (\ref{ex:vatan}), xadaa \qu{on the other hand} (\ref{ex:xadaa}), daa \qu{do first} (\ref{ex:daa}), xhose \qu{repeat} (\ref{ex:xhose}), xhwat \qu{a little bit}\footnote{Compare xhwat apuli \qu{little man}, xhwatin \qu{be small}, xhwatiike \qu{do slowly}.} (\ref{ex:xhwat}), xhopwe \qu{on top of that}, balan \qu{just} (\ref{ex:balan}). In addition to having different word-class status, some preverbs have homophonous equivalents with a different distribution, e.g. vataan, which also occurs before nouns, and balan exists as an aspect marker (\sectref{sec:balan}). The two preverbs mee \qu{all} and its complex form se-me \qu{all together} are discussed in the two sections to come, as examples of this multi-functionality.
+A: word: lu=xhwat	 gloss: 3DU=a.bit
+B: word: naen	 gloss: now
+C: word: lu=vwa	 gloss: 3DU=do
+D: word: le=xhwat	 gloss: 3PL=almost
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 5:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): meeka li=yavo, a=taemwi ka i=apuli a= ___
+Gloss (with missing item): all DEF.PL=fishing.line 3SG=grab SBJ DEF.SG=man REL= ___
+The English translation of this sentence is:All the fishing rods are held by a single man. (lit. All the fishing rods, a single man holds (them).) {[J5:70]}
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The last meaning of the morpheme ___ is \qu{be one\slash its gloss ___}. It is uthe morpheme ___d either as a verbal predicate, with singular nouns (\ref{ex:the morpheme ___1}) as well as plural ones (\ref{ex:its gloss ____yam}). It can also be uthe morpheme ___d before definite nouns to mean \qu{the its gloss ___}, as in (\ref{ex:other_the morpheme ___2}) and (\ref{ex:the morpheme ___3}).
+A: word: i=hun-moo-gaa	 gloss: DEF.SG=NMLZ-stay-1PL.INCL
+B: word: see-ma	 gloss: one-face
+C: word: se	 gloss: same
+D: word: e=vwa	 gloss: 1SG=do
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 6:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): i=se a= ___ hup-e ya a=bwa ta xale
+Gloss (with missing item): DEF.SG=other REL= ___ go.down-DIR.CP 3SG 3SG=IPFV go.up look
+The English translation of this sentence is:The other who came with (lit. the other that the two came down together) went up [in the gas station] to look around.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The morpheme me(e) \qu{all} is likely the origin of the derived form mee-ka-n \qu{everything, everywhere}\footnote{meeka-n was probably structured mee ka-n, with the \gl{s}/\gl{p}-marking clitic ka \qu{\gl{abs}} found in nominalizations, further discussed under \sectref{kan}.} suggests it was originally a free verb (see \sectref{ssec:meekan} on the adverb and \sectref{ssec:meeka-n} on the quantifier). However, me(e) is not attested as a head verb in Vamale, and western Voh-Koné languages only feature the nominalized form meeka-n \goodtilde meena-n \parencite[211]{rivierre_bwatoo_2006}; no independent verb me is attested in the language family today. me(e) is mostly used preverbally, see (\ref{ex:me3}) and (\ref{ex:me1}), but it is also attested before a prepositional phrase, as in (\ref{ex:me1}). Interestingly, me does not only add a meaning of \qu{to all do}, but can also, at least when the subject is singular, signify implicit plural referents ``all-ness", i.e. that all members of the referred-to group of referents are concerned (\ref{ex:me2}, \ref{ex:mePV}). This was only attested twice.
+A: word: lu=mee	 gloss: 3DU=all
+B: word: gavwe=han	 gloss: 2PL=go
+C: word: lu=vwa	 gloss: 3DU=do
+D: word: lu=mata	 gloss: sing
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 7:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ca i=mwani mwani mwani, cama li=xhaohmu habu, le, tha cika mwani-n-le
+Gloss (with missing item): ___ in DEF.SG=money money money when DEF.PL=elder long.ago 3PL ASS NEG.EXIST money-POSS-3PL.POSS
+The English translation of this sentence is:We all are about money, money, money, but the elders back then, they didn't have money.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The morpheme me(e) \qu{all} is likely the origin of the derived form mee-ka-n \qu{everything, everywhere}\footnote{meeka-n was probably structured mee ka-n, with the \gl{s}/\gl{p}-marking clitic ka \qu{\gl{abs}} found in nominalizations, further discussed under \sectref{kan}.} suggests it was originally a free verb (see \sectref{ssec:meekan} on the adverb and \sectref{ssec:meeka-n} on the quantifier). However, me(e) is not attested as a head verb in Vamale, and western Voh-Koné languages only feature the nominalized form meeka-n \goodtilde meena-n \parencite[211]{rivierre_bwatoo_2006}; no independent verb me is attested in the language family today. me(e) is mostly used preverbally, see (\ref{ex:me3}) and (\ref{ex:me1}), but it is also attested before a prepositional phrase, as in (\ref{ex:me1}). Interestingly, me does not only add a meaning of \qu{to all do}, but can also, at least when the subject is singular, signify implicit plural referents ``all-ness", i.e. that all members of the referred-to group of referents are concerned (\ref{ex:me2}, \ref{ex:mePV}). This was only attested twice.
+A: word: naen	 gloss: now
+B: word: go=bwaa=majit	 gloss: 2SG=IPFV=sleep
+C: word: gase=see-me	 gloss: 1PL.INCL=same-all
+D: word: gaa=me	 gloss: 1PL.INCL=all
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 8:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ca i=mwani mwani mwani, cama li=xhaohmu habu, le, tha cika mwani-n-le
+Gloss (with missing item): ___ in DEF.SG=money money money when DEF.PL=elder long.ago 3PL ASS NEG.EXIST money-POSS-3PL.POSS
+The English translation of this sentence is:We all are about money, money, money, but the elders back then, they didn't have money.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The morpheme me(e) \qu{all} is likely the origin of the derived form mee-ka-n \qu{everything, everywhere}\footnote{meeka-n was probably structured mee ka-n, with the \gl{s}/\gl{p}-marking clitic ka \qu{\gl{abs}} found in nominalizations, further discussed under \sectref{kan}.} suggests it was originally a free verb (see \sectref{ssec:meekan} on the adverb and \sectref{ssec:meeka-n} on the quantifier). However, me(e) is not attested as a head verb in Vamale, and western Voh-Koné languages only feature the nominalized form meeka-n \goodtilde meena-n \parencite[211]{rivierre_bwatoo_2006}; no independent verb me is attested in the language family today. me(e) is mostly used preverbally, see (\ref{ex:me3}) and (\ref{ex:me1}), but it is also attested before a prepositional phrase, as in (\ref{ex:me1}). Interestingly, me does not only add a meaning of \qu{to all do}, but can also, at least when the subject is singular, signify implicit plural referents ``all-ness", i.e. that all members of the referred-to group of referents are concerned (\ref{ex:me2}, \ref{ex:mePV}). This was only attested twice.
+A: word: e=vwa	 gloss: 1SG=do
+B: word: gase=see-me	 gloss: 1PL.INCL=same-all
+C: word: gaa=me	 gloss: 1PL.INCL=all
+D: word: go=bwaa=majit	 gloss: 2SG=IPFV=sleep
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 9:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): gaa=vwa ma fa-pupwaale, ___ pala thuan
+Gloss (with missing item): 1PL.INCL=do SUBR speak.language-European ___ talk do.well
+The English translation of this sentence is:...we busy ourselves with speaking French, you have come to speak it well.
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: han is used to express iterativity, and can be used before, see (\ref{ex:modal_han1b}) and (\ref{ex:modal_han1a}), or after the other verbs (\ref{ex:modal_han2}). This is a rather grammaticalized function and although it latches onto serial verb constructions, the resulting whole qualifies as an asymmetric verb string (composed of an SVC and a modal verb).
+A: word: cama=abe	 gloss: SUBR=1PL.EXCL
+B: word: mwadu	 gloss: down.there
+C: word: gavwe=han	 gloss: 2PL=go
+D: word: gavwe=vwa	 gloss: 2PL=do
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 10:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ko ___ pa xaleke naen
+Gloss (with missing item): CNJ ___ PFV see now
+The English translation of this sentence is:And we see by now,...
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: han is used to express iterativity, and can be used before, see (\ref{ex:modal_han1b}) and (\ref{ex:modal_han1a}), or after the other verbs (\ref{ex:modal_han2}). This is a rather grammaticalized function and although it latches onto serial verb constructions, the resulting whole qualifies as an asymmetric verb string (composed of an SVC and a modal verb).
+A: word: lu=xhwat	 gloss: 3DU=a.bit
+B: word: tha=ga=han	 gloss: ASS=1PL.INCL=go
+C: word: a=han	 gloss: 3SG=walk
+D: word: gavwe=han	 gloss: 2PL=go
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 11:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): cipa hmwakan ___ ko naen a=xaahni eca=lit a... eca=matelas a
+Gloss (with missing item): NEG like-NSPEC ___ CNJ now 3SG=look.for INDF.SG=bed CNJ INDF.SG=mattress CNJ
+The English translation of this sentence is:It's not like now, because now he looks for some bed or some mattress (instead of sleeping on a pandanus mat).
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Similarly to manner verbs, adverbs can modify a verb and are optional. Adverbs can also modify nouns, as well as occur alone at the edge of the clause, see (\ref{ex:adv}), where the morpheme ___ \qu{its gloss ___(adays)} is used at the end of the first clause, and after the conjunction, at the beginning of the following clause.
+A: word: koin	 gloss: then
+B: word: i=apuli-aen	 gloss: DEF.SG=man-DEM
+C: word: naen	 gloss: now
+D: word: e=vwa-suki-n	 gloss: 1SG=do-price-NSPEC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 12:
+You are a linguist specializing in Vamale. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): cipa hmwakan naen, ko ___ a=xaahni eca=lit a... eca=matelas a
+Gloss (with missing item): NEG like-NSPEC now CNJ ___ 3SG=look.for INDF.SG=bed CNJ INDF.SG=mattress CNJ
+The English translation of this sentence is:It's not like now, because now he looks for some bed or some mattress (instead of sleeping on a pandanus mat).
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Similarly to manner verbs, adverbs can modify a verb and are optional. Adverbs can also modify nouns, as well as occur alone at the edge of the clause, see (\ref{ex:adv}), where the morpheme ___ \qu{its gloss ___(adays)} is used at the end of the first clause, and after the conjunction, at the beginning of the following clause.
+A: word: i=apuli-aen	 gloss: DEF.SG=man-DEM
+B: word: naen	 gloss: now
+C: word: gavwe=han	 gloss: 2PL=go
+D: word: koin	 gloss: then
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
