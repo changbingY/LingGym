@@ -6,7 +6,7 @@ LingGym is a new benchmark that evaluates LLMs’ capacity for metalinguistic re
 
 In this github repo. We release three types of datasets:
 
-1. Benchmark data (Main): the complete dataset used for benchmark evaluation.
+1. Benchmark data (Main): the complete multiple choice dataset used for benchmark evaluation.
 
 2. CSV files: extracted examples and explanations from grammar books.
 
