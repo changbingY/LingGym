@@ -1,0 +1,2340 @@
+\label{ex:syntax:1}
+\gsrc Itom mï awal tembi wap.
+\gll itom mï awal tembi wap
+\gls father 3SG.SUBJ yesterday bad be.PST
+\glt (a) ‘Was father sick yesterday?’
+
+\label{ex:syntax:2}
+\gsrc U namap.
+\gll u na-ama-p
+\gls 2SG DETR-eat-PFV
+\glt (a) ‘Have you eaten?’
+
+\label{ex:syntax:3}
+\gsrc Inom mï amun ya ute.
+\gll inom mï amun ya uta-e
+\gls mother 3SG.SUBJ now coconut grind-IPFV
+\glt (a) ‘Is mother grinding coconut now?’
+
+\label{ex:syntax:4}
+\gsrc Alum mï ikali ya ndïsina.
+\gll alum mï i-kali ya ndï=si-na
+\gls child 3SG.SUBJ hand-send coconut 3PL=push-IRR
+\glt (a) ‘Can the child catch the coconuts?’
+
+\label{ex:syntax:5}
+\gsrc Alo un apa map \textbf{a}?
+\gll ala=o un apa ma=p \textbf{a}
+\gls PL.DIST{=voc} 2PL house 3SG.OBJ=be INTERJ
+\glt ‘Hey, you all -- are you home?’
+
+\label{ex:syntax:6}
+\gsrc Ngun andin ngun mundu ngunas \textbf{a}?
+\gll ngun andin ngun mundu ngun=asa \textbf{a}
+\gls 2DU DU.DIST 2DU hunger 2DU=hit INTERJ
+\glt `You two, you two over there -- you’re hungry, yeah?’
+
+\label{ex:syntax:7}
+\gsrc U ango anmbï mbi \textbf{e}?
+\gll u ango an-mbï mbï-i \textbf{e}
+\gls 2SG NEG out-here out-go.PFV INTERJ
+\glt `You didn’t come out, eh?’
+
+\label{ex:syntax:8}
+\gsrc \textbf{Iya} nï awal mbi lïmndï tawatïp ndale.
+\gll \textbf{iya} nï awal mbï-i lïmndï tawatïp ndï=ala-e
+\gls yes 1SG yesterday here-go.PFV eye child 3PL=see-DEP
+\glt `Yes, I came out yesterday and watched the children.’
+
+\label{ex:syntax:10}
+\gsrc A nïnji nungol ala \textbf{angos} landa?
+\gll a nï-nji nungol ala \textbf{angos} la-nda
+\gls ah 1SG-POSS child PL.DIST what eat-IRR
+\glt `Ah, what will my children eat?’
+
+\label{ex:syntax:11}
+\gsrc U \textbf{angos} natan?
+\gll u \textbf{angos} na-ta-n
+\gls 2SG what DETR-say-IPFV
+\glt `What are you saying?’
+
+\label{ex:syntax:12}
+\gsrc \textbf{Kwa} tïki man tïnangana?
+\gll \textbf{kwa} tïki ma=n tïnanga-na
+\gls one again 3SG.OBJ=OBL arise-IRR
+\glt `Who will get it [= the school] up again?’
+
+\label{ex:syntax:13}
+\gsrc \textbf{Ko} mat inde?
+\gll \textbf{ko} ma=tï inda-e
+\gls one 3SG.OBJ=take walk-IPFV
+\glt `Who is carrying it around?’
+
+\label{ex:syntax:14}
+\gsrc U man \textbf{ko} lïp sina?
+\gll u ma=n \textbf{ko} lï-p si-na
+\gls 2SG 3SG.OBJ=OBL one put-PFV push-IRR
+\glt `Whom will you blame?’
+
+\label{ex:syntax:15}
+\gsrc Wambana \textbf{anjika} inim mo man?
+\gll wambana \textbf{anjika} inim ma=u ma-n
+\gls fish how.many water 3SG.OBJ=from go-IPFV
+\glt `How many fish are swimming?’
+
+\label{ex:syntax:16}
+\gsrc U wambana \textbf{anjika} tïn?
+\gll U wambana \textbf{anjika} tï-n
+\gls 2SG fish how.many take-PFV
+\glt `How many fish did you catch?’
+
+\label{ex:syntax:17}
+\gsrc U inim \textbf{ambi} amap?
+\gll u inim \textbf{ambi} ama-p
+\gls 2SG water big eat-PFV
+\glt `How much water did you drink?’
+
+\label{ex:syntax:18}
+\gsrc U inim \textbf{ilum} amap?
+\gll u inim \textbf{ilum} ama-p
+\gls 2SG water little eat-PFV
+\glt `How much water did you drink?’
+
+\label{ex:syntax:19}
+\gsrc Nungol mï inim \textbf{ambi} ame?
+\gll nungol mï inim \textbf{ambi} ama-e
+\gls child 3SG.SUBJ water big eat-IPFV
+\glt `How much water does the child drink?’
+
+\label{ex:syntax:20}
+\gsrc U \textbf{anjikaka} apa maytap?
+\gll u \textbf{anjikaka} apa ma=ita-p
+\gls 2SG how house 3SG.OBJ=build-PFV
+\glt `How did you build the house?’
+
+\label{ex:syntax:21}
+\gsrc Alimban mï \textbf{anjikaka} lamndu masap?
+\gll Alimban mï \textbf{anjikaka} lamndu ma=asa-p
+\gls [name] 3SG.SUBJ how pig 3SG.OBJ=hit-PFV
+\glt `How did Alimban kill the pig?’
+
+\label{ex:syntax:22}
+\gsrc Alimban mï \textbf{tïn mol} lamndu masap.
+\gll Alimban mï \textbf{tïn} \textbf{ma=ul} lamndu ma=asa-p
+\gls [name] 3SG.SUBJ dog 3SG=with pig 3SG.OBJ=hit-PFV
+\glt `Alimban killed the pig with the dog.’
+
+\label{ex:syntax:23}
+\gsrc Alimban mï \textbf{mananï} lamndu masap.
+\gll Alimban mï \textbf{mana=nï} lamndu ma=asa-p
+\gls [name] 3SG.SUBJ spear=OBL pig 3SG.OBJ=hit-PFV
+\glt `Alimban killed the pig with the spear.’
+
+\label{ex:syntax:24}
+\gsrc Itom mï \textbf{anjikalaka} apa maytana?
+\gll itom mï anjika-\textbf{la-ka} apa ma=ita-na
+\gls father 3SG.SUBJ how.many-IRR-let house 3SG.OBJ=build-IRR
+\glt `How will father build the house?’
+
+\label{ex:syntax:25}
+\gsrc Nungol ndï \textbf{anjikalaka} wambana ndutana?
+\gll nungol ndï anjika-\textbf{la-ka} wambana ndï=uta-na
+\gls child 3PL how.many-IRR-let fish 3PL=grind-IRR
+\glt `How will the boys catch the fish?’
+
+\label{ex:syntax:26}
+\gsrc Nga kwa \textbf{anjikalakana} mane?
+\gll nga kwa anjika-\textbf{la-ka-na} ma-n-e
+\gls SG.PROX one how.many-IRR-let-IRR go-IPFV-DEP
+\glt `What is this one going to do?’
+
+\label{ex:syntax:27}
+\gsrc U manï \textbf{anjikalakana}?
+\gll u ma=nï anjika-\textbf{la-ka-na}
+\gls 2SG 3SG.OBJ=OBL how.many-IRR-let-IRR
+\glt `What will you do with it?’
+
+\label{ex:syntax:28}
+\gsrc Itom mï mana manï \textbf{anjikalakana}?
+\gll itom mï mana ma=nï anjika-\textbf{la-ka-na}
+\gls father 3SG.SUBJ spear 3SG.OBJ=OBL how.many-IRR-let-IRR
+\glt `What is father going to do with the spear?’
+
+\label{ex:syntax:29}
+\gsrc U ndït indata ndïn \textbf{anjikalakana}?
+\gll u ndï=tï inda-ta ndï=n anjika-\textbf{la-ka-na}
+\gls 2SG 3PL=take walk-COND 3PL=OBL how.many-IRR-let-IRR
+\glt `What will you do with them if you carry them around?’
+
+\label{ex:syntax:30}
+\gsrc Mï nan mat a u \textbf{anjika}?
+\gll mï na=n ma=ta a u \textbf{anjika}
+\gls 3SG.SUBJ talk=OBL 3SG.OBJ=say ay 2SG how.many
+\glt ‘He said to her: “Ay, what happened to you?”’
+
+\label{ex:syntax:31}
+\gsrc \textbf{Ango} wa makape wombïn?
+\gll \textbf{ango} wa maka=p-e wombïn
+\gls which village thus=COP-DEP work
+\glt `Which village has work like this?’
+
+\label{ex:syntax:32}
+\gsrc U \textbf{ango} tïlwa u mbi?
+\gll u \textbf{ango} tïlwa u mbï-i
+\gls 2SG which road from here-go.PFV
+\glt `Along which road have you come here?’
+
+\label{ex:syntax:33}
+\gsrc Mbïpïta \textbf{ango} ini mawat pïta?
+\gll mbï-p-ta \textbf{ango} ini ma=wat p-ta
+\gls here-be{-cond} which ground 3SG.OBJ=atop be{-cond}
+\glt `If [they] stay, which ground will they live on?’
+
+\label{ex:syntax:34}
+\gsrc Ayndin nï \textbf{angos} na ukïna?
+\gll Ayndin nï \textbf{angos} na u=kï-na
+\gls [name] 1SG what talk 2SG=say-IRR
+\glt `Ayndin, what should I say to you?’
+
+\label{ex:syntax:35}
+\gsrc Una wandam mawap \textbf{angos} wombïn ninda?
+\gll unan wandam ma=wap \textbf{angos} wombïn=n ni-nda
+\gls 1PL.INCL jungle 3SG.OBJ=be.PST what work=OBL act-IRR
+\glt `[When] we are in the jungle, what [sort of] work will [we] do?’
+
+\label{ex:syntax:36}
+\gsrc Kapos mï \textbf{ango} \textbf{tem} lamndu masap?
+\gll Kapos mï \textbf{ango} \textbf{tem} lamndu ma=asa-p
+\gls [name] 3SG.SUBJ which time pig 3SG.OBJ=hit-PFV
+\glt `When did Kapos kill the pig?’
+
+\label{ex:syntax:37}
+\gsrc Kapos mï \textbf{awal} lamndu masap.
+\gll Kapos mï \textbf{awal} lamndu ma=asa-p
+\gls [name] 3SG.SUBJ yesterday pig 3SG.OBJ=hit-PFV
+\glt `Kapos killed the pig yesterday.’
+
+\label{ex:syntax:38}
+\gsrc Itom mï \textbf{ango} \textbf{tem} utam mamap?
+\gll itom mï \textbf{ango} \textbf{tem} utam ma=ama-p
+\gls father 3SG.SUBJ which time yam 3SG.OBJ=eat-PFV
+\glt `When did father eat the yam?’
+
+\label{ex:syntax:39}
+\gsrc \textbf{Ango tem} man ninda?
+\gll \textbf{ango} \textbf{tem} ma=n ni-nda
+\gls which time 3SG.OBJ=OBL act-IRR
+\glt `When will [we] do it?’
+
+\label{ex:syntax:40}
+\gsrc Kapos mï \textbf{ango} \textbf{temnï} lamndu masap?
+\gll Kapos mï \textbf{ango} \textbf{tem=nï} lamndu ma=asa-p
+\gls [name] 3SG.SUBJ which time=OBL pig 3SG.OBJ=hit-PFV
+\glt `When did Kapos kill the pig?’
+
+\label{ex:syntax:41}
+\gsrc \textbf{Ango temnï} natana?
+\gll \textbf{ango} \textbf{tem=nï} na-ta-na
+\gls which time=OBL DETR-say-IRR
+\glt `When will the meeting start?’
+
+\label{ex:syntax:42}
+\gsrc Ankam mï \textbf{ango} i?
+\gll ankam mï \textbf{ango} i
+\gls person 3SG.SUBJ which go.PFV
+\glt `Where did the person go?’
+
+\label{ex:syntax:43}
+\gsrc Ankam mï \textbf{ngaya} i.
+\gll ankam mï \textbf{ngaya} i
+\gls person 3SG.SUBJ far go.PFV
+\glt `The person went far away.’
+
+\label{ex:syntax:44}
+\gsrc Tangin mï \textbf{ango} i?
+\gll Tangin mï \textbf{ango} i
+\gls [name] 3SG.SUBJ which go.PFV
+\glt `Where did Tangin go?’
+
+\label{ex:syntax:45}
+\gsrc Tangin mï \textbf{wa} may.
+\gll Tangin mï \textbf{wa} ma=i
+\gls [name] 3SG.SUBJ village 3SG.OBJ==go.PFV
+\glt `Tangin went to the village.’
+
+\label{ex:syntax:46}
+\gsrc Tangin mï \textbf{ango} may.
+\gll Tangin mï \textbf{ango} ma=i
+\gls [name] 3SG.SUBJ NEG 3SG.OBJ=go.PFV
+\glt (a) ‘Tangin did not go [there].’
+
+\label{ex:syntax:47}
+\gsrc U \textbf{ango} \textbf{u} mbi?
+\gll u \textbf{ango} \textbf{u} mbï-i
+\gls 2SG which from here-go.PFV
+\glt `Where did you come from?’
+
+\label{ex:syntax:48}
+\gsrc Nï \textbf{wandam} \textbf{u} mbi.
+\gll nï \textbf{wandam} \textbf{u} mbï-i
+\gls 1SG jungle from here-go.PFV
+\glt `I came from the jungle.’
+
+\label{ex:syntax:49}
+\gsrc Popo ndï un \textbf{ango luwa} pe.
+\gll popo ndï u=n \textbf{ango} \textbf{luwa} p-e
+\gls papaya 3PL 2SG=OBL which place be{-ipfv}
+\glt `Where are your papayas?’
+
+\label{ex:syntax:50}
+\gsrc Ngun \textbf{ango luwa} wap?
+\gll ngun \textbf{ango} \textbf{luwa} wap
+\gls 2DU which place be.PST
+\glt `Where were you?’
+
+\label{ex:syntax:51}
+\gsrc Unan \textbf{angop}?
+\gll unan ango=\textbf{p}
+\gls 1PL.INCL which=COP
+\glt `Where are we?’
+
+\label{ex:syntax:52}
+\gsrc U \textbf{ango wap}?
+\gll u ango \textbf{wap}
+\gls 2SG which be.PST
+\glt `Where were you?’
+
+\label{ex:syntax:53}
+\gsrc Yanapi mï \textbf{angopïna}?
+\gll Yanapi mï ango=\textbf{p-na}
+\gls [name] 3SG.SUBJ which=COP-IRR
+\glt `Where will Yanapi be?’
+
+\label{ex:syntax:54}
+\gsrc Itom mï \textbf{angope} lamndu masap?
+\gll itom mï ango=\textbf{p-e} lamndu ma=asa-p
+\gls father 3SG.SUBJ which=COP-DEP pig 3SG.OBJ=hit-PFV
+\glt `Where did father kill the pig?’\footnote{Note that the \isi{verbalized} ango ‘which?’
+
+\label{ex:syntax:55}
+\gsrc Itom mï \textbf{angopïta} lamndu mawalinda?
+\gll itom mï ango=\textbf{p-ta} lamndu ma=wali-nda
+\gls father 3SG.SUBJ which=COP-COND pig 3SG.OBJ=hit-IRR
+\glt `Where will father kill the pig?’
+
+\label{ex:syntax:56}
+\gsrc U \textbf{angwena} mbi?
+\gll u \textbf{angwena} mbï-i
+\gls 2SG why here-go.PFV
+\glt `Why did you come here?’
+
+\label{ex:syntax:57}
+\gsrc Itom mï \textbf{angwena} apa maytap?
+\gll itom mï \textbf{angwena} apa ma=ita-p
+\gls father 3SG.SUBJ why house 3SG.OBJ=build-PFV
+\glt `Why did father build the house?’
+
+\label{ex:syntax:58}
+\gsrc Mï ndïn \textbf{angwena} ndït inde?
+\gll mï ndï=n \textbf{angwena} ndï=tï inda-e
+\gls 3SG.SUBJ 3PL=OBL why 3PL=take walk-IPFV
+\glt `Why is he walking around with them?’
+
+\label{ex:syntax:59}
+\gsrc Un \textbf{angwena} mawat pe ne?
+\gll un \textbf{angwena} ma=wat p-e ni-e
+\gls 2PL why 3SG.OBJ=atop be{-dep} act-IPFV
+\glt `Why are you doing [things] during it [= this period of mourning]?’
+
+\label{ex:syntax:60}
+\gsrc \textbf{Ango} luwa \textbf{angos} nji ndïlanda?
+\gll \textbf{ango} luwa \textbf{angos} nji ndï=la-nda
+\gls which place what thing 3PL=eat-IRR
+\glt `Where will [we] find something to eat?’
+
+\label{ex:syntax:61}
+\gsrc U \textbf{ango} luwa \textbf{angos} matïn?
+\gll u \textbf{ango} luwa \textbf{angos} ma=tï-na
+\gls 2SG which place what 3SG.OBJ=take-IRR
+\glt `Where will you get something?’
+
+\label{ex:syntax:62}
+\gsrc Ngan ndandï \textbf{ango} luwa u \textbf{angos} tïna?
+\gll ngan ndï=andï \textbf{ango} luwa u \textbf{angos} tï-na
+\gls 1DU.EXCL 3PL=for which place from what take-IRR
+\glt `From which place can we two get what for them?’
+
+\label{ex:syntax:63}
+\gsrc E ngusuwa ko \textbf{angwena} \textbf{angos} mundu wananda nat?
+\gll e ngusuwa ko \textbf{angwena} \textbf{angos} mundu wana-nda na-ta
+\gls ay poor just why what food cook-IRR DETR-say
+\glt `Ay, why did that poor thing say that he would cook whatever kind of food?’
+
+\label{ex:syntax:64}
+\gsrc Ndï \textbf{ango} luwa wandam luta \textbf{angos} mundu malan?
+\gll ndï \textbf{ango} luwa wandam lo-ta \textbf{angos} mundu ma=la-n[da]
+\gls 3PL which place jungle go-COND what food 3SG.OBJ=eat-IRR
+\glt `Where will they go and what will they eat?’
+
+\label{ex:syntax:65}
+\gsrc Ndï nji ndïwatlunda?
+\gll ndï nji ndï=wat-lo-nda
+\gls 3PL thing 3PL=atop-cut-IRR
+\glt `Will they clear the things?’
+
+\label{ex:syntax:66}
+\gsrc U ko wandam nji ndï \textbf{ango luwa} pe? U ko lïmndï ndala?
+\gll u ko wandam nji ndï \textbf{ango} \textbf{luwa} p-e u ko lïmndï ndï=ala
+\gls 2SG just jungle thing 3PL which place be{-dep} 2SG just eye 3PL=see
+\glt `Where are your jungle properties? Do you see them?’
+
+\label{ex:syntax:67}
+\gsrc \textbf{U} nul \textbf{man}!
+\gll \textbf{u} nï=ul ma-\textbf{n}
+\gls 2SG 1SG=with go-IMP
+\glt `Go with me!’
+
+\label{ex:syntax:68}
+\gsrc \textbf{Ngun} \textbf{naman}!
+\gll \textbf{ngun} na-ma-\textbf{n}
+\gls 2DU DETR-go-IMP
+\glt `Go!’
+
+\label{ex:syntax:69}
+\gsrc \textbf{U} ikali \textbf{ngasin}!
+\gll \textbf{u} i-kali nga=si-\textbf{n}
+\gls 2SG hand-send SG.PROX=push-IMP
+\glt `Hold this!’
+
+\label{ex:syntax:70}
+\gsrc \textbf{U} manji ndï nan \textbf{makïn}!
+\gll \textbf{u} ma-nji ndï na=n ma=kï-\textbf{n}
+\gls 2SG 3SG.OBJ-POSS 3PL talk=OBL 3SG.OBJ=say-IMP
+\glt `Tell her about her [sago palms]!’
+
+\label{ex:syntax:71}
+\gsrc \textbf{Un} maya wa \textbf{nayn}!
+\gll \textbf{un} ma=iya wa na-i-\textbf{n}
+\gls 2PL 3SG.OBJ=toward village DETR-come-IMP
+\glt `Come home to her!’
+
+\label{ex:syntax:72}
+\gsrc Amun \textbf{man}!
+\gll amun ma-\textbf{n}
+\gls now go-IMP
+\glt `Go now!’
+
+\label{ex:syntax:73}
+\gsrc Unji mat \textbf{indan}!
+\gll u-nji ma=tï inda-\textbf{n}
+\gls 2SG-POSS 3SG.OBJ=take walk-IMP
+\glt `Carry your [child] around!’
+
+\label{ex:syntax:74}
+\gsrc Unji al kwa ndawa ka \textbf{lowon}!
+\gll u-nji al kwa anda-awa ka lo-wo-\textbf{n}
+\gls 2SG-POSS net one SG.DIST-INT in IRR-sleep-IMP
+\glt `Sleep in that other mosquito net of yours!’
+
+\label{ex:syntax:75}
+\gsrc Mï \textbf{lan}!
+\gll mï la-\textbf{n}
+\gls 3SG.SUBJ eat-IMP
+\glt `Let him eat!’
+
+\label{ex:syntax:76}
+\gsrc Ndï \textbf{wutïnin}!
+\gll ndï wutï-ni-\textbf{n}
+\gls 3PL leg-beat-IMP
+\glt `Let them dance!’
+
+\label{ex:syntax:77}
+\gsrc Kalingana kalilïta mï \textbf{man}!
+\gll Kalingana kali-lï-ta mï ma-\textbf{n}
+\gls [name] send-put{-cond} 3SG.SUBJ go-IMP
+\glt `Send Kalingana and he’ll go!’
+
+\label{ex:syntax:78}
+\gsrc Ngunan \textbf{lan}!
+\gll ngunan la-\textbf{n}
+\gls 1DU.INCL eat-IMP
+\glt `Let’s eat!’
+
+\label{ex:syntax:79}
+\gsrc Unan \textbf{ndïlan}!
+\gll unan ndï=la-\textbf{n}
+\gls 1PL.INCL 3PL=eat-IMP
+\glt `Let’s eat them!’
+
+\label{ex:syntax:80}
+\gsrc Una \textbf{man}!
+\gll unan ma-\textbf{n}
+\gls 1PL.INCL go-IMP
+\glt `Let’s go!’
+
+\label{ex:syntax:81}
+\gsrc Nï \textbf{lan}!
+\gll nï la\textbf{-n}
+\gls 1SG eat-IMP
+\glt `Let me eat!’
+
+\label{ex:syntax:82}
+\gsrc An \textbf{lan}!
+\gll an la-\textbf{n}
+\gls 1PL.EXCL eat-IMP
+\glt `Let’s eat!’
+
+\label{ex:syntax:83}
+\gsrc Nï \textbf{landa}.
+\gll nï la-\textbf{nda}
+\gls 1SG eat-IRR
+\glt `I should eat.’
+
+\label{ex:syntax:84}
+\gsrc An \textbf{landa}.
+\gll an la-\textbf{nda}
+\gls 1PL.EXCL eat-IRR
+\glt `We should eat.’
+
+\label{ex:syntax:85}
+\gsrc Nï ma ndïn \textbf{lun}.
+\gll nï ma ndï=n lo-\textbf{n[da]}
+\gls 1SG go 3PL=OBL cut-IRR
+\glt `I will go and plant them.’
+
+\label{ex:syntax:86}
+\gsrc U \textbf{landa}!
+\gll u la-\textbf{nda}
+\gls 2SG eat-IRR
+\glt (a) ‘Eat!’
+
+\label{ex:syntax:87}
+\gsrc Asa u mat \textbf{nïnanda}!
+\gll asa u ma=tï nï=na-\textbf{nda}
+\gls no 2SG 3SG.OBJ=take 1SG=give-IRR
+\glt (a) ‘No, give it to me!’
+
+\label{ex:syntax:88}
+\gsrc Kïkal misimisi \textbf{ngawananda}!
+\gll kïkal misimisi nga=wana-\textbf{nda}
+\gls ear story SG.PROX=feel-IRR
+\glt (a) ‘Listen to this story!’
+
+\label{ex:syntax:89}
+\gsrc Mï \textbf{landa}!
+\gll mï la-\textbf{nda}
+\gls 3SG.SUBJ eat-IRR
+\glt (a) ‘Let him eat!’
+
+\label{ex:syntax:90}
+\gsrc Ngunan \textbf{mana}!
+\gll ngunan ma-\textbf{na}
+\gls 1DU.INCL go-IRR
+\glt (a) ‘We shall go.’
+
+\label{ex:syntax:91}
+\gsrc Una \textbf{mana}!
+\gll unan ma-\textbf{na}
+\gls 1PL.INCL go-IRR
+\glt (a) ‘We must go.’
+
+\label{ex:syntax:92}
+\gsrc I apa i \textbf{kop} lamap we un \textbf{man}!
+\gll i apa i \textbf{kop} la-ama-p we un ma-\textbf{n}
+\gls go.PFV house go.PFV please IRR-eat-PFV then 2PL go-IMP
+\glt `Come, come to the house, eat, and then go!’
+
+\label{ex:syntax:93}
+\gsrc \textbf{Kop} \textbf{malakan}!
+\gll \textbf{kop} ma=la-ka-\textbf{n}
+\gls please 3PL=IRR-let-IMP
+\glt `Just leave him!’
+
+\label{ex:syntax:94}
+\gsrc Nï umbe Supam ul \textbf{mata} mï maya ata mana.
+\gll nï umbe Supam ul ma-\textbf{ta} mï ma=iya ata ma-na
+\gls 1SG tomorrow [name] with go-COND 3SG.SUBJ 3SG.OBJ=toward up go-IRR
+\glt `I’ll go with Supam tomorrow and she’ll climb it [= a tree].’
+
+\label{ex:syntax:95}
+\gsrc \textbf{Nïlakata} nï mawl malanda!
+\gll nï=la-ka-\textbf{ta} nï ma=ul ma=la-nda
+\gls 1SG=IRR-let-COND 1SG 3SG.OBJ=with 3SG.OBJ=eat-IRR
+\glt `Let me eat with him!’
+
+\label{ex:syntax:96}
+\gsrc Yena ngalat \textbf{ndïnata} ndï ndul lowope lunda!
+\gll yena ngala=tï ndï=na-\textbf{ta} ndï ndï=ul lo-wo-p-e lo-nda
+\gls woman PL.PROX=take 3PL=give-COND 3PL 3PL=with IRR-sleep-PFV-DEP go-IRR
+\glt `Give them these women, and they, having slept with them, will go!’
+
+\label{ex:syntax:97}
+\gsrc Kwa nïnji mol niya wa \textbf{ita} nï ko lïmndï mandïn.
+\gll kwa nï-nji ma=ul nï=iya wa i-\textbf{ta} nï ko lïmndï ma=andï-na
+\gls just 1SG-POSS 3SG.OBJ=with 1SG=toward village go.PFV-COND 1SG just eye 3SG.OBJ=see-IRR
+\glt `If [you] come home to me with my [cousin], I will see her.’
+
+\label{ex:syntax:98}
+\gsrc Unan na kali wa alan \textbf{lïta}!
+\gll unan na kali wa ala=n lï-\textbf{ta}
+\gls 1PL.INCL talk send village PL.DIST=OBL put{-cond}
+\glt `Let’s send a message to those villages!’
+
+\label{ex:syntax:99}
+\gsrc \textbf{Kop} ma wa na \textbf{ndïtata} mata!
+\gll \textbf{kop} ma wa na ndï=ta-\textbf{ta} ma-ta
+\gls please go just talk 3PL=say-COND go-COND
+\glt `Please, just go and tell stories!’
+
+\label{ex:syntax:100}
+\gsrc \textbf{Ko} \textbf{ngapta} apa itap nji ngalembam pïn!
+\gll \textbf{kop} nga=p-\textbf{ta} apa ita-p nji ngala=imbam p-n
+\gls please SG.PROX=be{-cond} house build-PFV thing PL.PROX=under be-IMP
+\glt `Please build a house here under these things!’
+
+\label{ex:syntax:101}
+\gsrc \textbf{Ko} \textbf{amblakalampïta} lun!
+\gll \textbf{kop} ambla=kalam=p-\textbf{ta} lo-n
+\gls please PL.REFL=knowledge=COP-COND go-IMP
+\glt `Please look after yourselves and go!’
+
+\label{ex:syntax:102}
+\gsrc \textbf{Wana} nunu nji tï ip lïp mana!
+\gll \textbf{wana} nunu nji tï ip lï-p ma-na
+\gls PROH every thing take nose put-PFV go-IRR
+\glt `Don’t go destroying everything!’
+
+\label{ex:syntax:103}
+\gsrc Angani i \textbf{wanap} makape na!
+\gll angani i \textbf{wanap} maka=p-e na
+\gls behind go.PFV PROH thus=COP-DEP talk
+\glt `Later, when [you] have come, do not [make] talk like this!’
+
+\label{ex:syntax:104}
+\gsrc (U) \textbf{wana} nuwalinda!
+\gll (u) \textbf{wana} nï=wali-nda
+\gls (2SG) PROH 1SG=hit-IRR
+\glt `Don’t hit me!’
+
+\label{ex:syntax:105}
+\gsrc (Un) \textbf{wana} nïnji utam malanda!
+\gll (un) \textbf{wana} nï-nji utam ma=la-nda
+\gls (2PL) PROH 1SG-POSS yam 3SG.OBJ=eat-IRR
+\glt `Don’t eat my yam!’
+
+\label{ex:syntax:106}
+\gsrc Mï \textbf{wana} landa!
+\gll mï \textbf{wana} la-nda
+\gls 3SG.SUBJ PROH eat-IRR
+\glt `Don’t let him eat!’
+
+\label{ex:syntax:107}
+\gsrc Unan \textbf{wana} mana!
+\gll unan \textbf{wana} ma-na
+\gls 1PL.INCL PROH go-IRR
+\glt `Let’s not go!’
+
+\label{ex:syntax:108}
+\gsrc An \textbf{wana} nakïna!
+\gll an \textbf{wana} na-kï-na
+\gls 1PL.EXCL PROH DETR-say-IRR
+\glt `We shouldn’t talk.’
+
+\label{ex:syntax:109}
+\gsrc Nï \textbf{wana} mana!
+\gll nï \textbf{wana} ma-na
+\gls 1SG PROH go-IRR
+\glt `I shouldn’t go.’
+
+\label{ex:syntax:110}
+\gsrc Tarambi \textbf{wana} apka nïklop ma ngaya \textbf{manat}!
+\gll Tarambi \textbf{wana} apka nï=klop ma ngaya ma-na-\textbf{t}
+\gls [name] PROH very 1SG=cross go far go-IRR-SPEC
+\glt `Tarambi, don’t go completely bypass me and go far away!’
+
+\label{ex:syntax:111}
+\gsrc \textbf{Wana} \textbf{ndïwalindat}!
+\gll \textbf{wana} ndï=wali-nda-\textbf{t}
+\gls PROH 3PL=hit-IRR-SPEC
+\glt `Don’t shoot them!’
+
+\label{ex:syntax:112}
+\gsrc \textbf{Wanap} \textbf{mbïpïnate}!
+\gll \textbf{wanap} mbï-p-na-\textbf{t}-e
+\gls PROH here-be-IRR-SPEC-DEP
+\glt `Don’t stay here!’
+
+\label{ex:syntax:113}
+\gsrc \textbf{Wana} ata ma Kambaramba \textbf{manat}!
+\gll \textbf{wana} ata ma Kambaramba ma-na-\textbf{t}
+\gls PROH up go [place] go-IRR-SPEC
+\glt `Don’t go up to Kambaramba [village]!’
+
+\label{ex:syntax:114}
+\gsrc Inim \textbf{wana} \textbf{malakanat} ko man ambi ndalan!
+\gll inim \textbf{wana} ma=la-ka-na-\textbf{t} ko ma=n ambi anda=la-n
+\gls water PROH 3SG.OBJ=IRR-let-IRR-SPEC just 3SG.OBJ=OBL big SG.DIST=eat-IMP
+\glt `Water -- don’t avoid it; drink a lot of it!’
+
+\label{ex:syntax:115}
+\gsrc \textbf{Wana} imba pïta niya \textbf{mbundanat}!
+\gll \textbf{wana} imba p-ta nï=iya mbï-unda-na-\textbf{t}
+\gls PROH night be{-cond} 1SG=toward here-go-IRR-SPEC
+\glt `Don’t come around here to me at night!’
+
+\label{ex:syntax:116}
+\gsrc \textbf{Wana} \textbf{mapta}!
+\gll \textbf{wana} ma=p-\textbf{ta}
+\gls PROH 3SG.OBJ=be{-cond}
+\glt `Don’t live there!’
+
+\label{ex:syntax:117}
+\gsrc \textbf{Wana} \textbf{mbundata} inim lata \textbf{makapta}!
+\gll \textbf{wana} mbï-unda\textbf{-ta} inim la-ta maka=p-\textbf{ta}
+\gls PROH here-go-COND water eat{-cond} thus=COP-COND
+\glt `Don’t come around here and drink beer like that!’
+
+\label{ex:syntax:118}
+\gsrc Kolpe mï amun \textbf{ango} apa mayte.
+\gll Kolpe mï amun \textbf{ango} apa ma=ita-e
+\gls [name] 3SG.SUBJ now NEG house 3SG.OBJ=build-IPFV
+\glt `Kolpe is not building the house now.’
+
+\label{ex:syntax:119}
+\gsrc Kolpe mï \textbf{ango} amun apa mayte.
+\gll Kolpe mï \textbf{ango} amun apa ma=ita-e
+\gls [name] 3SG.SUBJ NEG now house 3SG.OBJ=build-IPFV
+\glt `Kolpe is not building the house now.’
+
+\label{ex:syntax:120}
+\gsrc Kwa \textbf{ango} nip.
+\gll kwa \textbf{ango} ni-p
+\gls one NEG die-PFV
+\glt `No one died.’
+
+\label{ex:syntax:121}
+\gsrc Nï \textbf{ango} lïmndï kwa ala.
+\gll nï \textbf{ango} lïmndï kwa ala
+\gls 1SG NEG eye one see
+\glt (a) ‘I didn’t see anyone.’
+
+\label{ex:syntax:122}
+\gsrc Nji (Ø / mï / ndï) \textbf{ango} liyu.
+\gll nji (Ø / mï / ndï) \textbf{ango} li-u
+\gls thing (Ø / 3SG.SUBJ / 3PL) NEG down-put
+\glt `Nothing fell.’
+
+\label{ex:syntax:123}
+\gsrc Nï \textbf{ango} lïmndï nji ala.
+\gll nï \textbf{ango} lïmndï nji ala
+\gls 1SG NEG eye thing see
+\glt (a) ‘I didn’t see anything.’
+
+\label{ex:syntax:124}
+\gsrc Nï \textbf{ango} lïmndï minul kwa ala.
+\gll nï \textbf{ango} lïmndï min=ul kwa ala
+\gls 1SG NEG eye 3DU=with one see
+\glt `I didn’t see either [of them].’
+
+\label{ex:syntax:125}
+\gsrc Nï \textbf{ango} lïmndï nungol minul kwa ala.
+\gll nï \textbf{ango} lïmndï nungol min=ul kwa ala
+\gls 1SG NEG eye child 3DU=with one see
+\glt `I didn’t see either child.’
+
+\label{ex:syntax:126}
+\gsrc Nï \textbf{ango} lïmndï minala.
+\gll nï \textbf{ango} lïmndï min=ala
+\gls 1SG NEG eye 3DU=see
+\glt `I saw neither [of them].’
+
+\label{ex:syntax:127}
+\gsrc Nï \textbf{ango} lïmndï ankam minala.
+\gll nï \textbf{ango} lïmndï ankam min=ala
+\gls 1SG NEG eye person 3DU=see
+\glt `I saw neither person.’
+
+\label{ex:syntax:128}
+\gsrc Nï \textbf{ango} lïmndï mïnda ndul kwa ala.
+\gll nï \textbf{ango} lïmndï mïnda ndï=ul kwa ala
+\gls 1SG NEG eye banana 3PL=with one see
+\glt `I saw none of the bananas.’
+
+\label{ex:syntax:129}
+\gsrc Anul kwa \textbf{ango} wandam i.
+\gll an=ul kwa \textbf{ango} wandam i
+\gls 1PL.EXCL=with one NEG jungle go.PFV
+\glt `None of us went to the jungle.’
+
+\label{ex:syntax:131}
+\gsrc Ndïnji kwa \textbf{ango} nipe.
+\gll ndï-nji kwa \textbf{ango} ni-p-e
+\gls 3PL-POSS one NEG die-PFV-DEP
+\glt `Not one of them died.’
+
+\label{ex:syntax:132}
+\gsrc Ndïnji kwa \textbf{ango} tïnanga wolka tïklika i.
+\gll ndï-nji kwa \textbf{ango} tïnanga wolka tïkli-ka i
+\gls 3PL-POSS one NEG arise again turn-let go.PFV
+\glt `Not one of their [men] got up and came back again.’
+
+\label{ex:syntax:133}
+\gsrc Mawna mï keka \textbf{ango} mïnkïn amap.
+\gll Mawna mï keka \textbf{ango} mïnkïn ama-p
+\gls [name] 3SG.SUBJ completely NEG grub.species eat-PFV
+\glt `Mawna has never eaten sago grubs.’
+
+\label{ex:syntax:134}
+\gsrc Nï keka \textbf{ango} ya ame.
+\gll nï keka \textbf{ango} ya ama-e
+\gls 1SG completely NEG coconut eat-IPFV
+\glt `I never eat coconut.’
+
+\label{ex:syntax:136}
+\gsrc Kolpe mï \textbf{ango} yana.
+\gll Kolpe mï \textbf{ango} yana
+\gls [name] 3SG.SUBJ NEG woman
+\glt `Kolpe is not a woman.’
+
+\label{ex:syntax:137}
+\gsrc Nambi \textbf{ango} wandam ambi.
+\gll nï-ambi \textbf{ango} wandam ambi
+\gls 1SG-TOP NEG jungle big
+\glt `As for me, I don’t have a big garden.’
+
+\label{ex:syntax:138}
+\gsrc \textbf{Ango} anmap.
+\gll \textbf{ango} anma=p
+\gls NEG good=COP
+\glt `[It] is not good.’
+
+\label{ex:syntax:139}
+\gsrc U \textbf{Ango} ulum ulwape.
+\gll u \textbf{ango} ulum ulwa=p-e
+\gls 2SG NEG palm nothing=COP-DEP
+\glt `You had no lack of sago palms.’\footnote{This sentence offers a nice example of \isi{litotes}.} [ulwa014_50:02]’
+
+\label{ex:syntax:140}
+\gsrc Nï \textbf{ango} unji itom \textbf{me}.
+\gll nï \textbf{ango} un-nji itom \textbf{me}
+\gls 1SG NEG 2PL-POSS father NEG
+\glt ‘I am not your father.’
+
+\label{ex:syntax:141}
+\gsrc Way \textbf{ango} ambi \textbf{me}.
+\gll way \textbf{ango} ambi \textbf{me}
+\gls turtle NEG big NEG
+\glt `The turtle wasn’t big.’
+
+\label{ex:syntax:142}
+\gsrc \textbf{Ango} Taw \textbf{me}.
+\gll \textbf{ango} Taw \textbf{me}
+\gls NEG [place] NEG
+\glt `[It] is not Taw.’
+
+\label{ex:syntax:143}
+\gsrc Ipka \textbf{ango} wambana ambi \textbf{me}.
+\gll ipka \textbf{ango} wambana ambi \textbf{me}
+\gls before NEG fish big NEG
+\glt `Before, there weren’t any big fish.’
+
+\label{ex:syntax:144}
+\gsrc \textbf{Ango} nu luwa \textbf{me}.
+\gll \textbf{ango} nu luwa \textbf{me}
+\gls NEG close place NEG
+\glt `[It] was not a close place.’
+
+\label{ex:syntax:145}
+\gsrc Unanambi \textbf{ango} unanji amba \textbf{me}.
+\gll unan-ambi \textbf{ango} unan-nji amba \textbf{me}
+\gls 1PL.INCL-TOP NEG 1PL.INCL-POSS mens.house NEG
+\glt `As for us, we don’t have any magic.’
+
+\label{ex:syntax:146}
+\gsrc \textbf{Ango} unji \textbf{me}.
+\gll \textbf{ango} u-nji \textbf{me}
+\gls NEG 2SG-POSS NEG
+\glt `[They] are not yours.’
+
+\label{ex:syntax:147}
+\gsrc Mï \textbf{ango} nan nïkapen \textbf{me}.
+\gll mï \textbf{ango} na=n nï=kï-p-en \textbf{me}
+\gls 3SG.SUBJ NEG talk=OBL 1SG=say-PFV-NMLZ NEG
+\glt `She didn’t reply to me.’
+
+\label{ex:syntax:148}
+\gsrc Nambi \textbf{ango} alanji wandam \textbf{unden} \textbf{me}.
+\gll nï-ambi \textbf{ango} ala-nji wandam unda-\textbf{en} \textbf{me}
+\gls 1SG-TOP NEG PL.DIST-POSS jungle go-NMLZ NEG
+\glt `As for me, I’m not one to go around in other people’s jungles.’
+
+\label{ex:syntax:149}
+\gsrc Nambi \textbf{ango} ndiya \textbf{mawnden}.
+\gll nï-ambi \textbf{ango} ndï=iya ma=unda-\textbf{en}
+\gls 1SG-TOP NEG 3PL=toward 3SG.OBJ=go-NMLZ
+\glt `As for me, I don’t go around to them there.’
+
+\label{ex:syntax:150}
+\gsrc \textbf{Ango} kambe nji \textbf{me}.
+\gll \textbf{ango} [kamb-e] nji \textbf{me}
+\gls NEG [shun-DEP] thing NEG
+\glt `[It] wasn’t something that [they] neglected.’
+
+\label{ex:syntax:151}
+\gsrc \textbf{Ango} wala luwa \textbf{kom}.
+\gll \textbf{ango} wala luwa \textbf{kom}
+\gls NEG far.off place NEG
+\glt `[It] is not a far-off place.’
+
+\label{ex:syntax:152}
+\gsrc Unan \textbf{ango} wa ambi \textbf{kom}.
+\gll unan \textbf{ango} wa ambi \textbf{kom}
+\gls 1PL.INCL NEG village big NEG
+\glt `We are not a big village.’
+
+\label{ex:syntax:153}
+\gsrc \textbf{Ango} wutota \textbf{kom} mundotoma ando.
+\gll \textbf{ango} wutota \textbf{kom} mundotoma anda=o
+\gls NEG long NEG short SG.DIST=VOC
+\glt `[The story] is not long; it’s a short one.’
+
+\label{ex:syntax:154}
+\gsrc \textbf{Ango} unanji amba \textbf{kom}.
+\gll \textbf{ango} unan-nji amba \textbf{kom}
+\gls NEG 1PL.INCL-POSS mens.house NEG
+\glt `[It] is not our magic.’
+
+\label{ex:syntax:155}
+\gsrc Un ini \textbf{me}.
+\gll un ini \textbf{me}
+\gls 2PL ground NEG
+\glt `[It] is not your land.’
+
+\label{ex:syntax:156}
+\gsrc \textbf{Ulwa} \textbf{me}.
+\gll \textbf{ulwa} \textbf{me}
+\gls nothing NEG
+\glt `[It] is nothing.’
+
+\label{ex:syntax:157}
+\gsrc \textbf{Ulwapen} \textbf{me} nï un ka naman.
+\gll \textbf{ulwa}=p-en \textbf{me} nï u=n ka na-ma-n
+\gls nothing=COP{-nmlz} NEG 1SG 2SG=OBL let DETR-go-IPFV
+\glt `There’s nothing here, so I’m leaving you.’
+
+\label{ex:syntax:158}
+\gsrc Mïkï itïm \textbf{kome}.
+\gll mïkï itïm \textbf{kome}
+\gls tree.species trash NEG
+\glt `[It] is not a swamp at all.’
+
+\label{ex:syntax:159}
+\gsrc Ndïnji \textbf{kome} ndï matïna.
+\gll ndï-nji \textbf{kome} ndï ma=tï-na
+\gls 3PL-POSS NEG 3PL 3SG.OBJ=take-IRR
+\glt `But [it] isn’t theirs, so they [won’t] get it.’
+
+\label{ex:syntax:160}
+\gsrc Isin wane mundu \textbf{kom}.
+\gll isi=n wana-e mundu \textbf{kom}
+\gls soup=OBL cook-DEP food NEG
+\glt `[This] is not [the kind of] food that is cooked in soup.’
+
+\label{ex:syntax:161}
+\gsrc Kwe wat u iyen \textbf{kom}.
+\gll kwe wat u i-en \textbf{kom}
+\gls one atop from go.PFV-NMLZ NEG
+\glt `It wasn’t just one who came onto [it].’
+
+\label{ex:syntax:162}
+\gsrc Un \textbf{ko} nïnji ankam \textbf{me}.
+\gll un \textbf{ko} nï-nji ankam \textbf{me}
+\gls 2PL just 1SG-POSS person NEG
+\glt `You are not my people.’
+
+\label{ex:syntax:163}
+\gsrc Ngun \textbf{ko} ini anma \textbf{me}.
+\gll ngun \textbf{ko} ini anma \textbf{me}
+\gls 2DU just ground good NEG
+\glt `You two, [it] is not good land.’
+
+\label{ex:syntax:164}
+\gsrc Nguna \textbf{ko} ndul amba kwe in wap \textbf{ko} ndïkalampen \textbf{me}.
+\gll ngunan \textbf{ko} ndï=ul amba kwe in wap \textbf{ko} ndï=kalam=p-en \textbf{me}
+\gls 1DU.INCL just 3PL=with mens.house one in be.PST just 3PL=knowledge=COP{-nmlz} NEG
+\glt `We have not lived with them in even one men’s house nor [do we] know about them.’
+
+\label{ex:syntax:165}
+\gsrc E an namndu nïpat \textbf{me}!
+\gll e an namndu nïpat \textbf{me}
+\gls ay 1PL.EXCL pig giant NEG
+\glt `Ay, we [had] really giant pigs!’
+
+\label{ex:syntax:166}
+\gsrc Ambi ngata nda yangle \textbf{me} kenmbu nïpat.
+\gll ambi ngata anda yangle \textbf{me} kenmbu nïpat
+\gls big grand SG.DIST strong NEG heavy giant
+\glt `That big huge [child] was very strong, terribly heavy.’
+
+\label{ex:syntax:167}
+\gsrc \textbf{Wanap} apka nïklop mana!
+\gll \textbf{wanap} apka nï=klop ma-na
+\gls PROH very 1SG=cross go-IRR
+\glt `Don’t go and bypass me completely!’
+
+\label{ex:syntax:168}
+\gsrc An \textbf{ango} apa mbïlop mbïwap.
+\gll an \textbf{ango} apa mbï-lo-p mbï-wap
+\gls 1PL.EXCL NEG house here-go-PFV here-be.PST
+\glt `We came home, but didn’t stay.’
+
+\label{ex:syntax:169}
+\gsrc \textbf{Ango} ulum ale we wandam pen.
+\gll \textbf{ango} ulum ale-e we wandam p-en
+\gls NEG palm scrape-DEP sago jungle be{-nmlz}
+\glt `When [they] scrape sago palms, the sago starch is not [left behind] in the jungle.’
+
+\label{ex:syntax:170}
+\gsrc \textbf{Ango} mat mïnjikan kïna: …
+\gll \textbf{ango} ma=tï mïnjika=n kï-na
+\gls NEG 3SG.OBJ=take speech=OBL say-IRR
+\glt `Having gotten it, [they] wouldn’t say [the following]: …’
+
+\label{ex:syntax:171}
+\gsrc \textbf{Ango} maka apwanam mapta inim landa.
+\gll \textbf{ango} maka apwanam ma=p-ta inim la-nda
+\gls NEG thus side.of.house 3SG.OBJ=be{-cond} water eat-IRR
+\glt `As long as [she] is staying at the side of the house, [a recent mother] may not drink water.’
+
+\label{ex:syntax:172}
+\gsrc \textbf{Ango} mat ita nduwe malanda.
+\gll \textbf{ango} ma=tï i-ta ndï-we ma=la-nda
+\gls NEG 3SG.OBJ=take go.PFV-COND 3PL-PART.INT 3SG.OBJ=eat-IRR
+\glt `If [he] brings it, they will not eat it alone.’
+
+\label{ex:syntax:173}
+\gsrc \textbf{Ango} amunpïta ikali masinate.
+\gll \textbf{ango} amun=p-ta i-kali ma=si-na-t-e
+\gls NEG now=COP{-cond} hand-send 3SG.OBJ=push-IRR-SPEC-DEP
+\glt `If [a baby] is still very young, [then fathers] will not hold it.’
+
+\label{ex:syntax:174}
+\gsrc \textbf{Wana} ambipïta wa lolop ala wandam pïta alanji nji landa!
+\gll \textbf{wana} ambi=p-ta wa lolop ala wandam p-ta ala-nji nji la-nda
+\gls PROH big=COP{-cond} just just PL.DIST jungle be{-cond} PL.DIST-POSS thing eat-IRR
+\glt `When [you] are grown and are just [going around] in other people’s gardens, don’t eat their things!’
+
+\label{ex:syntax:175}
+\gsrc A un \textbf{wana} apa mapta luke natana!
+\gll a un \textbf{wana} apa ma=p-ta luke na-ta-na
+\gls INTERJ 2PL PROH house 3SG.OBJ=be{-cond} too DETR-say-IRR
+\glt `Hey, if you’re in the house, don’t talk either!’
+
+\label{ex:syntax:176}
+\gsrc Ndï man nan nït \textbf{ase}.
+\gll ndï ma=n na=n nï=ta \textbf{ase}
+\gls 3PL 3SG.OBJ=OBL talk=OBL 1SG=say no
+\glt `They told me “no”.’
+
+\label{ex:syntax:177}
+\gsrc \textbf{Ase} unan tïngïnpe.
+\gll \textbf{ase} unan tïngïn=p-e
+\gls no 1PL.INCL many=COP{-dep}
+\glt `No, we are many [now].’
+
+\label{ex:syntax:178}
+\gsrc Nï ango wa mbïpta ul wombïn ninda. \textbf{Ase} nï umbe un ka wandam namana.
+\gll nï ango wa mbï-p-ta u=ul wombïn=n ni-nda \textbf{ase} nï umbe u=n ka wandam na-ma-na
+\gls 1SG NEG village here-be{-cond} 2SG=with work=OBL act-IRR no 1SG tomorrow 2SG=OBL let jungle DETR-go-IRR
+\glt `I won’t stay in the village and work with you. No, tomorrow I’ll leave you and go to the jungle.’
+
+\label{ex:syntax:179}
+\gsrc \textbf{Asa} mï mïnjikan ngunankap: …
+\gll \textbf{asa} mï mïnjika=n ngunan=kï-p
+\gls no 3SG.SUBJ speech=OBL 1DU.INCL=say-PFV
+\glt `No, he said the following to us: …’
+
+\label{ex:syntax:179a}
+\gsrc Nï mat ndï amun up.
+\gll nï ma=ta ndï amun u-p
+\gls 1SG 3SG.OBJ=say 3PL now put-PFV
+\glt `I said: “They’ve only now planted (them).”’
+
+\label{ex:syntax:180}
+\gsrc Awal imba pe una \textbf{natap}.
+\gll awal imba p-e unan \textbf{na-ta}-p
+\gls yesterday night be{-dep} 1PL.INCL DETR-say-PFV
+\glt `Last night we talked.’
+
+\label{ex:syntax:181}
+\gsrc Inom mï \textbf{nakap}.
+\gll inom mï \textbf{na-kï-p}
+\gls mother 3SG.SUBJ DETR-say-PFV
+\glt `Mother spoke.’
+
+\label{ex:syntax:183}
+\gsrc Min na kuma \textbf{tap}.
+\gll min na kuma \textbf{ta}-p
+\gls 3DU talk some say-PFV
+\glt `The two planned something.’
+
+\label{ex:syntax:184}
+\gsrc Nï ango na tïngïn \textbf{tana}.
+\gll nï ango na tïngïn \textbf{ta}-na
+\gls 1SG NEG talk many say-IRR
+\glt `I won’t tell many stories.’
+
+\label{ex:syntax:185}
+\gsrc Nï mol na \textbf{ndïtane}.
+\gll nï ma=ul na ndï=\textbf{ta}-n-e
+\gls 1SG 3SG.OBJ=with talk 3PL=say-IPFV-DEP
+\glt `I was telling the stories with him.’
+
+\label{ex:syntax:186}
+\gsrc Ndï ndïnap atwana \textbf{kïna}.
+\gll ndï ndï=nap atwana \textbf{kï}-na
+\gls 3PL 3PL=for question say-IRR
+\glt `They will ask about them.’
+
+\label{ex:syntax:187}
+\gsrc Nï \textbf{mat} a!
+\gll nï \textbf{ma=ta} a
+\gls 1SG 3SG.OBJ=say ah
+\glt `I said, “ah!”’
+
+\label{ex:syntax:188}
+\gsrc Mï \textbf{mate} ankam alanji ala!
+\gll mï \textbf{ma=ta}-e ankam ala-nji ala
+\gls 3SG.SUBJ 3SG.OBJ=say-DEP person PL.DIST-POSS PL.DIST
+\glt `He said it [that he would kill their pigs], but those are other people’s [pigs]!’
+
+\label{ex:syntax:189}
+\gsrc Mï ambïwana \textbf{mat} a nï ta tata tïn mol li ina mane.
+\gll mï ambï=wana \textbf{ma=ta} a nï ta tata tï-n ma=ul li i-na ma-n-e
+\gls 3SG.SUBJ SG.REFL=feel 3SG.OBJ=say ah 1SG already papa take-PFV 3SG.OBJ=with down come-IRR go-IPFV-DEP
+\glt `It thought to itself and said: “Ah! I’m already able to get papa and come down with him.”’
+
+\label{ex:syntax:190}
+\gsrc \textbf{Makape} mï i.
+\gll \textbf{ma=kï-p}-e mï i
+\gls 3SG.OBJ=say-PFV-DEP 3SG.SUBJ go.PFV
+\glt `Having spoken, he went.’
+
+\label{ex:syntax:191}
+\gsrc Nï lïmndï minlïpe \textbf{mat}: …
+\gll nï lïmndï min=lï-p-e \textbf{ma=ta}
+\gls 1SG eye 3DU=put-PFV-DEP 3SG.OBJ=say
+\glt `I saw the two of them and said: …’
+
+\label{ex:syntax:192}
+\gsrc Nï \textbf{nan mat} nï ango makïke lunda.
+\gll nï \textbf{na=n} ma=\textbf{ta} nï ango ma=kïke lo-nda
+\gls 1SG talk=OBL 3SG.OBJ=say 1SG NEG 3SG.OBJ=throw go-IRR
+\glt `I told her: “I won’t sell it.”’
+
+\label{ex:syntax:193}
+\gsrc Nï \textbf{nan ndït} nga unji.
+\gll nï \textbf{na=n} ndï=\textbf{ta} nga un-nji
+\gls 1SG talk=OBL 3PL=say SG.PROX 2PL-POSS
+\glt `I said to them: “This is yours.”’
+
+\label{ex:syntax:194}
+\gsrc Nïnji yanat mï \textbf{nan} \textbf{ndïkap}: …
+\gll nï-nji yanat mï \textbf{na=n} ndï=\textbf{kï-p}
+\gls 1SG-POSS daughter 3SG.SUBJ talk=OBL 3PL=say-PFV
+\glt `My daughter told them: …’
+
+\label{ex:syntax:195}
+\gsrc Nï ine Tarambi \textbf{nan nït}: …
+\gll nï i-n-e Tarambi \textbf{na=n} nï=\textbf{ta}
+\gls 1SG come-PFV-DEP [name] talk=OBL 1SG=say
+\glt `When I came, Tarambi told me: …’
+
+\label{ex:syntax:196}
+\gsrc An \textbf{nan amblakap}: …
+\gll an \textbf{na=n} ambla=\textbf{kï-p}
+\gls 1PL.EXCL talk=OBL PL.REFL=say-PFV
+\glt `We said to each other: …’
+
+\label{ex:syntax:197}
+\gsrc Nï angos \textbf{nan ukïn}?
+\gll nï angos \textbf{na=n} u=\textbf{kï}-na
+\gls 1SG what talk=OBL 2SG=say-IRR
+\glt `What should I tell you?’
+
+\label{ex:syntax:198}
+\gsrc \textbf{Nan} nungolke \textbf{ngalakapta} ndï kalampïn!
+\gll \textbf{na=n} nungolke ngala=\textbf{kï-p}-ta ndï kalam=p-na
+\gls talk=OBL child PL.PROX=say-PFV-COND 3PL knowledge=COP-IRR
+\glt `Tell these children so that they’ll know!’
+
+\label{ex:syntax:199}
+\gsrc Mï \textbf{nan minte} ngun naman!
+\gll mï \textbf{na=n} min=\textbf{ta}-e ngun na-ma-n
+\gls 3SG.SUBJ talk=OBL 3DU=say-DEP 2DU DETR-go-IMP
+\glt `He told the two of them: “Go!”’
+
+\label{ex:syntax:200}
+\gsrc Ndï \textbf{na ilumnï} ukïnat.
+\gll ndï \textbf{na} \textbf{ilum=nï} u=kï-na-t
+\gls 3PL talk little=OBL 2SG=say-IRR-SPEC
+\glt `They might tell you a little story.’
+
+\label{ex:syntax:201}
+\gsrc Nï \textbf{na} \textbf{makïna} ase.
+\gll nï \textbf{na} ma=\textbf{kï}-na ase
+\gls 1SG talk 3SG.OBJ=say-IRR no
+\glt `I will tell him “no”.’
+
+\label{ex:syntax:202}
+\gsrc \textbf{Na} Joanna \textbf{kap} inom ngol man!
+\gll na Joanna \textbf{kï-p} inom nga=ul ma-n
+\gls talk [name] say-PFV mother SG.PROX=with go-IMP
+\glt `[I] told Joanna: “Go with this woman!”’
+
+\label{ex:syntax:203}
+\gsrc Yanat mï \textbf{na} \textbf{makap}: …
+\gll yanat mï \textbf{na} ma=\textbf{kï-p}
+\gls daughter 3SG.SUBJ talk 3SG.OBJ=say-PFV
+\glt `[My] daughter told her: …’
+
+\label{ex:syntax:204}
+\gsrc Nï \textbf{na} \textbf{mate} mï li.
+\gll nï \textbf{na} ma=\textbf{ta}-e mï li i
+\gls 1SG talk 3SG.OBJ=say-DEP 3SG.SUBJ down go.PFV
+\glt `I told her and she went down.’
+
+\label{ex:syntax:205}
+\gsrc Awal \textbf{na} yenanu ambi \textbf{ndate}.
+\gll awal \textbf{na} yenanu ambi anda=\textbf{ta}-e
+\gls yesterday talk woman big SG.DIST=say-DEP
+\glt `I told that big woman yesterday.’
+
+\label{ex:syntax:206}
+\gsrc Nï ango angos \textbf{na} \textbf{ukïnate}.
+\gll nï ango angos \textbf{na} u=\textbf{kï}-na-t-e
+\gls 1SG NEG what talk 2SG=say-IRR-SPEC-DEP
+\glt `I don’t have anything to tell you.’
+
+\label{ex:syntax:207}
+\gsrc Nï \textbf{man} \textbf{ngunte}: …
+\gll nï \textbf{ma=n} ngun=\textbf{ta}-e
+\gls 1SG 3SG.OBJ=OBL 2DU=say-DEP
+\glt `I told you two: …’
+
+\label{ex:syntax:208}
+\gsrc Nï \textbf{man mate}.
+\gll nï \textbf{ma=n} ma=\textbf{ta}-e
+\gls 1SG 3SG.OBJ=OBL 3SG.OBJ=say-DEP
+\glt `I told him.’
+
+\label{ex:syntax:209}
+\gsrc Tïponïm ini mï tembipe nï \textbf{man} Danny \textbf{mat}.
+\gll Tïponïm ini mï tembi=p-e nï \textbf{ma=n} Danny ma=\textbf{ta}
+\gls [place] ground 3SG.SUBJ bad=COP{-dep} 1SG 3SG.OBJ=OBL [name] 3SG.OBJ=say
+\glt `“The Tïponïm ground is bad,” I told Danny.’
+
+\label{ex:syntax:210}
+\gsrc Mï \textbf{man mat}: …
+\gll mï \textbf{ma=n} \textbf{ma=ta}
+\gls 3SG.SUBJ 3SG.OBJ=OBL 3SG.OBJ=say
+\glt `He told her: …’
+
+\label{ex:syntax:211}
+\gsrc Nï \textbf{man unate}: …
+\gll nï \textbf{ma=n} u=na-\textbf{ta}-e
+\gls 1SG 3SG.OBJ=OBL 2SG=talk-say-DEP
+\glt `I’m telling you: …’
+
+\label{ex:syntax:212}
+\gsrc \textbf{Manji na} latane.
+\gll \textbf{ma-nji} \textbf{na} ala=ta-n-e
+\gls 3SG.OBJ-POSS talk PL.DIST=say-IPFV-DEP
+\glt `[We] were talking about her.’
+
+\label{ex:syntax:213}
+\gsrc Nï \textbf{ini man na} tane Wore un ango wap?
+\gll nï \textbf{ini} \textbf{ma=n} \textbf{na} ta-n-e Wore un ango wap
+\gls 1SG ground 3SG.OBJ=OBL talk say-IPFV-DEP [place] 2PL which be.PST
+\glt `When I was talking about the land, where were you, [people from] Wore?’
+
+\label{ex:syntax:214}
+\gsrc Nï amun maka \textbf{lamndu wonmbi ma na} tana manen.
+\gll nï amun maka \textbf{lamndu} \textbf{wonmbi} \textbf{ma} \textbf{na} ta-na ma-n-en
+\gls 1SG now thus pig tusk 3SG.OBJ talk say-IRR go-IPFV-NMLZ
+\glt `Now I’m thus going to tell the story of the boar tusk.’
+
+\label{ex:syntax:215}
+\gsrc Sande ndan \textbf{apa nda na} te.
+\gll Sande anda=n \textbf{apa} \textbf{anda} \textbf{na} ta-e
+\gls Sunday SG.DIST=OBL house SG.DIST talk say-DEP
+\glt `Last Sunday, [he] was talking about that church.’
+
+\label{ex:syntax:216}
+\gsrc Ndï \textbf{isi nan} antane.
+\gll ndï \textbf{isi} \textbf{na=n} an=ta-n-e
+\gls 3PL salt talk=OBL 1PL.EXCL=say-IPFV-DEP
+\glt `They were asking us about salt.’
+
+\label{ex:syntax:217}
+\gsrc \textbf{Ndunduma nan} nïte nï mat: …
+\gll \textbf{ndunduma} \textbf{na=n} nï=ta-e nï ma=ta
+\gls ancestor talk=OBL 1SG=say-DEP 1SG 3SG.OBJ=say
+\glt `When [they] asked me about [their] ancestors, I said: …’
+
+\label{ex:syntax:218}
+\gsrc Nïnji ulum \textbf{ndï nan} nïkap.
+\gll nï-nji ulum \textbf{ndï} \textbf{na=n} nï=kï-p
+\gls 1SG-POSS palm 3PL talk=OBL 1SG=say-PFV
+\glt `[She] told me about my sago palms.’
+
+\label{ex:syntax:219}
+\gsrc Nï \textbf{nan}: …
+\gll nï \textbf{na=n}
+\gls 1SG talk=OBL
+\glt `I said: …’
+
+\label{ex:syntax:220}
+\gsrc Nï wolka \textbf{man} Carobim u nul man!
+\gll nï wolka \textbf{ma=n} Carobim u nï=ul ma-n
+\gls 1SG again 3SG.OBJ=OBL [name] 2SG 1SG=with go-IMP
+\glt `I in turn [told] Carobim: “Go with me!”’
+
+\label{ex:syntax:221}
+\gsrc Nï \textbf{lïmndï ndala} ungusuwata wombïn ambi nda.
+\gll nï \textbf{lïmndï} \textbf{ndï=ala} un-ngusuwata wombïn ambi anda
+\gls 1SG eye 3PL=see 2PL-poor work big SG.DIST
+\glt `I saw them [and said:] “You poor things – that’s big work.”’
+
+\label{ex:syntax:222}
+\gsrc Itom ndï \textbf{lïmndï anala a} anji nungol ala ambi nape.
+\gll itom ndï \textbf{lïmndï} \textbf{an=ala} \textbf{a} an-nji nungol ala ambi na-p-e
+\gls father 3PL eye 1PL.EXCL=see ah 1PL.EXCL-POSS child PL.DIST big DETR-be{-dep}
+\glt `[Our] fathers saw us [and said:] “Ah! Our sons have gotten big.”’
+
+\label{ex:syntax:223}
+\gsrc Ne may tata!
+\gll na-i ma=i tata
+\gls DETR-go.PFV 3SG.OBJ=go.PFV papa
+\glt `[He] went, went to him [and said:] “Papa!”’
+
+\label{ex:syntax:224}
+\gsrc Nï atwana mat a un ango luwa? An ma we ndatïna le. Ande nol!
+\gll nï atwana ma=ta a un ango luwa an ma we anda=tï-na lo-e ande na-lo
+\gls 1SG question 3SG.OBJ=say ah 2PL which place 1PL.EXCL go sago SG.DIST=take-IRR go-DEP ok DETR-go
+\glt `I asked her: “Ah! Where are you [going]?” [And she said:] “We’re going to get sago starch.” [And I said:] “All right, go!”’
+
+\label{ex:syntax:225}
+\gsrc Nï \textbf{mïnjan} \textbf{ndït} mambinalakan!
+\gll nï \textbf{mïnja=n} ndï=\textbf{ta} ma-ambi=na-la-ka-n
+\gls 1SG speech=OBL 3PL=say 3SG.OBJ-TOP=DETR-IRR-let-IMP
+\glt `I told them: “Leave it alone!”’
+
+\label{ex:syntax:226}
+\gsrc Ndï \textbf{mïnjan ke}: Mï unanï wa mbïpe.
+\gll ndï \textbf{mïnja=n} \textbf{kï}-e mï unan=nï wa mbï-p-e
+\gls 3PL speech=OBL say-DEP 3SG.SUBJ 1PL.INCL=OBL village here-be{-ipfv}
+\glt `They’re saying this: “It’s here in the village with us.”’
+
+\label{ex:syntax:227}
+\gsrc Thomas mï na nïte nï \textbf{mïnjan mat}: …
+\gll Thomas mï na nï=ta-e nï \textbf{mïnja=n} ma=\textbf{ta}
+\gls [name] 3SG.SUBJ talk 1SG=say-DEP 1SG speech=OBL 3SG.OBJ=say
+\glt `When Thomas told me, I said to him: …’
+
+\label{ex:syntax:228}
+\gsrc Nïnji inom mï \textbf{mïnjan} a nï inim lopop anmbï nay.
+\gll nï-nji inom mï \textbf{mïnja=n} a nï inim lopo-p an-mbï na-i
+\gls 1SG-POSS mother 3SG.SUBJ speech=OBL ah 1SG water wash-PFV out-here DETR-go.PFV
+\glt `My mother said: “Ah! I bathed and came out.”’
+
+\label{ex:syntax:229}
+\gsrc Kowe Marungun min \textbf{mïnjan} a una yeta la unan ma maytana!
+\gll Kowe Marungun min \textbf{mïnja=n} a unan yeta ala unan ma ma=ita-na
+\gls [name] [name] 3DU speech=OBL ah 1PL.INCL man PL.DIST 1PL.INCL go 3SG.OBJ=build-IRR
+\glt ‘Kowe and Marungun said: “Ah! We are men; let’s go and build it!”’
+
+\label{ex:syntax:230}
+\gsrc Mï \textbf{mïnja m}!
+\gll mï \textbf{mïnja} \textbf{m}
+\gls 3SG.SUBJ speech hm
+\glt `She said: “Hm!”’
+
+\label{ex:syntax:231}
+\gsrc An lïmndï ndala \textbf{mïnja m} ala ankam kuma lawo.
+\gll an lïmndï ndï=ala \textbf{mïnja} \textbf{m} ala ankam kuma ala-awa=o
+\gls 1PL.EXCL eye 3PL=see speech hm PL.DIST person some PL.DIST-INT=VOC
+\glt `We saw them and said: “Hm! Those really are some different people!”’
+
+\label{ex:syntax:232}
+\gsrc Alma mï Guren mï apa maytape \textbf{natap}.
+\gll Alma mï {[Guren} mï apa {ma=ita-p-e]} na-\textbf{ta}-p
+\gls [name] 3SG.SUBJ [[name] 3SG.SUBJ house 3SG.OBJ=build-PFV-DEP] DETR-say-PFV
+\glt `Alma said that Guren built the house.’
+
+\label{ex:syntax:233}
+\gsrc Mï mol \textbf{malanda} nate.
+\gll mï [ma=ul ma=la-\textbf{nda}] na-ta-e
+\gls 3SG.SUBJ [3SG.OBJ=with 3SG.OBJ=eat-IRR] DETR-say-DEP
+\glt `She said that [she] would eat with him.’
+
+\label{ex:syntax:234}
+\gsrc Ndï i \textbf{mana} nakap.
+\gll ndï i [ma-\textbf{na}] na-kï-p
+\gls 3PL go.PFV [go-IRR] DETR-say-PFV
+\glt `They came and talked about going.’
+
+\label{ex:syntax:235}
+\gsrc Dorothy awal makïke \textbf{lunda} na nïte.
+\gll Dorothy awal [ma=kïke lo-\textbf{nda} na] nï=ta-e
+\gls [name] yesterday [3SG.OBJ=throw go-IRR talk] 1SG=say-DEP
+\glt `Yesterday, Dorothy told me that [she] would sell it.’
+
+\label{ex:syntax:236}
+\gsrc Alma mï Guren mï apa mayte \textbf{nakap}.
+\gll Alma mï {[Guren} mï apa {ma=ita-e]} na-\textbf{kï-p}
+\gls [name] 3SG.SUBJ [[name] 3SG.SUBJ house 3SG.OBJ=build-DEP] DETR-say-PFV
+\glt `Alma thought that Guren was building the house.’
+
+\label{ex:syntax:237}
+\gsrc Nï anmbï ina \textbf{nakap}.
+\gll nï [an-mbï i-na] na-\textbf{kï-p}
+\gls 1SG [out-here come-IRR] DETR-say-PFV
+\glt `I thought about coming out here.’
+
+\label{ex:syntax:238}
+\gsrc Im maya ata mana \textbf{nakap}.
+\gll {[im} ma=iya ata {ma-na]} na-\textbf{kï-p}
+\gls {[tree} 3SG.OBJ=toward up go-IRR] DETR-say-PFV
+\glt `[He] thought about going up a tree.’
+
+\label{ex:syntax:239}
+\gsrc Nï \textbf{wana} ndï ndine lïpe ndï anmape \textbf{nakap}.
+\gll nï \textbf{wana} {[ndï} ndï=in-e lï-p-e ndï {anma=p-e]} na-\textbf{kï-p}
+\gls 1SG feel [3PL 3PL=get-DEP put-PFV-DEP 3PL good=COP{-dep]} DETR-say-PFV
+\glt `I thought that they got them down and that they were good.’
+
+\label{ex:syntax:240}
+\gsrc Inim \textbf{lopota} nï mana.
+\gll inim lopo-\textbf{ta} nï ma-na
+\gls water rain-COND 1SG go-IRR
+\glt `If it rains, I’ll go.’
+
+\label{ex:syntax:241}
+\gsrc U atwana \textbf{nïkïta} nï utana.
+\gll u atwana nï=kï-\textbf{ta} nï u=ta-na
+\gls 2SG question 1SG=say{-cond} 1SG 2SG=say-IRR
+\glt `If you ask me, I’ll tell you.’
+
+\label{ex:syntax:242}
+\gsrc Itom mï \textbf{mbita} unan landa.
+\gll itom mï mbï-i-\textbf{ta} unan la-nda
+\gls father 3SG.SUBJ here-go.PFV-COND 1PL.INCL eat-IRR
+\glt `If father comes, we’ll eat.’
+
+\label{ex:syntax:243}
+\gsrc Mï \textbf{anmapïta} we ande ndï wolka mol nena.
+\gll mï anma=p-\textbf{ta} we ande ndï wolka ma=ul na-i-na
+\gls 3SG.SUBJ good=COP{-cond} then ok 3PL again 3SG.OBJ=with DETR-come-IRR
+\glt `If he is well, then, OK, they would come back with him.’\footnote{This example also illustrates how \isi{conditional sentence}s may contain the \isi{subordinator} we ‘then’
+
+\label{ex:syntax:244}
+\gsrc Nï anganika ma maya \textbf{mata} ngan lowonda.
+\gll nï anganika ma ma=iya ma-\textbf{ta} ngan lo-wo-nda
+\gls 1SG after go 3SG.OBJ=toward go-COND 1DU.EXCL IRR-sleep-IRR
+\glt `When I later go, go to her, we two will sleep.’
+
+\label{ex:syntax:245}
+\gsrc We mï akïnakapïta u \textbf{mankapta} mï anmapïna.
+\gll we mï akïnaka=p-ta u ma=nïkï-p-\textbf{ta} mï anma=p-na
+\gls sago 3SG.SUBJ young=COP-COND 2SG 3SG.OBJ=dig-PFV-COND 3SG.SUBJ good=COP-IRR
+\glt `When the sago starch is fresh, [then] when you prepare it, it will be good.’
+
+\label{ex:syntax:246}
+\gsrc \textbf{Ndïnkïta} ndul wa undana mane.
+\gll ndï=nïkï-\textbf{ta} ndï=ul wa unda-na ma-n-e
+\gls 3PL=dig-IRR-COND 3PL=with village go-IRR go-IPFV-DEP
+\glt `When we have butchered them, we’re going to go home with them.’
+
+\label{ex:syntax:247}
+\gsrc \textbf{Tembipïta} ndï mo \textbf{ina mane}.
+\gll tembi=p-\textbf{ta} ndï ma=u \textbf{i-na} \textbf{ma-n-e}
+\gls bad=COP{-cond} 3PL 3SG.OBJ=from come-IRR go-IPFV-DEP
+\glt `Whenever [people] were sick, they were going to come from there.’
+
+\label{ex:syntax:248}
+\gsrc Nduwe unïn anmbïlumopta un nul ndinap \textbf{ndulunda mane}.
+\gll ndï=we un=ïn an-mbï-lumo-p-ta un nï=ul ndï=ina-p \textbf{ndï=u-lo-nda} \textbf{ma-n-e}
+\gls 3PL=cut 2PL=OBL out-here-put-PFV-COND 2PL 1SG=with 3PL=get-PFV 3PL=from-cut-IRR go-IPFV-DEP
+\glt `Once [I] have cut them [= tobacco leaves] out for you, you, having gotten them with me, are going to peel them.’
+
+\label{ex:syntax:249}
+\gsrc U mat ita nï \textbf{malamap} wa \textbf{mana}.
+\gll u ma=tï i-ta nï \textbf{ma=la-ama-p} wa \textbf{ma-na}
+\gls 2SG 3SG.OBJ=take go.PFV-COND 1SG 3SG.OBJ=IRR-eat-PFV village go-IRR
+\glt `If you bring it, I’ll eat it and go home.’
+
+\label{ex:syntax:250}
+\gsrc Olsem u \textbf{ngalat} nïnata nï nïnji \textbf{ngalat} unanda.
+\gll olsem u ngala=\textbf{tï} nï=na-ta nï nï-nji ngala=\textbf{tï} u=na-nda
+\gls thus 2SG PL.PROX=take 1SG=give-COND 1SG 1SG-POSS PL.PROX=take 2SG=give-IRR
+\glt `So if you give these to me, I’ll give mine to you.’
+
+\label{ex:syntax:251}
+\gsrc Nï ko nji \textbf{tï} unata u ko nji \textbf{tï} nïnanda.
+\gll nï ko nji \textbf{tï} u=na-ta u ko nji \textbf{tï} nï=na-nda
+\gls 1SG just thing take 2SG=give-COND 2SG just thing take 1SG=give-IRR
+\glt `If I give you something, you should give me something.’
+
+\label{ex:syntax:252}
+\gsrc Kalam \textbf{ngatïn} mol luta ngaya ndapïna.
+\gll kalam nga=\textbf{tï-n} ma=ul lo-ta ngaya anda=p-na
+\gls knowledge SG.PROX=take-PFV 3SG.OBJ=with go-COND far SG.DIST=be-IRR
+\glt `If he gets this knowledge and goes around with it, he will be far away.’
+
+\label{ex:syntax:253}
+\gsrc U kwa \textbf{mapta} mundu \textbf{lata} tamndï ko mundu ndïwalin.
+\gll u kwa ma=p-\textbf{ta} mundu la-\textbf{ta} tamndï ko mundu ndï=wali-n[da]
+\gls 2SG just 3SG.OBJ=be{-cond} food eat{-cond} owner just hunger 3PL=hit-IRR
+\glt `If you just eat the food there, the owners will go hungry.’
+
+\label{ex:syntax:254}
+\gsrc \textbf{Nungolkepe} nï mandïm sata mï nït awi lïp nul wandam mana.
+\gll nungolke=p-\textbf{e} nï ma=andïm sa-ta mï nï=tï awi lï-p nï=ul wandam ma-na
+\gls child=COP{-dep} 1SG 3SG.OBJ=for cry{-cond} 3SG.SUBJ 1SG=take shoulder put-PFV 1SG=with jungle go-IRR
+\glt `When [I] was a child and I would cry for him [= my father], he would put me on his shoulder and go with me to the jungle.’
+
+\label{ex:syntax:255}
+\gsrc \textbf{Mambilakata} \textbf{mankïta} keka itïm \textbf{nomopta} una wo lolop wa pïn.
+\gll ma-ambi=la-ka-\textbf{ta} ma=nïkï-\textbf{ta} keka itïm na-lumo-p-\textbf{ta} unan wa lolop wa p-na
+\gls 3SG.OBJ-TOP=IRR-let-COND 3SG.OBJ=dig-COND completely trash DETR-put-PFV-COND 1PL.INCL just just village be-IRR
+\glt `If [we] abandon it, cut it [out], and throw [it] completely in the trash, [then] we will just stay [fine here] in the village.’
+
+\label{ex:syntax:256}
+\gsrc \textbf{Nditapta} kalam mï \textbf{natïnangata}.
+\gll ndï=ita-p-\textbf{ta} kalam mï na-tïnanga-\textbf{ta}
+\gls 3PL=build-PFV-COND knowledge 3SG.SUBJ DETR-arise-COND
+\glt `When [they] build them [= school buildings], knowledge will increase.’
+
+\label{ex:syntax:257}
+\gsrc U mat nonal luwa \textbf{malta} mï lowop \textbf{tembipïta}.
+\gll u ma=tï nonal luwa ma=lï-\textbf{ta} mï lo-wo-p tembi=p-\textbf{ta}
+\gls 2SG 3SG.OBJ=take wind place 3SG.OBJ=put-IRR-COND 3SG.SUBJ IRR-sleep-IRR bad=COP{-cond}
+\glt `If you put it out in the open air, it will go bad overnight.’
+
+\label{ex:syntax:259}
+\gsrc Nï \textbf{mamata} olsem ko kwa \textbf{mbïpïta} lïmndï \textbf{ndutata} ay \textbf{nïkïta} ndul landa?
+\gll nï ma=ma-\textbf{ta} olsem ko kwa mbï-p-\textbf{ta} lïmndï ndï=uta-\textbf{ta} ay nïkï-\textbf{ta} ndï=ul la-nda
+\gls 1SG 3SG.OBJ=go-COND thus just one here-be{-cond} eye 3PL=grind{-cond} sago dig-COND 3PL=with eat-IRR
+\glt `If I were to go there, who would stay here, watch after them, prepare sago, and eat with them?’
+
+\label{ex:syntax:260}
+\gsrc Un nambï \textbf{kenmbupïta} un anjikaka imbamka lunda?
+\gll un nambï kenmbu=p-\textbf{ta} un anjikaka imbam-ka lo-nda
+\gls 2PL skin heavy=COP{-cond} 2PL how run-let go-IRR
+\glt `But if your body is heavy, how can you run around?’
+
+\label{ex:syntax:261}
+\gsrc Una \textbf{ango} luwa pïta inim malanda?
+\gll unan \textbf{ango} luwa p-ta inim ma=la-nda
+\gls 1PL.INCL NEG place be{-cond} water 3SG.OBJ=eat-IRR
+\glt `Where will we drink water?’
+
+\label{ex:syntax:262}
+\gsrc Un ma ya koya ata ma \textbf{maynapta} nditap ndïtïl nap ndït \textbf{ita} una \textbf{ndutata} inim uta ndïlan!
+\gll un ma ya ko=iya ata ma ma=ina-p-\textbf{ta} ndï=ita-p ndï=tïl na-p ndï=tï i-\textbf{ta} unan ndï=uta-\textbf{ta} inim u-ta ndï=la-n
+\gls 2PL go coconut INDF=toward up go 3SG.OBJ=get-PFV-COND 3PL=build-PFV 3PL=husk DETR-be 3PL=take go.PFV-COND 1PL.INCL 3PL=grind{-cond} water put{-cond} 3PL=eat-IMP
+\glt `If you go, go up a coconut tree, and get it, [and] if [you] tie them [= the coconuts], husk them, and bring them, [then] we will grind them into water and eat them!’
+
+\label{ex:syntax:263}
+\gsrc Un keka nul ndïn umop ulwap ndïwat \textbf{itapta} we un nol!
+\gll un keka nï=ul ndï=n lumo-p ulwa=p ndï=wat ita-p-\textbf{ta} we un na-lo
+\gls 2PL completely 1SG=with 3PL=OBL put-PFV nothing=COP 3PL=atop build-PFV-COND then 2PL DETR-go
+\glt `If you plant all of them [= the tobacco seedlings] with me and cover them [with leaves], then you [may] go!’
+
+\label{ex:syntax:264}
+\gsrc Inim ngan apïn \textbf{ta} we inim ngan ndanan!
+\gll inim nga=n apïn [lï]-\textbf{ta} we inim nga=n ndï=ana-n
+\gls water SG.PROX=OBL fire put-COND then water SG.PROX=OBL 3PL=scrub-IMP
+\glt `Put this water on the fire, and then scrub with this water!’
+
+\label{ex:syntax:265}
+\gsrc Wanap nji ndïn \textbf{umopta}!
+\gll wanap nji ndï=n lumo-p-\textbf{ta}
+\gls PROH thing 3PL=OBL put-PFV-COND
+\glt `Don’t grow things!’
+
+\label{ex:syntax:266}
+\gsrc Apïn kali \textbf{malnda} inim ngalope nï makam.
+\gll apïn kali ma=lï\textbf{-nda} inim nga=lo-p-e nï ma=kamb
+\gls fire send 3SG.OBJ=put-IRR water SG.PROX=cut-PFV-DEP 1SG 3SG.OBJ=shun
+\glt `[I] would have burned it, but this rain came, so I didn’t want to.’
+
+\label{ex:syntax:267}
+\gsrc Wa \textbf{mbïpïna} Kowe awa mangusuwa asape mï i.
+\gll wa mbï-p-\textbf{na} Kowe awa ma-ngusuwa asa-p-e mï i
+\gls village here-be-IRR [name] INT 3SG.OBJ-poor hit-PFV-DEP 3SG.SUBJ go.PFV
+\glt ‘[Kïtalwe] would have stayed in the village, but Kowe himself hit the poor thing [= Kïtalwe] and he [= Kïtalwe] left.’
+
+\label{ex:syntax:268}
+\gsrc Nï ndïn ndul \textbf{sita} ndï ango uta tï \textbf{nïnanda}.
+\gll nï ndï=n ndï=ul si-\textbf{ta} ndï ango uta tï nï=na-\textbf{nda}
+\gls 1SG 3PL=OBL 3PL=with push{-cond} 3PL NEG bird take 1SG=give-IRR
+\glt ‘If I had shown them [= the birds] to them, I would not have been able to take the birds for myself.’
+
+\label{ex:syntax:269}
+\gsrc U uk undana \textbf{nakïta} u ilum atnï wambana \textbf{mokona}.
+\gll u uk unda-na na-kï-\textbf{ta} u ilum at=nï wambana moko-\textbf{na}
+\gls 2SG hook go-IRR DETR-say{-cond} 2SG little fight=OBL fish take-IRR
+\glt `If you had thought of fishing, you would have gotten many fish.’
+
+\label{ex:syntax:270}
+\gsrc Ndï \textbf{ndandïlaluta} \textbf{ndalin}. Ndï ango ndale.
+\gll ndï ndï=andïla-lo-\textbf{ta} ndï=ali-\textbf{n[da]} ndï ango ndï=ali-e
+\gls 3PL 3PL=await-go-IRR-COND 3PL=scrape-IRR 3PL NEG 3PL=scrape-IPFV
+\glt `If they looked for them, they would scrape them. But they don’t scrape them.’
+
+\label{ex:syntax:271}
+\gsrc A! Ala num tï \textbf{mbïlta} nï mbu \textbf{wonlakana}.
+\gll a ala num tï mbï-lï-\textbf{ta} nï mbï-u won-\textbf{la}-ka-\textbf{na}
+\gls ah PL.DIST canoe take here-put-COND 1SG here-from cut-IRR-let-IRR
+\glt `Ah! If only those folks had a canoe here, I would cross from there.’
+
+\label{ex:syntax:272}
+\gsrc Yeta mï lamndu \textbf{masap}.
+\gll yeta mï lamndu \textbf{ma=asa-p}
+\gls man 3SG.SUBJ pig 3SG.OBJ=hit-PFV
+\glt `The man killed the pig.’
+
+\label{ex:syntax:273}
+\gsrc \textbf{Asape} lamndu mï.
+\gll \textbf{asa-p-e} lamndu mï
+\gls hit-PFV-DEP pig 3SG.SUBJ
+\glt `The pig was killed.’
+
+\label{ex:syntax:274}
+\gsrc Inom utam \textbf{nduwanap}.
+\gll inom utam \textbf{ndï=wana-p}
+\gls mother yam 3PL=cook-PFV
+\glt `Mother cooked the yams.’
+
+\label{ex:syntax:275}
+\gsrc \textbf{Wanape} utam ndï.
+\gll \textbf{wana-p-e} utam ndï
+\gls cook-PFV-DEP yam 3PL
+\glt `The yams were cooked.’
+
+\label{ex:syntax:278}
+\gsrc Umbe \textbf{walinda} lamndu.
+\gll umbe wali-\textbf{nda} lamndu
+\gls tomorrow hit-IRR pig
+\glt `The pig will be killed tomorrow.’
+
+\label{ex:syntax:279}
+\gsrc \textbf{Lïmndï ale} ankam.
+\gll \textbf{lïmndï} \textbf{ala-e} ankam
+\gls eye see-DEP person
+\glt `The man was seen.’
+
+\label{ex:syntax:280}
+\gsrc Asape nungol!
+\gll asa-p-e nungol
+\gls hit-PFV-DEP child
+\glt `Piglets were killed!’
+
+\label{ex:syntax:281}
+\gsrc Ane se ame mundu.
+\gll ane sa-e ama-e mundu
+\gls sun cry-DEP eat-DEP food
+\glt `When the sun is shining, food is eaten.’
+
+\label{ex:syntax:282}
+\gsrc \textbf{Ankamnï} toplïpe mana.
+\gll \textbf{ankam=nï} top-lï-p-e mana
+\gls person=OBL throw-put-PFV-DEP spear
+\glt `The spear was thrown by the man.’
+
+\label{ex:syntax:283}
+\gsrc \textbf{Ndïn} asape lamndu.
+\gll \textbf{ndï=n} asa-p-e lamndu
+\gls 3PL=OBL hit-PFV-DEP pig
+\glt `The pig was killed by them.’
+
+\label{ex:syntax:284}
+\gsrc \textbf{Nungolnï} lukawtim mape nga.
+\gll \textbf{nungol=nï} lukawtim ma=p-e nga
+\gls child=OBL look.after 3SG.OBJ=be{-dep} SG.PROX
+\glt `This one was looked after by [my] son.’
+
+\label{ex:syntax:285}
+\gsrc Nip malpe.
+\gll ni-p ma=lï-p-e
+\gls die-PFV 3SG.OBJ=put-PFV-DEP
+\glt `[He] died and [they] buried him.’
+
+\label{ex:syntax:286}
+\gsrc Lungum anda matï Tapon nana.
+\gll lungum anda ma=tï Tapon na-na
+\gls long.spear SG.DIST 3SG.OBJ=take [name] give-PFV
+\glt `[They] gave a long spear to Tapon.’
+
+\label{ex:syntax:287}
+\gsrc Ginam lïmndï ankamnï asape lamndu mala.
+\gll Ginam lïmndï [ankam=nï asa-p-e] lamndu ma=ala
+\gls [name] eye [person=OBL hit-PFV-DEP] pig 3SG.OBJ=see
+\glt `Ginam saw the pig that the man killed.’
+
+\label{ex:syntax:288}
+\gsrc Inom mï \textbf{lam} mawanap.
+\gll inom mï \textbf{lam} ma=wana-p
+\gls mother 3SG.SUBJ meat 3SG.OBJ=cook-PFV
+\glt `Mother cooked the meat.’
+
+\label{ex:syntax:289}
+\gsrc \textbf{Lam} mï nungol masap.
+\gll \textbf{lam} mï nungol ma=asa-p
+\gls meat 3SG.SUBJ child 3SG.OBJ=hit-PFV
+\glt `The meat killed the child.’
+
+\label{ex:syntax:290}
+\gsrc Inom mï nungol masape \textbf{lam} mawanap.
+\gll inom mï [nungol ma=asa-p-e] \textbf{lam} ma=wana-p
+\gls mother 3SG.SUBJ [child 3SG.OBJ=hit-PFV-DEP] meat 3SG.OBJ=cook-PFV
+\glt `Mother cooked the meat that killed the child.’
+
+\label{ex:syntax:291}
+\gsrc Nungol mï \textbf{lam} mamap.
+\gll nungol mï \textbf{lam} ma=ama-p
+\gls [name] 3SG.SUBJ meat 3SG.OBJ=eat-PFV
+\glt `The child ate the meat.’
+
+\label{ex:syntax:292}
+\gsrc Inom mï nungolnï amape \textbf{lam} mawanap.
+\gll inom mï [nungol=nï ama-p-e] \textbf{lam} ma=wana-p
+\gls mother 3SG.SUBJ [child=OBL eat-PFV-DEP] meat 3SG.OBJ=cook-PFV
+\glt `Mother cooked the meat that the child ate.’
+
+\label{ex:syntax:293}
+\gsrc U ko nananï nïwat lape mïnda ngawonp.
+\gll u ko nana=nï nï=wat la-p-e mïnda nga=won-p-e
+\gls 2SG just mama=OBL 1SG=atop plant-PFV-DEP banana SG.PROX=cut-PFV-DEP
+\glt `You just cut this banana tree that was planted above me by mama.’
+
+\label{ex:syntax:294}
+\gsrc Nï ta lamndu amap.
+\gll nï ta lamndu ama-p
+\gls 1SG already pig eat-PFV
+\glt `I have already eaten pork.’
+
+\label{ex:syntax:295}
+\gsrc Nï ta amap.
+\gll nï ta ama-p
+\gls 1SG already eat-PFV
+\glt `I have already eaten.’
+
+\label{ex:syntax:296}
+\gsrc Amun nïnji maka palapal min mï maka \textbf{tukulp}.
+\gll amun nï-nji maka palapal min mï maka \textbf{tukul}-p
+\gls now 1SG-POSS thus decoration? band 3SG.SUBJ thus break-PFV
+\glt `Now, my, like, shell armband has broken like this.’
+
+\label{ex:syntax:297}
+\gsrc May mïnkïn \textbf{map}
+\gll ma=i mïnkïn ma=\textbf{a}-p
+\gls 3SG.OBJ=go.PFV sago.species 3SG.OBJ=break-PFV
+\glt `[We] went there and broke a sago palm.’
+
+\label{ex:syntax:297a}
+\gsrc Nï \textbf{apïn} im \textbf{ngamap}.
+\gll nï \textbf{apïn=n} im nga=\textbf{ama}-p
+\gls 1SG fire=OBL tree SG.PROX=eat-PFV
+\glt `I burned this tree.’
+
+\label{ex:syntax:297b}
+\gsrc \textbf{Apïn} mï amun im \textbf{ndame}.
+\gll \textbf{apïn} mï amun im ndï=\textbf{ama}-e
+\gls fire 3SG.SUBJ now tree 3PL=eat-IPFV
+\glt `The trees are burning now.’
+
+\label{ex:syntax:297c}
+\gsrc Ndï \textbf{naytap}.
+\gll ndï \textbf{na}-ita-p
+\gls 3PL DETR-build-PFV
+\glt `They built [something].’
+
+\label{ex:syntax:298}
+\gsrc Nï \textbf{i}.
+\gll nï \textbf{i}
+\gls 1SG go.PFV
+\glt `I went.’
+
+\label{ex:syntax:299}
+\gsrc Nï \textbf{ndiya i}.
+\gll nï ndï=\textbf{iya} \textbf{i}
+\gls 1SG 3PL=toward go.PFV
+\glt `I went to them.’
+
+\label{ex:syntax:300}
+\gsrc Nï Kumba \textbf{may}.
+\gll nï Kumba \textbf{ma=i}
+\gls 1SG Bun 3SG.OBJ=go.PFV
+\glt `I went to Bun [village].’
+
+\label{ex:syntax:301}
+\gsrc Mï i wandam \textbf{iye}.
+\gll mï i wandam \textbf{i}-e
+\gls 3SG.SUBJ go.PFV jungle go.PFV-DEP
+\glt `She went, went to the jungle.’
+
+\label{ex:syntax:302}
+\gsrc Nï \textbf{maya} wa \textbf{may}.
+\gll nï ma=\textbf{iya} wa \textbf{ma=i}
+\gls 1SG 3SG.OBJ=toward village 3SG.OBJ=go.PFV
+\glt `I went to him in the village.’
+
+\label{ex:syntax:303}
+\gsrc Ndï \textbf{nay}.
+\gll ndï \textbf{na}-i
+\gls 3PL DETR-go.PFV
+\glt `They went.’
+
+\label{ex:syntax:304}
+\gsrc Mangusuwata \textbf{namana}.
+\gll ma-ngusuwata \textbf{na}-ma-na
+\gls 3SG.OBJ-poor DETR-go-IRR
+\glt `The poor thing will be going.’
+
+\label{ex:syntax:305}
+\gsrc Mï maya \textbf{nay}.
+\gll mï ma=iya \textbf{na}-i
+\gls 3SG.SUBJ 3SG.OBJ=toward DETR-go.PFV
+\glt `He went to her.’
+
+\label{ex:syntax:306}
+\gsrc Tïn mï \textbf{utam} \textbf{mamap}.
+\gll tïn mï \textbf{utam} \textbf{ma=}ama-p
+\gls dog 3SG.SUBJ yam 3SG.OBJ=eat-PFV
+\glt `The dog ate the yam.’
+
+\label{ex:syntax:307}
+\gsrc Nï ta \textbf{namap}.
+\gll nï ta \textbf{na}-ama-p
+\gls 1SG already DETR-eat-PFV
+\glt `I’ve already eaten.’
+
+\label{ex:syntax:308}
+\gsrc Ndul \textbf{nalanda}!
+\gll ndï=ul \textbf{na}-la-nda
+\gls 3PL=with DETR-eat-IRR
+\glt `[Let’s] eat with them!’
+
+\label{ex:syntax:309}
+\gsrc Una angos \textbf{nalanda}?
+\gll unan angos \textbf{na}-la-nda
+\gls 1PL.INCL what DETR-eat-IRR
+\glt `What shall we eat?’
+
+\label{ex:syntax:310}
+\gsrc Mï \textbf{wat maytap}.
+\gll mï \textbf{wat} \textbf{ma}=ita-p
+\gls 3SG.SUBJ ladder 3SG.OBJ=build-PFV
+\glt `He built the ladder.’
+
+\label{ex:syntax:311}
+\gsrc Mï \textbf{naytap}.
+\gll mï \textbf{na}-ita-p
+\gls 3SG.SUBJ DETR-build-PFV
+\glt `He built [something].’
+
+\label{ex:syntax:312}
+\gsrc I ndïn \textbf{nop}.
+\gll i ndï=n \textbf{na}-u-p
+\gls go.PFV 3PL=OBL DETR-put-PFV
+\glt `[They] went and planted them [somewhere].’
+
+\label{ex:syntax:313}
+\gsrc \textbf{Nay} mat \textbf{nalp} mat wapa nduwatlïpe.
+\gll \textbf{na}-i ma=tï \textbf{na}-lï-p ma=tï wap ndï=wat-lï-p-e
+\gls DETR-go.PFV 3SG.OBJ=take DETR-put-PFV 3SG.OBJ=take leaf 3PL=atop-put-PFV-DEP
+\glt `[They] came, took him, put him [somewhere], put him on the leaves.’
+
+\label{ex:syntax:314}
+\gsrc Ndï namlipe mï ndït anmbï \textbf{nalpe}.
+\gll ndï namli=p-e mï ndï=tï an-mbï \textbf{na}-lï-p-e
+\gls 3PL soft=COP-DEP 3SG.SUBJ 3PL=take out-here DETR-put-PFV-DEP
+\glt `When they were soft, she took them out.’
+
+\label{ex:syntax:315}
+\gsrc Ndï \textbf{mamune} \textbf{nop}.
+\gll ndï ma=mune \textbf{na}-u-p
+\gls 3PL 3SG.OBJ=throw DETR-put-PFV
+\glt `They threw it around.’
+
+\label{ex:syntax:316}
+\gsrc Ndï nji ngalan \textbf{ndïnambï nop}.
+\gll ndï nji ngala=n ndï=nambï \textbf{na}-u-p
+\gls 3PL thing PL.PROX=OBL 3PL=skin DETR-put-PFV
+\glt `They blocked them with these things.’
+
+\label{ex:syntax:317}
+\gsrc Mape \textbf{nakukawe}.
+\gll ma=p-e \textbf{na}-kuk-aw-e
+\gls 3SG.OBJ=be{-dep} DETR-gather-put.IPFV-DEP
+\glt `While [he] was there, [they] were gathering.’
+
+\label{ex:syntax:318}
+\gsrc Ndï makape wombïn \textbf{man} \textbf{ne}.
+\gll ndï maka=p-e wombïn ma=\textbf{n} \textbf{ni}-e
+\gls 3PL thus=COP-DEP work 3SG.OBJ=OBL act-IPFV
+\glt `They used to do work like this.’
+
+\label{ex:syntax:319}
+\gsrc Wombïn \textbf{anmanï ne}.
+\gll wombïn anma=\textbf{nï} \textbf{ni}-e
+\gls work good=OBL act-IPFV
+\glt `[They] were doing good work.’
+
+\label{ex:syntax:320}
+\gsrc Una umbe makape wombïn \textbf{man} \textbf{naninda}.
+\gll unan umbe maka=p-e wombïn ma=\textbf{n} \textbf{na}-ni-nda
+\gls 1PL.INCL tomorrow thus=COP-DEP work 3SG.OBJ=OBL DETR-act-IRR
+\glt `Tomorrow we will do work like this.’
+
+\label{ex:syntax:321}
+\gsrc Mï \textbf{nanip}.
+\gll mï \textbf{na-ni}-p
+\gls 3SG.SUBJ DETR-die-PFV
+\glt `She died.’
+
+\label{ex:syntax:322}
+\gsrc Mï \textbf{nip}.
+\gll mï \textbf{ni}-p
+\gls 3SG.SUBJ die-PFV
+\glt `She died.’
+
+\label{ex:syntax:323}
+\gsrc Una ango luwa lunda? Mbï \textbf{nawap}.
+\gll unan ango luwa lo-nda mbï \textbf{na}-wap
+\gls 1PL.INCL which place go-IRR here DETR-be.PST
+\glt `Where should we have gone? We stayed.’
+
+\label{ex:syntax:324}
+\gsrc Wolka mo nay anmbï mbi mbï \textbf{nap}.
+\gll wolka ma=u na-i an-mbï mbï-i mbï \textbf{na}-p
+\gls again 3SG.OBJ=from DETR-go.PFV out-here here-go.PFV here DETR-be
+\glt `Again, [we] came from there, came out here, and are staying here.’
+
+\label{ex:syntax:325}
+\gsrc Mï wandam \textbf{nap}.
+\gll mï wandam \textbf{na-p}
+\gls 3SG.SUBJ jungle DETR-be
+\glt `It’s become a jungle.’
+
+\label{ex:syntax:326}
+\gsrc Asiya mï mundotoma \textbf{nape}.
+\gll asiya mï mundotoma \textbf{na-p}-e
+\gls string 3SG.SUBJ short DETR-be-DEP
+\glt `The string has gotten short.’
+
+\label{ex:syntax:327}
+\gsrc Ndï ambi \textbf{nap} kalam \textbf{nap}.
+\gll ndï ambi \textbf{na-p} kalam \textbf{na-p}
+\gls 3PL big DETR-be knowledge DETR-be
+\glt `They are already big and know.’
+
+\label{ex:syntax:329}
+\gsrc Mï mol anmbi inim naye \textbf{mïnape}.
+\gll mï ma=ul an-mbï-i inim na-i-e \textbf{mï=na}-p-e
+\gls 3SG.SUBJ 3SG.OBJ=with out-here-go.PFV water DETR-go.PFV-DEP 3SG.SUBJ=DETR-be{-ipfv}
+\glt `It went with it out into the water and stayed around there.’
+
+\label{ex:syntax:330}
+\gsrc Mingusuwa mat nay ndï \textbf{mïnanïkape}.
+\gll min-ngusuwa ma=tï na-i ndï \textbf{mï=na}-nïkï-p-e
+\gls 3DU-poor 3SG.OBJ=take DETR-go.PFV 3PL 3SG.SUBJ=DETR-dig-PFV-DEP
+\glt `The two poor things took it and they butchered it.’
+
+\label{ex:syntax:331}
+\gsrc Ay \textbf{ndïnamap}.
+\gll ay \textbf{ndï=na}-ama-p
+\gls sago 3PL=DETR-eat-PFV
+\glt `[They] have eaten the sago.’
+
+\label{ex:syntax:332}
+\gsrc Min \textbf{ndïnasap}.
+\gll min \textbf{ndï=na}-asa-p
+\gls 3DU 3PL=DETR-hit-PFV
+\glt `The two killed them.’
+
+\label{ex:syntax:333}
+\gsrc Ande an \textbf{wa mïnapïna}.
+\gll ande an \textbf{wa} \textbf{mï=na}-p-na
+\gls ok 1PL.EXCL village 3SG.SUBJ=DETR-be-IRR
+\glt `OK, we’ll stay in the village.’
+
+\label{ex:syntax:334}
+\gsrc Yokombla mï nay \textbf{numbu mïnanip}.
+\gll Yokombla mï na-i \textbf{numbu} \textbf{mï=na}-ni-p
+\gls [name] 3SG.SUBJ DETR-go.PFV garamut 3SG.SUBJ=DETR-beat-PFV
+\glt `Yokombla went and beat the garamut drum.’
+
+\label{ex:syntax:335}
+\gsrc \textbf{Apa ambi mïnaytana}.
+\gll \textbf{apa} \textbf{ambi} \textbf{mï=na}-ita-na
+\gls house big 3SG.SUBJ=DETR-build-IRR
+\glt `[I] will build a big house.’
+
+\label{ex:syntax:336}
+\gsrc Nay i nay Imwa \textbf{mïnay}.
+\gll na-i i na-i Imwa \textbf{mï=na}-i
+\gls DETR-go.PFV go.PFV DETR-go.PFV [place] 3SG.SUBJ=DETR-go.PFV
+\glt `[They] went and went, went to Imwa.’
+
+\label{ex:syntax:337}
+\gsrc Nï mol nay wa mbï \textbf{nanay}.
+\gll nï ma=ul na-i wa mbï \textbf{na-na}-i
+\gls 1SG 3SG.OBJ=with DETR-go.PFV village here DETR-DETR-go.PFV
+\glt `I went with her and came home here.’
+
+\label{ex:syntax:338}
+\gsrc Nambi \textbf{nakamp}.
+\gll nï-ambi \textbf{na}-kamb-p
+\gls 1SG-TOP DETR-shun-PFV
+\glt `As for me, I’ve had enough.’
+
+\label{ex:syntax:339}
+\gsrc I ndï una \textbf{ndïnakam}.
+\gll i ndï unan \textbf{ndï=na}-kamb
+\gls way 3PL 1PL.INCL 3PL=DETR-shun
+\glt `The [traditional] customs – we shun them.’
+
+\label{ex:syntax:340}
+\gsrc Una \textbf{ndïnakam} nay.
+\gll unan \textbf{ndï=na-}kamb na-i
+\gls 1PL.INCL 3PL=DETR-shun DETR-go.PFV
+\glt `We left them and came.’
+
+\label{ex:syntax:341}
+\gsrc Unan \textbf{ndïnanalanda}.
+\gll unan \textbf{ndï=na-na}-la-nda
+\gls 1PL.INCL 3PL=DETR-DETR-eat-IRR
+\glt `We will eat them.’
+
+\label{ex:syntax:342}
+\gsrc Mbï \textbf{nanap}.
+\gll mbï \textbf{na-na}-p
+\gls here DETR-DETR-be
+\glt `[We] stayed around.’
+
+\label{ex:syntax:343}
+\gsrc Na ambi ndï mï \textbf{ndïnanatïn}.
+\gll na ambi ndï mï \textbf{ndï=na-na}-tï-n
+\gls talk big 3PL 3SG.SUBJ 3PL=DETR-DETR-take-PFV
+\glt `The big stories – he got them [already].’
+
+\label{ex:syntax:344}
+\gsrc Ndï \textbf{ndïn} we ndul landa.
+\gll ndï \textbf{ndï=n} we ndï=ul la-nda
+\gls 3PL 3PL=OBL sago 3PL=with eat-IRR
+\glt `[They] would eat them [= pieces of meat] with sago.’
+
+\label{ex:syntax:345}
+\gsrc \textbf{Man} al mol tïn.
+\gll \textbf{ma=n} al ma=ul tï-n
+\gls 3SG.OBJ=OBL net 3SG.OBJ=with take-PFV
+\glt `[It] got her with the mosquito net.’
+
+\label{ex:syntax:346}
+\gsrc Nïnji yenat ngala ango apka \textbf{ndïn} anma kalampe.
+\gll nï-nji yenat ngala ango apka \textbf{ndï=n} anma kalam=p-e
+\gls 1SG-POSS daughter PL.PROX NEG very 3PL=OBL good knowledge=COP-DEP
+\glt `My daughters do not know them very well.’
+
+\label{ex:syntax:347}
+\gsrc Ndï wa \textbf{sokoyn} akïnaka ine.
+\gll ndï wa \textbf{sokoy=n} akïnaka ina-e
+\gls 3PL just tobacco=OBL new get-IPFV
+\glt `They just harvest the tobacco prematurely.’
+
+\label{ex:syntax:348}
+\gsrc U \textbf{man} anjikaka tï inde iye mï ko liyu?
+\gll u \textbf{ma=n} anjikaka tï inda-e i-e mï ko li-u
+\gls 2SG 3SG.OBJ=OBL how take walk{-dep} go.PFV-DEP 3SG.SUBJ just down-put
+\glt `How were you carrying it around such that it just fell?’
+
+\label{ex:syntax:349}
+\gsrc Itom mï Kongos \textbf{mol} \textbf{nipe} mï apa itap.
+\gll itom mï Kongos ma=\textbf{ul} \textbf{ni}-p-e mï apa ita-p
+\gls father 3SG.SUBJ [name] 3SG.OBJ=with act-PFV-DEP 3SG.SUBJ house build-PFV
+\glt `Father made Kongos build a house.’
+
+\label{ex:syntax:350}
+\gsrc Yena mï numan \textbf{mol nipe} mï asimu inap.
+\gll yena mï numan ma=\textbf{ul} \textbf{ni}-p-e mï asi-mu ina-p
+\gls woman 3SG.SUBJ husband 3SG.OBJ=with act-PFV-DEP 3SG.SUBJ grass-seed get-PFV
+\glt `The woman made [her] husband buy rice.’
+
+\label{ex:syntax:351}
+\gsrc Itom mï Kongos \textbf{mol nipta} mï apa itana.
+\gll itom mï Kongos ma=\textbf{ul} \textbf{ni}-p-ta mï apa ita-na
+\gls father 3SG.SUBJ [name] 3SG.OBJ=with act-PFV-COND 3SG.SUBJ house build-IRR
+\glt `Father will make Kongos build a house.’
+
+\label{ex:syntax:352}
+\gsrc Itom mï Kongos \textbf{mol nip}.
+\gll itom mï Kongos ma=\textbf{ul} \textbf{ni}-p
+\gls father 3SG.SUBJ [name] 3SG.OBJ=with act-PFV
+\glt `Father forced Kongos.’
+
+\label{ex:syntax:353}
+\gsrc Yena mï numan \textbf{manambïnkape} mï asimu inap.
+\gll yena mï numan ma=\textbf{nambï-nïkï-}p-e mï asi-mu ina-p
+\gls woman 3SG.SUBJ husband 3SG.OBJ=skin-dig-PFV-DEP 3SG.SUBJ grass-seed get-PFV
+\glt `The woman made her husband buy rice.’
+
+\label{ex:syntax:354}
+\gsrc Yena mï numan \textbf{mol nipe} mï ango asimu inap.
+\gll yena mï numan ma=\textbf{ul} \textbf{ni}-p-e mï ango asi-mu ina-p
+\gls woman 3SG.SUBJ husband 3SG.OBJ=with act-PFV-DEP 3SG.SUBJ NEG grass-seed get-PFV
+\glt `Even though the woman pressured [her] husband, he didn’t buy rice.’
+
+\label{ex:syntax:355}
+\gsrc Yena mï numan \textbf{manambïnkape} mï ango asimu inap.
+\gll yena mï numan ma=\textbf{nambï-nïkï-}p-e mï ango asi-mu ina-p
+\gls woman 3SG.SUBJ husband 3SG.OBJ=skin-dig-PFV-DEP 3SG.SUBJ NEG grass-seed get-PFV
+\glt `Even though the woman nagged [her] husband, he didn’t buy rice.’
+
+\label{ex:syntax:358}
+\gsrc \textbf{Nan mate} mï i masamasa mowonp.
+\gll \textbf{na=n} ma=\textbf{ta}-e mï i masamasa ma=won-p
+\gls talk=OBL 3SG.OBJ=say-DEP 3SG.SUBJ go.PFV tree.species 3SG.OBJ=cut-PFV
+\glt `[She] told him to go cut the tree.’
+
+\label{ex:syntax:356}
+\gsrc Mawna mï \textbf{nan} Yawat \textbf{mate} mï \textbf{i}.
+\gll Mawna mï \textbf{na=n} Yawat ma=\textbf{ta}-e mï \textbf{i}
+\gls [name] 3SG.SUBJ talk=OBL [name] 3SG.OBJ=say-DEP 3SG.SUBJ go.PFV
+\glt `Mawna told Yawat to leave [and he did].’
+
+\label{ex:syntax:357}
+\gsrc Mawna mï \textbf{nan} Yawat \textbf{mate} mï \textbf{mana}.
+\gll Mawna mï \textbf{na=n} Yawat ma=\textbf{ta}-e mï ma-\textbf{na}
+\gls [name] 3SG.SUBJ talk=OBL [name] 3SG.OBJ=say-DEP 3SG.SUBJ go-IRR
+\glt `Mawna told Yawat to leave [but it is unclear whether or not he did].’
+
+\label{ex:syntax:359}
+\gsrc Unan \textbf{na} \textbf{makïta} mï \textbf{ndambikulilïnda}!
+\gll unan \textbf{na} ma=\textbf{kï}-ta mï ndï-ambi=kuli-lï-\textbf{nda}
+\gls 1PL.INCL talk 3SG.OBJ=say{-cond} 3SG.SUBJ 3PL-TOP=throw-put-IRR
+\glt `Let’s tell him to throw them away!’
+
+\label{ex:syntax:360}
+\gsrc \textbf{Ndïn} wapata \textbf{mep}.
+\gll ndï=\textbf{n} wapata \textbf{me}-p
+\gls 3PL=OBL dry sew-PFV
+\glt `[He] made them [= sores] dry.’
+
+\label{ex:syntax:361}
+\gsrc \textbf{Amblan} mundotoma \textbf{menda}.
+\gll ambla=\textbf{n} mundotoma \textbf{me}-nda
+\gls PL.REFL=OBL short sew-IRR
+\glt `[We] will make ourselves short.’
+
+\label{ex:syntax:362}
+\gsrc Kïka mï awlu apa mo \textbf{man} tembi \textbf{mep}.
+\gll kïka mï awlu apa ma=u ma=\textbf{n} tembi \textbf{me}-p
+\gls white.ant 3SG.SUBJ step house 3SG.OBJ=from 3SG.OBJ=OBL bad sew-PFV
+\glt `The white ant nest has come to the house and made it bad.’
+
+\label{ex:syntax:363}
+\gsrc Nan ndïtap \textbf{ndïn} kalam \textbf{mendat}.
+\gll na=n ndï=ta-p ndï=\textbf{n} kalam \textbf{me}-nda-t
+\gls talk=OBL 3PL=say-PFV 3PL=OBL knowledge sew-IRR-SPEC
+\glt `[We] told them so that [we] might teach them.’
+
+\label{ex:syntax:364}
+\gsrc Nï nji \textbf{ngalan} \textbf{unï} kalam \textbf{men}.
+\gll nï nji ngala=\textbf{n} un=\textbf{nï} kalam \textbf{me}-n[da]
+\gls 1SG thing PL.PROX=OBL 2PL=OBL knowledge sew-IRR
+\glt `I will teach you these things.’
+
+\label{ex:syntax:365}
+\gsrc \textbf{Amblan} ini tamndï \textbf{mep}.
+\gll ambla=\textbf{n} ini tamndï \textbf{me}-p
+\gls PL.REFL=OBL ground owner sew-PFV
+\glt `[They] made themselves the owners of the land.’
+
+\label{ex:syntax:366}
+\gsrc Simban yeta tï \textbf{ambïwatlïpe}.
+\gll Simban yeta tï ambï=\textbf{wat-lï}-p-e
+\gls [name] man take SG.REFL=atop-put-PFV-DEP
+\glt `Simban made herself [like] a man.’
+
+\label{ex:syntax:367}
+\gsrc Mï yeta ambi tï \textbf{ambïwatlïp}.
+\gll mï yeta ambi tï ambï=\textbf{wat-lï}-p
+\gls 3SG.SUBJ man big take SG.REFL=atop-put-PFV
+\glt `He’s [like] a grown man!’
+
+\label{ex:syntax:374}
+\gsrc \textbf{Ndïlakan} ndï mapïn!
+\gll ndï=la-\textbf{ka}-n ndï ma=p-na
+\gls 3PL=IRR-let-IMP 3PL 3SG.OBJ=be-IRR
+\glt `Let them stay there!’
+
+\label{ex:syntax:368}
+\gsrc Mol i man Simundo \textbf{maka}.
+\gll ma=ul i ma=n Simundo ma=\textbf{ka}
+\gls 3SG.OBJ=with go.PFV 3SG.OBJ=OBL [place] 3SG.OBJ=let
+\glt `[They] went with him and left him at Simundo [village].’
+
+\label{ex:syntax:369}
+\gsrc Dingo man \textbf{maka}.
+\gll Dingo ma=n ma=\textbf{ka}
+\gls [name] 3SG.OBJ=OBL 3SG.OBJ=let
+\glt `[They] left Dingo there.’
+
+\label{ex:syntax:370}
+\gsrc Mï nul mbi nïn \textbf{ka} wolka nay.
+\gll mï nï=ul mbï-i nï=n \textbf{ka} wolka na-i
+\gls 3SG.SUBJ 1SG=with here-go.PFV 1SG=OBL let.PFV again DETR-go.PFV
+\glt `She came with me, left me, and went again.’
+
+\label{ex:syntax:371}
+\gsrc Ulum pul male we ndïn \textbf{maka}.
+\gll ulum pul ma=ale-e we ndï=n ma=\textbf{ka}
+\gls palm piece 3SG.OBJ=beat-DEP sago 3PL=OBL 3SG.OBJ=let
+\glt `[They] were scraping a piece of sago palm but left the sago starch there.’
+
+\label{ex:syntax:372}
+\gsrc Wana \textbf{malakana}!
+\gll wana ma=la-\textbf{ka}-na
+\gls PROH 3SG.OBJ=IRR-let-IRR
+\glt `Don’t abandon it!’
+
+\label{ex:syntax:373}
+\gsrc \textbf{Ndïnji ndïlaka} ndï mïnap.
+\gll \textbf{ndï-nji} \textbf{ndï}=la-ka ndï mï=na-p
+\gls 3PL-POSS 3PL=IRR-let 3PL 3SG.SUBJ=DETR-be
+\glt `[They] let their possessions [just] stay [as they are].’
+
+\label{ex:syntax:375}
+\gsrc \textbf{Unanji malakata} mï ina!
+\gll \textbf{unan-nji} \textbf{ma=la-ka-ta} mï i-na
+\gls 1PL.INCL-POSS 3SG.OBJ=IRR-let-COND 3SG.SUBJ come-IRR
+\glt `Let our [granddaughter] come!’
+
+\label{ex:syntax:376}
+\gsrc Ndïn mumnopen luwa \textbf{lakata} tomoy ndïwat mana.
+\gll ndï=n mumne-u-p-en luwa la-\textbf{ka}-ta tomoy ndï=wat ma-na
+\gls 3PL=OBL cold.and.dark-put-PFV-NMLZ place IRR-let-COND insect.species 3PL=atop go-IRR
+\glt `If [they] were to leave them in a cold and dark place, [then] insects would go onto them.’
+
+\label{ex:syntax:377}
+\gsrc A \textbf{mambilakan}!
+\gll a ma-ambi=la-\textbf{ka}-n
+\gls ah 3SG.OBJ-TOP=IRR-let-IMP
+\glt `Ah, forget it!’
+
+\label{ex:syntax:379}
+\gsrc Sokoy ulwape nï nïnji wa mana \textbf{nakap}.
+\gll sokoy ulwa=p-e nï [nï-nji wa ma-na] \textbf{na-kï-p}
+\gls tobacco nothing=COP-DEP 1SG [1SG-POSS village go-IRR] DETR-say-PFV
+\glt `Since there’s no tobacco, I want to go to my village.’
+
+\label{ex:syntax:380}
+\gsrc Kaukaunï mankïna \textbf{nakap}.
+\gll {[kaukau=nï} {ma=nïkï-na]} \textbf{na-kï-p}
+\gls {[kaukau=OBL} 3SG.OBJ=dig-IRR] DETR-say-PFV
+\glt `[They] wanted to plant kaukau [= sweet potato].’
+
+\label{ex:syntax:381}
+\gsrc Nïn u na tïna \textbf{nakap}.
+\gll {[nï=n} u na {tï-na]} \textbf{na-kï-p}
+\gls {[1SG=OBL} from talk take-IRR] DETR-say-PFV
+\glt `[He] wants to get stories from me.’
+
+\label{ex:syntax:382}
+\gsrc Na ndan nïkïna \textbf{nakap}?
+\gll {[na} anda=n {nï-kï-na]} \textbf{na-kï-p}
+\gls {[talk} SG.DIST=OBL 1SG=say-IRR] DETR-say-PFV
+\glt `Do [you] want to tell me something?’
+
+\label{ex:syntax:383}
+\gsrc Nï mana \textbf{nakap} nï mïnjan mat: …
+\gll {[nï} {ma-na]} \textbf{na-kï-p} nï mïnja=n ma=ta
+\gls {[1SG} go-IRR] DETR-say-PFV 1SG speech=OBL 3SG.OBJ=say
+\glt `[Wala] wanted me to go, but I told him: …’
+
+\label{ex:syntax:384}
+\gsrc Nan nïkïna \textbf{nakap} na kali nïwatlïta.
+\gll {[na=n} {nï=kï-na]} \textbf{na-kï-p} na kali nï=wat-lï-ta
+\gls {[talk=OBL} 1SG=say-IRR] DETR-say-PFV talk send 1SG=atop-put-COND
+\glt `If [you] wanted to talk to me, [then you] should have sent a message to me.’
+
+\label{ex:syntax:385}
+\gsrc Wutï munta lunda \textbf{nakap} …
+\gll {[wutï} mune-ta {lu-nda]} \textbf{na-kï-p}
+\gls {[leg} throw-COND put-IRR] DETR-say-PFV
+\glt `If you want to throw your legs around …’
+
+\label{ex:syntax:386}
+\gsrc Nul mana \textbf{nate}.
+\gll {[nï=ul} {ma-na]} \textbf{na-ta-e}
+\gls {[1SG=with} go-IRR] DETR-say-DEP
+\glt `[He] wanted to go with me.’
+
+\label{ex:syntax:387}
+\gsrc Nï lamndu \textbf{mawalinda}.
+\gll nï lamndu ma=wali-\textbf{nda}
+\gls 1SG pig 3SG.OBJ=hit-IRR
+\glt `I want to kill a pig.’
+
+\label{ex:syntax:388}
+\gsrc Nï awal we \textbf{landa}.
+\gll nï awal we la-\textbf{nda}
+\gls 1SG yesterday sago eat-IRR
+\glt `I wanted to eat sago yesterday.’
+
+\label{ex:syntax:389}
+\gsrc An inamba sokoy \textbf{inda}.
+\gll an inamba[=n] sokoy in-\textbf{nda}
+\gls 1PL.EXCL money[=OBL] tobacco get-IRR
+\glt `We want to buy tobacco.’
+
+\label{ex:syntax:390}
+\gsrc Apa \textbf{mana} i liwe umbu anïm nga mas.
+\gll apa ma-\textbf{na} i li-aw-e numbu anïm nga ma=asa
+\gls house go-IRR go.PFV down-put.IPFV-DEP post fork SG.PROX 3SG.OBJ=hit
+\glt `[He] wanted to go home, but [he] went and fell, and the fork of the post pierced him.’
+
+\label{ex:syntax:391}
+\gsrc Nï ango wa \textbf{lunda}.
+\gll nï ango wa lo-\textbf{nda}
+\gls 1SG NEG village go-IRR
+\glt `I don’t want to go around in villages.’
+
+\label{ex:syntax:392}
+\gsrc Nï \textbf{kam(be/p)}!
+\gll nï \textbf{kamb(-e/-p)}
+\gls 1SG shun(-IPFV/-PFV)
+\glt (a) ‘I don’t want to!’
+
+\label{ex:syntax:393}
+\gsrc Nï mana \textbf{tïna}.
+\gll nï mana \textbf{tï-na}
+\gls 1SG spear take-IRR
+\glt `I want a spear.’
+
+\label{ex:syntax:394}
+\gsrc Nï awal mana akïnaka \textbf{tïna}.
+\gll nï awal mana akïnaka \textbf{tï-na}
+\gls 1SG yesterday spear new take-IRR
+\glt `I wanted a new spear yesterday.’
+
+\label{ex:syntax:395}
+\gsrc Nï mana akïnaka \textbf{tïna}.
+\gll nï mana akïnaka \textbf{tï-na}
+\gls 1SG spear new take-IRR
+\glt (a) ‘I want a new spear.’
+
