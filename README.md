@@ -2,14 +2,16 @@
 
 ## Overview
 
-LingGym is a benchmark dataset with three file types:
+LingGym is a new benchmark that evaluates LLMs’ capacity for metalinguistic reasoning using Interlinear Glossed Text (IGT) and grammatical descriptions extracted from 18 typologically diverse reference grammars.
 
-CSV files: extracted examples and explanations from grammar books.
+In this github repo. We release three types of datasets:
 
-Benchmark data: the complete dataset used for benchmark evaluation (done).
+1. Benchmark data (Main): the complete dataset used for benchmark evaluation.
 
-IGT files: all IGT-format data extracted from grammar books.
+2. CSV files: extracted examples and explanations from grammar books.
 
-I will continue to update all files and code during the next two weeks.
+3. IGT files: all IGT-format data extracted from grammar books.
+
+
 
 
