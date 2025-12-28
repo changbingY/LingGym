@@ -2,7 +2,7 @@
 
 ## Overview
 
-LingGym is a new benchmark that evaluates LLMs’ capacity for metalinguistic reasoning using Interlinear Glossed Text (IGT) and grammatical descriptions extracted from 18 typologically diverse reference grammars. Our work is presented in [LingGym: How Far Are LLMs from Thinking Like Field Linguists?](https://aclanthology.org/2025.emnlp-main.69.pdf/).
+LingGym is a new benchmark that evaluates LLMs’ capacity for metalinguistic reasoning using Interlinear Glossed Text (IGT) and grammatical descriptions extracted from 18 typologically diverse reference grammars. Our work is presented in [LingGym: How Far Are LLMs from Thinking Like Field Linguists?](https://aclanthology.org/2025.emnlp-main.69//).
 
 In this github repo. We release three types of datasets:
 
