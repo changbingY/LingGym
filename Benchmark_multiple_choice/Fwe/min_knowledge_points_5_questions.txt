@@ -1,0 +1,416 @@
+Question 0:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): cwaré ___ ka-a-zyí̲ː ku-ŋór-a
+Gloss (with missing item): then ___ NEG-SM1-know.STAT INF-write-FV
+The English translation of this sentence is:‘But she, she doesn’t know how to write.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The involvement of a first, second or third person as a subject or object is usually marked with subject and object markers on the verb, except when it is in focus or topicalized. To mark a first, second or third person as topic, a personal pronoun is used in the left-dislocated position (see also \sectref{bkm:Ref403656711} on left dislocation), as in (\ref{bkm:Ref99021532}--\ref{bkm:Ref99021534}).
+A: word: ne=wé	 gloss: COM=PERS2SG
+B: word: iyé	 gloss: that
+C: word: eyé	 gloss: PERS3SG
+D: word: iwé	 gloss: PERS2SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 1:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): e-í e-N-júo ___ ni-bá̲-a-iH-zyaːHk-ir-á̲
+Gloss (with missing item): AUG-DEM.I9 AUG-NP9-house ___ REM-SM2-PST-OM9-build-APPL-FV<REL>
+The English translation of this sentence is:‘This house, it is me that it is was built for.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: To express focus on the first, second or third person, a personal pronoun is used as the clefted element of a cleft construction (see also \sectref{bkm:Ref491333435} on cleft constructions). A clefted pronoun marking exclusive focus (‘only she, no one else’) is shown in (\ref{bkm:Ref496869630}), and a clefted pronoun marking information focus is shown in (\ref{bkm:Ref496869707}).
+A: word: ndi-wé	 gloss: COP-PERS2SG
+B: word: ndi-mé	 gloss: COP-PERS1SG
+C: word: ka-ndi-mu-zyih-í̲	 gloss: NEG-SM1SG-OM1-know.STAT-NEG
+D: word: wáwa	 gloss: very
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 2:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mbu-ryó ndí̲-zan-a ___
+Gloss (with missing item): only SM1SG-play-FV ___
+The English translation of this sentence is:‘I’m just joking with you.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Personal pronouns are also required when the first, second or third person is used with a comitative or a copula, as in (\ref{bkm:Ref99021431}--\ref{bkm:Ref99021434}).
+A: word: ne=yé	 gloss: COM=PERS3SG
+B: word: cáha	 gloss: very
+C: word: ne=wé	 gloss: COM=PERS2SG
+D: word: ne=shúnu	 gloss: COM=today
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 3:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ sáneti cábora
+Gloss (with missing item): ___ Saneti Chabola
+The English translation of this sentence is:‘I am Saneti Chabola.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Personal pronouns are also required when the first, second or third person is used with a comitative or a copula, as in (\ref{bkm:Ref99021431}--\ref{bkm:Ref99021434}).
+A: word: ndi-mé	 gloss: COP-PERS1SG
+B: word: na=ma-beré	 gloss: COM=NP6-millet
+C: word: ndi-wé	 gloss: COP-PERS2SG
+D: word: ka-ndi-mu-zyih-í̲	 gloss: NEG-SM1SG-OM1-know.STAT-NEG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 4:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndi-zyiHman-á̲ ___
+Gloss (with missing item): SM1SG-stand-FV ___
+The English translation of this sentence is:‘I stand up quietly.’ [lit. ‘I stand up while I am quiet’] (NF_Elic15)
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the comitative is cliticized to a word that cannot take an augment, it is realized as na=, ne=, or ni=. This is the case with inflected verbs, where the comitative is realized as na- in Zambian Fwe, as in (\ref{bkm:Ref476926475}), and as ni=, as in (\ref{bkm:Ref476926486}) or ne=, as in (\ref{bkm:Ref476926495}), in Namibian Fwe.
+A: word: ndi-rwahr-í̲te	 gloss: SM1SG-be_sick-STAT
+B: word: ne=mu-kéntu	 gloss: COM=NP1-woman
+C: word: ka-á̲-tohntor-á̲	 gloss: PST.IPFV-SM6-be_cold-FV
+D: word: ne=ndi-tohntwé̲re	 gloss: COM=SM1SG-be_cold.STAT
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 5:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ u-angú
+Gloss (with missing item): ___ PP1-POSS1SG
+The English translation of this sentence is:‘And also my wife.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: With nouns that never take an augment, the form of the comitative is ni=, ne= or na=. For instance, with nouns with a secondary prefix ba- (used to mark respect; see \sectref{bkm:Ref499035982}), the form of the comitative may be na= or ne= in Zambian Fwe, as in (\ref{bkm:Ref99022089}--\ref{bkm:Ref99022091}), and ni= in Namibian Fwe, as in (\ref{bkm:Ref99022109}).
+A: word: ne=mu-kéntu	 gloss: COM=NP1-woman
+B: word: no=bu-ató	 gloss: COM=NP14-canoe
+C: word: na=ba-mu-kéntu	 gloss: COM=NP2-NP1-woman
+D: word: ni=ba-mu-kéntu	 gloss: COM=NP2-NP1-woman
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 6:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndi-haHr-á̲ ___ u-angú na=ba-ána-angu
+Gloss (with missing item): SM1SG-live-FV ___ PP1-POSS1SG COM=NP2-child-POSS1SG
+The English translation of this sentence is:‘I live with my wife and children.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: With nouns that never take an augment, the form of the comitative is ni=, ne= or na=. For instance, with nouns with a secondary prefix ba- (used to mark respect; see \sectref{bkm:Ref499035982}), the form of the comitative may be na= or ne= in Zambian Fwe, as in (\ref{bkm:Ref99022089}--\ref{bkm:Ref99022091}), and ni= in Namibian Fwe, as in (\ref{bkm:Ref99022109}).
+A: word: ne=mu-kéntu	 gloss: COM=NP1-woman
+B: word: na=ba-mu-kéntu	 gloss: COM=NP2-NP1-woman
+C: word: ne=ma-ir-a	 gloss: COM=NP6-sorghum
+D: word: ni=ba-mu-kéntu	 gloss: COM=NP2-NP1-woman
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 7:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndi-byá̲r-a o-mu-ndaré ___
+Gloss (with missing item): SM1SG-plant-FV AUG-NP3-maize ___
+The English translation of this sentence is:‘I grow maize and millet.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In Namibian Fwe, the use of the ne= form with nouns that do not have an e- augment is restricted to a handful of nouns referring to kinship relations. In Zambian Fwe, the ne= form is also frequently found with nouns of class 6 or 12. These nouns take an augment a-, and therefore the expected comitative form would be na=, as in the Namibian Fwe example in (\ref{bkm:Ref436820039}); in Zambian Fwe, the comitative with these nouns is often realized as ne=, as in (\ref{bkm:Ref437511600}).
+A: word: mbo-ndí̲-té̲nd-e	 gloss: NEAR.FUT-SM1SG-do-PFV.SBJV
+B: word: na=ma-beré	 gloss: COM=NP6-millet
+C: word: cáha	 gloss: very
+D: word: n-ma-beré	 gloss: COP-NP6-millet
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 8:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mu-ndaré ___
+Gloss (with missing item): NP3-maize ___
+The English translation of this sentence is:‘maize and sorghum’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In Namibian Fwe, the use of the ne= form with nouns that do not have an e- augment is restricted to a handful of nouns referring to kinship relations. In Zambian Fwe, the ne= form is also frequently found with nouns of class 6 or 12. These nouns take an augment a-, and therefore the expected comitative form would be na=, as in the Namibian Fwe example in (\ref{bkm:Ref436820039}); in Zambian Fwe, the comitative with these nouns is often realized as ne=, as in (\ref{bkm:Ref437511600}).
+A: word: we-∅-nkómbwe	 gloss: APP2SG-NP1a-tortoise
+B: word: ku-zyáːk-a-ir-a	 gloss: INF-build-PL1-APPL-FV
+C: word: ne=ma-ir-a	 gloss: COM=NP6-sorghum
+D: word: ma-ira	 gloss: NP6-sorghum
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 9:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndi-kwesí N-júo mwa-imúsho ___
+Gloss (with missing item): SM1SG-have NP9-house NP18-Imusho ___
+The English translation of this sentence is:‘I have a house in Imusho and in Sinjembela.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The comitative clitic is phonologically dependent on the word to which it is attached, as seen from its interaction with the augment, which determines the quality of the vowel. Morphosyntactically, the comitative clitic is relatively free. The comitative precedes all prefixes: when added to a noun, the comitative precedes the noun’s (primary) nominal prefix, but also its secondary nominal prefix, such as those of the locative classes 16-18, as shown in (\ref{bkm:Ref437423816}), or the class 2 prefix used as secondary prefix, as seen in (\ref{bkm:Ref437423825}).
+A: word: kwa-mongu	 gloss: NP17-Mongu
+B: word: ká-o-bu-fwíi	 gloss: ADV-AUG-NP14-short
+C: word: a-ba-cembere	 gloss: AUG-NP2-old_woman
+D: word: no=kwá-sinjembera	 gloss: COM=NP17-Sinjembela
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 10:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ u-angú
+Gloss (with missing item): ___ PP1-POSS1SG
+The English translation of this sentence is:‘And also my wife.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The comitative clitic is phonologically dependent on the word to which it is attached, as seen from its interaction with the augment, which determines the quality of the vowel. Morphosyntactically, the comitative clitic is relatively free. The comitative precedes all prefixes: when added to a noun, the comitative precedes the noun’s (primary) nominal prefix, but also its secondary nominal prefix, such as those of the locative classes 16-18, as shown in (\ref{bkm:Ref437423816}), or the class 2 prefix used as secondary prefix, as seen in (\ref{bkm:Ref437423825}).
+A: word: ni=ba-mu-kéntu	 gloss: COM=NP2-NP1-woman
+B: word: ne=mu-kéntu	 gloss: COM=NP1-woman
+C: word: no=kwá-sinjembera	 gloss: COM=NP17-Sinjembela
+D: word: na=ba-mu-kéntu	 gloss: COM=NP2-NP1-woman
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 11:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mbo-tú̲-end-er-er-é ___ ku-é-∅-tawuní
+Gloss (with missing item): NEAR.FUT-SM1PL-go-INT-PFV.SBJV ___ NP17-AUG-NP9-town
+The English translation of this sentence is:‘I will walk with you to town.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Fwe can also use the comitative for a type of conjunction called ‘inclusory conjunction’ \citep{Haspelmath2007}. This involves a comitative-marked nominal which refers to a participant that is already implied by a plural pronoun or subject marker. In (\ref{bkm:Ref69997095}), the subjects ‘you and I’ are both covered by the first person plural subject marker tu\nobreakdash- ‘we’ on the verb. The second person singular is expressed again through a comitative-marked personal pronoun ewe ‘you (SG)’.
+A: word: ne=wé	 gloss: COM=PERS2SG
+B: word: ne=shúnu	 gloss: COM=today
+C: word: tu-ba-kéntu	 gloss: APP1PL-NP2-woman
+D: word: ne=yé	 gloss: COM=PERS3SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 12:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): shi-ba-na-ka-sír-i ___
+Gloss (with missing item): INC-SM2-PST-DIST-sail-NPST.PFV ___
+The English translation of this sentence is:‘He has sailed with the canoe.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The comitative can also be used to express an instrumental, as in (\ref{bkm:Ref99022408}--\ref{bkm:Ref99022411}).
+A: word: o-bu-áto	 gloss: AUG-NP14-canoe
+B: word: ká-o-bu-fwíi	 gloss: ADV-AUG-NP14-short
+C: word: no=bu-bbí	 gloss: COM=AUG-NP14-bad
+D: word: no=bu-ató	 gloss: COM=NP14-canoe
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 13:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ku-kank-a ndí̲-ká̲nk-a e-ci-kuní ___
+Gloss (with missing item): INF-cut-FV SM1SG-cut-FV AUG-NP7-tree ___
+The English translation of this sentence is:‘I chop the tree with an axe.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The comitative can also be used to express an instrumental, as in (\ref{bkm:Ref99022408}--\ref{bkm:Ref99022411}).
+A: word: na=ka-tému	 gloss: COM=NP12-axe
+B: word: ka-tému	 gloss: NP12-axe
+C: word: ku-mu-nzi	 gloss: NP17-NP3-village
+D: word: na=ba-mu-kéntu	 gloss: COM=NP2-NP1-woman
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 14:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ u-angú na-shwén-i wáwa
+Gloss (with missing item): ___ PP1-POSS1SG SM1.PST-be_tired-NPST.PFV very
+The English translation of this sentence is:‘My wife has also become very tired.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The comitative can also be used to express additive focus, translatable as ‘also’, ‘too’ or ‘as well’, as in (\ref{bkm:Ref99022459}--\ref{bkm:Ref99022462}).
+A: word: zi-ó=mu-kéntu	 gloss: PP10-CON=NP1-woman
+B: word: na=ba-mu-kéntu	 gloss: COM=NP2-NP1-woman
+C: word: ne=mu-kéntu	 gloss: COM=NP1-woman
+D: word: na=ka-tému	 gloss: COM=NP12-axe
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 15:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ mu-kéntu á-o-ku-búːk-a
+Gloss (with missing item): ___ NP1-woman CON1-AUG-INF-wake-ITR-FV
+The English translation of this sentence is:‘The wife also wakes up.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Rather than marking the focused noun with a comitative, additive focus can also be expressed by adding a co-referential personal pronoun marked with the comitative, as in (\ref{bkm:Ref99022509}--\ref{bkm:Ref99022513}).
+A: word: ne=yé	 gloss: COM=PERS3SG
+B: word: ne=wé	 gloss: COM=PERS2SG
+C: word: ne=shúnu	 gloss: COM=today
+D: word: na=ka-tému	 gloss: COM=NP12-axe
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 16:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): o-mú-kwamé ___ zi-akwé zé-zi-zi
+Gloss (with missing item): AUG-NP1-man ___ PP10-POSS3SG COP.DEF8-EMPH-DEM.I8
+The English translation of this sentence is:‘The husband, too, his things are this and that.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Rather than marking the focused noun with a comitative, additive focus can also be expressed by adding a co-referential personal pronoun marked with the comitative, as in (\ref{bkm:Ref99022509}--\ref{bkm:Ref99022513}).
+A: word: we-∅-nkómbwe	 gloss: APP2SG-NP1a-tortoise
+B: word: ne=wé	 gloss: COM=PERS2SG
+C: word: ne=shúnu	 gloss: COM=today
+D: word: ne=yé	 gloss: COM=PERS3SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 17:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): o-mú-kwamé ___ shi-ba-na-ráːr-i
+Gloss (with missing item): AUG-NP1-man ___ INC-SM2-PST-sleep-NPST.PFV
+The English translation of this sentence is:‘The man said: they are asleep now.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another function of the comitative is as a marker of direct speech. It is attached to a personal pronoun indicating the speaker of the quotation, as in (\ref{bkm:Ref99022529}--\ref{bkm:Ref99022534}).
+A: word: ni=ba-mu-kéntu	 gloss: COM=NP2-NP1-woman
+B: word: ne=yé	 gloss: COM=PERS3SG
+C: word: ne=wé	 gloss: COM=PERS2SG
+D: word: ne=shúnu	 gloss: COM=today
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 18:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mu-ánce ___ ∅-máye ∅-máye N-ma-shene
+Gloss (with missing item): NP1-child ___ NP\-1a-mother NP\-1a-mother COP-NP6-worm
+The English translation of this sentence is:‘The child said: mother, mother, there are worms.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another function of the comitative is as a marker of direct speech. It is attached to a personal pronoun indicating the speaker of the quotation, as in (\ref{bkm:Ref99022529}--\ref{bkm:Ref99022534}).
+A: word: ne=yé	 gloss: COM=PERS3SG
+B: word: ne=wé	 gloss: COM=PERS2SG
+C: word: ka-o=biré	 gloss: ADV-CON=two
+D: word: ne=shúnu	 gloss: COM=today
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 19:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ka-tu-náku-tí-ang-a cahá
+Gloss (with missing item): ___ NEG-SM1PL-HAB-FV very
+The English translation of this sentence is:‘Us women, we did not used to be afraid often.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Appositive prefixes may be combined with a co-referential personal pronoun, as in (\ref{bkm:Ref98835584}--\ref{bkm:Ref98835590}), or without a personal pronoun, as in (\ref{bkm:Ref71202998}--\ref{bkm:Ref71202999}).
+A: word: ku-∅-mbwá	 gloss: NP17-NP1a-dog
+B: word: tu-ba-kéntu	 gloss: APP1PL-NP2-woman
+C: word: ba-kéntu	 gloss: NP2-woman
+D: word: ne=yé	 gloss: COM=PERS3SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 20:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): né=we o-shuHm-e=kó̲ ___
+Gloss (with missing item): COM=PERS2SG SM2SG-bite-PFV.SBJV=LOC17 ___
+The English translation of this sentence is:‘And you must also bite, you tortoise.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Appositive prefixes may be combined with a co-referential personal pronoun, as in (\ref{bkm:Ref98835584}--\ref{bkm:Ref98835590}), or without a personal pronoun, as in (\ref{bkm:Ref71202998}--\ref{bkm:Ref71202999}).
+A: word: we-∅-nkómbwe	 gloss: APP2SG-NP1a-tortoise
+B: word: o-∅-nkúku	 gloss: AUG-NP1a-chicken
+C: word: ne=mu-kéntu	 gloss: COM=NP1-woman
+D: word: ∅-rukúngwe	 gloss: NP1a-snake
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 21:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-buHtuk-á̲ ___
+Gloss (with missing item): SM1-run-FV ___
+The English translation of this sentence is:‘S/he runs fast.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The adverb câhà and its Zambian Fwe counterpart wâwà function as adverbs expressing general intensity, translatable as ‘its gloss ___’, but can receive various more specific interpretations based on context, as in (\ref{bkm:Ref99025388}--\ref{bkm:Ref99025390}).
+A: word: p-áha	 gloss: COP16-DEM.I16
+B: word: no=kwá-sinjembera	 gloss: COM=NP17-Sinjembela
+C: word: cáha	 gloss: very
+D: word: nénja	 gloss: well
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 22:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ci-ciná ci-rimo ndi-na-shínj-i ___
+Gloss (with missing item): EMPH7-DEM.IV7 NP7-year SM1SG-PST-harvest-NPST.PFV ___
+The English translation of this sentence is:‘This year I had a good harvest.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The adverb câhà and its Zambian Fwe counterpart wâwà function as adverbs expressing general intensity, translatable as ‘its gloss ___’, but can receive various more specific interpretations based on context, as in (\ref{bkm:Ref99025388}--\ref{bkm:Ref99025390}).
+A: word: nénja	 gloss: well
+B: word: wáwa	 gloss: very
+C: word: ∅-mbwáwa	 gloss: NP1a-jackal
+D: word: ne=ma-ir-a	 gloss: COM=NP6-sorghum
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 23:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): njé-kandé rí-angú ___
+Gloss (with missing item): COP.DEF9-story PP5-POSS1SG ___
+The English translation of this sentence is:‘This is my story, in short.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The prefix ka- derives an adverb from other words. Although this prefix resembles the class 12 nominal prefix ka- (see \sectref{bkm:Ref489005545} on nominal prefixes), this homophony is likely accidental: whereas the class 12 nominal prefix ka- replaces the noun’s original nominal prefix (see the examples in (\ref{bkm:Ref498357099}) in \sectref{bkm:Ref498357105}), the use of the adverb-deriving prefix ka- causes the noun’s original nominal prefix and augment to be maintained, as in (\ref{bkm:Ref71184200}--\ref{bkm:Ref71184201}).
+A: word: ká-o-bu-fwíi	 gloss: ADV-AUG-NP14-short
+B: word: ká-náintinsíkisiti	 gloss: ADV-1960
+C: word: n-ru-fwíi	 gloss: COP-NP11-short
+D: word: o-tú-cenyá	 gloss: AUG-NP13-small
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 24:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): njé-kandé rí-angú ___
+Gloss (with missing item): COP.DEF9-story PP5-POSS1SG ___
+The English translation of this sentence is:‘This is my story, in short.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The adverbial prefix ka- can be used to derive adverbs from nouns, as in (\ref{bkm:Ref71184200}--\ref{bkm:Ref71184201}), or from adjectives (\ref{bkm:Ref498357503}), infinitive verbs (\ref{bkm:Ref498417129}), or numerals (\ref{bkm:Ref498417486}).
+A: word: ká-o-bu-fwíi	 gloss: ADV-AUG-NP14-short
+B: word: na=ka-tému	 gloss: COM=NP12-axe
+C: word: o-tú-cenyá	 gloss: AUG-NP13-small
+D: word: n-ru-fwíi	 gloss: COP-NP11-short
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 25:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndi-fwH-ire ___ e-N-jara
+Gloss (with missing item): SM1SG-die-STAT ___ AUG-NP9-hunger
+The English translation of this sentence is:‘I’m a bit hungry.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The adverbial prefix ka- can be used to derive adverbs from nouns, as in (\ref{bkm:Ref71184200}--\ref{bkm:Ref71184201}), or from adjectives (\ref{bkm:Ref498357503}), infinitive verbs (\ref{bkm:Ref498417129}), or numerals (\ref{bkm:Ref498417486}).
+A: word: ka-niní	 gloss: ADV-little
+B: word: ka-níni	 gloss: ADV-small
+C: word: tu-ba-kéntu	 gloss: APP1PL-NP2-woman
+D: word: ba-níni	 gloss: NP2-small
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 26:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-kó̲ːr-a ___
+Gloss (with missing item): SM1-cough-FV ___
+The English translation of this sentence is:‘S/he coughs loudly.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The adverbial prefix ka- can be used to derive adverbs from nouns, as in (\ref{bkm:Ref71184200}--\ref{bkm:Ref71184201}), or from adjectives (\ref{bkm:Ref498357503}), infinitive verbs (\ref{bkm:Ref498417129}), or numerals (\ref{bkm:Ref498417486}).
+A: word: na=a-jwé̲ng-a	 gloss: COM=SM1-shout-FV
+B: word: we-∅-nkómbwe	 gloss: APP2SG-NP1a-tortoise
+C: word: ka-o-ku-óngoz-a	 gloss: ADV-AUG-INF-shout-FV
+D: word: na-ndí̲-na-óngoz-a	 gloss: REM-SM1SG-REM.FUT-shout-FV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 27:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ná̲-a-a-kóːr-a ___
+Gloss (with missing item): REM-SM1-PST-cough-FV ___
+The English translation of this sentence is:‘He coughed twice.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The adverbial prefix ka- can be used to derive adverbs from nouns, as in (\ref{bkm:Ref71184200}--\ref{bkm:Ref71184201}), or from adjectives (\ref{bkm:Ref498357503}), infinitive verbs (\ref{bkm:Ref498417129}), or numerals (\ref{bkm:Ref498417486}).
+A: word: ka-o=biré	 gloss: ADV-CON=two
+B: word: ba-o=biré	 gloss: PP2-CON=two
+C: word: ka-fóru	 gloss: ADV-four
+D: word: eyé	 gloss: PERS3SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 28:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndi-fwH-ire ___ e-N-jara
+Gloss (with missing item): SM1SG-die-STAT ___ AUG-NP9-hunger
+The English translation of this sentence is:‘I’m a bit hungry.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The adverbial prefix ka- can be used to derive adverbs of manner, as in (\ref{bkm:Ref498357503}--\ref{bkm:Ref498417486}), but also temporal adverbs, as in (\ref{bkm:Ref98512719}--\ref{bkm:Ref98512721}).
+A: word: ne=ndi-tohntwé̲re	 gloss: COM=SM1SG-be_cold.STAT
+B: word: ka-níni	 gloss: ADV-small
+C: word: ka-niní	 gloss: ADV-little
+D: word: ba-níni	 gloss: NP2-small
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 29:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ná̲-a-a-kóːr-a ___
+Gloss (with missing item): REM-SM1-PST-cough-FV ___
+The English translation of this sentence is:‘He coughed twice.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The adverbial prefix ka- can be used to derive adverbs of manner, as in (\ref{bkm:Ref498357503}--\ref{bkm:Ref498417486}), but also temporal adverbs, as in (\ref{bkm:Ref98512719}--\ref{bkm:Ref98512721}).
+A: word: ka-o=biré	 gloss: ADV-CON=two
+B: word: ká-o-bu-fwíi	 gloss: ADV-AUG-NP14-short
+C: word: ba-o=biré	 gloss: PP2-CON=two
+D: word: ka-fóru	 gloss: ADV-four
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 30:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zyóna na-ndí̲-na-búːk-a ___
+Gloss (with missing item): tomorrow REM-SM1SG-REM.FUT-wake-FV ___
+The English translation of this sentence is:‘Tomorrow I will wake up at four.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The adverbial prefix ka- can be used to derive adverbs of manner, as in (\ref{bkm:Ref498357503}--\ref{bkm:Ref498417486}), but also temporal adverbs, as in (\ref{bkm:Ref98512719}--\ref{bkm:Ref98512721}).
+A: word: ka-éti	 gloss: ADV-eight
+B: word: ka-fóru	 gloss: ADV-four
+C: word: ne=wé	 gloss: COM=PERS2SG
+D: word: na=ka-furo	 gloss: COM=NP12-knife
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 31:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): emé ná̲-ndi-a-réːt-iw-a ___
+Gloss (with missing item): PERS1SG REM-SM1SG-PST-bear-PASS-FV ___
+The English translation of this sentence is:‘Me, I was born in 1960.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The adverbial prefix ka- can be used to derive adverbs of manner, as in (\ref{bkm:Ref498357503}--\ref{bkm:Ref498417486}), but also temporal adverbs, as in (\ref{bkm:Ref98512719}--\ref{bkm:Ref98512721}).
+A: word: ká-naintinsíkisiti	 gloss: at-1960
+B: word: ká-náintinsíkisiti	 gloss: ADV-1960
+C: word: no=kwá-sinjembera	 gloss: COM=NP17-Sinjembela
+D: word: ka-éti	 gloss: ADV-eight
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+

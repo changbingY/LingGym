@@ -1,0 +1,52 @@
+Question 0:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): N-bu-rótu konó ___ N-bu-rótu nénja
+Gloss (with missing item): COP-NP14-good but ___ COP-NP14-good well
+The English translation of this sentence is:‘It is good, but it is not very good.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The auxiliary ri ‘be’ with a negative prefix is also used to negate nominal predicates. Affirmative nominal predicates are marked by a copulative prefix only (see \sectref{bkm:Ref489963307}). When negated with the auxiliary ri, the copulative prefix is maintained, as in (\ref{bkm:Ref99104807}--\ref{bkm:Ref99104808}).
+A: word: n-bu-rótu	 gloss: COP-NP14-good
+B: word: ka-i-oːr-é̲sek-i	 gloss: NEG-SM9-can-NEUT-NEG
+C: word: ka-rí	 gloss: NEG-be
+D: word: ka-réː	 gloss: ADV-long
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 1:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): N-bu-rótu konó ka-rí ___ nénja
+Gloss (with missing item): COP-NP14-good but NEG-be ___ well
+The English translation of this sentence is:‘It is good, but it is not very good.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The auxiliary ri ‘be’ with a negative prefix is also used to negate nominal predicates. Affirmative nominal predicates are marked by a copulative prefix only (see \sectref{bkm:Ref489963307}). When negated with the auxiliary ri, the copulative prefix is maintained, as in (\ref{bkm:Ref99104807}--\ref{bkm:Ref99104808}).
+A: word: n-bu-bbí	 gloss: COP-NP14-bad
+B: word: o-bu-rótu	 gloss: AUG-NP14-good
+C: word: n-bu-rótu	 gloss: COP-NP14-good
+D: word: ka-rí	 gloss: NEG-be
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 2:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): o-ú ___ ngó-mu-nzí u-angú
+Gloss (with missing item): AUG-DEM.I3 ___ COP.DEF3-NP3-village PP3-POSS1SG
+The English translation of this sentence is:‘This is not my village.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The auxiliary ri ‘be’ with a negative prefix is also used to negate nominal predicates. Affirmative nominal predicates are marked by a copulative prefix only (see \sectref{bkm:Ref489963307}). When negated with the auxiliary ri, the copulative prefix is maintained, as in (\ref{bkm:Ref99104807}--\ref{bkm:Ref99104808}).
+A: word: ngó-mu-nzí	 gloss: COP.DEF3-NP3-village
+B: word: ka-réː	 gloss: ADV-long
+C: word: ka-i-oːr-é̲sek-i	 gloss: NEG-SM9-can-NEUT-NEG
+D: word: ka-rí	 gloss: NEG-be
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 3:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): o-ú ka-rí ___ u-angú
+Gloss (with missing item): AUG-DEM.I3 NEG-be ___ PP3-POSS1SG
+The English translation of this sentence is:‘This is not my village.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The auxiliary ri ‘be’ with a negative prefix is also used to negate nominal predicates. Affirmative nominal predicates are marked by a copulative prefix only (see \sectref{bkm:Ref489963307}). When negated with the auxiliary ri, the copulative prefix is maintained, as in (\ref{bkm:Ref99104807}--\ref{bkm:Ref99104808}).
+A: word: ngó-mu-nzí	 gloss: COP.DEF3-NP3-village
+B: word: ∅-ku-mu-nzi	 gloss: COP-NP17-NP3-village
+C: word: ku-mu-nzí	 gloss: NP17-NP3-village
+D: word: ka-rí	 gloss: NEG-be
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+

@@ -1,0 +1,559 @@
+Question 0:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): na-shúm-iw-a ___
+Gloss (with missing item): SM1.PST-bite-PASS-FV ___
+The English translation of this sentence is:‘He was bitten by a dog.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The class 17 locative ku- can be used to mark an agent in a construction where an agent cannot be marked as a core argument. This is the case, for instance, for verbs with the passive derivation, as in (\ref{bkm:Ref450665409}), or nouns, as in (\ref{bkm:Ref450665567}). The class 17 prefix ku- may also be used to express less canonical agents, as in (\ref{bkm:Ref450666359}), or even peripheral arguments functioning as a reason or circumstance, rather than an agent, as in (\ref{bkm:Ref498346503}). The agentive use of the class 17 prefix is also seen in various other Bantu languages \citep{Fleisch2005}.
+A: word: hanú	 gloss: DEM.II16
+B: word: o-∅-mbwá	 gloss: AUG-NP1a-dog
+C: word: kú-∅-mbwá	 gloss: NP17-NP1a-dog
+D: word: ndu-∅-mbwá	 gloss: COP1a-NP1a-dog
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 1:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndó-ru-fú ru-ba-nyá-muzambarara ___
+Gloss (with missing item): COP.DEF11-NP11-death PP11-NP2-mother-Muzambarara ___
+The English translation of this sentence is:‘That is the death of Mrs. Muzambarara by the elephant.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The class 17 locative ku- can be used to mark an agent in a construction where an agent cannot be marked as a core argument. This is the case, for instance, for verbs with the passive derivation, as in (\ref{bkm:Ref450665409}), or nouns, as in (\ref{bkm:Ref450665567}). The class 17 prefix ku- may also be used to express less canonical agents, as in (\ref{bkm:Ref450666359}), or even peripheral arguments functioning as a reason or circumstance, rather than an agent, as in (\ref{bkm:Ref498346503}). The agentive use of the class 17 prefix is also seen in various other Bantu languages \citep{Fleisch2005}.
+A: word: o-∅-njovú	 gloss: AUG-NP1a-elephant
+B: word: o-∅-njovu	 gloss: AUG-NP1a-elephant
+C: word: kú-∅-njovu	 gloss: NP17-NP1a-elephant
+D: word: o-zyó	 gloss: AUG-DEM.III1
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 2:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): e-ci-zyabaró ci-angú ci-a-bur-ú̲k-i ___
+Gloss (with missing item): AUG-NP7-shirt PP7-POSS1SG SM7-PST-blow-SEP.INTR-NPST.PFV ___
+The English translation of this sentence is:‘My shirt was blown away by the wind.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The class 17 locative ku- can be used to mark an agent in a construction where an agent cannot be marked as a core argument. This is the case, for instance, for verbs with the passive derivation, as in (\ref{bkm:Ref450665409}), or nouns, as in (\ref{bkm:Ref450665567}). The class 17 prefix ku- may also be used to express less canonical agents, as in (\ref{bkm:Ref450666359}), or even peripheral arguments functioning as a reason or circumstance, rather than an agent, as in (\ref{bkm:Ref498346503}). The agentive use of the class 17 prefix is also seen in various other Bantu languages \citep{Fleisch2005}.
+A: word: kú-ru-wa	 gloss: NP17-NP11-field
+B: word: kú-rúː-ho	 gloss: NP17-NP11-wind
+C: word: mu-oya	 gloss: NP3-wind
+D: word: zí-ngiː	 gloss: PP10-many
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 3:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): e-zi-zwáto zi-na-bó̲mb-i ___
+Gloss (with missing item): AUG-NP8-cloth SM8-PST-become_wet-NPST.PFV ___
+The English translation of this sentence is:‘The clothes have become wet because of the rain.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The class 17 locative ku- can be used to mark an agent in a construction where an agent cannot be marked as a core argument. This is the case, for instance, for verbs with the passive derivation, as in (\ref{bkm:Ref450665409}), or nouns, as in (\ref{bkm:Ref450665567}). The class 17 prefix ku- may also be used to express less canonical agents, as in (\ref{bkm:Ref450666359}), or even peripheral arguments functioning as a reason or circumstance, rather than an agent, as in (\ref{bkm:Ref498346503}). The agentive use of the class 17 prefix is also seen in various other Bantu languages \citep{Fleisch2005}.
+A: word: há-munya	 gloss: PP16-other
+B: word: o-∅-mvúra	 gloss: AUG-NP1a-rain
+C: word: o-∅-rain	 gloss: AUG-NP1a-rain
+D: word: kú-∅-mvúra	 gloss: NP17-NP1a-rain
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 4:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ hanja
+Gloss (with missing item): ___ hand
+The English translation of this sentence is:‘this hand’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The tonal realization of demonstratives depends on their syntactic position. Adnominal demonstratives have a high tone on the last mora of the stem, as in (\ref{bkm:Ref494890604}). Adverbial demonstratives have a high tone on the first stem mora, as in (\ref{bkm:Ref494890605}). Demonstratives used as relativizers are realized without any high tones, as in (\ref{bkm:Ref494890607}) (see also \sectref{bkm:Ref491095705} on relative clauses). The tonal behavior of pronominal demonstratives requires further study: various patterns are attested, as in (\ref{bkm:Ref75346009}--\ref{bkm:Ref75250854}), and it is unclear what, if anything, conditions their use.
+A: word: kú-ba-ntu	 gloss: NP17-NP2-person
+B: word: e-rí	 gloss: AUG-DEM.I5
+C: word: ndi-ó=ku-rí-dam-a	 gloss: PP1SG-CON=INF-OM5-beat-FV
+D: word: e-cí	 gloss: AUG-DEM.I7
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 5:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndi-kar-á̲ng-a ___
+Gloss (with missing item): SM1SG-sit-HAB-FV ___
+The English translation of this sentence is:‘I normally stay here.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The tonal realization of demonstratives depends on their syntactic position. Adnominal demonstratives have a high tone on the last mora of the stem, as in (\ref{bkm:Ref494890604}). Adverbial demonstratives have a high tone on the first stem mora, as in (\ref{bkm:Ref494890605}). Demonstratives used as relativizers are realized without any high tones, as in (\ref{bkm:Ref494890607}) (see also \sectref{bkm:Ref491095705} on relative clauses). The tonal behavior of pronominal demonstratives requires further study: various patterns are attested, as in (\ref{bkm:Ref75346009}--\ref{bkm:Ref75250854}), and it is unclear what, if anything, conditions their use.
+A: word: kúnu	 gloss: DEM.II17
+B: word: ba-onshéː	 gloss: PP2-all
+C: word: hanú	 gloss: DEM.II16
+D: word: ∅-rukúngwe	 gloss: NP1a-snake
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 6:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-ma-sheréŋi ___ ni-tú̲-a-shaHngaur-á̲
+Gloss (with missing item): AUG-NP6-money ___ REM-SM1PL-PST-contribute-FV<REL>
+The English translation of this sentence is:‘the money that we contributed’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The tonal realization of demonstratives depends on their syntactic position. Adnominal demonstratives have a high tone on the last mora of the stem, as in (\ref{bkm:Ref494890604}). Adverbial demonstratives have a high tone on the first stem mora, as in (\ref{bkm:Ref494890605}). Demonstratives used as relativizers are realized without any high tones, as in (\ref{bkm:Ref494890607}) (see also \sectref{bkm:Ref491095705} on relative clauses). The tonal behavior of pronominal demonstratives requires further study: various patterns are attested, as in (\ref{bkm:Ref75346009}--\ref{bkm:Ref75250854}), and it is unclear what, if anything, conditions their use.
+A: word: ka-o-ku-óngoz-a	 gloss: ADV-AUG-INF-shout-FV
+B: word: a-o	 gloss: AUG-DEM.III6
+C: word: e-co	 gloss: AUG-DEM.III7
+D: word: zyú-mwi	 gloss: PP1-other
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 7:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ∅-shene ó̲-bweHne ndi-wé
+Gloss (with missing item): ___ NP5-worm SM2SG.REL-see.STAT COP-PERS2SG
+The English translation of this sentence is:‘This very worm that you see, it’s you.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In addition to the demonstrative forms listed in \tabref{tab:4:19}, an emphatic demonstrative can be created by prefixing the basic demonstrative stem of series I to the demonstrative, e.g. zyo ‘that one’, zyu-zyo ‘that very one’. This can be applied to demonstratives of all four series, as illustrated for series III in (\ref{bkm:Ref99547938}) and series I in (\ref{bkm:Ref99547939}); in each case, it is the basic demonstrative stem of series I that is prefixed to the demonstrative stem. The derived demonstrative indicates extra emphasis, translated as ‘this/that very (same)’.
+A: word: ci-ciná	 gloss: EMPH7-DEM.IV7
+B: word: bu-ryo	 gloss: NP14-only
+C: word: rí-ryo	 gloss: EMPH-DEM.III5
+D: word: bu-a=có	 gloss: PP14-CON=DEM.III7
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 8:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ N-shángu zi-cen-á̲
+Gloss (with missing item): ___ NP10-shoe SM10-be_clean-FV
+The English translation of this sentence is:‘These shoes are clean.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The situational use of the series 1 demonstratives is to indicate that a referent is generally close to both the hearer and the speaker, as illustrated in (\ref{bkm:Ref450568975}), referring to shoes that are in the immediate vicinity of both the speaker and the hearer.
+A: word: bú-munya	 gloss: PP14-other
+B: word: ku-kóːr-a	 gloss: INF-cough-FV
+C: word: ndi-a-zí-sá̲nz-i	 gloss: SM1SG-PST-OM8-wash-NPST.PFV
+D: word: e-zí	 gloss: AUG-DEM.I10
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 9:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): emé ndi-hí̲nd-e ___ ma-inó
+Gloss (with missing item): PERS1SG SM1SG-take-PFV.SBJV ___ NP6-tooth
+The English translation of this sentence is:‘I will take those teeth.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Series IV demonstratives are used to indicate a referent far from both the speaker and the hearer. In (\ref{bkm:Ref450569612}), taken from a narrative, the speaker uses a series IV demontrative énà to refer to teeth that are hidden at a place far away from the speaker and the hearer.
+A: word: zi-a=shúnu	 gloss: PP8-CON=today
+B: word: a-bená	 gloss: AUG-DEM.IV2
+C: word: ená	 gloss: DEM.IV6
+D: word: iná	 gloss: DEM.IV9
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 10:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): kónakuri ___ ∅-kande ri-á=ba-njovu
+Gloss (with missing item): because ___ NP5-story PP5\--CON=NP2-elephant
+The English translation of this sentence is:‘Because of this story of the elephants…’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Demonstratives also have various non-situational uses. One of these is the use of a demonstrative for discourse deixis, i.e. to refer to the general information referent of a larger, broader chunk of discourse. In (\ref{bkm:Ref437947332}), the series III demonstrative èryó ‘that’ refers back to the topic of the preceding discourse in its entirety, which has described the attack on an old lady by elephants.
+A: word: bu-ryó	 gloss: NP14-only
+B: word: e-ryó	 gloss: AUG-DEM.III5
+C: word: rí-ryo	 gloss: EMPH-DEM.III5
+D: word: e-co	 gloss: AUG-DEM.III7
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 11:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ mú-kwamé á-ku-hind-á ka-tému
+Gloss (with missing item): ___ NP1-man PP1-INF-take-FV NP12-axe
+The English translation of this sentence is:‘That man took an axe…’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Salience, or accessibility \citep{Ariel2001}, describes how easy it is for the listener to retrieve the intended referent from the discourse. Accessibility is influenced by various factors, such as the number of times the referent was mentioned, the time elapsed since the last mention and the number of potentially competing referents that were introduced since then. In (\ref{bkm:Ref437948356}), the recent use of the word mùnzì ‘village’ has caused its referent to be highly salient, and therefore referred to with the series III demonstrative. An example where the frequent earlier mention of the referent has contributed to its salience is given in (\ref{bkm:Ref437948827}), taken from the middle section of a longer narrative in which a man, his wife and the wife’s younger sister are the main participants. All three main characters have been mentioned frequently in the previous discourse, hence allowing one of them, the man, to be referred to with the series III demonstrative.
+A: word: o-zyó	 gloss: AUG-DEM.III1
+B: word: o-zyú	 gloss: AUG-DEM.I1
+C: word: e-ryó	 gloss: AUG-DEM.III5
+D: word: ba-o=kú-mu-nzi	 gloss: PP2-CON=NP17-NP3-village
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 12:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a-ba-ntu ___ si-ba-end-ang-a=kó̲ ne=N-motá
+Gloss (with missing item): AUG-NP2-person ___ INC-SM2-go-HAB-FV=LOC17 COM=NP9-car
+The English translation of this sentence is:‘People, now, they go there with cars.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: This temporal function of the series II demonstrative is also reflected in the use of the locative demonstrative of class 16, which can be used adverbially meaning ‘(right) now’, as in (\ref{bkm:Ref491101554}--\ref{bkm:Ref491101556}).
+A: word: mba-ndí̲-bah-nanú̲n-e	 gloss: NEAR.FUT-SM1SG-OM2-lift-PFV.SBJV
+B: word: e-ryó	 gloss: AUG-DEM.III5
+C: word: kunu	 gloss: DEM.II17
+D: word: hanú	 gloss: DEM.II16
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 13:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): o-mu-ánce ka-rí ka-á̲-kiH-shuHw-í̲re nénja konó ___ sha-a-kiH-shuHw-í̲re nénja
+Gloss (with missing item): AUG-NP1-child NEG-be PST.IPFV-SM1-REFL-feel-STAT well but ___ INC-SM1-REFL-feel-STAT well
+The English translation of this sentence is:‘The child was not feeling well (earlier), but now she is feeling well.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: This temporal function of the series II demonstrative is also reflected in the use of the locative demonstrative of class 16, which can be used adverbially meaning ‘(right) now’, as in (\ref{bkm:Ref491101554}--\ref{bkm:Ref491101556}).
+A: word: hanó	 gloss: DEM.II16
+B: word: kunu	 gloss: DEM.II17
+C: word: bú-munya	 gloss: PP14-other
+D: word: hanú	 gloss: DEM.II16
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 14:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): hanja ___
+Gloss (with missing item): hand ___
+The English translation of this sentence is:‘Rebecca’s hand’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The form of the connective also changes depending on the nature of the dependent noun. When the dependent is a noun that cannot take an augment, the vowel of the connective stem is always /a/, in both Namibian and Zambian Fwe. This is the case with proper names, as in (\ref{bkm:Ref492119044}), and adverbs, as in (\ref{bkm:Ref491175346}). The vowel of the connective is also realized as a when used with a demonstrative pronoun, as in (\ref{bkm:Ref71190780}--\ref{bkm:Ref71190782}), as opposed to when the connective is used with an adnominal demonstrative, in which case the vowel of the connective is determined by the augment of the demonstrative; see (\ref{bkm:Ref491276208}--\ref{bkm:Ref491276210}).
+A: word: ri-angú	 gloss: PP5-POSS1SG
+B: word: ri-a=rebecca	 gloss: PP5-CON=Rebecca
+C: word: i-o=zyú-mwi	 gloss: PP9-CON=PP1-other
+D: word: kúnu	 gloss: DEM.II17
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 15:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): e-zi-ambo ___ N-zí-ci-koró ci-á=mayuni
+Gloss (with missing item): AUG-NP8-topic ___ COP-PP8-NP7-school PP7-CON=Mayuni
+The English translation of this sentence is:‘Today’s topic is Mayuni school.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The form of the connective also changes depending on the nature of the dependent noun. When the dependent is a noun that cannot take an augment, the vowel of the connective stem is always /a/, in both Namibian and Zambian Fwe. This is the case with proper names, as in (\ref{bkm:Ref492119044}), and adverbs, as in (\ref{bkm:Ref491175346}). The vowel of the connective is also realized as a when used with a demonstrative pronoun, as in (\ref{bkm:Ref71190780}--\ref{bkm:Ref71190782}), as opposed to when the connective is used with an adnominal demonstrative, in which case the vowel of the connective is determined by the augment of the demonstrative; see (\ref{bkm:Ref491276208}--\ref{bkm:Ref491276210}).
+A: word: ne=shúnu	 gloss: COM=today
+B: word: i-o=zyú-mwi	 gloss: PP9-CON=PP1-other
+C: word: zi-a=shúnu	 gloss: PP8-CON=today
+D: word: e-mi-ísi	 gloss: AUG-NP4-root
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 16:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ba-nyúmbu ne=mi-círa ___
+Gloss (with missing item): NP2-wildebeest COM=NP4-tail ___
+The English translation of this sentence is:‘The wildebeests and their tails.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The form of the connective also changes depending on the nature of the dependent noun. When the dependent is a noun that cannot take an augment, the vowel of the connective stem is always /a/, in both Namibian and Zambian Fwe. This is the case with proper names, as in (\ref{bkm:Ref492119044}), and adverbs, as in (\ref{bkm:Ref491175346}). The vowel of the connective is also realized as a when used with a demonstrative pronoun, as in (\ref{bkm:Ref71190780}--\ref{bkm:Ref71190782}), as opposed to when the connective is used with an adnominal demonstrative, in which case the vowel of the connective is determined by the augment of the demonstrative; see (\ref{bkm:Ref491276208}--\ref{bkm:Ref491276210}).
+A: word: u-á=bená	 gloss: PP3-CON=DEM.IV2
+B: word: ri-á=ba-njovu	 gloss: PP5\--CON=NP2-elephant
+C: word: i-á=bo	 gloss: PP4-CON=DEM.III2
+D: word: ba-o=kú-mu-nzi	 gloss: PP2-CON=NP17-NP3-village
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 17:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): e-ci-ntu ne=ci-ntu ci-kwesi o-bu-rótu ___ no=bu-bbí bu-a=có
+Gloss (with missing item): AUG-NP7-thing COM=NP7-thing SM7-have AUG-NP14-good ___ COM=AUG-NP14-bad PP14-CON=DEM.III7
+The English translation of this sentence is:‘Everything has its advantage and its disadvantage.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The form of the connective also changes depending on the nature of the dependent noun. When the dependent is a noun that cannot take an augment, the vowel of the connective stem is always /a/, in both Namibian and Zambian Fwe. This is the case with proper names, as in (\ref{bkm:Ref492119044}), and adverbs, as in (\ref{bkm:Ref491175346}). The vowel of the connective is also realized as a when used with a demonstrative pronoun, as in (\ref{bkm:Ref71190780}--\ref{bkm:Ref71190782}), as opposed to when the connective is used with an adnominal demonstrative, in which case the vowel of the connective is determined by the augment of the demonstrative; see (\ref{bkm:Ref491276208}--\ref{bkm:Ref491276210}).
+A: word: i-e=cí	 gloss: PP4-CON=DEM.I7
+B: word: no=bu-ató	 gloss: COM=NP14-canoe
+C: word: bu-a=có	 gloss: PP14-CON=DEM.III7
+D: word: zi-onshéː	 gloss: PP10-all
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 18:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): e-ci-ntu ne=ci-ntu ci-kwesi o-bu-rótu bu-a=có no=bu-bbí ___
+Gloss (with missing item): AUG-NP7-thing COM=NP7-thing SM7-have AUG-NP14-good PP14-CON=DEM.III7 COM=AUG-NP14-bad ___
+The English translation of this sentence is:‘Everything has its advantage and its disadvantage.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The form of the connective also changes depending on the nature of the dependent noun. When the dependent is a noun that cannot take an augment, the vowel of the connective stem is always /a/, in both Namibian and Zambian Fwe. This is the case with proper names, as in (\ref{bkm:Ref492119044}), and adverbs, as in (\ref{bkm:Ref491175346}). The vowel of the connective is also realized as a when used with a demonstrative pronoun, as in (\ref{bkm:Ref71190780}--\ref{bkm:Ref71190782}), as opposed to when the connective is used with an adnominal demonstrative, in which case the vowel of the connective is determined by the augment of the demonstrative; see (\ref{bkm:Ref491276208}--\ref{bkm:Ref491276210}).
+A: word: kú-∅-mbwá	 gloss: NP17-NP1a-dog
+B: word: i-e=cí	 gloss: PP4-CON=DEM.I7
+C: word: bu-a=có	 gloss: PP14-CON=DEM.III7
+D: word: no=bu-ató	 gloss: COM=NP14-canoe
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 19:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ i-e=cí ci-shamú N-mu-shamú
+Gloss (with missing item): ___ PP4-CON=DEM.I7 NP7-tree COP-NP3-medicine
+The English translation of this sentence is:‘The roots of this tree are medicine.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The form of the connective also changes depending on the nature of the dependent noun. When the dependent is a noun that cannot take an augment, the vowel of the connective stem is always /a/, in both Namibian and Zambian Fwe. This is the case with proper names, as in (\ref{bkm:Ref492119044}), and adverbs, as in (\ref{bkm:Ref491175346}). The vowel of the connective is also realized as a when used with a demonstrative pronoun, as in (\ref{bkm:Ref71190780}--\ref{bkm:Ref71190782}), as opposed to when the connective is used with an adnominal demonstrative, in which case the vowel of the connective is determined by the augment of the demonstrative; see (\ref{bkm:Ref491276208}--\ref{bkm:Ref491276210}).
+A: word: e-mi-ísi	 gloss: AUG-NP4-root
+B: word: e-n-tusó	 gloss: AUG-NP9-help
+C: word: e-mi-sumo	 gloss: AUG-NP4-pole
+D: word: kúnu	 gloss: DEM.II17
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 20:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): e-mi-ísi ___ ci-shamú N-mu-shamú
+Gloss (with missing item): AUG-NP4-root ___ NP7-tree COP-NP3-medicine
+The English translation of this sentence is:‘The roots of this tree are medicine.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The form of the connective also changes depending on the nature of the dependent noun. When the dependent is a noun that cannot take an augment, the vowel of the connective stem is always /a/, in both Namibian and Zambian Fwe. This is the case with proper names, as in (\ref{bkm:Ref492119044}), and adverbs, as in (\ref{bkm:Ref491175346}). The vowel of the connective is also realized as a when used with a demonstrative pronoun, as in (\ref{bkm:Ref71190780}--\ref{bkm:Ref71190782}), as opposed to when the connective is used with an adnominal demonstrative, in which case the vowel of the connective is determined by the augment of the demonstrative; see (\ref{bkm:Ref491276208}--\ref{bkm:Ref491276210}).
+A: word: zi-o=mú-ru-wa	 gloss: PP8-CON=NP18-NP11-field
+B: word: i-e=cí	 gloss: PP4-CON=DEM.I7
+C: word: i-á=bo	 gloss: PP4-CON=DEM.III2
+D: word: u-e=ci-sizaní	 gloss: PP1-CON=NP7-female
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 21:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): e-mi-ísi i-e=cí ___ N-mu-shamú
+Gloss (with missing item): AUG-NP4-root PP4-CON=DEM.I7 ___ COP-NP3-medicine
+The English translation of this sentence is:‘The roots of this tree are medicine.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The form of the connective also changes depending on the nature of the dependent noun. When the dependent is a noun that cannot take an augment, the vowel of the connective stem is always /a/, in both Namibian and Zambian Fwe. This is the case with proper names, as in (\ref{bkm:Ref492119044}), and adverbs, as in (\ref{bkm:Ref491175346}). The vowel of the connective is also realized as a when used with a demonstrative pronoun, as in (\ref{bkm:Ref71190780}--\ref{bkm:Ref71190782}), as opposed to when the connective is used with an adnominal demonstrative, in which case the vowel of the connective is determined by the augment of the demonstrative; see (\ref{bkm:Ref491276208}--\ref{bkm:Ref491276210}).
+A: word: ba-o=kú-mu-nzi	 gloss: PP2-CON=NP17-NP3-village
+B: word: zi-kúni	 gloss: NP8-tree
+C: word: ci-shamú	 gloss: NP7-tree
+D: word: zi-shamú	 gloss: NP8-tree
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 22:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ba-ntu ___
+Gloss (with missing item): NP2-person ___
+The English translation of this sentence is:‘the people of the village’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another group of nouns that never take an augment are nouns marked with a locative prefix of class 16, 17 or 18. With these nouns, however, the vowel of the connective is not consistently realized as a-, but as o- with class 17 and 18, as in (\ref{bkm:Ref99548320}--\ref{bkm:Ref75251506}), and as a- with class 16, as in (\ref{bkm:Ref75251507}). These forms resemble the augment, which is determined by vowel harmony with the nominal prefix, and therefore the expected augment with class 16 would be a-, and o- with class 17 and 18, even though these nouns may never take an augment.
+A: word: o-bu-háro	 gloss: AUG-NP14-life
+B: word: kú-mu-nzi	 gloss: NP17-NP3-village
+C: word: ba-o=mú-mu-nzi	 gloss: PP2-CON=NP18-NP3-village
+D: word: ba-o=kú-mu-nzi	 gloss: PP2-CON=NP17-NP3-village
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 23:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zi-ryó ___
+Gloss (with missing item): NP8-food ___
+The English translation of this sentence is:‘the crops of the field’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another group of nouns that never take an augment are nouns marked with a locative prefix of class 16, 17 or 18. With these nouns, however, the vowel of the connective is not consistently realized as a-, but as o- with class 17 and 18, as in (\ref{bkm:Ref99548320}--\ref{bkm:Ref75251506}), and as a- with class 16, as in (\ref{bkm:Ref75251507}). These forms resemble the augment, which is determined by vowel harmony with the nominal prefix, and therefore the expected augment with class 16 would be a-, and o- with class 17 and 18, even though these nouns may never take an augment.
+A: word: ku-ru-wa	 gloss: NP17-NP11-field
+B: word: zi-o=mú-ru-wa	 gloss: PP8-CON=NP18-NP11-field
+C: word: ená	 gloss: DEM.IV6
+D: word: ri-o=mú-bu-sunso	 gloss: PP5-CON=NP18-NP14-relish
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 24:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zi-ryó ___
+Gloss (with missing item): NP8-food ___
+The English translation of this sentence is:‘the food at the party’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Another group of nouns that never take an augment are nouns marked with a locative prefix of class 16, 17 or 18. With these nouns, however, the vowel of the connective is not consistently realized as a-, but as o- with class 17 and 18, as in (\ref{bkm:Ref99548320}--\ref{bkm:Ref75251506}), and as a- with class 16, as in (\ref{bkm:Ref75251507}). These forms resemble the augment, which is determined by vowel harmony with the nominal prefix, and therefore the expected augment with class 16 would be a-, and o- with class 17 and 18, even though these nouns may never take an augment.
+A: word: há-mu-kití	 gloss: NP16-NP3-party
+B: word: ha-mu-kití	 gloss: NP16-NP3-party
+C: word: kú-ba-ntu	 gloss: NP17-NP2-person
+D: word: zi-a=há-mu-kití	 gloss: PP8-CON=NP16-NP3-party
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 25:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ i-e=cí ci-shamú N-mu-shamú
+Gloss (with missing item): ___ PP4-CON=DEM.I7 NP7-tree COP-NP3-medicine
+The English translation of this sentence is:‘The roots of this tree are medicine.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Syntactically, the connective clitic behaves like a separate word. When combined with nouns that have a pre-nominal modifier, such as a demonstrative, as in (\ref{bkm:Ref491276208}--\ref{bkm:Ref491276210}), the connective clitic is marked on the demonstrative, not the noun itself. This shows that the connective behaves like a phrasal clitic, rather than a nominal affix.
+A: word: e-mi-sumo	 gloss: AUG-NP4-pole
+B: word: e-n-tusó	 gloss: AUG-NP9-help
+C: word: kúnu	 gloss: DEM.II17
+D: word: e-mi-ísi	 gloss: AUG-NP4-root
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 26:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): e-mi-ísi ___ ci-shamú N-mu-shamú
+Gloss (with missing item): AUG-NP4-root ___ NP7-tree COP-NP3-medicine
+The English translation of this sentence is:‘The roots of this tree are medicine.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Syntactically, the connective clitic behaves like a separate word. When combined with nouns that have a pre-nominal modifier, such as a demonstrative, as in (\ref{bkm:Ref491276208}--\ref{bkm:Ref491276210}), the connective clitic is marked on the demonstrative, not the noun itself. This shows that the connective behaves like a phrasal clitic, rather than a nominal affix.
+A: word: o-bu-háro	 gloss: AUG-NP14-life
+B: word: i-e=cí	 gloss: PP4-CON=DEM.I7
+C: word: i-á=bo	 gloss: PP4-CON=DEM.III2
+D: word: u-e=ci-sizaní	 gloss: PP1-CON=NP7-female
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 27:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): e-mi-ísi i-e=cí ___ N-mu-shamú
+Gloss (with missing item): AUG-NP4-root PP4-CON=DEM.I7 ___ COP-NP3-medicine
+The English translation of this sentence is:‘The roots of this tree are medicine.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Syntactically, the connective clitic behaves like a separate word. When combined with nouns that have a pre-nominal modifier, such as a demonstrative, as in (\ref{bkm:Ref491276208}--\ref{bkm:Ref491276210}), the connective clitic is marked on the demonstrative, not the noun itself. This shows that the connective behaves like a phrasal clitic, rather than a nominal affix.
+A: word: zi-shamú	 gloss: NP8-tree
+B: word: mu-enshéː	 gloss: PP2PL-all
+C: word: zi-kúni	 gloss: NP8-tree
+D: word: ci-shamú	 gloss: NP7-tree
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 28:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ zi-onshéː na-zí̲-a-ur-is-iw-a
+Gloss (with missing item): ___ PP10-all REM-SM10-PST-buy-CAUS-PASS-FV
+The English translation of this sentence is:‘All the cattle have been sold.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The quantifier onshéː is used with the meaning ‘all, every, each, any’. It is typically used after the noun it modifies, as in (\ref{bkm:Ref99549023}), but may also be used before the noun, as in (\ref{bkm:Ref99549040}). The pronominal prefix used with this quantifier is realized as low-toned.
+A: word: ndi-n-ŋombe	 gloss: COP-NP9-cow
+B: word: e-n-ŋombe	 gloss: AUG-NP10-cow
+C: word: e-n-ŋombé	 gloss: AUG-NP10-cow
+D: word: kú-∅-mvúra	 gloss: NP17-NP1a-rain
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 29:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): e-N-ŋombe ___ na-zí̲-a-ur-is-iw-a
+Gloss (with missing item): AUG-NP10-cow ___ REM-SM10-PST-buy-CAUS-PASS-FV
+The English translation of this sentence is:‘All the cattle have been sold.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The quantifier onshéː is used with the meaning ‘all, every, each, any’. It is typically used after the noun it modifies, as in (\ref{bkm:Ref99549023}), but may also be used before the noun, as in (\ref{bkm:Ref99549040}). The pronominal prefix used with this quantifier is realized as low-toned.
+A: word: ci-shamú	 gloss: NP7-tree
+B: word: i-onshéː	 gloss: PP9-all
+C: word: zi-onshéː	 gloss: PP10-all
+D: word: mu-ru-shará	 gloss: NP18-NP11-back
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 30:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): háiba ___ mu-berek-á̲
+Gloss (with missing item): if ___ SM2PL-work-FV
+The English translation of this sentence is:‘If you all are working…’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The quantifier onshéː may also be used with pronominal prefixes of the first and second person, with an interpretation of ‘all of us/you; us/you together’, as in (\ref{bkm:Ref99549290}--\ref{bkm:Ref99549291}).
+A: word: shunu	 gloss: today
+B: word: mu-enshéː	 gloss: PP2PL-all
+C: word: rí-ryo	 gloss: EMPH-DEM.III5
+D: word: tu-enshéː	 gloss: PP1PL-all
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 31:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): na-dam-w-á̲ ___ bá-ngíː
+Gloss (with missing item): SM1.PST-beat-PASS-FV ___ PP2-many
+The English translation of this sentence is:‘S/he was beaten by many people.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The quantifier ngíː ‘many; other’ is typically used after the noun it modifies, as in (\ref{bkm:Ref99549339}--\ref{bkm:Ref99549360}), though a prenominal position is also possible, as in (\ref{bkm:Ref99549341}).
+A: word: n-ba-ntu	 gloss: COP-NP2-person
+B: word: ba-ntú	 gloss: NP2-person
+C: word: kú-ba-ntu	 gloss: NP17-NP2-person
+D: word: kúnu	 gloss: DEM.II17
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 32:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): na-dam-w-á̲ kú-ba-ntu ___
+Gloss (with missing item): SM1.PST-beat-PASS-FV NP17-NP2-person ___
+The English translation of this sentence is:‘S/he was beaten by many people.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The quantifier ngíː ‘many; other’ is typically used after the noun it modifies, as in (\ref{bkm:Ref99549339}--\ref{bkm:Ref99549360}), though a prenominal position is also possible, as in (\ref{bkm:Ref99549341}).
+A: word: zí-ngíː	 gloss: PP8-many
+B: word: ci-shamú	 gloss: NP7-tree
+C: word: a-aku-shí-ŋor-a	 gloss: SM1-NPST.IPFV-PER-write-FV
+D: word: bá-ngíː	 gloss: PP2-many
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 33:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ e-N-búka bá̲-bar-á̲ bo
+Gloss (with missing item): ___ AUG-NP10-book SM2.REL-read-FV DEM.III2
+The English translation of this sentence is:‘S/he reads many books.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The quantifier ngíː ‘many; other’ is typically used after the noun it modifies, as in (\ref{bkm:Ref99549339}--\ref{bkm:Ref99549360}), though a prenominal position is also possible, as in (\ref{bkm:Ref99549341}).
+A: word: zi-a=shúnu	 gloss: PP8-CON=today
+B: word: zí-ngiː	 gloss: PP10-many
+C: word: zí-ngíː	 gloss: PP8-many
+D: word: ka-bá̲-dama-dam-á̲	 gloss: PST.IPFV-SM2-PL2-beat-FV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 34:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zí-ngiː ___ bá̲-bar-á̲ bo
+Gloss (with missing item): PP10-many ___ SM2.REL-read-FV DEM.III2
+The English translation of this sentence is:‘S/he reads many books.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The quantifier ngíː ‘many; other’ is typically used after the noun it modifies, as in (\ref{bkm:Ref99549339}--\ref{bkm:Ref99549360}), though a prenominal position is also possible, as in (\ref{bkm:Ref99549341}).
+A: word: e-n-búka	 gloss: AUG-NP10-book
+B: word: e-n-buká	 gloss: AUG-NP9-book
+C: word: zí-ngiː	 gloss: PP10-many
+D: word: o-n-davú	 gloss: AUG-NP1a-lion
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 35:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ mú-kwamé
+Gloss (with missing item): ___ NP1-man
+The English translation of this sentence is:‘a certain man’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The quantifier mwi can be realized as mwi, mwinya, or munya, without observable changes in meaning. This quantifier is used with the meaning ‘some, other, another, a certain’. It may be used before the noun, as in (\ref{bkm:Ref99549401}), or after it, as in (\ref{bkm:Ref99549411}).
+A: word: e-n-búka	 gloss: AUG-NP10-book
+B: word: rí-mwi	 gloss: PP5-other
+C: word: i-o=zyú-mwi	 gloss: PP9-CON=PP1-other
+D: word: zyú-mwi	 gloss: PP1-other
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 36:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ku-aazyá ku-mwí o-ko ne-mú̲-ka-wá̲n-e ___ bú-munya
+Gloss (with missing item): SM17-be_not PP17-other AUG-DEM.III17 REM-SM2PL-DIST-find-PFV.SBJV ___ PP14-other
+The English translation of this sentence is:‘There is nowhere where you can find another life.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The quantifier mwi can be realized as mwi, mwinya, or munya, without observable changes in meaning. This quantifier is used with the meaning ‘some, other, another, a certain’. It may be used before the noun, as in (\ref{bkm:Ref99549401}), or after it, as in (\ref{bkm:Ref99549411}).
+A: word: bu-mí	 gloss: NP14-life
+B: word: sí-o-bu-huba	 gloss: INC-AUG-NP14-easy
+C: word: o-bu-háro	 gloss: AUG-NP14-life
+D: word: ci-shamú	 gloss: NP7-tree
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 37:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ku-aazyá ku-mwí o-ko ne-mú̲-ka-wá̲n-e o-bu-háro ___
+Gloss (with missing item): SM17-be_not PP17-other AUG-DEM.III17 REM-SM2PL-DIST-find-PFV.SBJV AUG-NP14-life ___
+The English translation of this sentence is:‘There is nowhere where you can find another life.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The quantifier mwi can be realized as mwi, mwinya, or munya, without observable changes in meaning. This quantifier is used with the meaning ‘some, other, another, a certain’. It may be used before the noun, as in (\ref{bkm:Ref99549401}), or after it, as in (\ref{bkm:Ref99549411}).
+A: word: zi-a=há-mu-kití	 gloss: PP8-CON=NP16-NP3-party
+B: word: há-munya	 gloss: PP16-other
+C: word: bú-munya	 gloss: PP14-other
+D: word: o-∅-mvúra	 gloss: AUG-NP1a-rain
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 38:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ka-zí̲-y-á̲ng-a kwa-rizáuli há-munya ka-tú̲-zw-á̲ng-a kwa-makanga tu-y-á̲ kwa-rinyánti
+Gloss (with missing item): ___ PST.IPFV-SM10-go-HAB-FV NP17-Lizauli PP16-other PST.IPFV-SM1PL-come_out-HAB-FV NP17-Makanga SM1PL-go-FV NP17-Linyanti
+The English translation of this sentence is:‘Sometimes they would go to Lizauli. Sometimes, we would go from Makanga to Linyanti.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Used with a pronominal prefix of class 16, as in (\ref{bkm:Ref99549499}), this quantifier may have a temporal interpretation, e.g. ‘sometimes’.
+A: word: á-munya	 gloss: PP6-other
+B: word: há-munya	 gloss: PP16-other
+C: word: ku-mwí	 gloss: PP17-other
+D: word: e-ryó	 gloss: AUG-DEM.III5
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 39:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): há-munya ka-zí̲-y-á̲ng-a kwa-rizáuli ___ ka-tú̲-zw-á̲ng-a kwa-makanga tu-y-á̲ kwa-rinyánti
+Gloss (with missing item): PP16-other PST.IPFV-SM10-go-HAB-FV NP17-Lizauli ___ PST.IPFV-SM1PL-come_out-HAB-FV NP17-Makanga SM1PL-go-FV NP17-Linyanti
+The English translation of this sentence is:‘Sometimes they would go to Lizauli. Sometimes, we would go from Makanga to Linyanti.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Used with a pronominal prefix of class 16, as in (\ref{bkm:Ref99549499}), this quantifier may have a temporal interpretation, e.g. ‘sometimes’.
+A: word: á-munya	 gloss: PP6-other
+B: word: e-zí	 gloss: AUG-DEM.I8
+C: word: ku-mwí	 gloss: PP17-other
+D: word: há-munya	 gloss: PP16-other
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 40:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ba-rwá̲Hr-a ka-mporwe
+Gloss (with missing item): ___ SM2-be_ill-FV NP12-diarrhea
+The English translation of this sentence is:‘They all suffer from diarrhea.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Like other nominal modifiers, quantifiers may also be used nominally, replacing instead of modifying a noun. In this case, the quantifier takes the pronominal prefix that agrees in noun class with the noun it replaces or refers to, e.g. class 2 in (\ref{bkm:Ref496809163}) to indicate plural human referents, and class 1 in (\ref{bkm:Ref496809191}) to indicate a single human referent.
+A: word: ba-onshéː	 gloss: PP2-all
+B: word: mu-enshéː	 gloss: PP2PL-all
+C: word: z-onshéː	 gloss: PP8-all
+D: word: hanú	 gloss: DEM.II16
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 41:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ba-kéntu ba-o=biré ___ á-ku-zár-a o-mu-ntu zyú-mwi á-ku-zár-a e-∅-ŋwarará
+Gloss (with missing item): NP2-woman PP2-CON=two ___ PP1-INF-give_birth-FV AUG-NP1-person PP1-other PP1-INF-give_birth-FV AUG-NP5-crow
+The English translation of this sentence is:‘Two women. One gave birth to a human being, the other one gave birth to a crow.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Like other nominal modifiers, quantifiers may also be used nominally, replacing instead of modifying a noun. In this case, the quantifier takes the pronominal prefix that agrees in noun class with the noun it replaces or refers to, e.g. class 2 in (\ref{bkm:Ref496809163}) to indicate plural human referents, and class 1 in (\ref{bkm:Ref496809191}) to indicate a single human referent.
+A: word: i-o=zyú-mwi	 gloss: PP9-CON=PP1-other
+B: word: e-mi-ísi	 gloss: AUG-NP4-root
+C: word: zyú-mwi	 gloss: PP1-other
+D: word: rí-mwi	 gloss: PP5-other
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 42:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ba-kéntu ba-o=biré zyú-mwi á-ku-zár-a o-mu-ntu ___ á-ku-zár-a e-∅-ŋwarará
+Gloss (with missing item): NP2-woman PP2-CON=two PP1-other PP1-INF-give_birth-FV AUG-NP1-person ___ PP1-INF-give_birth-FV AUG-NP5-crow
+The English translation of this sentence is:‘Two women. One gave birth to a human being, the other one gave birth to a crow.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Like other nominal modifiers, quantifiers may also be used nominally, replacing instead of modifying a noun. In this case, the quantifier takes the pronominal prefix that agrees in noun class with the noun it replaces or refers to, e.g. class 2 in (\ref{bkm:Ref496809163}) to indicate plural human referents, and class 1 in (\ref{bkm:Ref496809191}) to indicate a single human referent.
+A: word: e-rí	 gloss: AUG-DEM.I5
+B: word: i-o=zyú-mwi	 gloss: PP9-CON=PP1-other
+C: word: rí-mwi	 gloss: PP5-other
+D: word: zyú-mwi	 gloss: PP1-other
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+

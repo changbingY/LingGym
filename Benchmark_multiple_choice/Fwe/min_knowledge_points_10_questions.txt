@@ -1,0 +1,13 @@
+Question 0:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ba-mu-berek-er-á̲ okuteye ___
+Gloss (with missing item): SM2-OM1-work-FV that ___
+The English translation of this sentence is:‘They work for him, so that he becomes rich.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Subjunctives are also used in subordinate clauses, where they can carry the same functions as subjunctives in main clauses, or can be used to express the desired or intended consequence of the event expressed in the main clause, as in (\ref{bkm:Ref99103166}--\ref{bkm:Ref99103168}).
+A: word: e-∅-zyúba	 gloss: AUG-NP5-sun
+B: word: a-é̲nd-e	 gloss: SM1-go-PFV.SBJV
+C: word: na-fum-í̲	 gloss: SM1.PST-become_rich-NPST.PFV
+D: word: a-fum-é̲	 gloss: SM1-become_rich-PFV.SBJV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+

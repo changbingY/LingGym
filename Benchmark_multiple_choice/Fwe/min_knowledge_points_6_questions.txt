@@ -1,0 +1,169 @@
+Question 0:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): na-dam-w-á̲ ___ bá-ngíː
+Gloss (with missing item): SM1.PST-beat-PASS-FV ___ PP2-many
+The English translation of this sentence is:‘S/he was beaten by many people.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The use of the passive removes the agent as a core argument, but the agent can still be expressed as a peripheral participant by use of the class 17 nominal prefix ku-, as in (\ref{bkm:Ref71206307}--\ref{bkm:Ref71206308}). If the agent marked with ku- is a first or second person, the possessive stem is used, as shown with the first person singular possessive kwángù in (\ref{bkm:Ref71206356}).
+A: word: ba-ntú	 gloss: NP2-person
+B: word: ndi-hítur-ir-e	 gloss: OM1SG-carry-APPL-PFV.SBJV
+C: word: kú-ba-ntu	 gloss: NP17-NP2-person
+D: word: n-ba-ntu	 gloss: COP-NP2-person
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 1:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): na-dam-w-á̲ kú-ba-ntu ___
+Gloss (with missing item): SM1.PST-beat-PASS-FV NP17-NP2-person ___
+The English translation of this sentence is:‘S/he was beaten by many people.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The use of the passive removes the agent as a core argument, but the agent can still be expressed as a peripheral participant by use of the class 17 nominal prefix ku-, as in (\ref{bkm:Ref71206307}--\ref{bkm:Ref71206308}). If the agent marked with ku- is a first or second person, the possessive stem is used, as shown with the first person singular possessive kwángù in (\ref{bkm:Ref71206356}).
+A: word: bá-ngíː	 gloss: PP2-many
+B: word: zí-ngíː	 gloss: PP8-many
+C: word: ka-a-ndi-sí-i	 gloss: NEG-SM1-OM1SG-leave-NEG
+D: word: ∅-kwá-makánga	 gloss: COP-NP17-Makanga
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 2:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): simatá na-dam-í̲w-a ___
+Gloss (with missing item): Simata SM1.PST-beat-PASS-FV ___
+The English translation of this sentence is:‘Simata was beaten by me.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The use of the passive removes the agent as a core argument, but the agent can still be expressed as a peripheral participant by use of the class 17 nominal prefix ku-, as in (\ref{bkm:Ref71206307}--\ref{bkm:Ref71206308}). If the agent marked with ku- is a first or second person, the possessive stem is used, as shown with the first person singular possessive kwángù in (\ref{bkm:Ref71206356}).
+A: word: mu-u-etú	 gloss: NP18-PP3-POSS1PL
+B: word: kw-angú	 gloss: NP17-POSS1SG
+C: word: i-angú	 gloss: PP9-POSS1SG
+D: word: o-mu-ráːriro	 gloss: AUG-NP3-dinner
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 3:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): simatá na-shúm-iw-a ___
+Gloss (with missing item): Simata SM1.PST-bite-PASS-FV ___
+The English translation of this sentence is:‘Simata was bitten by a dog.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The agent noun may also be used without the prefix ku-: both possibilities are illustrated in (\ref{bkm:Ref494444592}--\ref{bkm:Ref74913797}).
+A: word: ndu-∅-mbwá	 gloss: COP1a-NP1a-dog
+B: word: ndi-a-mu-káːn-in-i	 gloss: SM1SG-PST-OM1-refuse-APPL-NPST.PFV
+C: word: o-∅-mbwá	 gloss: AUG-NP1a-dog
+D: word: ku-∅-mbwá	 gloss: NP17-NP1a-dog
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 4:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): simatá na-shúm-iw-a ___
+Gloss (with missing item): Simata SM1.PST-bite-PASS-FV ___
+The English translation of this sentence is:‘Simata was bitten by a dog.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The agent noun may also be used without the prefix ku-: both possibilities are illustrated in (\ref{bkm:Ref494444592}--\ref{bkm:Ref74913797}).
+A: word: ndu-∅-mbwá	 gloss: COP1a-NP1a-dog
+B: word: bá-ngíː	 gloss: PP2-many
+C: word: a-ba-mbwá	 gloss: AUG-NP2-dog
+D: word: o-∅-mbwá	 gloss: AUG-NP1a-dog
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 5:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ iye ndi-yabur-é̲ zi-fúha
+Gloss (with missing item): ___ that SM1SG-pick-PFV.SBJV NP8-bone
+The English translation of this sentence is:‘He doesn’t let me pick the bones.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The other end of the causative continuum is represented by indirect causation, where the causer and the causee are both agentive participants, and there is no spatio-temporal overlap between the actions that they perform. Rather, the causer may act upon the causee by verbal command, or through some other, indirect means. In Fwe, indirect causation is mostly expressed through periphrastic constructions using lexical verbs such as rêːtà ‘bring’, as in (\ref{bkm:Ref488854415}--\ref{bkm:Ref488854449}), or sîyà ‘leave’, as in (\ref{bkm:Ref488854450}).
+A: word: ba-ntu	 gloss: NP2-person
+B: word: ka-ndi-é̲nd-i	 gloss: NEG-SM1SG-go-NEG
+C: word: ka-a-ndi-sí-i	 gloss: NEG-SM1-OM1SG-leave-NEG
+D: word: na-ndi-súmwin-i	 gloss: SM1.PST-OM1SG-tell-NPST.PFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 6:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ku-híb-ir-a ___ ma-sheréŋi N-bu-bbí
+Gloss (with missing item): INF-steal-APPL-FV ___ NP6-money COP-NP14-bad
+The English translation of this sentence is:‘Stealing money from people is bad.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The applicative can be used to express an action performed for the benefit of someone, as in (\ref{bkm:Ref485989591}), where the beneficiary is òmùkéntù wàkwé ‘his wife’, and in (\ref{bkm:Ref488922302}), where the beneficiary is àbânè ‘her children’. The applicative can also be used with a malefactive meaning, i.e. an action performed to the detriment of the recipient, e.g. the first person singular in (\ref{bkm:Ref488921351}), or bàntù ‘people’ in (\ref{bkm:Ref445887391}).
+A: word: ndi-hítur-ir-e	 gloss: OM1SG-carry-APPL-PFV.SBJV
+B: word: n-ba-ntu	 gloss: COP-NP2-person
+C: word: kú-ba-ntu	 gloss: NP17-NP2-person
+D: word: ba-ntu	 gloss: NP2-person
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 7:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ ∅-buká e-í kwa-obet
+Gloss (with missing item): ___ NP9-book AUG-DEM.I9 NP17-Orbet
+The English translation of this sentence is:‘Carry this book for me to Orbet.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Applicatives can have a substitutive function, where the applied object refers to someone on whose behalf the action is performed, as in (\ref{bkm:Ref71208035}--\ref{bkm:Ref71208036}).
+A: word: ba-tehk-erer-á̲	 gloss: SM2-fetch-INT-FV
+B: word: ndi-hí̲nd-e	 gloss: SM1SG-take-PFV.SBJV
+C: word: mu-mu-twá̲r-e	 gloss: SM2PL-OM1-carry-PFV.SBJV
+D: word: ndi-hítur-ir-e	 gloss: OM1SG-carry-APPL-PFV.SBJV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 8:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:‘I’ve refused on his behalf.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Applicatives can have a substitutive function, where the applied object refers to someone on whose behalf the action is performed, as in (\ref{bkm:Ref71208035}--\ref{bkm:Ref71208036}).
+A: word: ndi-a-zí-hind-i	 gloss: SM1SG-PST-OM10-take-NPST.PFV
+B: word: ndi-a-mu-káːn-in-i	 gloss: SM1SG-PST-OM1-refuse-APPL-NPST.PFV
+C: word: ba-ntu	 gloss: NP2-person
+D: word: ndi-a-mu-ku-dam-ín-i	 gloss: SM1SG-PST-OM1-OM2SG-beat-APPL-NPST.PFV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 9:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mbo-ndí̲-sanz-ir-é̲ ___ tu-súba
+Gloss (with missing item): NEAR.FUT-SM1SG-wash-APPL-PFV.SBJV ___ NP13-dish
+The English translation of this sentence is:‘I will wash the dishes for dinner.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The applied object can also be interpreted as the reason of the action, as in (\ref{bkm:Ref71208055}--\ref{bkm:Ref75170222}).
+A: word: o-mu-ráːriro	 gloss: AUG-NP3-dinner
+B: word: o-mu-réː	 gloss: AUG-NP3-long
+C: word: e-zi-ryó	 gloss: AUG-NP8-food
+D: word: kw-angú	 gloss: NP17-POSS1SG
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 10:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): e-rí ∅-sozú ___ bu-ryo
+Gloss (with missing item): AUG-DEM.I5 NP5-grass ___ NP14-only
+The English translation of this sentence is:‘This grass burns easily.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The applicative is combined with the reflexive prefix rí-/kí- and the adverb buryo ‘just, only’, to express a useless or purposeless action, as in (\ref{bkm:Ref99962252}--\ref{bkm:Ref99962254}).
+A: word: ri-rih-tuhmbuk-ir-á	 gloss: SM5-REFL-burn-APPL-FV
+B: word: o-mu-ráːriro	 gloss: AUG-NP3-dinner
+C: word: ci-rih-bor-er-á̲	 gloss: SM7-REFL-rot-APPL-FV
+D: word: u-tuhmbuk-á̲	 gloss: SM3-burn-FV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 11:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): o-mu-ntu ___ bu-ryó
+Gloss (with missing item): AUG-NP1\textsuperscript{\-\-}-person ___ NP14-just
+The English translation of this sentence is:‘A person who just talks…’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The applicative is combined with the reflexive prefix rí-/kí- and the adverb buryo ‘just, only’, to express a useless or purposeless action, as in (\ref{bkm:Ref99962252}--\ref{bkm:Ref99962254}).
+A: word: kú-kar-a	 gloss: INF-sit-FV
+B: word: á̲-zyihmb-ir-á̲	 gloss: SM1.REL-sing-APPL-FV
+C: word: ndi-hítur-ir-e	 gloss: OM1SG-carry-APPL-PFV.SBJV
+D: word: á̲-rih-ambira-amb-ir-á̲	 gloss: SM1.REL-PL2-talk-APPL-FV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 12:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ba-ánce ___ ma-ínji
+Gloss (with missing item): NP2-child ___ NP6-water
+The English translation of this sentence is:‘Children [normally] fetch water.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The core meaning of the this suffix is intensity, as shown in(\ref{bkm:Ref71210866}--\ref{bkm:Ref71210867}), but it may also express a range of related meanings: completeness, as in (\ref{bkm:Ref71210899}--\ref{bkm:Ref71210902}); high frequency or habitual, as in (\ref{bkm:Ref71211104}--\ref{bkm:Ref71210990}); long duration, as in (\ref{bkm:Ref71211122}); or repetition, as in (\ref{bkm:Ref71211136}--\ref{bkm:Ref71211137}).
+A: word: ku-há-iw-a	 gloss: INF-give-PASS-FV
+B: word: o-mu-ráːriro	 gloss: AUG-NP3-dinner
+C: word: bá̲-tehk-á̲	 gloss: SM2.REL-fetch-FV
+D: word: ba-tehk-erer-á̲	 gloss: SM2-fetch-INT-FV
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
