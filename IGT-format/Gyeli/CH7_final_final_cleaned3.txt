@@ -1,0 +1,990 @@
+\ea \label{banana1}
+\gsrc lènjù \textbf{léè} nábèbè
+\gll le-njù léè nábèbè
+\gls le5-banana 5.COP red
+\glt `The banana is red.'
+
+\ex\label{banana2}
+\gsrc lènjù \textbf{lé} \textbf{bɛ́lɛ́} nábèbè
+\gll le-njù le-H bɛ̀-lɛ nábèbè
+\gls le5-banana 5-PRS be-NEG red
+\glt `The banana is not red.'
+
+\ex\label{banana3}
+\gsrc lènjù \textbf{lè} \textbf{bɛ́} nábèbè
+\gll le-njù le bɛ̀-H nábèbè
+\gls le5-banana 5.PST1 be-R red
+\glt `The banana was red.'
+
+\ea \label{IDcol}
+\gsrc bon mpɔ̀ngɔ̀ sílɛ̃́ɛ̃̀ nà \textbf{béè} bànáyɛ̂yɛ̂
+\gll bon mpɔ̀ngɔ̀ sílɛ̃́ɛ̃̀ nà béè ba-náyɛ̂yɛ̂
+\gls good[French] emptyset7.generation finish.COMPL CONJ 2PL.COP 2-bleached.out
+\glt `Good, the generation has been wiped out, and you are bleached out [white].'
+
+\ea \label{ID4}
+\gsrc bèsá bíndɛ̀ byɛ́sɛ̀ \textbf{béè} ndáà
+\gll be-sá bí-ndɛ̀ by-ɛ́sɛ̀ béè ndáà
+\gls be8-thing 8-ANA 8-all 8.COP also
+\glt `There are also all these things. [way of introducing a problem]'
+
+\ea \label{ID5}
+\gsrc lé yá wɛ́ nyɛ̂\REL} bá gyíbɔ́ ngàlɛ́\REL} \textbf{yíì}
+\gll lé yá wɛ-H nyɛ̂ ba-H gyíbɔ-H ngàlɛ́ yíì
+\gls emptyset7.tree db7:ATT 2SG-PRS see db2-PRS call-R emptyset7.tree.species 7.COP
+\glt `There is the tree that you see that they call {\itshape ngàlɛ́}.'
+
+\ea \label{ID6}
+\gsrc mɛ̀ɛ́ lémbòlɛ̀ ɛ́ mpù \textbf{báà} ndáwɔ̀ dé tù dénè
+\gll mɛ̀ɛ́ lémbo-lɛ̀ ɛ́ mpù báà ndáwɔ̀ dé tù dénè
+\gls 1SG.PRS.NEG know-NEG LOC like.this 2.COP emptyset9.house LOC inside today[Bulu]
+\glt `I don't know how they are in the house today.'
+
+\ea \label{ID7}
+\gsrc \textbf{yíì} mpà yɔ̃́ɔ̃̀ wɛ́ kã́ yɔ̂ dúmbɔ́
+\gll yíì mpà yɔ̃́ɔ̃̀ wɛ-H kã̂-H y-ɔ̂ dúmbɔ́
+\gls 7.COP good emptyset7.time 2SG-PRS wrap-R 7-OBJ emptyset7.package
+\glt `It is good when you wrap it in a (leaf) package.'
+
+%\ex\label{ID8}
+% \gsrc bèkɔ́kɔ́ bé nlô bé tè \textbf{béè} tè
+\gll % be-kɔ́kɔ́ bé nlô bé tè béè tè
+\gls % be8-hollowness 8:ATT ∅3.head 8:ATT there 8.COP there
+% \glt `The skulls there are there.'
+
+%\ex\label{ID9}
+% \gsrc \textbf{yáà} ndáà vâ
+\gll % yáà ndáà vâ
+\gls % 1PL.COP also here
+% \glt `We are also here.'
+
+%\ex\label{ID10}
+% \gsrc jínɔ̀ lɛ́ kwàdɔ̀ yã̂ \textbf{yíì} Ngòló
+\gll % j-ínɔ̀ lɛ́ kwàdɔ̀ y-ã̂ yíì ngòló
+\gls % le5-name 5:ATT emptyset7.village 7-POSS.1SG 7.COP emptyset3.PN
+% \glt `The name of my village is Ngolo.'
+
+%\ex\label{ID11}
+% \gsrc \textbf{béè} bùdì bá vúdũ̂ ndí bwáá gyɛ́sɔ́ mápè'è
+\gll % béè b-ùdì bá vúdũ̂ ndí bwáa-H gyɛ́sɔ-H H-ma-pè'è
+\gls % 2PL.COP ba2-person 2:ATT one but 2PL-PRS search-R OBJ.LINK-ma6-wisdom
+% \glt `You (pl.) are the same people, but you are looking for wisdom.'
+
+%\ex\label{LocPred}
+% \gsrc mbúmbù lèbvúú \textbf{léè} nlémò dé
+\gll % mbúmbù le-bvúú léè nlémò dé
+\gls % N1.namesake le5-anger 5.COP ∅3.heart LOC
+% \glt `The namesake is anger in the heart (he is angry).'
+
+\ea\label{we1a}
+\gsrc ntɛ́mbɔ́ wã̂ \textbf{wɛ́} nû
+\gll ntɛ́mbɔ́ w-ã̂ wɛ́ nû
+\gls emptyset1.younger.opposite.sex.sibling 1-POSS.1SG ID 1.DEM.PROX
+\glt `This is my younger brother/sister.'
+
+\ea \label{we2}
+\gsrc mɛ́ bvú nâ bàmó tè yɔ́ɔ̀ \textbf{wɛ́} yî
+\gll mɛ-H bvû-H nâ bàmó tè y-ɔ́ɔ̀ wɛ́ yî
+\gls 1SG-PRS think-R COMP emptyset7.scar there 7-OBJ ID 7.DEM.PROX
+\glt `I think, the scar there is this.'
+
+\ea \label{we3}
+\gsrc kàndá \textbf{wɛ́} ndɛ̀
+\gll kàndá wɛ́ ndɛ̀
+\gls ∅7.proverb ID ANA
+\glt `The story is this.'
+
+\ea \label{we4}
+\gsrc bã̂ yã̂ màfwálá \textbf{wɛ́} yíndɛ̀
+\gll bã̂ y-ã̂ ma-fwálá wɛ́ yí-ndɛ̀
+\gls emptyset7.word 7-POSS.1SG ma6-end ID 7-ANA
+\glt `This is my last word.'
+
+\ea \label{we5}
+\gsrc nyɛ̀ \textbf{wɛ́} (nû)
+\gll nyɛ wɛ́ (nû)
+\gls 1.SBJ ID (1.DEM.PROX)
+\glt `This is him.'
+
+\ea \label{we6}
+\gsrc mhm mɛ̀ Nzìwù \textbf{wɛ̂}
+\gll mhm mɛ Nzìwù wɛ́
+\gls EXCL 1SG.SBJ emptyset1.PN ID
+\glt `Mhm, I'm Nziwu.'
+
+\ea \label{we7}
+\gsrc ntɛ́mbɔ̀ wà mùdã̂ wã̂ nyɛ̀ \textbf{wɛ́} bùdɛ́ mwánɔ̀ wà mùdã̂ mvúdũ̂\REL}
+\gll ntɛ́mbɔ̀ wà m-ùdã̂ w-ã̂ nyɛ wɛ́ bùdɛ-H m-wánɔ̀ wà m-ùdã̂ m-vúdũ̂
+\gls emptyset1.younger.sibling 1:ATT N1-woman 1-POSS.1SG 1 ID dbhave-R N1-child 1:ATT N1-woman 1-one
+\glt `It's my wife's younger sister who has one girl.'
+
+\ea \label{we7x}
+\gsrc núù mwánɔ̀ wã̂
+\gll núù m-wánɔ̀ wã̂
+\gls 1.COP N1-child 1-1SG.POSS
+\glt `S/he is my child.'
+
+\ea \label{beEMPH1}
+\gsrc lûngà yá sã́ wã̂ yɔ̂ \textbf{bɛ́} yíí
+\gll lûngà yá sã́ w-ã̂ y-ɔ̂ bɛ̀-H yíí
+\gls emptyset7.grave 7:ATT emptyset1.father 1-POSS.1SG 7-OBJ be-R 7.DEM.DIST
+\glt `My father's grave is over there.'
+
+\ex \label{beEMPH2}
+\gsrc ngùndyá tè nyɔ̂ \textbf{bɛ́} nyî
+\gll ngùndyá tè nyɔ̂ bɛ̀-H nyî
+\gls ∅9.raffia there 9.OBJ be-R 9.DEM.PROX
+\glt `That is raffia there.'
+
+\ea \label{becoord}
+\gsrc bon pílì yí báàlá nà \textbf{bɛ̀} ndɛ̀náà ndɛ̀náà ndáà ná
+\gll bon pílì yi-H báàla-H nà bɛ̀ ndɛ̀náà ndɛ̀náà ndáà ná
+\gls good[French] when 7-PRS repeat-R COM be like.that like.that also still
+\glt `So, when it continues and is still like this and like that. . .'
+
+\ea \label{koobe}
+\gsrc nà bí bɛ́sɛ̀ kɔ́ɔ̀ kùrã̂ \textbf{bɛ̀} dé tù
+\gll nà bí b-ɛ́sɛ̀ kɔ́ɔ̀ kùrã̂ bɛ̀ dé tù
+\gls COM 1PL.SBJ 2-all still emptyset7.electricity be LOC inside
+\glt `For all of us, there ought to be electricity inside [the houses].'
+
+\ea \label{bepst1a}
+\gsrc yɔ́ɔ̀ ngã̀ nû à \textbf{bɛ́} ngã̀
+\gll yɔ́ɔ̀ ngã̀ nû a bɛ̀-H ngã̂
+\gls so ∅1.healer 1.DEM.PROX 1.PST1 be-R ∅1.healer
+\glt `So, this healer was a healer.'
+
+\ex\label{bepst1b}
+\gsrc mà \textbf{bɛ́} vɛ́
+\gll ma bɛ̀-H vɛ́
+\gls 6.PST1 be-R where
+\glt `Where were they [the houses]?'
+
+\ea \label{bepst2}
+\gsrc yɔ́ɔ̀ Nzàmbí nɔ́gá núù \textbf{bɛ́} Nzàmbí wà gyí
+\gll yɔ́ɔ̀ Nzàmbí nɔ́-gá núù bɛ̀-H Nzàmbí wà gyí
+\gls so ∅1.PN 1-other 1.PST2 be-R ∅1.PN 1:ATT what
+\glt `So which Nzambi was the other Nzambi?'
+
+\ea \label{bema}
+\gsrc wú \textbf{bɛ́} \textbf{mà} bî ndáwɔ̀ dé tù
+\gll wú bɛ̀-H mà bî ndáwɔ̀ dé tù
+\gls 3 be-R COMPL[Kwasio] 1PL.OBJ emptyset9.house LOC inside
+\glt `[I wish] that it was already in our houses!'
+
+\ea \label{bele1}
+\gsrc mɛ̀ɛ́ \textbf{bɛ́lɛ́} mùdì wà lèkɛ́lɛ̀
+\gll mɛ̀ɛ́ bɛ́-lɛ́ m-ùdì wà le-kɛ́lɛ̀
+\gls 1SG.PRS.NEG be-NEG N1-person 1:ATT le5-word
+\glt `I'm not a person of many words.'
+
+\ea \label{bele2}
+\gsrc nkwànò wú \textbf{bɛ́lɛ́} mpà
+\gll nkwànò wu-H bɛ̀-lɛ mpà
+\gls emptyset3.honey 3-PRS be-NEG good
+\glt `The honey is not good.'
+
+\ea \label{bele3}
+\gsrc nyɛ̀ nâ mɛ̀ɛ́ \textbf{bɛ́lɛ́} wû
+\gll nyɛ nâ mɛ̀ɛ́ bɛ̀-lɛ wû
+\gls 1 COMP 1SG.PRS.NEG be-NEG there
+\glt `He [says]: ``I'm not there''.'
+
+\ea \label{bele4}
+\gsrc mùdì nú \textbf{bɛ́lɛ́}
+\gll m-ùdì nú bɛ́-lɛ́
+\gls N1-person 1.DEM.DIST be-NEG
+\glt `This person is not there.'
+
+\ea \label{bena1}
+\gsrc mɛ́ \textbf{bɛ́} \textbf{nà} nkwànò
+\gll mɛ-H bɛ̀-H nà nkwànò
+\gls 1SG-PRS be-R COM emptyset3.honey
+\glt `I have honey.'
+
+\ex\label{bena2}
+\gsrc mɛ̀ \textbf{bɛ́} \textbf{nà} nkwànò
+\gll mɛ bɛ̀-H nà nkwànò
+\gls 1SG.PST1 be-R COM emptyset3.honey
+\glt `I had honey.'
+
+\ex\label{bena3}
+\gsrc mɛ̀ɛ̀ \textbf{bɛ̀} \textbf{nà} nkwànò
+\gll mɛ̀ɛ̀ bɛ̀ nà nkwànò
+\gls 1SG.FUT be COM emptyset3.honey
+\glt `I will have honey.'
+
+\ea\label{bena1a}
+\gsrc mɛ́ \textbf{nà} nkwànò
+\gll mɛ-H nà nkwànò
+\gls 1-PRS COM emptyset3.honey
+\glt `I have honey.'
+
+\ea \label{beNEG1}
+\gsrc mɛ̀ɛ́ \textbf{bɛ́lɛ́} \textbf{nà} nkwànò
+\gll mɛ̀ɛ́ bɛ̀-lɛ nà nkwànò
+\gls 1SG.PRS.NEG be-NEG COM emptyset3.honey
+\glt `I don't have any honey.'
+
+\ea \label{beNEG2}
+\gsrc mɛ̀ \textbf{kí} \textbf{bɛ̀} \textbf{nà} tsídí
+\gll mɛ kí bɛ̀ nà tsídí
+\gls 1SG NEG[Kwasio] be COM emptyset1.meat
+\glt `I don't have any meat.'
+
+\ex \label{bepale}
+\gsrc yà \textbf{pálɛ́} \textbf{bɛ̀} \textbf{nà} bùdã̂
+\gll ya pálɛ́ bɛ̀ nà b-ùdã̂
+\gls 1PL NEG.PST be COM ba2-woman
+\glt `We did not have any women.'
+
+\ea \label{bekale}
+\gsrc mɛ̀ɛ̀ \textbf{kálɛ̀} ná \textbf{bɛ̀} \textbf{nà} jí ɛ́ vâ
+\gll mɛ̀ɛ̀ kálɛ̀ ná bɛ̀ nà jí ɛ́ vâ
+\gls 1SG.FUT NEG.FUT anymore be COM emptyset7.place LOC here
+\glt `I won't have a place here anymore.'
+
+\ea \label{bemua1}
+\gsrc à \textbf{múà} mɛ́dɛ́ nyá mùdì
+\gll a múà mɛ́dɛ́ nyá m-ùdì
+\gls 1 be.almost self real N1-person
+\glt `He was about to be a real (old) man.'
+
+\ex \label{bemua2}
+\gsrc mɛ̀ \textbf{múà} pɔ́nɛ́ wá yìmbá ntɛ́ wû
+\gll mɛ múà pɔ́nɛ́ wá yìmbá ntɛ́ wû
+\gls 1SG be.almost emptyset7.truth 3:ATT emptyset7.age emptyset3.size there
+\glt `I was really about the age of this size there [makes a gesture with hand showing his height].'
+
+\ea \label{muana}
+\gsrc gbĩ́-gbĩ̀-gbĩ́-gbĩ̀-gbĩ́ à \textbf{múà} \textbf{nà} bábɛ̀ tí wúmbɛ̀ wɛ̀
+\gll gbĩ́-gbĩ̀-gbĩ́-gbĩ̀-gbĩ́ a múà nà bábɛ̀ tí wúmbɛ wɛ̀
+\gls IDEO:roaming 1 PROSP COM ∅7.illness NEG want-R die
+\glt `[imitation of the disease roaming in his body] He was about to be sick, not wanting to die.'
+
+\ea\label{budea}
+\gsrc bá \textbf{bɛ́} \textbf{nà} bvúbvù
+\gll ba-H bɛ̀-H nà bvúbvù
+\gls 2-PRS be-R COM lots
+\glt `They have lots.'
+
+\ex\label{budeb}
+\gsrc bá \textbf{bùdɛ́} bvúbvù
+\gll ba-H bùdɛ́ bvúbvù
+\gls 2-PRS have.R lots
+\glt `They have lots.'
+
+\ea \label{bude1}
+\gsrc mɛ̀ \textbf{bùdɛ́} bwánɔ̀ bábáà
+\gll mɛ̀ bùdɛ́ b-wánɔ̀ bá-báà
+\gls 1SG.SBJ have.R ba2-child 2-two
+\glt `I have two children.'
+
+\ea \label{bude2}
+\gsrc pílì wɛ́ kɛ́ nâ wɛ́ kɛ́ tɔ́kɛ̀ mwánɔ̀ sáyà bvúlɛ̀ à \textbf{bùdɛ́} lébvúú nà mɛ̂
+\gll pílì wɛ-H kɛ̀-H nâ wɛ-H kɛ̀-H tɔ́kɛ m-wánɔ̀ sáyà bvúlɛ̀ a bùdɛ́ H-le-bvúú nà mɛ̂
+\gls when 2SG-PRS go-R COMP 2SG-PRS go-R collect N1-child emptyset7.thing ba2.Bulu 1 have.R OBJ.LINK-le5-anger COM 1SG.OBJ
+\glt `When you go to go gather a small thing, the Bulu is angry with me.'
+
+\ea \label{bude3}
+\gsrc vɛ̂ mɛ̂ sâ mwánɔ̀ wɔ́ɔ̀ wà wɛ̀ \textbf{bùdɛ́} nû{\REL}}
+\gll vɛ̂ mɛ̂ sâ m-wánɔ̀ w-ɔ́ɔ̀ wà wɛ bùdɛ́ nû
+\gls give.IMP 1SG.OBJ only N1-child 1-POSS.2SG db1:ATT 2SG have.R 1:DEM.PROX
+\glt `Give me only your child that you have here.'
+
+\ea \label{budema}
+\gsrc à \textbf{bùdɛ́} \textbf{mà} mùdã̂
+\gll a bùdɛ́ mà m-ùdã̂
+\gls 1 have.R COMPL[Kwasio] N1-woman
+\glt `He already has a wife.'
+
+\ea \label{budeQI1}
+\gsrc mɛ́ mɛ̀ \textbf{bùdɛ́} nâ ɛ́ pɛ̀ ɛ́ wû bèyá lwɔ̃́ kwádɔ́ yã̂ ɛ́ wû
+\gll mɛ́ mɛ bùdɛ́ nâ ɛ́ pɛ̀ ɛ́ wû bèya-H lwɔ̃̂-H kwádɔ́ y-ã̂ ɛ́ wû
+\gls but[French] 1SG have.R COMP LOC over.there LOC there 2PL[Kwasio]-PRS build-R emptyset7.village 7-POSS.1SG LOC there
+\glt `But I say that over there, there you (pl.) ought to build my village over there.'
+
+\ex \label{budeQI2}
+\gsrc mɛ̀ \textbf{bùdɛ́} nâ á lwɔ́ngɔ́ mɛ̂ màndáwɔ̀
+\gll mɛ bùdɛ́ nâ a-H lwɔ́ngɔ-H mɛ̂ ma-ndáwɔ̀
+\gls 1SG have.R COMP 1-PRS build[Kwasio]-R 1SG.OBJ ma6-house
+\glt `I say that she [Nadine] ought to build me houses.'
+
+\ea \label{passdef1a}
+\gsrc bùdì bá{\SBJ}} tsìlɔ́ békálàdɛ̀{\OBJ}}
+\gll b-ùdì ba-H tsìlɔ-H H-be-kálàdɛ̀
+\gls dbba2-person 2-PRS write-R dbOBJ.LINK-be8-book
+\glt `People write books.'
+
+\ex\label{passdef2a}
+\gsrc bèkálàdɛ̀ bé{\SBJ}} tsìl\textbf{á} (nà bùdì){\OBL}}
+\gll be-kálàdɛ̀ be-H tsìl-a-H nà b-ùdì
+\gls dbbe8-book 8-PRS write-PASS-R dbdbCOM ba2-person
+\glt `Books are written (by people).'
+
+\ea \label{LINK1}
+\gsrc wɛ̀ nzíí bàlɛ̀ \textbf{bé}bã́ã̀{\OBJ}}
+\gll wɛ nzíí bàlɛ H-be-bã́ã̀
+\gls 2SG PROG.PRS keep dbOBJ.LINK-be8-word
+\glt `You are recording the story [lit. you are keeping the words].'
+
+\ea\label{notone}
+\gsrc mɛ̀ pàlɛ́ kɛ̀ dyɔ̂ \textbf{mà}fú málálɛ̀{\OBL}}
+\gll mɛ pàlɛ́ kɛ̀ dyɔ̂ ma-fú má-lálɛ̀
+\gls 1SG NEG.PST go sleep dbma6-day 6-three
+\glt `I haven't slept in three days.'
+
+\ea \label{me1}
+\gsrc à nzí\textbf{í} tálɛ̀ sɛ́lɔ̀ \textbf{bé}ntùgú{\OBJ}}
+\gll a nzíí tálɛ sɛ́lɔ H-be-ntùgú
+\gls 1 PROG.PRS.R begin peel dbOBJ.LINK-be8-potato
+\glt `S/he is starting to peel potatoes.'
+
+\ea\label{me2}
+\gsrc mɛ́ kwà\textbf{lɛ́} kɔ́ɔ̀ \textbf{bá}bwálɛ̀ bã́ã̀{\OBJ}}
+\gll mɛ-H kwàlɛ-H kɔ́ɔ̀ H-ba-bwálɛ̀ b-ã́ã̀
+\gls 1SG-PRS love-R always dbOBJ.LINK-ba2-parent 2-1SG.POSS
+\glt `I always love my parents.'
+
+%\ex\label{26}
+% \gsrc má dvúmɔ́lɛ́ mbvú mbì mbvû.
+\gll % ma-H dvúmɔ́-lɛ́ mbvú mbì mbvû
+\gls % 6-PRS produce-NEG emptyset3.year like[Kwasio] emptyset3.year
+% \glt `They don't produce [fruit] every year.'
+
+%\ex\label{27}
+% \gsrc màlɛ́ndí máà vɛ̀ɛ̀ kwè mípìndí.
+\gll % ma-lɛ́ndí máà vɛ̀ɛ̀ kwè H-mi-pìndí
+\gls % ma6-palm.tree 6.DEM.PROX only fall OBJ.LINK-mi4-unripe
+% \glt `These palm trees only fall unripe [fruit].'
+
+\ea \label{Lobj}
+\gsrc wɛ̀ mɛ́dɛ́ pã́ lígɛ̀ yá nà nyɛ̀ yá kɛ́ \textbf{má}nkɛ̃̂{\OBL}}
+\gll wɛ̀ mɛ́dɛ́ pã̂-H lígɛ ya-H nà nyɛ ya-H kɛ̀-H ɛ́?-ma-nkɛ̃̂
+\gls 2SG.SBJ self start-R stay 1PL-PRS COM 1 1PL-PRS go-R dbLOC?-6-field
+\glt `You [Nzambi's wife], stay first, we and her [the speaker's wife], we go to the fields.'
+
+\ea \label{Lobj2}
+\gsrc mùdã̂ kɛ́ nà nyɛ̀{\OBL}} mánkɛ̃̂{\OBL}}
+\gll m-ùdã̂ kɛ̀-H nà nyɛ̀ ɛ́-ma-nkɛ̃̂
+\gls N1-woman go-R dbCOM 1.OBJ dbLOC?-ma6-field
+\glt `The woman [his wife] shall go with him to the fields.'
+
+\ea\label{SV1}
+\gsrc \emptysetS} á vòdàV}
+\gll \emptyset a-H vòda
+\gls dbemptyset db1-PRS rest
+\glt `She rests.'
+
+\ea \label{SV2}
+\gsrc bàNzàmbí bá tèS} bá jìlɛ́ màV}
+\gll ba-Nzàmbí bá tè ba-H jìlɛ-H mà
+\gls db2-PN 2:ATT there db2-PRS sit-R COMPL[Kwasio]
+\glt `The [two] Nzambis there live there already.'
+
+\ea \label{SV3}
+\gsrc \emptysetS} à tɛ́lɛ́V} sâ dɛ́ndì témɔ́X}
+\gll \emptyset a tɛ́lɛ-H sâ d-ɛ́ndì témɔ́
+\gls ∅ 1.PST1 stand-R only le5-courtyard middle
+\glt `He just stood in the middle of the courtyard.'
+
+\ea \label{SV4}
+\gsrc \emptysetS} mɛ́ lɔ́ njìV} bàgyɛ̃̂X1} bà wɛ̂X2}
+\gll \emptyset mɛ-H lɔ́ njì ba-gyɛ̃̂ bà wɛ̂
+\gls dbemptyset db1SG-PRS RETRO come dbba2-stranger dbAP 2SG
+\glt `I just came as a guest to you.'
+
+\ea\label{SVO1}
+\gsrc MàmbìS} à déV} mántúàO}
+\gll Màmbì à dè-H H-ma-ntúà
+\gls ∅1.PN 1.PST1 eat-PST OBJ.LINK-ma6-mango
+\glt `Mambi ate mangoes.'
+
+\ea \label{SVO2}
+\gsrc \emptysetS} bwáá lã́V} bɔ̂O}
+\gll \emptyset bwáa-H lã-H b-ɔ̂
+\gls dbemptyset db2PL-PRS tell-R db2-OBJ
+\glt `You tell them!'
+
+\ea \label{SVO3}
+\gsrc \emptysetS} à nzí kɛ̀V} létsíndɔ́ lé ntùmbà wã̂O}
+\gll \emptyset a nzí kɛ̀ H-le-tsíndɔ́ lé n-tùmbà w-ã̂
+\gls dbemptyset db1 PROG.PST1 go dbOBJ.LINK-le5-funeral.ceremony 5:ATT N1-older.brother 1-POSS.1SG
+\glt `She was going to my older brother's funeral ceremony.'
+
+\ea \label{SVO4}
+\gsrc \emptysetS} wɛ̀ nzíí bàlɛ̀V} bébã́ã̀O}
+\gll \emptyset wɛ nzíi-H bàlɛ H-be-bã́ã̀
+\gls dbemptyset db2SG PROG-PRS keep dbOBJ.LINK-be8-word
+\glt `You are recording the story [lit. you are keeping the words].'
+
+\ea \label{SVO5}
+\gsrc mɛ̀gàS} mɛ́ lígɛ́ dèV} mwánɔ̀ wɔ́ɔ̀O} nà màbɔ́'ɔ̀X}
+\gll mɛ̀-gà mɛ-H lígɛ-H dè m-wánɔ̀ w-ɔ́ɔ̀ nà ma-bɔ́'ɔ̀
+\gls db1.SBJ-CONTR db1SG-PRS stay-R eat dbN1-child 1-POSS.2SG dbCOM ma6-breadfruit
+\glt `As for me, I stay and eat your child with breadfruit.'
+
+\ea \label{SVOO1a}
+\gsrc ÀdàS} á líbɛ́lɛ́V} MàmbìO1} màtúàO2}
+\gll Àdà à-H líbɛlɛ-H Màmbì màtúà
+\gls dbemptyset1.PN db1SG-PRS show-R dbemptyset1.PN dbemptyset1.car
+\glt `Ada shows Mambi A/THE CAR.'
+
+\ex\label{SVOO1b}
+\gsrc ÀdàS} á líbɛ́lɛ́V} màtúàO1} MàmbìO2}
+\gll Àdà à-H líbɛlɛ-H màtúà Màmbì
+\gls dbemptyset1.PN db1-PRS show-R dbemptyset1.car dbemptyset1.PN
+\glt `Ada shows MAMBI a/the car.'
+
+\ea \label{SVOO2a}
+\gsrc \emptysetS} mɛ̀ vɛ́V} \textbf{bá}bwálɛ̀O1} bèfùmbíO2}
+\gll \emptyset mɛ vɛ̂-H H-ba-bwálɛ̀ be-fùmbí
+\gls dbemptyset db1SG.PST1 give-R dbOBJ.LINK-ba2-parent dbbe8-orange
+\glt `I gave the parents ORANGES.'
+
+\ex \label{SVOO2b}
+\gsrc \emptysetS} mɛ́ vɛ́V} \textbf{bé}fùmbíO1} bàbwálɛ̀O2}
+\gll \emptyset mɛ-H vɛ̂-H H-be-fùmbí ba-bwálɛ̀
+\gls dbemptyset db1SG-PRS give-R dbOBJ.LINK-be8-orange dbba2-parent
+\glt `I gave THE PARENTS oranges.'
+
+\ea \label{SVOO3a}
+\gsrc \emptysetS} mɛ̀ vɛ́V} bɔ̂O1} byɔ̂O2}
+\gll \emptyset mɛ vɛ̂-H b-ɔ̂ by-ɔ̂
+\gls dbemptyset db1SG.PST1 give-R db2-OBJ db8-OBJ
+\glt `I gave them [the parents] THEM [the oranges].'
+
+\ex \label{SVOO3b}
+\gsrc \emptysetS} mɛ́ vɛ́V} byɔ̂O1} bɔ̂O2}
+\gll \emptyset mɛ-H vɛ̂-H b-yɔ̂ b-ɔ̂
+\gls dbemptyset db1SG-PRS give-R db8-OBJ db2-OBJ
+\glt `I gave THEM [the parents] them [the oranges].'
+
+%\ex\label{28a}
+% \gsrc àS} bwã̀ã̀.V}
+\gll % a bwã̀ã̀.
+\gls % 1.PST1 give.birth
+% \glt `She has given birth.'
+
+%\ex\label{28b}
+% \gsrc Nzàmbí àS} bwã̀ã́V} mwánɔ̀.O}
+\gll % Nzàmbí a bwã̀ã-H m-wánɔ̀
+\gls % PN 1.PST1 give.birth-R N1-child
+% \glt `Nzambi has given birth to a child.'
+
+%\ex\label{01a}
+% \gsrc yɔ́ɔ̀ yáS} táàlɛ̀.V}
+\gll % yɔ́ɔ̀ ya-H táàlɛ̀
+\gls % so 1PL-PRS begin
+% \glt `So, we begin.'
+
+%\ex\label{07}
+% \gsrc nyɛ̀S} táàlɛ́V} bábɛ̀.O}
+\gll % nyɛ táàlɛ-H bábɛ̀
+\gls % 1.PST1 begin-R ∅7.illness
+% \glt `He started to be sick.'
+
+\ea \label{ndaa1} The woman ate mangoes.\\
+\gsrc nà mwánɔ̀ mùdã̂S} \textbf{ndáà} à nzí dè mántúà
+\gll nà m-wánɔ̀ m-ùdã̂ ndáà a nzí dè H-ma-ntúà
+\gls COM dbN1-child N1-woman also 1 PROG.PST eat OBJ.LINK-ma6-mango
+\glt `And the girl also ate mangoes.'
+
+\ea \label{ndaa2}
+\gsrc bvúlɛ̀ bá ntɛ́gɛ́lɛ́ \textbf{ndáà} bíyɛ̀
+\gll bvúlɛ̀ ba-H ntɛ́gɛlɛ-H ndáà bíyɛ̀
+\gls ba2.Bulu 2-PRS bother-R also 1PL.OBJ
+\glt `The Bulu bother us, too.'
+
+\ea \label{ndaa3}
+\gsrc ká wɛ̀ɛ́ wúmbɛ́lɛ́ \textbf{ndáà} mɛ́ nɔ̀ɔ́ nkwɛ̂ wá mábɔ́'ɔ̀
+\gll ká wɛ̀ɛ́ wúmbɛ-lɛ́ ndáà mɛ-H nɔ̀ɔ̀-H nkwɛ̂ wá H-ma-bɔ́'ɔ̀
+\gls if 2SG.PRS.NEG want-NEG also 1SG-PRS take-R emptyset3.basket 3:ATT OBJ.LINK-ma6-breadfruit
+\glt `If you don't want [this] either, I take the basket with the breadfruit.'
+
+\ea \label{ndaa4}
+\gsrc yá wúmbɛ́ \textbf{ndáà} náà bí bɔ́gà yá pángɔ́ bɛ̀ nà kùrã̂ \textbf{ndáà}
+\gll ya-H wúmbɛ-H ndáà nâ bí b-ɔ́gà ya-H pángɔ-H bɛ̀ nà kùrã̂ ndáà
+\gls 1PL-PRS want-R also COMP 1PL.SBJ 2-other 1PL-PRS PRIOR[Kwasio]-R be COM emptyset7.electricity also
+\glt `We also want that we others first also have electricity.'
+
+\ea \label{na1}
+\gsrc wɛ́ yànɛ́ \textbf{ná} gyàgà ndísì
+\gll wɛ-H yànɛ-H ná gyàga ndísì
+\gls 2SG-PRS must-H again buy emptyset3.rice
+\glt `You must again buy rice.'
+
+\ea \label{na2}
+\gsrc mɛ́ pã́ \textbf{ná} kɛ̀ dígɛ̀ mùdì wà nû ɛ́ pɛ́ɛ́
+\gll mɛ-H pã̂-H ná kɛ̀ dígɛ m-ùdì wà nû ɛ́ pɛ́-ɛ́
+\gls 1SG-PRS PRIOR-H again go see N1-person 1:ATT 1.DEM.PROX LOC over.there.DIST
+\glt `I try again and go see this person over there.'
+
+\ea \label{na3}
+\gsrc mɛ̀ɛ̀ kálɛ̀ \textbf{ná} bɛ̀ nà jí ɛ́ vâ
+\gll mɛ̀ɛ̀ kálɛ̀ ná bɛ̀ nà jí ɛ́ vâ
+\gls 1SG.FUT NEG.FUT anymore be COM emptyset7.place LOC here
+\glt `I won't have a place here anymore.'
+
+\ea \label{na4}
+\gsrc bɔ́nɛ́gá báà \textbf{ná} jìí dé tù
+\gll b-ɔ́nɛ́gá báà ná jìí dé tù
+\gls 2-other 2.COP still ∅7.forest LOC inside
+\glt `The others are still in the forest.'
+
+\ea \label{na5}
+\gsrc ónóò bí bɔ́gà yá pã́ jî bényámɛ̀ \textbf{ná}
+\gll ónóò bí b-ɔ́gà ya-H pã̂-H jî H-be-nyámɛ̀ ná
+\gls EXCL 1PL.SBJ 2-other 1PL-PRS start-R stay OBJ.LINK-be8-poor still
+\glt `Ohhh, we others will first still stay poor.'
+
+\ea \label{na6}
+\gsrc bwánɔ̀ bá bùdã̂ bábáà èè nà mwánɔ̀ wà mùdã̂ nláálɛ̀ ndáà \textbf{ná}
+\gll b-wánɔ̀ bá b-ùdã̂ bá-báà èè nà m-wánɔ̀ wà m-ùdã̂ nláálɛ̀ ndáà ná
+\gls ba2-child 2:ATT ba2-woman 2-two EXCL COM N1-child 1:ATT N1-woman three also again
+\glt `Two girls, yes, and also again a third girl.'
+
+\ea \label{na7}
+\gsrc áà mɛ̀ nzíí \textbf{ná} làwɔ̀ \textbf{ná}
+\gll áà mɛ nzíí ná làwɔ ná
+\gls yes 1SG PROG.PRS still talk still
+\glt `Yes, I am still talking.'
+
+\ea \label{na8}
+\gsrc wɛ́ \textbf{ná} báàlá nà nyɛ́ fí nà wɛ́ ndyándyá \textbf{ná} sálɛ́ ɛ́ pɛ̀ nà wɛ́ kòlá \textbf{ná} mɔ̀nɛ́ nû
+\gll wɛ-H ná báàla-H nà nyɛ̂-H fí nà wɛ-H ndyándya-H ná sálɛ́ ɛ́ pɛ̀ nà wɛ-H kòla-H ná mɔ̀nɛ́ nû
+\gls 2SG-PRS again repeat-R COM see-R different COM 2SG-PRS work-R again emptyset7.work LOC over.there COM 2SG-PRS add-R again emptyset1.money 1.DEM.PROX
+\glt `You repeat [it] again and try something else [find another work] and you work there again and you add more money.'
+
+\ea \label{vee1}
+\gsrc mɛ̀ nyɛ́ kwádɔ́ yî Kúndúkùndù \textbf{vɛ̀ɛ̀} màndáwɔ̀ má zì mɔ̂ nà mɔ̂
+\gll mɛ nyɛ̂-H kwádɔ́ yî Kúndúkùndù vɛ̀ɛ̀ ma-ndáwɔ̀ má zì m-ɔ̂ nà m-ɔ̂
+\gls 1SG.PST1 see-R emptyset7.village 7.DEM.PROX emptyset7.PN only ma6-house 6:ATT emptyset7.tin 6-OBJ COM 6-OBJ
+\glt `I saw this village, Kundukundu. Only tin (roofed) houses, each of them.'
+
+\ea \label{vee2}
+\gsrc \textbf{vɛ̀ɛ̀} nàmɛ́nɔ́ nàmɛ́nɔ́ nà pámò dẽ̀
+\gll vɛ̀ɛ̀ nàmɛ́nɔ́ nàmɛ́nɔ́ nà pámo dẽ̀
+\gls only tomorrow tomorrow COM arrive today
+\glt `I only heard promises until today [lit. Only tomorrow, tomorrow, until today].'
+
+\ea \label{vee3}
+\gsrc nâ bá dyúù nyɛ̂ \textbf{vɛ̀ɛ̀} mùdì nyɛ̂ jã́ã̀sà
+\gll nâ ba-H dyúù nyɛ̂ vɛ̀ɛ̀ m-ùdì nyɛ̂ jã́ã̀sà
+\gls COMP 2-PRS kill.SBJV 1.OBJ only N1-person 1 disappear
+\glt `That they kill him. Suddenly the person disappears.'
+
+\ea \label{vee4}
+\gsrc \textbf{vɛ̀ɛ̀} bɛ́dɛ̀
+\gll vɛ̀ɛ̀ bɛ́dɛ
+\gls only light
+\glt `Just light [the house].'
+
+\ea \label{vee5}
+\gsrc ɛ́ vâ màkwɛ̀lɔ̀ má fúgɛ̀ \textbf{vɛ̀ɛ̀} vâ
+\gll ɛ́ vâ ma-kwɛ̀lɔ̀ ma-H fúgɛ vɛ̀ɛ̀ vâ
+\gls LOC here ma6-felling 6-PRS end only here
+\glt `Here, the felling ends, only here.'
+
+\ex \label{vee6}
+\gsrc yɔ́ɔ̀ pɔ̀nɛ̀ \textbf{vɛ̀ɛ̀} mpù
+\gll yɔ́ɔ̀ pɔ̀nɛ̀ vɛ̀ɛ̀ mpù
+\gls 7.COP ∅7.truth still like.this
+\glt `It is still true like this.'
+
+\ea \label{vee7}
+\gsrc màlɛ́ndí máà \textbf{vɛ̀ɛ̀} kwè mímpìndí
+\gll ma-lɛ́ndí máà vɛ̀ɛ̀ kwè H-mi-mpìndí
+\gls ma6-palm.tree 6.DEM.PROX only fall OBJ.LINK-mi4-unripeness
+\glt `These palm trees only fall unripe [fruit].'
+
+\ea \label{koo1}
+\gsrc \textbf{kɔ́ɔ̀} nɔ̀ɔ̀ brìkɛ̂ wɛ̂
+\gll kɔ́ɔ̀ nɔ̀ɔ̀ brìkɛ̂ w-ɛ̂
+\gls just take emptyset1.lighter[French] 1-POSS.3SG
+\glt `[He] just takes his lighter.'
+
+\ea \label{koo2}
+\gsrc \textbf{kɔ́ɔ̀} sílɛ̀
+\gll kɔ́ɔ̀ sílɛ
+\gls just finish
+\glt `Just finish.'
+
+\ea \label{koo3a}
+\gsrc tɔ̀sâ à nzí gyàgà \textbf{sâ/kɔ́ɔ̀} béfùmbí bwánɔ̀
+\gll tɔ̀sâ a nzí gyàga \textbf{sâ/kɔ́ɔ̀} H-be-fùmbí b-wánɔ̀
+\gls no 1 PROG.PST buy only OBJ.LINK-be8-orange ba2-child
+\glt `[The woman bought oranges and beans for the children.{\textemdash}] No, she bought only oranges for the children.'
+
+\ex \label{koo3b}
+\gsrc tɔ̀sâ à nzí gyàgà b-wánɔ̀ \textbf{sâ/kɔ́ɔ̀} bè-fùmbí
+\gll tɔ̀sâ a nzí gyàga b-wánɔ̀ \textbf{sâ/kɔ́ɔ̀} be-fùmbí
+\gls no 1 PROG.PST buy ba2-child only be8-orange
+\glt `[The woman bought oranges and beans for the children.{\textemdash}] No, she bought only oranges for the children.'
+
+\ea \label{koo4}
+\gsrc Nzàmbí wà nû \textbf{kɔ́ɔ̀} kìyà léwê
+\gll Nzàmbí wà nû kɔ́ɔ̀ kìya H-le-wê
+\gls ∅1.PN 1:ATT 1.DEM.PROX only give OBJ.LINK-le5-cry
+\glt `This Nzambi only gives a cry.'
+
+\ea \label{koo5}
+\gsrc nà bí bɛ́sɛ̀ \textbf{kɔ́ɔ̀} kùrã̂ bɛ̀ dé tù
+\gll nà bí b-ɛ́sɛ̀ kɔ́ɔ̀ kùrã̂ bɛ̀ dé tù
+\gls COM 1PL.SBJ 2-all just emptyset7.electricity be LOC inside
+\glt `All of us, we just want electricity inside [the houses].'
+
+\ea \label{koo6}
+\gsrc yá mbàà yá mbàà yíì nâ \textbf{kɔ́ɔ̀} mpù ɛ́ Nzìwù lɔ́ táálɛ̀ làwɔ̀ nâ bon
+\gll yá mbàà yá mbàà yíì nâ kɔ́ɔ̀ mpù ɛ́ Nzìwù lɔ́ táálɛ làwɔ nâ bon
+\gls 7:ATT second 7:ATT second 7.COP COMP still like.this LOC ∅1.PN RETRO begin talk COMP good[French]
+\glt `The second, the second thing is that, still, as Nze just began to say that, good. . .'
+
+\ex\label{koo7}
+\gsrc yíì pɔ́nɛ́ \textbf{kɔ́ɔ̀} lèváá lɛ̀vúdũ̂ nâ bí bá ntɛ́gɛ́lɛ́ bágyɛ̀lì
+\gll yíì pɔ́nɛ́ kɔ́ɔ̀ le-váá lɛ̀-vúdũ̂ nâ b-í ba-H ntɛ́gɛlɛ-H H-ba-gyɛ̀lì
+\gls 7.COP emptyset7.truth still le5-thing 5-one COMP ba2-non.Bagyeli 2-PRS bother-R OBJ.LINK-ba2-Gyeli
+\glt `It is true, still the same thing that the non-Bagyeli bother the Bagyeli.'
+
+\ea \label{koo8}
+\gsrc \textbf{kɔ́ɔ̀} nyɛ́gà á làwɔ́ ndáà
+\gll kɔ́ɔ̀ nyɛ́-gà a-H làwɔ-H ndáà
+\gls only 1-CONTR 1-PRS speak-R also
+\glt `If only he would speak, too.'
+
+\ea \label{sa1}
+\gsrc nyɛ̀gà váà nyɛ̀gá tsíyɛ́ \textbf{sâ} nà màlɛ́ndí màlɛ́ndí máà mɔ́gà
+\gll nyɛ-gà váà nyɛ-gá tsíyɛ́ sâ nà ma-lɛ́ndí ma-lɛ́ndí máà mɔ́-gà
+\gls 1-CONTR here 1-CONTR live-R only COM 6-palm.tree 6-palm.tree 6:DEM 6-CONTR
+\glt `Him here, he lives only from palm trees, these palm trees.'
+
+\ea \label{sa2}
+\gsrc vɛ̂ mɛ̂ \textbf{sâ} mwánɔ̀ wɔ́ɔ̀ wà wɛ̀ bùdɛ́ nû
+\gll vɛ̂ mɛ̂ sâ m-wánɔ̀ w-ɔ́ɔ̀ wà wɛ bùdɛ-H nû
+\gls give.IMP 1SG.OBJ only N1-child 1-POSS.2SG 1:ATT 2SG have-R 1:DEM.PROX
+\glt `Give me only your child that you have here.'
+
+\ea \label{sa3}
+\gsrc ká wɛ́ nyɛ́ mɛ̂ jíì \textbf{sâ} vâ nâ bá nzíyɛ̀ bá nzíyɛ̀ jìyɔ̀
+\gll ká wɛ-H nyɛ̂-H mɛ̂ jíì sâ vâ nâ ba-H nzíyɛ̀ ba-H nzíyɛ̀ jìyɔ
+\gls if 2SG-PRS see-R 1SG.OBJ stay only here COMP 2-PRS come.SBJV 2-PRS come.SBJV stay
+\glt `When you see me staying only here, so that they come, they come to stay.'
+
+\ea \label{sa4}
+\gsrc à tɛ́lɛ́ \textbf{sâ} dɛ́ndì témɔ́
+\gll a tɛ́lɛ-H sâ d-ɛ́ndì témɔ́
+\gls 1.PST1 stand-R just le5-courtyard middle
+\glt `He just stood in the middle of the courtyard.'
+
+\ea \label{lii1}
+\gsrc mɛ̀ pálɛ́ \textbf{lìí} bâ
+\gll mɛ pálɛ́ lìí bâ
+\gls 1SG.PST1 NEG.PST yet marry
+\glt `I am not yet married.'
+
+\ea \label{lii2}
+\gsrc mɛ̀ pálɛ́ \textbf{lìí} dè mántúà
+\gll mɛ pálɛ́ lìí dè H-ma-ntúà
+\gls 1SG.PST1 NEG.PST yet eat OBJ.LINK-ma6-mango
+\glt `I have not yet eaten the mangoes.'
+
+\ea \label{Emp1}
+\gsrc dɔ̃̀ \textbf{bí} yá táálɛ́ bê yàlànɛ̀ àà
+\gll dɔ̃̀ bí ya-H táálɛ-H bê yàlanɛ àà
+\gls so[French] 1PL.SBJ 1PL-PRS begin-R 2PL respond[Bulu] EXCL
+\glt `[You come to find us here.] So we, we start to respond to you, mhm.'
+
+\ea \label{Emp3}
+\gsrc ɛ̀sɛ́ \textbf{béé} \textbf{ndáà} bèyá làwɔ́ fàlà
+\gll ɛ̀sɛ́ béé ndáà bèya-H làwɔ-H fàlà
+\gls is.it[French] 2PL.SBJ also 2PL[Kwasio]-PRS speak-R emptyset1.French
+\glt `Isn't it, you, you also speak French.'
+
+\ea \label{Emp2}
+\gsrc \textbf{bí} \textbf{bɔ́gà} yá wúmbɛ́ ndáà pã́ã̀ nyɛ̂ sâ bá gyíbɔ́ ngyùlɛ̀ wá kùrã̂
+\gll bí bɔ́-gà ya-H wúmbɛ-H ndáà pã́ã̀ nyɛ̂ sâ ba-H gyíbɔ-H ngyùlɛ̀ wá kùrã̂
+\gls 1PL.SBJ 2-CONTR 1PL-PRS want-R also start see emptyset7.thing 2-PRS call-R emptyset3.light 3:ATT emptyset7.electricity
+\glt `[White people working for NGOs receive money in Europe.] We others, we also want to first see the thing they call the light of electricity.'
+
+\ea \label{ga1}
+\gsrc wɛ́ kɛ́ nà nyɛ̂ nkɔ̃̀wáká \textbf{nyɛ̀gà} à nzíí wɛ̂ vã́ã̀kɛ́ sâ mpù
+\gll wɛ-H kɛ̀-H nà nyɛ̂ nkɔ̃̀wáká nyɛ̀-gà a nzíí wɛ̂ vã́ã̀kɛ́ sâ mpù
+\gls 2SG-PRS go COM 1 equal.sharing 1.SBJ-CONTR 1 PROG.PRS 2SG.OBJ go[Bulu] do like.this
+\glt `You go with him [the Bulu] equally sharing. As for him, he is going to treat you like this [tries to trick you].'
+
+\ea \label{ga2}
+\gsrc \textbf{wɛ̀gà} wɛ́ kɛ́ nà mɔ̂ \textbf{mɛ̀gà} mɛ́ lígɛ́ dè mwánɔ̀ wɔ́ɔ̀
+\gll wɛ̀-gà wɛ-H kɛ̀-H nà m-ɔ̂ mɛ̀-gà mɛ̀-H lígɛ-H dè m-wánɔ̀ w-ɔ́ɔ̀
+\gls 2SG.SBJ-CONTR 2SG-PRS go-R COM 6-OBJ 1.SBJ-CONTR 1SG-PRS stay-R eat N1-child 1-POSS.2SG
+\glt `[You take the bread fruit.] As for you, you take them [the bread fruit] away. As for me, I stay and eat your child.'
+
+%\ex\label{ga3}
+% \gsrc nyɛ̀gà váà nyɛ̀gá tsíyɛ́ sáà nà màlɛ́ndí, màlɛ́ndí máà mɔ́gà.
+\gll % nyɛ-gà váà nyɛ-gá tsíyɛ́ sáà nà ma-lɛ́ndí, ma-lɛ́ndí máà mɔ́-gà.
+\gls % 1-CONTR here 1-CONTR live-R only COM 6-palm.tree 6-palm.tree 6:DEM 6-CONTR
+% \glt `Him here, he lives only from palm trees, these palm trees.'
+
+\ea \label{ga3}
+\gsrc ɛ́ tè \textbf{wɛ̀gà} wɛ́ njí sâ mbvúndá ɛ́ ndzǐ vâ
+\gll ɛ́ tè wɛ̀-gà wɛ-H njì-H sâ mbvúndá ɛ́ ndzǐ vâ
+\gls LOC there 2SG.SBJ-CONTR 2SG-PRS come-R do emptyset9.trouble LOC emptyset9.path here
+\glt `[I send you the message and ask you to help me.] There you, you come to make trouble on the way here.'
+
+\ea \label{InsiOa}
+\gsrc mùdã̂ à dé mántúà
+\gll m-ùdã̂ a dè-H H-ma-ntúà
+\gls N1-woman 1.PST1 eat-R OBJ.LINK-ma6-mango
+\glt `The woman ate the MANGOES.'
+
+\ex \label{InsiOb}
+\gsrc tɔ̀sâ à nzí dè \textbf{ndísì}
+\gll tɔ̀sâ a nzí dè ndísì
+\gls no 1 PROG.PST eat ∅3.rice
+\glt `No, she was eating RICE.'
+
+\ea \label{InsiX}
+\gsrc áá bíì màndáwɔ̀ má zì yáà mɔ̂ fúàlà bwɛ̂ \textbf{lèwùlà} \textbf{lé} \textbf{vɛ́}
+\gll áá bíì ma-ndáwɔ̀ má zì yáà m-ɔ̂ fúala bwɛ̂ le-wùlà lé vɛ́
+\gls EXCL 1PL.OBJ ma6-house 6:ATT emptyset7.tin[Bulu] 1PL.FUT 6-OBJ end receive le5-hour 5:ATT which
+\glt `Ah, us, as for the tin houses, WHEN will we receive them?'
+
+%\ex\label{InsiPa}
+% \gsrc gyí mùdã̂ à sá nà màntúà
+\gll % gyí m-ùdã̂ a sâ-H nà ma-ntúà
+\gls % what N1-woman 1.PST1 do-R COM ma6-mango
+% \glt `What did the woman do with the mangoes?'
+
+%\ex \label{InsiPb}
+% \gsrc à \textbf{dé} mɔ̂.
+\gll % a dè-H mɔ̂
+\gls % 1.PST1 eat-R 6.OBJ
+% \glt `She ATE them.'
+
+\ea \label{left1}
+\gsrc áá bíì \textbf{màndáwɔ̀} \textbf{má} \textbf{zì}, yáà \textbf{mɔ́} fúàlà bwɛ̂ lèwùlà lé vɛ́
+\gll áá bíì ma-ndáwɔ̀ má zì yáà m-ɔ́ fúala bwɛ̂ le-wùlà lé vɛ́
+\gls EXCL 1PL.OBJ ma6-house 6:ATT emptyset7.tin[Bulu] 1PL.FUT 6-OBJ end receive le5-hour 5:ATT which
+\glt `Ah, us, as for the tin houses, when will we receive them?'
+
+\ea \label{left2}
+\gsrc pílì \textbf{mwánɔ̀}, \textbf{bàgyɛ̀lì} àà \textbf{nyɛ̂} kɛ̀ bíyɔ̀
+\gll pílì m-wánɔ̀ ba-gyɛ̀lì àà nyɛ̂ kɛ̀ bíyɔ
+\gls when N1-child ba2-Gyeli 1.FUT 1.OBJ go hit
+\glt `[The Bulu person says that he will quarrel with you [the Gyeli child].] At times the Gyeli child, he will GO and HIT him.'
+
+\ea \label{left3}
+\gsrc \textbf{ngùndyá}, mɛ́ kɛ́ sɔ́lɛ̀gà \textbf{ngùndyá} dyúwɔ̀
+\gll ngùndyá mɛ-H kɛ̀-H sɔ́lɛga ngùndyá dyúwɔ̀
+\gls emptyset9.raffia 1SG-PRS go-R chop emptyset9.raffia on.top
+\glt `[I think, the machete missed me here [pointing to his forehead].] The raffia, I go to chop the raffia on top [of the tree].'
+
+\ea \label{left4}
+\gsrc nà \textbf{màntúà} \textbf{ndáà}, à nzí dè \textbf{mɔ̂}
+\gll nà mà-ntúà ndáà a nzí dè m-ɔ̂
+\gls COM ma6-mango also 1 PROG.PST eat 6-OBJ
+\glt `[The woman ate the oranges.] And she also ate mangoes.'
+
+\ea \label{Emp4}
+\gsrc bèdéwò béndɛ̀ \textbf{byɔ̀} mɛ́ lɔ́ njì lɛ́bɛ̀lɛ̀ bédéwò bà wɛ̂
+\gll be-déwò bé-ndɛ̀ b-yɔ̀ mɛ-H lɔ́ njì lɛ́bɛlɛ H-be-déwò bà wɛ̂
+\gls be8-food 8-ANA 8-OBJ 1-PRS RETRO come follow be8-food AP 2SG.OBJ
+\glt `[The field is running out of food.] This food, I have come to look for the food at your place.'
+
+\ea \label{Top1}
+\gsrc \textbf{yɔ́ɔ̀} mɛ́ wúmbɛ́ wû
+\gll y-ɔ́ɔ̀ mɛ-H wúmbɛ-H wû
+\gls 7-OBJ 1SG-PRS want-R there
+\glt `[ I will build houses in Ngolo, each with a tin roof.] I want THIS there.'
+
+\ea \label{Top2}
+\gsrc \textbf{yɔ́ɔ̀} \textbf{yɔ́ɔ̀} mɛ̀ jìlɛ́ mà
+\gll y-ɔ́ɔ̀ y-ɔ́ɔ̀ mɛ jìlɛ-H mà
+\gls 7-OBJ 7-OBJ 1SG.PST1 place-R COMPL[Kwasio]
+\glt `This, this I have placed [there].'
+
+\ea \label{Top3}
+\gsrc nà \textbf{nákúndɛ̀kúndɛ̀} \textbf{ndáà}, à bíyɛ́lɛ́
+\gll nà nákúndɛ̀kúndɛ̀ ndáà a bíyɛlɛ-H
+\gls CONJ ∅1.bean also 1.PST1 cook-PST
+\glt `[The woman cooked rice for her child.] And she also cooked beans.'
+
+\ea \label{front1}
+\gsrc mɛ̀ɛ̀ \textbf{yɔ̂} \textbf{dè}
+\gll mɛ̀ɛ̀ y-ɔ̂ dè
+\gls 1SG.FUT 7-OBJ eat
+\glt `[This tender child is good when you wrap it in a leaf package.] I will EAT it [the child].'
+
+\ea \label{front2}
+\gsrc mɛ́ lígɛ́ \textbf{nyɛ̂} \textbf{dè}
+\gll mɛ-H lígɛ-H nyɛ̂ dè
+\gls 1SG-PRS stay-R 1.OBJ eat
+\glt `I stay to EAT him [the child].'
+
+\ea \label{front3}
+\gsrc nyɛ̀ náà à múà \textbf{wɛ̂} \textbf{bíyɔ̀}
+\gll nyɛ nâ a múà wɛ̂ bíyɔ
+\gls 1 COMP 1 PROSP 2SG.OBJ hit
+\glt `He [the Bulu person says] that he is about to BEAT you [the Gyeli person].'
+
+\ea\label{PQ1}
+\gsrc \textbf{nà} wɛ̀ nyɛ́ nyɛ̂
+\gll nà wɛ nyɛ̂-H nyɛ̂
+\gls Q 2SG.PST1 see-R 1.OBJ
+\glt `Did you see him?'
+
+\ea\label{PQ2}
+\gsrc \textbf{nànâ} wɛ̀ nyɛ́ nyɛ̂
+\gll nànâ wɛ nyɛ̂-H nyɛ̂
+\gls Q 2SG.PST1 see-R 1.OBJ
+\glt `Did you really see him?'
+
+\ea\label{PQ3}
+\gsrc wɛ̀ nyɛ́ nyɛ̂
+\gll wɛ nyɛ̂-H nyɛ̂
+\gls 2SG.PST1 see-R 1.OBJ
+\glt `Did you see him?'
+
+\ea\label{PQ4}
+\gsrc \textbf{nà} \textbf{púù} \textbf{yá} \textbf{gyí} wɛ̀ pálɛ́ gyàgà mányâ
+\gll nà púù yá gyí wɛ̀ pálɛ́ gyàga H-ma-nyâ
+\gls Q emptyset7.reason 7:ATT what 2SG.PST1 NEG.PST buy OBJ.LINK-ma6-milk
+\glt `Why didn't you buy milk?'
+
+\ea \label{LQ2a}
+\gsrc wɛ̀ nyɛ́lɛ́ nyɛ̂, \textbf{ngáà}
+\gll wɛ nyɛ̂-lɛ nyɛ̂ ngáà
+\gls 2SG.PST1 see-NEG 1.OBJ Q(tag)
+\glt `You didn't see him, did you?'
+
+\ex\label{LQ2b}
+\gsrc \textbf{ngáà}, wɛ̀ nyɛ́lɛ́ nyɛ̂
+\gll ngáà wɛ nyɛ̂-lɛ nyɛ̂
+\gls Q(tag) 2SG.PST1 see-NEG 1.OBJ
+\glt `Right, you didn't see him?'
+
+\ea \label{OCQ1a}
+\gsrc \textbf{nzá} wɛ̀ nzí nyɛ̂ mɛ́nɔ́ yî mákítì
+\gll nzá wɛ̀ nzí nyɛ̂ mɛ́nɔ́ yî mákítì
+\gls who 2SG PROG.PST see emptyset7.morning 7.DEM.PROX ma6.market
+\glt `Who did you see this morning at the market?'
+
+\ex \label{OCQ1b}
+\gsrc \textbf{nzá} wɛ̀ɛ́ kwálɛ̀lɛ̀
+\gll nzá wɛ̀ɛ́ kwàlɛ-lɛ
+\gls who 2SG.PRS.NEG like-NEG
+\glt `Who don't you like?'
+
+\ea \label{QCOM1}
+\gsrc \textbf{nzá} yáà lã́ \textbf{nà} \textbf{nyɛ̂}
+\gll nzá yáà lã̂-H nà nyɛ̂
+\gls who 1PL.PST2 talk-R COM 1.OBJ
+\glt `Who did we talk to?'
+
+\ex\label{QCOM2}
+\gsrc \textbf{nzá} wɛ̀ nzí làdtɔ̀ \textbf{nà} \textbf{nyɛ̂} tísɔ̀nì
+\gll nzá wɛ nzî-H làdtɔ̀ nà nyɛ̂ tísɔ̀nì
+\gls who 2SG PROG-PST meet COM 1.OBJ emptyset7.town
+\glt `Who did you meet in town?'
+
+%\ex \label{with1}
+% \gsrc \textbf{bá} \textbf{nà} \textbf{nzá} bâ kɛ̀ pɛ̂?
+\gll % bá nà nzá bâ kɛ-H pɛ̂
+\gls % 2-PRS COM who 2.FUT go there
+% \glt `Who will they go there with?'
+
+\ea \label{PR1}
+\gsrc \textbf{mɛ́} dvúɔ́ nkû
+\gll mɛ-H dvúɔ̀-H nkû
+\gls 1SG-PRS hurt-R emptyset3.foot
+\glt `My foot hurts.'
+
+\ea \label{PR2}
+\gsrc ká yí nyí \textbf{mɛ̂} mbɔ̀ mpángì yí kùgá nâ nyíì \textbf{wɛ̀} mbɔ̀
+\gll ká yi-H nyî-H mɛ̂ m-bɔ̀ mpángì yi-H kùga-H nâ nyíì wɛ m-bɔ̀
+\gls when 7-PRS enter-R 1SG.OBJ N3-arm emptyset7.bamboo 7-PRS can-R COMP enter.SBJV 2SG N3-arm
+\glt `When it goes into my arm . . . the bamboo can sting your arm.'
+
+\ea \label{PR3}
+\gsrc nzà nyíì \textbf{mɛ̀} mɔ̂
+\gll nzà nyíì mɛ̀ mɔ̂
+\gls emptyset9.hunger 9.COP 1SG.OBJ emptyset3.stomach
+\glt `I am hungry [lit. hunger is me in the stomach].'
+
+\ea \label{PR4}
+\gsrc mɛ̀ bùdɛ́ nâ á lwɔ́ngɔ́ \textbf{mɛ̂} màndáwɔ̀
+\gll mɛ bùdɛ-H nâ a-H lwɔ́ngɔ-H mɛ̂ ma-ndáwɔ̀
+\gls 1SG have-R COMP 1-PRS build[Kwasio]-R 1SG.OBJ ma6-house
+\glt `I say that she [Nadine] ought to build me houses.'
+
+\ea \label{PR5}
+\gsrc nlã̂ wá zì ndáwɔ̀ nyà zì nyíì \textbf{mɛ̂} \textbf{vé}
+\gll nlã̂ wá zì ndáwɔ̀ nyà zì nyíì mɛ̂ vé
+\gls emptyset3.story 3:ATT emptyset7.tin emptyset9.house 9:ATT tin 9.COP 1SG.OBJ where
+\glt `The problem with the tin, where is the tin (roofed) house for me?'
+
+\ea \label{PR6}
+\gsrc bùdì bà sílɛ̃́ɛ̃̀ \textbf{mɛ̂} wɛ̀ ndáwɔ̀ tù vâ
+\gll b-ùdì ba sílɛ̃́ɛ̃̀ mɛ̂ wɛ̀ ndáwɔ̀ tù vâ
+\gls ba2-person 2.PST1 finish.COMPL 1SG.OBJ die emptyset9.house inside here
+\glt `The people have all died here inside the house.'
+
+\ea \label{CC1}
+\gsrc kàbà yíì mpà bálɛ̀ sɔ́tì
+\gll kàbà yíì mpà bálɛ sɔ́tì
+\gls ∅7.dress 7.COP good surpass ∅1.trousers
+\glt `The dress is better than the trousers.'
+
+\ea \label{CC2}
+\gsrc Màmbì á kɛ́ mpà bálɛ̀ Àdà
+\gll Màmbì a-H kɛ̀-H mpà bálɛ̀ Àdà
+\gls emptyset1.PN 1-PRS go-R good surpass emptyset1.PN
+\glt `Mambi runs better than Ada.'
+
+\ea \label{CC3}
+\gsrc Adà à tsìlɔ́ békáládɛ̀ bálɛ̀ Màmbì
+\gll Adà a tsìlɔ-H H-be-káládɛ̀ bálɛ̀ Màmbì
+\gls ∅1.PN 1.PST1 write-R OBJ.LINK-be8-letter surpass ∅1.PN
+\glt `Ada wrote more letters than Mambi.'
+
+\ea \label{CC3a}
+\gsrc Àdà à dé mántúà \textbf{bálɛ̀} mànjù
+\gll Àdà a dè-H H-ma-ntúà bálɛ ma-njù
+\gls ∅1.PN 1.PST1 eat-R OBJ.LINK-ma6-mango surpass ma6-banana
+\glt `Ada ate more mangoes than bananas.'
+
+\ea \label{CC4}
+\gsrc lèdyṹũ̀ lé dẽ̂ bálɛ́ nàkùgúù
+\gll le-dyṹũ̀ lé dẽ̂ bálɛ-H nàkùgúù
+\gls le5-heat 5:ATT today surpass-R yesterday
+\glt `Today it's warmer than yesterday.'
+
+\ea \label{CC6}
+\gsrc Adà á dvùdɔ́ màtúà bálɛ̀ bɔ́gà
+\gll Adà a-H dvùdɔ-H màtúà bálɛ bɔ́-gà
+\gls emptyset1.PN 1-PRS drive-R emptyset1.car surpass 2-other
+\glt `Ada drives the car faster than all [the fastest].'
+
+\ea \label{CC5}
+\gsrc Adà á dvùdɔ́ màtúà bálɛ̀ kɛ̀ mpfúndɔ́
+\gll Adà a-H dvùdɔ-H màtúà bálɛ kɛ̀ mpfúndɔ́
+\gls emptyset1.PN 1-PRS drive-R emptyset1.car surpass go emptyset3.speed
+\glt `Ada drives the fastest car.'
+
+\ea \label{CC7}
+\gsrc mɛ̀ɛ́ \textbf{bálɛ́lɛ́} bɛ̀ nà mɔ̀nɛ́ ɛ́ \textbf{mpù} nàkùgúù
+\gll mɛ̀ɛ́ bálɛ-lɛ bɛ̀ nà mɔ̀nɛ́ ɛ́ mpù nàkùgúù
+\gls 1SG.PRS.NEG surpass-NEG be COM emptyset1.money LOC like yesterday
+\glt `I don't have as much money as yesterday.'
+
+\ea \label{CC8}
+\gsrc Àdà à dé mántúà \textbf{bálɛ̀} \textbf{mpù} Màmbì à dé mánjù
+\gll Àdà a dè-H H-ma-ntúà bálɛ mpù Màmbì a dè-H H-ma-njù
+\gls ∅1.PN 1.PST1 eat-R OBJ.LINK-ma6-mango surpass like ∅1.PN 1.PST1 eat-R OBJ.LINK-ma6-banana
+\glt `Ada ate more mangoes than Mambi bananas.'
+
+\ea \label{CC9}
+\gsrc Àdà à dé mántúà \textbf{bálɛ̀} mànjù
+\gll Àdà a dè-H H-ma-ntúà bálɛ ma-njù
+\gls ∅1.PN 1.PST1 eat-R OBJ.LINK-ma6-mango surpass ma6-banana
+\glt `Ada ate more mangoes than bananas.'
+
