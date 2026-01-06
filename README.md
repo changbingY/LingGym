@@ -13,6 +13,8 @@ In this github repo. We release three types of datasets:
 3. IGT files: all IGT-format data extracted from grammar books.
 
 
+The benchmark data is also available in Hugging Face: [LINK](https://huggingface.co/datasets/cyang33/LingGym//)
+
 If you find our work useful, please consider citing our paper.  
 ```
 @inproceedings{yang-etal-2025-linggym,
