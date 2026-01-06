@@ -5,7 +5,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 
 # Define input and output paths
 input_root = "shuffled_multiple/"
-output_root = "qwen2.5-7b-resultbase+kp+trans/"
+output_root = "qwen2.5-7b-result_source+gloss+kp+trans/"
 
 # Make sure output root exists
 os.makedirs(output_root, exist_ok=True)
