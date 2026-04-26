@@ -142,6 +142,7 @@ def process_single_csv(filepath, promptpath, model, output_txt_folder, all_word_
     # Generate embeddings for all glosses (from the full dataset)
     gloss_embeddings = {g: model.encode(g) for g in all_glosses}
     num = 0
+    prompts = []
     with open(output_path, 'w', encoding='utf-8') as fout:
         for ex in all_data:
             i = ex["index"]
@@ -150,53 +151,58 @@ def process_single_csv(filepath, promptpath, model, output_txt_folder, all_word_
             glt = ex["translation"]
             original_word = ex["original_word"]
             original_gloss = ex["original_gloss"]
+            kp = ex['knowledge_point']
 
-            # Get LCS replacement from ALL words
-            lcs_word = find_best_replacement(original_word, all_words)
-            if lcs_word == original_word:
-                fallback_words = [w for w in all_words if w != original_word]
-                lcs_word = random.choice(fallback_words) if fallback_words else original_word
+            # # Get LCS replacement from ALL words
+            # lcs_word = find_best_replacement(original_word, all_words)
+            # if lcs_word == original_word:
+            #     fallback_words = [w for w in all_words if w != original_word]
+            #     lcs_word = random.choice(fallback_words) if fallback_words else original_word
 
-            # Get semantic replacement from ALL glosses
-            sem_gloss, _ = find_best_replacement_semantic(original_gloss, all_glosses, gloss_embeddings)
-            sem_word = next((w for w, g in all_word_to_gloss.items() if g == sem_gloss and w != lcs_word and w != original_word), None)
-            if not sem_word:
-                fallback_sem_words = [w for w in all_words if w not in [original_word, lcs_word]]
-                # sem_word = random.choice(fallback_sem_words) if fallback_sem_words else original_word
-                if fallback_sem_words:
-                  sem_word = random.choice(fallback_sem_words)
-                  sem_gloss = all_word_to_gloss[sem_word]
-                else:
-                  sem_word = original_word
-                  sem_gloss = all_word_to_gloss[original_word]
+            # # Get semantic replacement from ALL glosses
+            # sem_gloss, _ = find_best_replacement_semantic(original_gloss, all_glosses, gloss_embeddings)
+            # sem_word = next((w for w, g in all_word_to_gloss.items() if g == sem_gloss and w != lcs_word and w != original_word), None)
+            # if not sem_word:
+            #     fallback_sem_words = [w for w in all_words if w not in [original_word, lcs_word]]
+            #     # sem_word = random.choice(fallback_sem_words) if fallback_sem_words else original_word
+            #     if fallback_sem_words:
+            #       sem_word = random.choice(fallback_sem_words)
+            #       sem_gloss = all_word_to_gloss[sem_word]
+            #     else:
+            #       sem_word = original_word
+            #       sem_gloss = all_word_to_gloss[original_word]
 
-            # Get distractor from CURRENT FILE words only
-            candidate_distractors = [w for w in current_file_words if w not in [original_word, lcs_word, sem_word] and all_word_to_gloss.get(w)]
-            if not candidate_distractors:
-                # Fallback to all words if no suitable distractor in current file
-                candidate_distractors = [w for w in all_words if w not in [original_word, lcs_word, sem_word] and all_word_to_gloss.get(w)]
-            distractor = random.choice(candidate_distractors)
+            # # Get distractor from CURRENT FILE words only
+            # candidate_distractors = [w for w in current_file_words if w not in [original_word, lcs_word, sem_word] and all_word_to_gloss.get(w)]
+            # if not candidate_distractors:
+            #     # Fallback to all words if no suitable distractor in current file
+            #     candidate_distractors = [w for w in all_words if w not in [original_word, lcs_word, sem_word] and all_word_to_gloss.get(w)]
+            # distractor = random.choice(candidate_distractors)
             # distractor_gloss = all_word_to_gloss[distractor]
 
             # Build prompt componenets to form prompt
             sentence = preformat(remove_textbf(' '.join(morphs[:i] + ['___'] + morphs[i+1:])).replace('\redp{}','~'))
             gloss = preformat(remove_textbf(' '.join(glosses[:i] + ['___'] + glosses[i+1:])))
             english_translation = preformat(remove_textbf(glt).replace('\glt ',''))
-            knowledge_point = preformat(ex['knowledge_point'].replace(original_word, 'the morpheme ___').replace(original_gloss, 'its gloss ___'))
+            knowledge_point = preformat(kp.replace(original_word, 'the morpheme ___').replace(original_gloss, 'its gloss ___'))
 
             with open(promptpath, "r") as f:
-                fout.write(f.read().format(
+                prompt = f.read().format(
                     num=num, 
                     language_name=language_name, 
                     sentence=sentence, 
                     gloss=gloss, 
                     english_translation=english_translation, 
                     knowledge_point=knowledge_point
-                ))
+                )
+
+                fout.write(prompt)
+                prompts.append((prompt, original_word))
 
             num = num+1
 
     print(f"Saved: {output_path}")
+    return prompts, gloss_embeddings
 
 def generate_frq_txt_per_csv(input_folder, output_txt_folder, model, prompt_path):
     os.makedirs(output_txt_folder, exist_ok=True)
@@ -212,11 +218,17 @@ def generate_frq_txt_per_csv(input_folder, output_txt_folder, model, prompt_path
     language_name = os.path.basename(input_folder)
 
     # Then process each CSV file individually
+    prompt_sets = []
+    embedding_sets = []
     for filename in os.listdir(input_folder):
         if filename.endswith(".csv"):
             filepath = os.path.join(input_folder, filename)
             print(f"Processing {filename}...")
-            process_single_csv(filepath, prompt_path, model, output_txt_folder, all_word_to_gloss, language_name)
+            prompt_set, embedding_set = process_single_csv(filepath, prompt_path, model, output_txt_folder, all_word_to_gloss, language_name)
+            prompt_sets.append(prompt_set)
+            embedding_sets.append(embedding_set)
+    
+    return prompt_sets, embedding_sets
 
 if __name__ == "__main__":
 
