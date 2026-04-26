@@ -211,6 +211,7 @@ def generate_mcq_txt_per_csv(input_folder, output_txt_folder):
             process_single_csv(filepath, model, output_txt_folder, all_word_to_gloss)
 
 # paths:
-input_folder = "/content/drive/MyDrive/Grammar_book_extract/Fwe/351-main/chapters/use_version_cleaned_output/csv_output/"
-output_txt_folder = "/content/drive/MyDrive/Grammar_book_extract/Fwe/351-main/chapters/use_version_cleaned_output/multiple/"
+input_folder = "CVS-format/Fwe"
+output_txt_folder = "output/cvs/fwe"
+os.makedirs(output_txt_folder, exist_ok=True)
 generate_mcq_txt_per_csv(input_folder, output_txt_folder)
