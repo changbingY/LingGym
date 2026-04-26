@@ -220,11 +220,10 @@ def generate_frq_txt_per_csv(input_folder, output_txt_folder, model, prompt_path
 
 if __name__ == "__main__":
 
+    MODEL = 'paraphrase-MiniLM-L6-v2'
+
     INPUT_FOLDER = "CVS-format/Fwe"
     OUTPUT_FOLDER = "output/cvs/fwe"
-    MODEL = 'paraphrase-MiniLM-L6-v2'
     PROMPT_PATH = "prompts/frq-prompt.txt"
-
-    os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
     generate_frq_txt_per_csv(INPUT_FOLDER, OUTPUT_FOLDER, MODEL, PROMPT_PATH)
