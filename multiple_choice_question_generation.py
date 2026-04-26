@@ -5,6 +5,9 @@ import pandas as pd
 from sentence_transformers import SentenceTransformer
 from scipy.spatial.distance import cosine
 
+def preformat(text: str):
+    return "\n" + text + "\n"
+
 def remove_textbf(text):
     # This pattern finds \textit{...} even if it contains nested braces
     pattern = r'\\textbf\{((?:[^{}]|\{[^{}]*\})*)\}'
@@ -12,7 +15,6 @@ def remove_textbf(text):
     while re.search(pattern, text):
         text = re.sub(pattern, r'\1', text)
     return text
-
 
 def cosine_similarity(vec1, vec2):
     return 1 - cosine(vec1, vec2)
@@ -86,7 +88,7 @@ def extract_all_words_glosses(input_folder):
 
     return all_word_to_gloss
 
-def process_single_csv(filepath, model, output_txt_folder, all_word_to_gloss):
+def process_single_csv(filepath, promptpath, model, output_txt_folder, all_word_to_gloss, language_name):
     df = pd.read_csv(filepath)
     filename_base = os.path.splitext(os.path.basename(filepath))[0]
     output_path = os.path.join(output_txt_folder, f"{filename_base}_questions.txt")
@@ -135,7 +137,7 @@ def process_single_csv(filepath, model, output_txt_folder, all_word_to_gloss):
     all_glosses = list(set(all_word_to_gloss.values()))
 
     current_file_words = list(current_file_word_to_gloss.keys())
-    current_file_glosses = list(set(current_file_word_to_gloss.values()))
+    # current_file_glosses = list(set(current_file_word_to_gloss.values()))
 
     # Generate embeddings for all glosses (from the full dataset)
     gloss_embeddings = {g: model.encode(g) for g in all_glosses}
@@ -174,44 +176,55 @@ def process_single_csv(filepath, model, output_txt_folder, all_word_to_gloss):
                 # Fallback to all words if no suitable distractor in current file
                 candidate_distractors = [w for w in all_words if w not in [original_word, lcs_word, sem_word] and all_word_to_gloss.get(w)]
             distractor = random.choice(candidate_distractors)
-            distractor_gloss = all_word_to_gloss[distractor]
-            fout.write(f"Question {num}:\n")
-            fout.write("You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. \n")
-            fout.write("Sentence (with missing item): " + remove_textbf(' '.join(morphs[:i] + ['___'] + morphs[i+1:])).replace('\redp{}','~') + "\n")
-            fout.write("Gloss (with missing item): " + remove_textbf(' '.join(glosses[:i] + ['___'] + glosses[i+1:])) + "\n")
-            fout.write("The English translation of this sentence is:" +remove_textbf(glt).replace('\glt ','')+"\n")
-            fout.write("Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: " + ex['knowledge_point'].replace(original_word, 'the morpheme ___').replace(original_gloss, 'its gloss ___') + "\n")
-            #add knowledge point here
-            fout.write(f"A: word: {original_word}\t gloss: {original_gloss}\n")
-            fout.write(f"B: word: {lcs_word}\t gloss: {all_word_to_gloss.get(lcs_word, 'N/A')}\n")
-            fout.write(f"C: word: {sem_word}\t gloss: {sem_gloss}\n")
-            fout.write(f"D: word: {distractor}\t gloss: {distractor_gloss}\n")
-            fout.write('Please only return the letter (A–D).')
-            fout.write('\n\n')
+            # distractor_gloss = all_word_to_gloss[distractor]
+
+            # Build prompt componenets to form prompt
+            sentence = preformat(remove_textbf(' '.join(morphs[:i] + ['___'] + morphs[i+1:])).replace('\redp{}','~'))
+            gloss = preformat(remove_textbf(' '.join(glosses[:i] + ['___'] + glosses[i+1:])))
+            english_translation = preformat(remove_textbf(glt).replace('\glt ',''))
+            knowledge_point = preformat(ex['knowledge_point'].replace(original_word, 'the morpheme ___').replace(original_gloss, 'its gloss ___'))
+
+            with open(promptpath, "r") as f:
+                fout.write(f.read().format(
+                    num=num, 
+                    language_name=language_name, 
+                    sentence=sentence, 
+                    gloss=gloss, 
+                    english_translation=english_translation, 
+                    knowledge_point=knowledge_point
+                ))
+
             num = num+1
 
     print(f"Saved: {output_path}")
 
-
-def generate_mcq_txt_per_csv(input_folder, output_txt_folder):
+def generate_frq_txt_per_csv(input_folder, output_txt_folder, model, prompt_path):
     os.makedirs(output_txt_folder, exist_ok=True)
     print("Loading SentenceTransformer model...")
-    model = SentenceTransformer('paraphrase-MiniLM-L6-v2')
+    model = SentenceTransformer(model)
 
-    # First, extract all words and glosses from all CSV files
+    # First extract all words and glosses from all CSV files
     print("Extracting words and glosses from all CSV files...")
     all_word_to_gloss = extract_all_words_glosses(input_folder)
     print(f"Found {len(all_word_to_gloss)} unique words across all files")
+
+    # Next get the language name for the prompt
+    language_name = os.path.basename(input_folder)
 
     # Then process each CSV file individually
     for filename in os.listdir(input_folder):
         if filename.endswith(".csv"):
             filepath = os.path.join(input_folder, filename)
             print(f"Processing {filename}...")
-            process_single_csv(filepath, model, output_txt_folder, all_word_to_gloss)
+            process_single_csv(filepath, prompt_path, model, output_txt_folder, all_word_to_gloss, language_name)
 
-# paths:
-input_folder = "CVS-format/Fwe"
-output_txt_folder = "output/cvs/fwe"
-os.makedirs(output_txt_folder, exist_ok=True)
-generate_mcq_txt_per_csv(input_folder, output_txt_folder)
+if __name__ == "__main__":
+
+    INPUT_FOLDER = "CVS-format/Fwe"
+    OUTPUT_FOLDER = "output/cvs/fwe"
+    MODEL = 'paraphrase-MiniLM-L6-v2'
+    PROMPT_PATH = "prompts/frq-prompt.txt"
+
+    os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+
+    generate_frq_txt_per_csv(INPUT_FOLDER, OUTPUT_FOLDER, MODEL, PROMPT_PATH)
