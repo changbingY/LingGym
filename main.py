@@ -1,39 +1,31 @@
 from sklearn.metrics.pairwise import cosine_similarity
-from cerebras.cloud.sdk import Cerebras
+from typing import Callable
 from tqdm import tqdm
 
 import free_response_question_generation as frqs
 import numpy as np
 import os, json, glob
 
+from cerebras.cloud.sdk import Cerebras
+
 # Goal: Improve how LLMs learn Low-Resource languages through prompt engineering.
 # 1. Take question and remove MCQ portion
 # 2. Restructure to make open-ended
 # 3. Semantically compare (cosine similarity) the translated answer with the LLM’s response.
 
-def get_model():
-    return Cerebras(api_key=os.getenv("CEREBRAS_API_KEY"))
-
-def send_prompt(client, model, prompt):
-    response =  client.chat.completions.create(
-        messages=[{"role": "user", "content": prompt}],
-        model=model
-    )
-    return response.choices[0].message.content.strip()
-
-def prompt_model(prompts, model: str, visuals: bool = True):
+def prompt_model(prompts, model: str, model_func: Callable, prompt_func: Callable, visuals: bool = True):
     
     if visuals:
         bar = tqdm(total=len(prompts), desc=model, leave=True)
     else:
         bar = None
     
-    client = get_model()
+    client = model_func()
 
     results = []
     for job in prompts:
         prompt, answer, real_word = job
-        response = send_prompt(client=client, model=model, prompt=prompt)
+        response = prompt_func(client=client, model=model, prompt=prompt)
         results.append((response, answer, real_word))
         if bar:
             bar.update(1)
@@ -71,6 +63,16 @@ def build_report(accuracy, similarity_info):
     return report
 
 def main():
+    def get_model():
+        return Cerebras(api_key=os.getenv("CEREBRAS_API_KEY"))
+
+    def send_prompt(client, model, prompt):
+        response =  client.chat.completions.create(
+            messages=[{"role": "user", "content": prompt}],
+            model=model
+        )
+        return response.choices[0].message.content.strip()
+
     EMBEDDING_MODEL = "paraphrase-MiniLM-L6-v2"
     PROMPTING_MODEL = "llama3.1-8b"
 
@@ -94,7 +96,7 @@ def main():
         prompt_info, _ = dataset
 
         # Prompt model
-        word_pairs = prompt_model(prompt_info, PROMPTING_MODEL)
+        word_pairs = prompt_model(prompt_info, PROMPTING_MODEL, model_func=get_model, prompt_func=send_prompt)
 
         # Find cosine similarity of each prediction-answer pair
         similarity_info = find_similarities(word_pairs=word_pairs, model=embedder)
