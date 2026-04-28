@@ -130,14 +130,14 @@ def process_single_csv(filepath, promptpath, model, output_txt_folder, all_word_
                               })
 
     if not current_file_word_to_gloss:
-        return
+        return (None, None)
 
     # Get lists for both dictionaries
     all_words = list(all_word_to_gloss.keys())
     all_glosses = list(set(all_word_to_gloss.values()))
 
     current_file_words = list(current_file_word_to_gloss.keys())
-    # current_file_glosses = list(set(current_file_word_to_gloss.values()))
+    current_file_glosses = list(set(current_file_word_to_gloss.values()))
 
     # Generate embeddings for all glosses (from the full dataset)
     gloss_embeddings = {g: model.encode(g) for g in all_glosses}
@@ -197,10 +197,9 @@ def process_single_csv(filepath, promptpath, model, output_txt_folder, all_word_
                 )
 
                 fout.write(prompt)
-                prompts.append((prompt, original_word))
+                prompts.append((prompt, original_gloss, original_word))
 
             num = num+1
-
     print(f"Saved: {output_path}")
     return prompts, gloss_embeddings
 
@@ -218,17 +217,16 @@ def generate_frq_txt_per_csv(input_folder, output_txt_folder, model, prompt_path
     language_name = os.path.basename(input_folder)
 
     # Then process each CSV file individually
-    prompt_sets = []
-    embedding_sets = []
+    datasets = {}
     for filename in os.listdir(input_folder):
         if filename.endswith(".csv"):
             filepath = os.path.join(input_folder, filename)
             print(f"Processing {filename}...")
-            prompt_set, embedding_set = process_single_csv(filepath, prompt_path, model, output_txt_folder, all_word_to_gloss, language_name)
-            prompt_sets.append(prompt_set)
-            embedding_sets.append(embedding_set)
+            prompt_sets, embedding_dict = process_single_csv(filepath, prompt_path, model, output_txt_folder, all_word_to_gloss, language_name)
+            if prompt_sets and embedding_dict:
+                datasets[filename] = (prompt_sets, embedding_dict)
     
-    return prompt_sets, embedding_sets
+    return model, datasets
 
 if __name__ == "__main__":
 
