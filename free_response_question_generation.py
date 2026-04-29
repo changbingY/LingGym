@@ -192,8 +192,7 @@ def process_single_csv(filepath, promptpath, model, output_txt_folder, all_word_
     print(f"Saved: {output_path}")
     return prompts
 
-def generate_frq_txt_per_csv(input_folder, output_txt_folder, model):
-    os.makedirs(output_txt_folder, exist_ok=True)
+def generate_frq_txt_per_csv(input_folder, model):
     print("Loading SentenceTransformer model...")
 
     # First extract all words and glosses from all CSV files
@@ -210,7 +209,7 @@ def generate_frq_txt_per_csv(input_folder, output_txt_folder, model):
         if filename.endswith(".csv"):
             filepath = os.path.join(input_folder, filename)
             print(f"Processing {filename}...")
-            prompt_sets = process_single_csv(filepath, model, output_txt_folder, all_word_to_gloss, language_name)
+            prompt_sets = process_single_csv(filepath, model, all_word_to_gloss, language_name)
             if prompt_sets:
                 datasets[filename] = (prompt_sets)
     
