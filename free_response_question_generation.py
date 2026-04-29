@@ -2,7 +2,6 @@ import os
 import re
 import random
 import pandas as pd
-from sentence_transformers import SentenceTransformer
 from scipy.spatial.distance import cosine
 
 def preformat(text: str):
@@ -141,7 +140,6 @@ def process_single_csv(filepath, promptpath, model, output_txt_folder, all_word_
 
     # Generate embeddings for all glosses (from the full dataset)
     gloss_embeddings = {g: model.encode(g) for g in all_glosses}
-    num = 0
     prompts = []
     with open(output_path, 'w', encoding='utf-8') as fout:
         for ex in all_data:
@@ -186,27 +184,17 @@ def process_single_csv(filepath, promptpath, model, output_txt_folder, all_word_
             english_translation = preformat(remove_textbf(glt).replace('\glt ',''))
             knowledge_point = preformat(kp.replace(original_word, 'the morpheme ___').replace(original_gloss, 'its gloss ___'))
 
-            with open(promptpath, "r") as f:
-                prompt = f.read().format(
-                    num=num, 
-                    language_name=language_name, 
-                    sentence=sentence, 
-                    gloss=gloss, 
-                    english_translation=english_translation, 
-                    knowledge_point=knowledge_point
-                )
+            data = (i, language_name, sentence, gloss, knowledge_point, english_translation)
 
-                fout.write(prompt)
-                prompts.append((prompt, original_gloss, original_word))
+            prompts.append((data, original_gloss, original_word))
 
             num = num+1
     print(f"Saved: {output_path}")
-    return prompts, gloss_embeddings
+    return prompts
 
-def generate_frq_txt_per_csv(input_folder, output_txt_folder, model, prompt_path):
+def generate_frq_txt_per_csv(input_folder, output_txt_folder, model):
     os.makedirs(output_txt_folder, exist_ok=True)
     print("Loading SentenceTransformer model...")
-    model = SentenceTransformer(model)
 
     # First extract all words and glosses from all CSV files
     print("Extracting words and glosses from all CSV files...")
@@ -222,18 +210,8 @@ def generate_frq_txt_per_csv(input_folder, output_txt_folder, model, prompt_path
         if filename.endswith(".csv"):
             filepath = os.path.join(input_folder, filename)
             print(f"Processing {filename}...")
-            prompt_sets, embedding_dict = process_single_csv(filepath, prompt_path, model, output_txt_folder, all_word_to_gloss, language_name)
-            if prompt_sets and embedding_dict:
-                datasets[filename] = (prompt_sets, embedding_dict)
+            prompt_sets = process_single_csv(filepath, model, output_txt_folder, all_word_to_gloss, language_name)
+            if prompt_sets:
+                datasets[filename] = (prompt_sets)
     
     return model, datasets
-
-if __name__ == "__main__":
-
-    MODEL = 'paraphrase-MiniLM-L6-v2'
-
-    INPUT_FOLDER = "CVS-format/Fwe"
-    OUTPUT_FOLDER = "output/cvs/fwe"
-    PROMPT_PATH = "prompts/frq-prompt.txt"
-
-    generate_frq_txt_per_csv(INPUT_FOLDER, OUTPUT_FOLDER, MODEL, PROMPT_PATH)
