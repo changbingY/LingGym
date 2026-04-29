@@ -1,0 +1,10 @@
+Question {num}:
+You are a linguist specializing in {language_name}. You are given a sentence along with its morpheme breakdown, gloss, and translation. 
+Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore.
+
+Sentence (with missing item): {sentence}
+Gloss (with missing item): {gloss}
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: {knowledge_point}
+
+Based on your understanding of the provided information, 
+Please respond with the appropriate gloss. DO NOT respond with any other text. ONLY provide the gloss.
