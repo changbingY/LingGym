@@ -3,9 +3,7 @@ from sentence_transformers import SentenceTransformer
 from cerebras.cloud.sdk import AsyncCerebras
 from pydantic import BaseModel, Field
 from dotenv import load_dotenv
-from datetime import datetime
 from tqdm import tqdm
-
 import asyncio, os, json, random, math
 import numpy as np
 
@@ -43,9 +41,6 @@ SCHEMA = {
 
 class Schema(BaseModel):
     gloss: str = Field(description="A single gloss element")
-
-def get_time():
-    return datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
 def collect_data(question_sets: dict, input_folder: str, report_folder: str, language: str, model: str, max_count: int | None = None):
     print(f"Report folder: {report_folder}")
