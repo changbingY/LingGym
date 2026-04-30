@@ -3,6 +3,7 @@ from sentence_transformers import SentenceTransformer
 from cerebras.cloud.sdk import AsyncCerebras
 from pydantic import BaseModel, Field
 from dotenv import load_dotenv
+from asyncio import Semaphore
 from tqdm import tqdm
 import asyncio, os, json, random, math
 import numpy as np
@@ -131,7 +132,7 @@ def mcq2frq(question: str, language: str, model: str | None = None, folder: str 
     
     return prompts
 
-async def send_prompt(client: AsyncCerebras, model, prompt, semaphore, **kwargs):
+async def send_prompt(client: AsyncCerebras, model: str, prompt: str, semaphore: Semaphore, **kwargs):
     async with semaphore:
         completion = await client.chat.completions.create(
             model=model,
@@ -153,7 +154,7 @@ async def send_prompt(client: AsyncCerebras, model, prompt, semaphore, **kwargs)
 
     return json.loads(completion.choices[0].message.content)["predicted_gloss"]
 
-async def prompt_and_compare(model_id, embedder, semaphore, dataset, **kwargs):
+async def prompt_and_compare(model_id: str, transformer: SentenceTransformer, semaphore: Semaphore, dataset: list[tuple[str, str, str]], **kwargs):
     # Initialize client
     async with AsyncCerebras(api_key=os.environ.get("CEREBRAS_API_KEY")) as client:
 
@@ -178,8 +179,8 @@ async def prompt_and_compare(model_id, embedder, semaphore, dataset, **kwargs):
             # Find cosine similarity of each prediction-answer pair
             threshold = kwargs.get("threshold")
             sim = cosine_similarity(
-                embedder.encode(response).reshape(1, -1), 
-                embedder.encode(real_gloss).reshape(1, -1)
+                transformer.encode(response).reshape(1, -1), 
+                transformer.encode(real_gloss).reshape(1, -1)
             )[0][0]
             is_sufficient = 1 if sim >= threshold else 0
             
@@ -191,12 +192,12 @@ async def prompt_and_compare(model_id, embedder, semaphore, dataset, **kwargs):
 
         return results
 
-async def run_async(model_id, embedder, dataset):
+async def run_async(model_id: str, transformer: SentenceTransformer, dataset: list[tuple[str, str, str]]):
     semaphore = asyncio.Semaphore(SEMAPHORE_RATE)
     stratified_dataset = stratify(dataset, SPLIT_COUNT, SEED)
     list_of_res = await asyncio.gather(*[prompt_and_compare(
         model_id=model_id,
-        embedder=embedder,
+        transformer=transformer,
         semaphore=semaphore,
         dataset=chunk,
 
@@ -209,7 +210,7 @@ async def run_async(model_id, embedder, dataset):
 
 def main():
     load_dotenv()
-    embedder = SentenceTransformer(EMBEDDING_MODEL)
+    transformer = SentenceTransformer(EMBEDDING_MODEL)
 
     for language in LANGUAGES:
 
@@ -221,7 +222,7 @@ def main():
         question_sets = collect_data(empty_question_sets, input_folder, query_folder, language, PROMPTING_MODEL, MAX_QUESTION_COUNT)
             
         for label, question_set in question_sets.items():
-            results = asyncio.run(run_async(PROMPTING_MODEL, embedder, question_set))
+            results = asyncio.run(run_async(PROMPTING_MODEL, transformer, question_set))
             
             # (real_word, real_gloss, response, float(sim), is_sufficient)
 
