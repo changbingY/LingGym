@@ -16,16 +16,16 @@ EMBEDDING_MODEL = "paraphrase-MiniLM-L6-v2"
 PROMPTING_MODEL = "gpt-oss-120b"
 
 # Model Behavior
-MAX_QUESTION_COUNT = 500
+MAX_QUESTION_COUNT = 250
 SPLIT_COUNT = 5
 MAX_TOKENS = 100 # What's the maximum number of tokens a model can provide?
 TEMPERATURE = 0.1 # How imaginative will the model's response be?
 TOP_P = 1.0 # How likely should a word be so that it is considered in the response?
 
 # Latency
-SEMAPHORE_RATE = 5
+SEMAPHORE_RATE = 2
 WAIT_RANGE = (2, 60)
-STOP_AFTER_ATTEMPT = 5
+STOP_AFTER_ATTEMPT = 10
 
 # Languages
 LANGUAGES = {
@@ -48,6 +48,21 @@ SCHEMA = {
 class Schema(BaseModel):
     gloss: str = Field(description="A single gloss element")
 
+def get_report_structure(p=None, r=None, f=None, s=None):
+    return {
+        "precision": p if p is not None else [],
+        "recall": r if r is not None else [],
+        "f1_score": f if f is not None else [],
+        "similarity_accuracy": s if s is not None else []
+    }
+
+def get_ablation_structure(i=None, ii=None, iii=None):
+    return {
+        "s-g": i if i is not None else [], 
+        "s-g-kp": ii if ii is not None else [], 
+        "s-g-kp-t": iii if iii is not None else []
+    }
+
 def get_time():
     return datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 
@@ -55,22 +70,6 @@ def make_folder(*paths: str):
     folder = os.path.join(*paths)
     os.makedirs(folder, exist_ok=True)
     return folder
-
-def collect_data(question_sets: dict, input_folder: str, report_folder: str, language: str, model: str, max_count: int | None = None):
-    print(f"Report folder: {report_folder}")
-    for filename in os.listdir(input_folder):
-        with open(os.path.join(input_folder, filename), 'r') as f:
-            raw_data = f.read().split('\n\n')
-        for question in raw_data:
-            if "Question" not in question:
-                continue
-            prompts = mcq2frq(question, language, model, report_folder)
-            for ablation, value in prompts.items():
-                question_sets[ablation].append(value)
-    if max_count:
-        for key, value in question_sets.items():
-            question_sets[key] = value[:max_count]
-    return question_sets
 
 def stratify(l: list, n: int, seed: int | None = None):
     
@@ -86,7 +85,22 @@ def stratify(l: list, n: int, seed: int | None = None):
     
     return newl
 
-def mcq2frq(question: str, language: str, model: str | None = None, folder: str | None = None):
+def collect_data(question_sets: dict, input_folder: str, report_folder: str, language: str, model: str, description: str, task: str, max_count: int | None = None):
+    for filename in os.listdir(input_folder):
+        with open(os.path.join(input_folder, filename), 'r') as f:
+            raw_data = f.read().split('\n\n')
+        for question in raw_data:
+            if "Question" not in question:
+                continue
+            prompts = mcq2frq(question, language, description, task, model, report_folder)
+            for ablation, value in prompts.items():
+                question_sets[ablation].append(value)
+    if max_count:
+        for key, value in question_sets.items():
+            question_sets[key] = value[:max_count]
+    return question_sets
+
+def mcq2frq(question: str, description: str, task: str, model: str | None = None, folder: str | None = None):
     """
     SAMPLE QUESTION
     0    Question 0:
@@ -113,17 +127,13 @@ def mcq2frq(question: str, language: str, model: str | None = None, folder: str 
     b               = components[7]
     c               = components[8]
     d               = components[9]
-    task            = components[10]
     correct_letter  = components[11].split()[-1] 
 
-    description = f"You are a linguist specializing in {language}. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding of the gloss format and the provided information, determine the gloss of the sentence gloss."
-    task = "#### Instructions: \n1. Read the Leipzig Glossing Rules and understand each rule to use in your analysis of the sentence and gloss: `https://www.eva.mpg.de/lingua/resources/glossing-rules.php`. \n2. Based on your understanding of the Leipzig Glossing Rules and the provided information, respond ONLY with the missing gloss for the underscored position. Use hyphen-separated morpheme glosses, and do not include any explanation or other text."
-    # task = "Based on your understanding of the provided information, Please respond with the appropriate gloss. DO NOT respond with any other text. ONLY provide your single gloss seperated by hyphens."
-    ablations = {
-        "s-g": '\n'.join([sent, gloss]),
-        "s-g-kp": '\n'.join([sent, gloss, knpt]),
-        "s-g-kp-t": '\n'.join([sent, gloss, engl, knpt]),
-    }
+    ablations = get_ablation_structure(
+        i='\n'.join([sent, gloss]),
+        ii='\n'.join([sent, gloss, knpt]),
+        iii='\n'.join([sent, gloss, engl, knpt])
+    )
     
     original_word = None
     original_gloss = None
@@ -169,10 +179,10 @@ async def send_prompt(client: AsyncCerebras, model: str, prompt: str, semaphore:
     return json.loads(completion.choices[0].message.content)["predicted_gloss"]
 
 async def prompt_and_compare(model_id: str, transformer: SentenceTransformer, semaphore: Semaphore, dataset: list[tuple[str, str, str]], **kwargs):
-    # Initialize client
+    
     async with AsyncCerebras(api_key=os.environ.get("CEREBRAS_API_KEY")) as client:
 
-        # Keep track of job progress
+        
         bar = tqdm(total=len(dataset), desc=model_id, leave=True)
 
         results = []
@@ -181,7 +191,6 @@ async def prompt_and_compare(model_id: str, transformer: SentenceTransformer, se
 
             prompt, real_word, real_gloss = data
 
-            # Prompt model
             response: str = await send_prompt(
                 client=client, 
                 model=model_id, 
@@ -190,7 +199,6 @@ async def prompt_and_compare(model_id: str, transformer: SentenceTransformer, se
                 **kwargs
             )
 
-            # Find cosine similarity of each prediction-answer pair
             sim = cosine_similarity(
                 transformer.encode(response).reshape(1, -1), 
                 transformer.encode(real_gloss).reshape(1, -1)
@@ -219,53 +227,71 @@ async def run_async(model_id: str, transformer: SentenceTransformer, dataset: li
     ) for chunk in stratified_dataset])
     return [item for sublist in list_of_res for item in sublist]
 
-def main():
+def main(task):
     load_dotenv()
     transformer = SentenceTransformer(EMBEDDING_MODEL)
 
     time_of_run = get_time()
-    full_report = {}
+    full_report = get_ablation_structure(get_report_structure(), get_report_structure(), get_report_structure())
     output_folder = make_folder("output", time_of_run)
+    exp_vs_act = "exp: act"
 
     for language in LANGUAGES:
+
+        desc = f"You are a linguist specializing in {language}. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding of the gloss format and the provided information, determine the gloss of the sentence gloss."
         
         input_folder = make_folder("Benchmark_multiple_choice", language)
         query_folder = make_folder(output_folder, language, "query")
         report_folder = make_folder(output_folder, language, "reports")
 
-        empty_question_sets = {"s-g": [], "s-g-kp": [], "s-g-kp-t": []}
-        question_sets = collect_data(empty_question_sets, input_folder, query_folder, language, PROMPTING_MODEL, MAX_QUESTION_COUNT)
+        empty_question_sets = get_ablation_structure()
+        question_sets = collect_data(empty_question_sets, input_folder, query_folder, language, PROMPTING_MODEL, desc, task, MAX_QUESTION_COUNT)
             
         for label, question_set in question_sets.items():
+            print(f"{time_of_run} | Language: {language}, Question Set: {label}")
+
             results = asyncio.run(run_async(PROMPTING_MODEL, transformer, question_set))
-            
-            # (real_word, real_gloss, response, float(sim))
 
             _, real_glosses, pred_glosses, sims = zip(*results)
 
-            precision, recall, f1_score, _ = precision_recall_fscore_support(real_glosses, pred_glosses)
+            gloss_labels = np.unique(real_glosses)
+            precision, recall, f1_score, _ = precision_recall_fscore_support(
+                real_glosses,
+                pred_glosses,
+                labels=gloss_labels,
+                average=None,
+                zero_division=0
+            )
 
-            lang_report = {
-                "precision": precision,
-                "recall": recall,
-                "f1_score": f1_score,
-                "similarity_accuracy": np.mean(sims),
-                "similarities": {}
-            }
-
-            for word, exp, act, _, _ in results:
-                lang_report["similarities"][word] = (exp, act)
+            lang_report = get_report_structure(
+                p=np.mean(precision),
+                r=np.mean(recall),
+                f=np.mean(f1_score),
+                s=np.mean(sims),
+            )
+            
+            lang_report[exp_vs_act] = {}
+            for idx in range(len(real_glosses)):
+                lang_report[exp_vs_act][real_glosses[idx]] = pred_glosses[idx]
+            
+            full_report[label]["precision"].append(np.mean(precision))
+            full_report[label]["recall"].append(np.mean(recall))
+            full_report[label]["f1_score"].append(np.mean(f1_score))
+            full_report[label]["similarity_accuracy"].append(np.mean(sims))
             
             report_filename = PROMPTING_MODEL + "_" + label + ".json"
             with open(os.path.join(make_folder(report_folder), report_filename), "w") as f:
                 json.dump(lang_report, f, indent=4)
-            
-            lang_report.pop("similarities")
-            full_report[language] = lang_report
     
+    for key in full_report:
+        full_report[key] = {metric: np.mean(values) for metric, values in full_report[key].items()}
+        
     full_report_filename = PROMPTING_MODEL + "_full_report.json"
     with open(os.path.join(make_folder("output", time_of_run), full_report_filename), "w") as f:
-        json.dump(lang_report, f, indent=4)
+        json.dump(full_report, f, indent=4)
 
 if __name__ == "__main__":
-    main()
+    task1 = "Based on your understanding of the provided information, Please respond with the appropriate gloss. DO NOT respond with any other text. ONLY provide your single gloss seperated by hyphens."
+    task2 = "#### Instructions: \n1. Read the Leipzig Glossing Rules and understand each rule to use in your analysis of the sentence and gloss: `https://www.eva.mpg.de/lingua/resources/glossing-rules.php`. \n2. Based on your understanding of the Leipzig Glossing Rules and the provided information, respond ONLY with the missing gloss for the underscored position. Use hyphen-separated morpheme glosses, and do not include any explanation or other text."
+    main(task1)
+    main(task2)
