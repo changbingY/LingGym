@@ -1,8 +1,11 @@
+from tenacity import retry, stop_after_attempt, wait_exponential
 from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.metrics import precision_recall_fscore_support
 from sentence_transformers import SentenceTransformer
 from cerebras.cloud.sdk import AsyncCerebras
 from pydantic import BaseModel, Field
 from dotenv import load_dotenv
+from datetime import datetime
 from asyncio import Semaphore
 from tqdm import tqdm
 import asyncio, os, json, random, math
@@ -13,13 +16,16 @@ EMBEDDING_MODEL = "paraphrase-MiniLM-L6-v2"
 PROMPTING_MODEL = "gpt-oss-120b"
 
 # Model Behavior
-MAX_QUESTION_COUNT = 100
+MAX_QUESTION_COUNT = 500
 SPLIT_COUNT = 5
-SEMAPHORE_RATE = 10 # What's the maximum number of concurrent API requests at any given time?
 MAX_TOKENS = 100 # What's the maximum number of tokens a model can provide?
 TEMPERATURE = 0.1 # How imaginative will the model's response be?
 TOP_P = 1.0 # How likely should a word be so that it is considered in the response?
-ACCEPTANCE_THRESHOLD = 0.75 # How close is good enough?
+
+# Latency
+SEMAPHORE_RATE = 5
+WAIT_RANGE = (2, 60)
+STOP_AFTER_ATTEMPT = 5
 
 # Languages
 LANGUAGES = {
@@ -42,6 +48,9 @@ SCHEMA = {
 
 class Schema(BaseModel):
     gloss: str = Field(description="A single gloss element")
+
+def get_time():
+    return datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 
 def collect_data(question_sets: dict, input_folder: str, report_folder: str, language: str, model: str, max_count: int | None = None):
     print(f"Report folder: {report_folder}")
@@ -104,7 +113,8 @@ def mcq2frq(question: str, language: str, model: str | None = None, folder: str 
     correct_letter  = components[11].split()[-1] 
 
     description = f"You are a linguist specializing in {language}. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding of the gloss format and the provided information, determine the gloss of the sentence gloss."
-    task = "Based on your understanding of the provided information, Please respond with the appropriate gloss. DO NOT respond with any other text. ONLY provide your single gloss seperated by hyphens."
+    task = "#### Instructions: \n1. Read the Leipzig Glossing Rules and understand each rule to use in your analysis of the sentence and gloss: `https://www.eva.mpg.de/lingua/resources/glossing-rules.php`. \n2. Based on your understanding of the Leipzig Glossing Rules and the provided information, respond ONLY with the missing gloss for the underscored position. Use hyphen-separated morpheme glosses, and do not include any explanation or other text."
+    # task = "Based on your understanding of the provided information, Please respond with the appropriate gloss. DO NOT respond with any other text. ONLY provide your single gloss seperated by hyphens."
     ablations = {
         "s-g": '\n'.join([sent, gloss]),
         "s-g-kp": '\n'.join([sent, gloss, knpt]),
@@ -132,6 +142,7 @@ def mcq2frq(question: str, language: str, model: str | None = None, folder: str 
     
     return prompts
 
+@retry(stop=stop_after_attempt(STOP_AFTER_ATTEMPT), wait=wait_exponential(*WAIT_RANGE))
 async def send_prompt(client: AsyncCerebras, model: str, prompt: str, semaphore: Semaphore, **kwargs):
     async with semaphore:
         completion = await client.chat.completions.create(
@@ -168,7 +179,7 @@ async def prompt_and_compare(model_id: str, transformer: SentenceTransformer, se
             prompt, real_word, real_gloss = data
 
             # Prompt model
-            response = await send_prompt(
+            response: str = await send_prompt(
                 client=client, 
                 model=model_id, 
                 prompt=prompt,
@@ -177,14 +188,12 @@ async def prompt_and_compare(model_id: str, transformer: SentenceTransformer, se
             )
 
             # Find cosine similarity of each prediction-answer pair
-            threshold = kwargs.get("threshold")
             sim = cosine_similarity(
                 transformer.encode(response).reshape(1, -1), 
                 transformer.encode(real_gloss).reshape(1, -1)
             )[0][0]
-            is_sufficient = 1 if sim >= threshold else 0
             
-            results.append((real_word, real_gloss, response, float(sim), is_sufficient))
+            results.append((real_word, real_gloss.lower(), response.lower(), float(sim)))
 
             bar.update(1)
             
@@ -203,8 +212,7 @@ async def run_async(model_id: str, transformer: SentenceTransformer, dataset: li
 
         max_new_tokens=MAX_TOKENS,
         temperature=TEMPERATURE,
-        top_p=TOP_P,
-        threshold=ACCEPTANCE_THRESHOLD
+        top_p=TOP_P
     ) for chunk in stratified_dataset])
     return [item for sublist in list_of_res for item in sublist]
 
@@ -212,9 +220,12 @@ def main():
     load_dotenv()
     transformer = SentenceTransformer(EMBEDDING_MODEL)
 
+    time_of_run = get_time()
+    full_report = {}
+
     for language in LANGUAGES:
 
-        input_folder = os.path.join(TARGET_FORMAT, language)
+        input_folder = os.path.join("output", time_of_run, TARGET_FORMAT, language)
         query_folder = os.path.join("query", input_folder)
         report_folder = os.path.join("reports", input_folder)
 
@@ -224,23 +235,34 @@ def main():
         for label, question_set in question_sets.items():
             results = asyncio.run(run_async(PROMPTING_MODEL, transformer, question_set))
             
-            # (real_word, real_gloss, response, float(sim), is_sufficient)
+            # (real_word, real_gloss, response, float(sim))
 
-            _, _, _, sims, thraccs = zip(*results)
+            _, real_glosses, pred_glosses, sims = zip(*results)
 
-            report = {
-                "similarity": np.mean(sims), 
-                "threshold_accuracy": np.mean(thraccs),
+            precision, recall, f1_score, _ = precision_recall_fscore_support(real_glosses, pred_glosses)
+
+            lang_report = {
+                "precision": precision,
+                "recall": recall,
+                "f1_score": f1_score,
+                "similarity_accuracy": np.mean(sims),
                 "similarities": {}
             }
 
             for word, exp, act, _, _ in results:
-                report["similarities"][word] = (exp, act)
+                lang_report["similarities"][word] = (exp, act)
             
             report_filename = PROMPTING_MODEL + "_" + label + ".json"
             os.makedirs(report_folder, exist_ok=True)
             with open(os.path.join(report_folder, report_filename), "w") as f:
-                json.dump(report, f, indent=4)
+                json.dump(lang_report, f, indent=4)
+            
+            lang_report.pop("similarities")
+            full_report[language] = lang_report
+    
+    full_report_filename = PROMPTING_MODEL + "_full_report.json"
+    with open(os.path.join("output", time_of_run, full_report_filename), "w") as f:
+        json.dump(lang_report, f, indent=4)
 
 if __name__ == "__main__":
     main()
