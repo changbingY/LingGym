@@ -35,7 +35,6 @@ LANGUAGES = {
 }
 
 # Miscellaneous
-TARGET_FORMAT = "Benchmark_multiple_choice"
 SEED = 42
 SCHEMA = {
     "type": "object",
@@ -51,6 +50,11 @@ class Schema(BaseModel):
 
 def get_time():
     return datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+
+def make_folder(*paths: str):
+    folder = os.path.join(*paths)
+    os.makedirs(folder, exist_ok=True)
+    return folder
 
 def collect_data(question_sets: dict, input_folder: str, report_folder: str, language: str, model: str, max_count: int | None = None):
     print(f"Report folder: {report_folder}")
@@ -136,8 +140,7 @@ def mcq2frq(question: str, language: str, model: str | None = None, folder: str 
 
         if model and folder:
             query_filename = f"{model}_{ablation}.txt"
-            os.makedirs(folder, exist_ok=True)
-            with open(os.path.join(folder, query_filename), "a") as f:
+            with open(os.path.join(make_folder(folder), query_filename), "a") as f:
                 f.write(prompts[ablation][0] + '\n\n')
     
     return prompts
@@ -222,12 +225,13 @@ def main():
 
     time_of_run = get_time()
     full_report = {}
+    output_folder = make_folder("output", time_of_run)
 
     for language in LANGUAGES:
-
-        input_folder = os.path.join("output", time_of_run, TARGET_FORMAT, language)
-        query_folder = os.path.join("query", input_folder)
-        report_folder = os.path.join("reports", input_folder)
+        
+        input_folder = make_folder("Benchmark_multiple_choice", language)
+        query_folder = make_folder(output_folder, language, "query")
+        report_folder = make_folder(output_folder, language, "reports")
 
         empty_question_sets = {"s-g": [], "s-g-kp": [], "s-g-kp-t": []}
         question_sets = collect_data(empty_question_sets, input_folder, query_folder, language, PROMPTING_MODEL, MAX_QUESTION_COUNT)
@@ -253,15 +257,14 @@ def main():
                 lang_report["similarities"][word] = (exp, act)
             
             report_filename = PROMPTING_MODEL + "_" + label + ".json"
-            os.makedirs(report_folder, exist_ok=True)
-            with open(os.path.join(report_folder, report_filename), "w") as f:
+            with open(os.path.join(make_folder(report_folder), report_filename), "w") as f:
                 json.dump(lang_report, f, indent=4)
             
             lang_report.pop("similarities")
             full_report[language] = lang_report
     
     full_report_filename = PROMPTING_MODEL + "_full_report.json"
-    with open(os.path.join("output", time_of_run, full_report_filename), "w") as f:
+    with open(os.path.join(make_folder("output", time_of_run), full_report_filename), "w") as f:
         json.dump(lang_report, f, indent=4)
 
 if __name__ == "__main__":
