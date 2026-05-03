@@ -44,6 +44,7 @@ SCHEMA = {
     "required": ["predicted_gloss"],
     "additionalProperties": False
 }
+BLANK = "___"
 
 class Schema(BaseModel):
     gloss: str = Field(description="A single gloss element")
@@ -92,7 +93,7 @@ def collect_data(question_sets: dict, input_folder: str, report_folder: str, lan
         for question in raw_data:
             if "Question" not in question:
                 continue
-            prompts = mcq2frq(question, language, description, task, model, report_folder)
+            prompts = mcq2frq(question, description, task, model, report_folder)
             for ablation, value in prompts.items():
                 question_sets[ablation].append(value)
     if max_count:
@@ -120,7 +121,7 @@ def mcq2frq(question: str, description: str, task: str, model: str | None = None
     components = question.splitlines()
     question_number = components[0]
     sent            = components[2]
-    gloss           = components[3]
+    gloss_sent      = components[3]
     engl            = components[4]
     knpt            = components[5]
     a               = components[6]
@@ -130,9 +131,9 @@ def mcq2frq(question: str, description: str, task: str, model: str | None = None
     correct_letter  = components[11].split()[-1] 
 
     ablations = get_ablation_structure(
-        i='\n'.join([sent, gloss]),
-        ii='\n'.join([sent, gloss, knpt]),
-        iii='\n'.join([sent, gloss, engl, knpt])
+        i='\n'.join([sent, gloss_sent]),
+        ii='\n'.join([sent, gloss_sent, knpt]),
+        iii='\n'.join([sent, gloss_sent, engl, knpt])
     )
     
     original_word = None
@@ -146,7 +147,7 @@ def mcq2frq(question: str, description: str, task: str, model: str | None = None
     
     prompts = {}
     for ablation, info in ablations.items():
-        prompts[ablation] = '\n'.join([question_number, description, info, task]), original_word, original_gloss
+        prompts[ablation] = '\n'.join([question_number, description, info, task]), original_word, original_gloss, gloss_sent
 
         if model and folder:
             query_filename = f"{model}_{ablation}.txt"
@@ -189,7 +190,7 @@ async def prompt_and_compare(model_id: str, transformer: SentenceTransformer, se
 
         for data in dataset:
 
-            prompt, real_word, real_gloss = data
+            prompt, real_word, real_gloss, gloss_sent = data
 
             response: str = await send_prompt(
                 client=client, 
@@ -199,9 +200,11 @@ async def prompt_and_compare(model_id: str, transformer: SentenceTransformer, se
                 **kwargs
             )
 
+            gloss_sent: str
+
             sim = cosine_similarity(
-                transformer.encode(response).reshape(1, -1), 
-                transformer.encode(real_gloss).reshape(1, -1)
+                transformer.encode(gloss_sent.replace(BLANK, response)).reshape(1, -1), 
+                transformer.encode(gloss_sent.replace(BLANK, real_gloss)).reshape(1, -1)
             )[0][0]
             
             results.append((real_word, real_gloss.lower(), response.lower(), float(sim)))
